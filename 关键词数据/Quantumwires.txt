@@ -1,0 +1,262 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE Closed-loop control; control; dc-dc; digital control; multivariable;
+   power converter; voltage regulation; wired power transfer; wireless
+   power transfer (WPT)
+ID DESIGN CONSIDERATIONS; EFFICIENCY
+ER
+
+PT J
+DE Optimization; resonant converter; stationary charging; wireless power
+   transfer (WPT); zero voltage switching (ZVS)
+ID POWER TRANSFER SYSTEM; DESIGN CONSIDERATIONS; CONVERTER
+ER
+
+PT J
+DE Physical layer security; secrecy rate; potential eavesdropper; downlink;
+   opportunistic user scheduling; artificial noise transmission; power
+   allocation
+ID PHYSICAL LAYER SECURITY; OPTIMAL POWER ALLOCATION; MIMO WIRETAP
+   CHANNELS; LARGE SYSTEM-ANALYSIS; ARTIFICIAL-NOISE; BROADCAST CHANNELS;
+   CONFIDENTIAL MESSAGES; WIRELESS NETWORKS; SUM-RATE; TRANSMISSION
+ER
+
+PT J
+DE Free space optical communication (FSO); Optical communication; Passive
+   optical network (PON); On-off keying (OOK)
+ID FIBER-WIRELESS; TWDM-PON; SYSTEM; TRANSMISSION; MODULATION; IVLLC
+ER
+
+PT J
+DE Energy autonomous sensor system; Industry 4.0 (I4.0); Internet of things
+   (IoT); Kinetic energy harvesting; Wireless sensor node (WSN); Energy
+   harvester array
+ID WIRELESS SENSOR NETWORKS; WIND ENERGY; DESIGN; MEMS; VIBRATIONS;
+   FREQUENCY; GENERATOR; FABRICATION; RECTIFIER; RESONANCE
+ER
+
+PT J
+DE HTS machine; online monitoring; quench judgement; wireless
+ER
+
+PT J
+ID TIME-SERIES; WIRELESS; PROTOCOLS; NETWORKS
+ER
+
+PT J
+DE Energy consumption optimization; Green D2D communications; Video
+   encoding; Multimedia communications
+ID EFFICIENCY OPTIMIZATION; RESOURCE-ALLOCATION; MUTATION-RATES; CROSSOVER;
+   SYSTEMS
+ER
+
+PT J
+DE Rotating pot-core transformer; superconducting wireless power transfer;
+   transfer efficiency; transfer power
+ER
+
+PT J
+DE Superconducting metamaterials; wireless power transfer; transfer
+   efficiency
+ER
+
+PT J
+DE Coverage probability; distributed antenna system; energy harvesting;
+   Internet of Things (IoT) devices; wireless power transfer;
+   wireless-powered sensor networks
+ID ENERGY-TRANSFER; TRANSMISSION; INFORMATION; NETWORKS; DESIGN; SWIPT
+ER
+
+PT J
+DE energy-efficient; digital IC; wireless IC; wireless smart sensing
+ID STANDARD CELL LIBRARY; WILSON CURRENT MIRROR; ULTRA-LOW-VOLTAGE; LEVEL
+   SHIFTER; THRESHOLD OPERATION; SUBTHRESHOLD; TRANSCEIVER; ARCHITECTURE;
+   CIRCUITS; RECEIVER
+ER
+
+PT J
+DE Bit error rate; co-channel interference; ergodic capacity; wireless
+   power transfer
+ID NETWORKS
+ER
+
+PT J
+DE Markov decision process; mobile charging; sensor networks; wireless
+   power transfer
+ID HARVESTING COMMUNICATION-NETWORKS; INFORMATION
+ER
+
+PT B
+DE Industrial wireless sensor networks; sleep scheduling; wireless powered
+   communication networks
+ER
+
+PT S
+DE sigma-delta modulator; near infrared charging; wireless charing; IoT;
+   wireless power transfer
+ID TRANSFER SYSTEMS; TRACKING; CMOS
+ER
+
+PT S
+DE Wireless Power Transfer; Qi; Bluetooth; Power transmitter
+ER
+
+PT S
+DE Wireless Power Transfer; Buck Converter; Consumer Electronics; Inductive
+   Power Transfer; Maximum Power Transfer; Power Converter
+ER
+
+PT J
+DE wireless rechargeable sensor networks; minimum dominating set; charging
+   power
+ER
+
+PT B
+DE Wireless power transfer; leapfrogging; wireless power grid; developing
+   countries; ICT
+ER
+
+PT B
+DE Position gap; Wireless power transfer; Coupling coefficient; Resonance
+ER
+
+PT J
+DE Wireless charging; wireless power transfer; inductive coupling;
+   resonance coupling; RF/Microwave radiation; energy harvesting; Qi; PMA;
+   A4WP; simultaneous wireless information and power transfer (SWIPT);
+   energy beamforming; wireless powered communication network (WPCN);
+   Magnetic MIMO; Witricity
+ID RECHARGEABLE SENSOR NETWORKS; POWER TRANSFER SYSTEM; COUPLED MAGNETIC
+   RESONANCES; DOMINO-RESONATOR SYSTEMS; ENERGY-TRANSFER SYSTEM; BIOMEDICAL
+   IMPLANTS; SOLAR POWER; COMMUNICATION-NETWORKS; RESOURCE-ALLOCATION;
+   ELECTRIC VEHICLES
+ER
+
+PT B
+ER
+
+PT J
+DE Wireless power transmission; Rectenna; Metal-insulator-metal diode;
+   Geometric diode; Geometric asymmetry layout; Terahertz/Petahertz
+ID SPACE
+ER
+
+PT S
+DE Service Framework; Wireless Power Transfer
+ER
+
+PT S
+DE wireless power transfer; OTG; resonance; inductive coupling; Colpitts
+   oscillator; voltage regulator
+ER
+
+PT S
+DE wireless power; omni-directional; magnetic field vector; optimization of
+   efficiency
+ER
+
+PT S
+ER
+
+PT S
+DE Wireless power transmission; Electromagnetic induction; Electromagnetic
+   resonance; Short-range; Medium-range; Remote
+ER
+
+PT J
+ID BATTERY CHARGING PLATFORM
+ER
+
+PT J
+DE Inductive power; magnetic resonance; wireless power transfer
+ER
+
+PT J
+ID ANTENNA SYSTEMS
+ER
+
+PT B
+DE wireless power transfer; rectifier; amplifier; high efficiency;
+   time-reversal
+ER
+
+PT S
+ID TRANSMISSION; ENERGY
+ER
+
+PT S
+ER
+
+PT S
+DE Wireless sensor networks (WSN); B-MAC protocol; Energy consumption
+ER
+
+PT S
+DE Solar-energy; Wireless sensor network; Energy gathering
+ER
+
+PT B
+DE Wireless power transfer (WPT); Electric vehicle (EV); Wireless charging
+ER
+
+PT S
+DE wireless power transfer; microwave power transfer; sensor network
+ER
+
+PT B
+DE Wireless mesh networks; Multipath routing; Load balancing
+ER
+
+PT B
+DE wireless communication; wireless mesh networks; wireless sensor
+   networks; event detection
+ER
+
+PT J
+DE Consumer electronics; contactless charging; wireless power standard Qi;
+   wireless power transfer
+ID CONTACTLESS BATTERY CHARGER; COUPLED MAGNETIC RESONANCES; ENERGY
+   TRANSMISSION-SYSTEM; BOARD PCB TRANSFORMERS; GATE DRIVE CIRCUITS; POWER
+   TRANSFER; DESIGN; INDUCTANCE; PLATFORM; COILS
+ER
+
+PT J
+DE Broadband Wireless Forum (BWF); electromagnetic induction; magnetic
+   resonance; wireless power transfer (WPT); wireless power transmission
+ER
+
+PT J
+DE Far field; inductive coupling; magnetic field; near field; wireless
+   power transfer (WPT); wireless power transmission
+ID DESIGN
+ER
+
+PT S
+DE wireless power transfer; load monitoring; power control; magnetic
+   resonance
+ID COUPLED MAGNETIC RESONANCES; DOMINO-RESONATOR SYSTEMS
+ER
+
+PT B
+DE Wireless power transfer; transportation; railway
+ER
+
+PT B
+DE standard compliant; inductive power transfer; wireless power charger;
+   resonance coupling; battery charger
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT B
+DE Wireless Power Transfer; Resonant Frequency and Arduino Deumilanove
+   Microcontroller
+ID COUPLED MAGNETIC RESONANCES
+ER
+
+EF
