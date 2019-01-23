@@ -1,0 +1,681 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE nanotechnology; neuroscience; machine learning; artificial intelligence
+   (AI); brain machine interface (BMI); brain computer interface;
+   computational neuroscience
+ID COMPUTER INTERFACES; CHALLENGES; NEUROTECHNOLOGIES; ADAPTATION;
+   DELIVERY; FEEDBACK; DRUG
+ER
+
+PT J
+DE biomechatronics; exoskeleton; prosthesis; rehabilitation robot;
+   human-machine interface; brain-machine interface; electromyography;
+   electroencephalography
+ER
+
+PT J
+DE neuroprosthesis; implants; microcircuits; nootropics; tDCS-transcranial
+   direct current stimulation; TMS; Brain machine interface (BMI); neural
+   networks
+ER
+
+PT J
+DE Glossokinetic potential; Tongue machine interfaces; Assistive
+   technologies; Electroencephalography; Brain computer interfaces
+ID BRAIN-COMPUTER-INTERFACE; INFORMATION-TRANSFER; PATTERN-RECOGNITION; EEG
+   SIGNALS; MOVEMENT; CLASSIFICATION; COMMUNICATION; SYSTEMS; IMPACT
+ER
+
+PT J
+DE functional imaging; mind-machine interface; cognitive neuroimaging;
+   brain-computer interface
+ID BRAIN-COMPUTER INTERFACE; ELECTRICAL-IMPEDANCE TOMOGRAPHY;
+   POSITRON-EMISSION-TOMOGRAPHY; NEAR-INFRARED SPECTROSCOPY; PHOTOACOUSTIC
+   TOMOGRAPHY; MAGNETIC-RESONANCE; MOTOR-IMAGERY; FMRI; SIGNALS; EEG
+ER
+
+PT B
+DE modular continuous restricted Boltzmann machine; SSVEP; brain control
+   interface; decision fusion
+ER
+
+PT J
+DE neurotechnology and brain-machine interface; ethics; self; personhood;
+   deep brain stimulation
+ID DEEP BRAIN-STIMULATION; NEUROETHICS
+ER
+
+PT J
+DE brain machine interface; amyotrophic lateral sclerosis; communication
+ER
+
+PT J
+ER
+
+PT J
+DE brain-machine interfaces; plasticity; linear models; fixed decoder;
+   preferred direction
+ID BRAIN-MACHINE INTERFACES; PRIMATE MOTOR CORTEX; ARM MOVEMENTS; CELL
+   DISCHARGE; PLASTICITY; ADAPTATION; DIRECTION; SPACE
+ER
+
+PT J
+ID COMPUTER INTERFACES; NEUROPROSTHETIC CONTROL; MOTOR CORTEX; VOLITIONAL
+   CONTROL; CORTICAL CONTROL; NEURAL ACTIVITY; ADAPTATION; TASK;
+   REORGANIZATION; PLASTICITY
+ER
+
+PT J
+DE Biofeedback; brain-machine interface (BMI); decoding; local field
+   potentials (LFPs)
+ID SILICON MICROELECTRODE ARRAYS; BRAIN-MACHINE INTERFACES; PRIMARY MOTOR
+   CORTEX; MOVEMENT DIRECTION; CORTICAL ACTIVITY; VISUAL-CORTEX; PROSTHETIC
+   DEVICES; VOLUNTARY CONTROL; GRASP KINEMATICS; HAND MOVEMENTS
+ER
+
+PT J
+DE brain-computer interface; EEG; motor imagery; classifying; machine
+   learning; real time recognition
+ER
+
+PT J
+ID SPINAL-CORD-INJURY; AMYOTROPHIC-LATERAL-SCLEROSIS; RESTORING MOTOR
+   FUNCTION; COMPUTER INTERFACES; IN-VIVO; SOMATOSENSORY FEEDBACK; NEURAL
+   INTERFACES; SKELETAL-MUSCLE; STIMULATION; PROSTHESIS
+ER
+
+PT J
+ID POSTERIOR PARIETAL CORTEX; COMPUTER INTERFACES; MOTOR IMAGERY; EEG;
+   POTENTIALS; NEUROFEEDBACK; AUTISM; COMMUNICATION; ASSOCIATION; INTENTION
+ER
+
+PT J
+DE Brain-machine interfaces; Prosthetic models; Bionic experiments in
+   neuroscience; Robot-based simulation methodologies; Simulations;
+   Discovering mechanisms in neuroscience; Biorobotics; Artificial
+   Intelligence
+ID COMPUTER INTERFACES; HUMAN THINKING; SIMULATION; CIRCUITS; ROBOTICS;
+   PRIMATES; NEURONS; MODELS
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT S
+ID ATTENTION
+ER
+
+PT S
+ID BRAIN-COMPUTER INTERFACES; COORDINATION; CORTEX; ARM
+ER
+
+PT B
+DE Brain Machine Interface; Smart House; Data Analysis; Network Agent
+ER
+
+PT S
+DE Brain machine interface (BMI); bi-directional neural interface; in-vivo
+   experiment; system-on-chip (SoC)
+ID ARTIFACT SUPPRESSION; STIMULATION; PENNBMBI
+ER
+
+PT B
+DE Electroencephalogram; windowing; feature extraction; S-Transform;
+   machine learning techniques
+ID BRAIN-COMPUTER INTERFACE; ELECTROENCEPHALOGRAM SIGNALS;
+   PATTERN-RECOGNITION; NEURAL-NETWORK; EEG; COMMUNICATION
+ER
+
+PT J
+DE Brain Computer Interface; Extreme Learning Machine; Motor Imagery;
+   kernel
+ID FUNCTIONAL-LINK NET; CLASSIFICATION
+ER
+
+PT J
+DE Brain computer interface; motor imagery; extreme learning machine;
+   novice users
+ID BRAIN-COMPUTER INTERFACES; FUNCTIONAL-LINK NET; MOTOR IMAGERY;
+   CLASSIFICATION; EEG; ALGORITHMS
+ER
+
+PT J
+DE Brain-computer interface; Brain-machine interface; neuroprosthetics;
+   conference
+ID POSTERIOR PARIETAL CORTEX; SPINAL-CORD-INJURY; FUNCTIONAL
+   ELECTRICAL-STIMULATION; AUTISM SPECTRUM DISORDERS; CONTROLLED ROBOTIC
+   ARM; LOCKED-IN PATIENT; SINGLE-TRIAL EEG; HIGH-DENSITY EEG;
+   QUALITY-OF-LIFE; MACHINE INTERFACES
+ER
+
+PT J
+DE Brain-machine interfaces; electrophysiology; neural interfaces;
+   neurotechnology
+ID FLEXIBLE NEURAL PROBES; MU-W; HIGH-DENSITY; ELECTRODE ARRANGEMENTS;
+   MICROELECTRODE ARRAYS; MICROFLUIDIC CHANNELS; PARYLENE-C; PROSTHESES;
+   POLYIMIDE; IMPLANTS
+ER
+
+PT J
+ER
+
+PT J
+DE neurofeedback; operant conditioning; brain-machine interface; neural
+   plasticity
+ID COMPUTER INTERFACES; VOLITIONAL CONTROL; CORTICAL-NEURONS; CELL
+   ASSEMBLIES; MOTOR CORTEX; OSCILLATIONS; SYNCHRONY; COMMUNICATION;
+   PARALYSIS; BEHAVIOR
+ER
+
+PT J
+DE brain machine interface; smart house; data analysis; network agent
+ID NEAR-INFRARED SPECTROSCOPY; ENVIRONMENTS; HOME
+ER
+
+PT J
+ID VISION
+ER
+
+PT J
+DE endovascular; intraarterial; electroencephalography; epilepsy; deep
+   brain stimulation; brain-machine interface
+ID TEMPORAL-LOBE EPILEPSY; CAVERNOUS SINUS EEG; CENTRAL SLEEP-APNEA;
+   NERVE-STIMULATION; ELECTRODE; RECORDINGS; SYSTEM; FOCUS; ARRHYTHMIAS;
+   MANAGEMENT
+ER
+
+PT J
+ID SYSTEMS
+ER
+
+PT S
+DE Brain Dynamics; Neural Populations; Mass Action; Field Theory; Freeman K
+   Sets; John von Neumann; Brain-Machine Interface
+ID BACKGROUND EEG ACTIVITY; SCALP EEG; PATTERNS; PHASE; TRANSITIONS;
+   PERCEPTION; DYNAMICS; ORIGIN; ALPHA; MODEL
+ER
+
+PT S
+DE wire-electrode; microneedle; brain-machine interface
+ID ARRAY
+ER
+
+PT B
+DE Brain-machine interfaces (BMIs); Decoder; Winner filter; Kalman filter
+ID MOVEMENTS; NEURONS; ARM
+ER
+
+PT B
+DE brain computer interface; BCI; human machine interface; HMI; Arduino
+   board; Emotiv EPOC Neuroheadset
+ER
+
+PT J
+ID MUSCLES; MONKEY
+ER
+
+PT J
+DE EEG signals; Multimodal interface; Brain-Machine Interface;
+   Electrooculography interface
+ID EYE TRACKING; COMPUTER INTERFACE; WHEELCHAIR; EEG; BCI;
+   ELECTROENCEPHALOGRAM; NAVIGATION; EOG
+ER
+
+PT J
+DE brain-machine interfaces; neural modulations; optimal feedback control;
+   computational motor control; process noise
+ER
+
+PT J
+DE rehabilitation; enhancement; transhumanism; stem cell; engraftment;
+   brain machine; neuroprosthetics; Asimov
+ID TRANSCRANIAL MAGNETIC STIMULATION; MICE
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT B
+DE antenna; brain-machine-interface; implnatable device; ultra wideband
+ID ELECTRICAL-PROPERTIES; SKULL; BODY
+ER
+
+PT B
+DE BCI; P300; Familiar Face Paradigm; SVM; SVM Ensemble
+ID BRAIN-COMPUTER INTERFACES; COMMUNICATION
+ER
+
+PT S
+DE brain machine interface; Emotiv; BCI-2000; SSVEP; alpha waves; EMG;
+   Canoncial Correlation Analysis
+ID EEG; BCI
+ER
+
+PT S
+DE Brain-computer interface; the classification of the electro encephalo
+   gram; Common spatial patterns; Support vector machine; DIVA model
+ID SPEECH MOTOR CONTROL
+ER
+
+PT S
+DE Shared control; Brain-machine interfaces; Dynamic constraints
+ID EEG; NETWORKS
+ER
+
+PT J
+ER
+
+PT S
+DE EEG signal; Brain Computer Interface; BCI; Neuroscience; Support Vector
+   Machine; SVM; v-SVM
+ER
+
+PT B
+DE Brain Computer Interface; Fog Computing; Linked Data; Machine-to-Machine
+   Communication
+ER
+
+PT S
+DE Brain-computer interface; maximal a posterior; motor cortex; neural
+   decoding; support vector machine
+ID SUPPORT VECTOR MACHINES; BRAIN; INTERFACE; CORTEX; ARM; CLASSIFICATION;
+   TETRAPLEGIA; KINEMATICS; DIRECTION; ENSEMBLE
+ER
+
+PT S
+DE Brain-Computer Interface; RPG Game; EEG
+ID SINGLE-TRIAL EEG; CLASSIFICATION; MOVEMENT
+ER
+
+PT S
+DE Brain computer interface; quantum information processing; machine
+   learning; brain quantum-computer interface
+ID NEURAL-NETWORKS; COMMUNICATION; SIGNALS; REAL
+ER
+
+PT B
+DE specific absorption rate; wireless power link; brain-machine interface
+ER
+
+PT S
+DE brain machine interface; near infrared spectroscopy; optical coherence
+   tomography; Optical imaging; photoacoustic imaging
+ID NEAR-INFRARED SPECTROSCOPY; COHERENCE TOMOGRAPHY; MICROSCOPY
+ER
+
+PT J
+DE Brain computer interface; Brain machine interface; Neuroethics;
+   Bioethics; Electroencephalography; Neuromotor prosthesis; Autonomy;
+   Privacy
+ID OBSESSIVE-COMPULSIVE DISORDER; SUBTHALAMIC NUCLEUS; RETINAL PROSTHESIS;
+   STIMULATION; PRIVACY; IMPLANTS; CRITERIA; DISEASE; DEVICES; FUTURE
+ER
+
+PT J
+ID NONINVASIVE ELECTROENCEPHALOGRAPHIC SIGNALS; CHRONIC NEURAL INTERFACES;
+   LOCAL-FIELD POTENTIALS; CONTROLLED ROBOTIC ARM; PRIMARY MOTOR CORTEX;
+   TO-GRASP MOVEMENTS; COMPUTER INTERFACE; NEUROLOGICAL REHABILITATION;
+   NEURONAL ENSEMBLE; CORTICAL CONTROL
+ER
+
+PT J
+ER
+
+PT J
+DE Brain machine interface; Ethics; Public deliberation; Hypothetical
+   retrospection; Decision making under risk
+ID STIMULATION; NEUROETHICS
+ER
+
+PT J
+ER
+
+PT J
+DE Paralysis; Brain-Machine-Interface; Stroke
+ER
+
+PT J
+DE Brain Computer Interface; Brain Machine Interface; Motor Impairments
+ER
+
+PT J
+DE Event related potential (ERP); Brain computer interface (BCI); Adaptive
+   boosting; Support vector machine (SVM); Recursive feature elimination
+ID CANCER CLASSIFICATION; GENE SELECTION; P300 SPELLER; BCI
+ER
+
+PT J
+DE Neuro-prosthesis; Brain-machine interface; P-300; Deep brain stimulation
+ER
+
+PT J
+ID DEVICE; PLASTICITY; ARRAYS
+ER
+
+PT J
+ID TETRAPLEGIA; DEVICES
+ER
+
+PT B
+DE Brain machine interface (BMI); Gaming application; Wireless EEG headset;
+   Neuro signal
+ID COMPUTER INTERFACE
+ER
+
+PT J
+ER
+
+PT J
+DE Brain-computer interface; Psychophysiology; Human/machine interaction
+ER
+
+PT J
+DE Brain-machine interface; brain-computer interface; cybernetics;
+   man/machine interaction; neuroprosthetics
+ID NEAR-INFRARED SPECTROSCOPY; POSTERIOR PARIETAL CORTEX; PRIMATE MOTOR
+   CORTEX; FREE ARM MOVEMENTS; COGNITIVE NEURAL PROSTHETICS; LOCAL-FIELD
+   POTENTIALS; COMPUTER-INTERFACE; 3-DIMENSIONAL SPACE; CORTICAL CONTROL;
+   VISUAL TARGETS
+ER
+
+PT S
+DE Brain Machine Interfaces; Dynamic Neural Networks; Parseval theorem;
+   Band Power; Neural Networks
+ID COMPUTER INTERFACES; NEURAL-NETWORKS; COMMUNICATION; FEEDFORWARD;
+   RECOGNITION
+ER
+
+PT S
+ID PRIMATES; NEURONS
+ER
+
+PT J
+DE Brain-machine interface; neural decoding; real-time; prosthetic arm;
+   implantable device
+ER
+
+PT B
+DE Human-machine interface (HMI); Electroencephalogram(EEG); Receiver
+   operating characteristic (ROC); Mental arithmetic; Task difficulty
+ER
+
+PT J
+DE Associative plasticity; brain-machine interface (BMI); internal models;
+   motor learning; myoelectric control
+ID PRIMARY MOTOR CORTEX; DIRECT CORTICAL CONTROL; ARM MOVEMENTS; MACHINE
+   INTERFACE; ENSEMBLE RECORDINGS; MUSCULAR-ACTIVITY; UNIT-ACTIVITY;
+   MUSCLES; NEURONS; MODEL
+ER
+
+PT J
+ER
+
+PT J
+DE Brain-machine interface; kinematic synergies; neural prosthesis; virtual
+   reality
+ID COMPUTER-INTERFACE; MOTOR CORTEX; HAND; MOVEMENT; GRASP; REACH
+ER
+
+PT J
+DE brain-machine interface; implantable device; wireless; brain surface
+   electrodes; motor restoration
+ER
+
+PT J
+DE Brain/human-computer interaction; EEG; Intelligent brain signal
+   processing; EMD application to EEG; Interactive brain-computer
+   interfacing; Affective human/brain-computer interfacing paradigm
+ID SIGNAL
+ER
+
+PT J
+ER
+
+PT S
+DE brain-machine interface; brain-machine-brain interface; intracortical
+   microstimulation; bidirectional brain-machine interface; neuroprosthetic
+   feedback; artificial sensation; active touch; locomotion; functional
+   electrical stimulation; bimanual; multielectrode implant; primary motor
+   cortex; primary somatosensory cortex; exoskeleton; posture; balance
+ID BRAIN-MACHINE INTERFACES; SPINAL-CORD-INJURY; FUNCTIONAL
+   ELECTRICAL-STIMULATION; MOTOR CORTICAL AREAS; NEURAL ACTIVITY;
+   SOMATOSENSORY CORTEX; VISION SUBSTITUTION; COMPUTER INTERFACES; MACAQUE
+   MONKEYS; OPTICAL CONTROL
+ER
+
+PT S
+DE In vivo neurophysiology; Brain Machine Interface; Neural interface;
+   Tissue engineering; Deep Brain Stimulation; Chronic recordings;
+   Multichannel electrodes; Pain; Biocompatibility
+ID BRAIN-MACHINE INTERFACE; MICROELECTRODE ARRAYS; CEREBRAL-CORTEX; CONE
+   ELECTRODE; SILICON; TISSUE; SYSTEM
+ER
+
+PT S
+DE Brain-machine interface; Event-related potential; P300 speller
+ER
+
+PT S
+ID COMPUTER-INTERFACE; CORTICAL CONTROL; SIGNALS; DEVICES; HUMANS
+ER
+
+PT S
+ID MOVEMENT; CORTEX
+ER
+
+PT B
+DE Brain Reading; spatial filter; model transfer
+ID COMPUTER INTERFACES; COMMUNICATION
+ER
+
+PT B
+ER
+
+PT J
+DE Brain-machine interface; Neuroprosthetic; Primate; Bipedal locomotion;
+   Intracortical microstimulation; Sensory substitution
+ID SPINAL-CORD-INJURY; FUNCTIONAL ELECTRICAL-STIMULATION; MOTOR CORTICAL
+   AREAS; OF-THE-ART; NEURAL ACTIVITY; MULTIELECTRODE RECORDINGS; VISION
+   SUBSTITUTION; COMPUTER INTERFACES; MACAQUE MONKEYS; OPTICAL CONTROL
+ER
+
+PT J
+ID COMPUTER INTERFACES; CORTICAL-NEURONS; MOVEMENT; ARM
+ER
+
+PT J
+ID NEAR-INFRARED SPECTROSCOPY; REAL-TIME FMRI;
+   AMYOTROPHIC-LATERAL-SCLEROSIS; RESONANCE-IMAGING FMRI; HUMAN
+   VISUAL-CORTEX; FUNCTIONAL MRI; MOTOR IMAGERY; AUDITORY AREAS; EEG; BCI
+ER
+
+PT J
+DE BMI; BCI; Augmented reality; Human body
+ID COMPUTER INTERFACE; MOVEMENT; NEURONS; CORTEX
+ER
+
+PT S
+DE Brain-Machine Interface; Signal processing; Electroencephalogram;
+   Saccadic eye movement; Neurophysiological recording
+ER
+
+PT S
+ER
+
+PT J
+ER
+
+PT J
+ID BRAIN-COMPUTER-INTERFACE; CURSOR CONTROL; EEG; NETWORKS; COMMUNICATION
+ER
+
+PT J
+ID PRIMARY MOTOR CORTEX; SIMULTANEOUSLY RECORDED NEURONS; COOPERATIVE
+   FIRING ACTIVITY; REAL-TIME CONTROL; COMPUTER INTERFACES; VISUAL-CORTEX;
+   SINGLE-NEURON; UNIT-ACTIVITY; CORTICAL ENSEMBLES; PARIETAL CORTEX
+ER
+
+PT J
+ID TREATMENT-RESISTANT DEPRESSION; STIMULATION; DEVICES; GYRUS
+ER
+
+PT S
+ID PERFORMANCE; GRAVITY
+ER
+
+PT S
+DE Brain-Machine Interfaces; Motor learning; Directional tuning
+ID CORTICAL CONTROL; TETRAPLEGIA; NETWORKS; DEVICES; CORTEX; ARM
+ER
+
+PT S
+DE Brain-machine interface; co-adaptive; symbiotic; perception-action cycle
+ID CORTICAL CONTROL; MOTOR CORTEX; NEUROPROSTHETIC DEVICES; SIGNAL;
+   PREDICTION; ENSEMBLES; DIRECTION; ROBOTICS; NEURONS; SYSTEMS
+ER
+
+PT B
+DE component; Brain computer interface; Independent component analysis;
+   Artifact; support vector machine (SVM) and Artificial neural networks
+   (ANN)
+ER
+
+PT S
+ER
+
+PT J
+DE Cyborg; mutual adaptation; prosthetics; power assist; brain-machine
+   interface
+ER
+
+PT B
+DE Brain-Machine Interface; Electroencephalogram; Neurophysiological
+   recording; Signal processing; Event-related synchronization;
+   Event-related desynchronization
+ER
+
+PT S
+ID PATTERN-RECOGNITION; PROSTHESIS CONTROL; EYE-MOVEMENT; SURFACE EMG;
+   SEARCH COIL; SYSTEM; INPUT
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ID EEG
+ER
+
+PT S
+ID COMPUTER INTERFACES; CORTICAL CONTROL; MOTOR CORTEX; MOVEMENT;
+   TETRAPLEGIA; DEVICES; OUTPUT
+ER
+
+PT B
+ID ENSEMBLE ACTIVITY; INTERNAL-MODELS; PRIMATES; DIRECTION
+ER
+
+PT B
+DE BMI; EEG Rhythm; Neural Networks; Wheelchair control
+ID COMMUNICATION
+ER
+
+PT B
+DE brain-computer interface; relative wavelet energy; support vector
+   machine; linear discriminant analysis
+ID BCI; WORKSHOP; COMPETITION; TECHNOLOGY
+ER
+
+PT J
+ID MOTORIZED MICRODRIVE; COMPUTER INTERFACES; RECORDINGS; ELECTRODES;
+   SYSTEM; TISSUE; CORTEX; ARRAY
+ER
+
+PT J
+DE brain-computer interface; brain-machine interface; invasive BCI;
+   non-invasive BCI; brain's activity signals
+ID RECOGNITION
+ER
+
+PT S
+DE EEG; brain machine interfaces; rehabilitation robots; bio-robotics
+ER
+
+PT S
+ID BOOSTING BIT RATES; COMMUNICATION; MULTICLASS; ALGORITHMS
+ER
+
+PT J
+DE brain interface; brain-computer interface; brain-machine interface;
+   direct brain interface; BI; BCI; BMI; DBI; brain interface comparison;
+   taxonomy; models; framework
+ID COMPUTER-INTERFACE; SYSTEM; POTENTIALS
+ER
+
+PT J
+ID BRAIN-COMPUTER INTERFACE; MENTAL PROSTHESIS
+ER
+
+PT B
+DE brain machine interface; support vector machine; cortical control;
+   neuroprosthesis
+ER
+
+PT B
+DE neuroprosthetics; kinematics; brain-machine interface; biomechanics
+ID DIRECT CORTICAL CONTROL; NEURONS; CORTEX; ROBOT
+ER
+
+PT S
+ER
+
+PT J
+DE electroencephalography; receptors, sensory; rehabilitation; stroke
+ID REAL-TIME CONTROL; FUNCTIONAL ELECTRICAL-STIMULATION; CORTICAL CONTROL;
+   NEUROPROSTHETIC DEVICES; NEURONAL ENSEMBLES; ARTIFICIAL VISION; CONE
+   ELECTRODE; MOTOR CORTEX; HAND GRASP; EEG
+ER
+
+PT S
+ID SINGLE-TRIAL EEG; MOVEMENT; DESYNCHRONIZATION
+ER
+
+PT S
+DE neural prosthesis; microdevices; brain machine interface; neuroscience;
+   neural patterning; microelectrodes
+ID PT-TIP MICROELECTRODES; ELECTRICAL-STIMULATION; CULTURE; RETINA;
+   MICROFABRICATION; NEURONS; ARRAYS; SLICES
+ER
+
+PT S
+DE Brain Machine Interface; BMI; neural control; population coding;
+   recurrent neural network; neural ensemble; motor control
+ID NEURONS
+ER
+
+PT S
+DE brain machine interfaces; linear; nonlinear
+ER
+
+PT S
+DE EMG; brain machine interface
+ID SIGNALS; TORQUE
+ER
+
+PT S
+DE neuroprosthetics; microelectrode arrays; brain-machine interface;
+   intracortical microstimulation; auditory cortex; operant conditioning
+ID INTRACORTICAL MICROSTIMULATION; AUDITORY-CORTEX; NEURONS
+ER
+
+EF

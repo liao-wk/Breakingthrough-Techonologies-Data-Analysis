@@ -1,0 +1,627 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE Access control; Biometric; Digital rights management; Mobile device user
+   authentication; User anonymity
+ID RIGHTS MANAGEMENT-SYSTEM; SECURE
+ER
+
+PT J
+DE Business; Challenges; China; Copyright; Digital Rights Management; DRM;
+   Intellectual Property Rights; Law; Opportunities; Technology
+ER
+
+PT B
+DE digital rights management; post-quantum ctyptography; multivariate
+   quadratic polynomial systems; identi ication schemes
+ID IDENTIFICATION
+ER
+
+PT B
+DE network media; copyright; smart contract; blockchain
+ER
+
+PT B
+DE security; protection; usage; rights; enterprise
+ER
+
+PT S
+DE digital rights management; peer-to-peer streaming; security
+ER
+
+PT J
+DE User-generated content; License; Rights; Ontology; RDF/OWL
+ER
+
+PT S
+DE component; multimedia; digital right management; usage control;
+   copyright protection
+ER
+
+PT B
+DE Digital rights management; privacy-preserving; Authentication
+ER
+
+PT J
+DE Multimedia; Security; Digital Rights Management; Smart Mobile; Rights
+   Sharing
+ER
+
+PT J
+ID FAIR-USE; DRM; PRIVACY; LAW
+ER
+
+PT B
+DE MDRM; Mobile Digital Right Management; ROAP; Mobile Security; Data
+   Protection; OMA DRM
+ER
+
+PT B
+DE blockchain; content delivery; DRM(Digital Rights Management)
+ER
+
+PT S
+DE digital rights management; information dispersal algorithm; secure
+   storage; information security
+ER
+
+PT B
+DE Digital Rights Management; Semantic Web; Broadcasting; Intellectual
+   Property
+ID WEB; REVOLUTION
+ER
+
+PT J
+ER
+
+PT B
+DE Digital rights management; Information security; Video encryption;
+   Digital watermarking; Authorization certification
+ER
+
+PT J
+DE Peer-to-Peer networks; Digital rights management; Copyright; Information
+   security
+ER
+
+PT J
+DE copyright office; intellectual property; copyrights; Internet; digital
+   rights management
+ER
+
+PT J
+DE content management; copyright; cryptography; Internet; smart cards;
+   digital rights management; digital rights management authentication
+   scheme; smart card design; Internet; intellectual property violation;
+   copyright-protected content; digital content encryption; DRM
+   authentication scheme; unauthorised copying; content distribution
+   control; session key exchange; mutual authentication; insider attack;
+   stolen smart card attack
+ER
+
+PT B
+DE Digital Rights Management(DRM); PKCS#12; security protocol; license
+ER
+
+PT S
+DE DRM; License; Multimedia Courseware; Network Learning
+ER
+
+PT S
+DE information consumption; digital content; digital right management
+ID MARKET
+ER
+
+PT B
+DE DRM; Intellectual Property; Streaming Media
+ER
+
+PT B
+DE digital; rights; management; e-book; piracy
+ER
+
+PT J
+DE Digital rights management; live streaming; network digital video
+   recorder; peer-to-peer network; privacy protection
+ER
+
+PT J
+DE Accountability; blind decryption; digital rights management (DRM); hash
+   chain; privacy
+ID E-CASH; AUTHENTICATION
+ER
+
+PT J
+DE Digital Rights Management (DRM); rootkit; operating systems; system
+   security
+ER
+
+PT S
+DE digital content industry; digital content providers; digital
+   watermarking; digital rights management; community website
+ER
+
+PT B
+DE Digital Rights Management (DRM); rights adaptation; rights exporting;
+   DRM interoperability
+ER
+
+PT B
+DE Digital Rights Management; Privacy Policies Management; Application
+   Scenarios
+ER
+
+PT S
+DE Digital Rights Management (DRM); rights exporting; DRM interoperability
+ER
+
+PT B
+DE Digital rights management; Privacy; Accountability; Copyright
+ID FACILITY LOCATION; DIGITAL RIGHTS
+ER
+
+PT J
+DE anonimity; DRM (digital rights management); identity management;
+   privacy; security
+ID FEDERATED IDENTITY MANAGEMENT
+ER
+
+PT J
+DE Middleware; DRM; Content management; MPEG-21
+ER
+
+PT J
+DE Open systems; Rights management; Broker; Middleware; Security
+ER
+
+PT S
+DE simulation management platform; MSC.SimManager; digital engine;
+   simulation data; simulation process
+ER
+
+PT S
+DE watermarking; digital information; Information security; watermarking
+   detection
+ER
+
+PT S
+DE agent; digital watermark; Copyright Protecting
+ER
+
+PT S
+DE DRIM; Streaming Media; Digital Rights Management
+ER
+
+PT S
+DE DRM; live broadcast; P2P; privacy protection
+ER
+
+PT J
+DE Digital Rights Management; DRM architectural framework; DRM functional
+   description; DRM key concepts
+ID DIGITAL RIGHTS MANAGEMENT
+ER
+
+PT J
+DE Intellectual property; Author rights; Digital rights management; DRM;
+   Licensing; Collective management; Creative commons
+ER
+
+PT J
+ER
+
+PT J
+DE Authorized domain; Digital rights management; Home network; Proxy
+   certificate; Right delegation
+ER
+
+PT J
+DE 3G; Digital rights management; Fairness; Identity management; Low
+   computation cost; Security
+ER
+
+PT J
+DE Digital interface; Digital rights management; Content protection;
+   Digital cinema
+ID CONTENT PROTECTION; SYSTEM
+ER
+
+PT J
+ID UNIVERSAL MULTIMEDIA ACCESS
+ER
+
+PT B
+DE digital rights management; digital licensing; threshold based
+   group-oriented nominative proxy signature scheme
+ER
+
+PT B
+DE Digital Rights Management (DRM); rights model; rights decomposition
+ER
+
+PT B
+DE DRM; Streaming Media; Digital Rights Management
+ER
+
+PT J
+DE Digital rights management; risk management; fuzzy risk assessment;
+   security policy; trusted computing; qualitative and quantitative
+   analysis
+ID DRM; SYSTEMS
+ER
+
+PT B
+DE role-based access control; digital rights management system; context
+ER
+
+PT J
+ER
+
+PT J
+DE Design for test (DFT); digital rights management (DRM); intellectual
+   property (IP) identification (ID); system on a chip (SoC); very large
+   scale integration (VLSI) design; watermarking
+ID VLSI DESIGNS; WATERMARKING; LEVEL
+ER
+
+PT B
+DE Digital Rights Management; Rights Expression Language; Digital library
+ER
+
+PT B
+DE Mobile Digital Rights Systems; OMA-Rights Expression Language; CafeOBJ
+ID LOGIC
+ER
+
+PT B
+ER
+
+PT B
+DE right expression language; digital rights management; XrML; license
+ER
+
+PT B
+DE Digital Rights Management; DRM; Digital Rights Conversion;
+   Identity-based Encryption
+ER
+
+PT J
+DE Librarians; Copyright law; Digital rights management
+ER
+
+PT B
+DE Digital Rights Management; P2P; Bit-Torrent; Copyright; Security
+ER
+
+PT J
+DE E-commerce; Rights issues; Intellectual property management;
+   Intellectual property
+ER
+
+PT S
+DE digital rights management; security; digital watermarking; multimedia
+   content protection
+ER
+
+PT B
+DE zero-watermark; singular value decomposition (SVD); copyright
+   protection; digital right management (DRM)
+ER
+
+PT J
+DE Right issues; Intellectual property law; Digital libraries
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT B
+DE Digital Rights Management Systems; Digital Signature; Encryption
+   Algorithm; File Owner; File Structure; License Management; Moral Right;
+   Protection Technical Protection Measure
+ER
+
+PT B
+ER
+
+PT B
+DE Digital Rights Management; Access Control; TR-EDRM; TR-Rs-BAC DRM
+ER
+
+PT B
+DE D-Cinema; DRM; smart card; application model; security protocol
+ER
+
+PT B
+DE digital content; smart card; digital rights management
+ER
+
+PT B
+ID DRM; LAW
+ER
+
+PT J
+DE Intellectual property; Right issues
+ER
+
+PT B
+DE Digital Right Management; Courseware; Remote Education; Encryption;
+   License
+ER
+
+PT B
+DE TRIZ; TIPS; Innovation; DRM; Event driven DRM
+ER
+
+PT B
+DE Digital Rights Management; Fair Use; Portable; Virtual Software Token
+ER
+
+PT B
+ER
+
+PT J
+DE Intellectual property law; Libraries
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT J
+DE digital rights management (DRM); IPMP; MPEG; security; interoperability
+ER
+
+PT J
+DE information systems; content management systems; CMS; web content
+   management systems; WCMS; enterprise content management; ECM
+ER
+
+PT J
+DE DRM; piracy; copy protection; ACSS; entertainment
+ER
+
+PT B
+ID TRACE
+ER
+
+PT B
+DE Administration; Digital Right Management; E-government; Licence Language
+ER
+
+PT S
+DE intellectual property rights; fair use; digital rights management
+ER
+
+PT B
+ER
+
+PT B
+DE Digital rights management; MPEG-21 IPMP; MPEG REL; implementation
+ID DIGITAL RIGHTS MANAGEMENT
+ER
+
+PT J
+DE electronic media; newspapers; archives management
+ER
+
+PT S
+DE Peer-to-Peer (P2P); Digital Rights Management (DRM); Public Key
+   Infrastructure (PKI); identity authentication; digital watermarking
+ER
+
+PT B
+ER
+
+PT J
+DE integrated information system; copyright protection; digital rights
+   management; watermarking; e-commerce applications; usable user
+   interfaces; web services; metadata; licensing
+ER
+
+PT B
+DE intellectual property; digital rights; risk management; structure
+ER
+
+PT B
+DE license; DRM; Security; rights expression language; content encryption
+   key
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ID TRUST
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT J
+ER
+
+PT S
+DE Digital Rights Management system (DRM); Rights Expression Language
+   (REL); copyright; legal ontologies; Creative Commons metadata
+ER
+
+PT S
+DE DRM client; MMS; home networking; push to view
+ER
+
+PT B
+DE digital watermark; digital rights management and mobile network
+ER
+
+PT J
+DE authorization; digital rights management; protection; rights; trust
+   management
+ER
+
+PT J
+DE digital rights management (DRM); key management; content protection
+ER
+
+PT S
+ER
+
+PT S
+ID DIGITAL RIGHTS; MANAGEMENT
+ER
+
+PT B
+ER
+
+PT S
+DE digital rights management; content protection; technical protection
+   measures; security
+ER
+
+PT S
+ER
+
+PT B
+DE digital watermark; WDRM; self-determination of charge; anonymous
+   consumption
+ER
+
+PT B
+ER
+
+PT B
+DE digital watermarking; piracy; digital rights management; watermarking
+   body; DRM model
+ER
+
+PT B
+DE DRM; content protection
+ER
+
+PT S
+DE digital rights management; content portability; license transfer
+ER
+
+PT B
+ER
+
+PT B
+DE intellectual property; digital rights management; encryption;
+   watermarking; security
+ID COPY PROTECTION; WATERMARKING; VIDEO; MULTIMEDIA; MANAGEMENT; IMAGES;
+   SYSTEM
+ER
+
+PT S
+DE digital rights management; license management protocol; privacy
+   protection; ECDH
+ER
+
+PT J
+DE digital rights management (DRM); piracy; peer-to-peer (P2P); copyright;
+   encryption; watermarking; rights language
+ID MUSIC
+ER
+
+PT J
+DE rights management; digital watermarking; copyright protection;
+   intellectual property protection; electronic commerce
+ID WATERMARKING
+ER
+
+PT J
+DE digital rights; management encryption; digital watermarks; rights
+   expression languages; media company
+ID MUSIC
+ER
+
+PT J
+DE digital rights management; learning objects; open digital rights
+   language; rights-based trading
+ER
+
+PT J
+DE digital media distribution; digital rights management (DRM); standards;
+   trusted computing; Web services
+ER
+
+PT B
+DE agent; digital audiovisual content; DRM; EPLE
+ER
+
+PT B
+DE psychoacoustic audio watermarking; Digital Rights Management (DRM);
+   Intellectual Properties Management and Protection (IPMP)
+ER
+
+PT B
+ER
+
+PT S
+ID WATERMARKING
+ER
+
+PT J
+DE assets management; electronic document delivery
+ER
+
+PT J
+ER
+
+PT J
+DE digital rights management; digital watermarking; Internet Open Trading
+   Protocol; copyright protection; intellectual property protection;
+   electronic commerce
+ER
+
+PT B
+DE copyright protection system; digital rights management system; digital
+   images management; watermarking; cultural web portal; metadata; GUI
+ER
+
+PT B
+DE DRM; digital rights management; intellectual property; MPEG 21;
+   ISMACrypt
+ER
+
+PT B
+ER
+
+PT S
+DE digital cinema; digital rights language; XrML; ODRL; CDRL; digital
+   rights management; DRM
+ER
+
+PT J
+DE DRM (digital rights management); superdistribution; usage control;
+   digital content encryption
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT B
+DE digital watermarking; digital rights management
+ID WATERMARKING
+ER
+
+PT B
+DE e-commerce; metadata; watermark; image bank; image format; digital
+   rights management
+ER
+
+EF
