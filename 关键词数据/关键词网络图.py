@@ -4,26 +4,34 @@
 import json, os
 import networkx as nx
 import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
 
 MG = nx.MultiGraph()
 plt.figure(figsize=(25, 25))
 os.chdir("F:\\大道之君\\Breakingthrough-Techonologies-Data-Analysis\\关键词数据\\关键词Data")
 file = open("Quantumwires.json")
+line_num = 0  # 设置初始行号为0
 for line in file:
-    Keywords = eval(line)  # 关键词列表的列表
-    # keyword = ['wireless power transfer','wireless','Physical layer security']
-    for keyword in Keywords:
-        # edge_list=[['wireless power transfer','wireless',]）,['wireless power transfer','Physical layer security',1]]
-        edge_list = []
-        # list(range(len(keyword)))=[0,...,len(keyword)-1]
-        for word_num in list(range(len(keyword))):
-            # word_number=[word_num+1,...,len(keyword)-1]
-            for word_number in list(range(word_num+1, len(keyword))):
-                # word_edge = ['wireless power transfer','wireless',]
-                word_edge = list([keyword[word_num], keyword[word_number], 1])
-                edge_list.append(word_edge)
-        MG.add_weighted_edges_from(edge_list)  # 每循环一次添加一个全连接的关键词网络
-    break
+    if line_num == 0:
+        line_num += 1
+        Keywords = eval(line)  # 关键词列表的列表
+        # keyword = ['wireless power transfer','wireless','Physical layer security']
+        for keyword in Keywords:
+            # edge_list=[['wireless power transfer','wireless',]）,\
+            # ['wireless power transfer','Physical layer security',1]]
+            edge_list = []
+            # list(range(len(keyword)))=[0,...,len(keyword)-1]
+            for word_num in list(range(len(keyword))):
+                # word_number=[word_num+1,...,len(keyword)-1]
+                for word_number in list(range(word_num+1, len(keyword))):
+                    # word_edge = ['wireless power transfer','wireless',]
+                    word_edge = list([keyword[word_num], keyword[word_number], 1])
+                    edge_list.append(word_edge)
+            MG.add_weighted_edges_from(edge_list)  # 每循环一次添加一个全连接的关键词网络
+    elif line_num == 1:
+        Keywords_freq = eval(line)
+        break
 file.close()
 de = dict(MG.degree()) # MG节点度 de={'closed-loop control': 4}
 de2 = [de[v]*8 for v in de.keys()]  # 节点的度构成的列表，节点的顺序不变。
@@ -40,11 +48,22 @@ pos = nx.spring_layout(MG)
 nx.draw_networkx_labels(MG, pos, labels=dd, font_size=10)
 # 按度的大小标记节点的大小
 nx.draw_networkx(MG, pos, with_labels=False, font_size=12, node_size=de2)
-# 储存MultiGraph的度
-# filename = 'Quantumwires.json'
-# with open(filename, 'a') as f_obj:
-#     f_obj.write('\n')
-#     json.dump(labels_sort, f_obj)
+
+#  储存MultiGraph的度
+filename = 'Quantumwires.json'
+with open(filename, 'a') as f_obj:
+    f_obj.write('\n')
+    json.dump(labels_sort, f_obj)
+
+#  横向合并Keywords_freq和labels_sort列表，导入到csv文档中，输出前10行。
+df1 = pd.DataFrame(np.array(Keywords_freq), columns=["Keyword_1", "frequency"])
+df2 = pd.DataFrame(np.array(labels_sort), columns=["Keyword_2", "degreee"])
+df = pd.concat([df1, df2], axis=1)
+print(df.loc[0:6])
+
+# 导入到csv文件中
+df.to_csv("Quantumwires_Keywords.csv")
+# 输出网络图
 plt.savefig('Quantumwires.jpg')
 plt.savefig('Quantumwires.pdf')
 plt.show()
