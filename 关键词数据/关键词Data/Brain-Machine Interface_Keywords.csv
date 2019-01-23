@@ -1,0 +1,215 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,brain-machine interface,20,brain-machine interface,48
+1,brain machine interface,13,brain machine interface,33
+2,brain-computer interface,10,brain computer interface,23
+3,brain computer interface,9,brain-computer interface,22
+4,brain-machine interfaces,7,brain-machine interfaces,15
+5,eeg,4,bci,15
+6,bci,4,eeg,11
+7,neuroscience,3,neuroscience,10
+8,arrays,3,bmi,9
+9,motor imagery,3,motor imagery,8
+10,electroencephalogram,3,ssvep,7
+11,neuroprosthetics,3,arrays,7
+12,brain machine interfaces,3,electroencephalogram,7
+13,bmi,3,neuroprosthetics,7
+14,ssvep,2,electroencephalography,7
+15,ethics,2,rehabilitation,7
+16,brain-machine interface (bmi),2,brain machine interfaces,7
+17,machine,2,ethics,6
+18,smart house,2,machine,6
+19,data analysis,2,smart house,6
+20,network agent,2,data analysis,6
+21,brain machine interface (bmi),2,network agent,6
+22,extreme learning machine,2,neural,6
+23,neural,2,emg,6
+24,electroencephalography,2,support vector,6
+25,rehabilitation,2,neural prosthesis,6
+26,brain-machine-interface,2,brain-machine interface (bmi),5
+27,emg,2,brain-machine-interface,5
+28,support vector,2,emotiv,5
+29,stroke,2,bci-2000,5
+30,neural prosthesis,2,alpha waves,5
+31,nanotechnology,1,stroke,5
+32,machine learning,1,neuroprosthesis,4
+33,artificial intelligence,1,implants,4
+34,biomechatronics,1,microcircuits,4
+35,exoskeleton,1,nootropics,4
+36,prosthesis,1,tdcs-transcranial,4
+37,rehabilitation robot,1,classifying,4
+38,neuroprosthesis,1,brain machine interface (bmi),4
+39,implants,1,extreme learning machine,4
+40,microcircuits,1,endovascular,4
+41,nootropics,1,intraarterial,4
+42,tdcs-transcranial,1,epilepsy,4
+43,glossokinetic potential,1,deep,4
+44,tongue machine interfaces,1,brain dynamics,4
+45,assistive,1,neural populations,4
+46,functional imaging,1,mass action,4
+47,mind-machine interface,1,field theory,4
+48,cognitive neuroimaging,1,freeman k,4
+49,modular continuous restricted boltzmann machine,1,human machine interface,4
+50,brain control,1,hmi,4
+51,neurotechnology and brain-machine interface,1,arduino,4
+52,self,1,enhancement,4
+53,personhood,1,transhumanism,4
+54,amyotrophic lateral sclerosis,1,stem cell,4
+55,communication,1,engraftment,4
+56,plasticity,1,p300,4
+57,linear models,1,familiar face paradigm,4
+58,fixed decoder,1,svm,4
+59,biofeedback,1,svm ensemble,4
+60,decoding,1,eeg signal,4
+61,local field,1,cyborg,4
+62,primary motor,1,mutual adaptation,4
+63,classifying,1,prosthetics,4
+64,prosthetic models,1,power assist,4
+65,bionic experiments in,1,brain-machine,4
+66,bi-directional neural interface,1,nanotechnology,3
+67,in-vivo,1,machine learning,3
+68,windowing,1,artificial intelligence,3
+69,feature extraction,1,biomechatronics,3
+70,s-transform,1,exoskeleton,3
+71,electrophysiology,1,prosthesis,3
+72,neural interfaces,1,rehabilitation robot,3
+73,arrangements,1,neurotechnology and brain-machine interface,3
+74,microfluidic channels,1,self,3
+75,parylene-c,1,personhood,3
+76,prostheses,1,plasticity,3
+77,neurofeedback,1,linear models,3
+78,operant conditioning,1,fixed decoder,3
+79,endovascular,1,biofeedback,3
+80,intraarterial,1,decoding,3
+81,epilepsy,1,local field,3
+82,deep,1,windowing,3
+83,brain dynamics,1,feature extraction,3
+84,neural populations,1,s-transform,3
+85,mass action,1,microfluidic channels,3
+86,field theory,1,parylene-c,3
+87,freeman k,1,prostheses,3
+88,wire-electrode,1,neurofeedback,3
+89,microneedle,1,operant conditioning,3
+90,brain-machine interfaces (bmis),1,brain-machine interfaces (bmis),3
+91,decoder,1,decoder,3
+92,winner filter,1,winner filter,3
+93,kalman filter,1,kalman filter,3
+94,human machine interface,1,antenna,3
+95,hmi,1,implnatable device,3
+96,arduino,1,ultra wideband,3
+97,eeg signals,1,fog computing,3
+98,multimodal interface,1,linked data,3
+99,neural modulations,1,machine-to-machine,3
+100,optimal feedback control,1,maximal a posterior,3
+101,enhancement,1,motor cortex,3
+102,transhumanism,1,public deliberation,3
+103,stem cell,1,hypothetical,3
+104,engraftment,1,neuro-prosthesis,3
+105,antenna,1,p-300,3
+106,implnatable device,1,deep brain stimulation,3
+107,ultra wideband,1,neural decoding,3
+108,p300,1,real-time,3
+109,familiar face paradigm,1,prosthetic arm,3
+110,svm,1,kinematic synergies,3
+111,svm ensemble,1,virtual,3
+112,emotiv,1,implantable device,3
+113,bci-2000,1,wireless,3
+114,alpha waves,1,brain surface,3
+115,the classification of the electro encephalo,1,neuroprosthetic,3
+116,shared control,1,primate,3
+117,dynamic constraints,1,bipedal locomotion,3
+118,eeg signal,1,augmented reality,3
+119,fog computing,1,human body,3
+120,linked data,1,co-adaptive,3
+121,machine-to-machine,1,symbiotic,3
+122,maximal a posterior,1,perception-action cycle,3
+123,motor cortex,1,eeg rhythm,3
+124,rpg game,1,neural networks,3
+125,quantum information processing,1,wheelchair control,3
+126,specific absorption rate,1,rehabilitation robots,3
+127,wireless power link,1,bio-robotics,3
+128,near infrared spectroscopy,1,kinematics,3
+129,optical coherence,1,biomechanics,3
+130,neuroethics,1,"receptors, sensory",3
+131,public deliberation,1,microdevices,3
+132,hypothetical,1,neural control,3
+133,paralysis,1,population coding,3
+134,motor impairments,1,glossokinetic potential,2
+135,event related potential (erp),1,tongue machine interfaces,2
+136,brain computer interface (bci),1,assistive,2
+137,adaptive,1,functional imaging,2
+138,neuro-prosthesis,1,mind-machine interface,2
+139,p-300,1,cognitive neuroimaging,2
+140,deep brain stimulation,1,modular continuous restricted boltzmann machine,2
+141,gaming application,1,brain control,2
+142,wireless eeg headset,1,amyotrophic lateral sclerosis,2
+143,psychophysiology,1,communication,2
+144,human/machine interaction,1,primary motor,2
+145,cybernetics,1,prosthetic models,2
+146,dynamic neural networks,1,bionic experiments in,2
+147,parseval theorem,1,bi-directional neural interface,2
+148,neural decoding,1,in-vivo,2
+149,real-time,1,electrophysiology,2
+150,prosthetic arm,1,neural interfaces,2
+151,human-machine interface (hmi),1,wire-electrode,2
+152,electroencephalogram(eeg),1,microneedle,2
+153,receiver,1,eeg signals,2
+154,associative plasticity,1,multimodal interface,2
+155,internal models,1,neural modulations,2
+156,kinematic synergies,1,optimal feedback control,2
+157,virtual,1,shared control,2
+158,implantable device,1,dynamic constraints,2
+159,wireless,1,rpg game,2
+160,brain surface,1,quantum information processing,2
+161,brain/human-computer interaction,1,specific absorption rate,2
+162,intelligent brain signal,1,wireless power link,2
+163,brain-machine-brain interface,1,near infrared spectroscopy,2
+164,intracortical,1,optical coherence,2
+165,in vivo neurophysiology,1,neuroethics,2
+166,neural interface,1,paralysis,2
+167,cerebral-cortex,1,motor impairments,2
+168,cone,1,event related potential (erp),2
+169,event-related potential,1,brain computer interface (bci),2
+170,p300 speller,1,adaptive,2
+171,brain reading,1,gaming application,2
+172,spatial filter,1,wireless eeg headset,2
+173,model transfer,1,psychophysiology,2
+174,neuroprosthetic,1,human/machine interaction,2
+175,primate,1,cybernetics,2
+176,bipedal locomotion,1,dynamic neural networks,2
+177,recordings,1,parseval theorem,2
+178,vision,1,human-machine interface (hmi),2
+179,augmented reality,1,electroencephalogram(eeg),2
+180,human body,1,receiver,2
+181,signal processing,1,associative plasticity,2
+182,motor learning,1,internal models,2
+183,directional tuning,1,brain/human-computer interaction,2
+184,co-adaptive,1,intelligent brain signal,2
+185,symbiotic,1,brain-machine-brain interface,2
+186,perception-action cycle,1,intracortical,2
+187,component,1,in vivo neurophysiology,2
+188,independent component analysis,1,neural interface,2
+189,cyborg,1,cerebral-cortex,2
+190,mutual adaptation,1,cone,2
+191,prosthetics,1,event-related potential,2
+192,power assist,1,p300 speller,2
+193,brain-machine,1,brain reading,2
+194,neurophysiological,1,spatial filter,2
+195,eeg rhythm,1,model transfer,2
+196,neural networks,1,signal processing,2
+197,wheelchair control,1,motor learning,2
+198,relative wavelet energy,1,directional tuning,2
+199,invasive bci,1,component,2
+200,rehabilitation robots,1,independent component analysis,2
+201,bio-robotics,1,neurophysiological,2
+202,brain interface,1,relative wavelet energy,2
+203,support vector machine,1,invasive bci,2
+204,cortical control,1,brain interface,2
+205,kinematics,1,support vector machine,2
+206,biomechanics,1,cortical control,2
+207,"receptors, sensory",1,linear,2
+208,microdevices,1,nonlinear,2
+209,neural control,1,microelectrode arrays,2
+210,population coding,1,the classification of the electro encephalo,1
+211,linear,1,recordings,1
+212,nonlinear,1,vision,1
+213,microelectrode arrays,1,,

@@ -1,0 +1,245 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,microfluidics,62,microfluidics,201
+1,lab-on-a-chip,9,lab-on-a-chip,32
+2,droplet,8,droplet,31
+3,digital microfluidics,6,digital microfluidics,16
+4,drug delivery,4,drug delivery,15
+5,lab on a chip,4,biomems,12
+6,microfabrication,3,microfabrication,11
+7,biomems,3,lab on a chip,11
+8,droplet microfluidics,3,applications,9
+9,process intensification,2,imaging,9
+10,microchannels,2,polymers,8
+11,polymers,2,nanofluidics,8
+12,nanofluidics,2,flexible,8
+13,digital,2,high-throughput,8
+14,applications,2,droplet microfluidics,8
+15,separation,2,droplets,8
+16,immunoassays,2,process intensification,6
+17,nanoparticles,2,microchannels,6
+18,high-throughput screening,2,separation,6
+19,flexible,2,nanoparticles,6
+20,imaging,2,optofluidics,6
+21,high-throughput,2,immunoassays,5
+22,droplets,2,high-throughput screening,5
+23,optofluidics,2,detection,5
+24,microreactor,1,cell,5
+25,graphene,1,nucleic,5
+26,biochemical detection,1,ce,5
+27,sensors,1,hplc,5
+28,devices,1,single cells,5
+29,clean rooms,1,computer vision,5
+30,low-cost,1,drops,5
+31,biotechnology,1,molecular,5
+32,plug-and-play,1,graphene,4
+33,sensor integration,1,biochemical detection,4
+34,inertial microfluidics,1,sensors,4
+35,dean vortex,1,devices,4
+36,particle manipulation,1,clean rooms,4
+37,antibodies,1,low-cost,4
+38,healthcare,1,lab-on-chip,4
+39,lab-on-chip,1,micro,4
+40,micro,1,quantitative biology,4
+41,quantitative biology,1,synthetic,4
+42,synthetic,1,digital,4
+43,nanotechnology,1,modular,4
+44,nanomedicine,1,3d-printing,4
+45,protein biophysics,1,lego (r),4
+46,rnicrofluidics,1,3d microfluidics,4
+47,surface-tension-confined,1,building block,4
+48,micropatterning,1,membranes,4
+49,protein therapy,1,manufacturing methods,4
+50,biofabrication,1,mass,4
+51,controlled release,1,fabrication,4
+52,nucleation,1,rapid prototyping,4
+53,modelling,1,pdms,4
+54,microcirculation,1,dna extraction,4
+55,continuous microfluidics,1,microparticles,4
+56,micromixers,1,monodisperse,4
+57,cell separation,1,emulsion,4
+58,biological research,1,gecko adhesive,4
+59,dripping,1,mems underwater,4
+60,jetting,1,bonding,4
+61,microfluidics paper-based analytical devices,1,fractal design,4
+62,urology,1,model,4
+63,prostatic neoplasms,1,application,4
+64,urinary bladder neoplasms,1,rfid,4
+65,wearable technology,1,inkjet-printing,4
+66,body fluid testing,1,low-cost electronics,4
+67,modular,1,two-phase-flow,4
+68,3d-printing,1,manipulation,4
+69,lego (r),1,gene delivery,4
+70,3d microfluidics,1,gene therapy,4
+71,building block,1,antibiotics,4
+72,membranes,1,cell growth,4
+73,manufacturing methods,1,evolution,4
+74,mass,1,microbial chemostat,4
+75,polymer membranes,1,flocking,4
+76,fabrication,1,flock fibers,4
+77,rapid prototyping,1,capillary flow,4
+78,pdms,1,wicking,4
+79,dna extraction,1,carbonylation,4
+80,microfluidics-fish,1,catalysis,4
+81,rapid fish,1,palladium,4
+82,rapid aneuploidy testing,1,segmented flow,4
+83,amniocentesis,1,textile capillarity,4
+84,point-of-care diagnostics,1,mixing,4
+85,smartphone,1,sorting,4
+86,microparticles,1,energy harvesting,4
+87,monodisperse,1,pcr,4
+88,emulsion,1,sequencing analysis,4
+89,electrokinetics,1,cell sorting,4
+90,micro-mixers,1,surface tension,4
+91,surface effects,1,micro total,4
+92,bio-inspired and biomimetic,1,fluorescence,4
+93,smart,1,intercalation,4
+94,antifouling,1,microreactors,4
+95,gecko adhesive,1,3d,4
+96,mems underwater,1,electrowetting,4
+97,bonding,1,copolymerization,4
+98,artificial cell,1,gels,4
+99,droplet-based microfluidics,1,monodisperse particles,4
+100,liposome,1,microreactor,3
+101,drug,1,biotechnology,3
+102,drug discovery,1,plug-and-play,3
+103,functional assay,1,sensor integration,3
+104,fractal design,1,nanotechnology,3
+105,model,1,nanomedicine,3
+106,application,1,surface-tension-confined,3
+107,topology optimization,1,micropatterning,3
+108,stokes flows,1,protein therapy,3
+109,navier-stokes flows,1,biofabrication,3
+110,cellular analysis,1,controlled release,3
+111,chip-based material delivery,1,continuous microfluidics,3
+112,drug-delivery,1,micromixers,3
+113,review,1,cell separation,3
+114,carcinoembryonic antigen,1,biological research,3
+115,sers,1,dripping,3
+116,magnetic nanoparticles,1,jetting,3
+117,rfid,1,urology,3
+118,inkjet-printing,1,prostatic neoplasms,3
+119,low-cost electronics,1,urinary bladder neoplasms,3
+120,two-phase-flow,1,wearable technology,3
+121,manipulation,1,body fluid testing,3
+122,detection,1,microfluidics-fish,3
+123,polymorphism,1,rapid fish,3
+124,micro fluidics,1,rapid aneuploidy testing,3
+125,light driven microfluidics,1,amniocentesis,3
+126,moems,1,point-of-care diagnostics,3
+127,laser-scanner,1,smartphone,3
+128,portable digital microfluidics,1,electrokinetics,3
+129,electrophoresis of droplets,1,micro-mixers,3
+130,fabrication methods,1,surface effects,3
+131,gene delivery,1,bio-inspired and biomimetic,3
+132,gene therapy,1,smart,3
+133,liquid crystals,1,antifouling,3
+134,topological constraints,1,artificial cell,3
+135,surface,1,droplet-based microfluidics,3
+136,chip,1,liposome,3
+137,electrophoresis,1,drug,3
+138,bioanalyzer,1,drug discovery,3
+139,microtechnology,1,functional assay,3
+140,instrumentation,1,topology optimization,3
+141,commercialization,1,stokes flows,3
+142,market entry,1,navier-stokes flows,3
+143,single-cell,1,drug-delivery,3
+144,biophysical properties,1,review,3
+145,valve,1,carcinoembryonic antigen,3
+146,immobilization,1,sers,3
+147,point of care diagnostics,1,magnetic nanoparticles,3
+148,capacitively catenary,1,micro fluidics,3
+149,feedback,1,light driven microfluidics,3
+150,liquid handling stations,1,moems,3
+151,interface,1,laser-scanner,3
+152,replication,1,liquid crystals,3
+153,3d paper-based microfluidics,1,topological constraints,3
+154,nitrite colorimetric assay,1,surface,3
+155,print house,1,chip,3
+156,antibiotics,1,electrophoresis,3
+157,cell growth,1,bioanalyzer,3
+158,evolution,1,microtechnology,3
+159,microbial chemostat,1,instrumentation,3
+160,flocking,1,commercialization,3
+161,flock fibers,1,market entry,3
+162,capillary flow,1,single-cell,3
+163,wicking,1,biophysical properties,3
+164,metal-organic frameworks,1,valve,3
+165,coating,1,immobilization,3
+166,asymmetric structures,1,point of care diagnostics,3
+167,bio-assays,1,capacitively catenary,3
+168,chemical reactions,1,feedback,3
+169,hydrophilic,1,liquid handling stations,3
+170,flexible electronics,1,interface,3
+171,stretchable electronics,1,replication,3
+172,cmos ic,1,metal-organic frameworks,3
+173,elastomeric,1,coating,3
+174,cell,1,asymmetric structures,3
+175,nucleic,1,bio-assays,3
+176,cancer,1,chemical reactions,3
+177,reviews,1,hydrophilic,3
+178,microanalysis,1,flexible electronics,3
+179,microseparation,1,stretchable electronics,3
+180,miniaturization,1,cmos ic,3
+181,bacteria,1,elastomeric,3
+182,lab-on-a-chip devices,1,cancer,3
+183,suspension culture,1,reviews,3
+184,carbonylation,1,microanalysis,3
+185,catalysis,1,microseparation,3
+186,palladium,1,miniaturization,3
+187,segmented flow,1,bacteria,3
+188,textile capillarity,1,lab-on-a-chip devices,3
+189,mixing,1,suspension culture,3
+190,sorting,1,chemical engineering,3
+191,energy harvesting,1,opto-microfluidics,3
+192,chemical engineering,1,ultrafast laser,3
+193,detection method,1,microfluidic devices,3
+194,opto-microfluidics,1,microfluidic systems,3
+195,ultrafast laser,1,microfluidic,3
+196,clinical diagnostics,1,optofluidic dye lasers,3
+197,microdroplet,1,microdroplets,3
+198,pcr,1,droplet-based,3
+199,sequencing analysis,1,ewod,3
+200,cell sorting,1,ldep,3
+201,bioanalysis,1,analog microfluidics,3
+202,microelectromechanical system,1,polymer,3
+203,ce,1,embossing,3
+204,hplc,1,mems,3
+205,single cells,1,inertial microfluidics,2
+206,evaluation for continuous improvement,1,dean vortex,2
+207,innovative practices,1,particle manipulation,2
+208,laboratory,1,antibodies,2
+209,advanced materials,1,healthcare,2
+210,liquid-liquid extraction,1,nucleation,2
+211,on-a-chip,1,modelling,2
+212,luminescent cdse/zns nanocrystals,1,cellular analysis,2
+213,computer vision,1,chip-based material delivery,2
+214,drops,1,fabrication methods,2
+215,molecular,1,3d paper-based microfluidics,2
+216,surface tension,1,nitrite colorimetric assay,2
+217,micro total,1,print house,2
+218,soft lithography,1,detection method,2
+219,micro/nanofabrication,1,clinical diagnostics,2
+220,microfluidic devices,1,bioanalysis,2
+221,microfluidic systems,1,microelectromechanical system,2
+222,microfluidic,1,evaluation for continuous improvement,2
+223,optofluidic dye lasers,1,innovative practices,2
+224,microdroplets,1,laboratory,2
+225,droplet-based,1,advanced materials,2
+226,fluorescence,1,liquid-liquid extraction,2
+227,intercalation,1,on-a-chip,2
+228,microreactors,1,luminescent cdse/zns nanocrystals,2
+229,3d,1,soft lithography,2
+230,electrowetting,1,micro/nanofabrication,2
+231,ewod,1,surface micromachined microfluidics,2
+232,ldep,1,dep,2
+233,analog microfluidics,1,drop ejector,2
+234,polymer,1,analytical methods,2
+235,embossing,1,protein biophysics,1
+236,mems,1,rnicrofluidics,1
+237,surface micromachined microfluidics,1,microcirculation,1
+238,dep,1,microfluidics paper-based analytical devices,1
+239,drop ejector,1,polymer membranes,1
+240,copolymerization,1,polymorphism,1
+241,gels,1,portable digital microfluidics,1
+242,monodisperse particles,1,electrophoresis of droplets,1
+243,analytical methods,1,microdroplet,1

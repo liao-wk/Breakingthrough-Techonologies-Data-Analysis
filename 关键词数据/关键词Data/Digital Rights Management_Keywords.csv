@@ -1,0 +1,229 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,digital rights management,43,digital rights management,109
+1,drm,15,drm,46
+2,digital rights management (drm),12,security,29
+3,copyright,8,digital rights management (drm),28
+4,security,8,copyright,27
+5,intellectual property,7,rights,23
+6,rights,6,digital,22
+7,digital,6,intellectual property,18
+8,license,5,license,17
+9,digital watermarking,5,piracy,14
+10,digital right management,4,digital right management,11
+11,piracy,4,digital watermarking,11
+12,content protection,4,multimedia,10
+13,multimedia,3,watermarking,9
+14,streaming media,3,protection,8
+15,watermarking,3,internet,8
+16,digital watermark,3,xrml,8
+17,rights expression language,3,digital rights,8
+18,encryption,3,content management,7
+19,digital rights,3,security protocol,7
+20,access control,2,middleware,7
+21,blockchain,2,p2p,7
+22,protection,2,content protection,7
+23,usage control,2,rights expression language,7
+24,intellectual,2,e-commerce,7
+25,information security,2,encryption,7
+26,internet,2,access control,6
+27,content management,2,streaming media,6
+28,security protocol,2,accountability,6
+29,digital content,2,identity management,6
+30,accountability,2,rights management,6
+31,rights exporting,2,digital watermark,6
+32,privacy,2,smart card,6
+33,drm (digital rights management),2,business,5
+34,identity management,2,challenges,5
+35,middleware,2,china,5
+36,rights management,2,blockchain,5
+37,agent,2,usage control,5
+38,p2p,2,intellectual,5
+39,risk management,2,information security,5
+40,digital rights management system,2,privacy,5
+41,xrml,2,agent,5
+42,e-commerce,2,risk management,5
+43,right issues,2,fair use,5
+44,intellectual property law,2,peer-to-peer (p2p),5
+45,smart card,2,digital cinema,5
+46,fair use,2,digital rights language,5
+47,peer-to-peer (p2p),2,odrl,5
+48,copyright protection,2,cdrl,5
+49,biometric,1,metadata,5
+50,mobile device user,1,watermark,5
+51,business,1,image bank,5
+52,challenges,1,image format,5
+53,china,1,usage,4
+54,post-quantum ctyptography,1,enterprise,4
+55,multivariate,1,user-generated content,4
+56,network media,1,ontology,4
+57,smart contract,1,rdf/owl,4
+58,usage,1,smart mobile,4
+59,enterprise,1,mdrm,4
+60,peer-to-peer streaming,1,mobile digital right management,4
+61,user-generated content,1,roap,4
+62,ontology,1,mobile security,4
+63,rdf/owl,1,data,4
+64,component,1,copyright office,4
+65,privacy-preserving,1,copyrights,4
+66,authentication,1,cryptography,4
+67,smart mobile,1,smart cards,4
+68,mdrm,1,digital content,4
+69,mobile digital right management,1,management,4
+70,roap,1,e-book,4
+71,mobile security,1,rights exporting,4
+72,data,1,drm (digital rights management),4
+73,content delivery,1,open systems,4
+74,drm(digital rights management),1,broker,4
+75,information dispersal algorithm,1,3g,4
+76,secure,1,fairness,4
+77,semantic web,1,low,4
+78,broadcasting,1,digital rights management system,4
+79,video encryption,1,bit-torrent,4
+80,peer-to-peer networks,1,d-cinema,4
+81,information,1,application model,4
+82,copyright office,1,triz,4
+83,copyrights,1,tips,4
+84,cryptography,1,innovation,4
+85,smart cards,1,event driven drm,4
+86,digital rights management(drm),1,ipmp,4
+87,pkcs#12,1,mpeg,4
+88,multimedia courseware,1,interoperability,4
+89,network learning,1,copy protection,4
+90,information consumption,1,acss,4
+91,management,1,entertainment,4
+92,e-book,1,copyright protection,4
+93,live streaming,1,content encryption,4
+94,network digital video,1,authorization,4
+95,blind decryption,1,trust,4
+96,hash,1,biometric,3
+97,rootkit,1,mobile device user,3
+98,operating systems,1,network media,3
+99,system,1,smart contract,3
+100,digital content industry,1,component,3
+101,digital content providers,1,semantic web,3
+102,rights adaptation,1,broadcasting,3
+103,privacy policies management,1,peer-to-peer networks,3
+104,application,1,information,3
+105,drm interoperability,1,digital rights management(drm),3
+106,anonimity,1,pkcs#12,3
+107,mpeg-21,1,multimedia courseware,3
+108,open systems,1,network learning,3
+109,broker,1,blind decryption,3
+110,simulation management platform,1,hash,3
+111,msc.simmanager,1,rootkit,3
+112,digital engine,1,operating systems,3
+113,digital information,1,system,3
+114,copyright protecting,1,mpeg-21,3
+115,drim,1,digital information,3
+116,live broadcast,1,live broadcast,3
+117,privacy protection,1,privacy protection,3
+118,drm architectural framework,1,author rights,3
+119,drm functional,1,authorized domain,3
+120,author rights,1,home network,3
+121,authorized domain,1,proxy,3
+122,home network,1,right expression language,3
+123,proxy,1,right issues,3
+124,3g,1,intellectual property law,3
+125,fairness,1,tr-edrm,3
+126,low,1,tr-rs-bac drm,3
+127,digital interface,1,courseware,3
+128,digital licensing,1,remote education,3
+129,threshold based,1,portable,3
+130,rights model,1,virtual software token,3
+131,rights decomposition,1,information systems,3
+132,fuzzy risk assessment,1,content management systems,3
+133,role-based access control,1,cms,3
+134,context,1,web content,3
+135,design for test (dft),1,administration,3
+136,digital library,1,e-government,3
+137,mobile digital rights systems,1,licence language,3
+138,oma-rights expression language,1,mpeg-21 ipmp,3
+139,cafeobj,1,mpeg rel,3
+140,right expression language,1,implementation,3
+141,digital rights conversion,1,structure,3
+142,librarians,1,drm client,3
+143,copyright law,1,mms,3
+144,bit-torrent,1,home networking,3
+145,rights issues,1,push to view,3
+146,intellectual property management,1,wdrm,3
+147,zero-watermark,1,self-determination of charge,3
+148,singular value decomposition (svd),1,anonymous,3
+149,digital libraries,1,management encryption,3
+150,digital rights management systems,1,digital watermarks,3
+151,digital signature,1,digital audiovisual content,3
+152,tr-edrm,1,eple,3
+153,tr-rs-bac drm,1,mpeg 21,3
+154,d-cinema,1,post-quantum ctyptography,2
+155,application model,1,multivariate,2
+156,courseware,1,peer-to-peer streaming,2
+157,remote education,1,privacy-preserving,2
+158,triz,1,authentication,2
+159,tips,1,content delivery,2
+160,innovation,1,drm(digital rights management),2
+161,event driven drm,1,information dispersal algorithm,2
+162,portable,1,secure,2
+163,virtual software token,1,video encryption,2
+164,libraries,1,information consumption,2
+165,ipmp,1,live streaming,2
+166,mpeg,1,network digital video,2
+167,interoperability,1,digital content industry,2
+168,information systems,1,digital content providers,2
+169,content management systems,1,rights adaptation,2
+170,cms,1,privacy policies management,2
+171,web content,1,application,2
+172,copy protection,1,drm interoperability,2
+173,acss,1,anonimity,2
+174,entertainment,1,simulation management platform,2
+175,administration,1,msc.simmanager,2
+176,e-government,1,digital engine,2
+177,licence language,1,copyright protecting,2
+178,intellectual property rights,1,drim,2
+179,mpeg-21 ipmp,1,drm architectural framework,2
+180,mpeg rel,1,drm functional,2
+181,implementation,1,digital interface,2
+182,electronic media,1,digital licensing,2
+183,newspapers,1,threshold based,2
+184,archives management,1,rights model,2
+185,public key,1,rights decomposition,2
+186,integrated information system,1,fuzzy risk assessment,2
+187,structure,1,role-based access control,2
+188,content encryption,1,context,2
+189,digital rights management system (drm),1,design for test (dft),2
+190,drm client,1,digital library,2
+191,mms,1,mobile digital rights systems,2
+192,home networking,1,oma-rights expression language,2
+193,push to view,1,cafeobj,2
+194,digital rights management and mobile network,1,digital rights conversion,2
+195,authorization,1,librarians,2
+196,trust,1,copyright law,2
+197,key management,1,rights issues,2
+198,technical protection,1,intellectual property management,2
+199,wdrm,1,zero-watermark,2
+200,self-determination of charge,1,singular value decomposition (svd),2
+201,anonymous,1,digital libraries,2
+202,content portability,1,digital rights management systems,2
+203,license transfer,1,digital signature,2
+204,license management protocol,1,intellectual property rights,2
+205,management encryption,1,electronic media,2
+206,digital watermarks,1,newspapers,2
+207,learning objects,1,archives management,2
+208,open digital rights,1,public key,2
+209,digital media distribution,1,integrated information system,2
+210,standards,1,key management,2
+211,digital audiovisual content,1,technical protection,2
+212,eple,1,content portability,2
+213,psychoacoustic audio watermarking,1,license transfer,2
+214,assets management,1,license management protocol,2
+215,electronic document delivery,1,learning objects,2
+216,internet open trading,1,open digital rights,2
+217,copyright protection system,1,digital media distribution,2
+218,mpeg 21,1,standards,2
+219,digital cinema,1,internet open trading,2
+220,digital rights language,1,copyright protection system,2
+221,odrl,1,superdistribution,2
+222,cdrl,1,libraries,1
+223,superdistribution,1,digital rights management system (drm),1
+224,metadata,1,digital rights management and mobile network,1
+225,watermark,1,psychoacoustic audio watermarking,1
+226,image bank,1,assets management,1
+227,image format,1,electronic document delivery,1
