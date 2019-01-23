@@ -1,0 +1,115 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,wireless power transfer,14,wireless power transfer,34
+1,wireless,4,wireless,13
+2,inductive coupling,3,inductive coupling,10
+3,wireless power,2,resonance,7
+4,consumer electronics,2,wireless power,6
+5,resonance,2,consumer electronics,5
+6,wireless charging,2,magnetic,5
+7,wireless power transmission,2,closed-loop control,4
+8,electromagnetic induction,2,control,4
+9,wireless mesh networks,2,dc-dc,4
+10,magnetic,2,digital control,4
+11,closed-loop control,1,multivariable,4
+12,control,1,wireless charging,4
+13,dc-dc,1,wireless power transmission,4
+14,digital control,1,otg,4
+15,multivariable,1,colpitts,4
+16,optimization,1,electromagnetic induction,4
+17,resonant converter,1,wireless mesh networks,4
+18,stationary charging,1,far field,4
+19,physical layer security,1,magnetic field,4
+20,secrecy rate,1,near field,4
+21,potential eavesdropper,1,optimization,3
+22,downlink,1,resonant converter,3
+23,free space optical communication (fso),1,stationary charging,3
+24,optical communication,1,physical layer security,3
+25,passive,1,secrecy rate,3
+26,energy autonomous sensor system,1,potential eavesdropper,3
+27,industry 4.0 (i4.0),1,downlink,3
+28,internet of things,1,hts machine,3
+29,hts machine,1,online monitoring,3
+30,online monitoring,1,quench judgement,3
+31,quench judgement,1,energy-efficient,3
+32,energy consumption optimization,1,digital ic,3
+33,green d2d communications,1,wireless ic,3
+34,video,1,wireless smart sensing,3
+35,rotating pot-core transformer,1,bit error rate,3
+36,superconducting wireless power transfer,1,co-channel interference,3
+37,superconducting metamaterials,1,ergodic capacity,3
+38,transfer,1,markov decision process,3
+39,coverage probability,1,mobile charging,3
+40,distributed antenna system,1,sensor networks,3
+41,energy harvesting,1,sigma-delta modulator,3
+42,energy-efficient,1,near infrared charging,3
+43,digital ic,1,wireless charing,3
+44,wireless ic,1,iot,3
+45,wireless smart sensing,1,qi,3
+46,bit error rate,1,bluetooth,3
+47,co-channel interference,1,power transmitter,3
+48,ergodic capacity,1,buck converter,3
+49,markov decision process,1,inductive,3
+50,mobile charging,1,leapfrogging,3
+51,sensor networks,1,wireless power grid,3
+52,industrial wireless sensor networks,1,developing,3
+53,sleep scheduling,1,position gap,3
+54,wireless powered,1,coupling coefficient,3
+55,sigma-delta modulator,1,omni-directional,3
+56,near infrared charging,1,magnetic field vector,3
+57,wireless charing,1,optimization of,3
+58,iot,1,rectifier,3
+59,qi,1,amplifier,3
+60,bluetooth,1,high efficiency,3
+61,power transmitter,1,load monitoring,3
+62,buck converter,1,power control,3
+63,inductive,1,free space optical communication (fso),2
+64,wireless rechargeable sensor networks,1,optical communication,2
+65,minimum dominating set,1,passive,2
+66,charging,1,energy autonomous sensor system,2
+67,leapfrogging,1,industry 4.0 (i4.0),2
+68,wireless power grid,1,internet of things,2
+69,developing,1,energy consumption optimization,2
+70,position gap,1,green d2d communications,2
+71,coupling coefficient,1,video,2
+72,rectenna,1,superconducting metamaterials,2
+73,metal-insulator-metal diode,1,transfer,2
+74,service framework,1,coverage probability,2
+75,otg,1,distributed antenna system,2
+76,colpitts,1,energy harvesting,2
+77,omni-directional,1,industrial wireless sensor networks,2
+78,magnetic field vector,1,sleep scheduling,2
+79,optimization of,1,wireless powered,2
+80,electromagnetic,1,wireless rechargeable sensor networks,2
+81,inductive power,1,minimum dominating set,2
+82,magnetic resonance,1,charging,2
+83,rectifier,1,rectenna,2
+84,amplifier,1,metal-insulator-metal diode,2
+85,high efficiency,1,electromagnetic,2
+86,wireless sensor networks (wsn),1,inductive power,2
+87,b-mac protocol,1,magnetic resonance,2
+88,energy consumption,1,wireless sensor networks (wsn),2
+89,solar-energy,1,b-mac protocol,2
+90,wireless sensor network,1,energy consumption,2
+91,energy gathering,1,solar-energy,2
+92,wireless power transfer (wpt),1,wireless sensor network,2
+93,electric vehicle (ev),1,energy gathering,2
+94,microwave power transfer,1,wireless power transfer (wpt),2
+95,sensor network,1,electric vehicle (ev),2
+96,multipath routing,1,microwave power transfer,2
+97,load balancing,1,sensor network,2
+98,wireless communication,1,multipath routing,2
+99,wireless sensor,1,load balancing,2
+100,contactless charging,1,wireless communication,2
+101,wireless power standard qi,1,wireless sensor,2
+102,broadband wireless forum (bwf),1,contactless charging,2
+103,far field,1,wireless power standard qi,2
+104,magnetic field,1,broadband wireless forum (bwf),2
+105,near field,1,transportation,2
+106,load monitoring,1,railway,2
+107,power control,1,standard compliant,2
+108,transportation,1,inductive power transfer,2
+109,railway,1,wireless power charger,2
+110,standard compliant,1,rotating pot-core transformer,1
+111,inductive power transfer,1,superconducting wireless power transfer,1
+112,wireless power charger,1,service framework,1
+113,resonant frequency and arduino deumilanove,1,resonant frequency and arduino deumilanove,1
