@@ -27,3 +27,10 @@ $ 网络图绘制
 * 重复添加已经存在的边时，要保证权重也相加。使用MultiGraph可以保证权重不丢失，然后再判断权重是否有多个，是则累积。
 * 根据节点的度按从大到小排序，节点的度越大，节点的size越大。
 %%++存在的问题数据梁仍然有些不足，70条数据太少，尽量让样本量大起来。
+
+$ 将Keywords_freq和labels_sort储存在CSV文件中，实现步骤：
+* Keywords_freq和labels_sort转换成为numpy数组；
+* 将Keywords_freq和labels_sort分别转换成DataFrame数据，df1,df2;
+* index默认，不设；columns1=['keyword_1','frequency'],columns2=['keyword_2','degree']
+* 合并df1和df2,向右合并，pd.concat(axis=1),生成df，导入csv文件中。
+* 比较！！！提取关键词。
