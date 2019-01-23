@@ -10,7 +10,9 @@ import pandas as pd
 MG = nx.MultiGraph()
 plt.figure(figsize=(25, 25))
 os.chdir("F:\\大道之君\\Breakingthrough-Techonologies-Data-Analysis\\关键词数据\\关键词Data")
-file = open("Quantumwires.json")
+fileName = "Digital Rights Management"
+filename = fileName + '.json'
+file = open(filename)
 line_num = 0  # 设置初始行号为0
 for line in file:
     if line_num == 0:
@@ -33,8 +35,8 @@ for line in file:
         Keywords_freq = eval(line)
         break
 file.close()
-de = dict(MG.degree()) # MG节点度 de={'closed-loop control': 4}
-de2 = [de[v]*8 for v in de.keys()]  # 节点的度构成的列表，节点的顺序不变。
+de = dict(MG.degree())  # MG节点度 de={'closed-loop control': 4}
+de2 = [de[v]*2 for v in de.keys()]  # 节点的度构成的列表，节点的顺序不变。
 #  labels_sort将de按值得大小从大到小排序得到元组组成的列表。
 #  labels_sort=[（关键词,度）]
 labels_sort = sorted(de.items(), key=lambda v: v[1], reverse=True)
@@ -45,12 +47,11 @@ for label_word in labels_word:
 # pos设置图的框架
 pos = nx.spring_layout(MG)
 # 只标记记前10个关键词
-nx.draw_networkx_labels(MG, pos, labels=dd, font_size=10)
+nx.draw_networkx_labels(MG, pos, labels=dd, font_size=15)
 # 按度的大小标记节点的大小
 nx.draw_networkx(MG, pos, with_labels=False, font_size=12, node_size=de2)
 
 #  储存MultiGraph的度
-filename = 'Quantumwires.json'
 with open(filename, 'a') as f_obj:
     f_obj.write('\n')
     json.dump(labels_sort, f_obj)
@@ -62,8 +63,8 @@ df = pd.concat([df1, df2], axis=1)
 print(df.loc[0:6])
 
 # 导入到csv文件中
-df.to_csv("Quantumwires_Keywords.csv")
+df.to_csv(fileName+"_Keywords.csv")
 # 输出网络图
-plt.savefig('Quantumwires.jpg')
-plt.savefig('Quantumwires.pdf')
+plt.savefig(fileName+'.jpg')
+plt.savefig(fileName+'.pdf')
 plt.show()
