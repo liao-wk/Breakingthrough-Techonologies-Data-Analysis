@@ -2,7 +2,8 @@
 import re, json, os
 
 os.chdir("F:\\大道之君\\Breakingthrough-Techonologies-Data-Analysis\\关键词数据\\关键词raw")
-file = open("Quantumwires.txt")
+fileName = "Digital Rights Management"
+file = open(fileName+".txt")
 #  示例：Keywords = [ ['Physical layer security','secrecy rate','potent'],\
 # ['Optimization',' resonant converter'] ]
 Keywords = []
@@ -27,7 +28,7 @@ file.close()
 Keywords_freq = sorted(Keywords_freq.items(), key=lambda v: v[1], reverse=True)
 #  print(Keywords_freq)
 os.chdir("F:\\大道之君\\Breakingthrough-Techonologies-Data-Analysis\\关键词数据\\关键词Data")
-json_file = "Quantumwires.json"
+json_file = fileName + ".json"
 with open(json_file, 'w') as f_obj:
     json.dump(Keywords, f_obj)
     f_obj.write("\n")
