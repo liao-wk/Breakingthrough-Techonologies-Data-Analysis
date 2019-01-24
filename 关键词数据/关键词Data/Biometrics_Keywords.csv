@@ -1,0 +1,242 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,biometrics,57,biometrics,180
+1,soft biometrics,7,fingerprint,27
+2,face,7,face,26
+3,fingerprint,7,soft biometrics,23
+4,authentication,7,security,22
+5,identification,6,authentication,20
+6,security,6,identification,18
+7,cancelable biometrics,5,cancelable biometrics,15
+8,multimodal biometrics,5,multimodal biometrics,13
+9,face recognition,4,recognition,12
+10,surveillance,3,surveillance,11
+11,pattern recognition,3,face recognition,11
+12,recognition,3,multimodal,11
+13,forensics,3,iris,9
+14,iris,3,fusion,8
+15,biometric authentication,2,privacy,8
+16,unconstrained,2,physiological biometrics,7
+17,physiological biometrics,2,pattern recognition,7
+18,fuzzy logic,2,forensics,7
+19,biometrics recognition,2,behavioral biometrics,7
+20,multi-modal biometrics,2,feature extraction,7
+21,behavioral biometrics,2,iris recognition,7
+22,fusion,2,unconstrained,6
+23,privacy,2,fuzzy logic,6
+24,ear biometrics,2,ear biometrics,6
+25,gender recognition,2,palm print,6
+26,multimodal,2,unimodal,6
+27,user authentication,2,mgf,6
+28,feature extraction,2,roi,6
+29,iris recognition,2,biometric authentication,5
+30,score-level fusion,2,body,5
+31,unconstrained cohort,2,gender,5
+32,entrainment,1,age,5
+33,bio-cryptography,1,biometrics recognition,5
+34,fingerprints,1,multi-modal biometrics,5
+35,key,1,identity sciences,5
+36,facial biometrics,1,cybercrime,5
+37,smart devices,1,nametag,5
+38,image processing,1,gender recognition,5
+39,ear recognition,1,user authentication,5
+40,hard biometrics,1,body weight,5
+41,commercial systems,1,body fat,5
+42,immigration control,1,value chain,5
+43,argentina,1,identity fraud,5
+44,south america,1,strategy,5
+45,biometrics (access control),1,management,5
+46,predictive biometrics,1,law,5
+47,personal,1,bio-cryptography,4
+48,eye movement biometrics,1,fingerprints,4
+49,biometric databases,1,key,4
+50,biometric competition,1,immigration control,4
+51,uni-modal biometrics,1,argentina,4
+52,feature level fusion,1,south america,4
+53,score,1,sensitive data,4
+54,biometric,1,data protection,4
+55,mfcc,1,risks,4
+56,ga,1,human rights,4
+57,wavelet transform,1,keystroke dynamics,4
+58,principal component,1,digraph,4
+59,sensitive data,1,trigraph,4
+60,data protection,1,accelerometer,4
+61,risks,1,usability,4
+62,human rights,1,biometrics system,4
+63,keystroke dynamics,1,biometrics method,4
+64,digraph,1,framework,4
+65,trigraph,1,evaluation,4
+66,accelerometer,1,consent test,4
+67,dynamic random projection matrix,1,human behavior,4
+68,random,1,consent biometrics,4
+69,body,1,multi-biometrics,4
+70,gender,1,cryptography,4
+71,age,1,cryptographic keys,4
+72,multimodal biometric systems,1,session,4
+73,fusion levels,1,particle swarm,4
+74,fingerprint recognition,1,data fusion,4
+75,smart phones,1,weight,4
+76,soft computing,1,clothes color,4
+77,neural network,1,bag of soft biometrics,4
+78,unconscious biometrics,1,human,4
+79,continuous authentication,1,score-level fusion,4
+80,brain,1,unconstrained cohort,4
+81,attitude,1,token,4
+82,challenges,1,classifier,4
+83,user acceptance,1,matching score,4
+84,component: biometrics,1,online trust,4
+85,biometric applications,1,data security,4
+86,feature fusion,1,data integrity,4
+87,complex field,1,electronic,4
+88,improved locality,1,verification,4
+89,heartbeat signals,1,biohashing,4
+90,usability,1,python,4
+91,irb,1,pyfinger,4
+92,institutional review board,1,scripting,4
+93,human subjects research,1,wrapper,4
+94,identity sciences,1,secure authentication,4
+95,cybercrime,1,threat model,4
+96,nametag,1,wsq,4
+97,intent biometrics,1,image processing,3
+98,stress,1,ear recognition,3
+99,automatic identification,1,hard biometrics,3
+100,frogs,1,commercial systems,3
+101,principal component analysis,1,uni-modal biometrics,3
+102,public,1,feature level fusion,3
+103,cloud computing,1,score,3
+104,cloud security,1,biometric,3
+105,privacy-enhanced biometrics,1,mfcc,3
+106,human descriptions,1,ga,3
+107,retrieval,1,wavelet transform,3
+108,semantic clothing,1,principal component,3
+109,fuzzy fusion,1,multimodal biometric systems,3
+110,local binary pattern,1,fusion levels,3
+111,hashing,1,fingerprint recognition,3
+112,e-transaction,1,smart phones,3
+113,unimodal biometrics,1,soft computing,3
+114,ecg,1,neural network,3
+115,biometrics system,1,unconscious biometrics,3
+116,biometrics method,1,continuous authentication,3
+117,framework,1,brain,3
+118,evaluation,1,attitude,3
+119,consent test,1,challenges,3
+120,human behavior,1,user acceptance,3
+121,consent biometrics,1,feature fusion,3
+122,single-view-based,1,complex field,3
+123,barrel distortion,1,improved locality,3
+124,super-resolution,1,heartbeat signals,3
+125,voice biometrics,1,irb,3
+126,speaker recognition,1,institutional review board,3
+127,identity,1,human subjects research,3
+128,materiality,1,automatic identification,3
+129,palm print,1,frogs,3
+130,unimodal,1,principal component analysis,3
+131,mgf,1,public,3
+132,roi,1,cloud computing,3
+133,emerging biometric modalities,1,cloud security,3
+134,natural revocability,1,privacy-enhanced biometrics,3
+135,stability,1,human descriptions,3
+136,signature verification,1,retrieval,3
+137,active authentication,1,semantic clothing,3
+138,privacy protection,1,fuzzy fusion,3
+139,imaging security,1,local binary pattern,3
+140,watermarking,1,hashing,3
+141,image cryptography,1,e-transaction,3
+142,pixel,1,unimodal biometrics,3
+143,contour,1,ecg,3
+144,matching score level fusion,1,single-view-based,3
+145,face reconition,1,barrel distortion,3
+146,object recognition,1,super-resolution,3
+147,gender issues,1,identity,3
+148,multi-biometrics,1,materiality,3
+149,cryptography,1,natural revocability,3
+150,cryptographic keys,1,stability,3
+151,session,1,signature verification,3
+152,particle swarm,1,imaging security,3
+153,data fusion,1,watermarking,3
+154,image,1,image cryptography,3
+155,weight,1,pixel,3
+156,clothes color,1,contour,3
+157,bag of soft biometrics,1,face reconition,3
+158,human,1,object recognition,3
+159,biometric keys,1,gender issues,3
+160,helper data,1,image,3
+161,positive-sum,1,biometric keys,3
+162,biometric technologies,1,helper data,3
+163,ethical,1,positive-sum,3
+164,biosignal processing,1,biometric technologies,3
+165,digital human model,1,ethical,3
+166,validation,1,biosignal processing,3
+167,footwear,1,digital human model,3
+168,shoes,1,validation,3
+169,projection matrix,1,footwear,3
+170,finger print classification,1,shoes,3
+171,emerging biometrics,1,emerging biometrics,3
+172,novel biometrics,1,novel biometrics,3
+173,biometric challenges,1,biometric challenges,3
+174,wireless sensor network,1,wireless sensor network,3
+175,contactless,1,contactless,3
+176,audiovisual documentation,1,biometry,3
+177,television archives,1,ict,3
+178,digital media,1,components on a base biometrics,3
+179,untraceability,1,practice use biometrics,3
+180,biometric encryption,1,identity verification,3
+181,keystroke,1,texture analysis,3
+182,biometry,1,uniqueness,3
+183,ict,1,across-system replay,3
+184,components on a base biometrics,1,security model,3
+185,practice use biometrics,1,biometric identification,3
+186,token,1,dna,3
+187,identity verification,1,finger print,3
+188,texture analysis,1,3d shape,3
+189,uniqueness,1,shape matching,3
+190,across-system replay,1,iterative closest point,3
+191,security model,1,biophasor,3
+192,biometric identification,1,cancellable biometrics,3
+193,dna,1,2(n) stage discretisation,3
+194,finger print,1,grid computing,3
+195,frontier between 'them' and 'us',1,voiceprint,3
+196,classifier,1,grid technology,3
+197,matching score,1,grid application,3
+198,3d shape,1,human-computer interaction,3
+199,shape matching,1,markov chains,3
+200,iterative closest point,1,smart card,3
+201,online trust,1,person identification,3
+202,data security,1,access control,3
+203,data integrity,1,identity theft,3
+204,electronic,1,performance evaluation,3
+205,single sample biometrics recognition,1,person,3
+206,face and palmprint biometrics,1,facial biometrics,2
+207,biophasor,1,smart devices,2
+208,cancellable biometrics,1,biometrics (access control),2
+209,2(n) stage discretisation,1,predictive biometrics,2
+210,grid computing,1,personal,2
+211,voiceprint,1,eye movement biometrics,2
+212,grid technology,1,biometric databases,2
+213,grid application,1,biometric competition,2
+214,human-computer interaction,1,dynamic random projection matrix,2
+215,markov chains,1,random,2
+216,body weight,1,component: biometrics,2
+217,body fat,1,biometric applications,2
+218,smart card,1,intent biometrics,2
+219,person identification,1,stress,2
+220,access control,1,voice biometrics,2
+221,verification,1,speaker recognition,2
+222,biohashing,1,emerging biometric modalities,2
+223,authorization,1,active authentication,2
+224,python,1,privacy protection,2
+225,pyfinger,1,matching score level fusion,2
+226,scripting,1,projection matrix,2
+227,wrapper,1,finger print classification,2
+228,value chain,1,audiovisual documentation,2
+229,identity fraud,1,television archives,2
+230,strategy,1,digital media,2
+231,management,1,untraceability,2
+232,law,1,biometric encryption,2
+233,secure authentication,1,keystroke,2
+234,threat model,1,frontier between 'them' and 'us',2
+235,wsq,1,authorization,2
+236,classification of biometric applications,1,entrainment,1
+237,person recognition,1,single sample biometrics recognition,1
+238,identity theft,1,face and palmprint biometrics,1
+239,performance evaluation,1,classification of biometric applications,1
+240,person,1,person recognition,1

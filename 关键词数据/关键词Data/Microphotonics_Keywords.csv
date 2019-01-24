@@ -1,0 +1,209 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,waveguides,5,waveguides,16
+1,integrated optics,5,integrated optics,14
+2,microphotonics,4,graphene,11
+3,light-matter interactions,3,microphotonics,11
+4,2d materials,3,2d materials,9
+5,graphene,3,photonics,9
+6,photonics,3,fibers,7
+7,fibers,2,light-matter interactions,7
+8,photonic crystals,2,spectroscopy,7
+9,nanophotonics,2,plasmonics,7
+10,spectroscopy,2,proton beam writing,7
+11,heterostructures,2,silicon-on-insulator,7
+12,graphene plasmonics,2,phonon polariton,6
+13,phonon polariton,2,metamaterials,6
+14,phonon polaritons,2,optical interconnection,6
+15,scattering,2,photonic crystals,5
+16,photonic crystal,2,nanophotonics,5
+17,plasmonics,2,graphene plasmonics,5
+18,pharmacogenetics,2,scattering,5
+19,pharmacogenomics,2,pharmacogenetics,5
+20,polymer,2,pharmacogenomics,5
+21,data quality,2,polymer,5
+22,electronic health record,2,erbium,5
+23,theory,2,silicon nanoclusters,5
+24,metamaterials,2,silicon photonics,5
+25,erbium,2,light,5
+26,silicon nanoclusters,2,air,5
+27,proton beam writing,2,3d,4
+28,silicon photonics,2,fiber,4
+29,silicon-on-insulator,2,hydrogel,4
+30,glasses,2,optofluidics,4
+31,optical interconnection,2,particle,4
+32,integrated optical circuit,2,microfluidics,4
+33,light,2,interial focusing,4
+34,air,2,dielectrophoresis,4
+35,3d,1,fabrication,4
+36,fiber,1,heterostructures,4
+37,hydrogel,1,phonon polaritons,4
+38,optofluidics,1,uv,4
+39,particle,1,tunability,4
+40,microfluidics,1,upper bounds,4
+41,interial focusing,1,near-field optics,4
+42,dielectrophoresis,1,nonlocality,4
+43,fabrication,1,data quality,4
+44,angular selectivity,1,electronic health record,4
+45,polarization-independent,1,theory,4
+46,periodic structures,1,thrombophilia,4
+47,light-matter interaction,1,hereditary,4
+48,orbital angular momentum,1,thrombosis,4
+49,2d,1,venous thrombosis,4
+50,spontaneous,1,genetic,4
+51,optically pumped far-infrared laser,1,evanescent field,4
+52,terahertz source,1,biosensors,4
+53,continuous wave,1,photonic,4
+54,helium and neon ion beam fabrication,1,glasses,4
+55,hexagonal boron,1,si photonics,4
+56,superscattering,1,optical clocking,4
+57,hyperbolic structure,1,cmos,4
+58,density of states,1,lsis,4
+59,topological photonics,1,gratings,4
+60,thermal radiation,1,microlens arrays,4
+61,near-field radiative heat transfer,1,light-matter interaction,3
+62,surface,1,orbital angular momentum,3
+63,2d heterotructures,1,2d,3
+64,perfect electric conductors,1,superscattering,3
+65,surface plasmons,1,hyperbolic structure,3
+66,artificial intelligence,1,photonic crystal,3
+67,machine learning,1,thermal radiation,3
+68,pain management,1,near-field radiative heat transfer,3
+69,nursing informatics,1,surface,3
+70,electronic health records and,1,artificial intelligence,3
+71,uv,1,machine learning,3
+72,tunability,1,lamb shift,3
+73,two-photon processes,1,quantum,3
+74,lamb shift,1,electronic health records,3
+75,quantum,1,information models,3
+76,electronic health records,1,meaningful use,3
+77,information models,1,nursing,3
+78,meaningful use,1,statins,3
+79,nursing,1,dyslipidemia,3
+80,upper bounds,1,metamaterial,3
+81,near-field optics,1,terahertz imaging,3
+82,nonlocality,1,ellipsometry,3
+83,statins,1,labeling,3
+84,dyslipidemia,1,negative refraction,3
+85,metamaterial,1,plasmon polariton,3
+86,terahertz imaging,1,graphene-boron,3
+87,ellipsometry,1,nanoparticles,3
+88,labeling,1,nanoantennas,3
+89,multimaterial fibers,1,radiative efficiency,3
+90,microparticles,1,light scattering,3
+91,confined solidification,1,solar thermophotovoltaics,3
+92,in situ aligned carbon nanofibers,1,carbon nanotubes,3
+93,thermal drawing process,1,energy,3
+94,negative refraction,1,incandescent lighting,3
+95,plasmon polariton,1,selective emitter,3
+96,graphene-boron,1,selective filter,3
+97,nanoparticles,1,nanophotonic,3
+98,nanoantennas,1,cement,3
+99,radiative efficiency,1,raw glycerol,3
+100,light scattering,1,concrete,3
+101,solar thermophotovoltaics,1,cement aid,3
+102,carbon nanotubes,1,genomics,3
+103,energy,1,primary health care,3
+104,incandescent lighting,1,personalized medicine,3
+105,selective emitter,1,clinical,3
+106,selective filter,1,plexcitons,3
+107,nanophotonic,1,plasmons,3
+108,data quality assessment,1,excitons,3
+109,amorphous silicon,1,j-aggregates,3
+110,fdtd simulation,1,lay decision theory,3
+111,medication therapy management,1,causal attribution,3
+112,broad-band,1,rationality,3
+113,solar-cells,1,decision-making,3
+114,cholesteric microparticles,1,mid-infrared,3
+115,chiral optomechanics,1,iii-v semiconductors,3
+116,radiative heat transfer,1,cmos-compatible,3
+117,blackbody,1,interface plasmon-polaritons,3
+118,thermophotovoltaics,1,luminescence,3
+119,data validation and,1,planar photonic crystals,3
+120,thrombophilia,1,chalcogenide,3
+121,hereditary,1,nonlinear,3
+122,thrombosis,1,birefringence,3
+123,venous thrombosis,1,integrated optical circuit,3
+124,genetic,1,wavelength,3
+125,cement,1,planar lightwave circuits,3
+126,raw glycerol,1,optoelectronics,3
+127,concrete,1,optical communication,3
+128,cement aid,1,optical information,3
+129,casimir effect,1,block copolymers,3
+130,electromagnetic propagation,1,confinement of light,3
+131,extinction coefficients,1,defects,3
+132,genomics,1,enhanced refractive,3
+133,primary health care,1,dielectric,3
+134,personalized medicine,1,high-power lasers,3
+135,clinical,1,hollow waveguides,3
+136,glass,1,light conduits,3
+137,low oh content,1,angular selectivity,2
+138,excess spontaneous emission,1,polarization-independent,2
+139,hermitian,1,periodic structures,2
+140,plexcitons,1,spontaneous,2
+141,plasmons,1,optically pumped far-infrared laser,2
+142,excitons,1,terahertz source,2
+143,j-aggregates,1,continuous wave,2
+144,lay decision theory,1,helium and neon ion beam fabrication,2
+145,causal attribution,1,hexagonal boron,2
+146,rationality,1,density of states,2
+147,decision-making,1,topological photonics,2
+148,mid-infrared,1,2d heterotructures,2
+149,iii-v semiconductors,1,perfect electric conductors,2
+150,cmos-compatible,1,surface plasmons,2
+151,gray scale electron beam lithography,1,pain management,2
+152,3d polymer waveguides and grating,1,nursing informatics,2
+153,1d photonic crystal,1,electronic health records and,2
+154,tunable photonic crystal,1,two-photon processes,2
+155,multi-component photonic,1,multimaterial fibers,2
+156,interface plasmon-polaritons,1,microparticles,2
+157,luminescence,1,confined solidification,2
+158,photoluminescence,1,in situ aligned carbon nanofibers,2
+159,evanescent field,1,thermal drawing process,2
+160,biosensors,1,data quality assessment,2
+161,photonic,1,amorphous silicon,2
+162,medical applications,1,fdtd simulation,2
+163,co2-laser,1,medication therapy management,2
+164,planar photonic crystals,1,broad-band,2
+165,chalcogenide,1,solar-cells,2
+166,nonlinear,1,cholesteric microparticles,2
+167,adaptive nulling,1,chiral optomechanics,2
+168,broadband beamforming,1,radiative heat transfer,2
+169,phased-array antennas,1,blackbody,2
+170,si photonics,1,thermophotovoltaics,2
+171,optical clocking,1,data validation and,2
+172,cmos,1,casimir effect,2
+173,lsis,1,electromagnetic propagation,2
+174,interferometric modulators,1,extinction coefficients,2
+175,linear electrooptic (eo),1,excess spontaneous emission,2
+176,birefringence,1,hermitian,2
+177,microspectrometer,1,1d photonic crystal,2
+178,optical sensor,1,tunable photonic crystal,2
+179,gratings,1,multi-component photonic,2
+180,microlens arrays,1,photoluminescence,2
+181,fabrication technology,1,medical applications,2
+182,wavelength,1,co2-laser,2
+183,silicon wire waveguide,1,adaptive nulling,2
+184,moems,1,broadband beamforming,2
+185,microphotonic,1,phased-array antennas,2
+186,optical signal processing,1,interferometric modulators,2
+187,tunable optical filters,1,linear electrooptic (eo),2
+188,planar lightwave circuits,1,microspectrometer,2
+189,on-chip optical interconnection,1,optical sensor,2
+190,cu-low k technology,1,fabrication technology,2
+191,high-index,1,microphotonic,2
+192,optoelectronics,1,optical signal processing,2
+193,optical communication,1,tunable optical filters,2
+194,optical information,1,on-chip optical interconnection,2
+195,ultrashort laser pulses,1,cu-low k technology,2
+196,ultrafast nonlinear optics,1,high-index,2
+197,micromachining,1,ultrashort laser pulses,2
+198,interfacial roughness,1,ultrafast nonlinear optics,2
+199,"si, sio2",1,micromachining,2
+200,block copolymers,1,interfacial roughness,2
+201,confinement of light,1,"si, sio2",2
+202,defects,1,glass,1
+203,enhanced refractive,1,low oh content,1
+204,dielectric,1,gray scale electron beam lithography,1
+205,high-power lasers,1,3d polymer waveguides and grating,1
+206,hollow waveguides,1,silicon wire waveguide,1
+207,light conduits,1,moems,1

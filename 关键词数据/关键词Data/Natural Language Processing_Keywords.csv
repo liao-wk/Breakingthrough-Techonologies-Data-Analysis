@@ -1,0 +1,221 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,natural language processing,46,natural language processing,100
+1,natural language,12,natural language,31
+2,natural,4,natural,11
+3,semantic web,4,semantic web,11
+4,computational linguistics,3,computational linguistics,8
+5,language,3,language,8
+6,database,3,semantics,8
+7,semantics,3,database,7
+8,ontology,2,affect,7
+9,machine translation,2,ontology,6
+10,natural language generation,2,machine translation,6
+11,formal languages,2,formal languages,6
+12,sentiment analysis,2,text,6
+13,text,2,query,6
+14,nlp,2,tagging,6
+15,text retrieval,2,sentiment analysis,5
+16,query,2,nlp,5
+17,documentation,2,natural language generation,4
+18,natural language understanding,2,svo,4
+19,tagging,2,sov,4
+20,description logic,2,smt,4
+21,affect,2,standard arabic language,4
+22,universal networking language,1,hpsg,4
+23,punjabi analysis grammar,1,software platform,4
+24,punjabi,1,text parsing,4
+25,kurdish blark,1,documentation,4
+26,language tools,1,natural language understanding,4
+27,natural language interface,1,attitudes,4
+28,arabic natural,1,corpus annotation,4
+29,neural networks,1,emotion,4
+30,document representation,1,kurdish blark,3
+31,decoding,1,language tools,3
+32,computer-generated texts,1,natural language interface,3
+33,computational,1,arabic natural,3
+34,svo,1,computer vision,3
+35,sov,1,robotics,3
+36,smt,1,language and,3
+37,uml diagrams,1,computer linguistics,3
+38,software engineering,1,language theory,3
+39,computer vision,1,question-answer,3
+40,robotics,1,sarcasm,3
+41,language and,1,machine learning,3
+42,computer linguistics,1,component,3
+43,language theory,1,urdu word processor,3
+44,question-answer,1,language processing tools,3
+45,facts extraction,1,unicode,3
+46,polish natural language,1,automata,3
+47,sarcasm,1,finite slate automata,3
+48,machine learning,1,shallow parsing,3
+49,word sense disambiguation,1,morphological ambiguity,3
+50,arabic word,1,ambiguous texts,3
+51,hidden markov model,1,dialogue system,3
+52,arabic natural language processing,1,user interface,3
+53,part-of-speech,1,editorials,3
+54,component,1,electronic health records,3
+55,standard arabic language,1,image representation,3
+56,hpsg,1,primal sketch theory,3
+57,software platform,1,american sign language,3
+58,text parsing,1,sign language,3
+59,urdu word processor,1,simple sentence,3
+60,language processing tools,1,chinese romanization,3
+61,unicode,1,pinyin,3
+62,structure query language,1,chinese characters,3
+63,discourse,1,part of speech,3
+64,natural language processing(nlp),1,arabic language,3
+65,natural language generation (nlg),1,video processing,3
+66,web,1,video annotation,3
+67,route natural language processing,1,natural language description,3
+68,route natural language corpus,1,video,3
+69,route,1,nlidb,3
+70,data validation,1,computational paninian grammar,3
+71,e-learning,1,karaka relations,3
+72,automata,1,lexical resource,3
+73,finite slate automata,1,fuzzy query,3
+74,shallow parsing,1,computing with words,3
+75,morphological ambiguity,1,fuzzy sets,3
+76,ambiguous texts,1,natural query,3
+77,dialogue system,1,text processing,3
+78,user interface,1,text mining,3
+79,editorials,1,plagiarism,3
+80,electronic health records,1,dynamical systems,3
+81,pplied language management system,1,chaos,3
+82,intelligent,1,web 2.0,3
+83,composition and decomposition,1,query processing,3
+84,morphological decomposition,1,local grammars,3
+85,l2,1,korean natural language query,3
+86,image representation,1,language description,3
+87,primal sketch theory,1,graphic representation,3
+88,natural language system evaluation,1,visual information,3
+89,american sign language,1,parsing,3
+90,sign language,1,syntax parsing,3
+91,simple sentence,1,rule,3
+92,clinical decision support,1,syntactic,3
+93,nlp-based,1,affect recognition,3
+94,mixing of natural language and modeling language,1,affect lexicon,3
+95,anti patterns,1,av controller,3
+96,abstractive summarization,1,dialog,3
+97,markov decision,1,lexicon,3
+98,semantic structure tree,1,hownet,3
+99,semantic recognition algorithm,1,web data mining.,3
+100,turkish,1,web sensitive,3
+101,language resources,1,universal networking language,2
+102,emotion classification for text based conversations,1,punjabi analysis grammar,2
+103,dialog act,1,punjabi,2
+104,semantic information retrieval,1,neural networks,2
+105,query interfaces,1,document representation,2
+106,natural language visualization,1,decoding,2
+107,controlled language,1,computer-generated texts,2
+108,domain-specific language,1,computational,2
+109,embedded language,1,uml diagrams,2
+110,chinese romanization,1,software engineering,2
+111,pinyin,1,facts extraction,2
+112,chinese characters,1,polish natural language,2
+113,part of speech,1,word sense disambiguation,2
+114,arabic language,1,arabic word,2
+115,chronic obstructive pulmonary disease,1,hidden markov model,2
+116,term,1,arabic natural language processing,2
+117,controlled natural language,1,part-of-speech,2
+118,knowledge representation,1,structure query language,2
+119,answer set,1,discourse,2
+120,text analysis,1,natural language processing(nlp),2
+121,sentiment and subjectivity,1,natural language generation (nlg),2
+122,infirmation retrieval,1,web,2
+123,requirements engineering,1,route natural language processing,2
+124,grammatical knowledge patterns,1,route natural language corpus,2
+125,frames,1,route,2
+126,software failure,1,text retrieval,2
+127,natural sign language,1,data validation,2
+128,corpus,1,e-learning,2
+129,dynamic,1,pplied language management system,2
+130,artificial intelligent,1,intelligent,2
+131,essay questions,1,composition and decomposition,2
+132,information retrieval,1,morphological decomposition,2
+133,phrase,1,l2,2
+134,video processing,1,clinical decision support,2
+135,video annotation,1,nlp-based,2
+136,natural language description,1,abstractive summarization,2
+137,video,1,markov decision,2
+138,text encryption,1,semantic structure tree,2
+139,information security,1,semantic recognition algorithm,2
+140,nlidb,1,turkish,2
+141,computational paninian grammar,1,language resources,2
+142,karaka relations,1,semantic information retrieval,2
+143,crowdsourcing,1,query interfaces,2
+144,natural language elicitation methods,1,natural language visualization,2
+145,novice programming environments,1,controlled language,2
+146,novice programmer,1,domain-specific language,2
+147,lexical resource,1,embedded language,2
+148,cover unit,1,chronic obstructive pulmonary disease,2
+149,data-hiding code,1,term,2
+150,natural language information hiding,1,controlled natural language,2
+151,fuzzy query,1,knowledge representation,2
+152,computing with words,1,answer set,2
+153,fuzzy sets,1,text analysis,2
+154,natural query,1,sentiment and subjectivity,2
+155,semantic networks,1,infirmation retrieval,2
+156,spreading activation,1,requirements engineering,2
+157,prolog,1,grammatical knowledge patterns,2
+158,applications of natural language,1,frames,2
+159,linguistics,1,software failure,2
+160,semantic search,1,natural sign language,2
+161,text processing,1,corpus,2
+162,text mining,1,dynamic,2
+163,plagiarism,1,artificial intelligent,2
+164,natural human-robot interaction,1,essay questions,2
+165,dialogue,1,information retrieval,2
+166,service composition,1,phrase,2
+167,patterns,1,text encryption,2
+168,text summarization,1,information security,2
+169,rules,1,crowdsourcing,2
+170,statistics,1,natural language elicitation methods,2
+171,spatial relation,1,novice programming environments,2
+172,annotation,1,novice programmer,2
+173,dynamical systems,1,cover unit,2
+174,chaos,1,data-hiding code,2
+175,web 2.0,1,natural language information hiding,2
+176,query processing,1,description logic,2
+177,local grammars,1,semantic networks,2
+178,korean natural language query,1,spreading activation,2
+179,chinese natural language processing,1,prolog,2
+180,language resource,1,applications of natural language,2
+181,resource,1,linguistics,2
+182,language description,1,semantic search,2
+183,graphic representation,1,natural human-robot interaction,2
+184,visual information,1,dialogue,2
+185,parsing,1,service composition,2
+186,natural language queries,1,patterns,2
+187,conceptual schema,1,text summarization,2
+188,class diagram,1,rules,2
+189,syntax parsing,1,statistics,2
+190,rule,1,spatial relation,2
+191,syntactic,1,annotation,2
+192,object constraint language,1,chinese natural language processing,2
+193,statistical machine translation,1,language resource,2
+194,business,1,resource,2
+195,biolinguistics,1,natural language queries,2
+196,natural languages,1,conceptual schema,2
+197,text compression,1,class diagram,2
+198,natural language modelling,1,object constraint language,2
+199,ppm,1,statistical machine translation,2
+200,affect recognition,1,business,2
+201,affect lexicon,1,biolinguistics,2
+202,chinese information processing,1,natural languages,2
+203,ontologies,1,text compression,2
+204,attitudes,1,natural language modelling,2
+205,corpus annotation,1,ppm,2
+206,emotion,1,ontologies,2
+207,av controller,1,text watermarking,2
+208,dialog,1,text steganography,2
+209,lexicon,1,language situation,2
+210,text watermarking,1,chinese word segmentation,2
+211,text steganography,1,ambiguous word,2
+212,language situation,1,hebrew,2
+213,chinese word segmentation,1,information systems,2
+214,ambiguous word,1,natural language system evaluation,1
+215,hebrew,1,mixing of natural language and modeling language,1
+216,hownet,1,anti patterns,1
+217,web data mining.,1,emotion classification for text based conversations,1
+218,web sensitive,1,dialog act,1
+219,information systems,1,chinese information processing,1
