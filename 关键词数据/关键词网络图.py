@@ -10,7 +10,7 @@ import pandas as pd
 MG = nx.MultiGraph()
 plt.figure(figsize=(25, 25))
 os.chdir("F:\\大道之君\\Breakingthrough-Techonologies-Data-Analysis\\关键词数据\\关键词Data")
-fileName = "Digital Rights Management"
+fileName = "Microphotonics"
 filename = fileName + '.json'
 file = open(filename)
 line_num = 0  # 设置初始行号为0
