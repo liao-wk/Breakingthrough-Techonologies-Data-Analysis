@@ -1,0 +1,732 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+ER
+
+PT J
+DE Reactive programming; empirical study; controlled experiment; software
+   comprehension
+ID MENTAL REPRESENTATIONS; DESIGN
+ER
+
+PT S
+DE Cryptography; Code Generation; Variability Modeling; Code Analysis
+ER
+
+PT B
+DE library detection; repackage detection; obfuscation; code analysis
+ID MALWARE
+ER
+
+PT S
+ID STACK INSPECTION; INFORMATION-FLOW
+ER
+
+PT J
+DE CACN-1; Somatic gonad; Sperm-oocyte switch; Spliceosome;
+   Post-transcriptional regulation; C. elegans
+ID MEIOTIC DEVELOPMENT DECISION; GERMLINE STEM-CELLS; C-ELEGANS;
+   REPRODUCTIVE-SYSTEM; SEX-DETERMINATION; GENE; PROTEIN; MATURATION;
+   HERMAPHRODITE; PROLIFERATION
+ER
+
+PT J
+ER
+
+PT S
+DE Functional-reactive Programming; Debugging
+ER
+
+PT B
+DE Markov Chain Monte Carlo (MCMC); Dynamic Models; Aspects
+ER
+
+PT B
+DE API-Misuse Detection; Bug Detection; Benchmark
+ER
+
+PT B
+ER
+
+PT B
+DE Type systems; Formal specification; Declarative languages; First-order
+   theorem proving; Domain-specific languages
+ER
+
+PT J
+DE Algorithms; Experimentation; Measurement; Performance; Content assist;
+   code completion; integrated development environments; machine learning;
+   evaluation; code recommender; productivity
+ID RECOMMENDATION
+ER
+
+PT J
+DE phthalates; bisphenol A; pregnancy; temporal variability; intraclass
+   correlation
+ID TEMPORAL VARIABILITY; ENVIRONMENTAL PHENOLS; UNITED-STATES; PUERTO-RICO;
+   WOMEN; EXPOSURE; SAMPLES; PREDICTORS; REPRODUCIBILITY; HEALTH
+ER
+
+PT J
+DE Bisphenol A; Triclosan; Urine; Infant; Pregnancy; Meconium
+ID BISPHENOL-A EXPOSURE; PERSONAL CARE PRODUCTS; TANDEM MASS-SPECTROMETRY;
+   HUMAN BREAST-MILK; HPLC-MS/MS METHOD; PREGNANT-WOMEN; URINARY
+   CONCENTRATIONS; ENDOCRINE DISRUPTORS; PRENATAL EXPOSURE; BIRTH OUTCOMES
+ER
+
+PT B
+DE Java; Finding Bugs; Scalable Analysis; Abstract Interpretation;
+   Infeasible Paths
+ER
+
+PT B
+DE library; reuse; analysis; security; capability
+ID REUSE
+ER
+
+PT S
+ER
+
+PT J
+DE Reactive Programming; Scala; Distributed Programming
+ID DATA-FLOW; LANGUAGE
+ER
+
+PT J
+ID TYPED EVENTS; LANGUAGE
+ER
+
+PT S
+DE aspects; business process; modeling; weaving; model transformation
+ER
+
+PT S
+DE Reactive Programming; Functional-reactive Programming; Object-oriented
+   Programming; Incremental Computation
+ID SELF-ADJUSTING COMPUTATION; DATA-FLOW; LANGUAGE; JAVA;
+   PUBLISH/SUBSCRIBE; IMPLEMENTATION; POINTCUTS; SYSTEMS; DESIGN
+ER
+
+PT B
+DE Taint analysis; confused deputy; IFDS
+ER
+
+PT B
+DE Reactive Programming; Empirical Study; Controlled Experiment
+ID MENTAL REPRESENTATIONS; USABILITY; OBJECTS; CODE
+ER
+
+PT J
+DE Calling context profiling; Bytecode instrumentation; Dynamic metrics;
+   Selective profiling
+ID ACCURATE
+ER
+
+PT J
+DE programming languages; meta-programming; reflection; runtime analysis;
+   Java; virtualization
+ID LANGUAGES
+ER
+
+PT J
+DE Florida Keys; Sustainable fisheries; Coral reefs; Marine reserves;
+   Mycteroperca bonaci; Lutjanus analis
+ID PROTECTED AREAS; ECOLOGICAL-RESERVE; LARVAL RECRUITMENT; MANAGEMENT;
+   FISHERIES; ECOSYSTEM; PATTERNS; LENGTH; KEYS
+ER
+
+PT J
+DE Software product lines; inter-procedural static analysis; context
+   sensitive; flow sensitive; Design; Languages; Performance
+ID DATA-FLOW ANALYSIS; CONSTANT PROPAGATION; SHAPE-ANALYSIS
+ER
+
+PT J
+DE Language embeddings; Domain-specific languages; Language design and
+   implementation; Program transformation; Generic pre-processor
+ID DOMAIN-SPECIFIC LANGUAGE; COMPILER; JAVA
+ER
+
+PT J
+DE diarrhetic shellfish poisoning (DSP); outbreak; Canada; shellfish
+   toxins; mussels; okadaic acid; public health
+ID HUMAN HEALTH; PHYTOPLANKTON; CONFIRMATION; TOXINS
+ER
+
+PT J
+DE API property; programming rules; specifications; protocols; interface;
+   data mining; pattern mining; API evolution; API usage pattern
+ID MINING TEMPORAL SPECIFICATIONS; SOURCE CODE; OBJECT USAGE; GENERATION;
+   BEHAVIOR; MODELS; DOCUMENTATION; PATTERNS; RULES
+ER
+
+PT J
+DE Verification; Bugdetection; static analysis; data mining
+ER
+
+PT S
+DE stack trace; duplicate detection; bug report
+ER
+
+PT S
+DE Functional-reactive Programming; Scala; Event-driven Programming
+ID LANGUAGE
+ER
+
+PT J
+ID USABILITY
+ER
+
+PT J
+DE Languages; Measurement; Performance; Object demographics; Java; Scala
+ER
+
+PT J
+ID BAHAMIAN CORAL-REEFS; NORTH-AMERICA; PATTERNS; UPDATE; COAST
+ER
+
+PT S
+DE Bytecode instrumentation; aspect-oriented programming; domain-specific
+   languages; partial evaluation; Java Virtual Machine
+ID VERIFICATION; PROGRAMS; JAVA
+ER
+
+PT S
+ER
+
+PT J
+DE Hawksbill; Satellite; Acoustic; Telemetry; Kernel density estimate;
+   Harvest; Dry Tortugas
+ID ERETMOCHELYS-IMBRICATA LINNAEUS; SEA-TURTLES; GROWTH-RATES;
+   SATELLITE-TRACKING; ULTRASONIC TELEMETRY; MIGRATORY BEHAVIOR; LOCATION
+   ACCURACY; DIVING BEHAVIOR; FEEDING GROUNDS; FORAGING AREA
+ER
+
+PT J
+DE Languages; Measurement; Performance; Benchmarks; dynamic metrics; Scala;
+   Java
+ER
+
+PT J
+ID MEDICAL-EDUCATION; GROSS-ANATOMY; STUDENTS; PROFESSIONALISM; HUMANITIES;
+   DISSECTION; TEACHERS; CEREMONY; PROJECT; DEATH
+ER
+
+PT B
+DE Benchmarks; dynamic metrics; Scala; Java
+ER
+
+PT S
+ID INFECTION; DISEASE; IMPACT
+ER
+
+PT B
+DE Reflection; static analysis; dynamic class loading; dynamic class
+   loaders; native code; tracing
+ID JAVA
+ER
+
+PT S
+ID CHECKING
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ID CODE CHANGES; REFACTORINGS
+ER
+
+PT S
+ID CODE
+ER
+
+PT S
+ID SPECIFICATIONS; MODULES; SYSTEMS; LOGIC
+ER
+
+PT S
+ER
+
+PT S
+ID SCALE-FREE NETWORKS; SOFTWARE; SYSTEMS; DESIGN
+ER
+
+PT S
+ID UML CLASS DIAGRAMS; MODELS; TOOL
+ER
+
+PT S
+ER
+
+PT S
+ID UML CLASS DIAGRAMS; CONSISTENCY; MODELS; LSCS
+ER
+
+PT S
+ID SYSTEM
+ER
+
+PT S
+ID INVARIANTS
+ER
+
+PT S
+ID OBJECT INVARIANTS; DYNAMIC FRAMES; LOGIC
+ER
+
+PT S
+DE memory footprint; memory bloat; pattern detection; tools
+ER
+
+PT S
+ID ESCAPE ANALYSIS; JAVA
+ER
+
+PT S
+DE Java 1.6; dead code; bug finding; type checking
+ER
+
+PT S
+ID PERMISSIONS; CHECKING; OBJECTS; JAVA
+ER
+
+PT S
+ID PREDICTION
+ER
+
+PT S
+ID TRAITS
+ER
+
+PT S
+ER
+
+PT S
+ID JAVA
+ER
+
+PT S
+ER
+
+PT S
+DE error recovery; concurrent programs; failure atomicity
+ER
+
+PT J
+DE total diet; gas chromatography (GC); gas chromatography/mass
+   spectrometry (GC/MS); total diet studies bisphenol A
+ID CANNED FOODS; EXPOSURE ASSESSMENT; JAPANESE MARKETS; PRODUCTS; FORMULA
+ER
+
+PT J
+DE Arctic health; Country food; Infant; Legacy and emerging environmental;
+   contaminant monitoring; Maternal; Metals; Organochlorines; Risk
+   communication
+ID HEART-RATE-VARIABILITY; POLYBROMINATED DIPHENYL ETHERS;
+   POLYCHLORINATED-BIPHENYLS PCBS; PRENATAL METHYLMERCURY EXPOSURE;
+   SEYCHELLES CHILD-DEVELOPMENT; BROMINATED FLAME RETARDANTS; PRESCHOOL
+   INUIT CHILDREN; ALPHA-LINOLENIC ACID; SUDDEN CARDIAC DEATH; N-3
+   FATTY-ACIDS
+ER
+
+PT J
+DE Languages; Experimentation; Registration; Fluid AOP; Programming Tools
+ER
+
+PT J
+DE Methylmercury; biomonitoring; guidance
+ID SEYCHELLES CHILD-DEVELOPMENT; BENCHMARK CONCENTRATIONS; MERCURY
+   EXPOSURE; FISH CONSUMPTION
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+DE Aspects; BPMN; Business Process Modeling; Aspect-Oriented Modeling
+ER
+
+PT S
+ER
+
+PT J
+DE Design; Languages; Theory; Patterns; pattern language; semiotics;
+   extensibility; language extension; language design; domain specific
+   languages; macros
+ER
+
+PT J
+DE Diet; food; exposure; contaminant; triazine; LC-MS/MS; risk assessment;
+   melamine; infant formula
+ID MASS-SPECTROMETRY; LIQUID; RESIDUES
+ER
+
+PT S
+ER
+
+PT B
+DE Aspect-Oriented Programming; Autonomic Computing; Self-Healing; Service
+   Composition; BPEL
+ER
+
+PT B
+ER
+
+PT B
+DE Aspect-Oriented Programming; Meta-Object Protocols; Open Implementation;
+   Debugging; Aspect Interactions
+ID MODEL
+ER
+
+PT B
+DE Aspect-oriented programming; Runtime monitoring; Temporal Properties;
+   Formal methods; Web services
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT B
+DE continuous checking; controlling program dependencies; static analysis;
+   Datalog
+ER
+
+PT B
+DE Design
+ER
+
+PT J
+ID SOCIOLOGY; LAW
+ER
+
+PT J
+DE languages; theory; dependent classes; virtual classes; dynamic dispatch;
+   multiple dispatch; multimethods; variability
+ER
+
+PT J
+DE web service composition; workflow; separation of concerns;
+   aspect-oriented; programming; modularization; adaptation; BPEL
+ID WEB SERVICES COMPOSITION; POINTCUTS
+ER
+
+PT B
+ER
+
+PT S
+ID SPECIFICATIONS; FRAMEWORK
+ER
+
+PT S
+ER
+
+PT B
+DE dependent classes; virtual classes; dynamic dispatch; multiple dispatch;
+   multimethods; variability
+ID CALCULUS; JAVA
+ER
+
+PT S
+ER
+
+PT J
+DE scheme; aspect; join point; pointcut; advice; higher-order; CEKS;
+   abstract machine
+ID MODEL; PROGRAMMERS; AOP
+ER
+
+PT J
+ID LONG SAPHENOUS-VEIN; SAPHENOFEMORAL JUNCTION; VENOUS INSUFFICIENCY;
+   RANDOMIZED-TRIAL; RE-EXPLORATION; SURGERY; REFLUX; DUPLEX; PATTERNS;
+   GROIN
+ER
+
+PT J
+DE languages; measurement; performance; aspect-oriented programming;
+   virtual machine support; aspect weaving; dynamic deployment;
+   envelope-based weaving
+ER
+
+PT J
+DE languages; measurement; performance; aspect-oriented programming;
+   virtual machine support; control flow
+ER
+
+PT J
+DE dioxins; dibenzofurans; PCBs; TEFs; reevaluation; WHO
+ID DIBENZO-P-DIOXINS; ARYL-HYDROCARBON RECEPTOR; SPRAGUE-DAWLEY RATS;
+   BROMINATED FLAME RETARDANTS; INDIVIDUAL POLYCHLORINATED NAPHTHALENES;
+   POLYBROMINATED DIPHENYL ETHERS; SUBCHRONIC DIETARY EXPOSURE;
+   DOSE-RESPONSE RELATIONSHIPS; TUMOR PROMOTING ACTIVITY; CYP1A2
+   ENZYME-ACTIVITY
+ER
+
+PT J
+DE software exploration; program comprehension; reverse engineering;
+   software maintenance; software visualization
+ID PROGRAM COMPREHENSION; DESIGN; MAINTENANCE; NAVIGATION
+ER
+
+PT B
+ER
+
+PT J
+DE methylmercury; biomonitoring; toxicokinetics; biomarker
+ID DOSE-RESPONSE RELATIONSHIP; METHYL MERCURY; INTERINDIVIDUAL VARIABILITY;
+   AMAZONIAN POPULATION; NORTHERN QUEBEC; FISH DIET; EXPOSURE; BLOOD; HAIR;
+   ELIMINATION
+ER
+
+PT S
+DE modularity; separation of concerns; aspect-oriented software
+   development; workflow languages
+ER
+
+PT S
+ID EXTENSIBILITY; MULTIJAVA
+ER
+
+PT J
+DE Arctic regions; environmental monitoring; PCBs; organochlorines;
+   mercury; maternal; infant; monitoring environmental pollution; Northern
+   populations; public health; risk factors; risk-benefit management
+ID UMBILICAL-CORD BLOOD; IN-UTERO EXPOSURE; RELEVANT ORGANOCHLORINE
+   MIXTURE; WESTERN NORTHWEST-TERRITORIES; PERSISTENT ORGANIC POLLUTANTS;
+   SEYCHELLES CHILD-DEVELOPMENT; MACACA-FASCICULARIS MONKEYS;
+   THYROID-BINDING GLOBULIN; MATERNAL SEAFOOD DIET; PRENATAL PCB EXPOSURE
+ER
+
+PT J
+ID D-GLUCARIC ACID; EQUIVALENCY FACTORS TEFS; CAFFEINE BREATH TEST;
+   POLYCHLORINATED-BIPHENYLS; DOSE-RESPONSE; ST-LAWRENCE; TCDD;
+   2,3,7,8-TETRACHLORODIBENZO-P-DIOXIN; CONTAMINANTS; INDUCTION
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+DE aspect-oriented programming; modularity; modular reasoning
+ER
+
+PT S
+DE aspect-oriented programming; aspect-oriented design; software
+   development
+ER
+
+PT S
+ID PROGRAM COMPREHENSION; TOOLS
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ID SYSTEMS
+ER
+
+PT J
+DE design; languages; theory; advice; AspectJ; aspect-oriented programming;
+   Aspect Sand Box; join point; pointcut
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT S
+DE mobility model; MANET; GEMM
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ID BROMINATED FLAME RETARDANTS; HUMAN ADIPOSE-TISSUE; SWEDISH HUMAN-MILK;
+   IN-VITRO; 2,2',4,4',5-PENTABROMODIPHENYL ETHER;
+   2,2',4,4'-TETRABROMODIPHENYL ETHER; POLYCHLORINATED-BIPHENYLS;
+   XENOBIOTIC METABOLISM; THYROID-HORMONE; PLASMA-LEVELS
+ER
+
+PT S
+DE Adaptive Web Service composition; aspect-oriented programming;
+   separation of concerns; BPEL
+ER
+
+PT J
+DE aspect-oriented programming; components; EJB
+ER
+
+PT J
+DE oxychlordane; nonachlor; rats; histopathology; residues
+ID TECHNICAL CHLORDANE; TRANS-NONACHLOR; ORGANOCHLORINES; CONTAMINANTS;
+   TRENDS; TCDD
+ER
+
+PT J
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ID EXTENSION
+ER
+
+PT J
+DE behaviour; bone; caffeine; calcium balance; cardiovascular effects;
+   children; coffee; congenital malformations; development; fertility;
+   foetal growth; pregnancy; spontaneous abortion; tea
+ID INFANT-DEATH-SYNDROME; CORONARY-HEART-DISEASE; INTRAUTERINE
+   GROWTH-RETARDATION; LOW-BIRTH-WEIGHT; BONE-MINERAL DENSITY;
+   SPRAGUE-DAWLEY RATS; SCHOOL-AGE-CHILDREN; IOWA WOMENS HEALTH;
+   RISK-FACTORS; COFFEE CONSUMPTION
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT J
+DE design; languages; on-demand remodularization; aspect-oriented
+   programming; collaboration-based decomposition
+ER
+
+PT J
+DE design; languages; design patterns; aspect-oriented programming
+ER
+
+PT J
+ID JUVENILE ARCTIC CHARR; SALVELINUS-ALPINUS L; SUSTAINED EXERCISE;
+   FOOD-INTAKE; FISH; BEHAVIOR; DOLPHIN
+ER
+
+PT J
+ID ADDICTION SEVERITY INDEX; SUBSTANCE USE; FOLLOW-UP;
+   PSYCHIATRIC-DISORDERS; MENTAL-DISORDERS; COPING SKILLS; ALCOHOLIC MEN;
+   RELIABILITY; ABUSERS; DRINKING
+ER
+
+PT S
+ID SERVICE
+ER
+
+PT J
+ID INHERITANCE
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE TCDD; PCB; mixture effects; interactions
+ID 2,2',4,4',5,5'-HEXACHLOROBIPHENYL; TCDD; AROCLOR-1254; ANTAGONIST;
+   TOXICITY; EXPOSURE; VITAMIN; TISSUE; PCB
+ER
+
+PT J
+DE trans-nonachlor; cis-nonachlor; chlordane; oxy-chlordane; toxicity
+ID ORGANOCHLORINE PESTICIDES; POLYCHLORINATED-BIPHENYLS; HUMAN-MILK;
+   ACCUMULATION; METABOLISM; BENEFITS; LIVER; RISKS; MICE; FOOD
+ER
+
+PT J
+ID 2,3,7,8-TETRACHLORODIBENZO-P-DIOXIN; EXPOSURE; RAT
+ER
+
+PT J
+DE birth weight; breast-feeding; in utero; neurological development;
+   thyroid hormones
+ID DIBENZO-P-DIOXINS; THYROID-HORMONE STATUS; BIPHENYLS IN-UTERO;
+   POLYCHLORINATED-BIPHENYLS; HUMAN-MILK; BODY BURDEN; DICHLORODIPHENYL
+   DICHLOROETHENE; ORGANOCHLORINE PESTICIDES; PRENATAL EXPOSURE; BACKGROUND
+   LEVELS
+ER
+
+PT J
+ID 2,3,7,8-TETRACHLORODIBENZO-P-DIOXIN; EXPOSURE; RAT
+ER
+
+PT S
+ER
+
+PT J
+ER
+
+PT J
+ID PSYCHOTHERAPY; PHARMACOTHERAPY
+ER
+
+PT J
+ID CONSECUTIVE OPERATIVE PROCEDURES; OPEN-HEART SURGERY; MEDIAN STERNOTOMY;
+   FLAP RECONSTRUCTION; MUSCLE FLAPS; INFECTION; MANAGEMENT
+ER
+
+PT J
+DE Zenker's diverticulum; cricopharyngeal myotomy; surgical complications;
+   diverticulectomy
+ID ENDOSCOPIC TREATMENT; LONG
+ER
+
+PT J
+DE Aboriginal; indigenous; Arctic; health; traditional diet; country food;
+   environmental contaminants; risk management; risk assessment
+ID DIBENZO-P-DIOXINS; HUMAN ADIPOSE-TISSUE; TRADITIONAL FOOD USE; BAFFIN
+   INUIT FOOD; POLYCHLORINATED-BIPHENYLS; HUMAN-MILK; BREAST-MILK; CHEMICAL
+   CONTAMINANTS; NORTHWEST-TERRITORIES; ABORIGINAL PEOPLES
+ER
+
+PT J
+DE hamstrings; anterior thigh; anterior hip; hold-relax
+ID ACTIVE-KNEE-EXTENSION; MUSCLE FLEXIBILITY; HAMSTRING MUSCLES; MOTION;
+   RELIABILITY; LENGTH; RANGE
+ER
+
+EF

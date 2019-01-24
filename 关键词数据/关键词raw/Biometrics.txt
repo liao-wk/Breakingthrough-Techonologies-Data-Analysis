@@ -1,0 +1,655 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE Biometrics; Entrainment
+ER
+
+PT J
+DE Biometrics; Bio-cryptography; Cancelable biometrics; Fingerprints; Key
+   agreement; Security analysis
+ID FUZZY VAULT; FINGERPRINT
+ER
+
+PT J
+DE facial biometrics; smart devices; biometric authentication
+ER
+
+PT J
+ID PRIVACY PROTECTION; IDENTIFICATION
+ER
+
+PT J
+DE image processing; soft biometrics; ear recognition; unconstrained
+   environment; person recognition
+ER
+
+PT J
+DE Soft biometrics; hard biometrics; commercial systems; unconstrained
+   scenarios
+ID HUMAN IDENTIFICATION; CHALLENGES; TRAITS
+ER
+
+PT J
+ER
+
+PT J
+DE biometrics; immigration control; Argentina; South America; surveillance
+ER
+
+PT J
+DE biometrics (access control); predictive biometrics; personal
+   characteristic prediction; soft biometrics information; person
+   identification; soft biometrics processing; user authentication;
+   biometric data processing
+ID HUMAN AGE ESTIMATION; KEYSTROKE DYNAMICS; EMOTION; AUTHENTICATION;
+   RECOGNITION; FRAMEWORK; PASSWORD; FEATURES; VERIFICATION; INFORMATION
+ER
+
+PT J
+DE Eye movement biometrics; Biometric databases; Biometric competition
+ID VISUAL ENVIRONMENTS; ATTENTION; IDENTIFICATION; RECOGNITION; ALGORITHM;
+   SCANPATHS; IMAGES; FILTER
+ER
+
+PT J
+DE Uni-modal biometrics; Multimodal biometrics; Feature level fusion; Score
+   level fusion; Homogenous data; Heterogeneous data
+ID FEATURE-EXTRACTION; IRIS RECOGNITION; FINGERPRINT; FACE; IDENTIFICATION;
+   IMAGES; VECTOR
+ER
+
+PT S
+DE Face; Fingerprint; Biometrics; Physiological biometrics; Identification;
+   Security systems; Multimodal systems; Fusion
+ID FEATURE-EXTRACTION; ALGORITHM
+ER
+
+PT S
+DE Biometric; MFCC; GA; Fuzzy Logic
+ID MINUTIAE EXTRACTION; FINGERPRINTS
+ER
+
+PT S
+DE Biometrics; pattern recognition; wavelet transform; principal component
+   analysis; fingerprint recognition; face recognition; bimodal biometrics
+ID FEATURE-LEVEL FUSION
+ER
+
+PT S
+ID SOFT BIOMETRICS
+ER
+
+PT J
+DE Biometrics; sensitive data; data protection; risks; human rights
+ER
+
+PT J
+DE biometrics
+ER
+
+PT J
+ID AUTHENTICATION
+ER
+
+PT J
+ID IDENTIFICATION
+ER
+
+PT B
+DE Biometrics; keystroke dynamics; digraph; trigraph; accelerometer
+ER
+
+PT S
+ID RECOGNITION
+ER
+
+PT B
+DE cancelable biometrics; dynamic random projection matrix; random
+   projection matrix; sectored iris features; template transformation
+ER
+
+PT S
+ID HUMAN AGE ESTIMATION; FACIAL EXPRESSIONS; IMAGE; RECOGNITION; FACE;
+   IDENTIFICATION; INFORMATION; REGRESSION; ALGORITHM; MANIFOLD
+ER
+
+PT J
+DE Soft biometrics; Recognition; Surveillance; Body; Gender; Age
+ID HUMAN AGE ESTIMATION; VISUAL-ATTENTION; IMAGES; FACE; SURVEILLANCE;
+   RECOGNITION; GENDER; MODEL; RACE
+ER
+
+PT J
+DE Biometrics; Multimodal biometric systems; fusion levels; recognition
+   methods; authentication
+ID FACE; RECOGNITION; FUSION; FINGERPRINT; IMAGES; IRIS; EAR
+ER
+
+PT J
+DE Fingerprint recognition; Authentication; Face recognition; Smart phones;
+   Mobile communication; Biometrics; security; biometrics; authentication;
+   fingerprints; mobile devices; facial recognition; behavioral biometrics;
+   smartphones
+ER
+
+PT B
+DE soft computing; multimodal biometrics; fuzzy logic; neural network;
+   evolutionary algorithm; hybrid system
+ID MODULAR NEURAL-NETWORKS; GENETIC ALGORITHMS; PATTERN-RECOGNITION;
+   OPTIMIZATION
+ER
+
+PT B
+DE biometrics; unconscious biometrics; continuous authentication; brain
+   wave; principle component analysis
+ER
+
+PT B
+DE Biometrics; Attitude; Challenges; user acceptance
+ER
+
+PT B
+DE component: Biometrics; biometric applications; biometrics recognition
+   system
+ER
+
+PT B
+DE multi-modal biometrics; feature fusion; complex field; improved locality
+   preserving projection
+ER
+
+PT S
+DE Forensics; biometrics; soft biometrics; heartbeat signals
+ID C-MEANS ALGORITHM; INTRINSIC FINGERPRINTS; CLASSIFICATION
+ER
+
+PT S
+DE Biometrics; Behavioral biometrics; Security; Usability; Authentication
+ID KEYSTROKE DYNAMICS; SECURITY; RECOGNITION
+ER
+
+PT S
+DE Biometrics; IRB; Institutional Review Board; Human Subjects Research
+   Data
+ER
+
+PT J
+ER
+
+PT J
+DE security; biometrics; identity sciences; cybercrime; NameTag; face
+   recognition; CFX; Composite Effects; FacialNetwork; fraud
+ER
+
+PT B
+ER
+
+PT B
+DE intent biometrics; multi-modal biometrics; stress
+ID STRESS
+ER
+
+PT B
+DE Automatic Identification; Frogs; Principal Component Analysis; Public
+   Database; Reference Systems
+ER
+
+PT B
+DE Cloud Computing; Biometrics; Cloud Security; Privacy-Enhanced Biometrics
+ID SCHEME
+ER
+
+PT S
+DE Soft Biometrics; Human Descriptions; Retrieval; Semantic Clothing
+   Attributes; Relative Attributes
+ER
+
+PT B
+DE Biometrics; Face; Fingerprint; Iris
+ER
+
+PT B
+DE MULTIMODAL BIOMETRICS; fuzzy fusion; Local Binary Pattern; Hashing
+ID IDENTIFICATION
+ER
+
+PT S
+DE E-Transaction; Fusion; Biometric authentication; Unimodal Biometrics;
+   Multimodal Biometrics
+ER
+
+PT B
+DE Biometrics; Fingerprint; Iris; ECG
+ER
+
+PT B
+DE biometrics; biometrics system; biometrics method; framework; evaluation
+ER
+
+PT J
+ID QUANTIZATION INDEX MODULATION; FUZZY VAULT SCHEME; FACE RECOGNITION;
+   PRIVACY; IDENTIFICATION; PERFORMANCE; ENCRYPTION; SYSTEMS; GAIT
+ER
+
+PT J
+DE Consent test; Human behavior; Consent biometrics; Security; Privacy
+ID IRIS RECOGNITION; EIGENFACES; SYSTEMS
+ER
+
+PT B
+DE ear biometrics; single-view-based; barrel distortion; super-resolution
+ER
+
+PT B
+DE soft biometrics; gender recognition; surveillance
+ID GENDER IDENTIFICATION
+ER
+
+PT B
+DE voice biometrics; speaker recognition; forensics
+ER
+
+PT J
+DE biometrics; identification; identity; materiality
+ID IDENTIFICATION; SURVEILLANCE; RECOGNITION
+ER
+
+PT B
+DE fingerprint; palm print; multimodal; unimodal; biometrics; MGF; ROI;
+   fusion
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE Pattern recognition; Biometrics; Emerging biometric modalities;
+   Palmprint biometrics; Knuckle biometrics
+ID PROBABILISTIC HOUGH TRANSFORM; RECOGNITION; IDENTIFICATION; FEATURES
+ER
+
+PT S
+DE Biometrics; Natural revocability; Stability; Signature verification;
+   Security; Variability
+ID RAPID HUMAN MOVEMENTS; KINEMATIC THEORY; VERIFICATION
+ER
+
+PT S
+DE User authentication; biometrics; active authentication;
+   privacy-preserving
+ID DYNAMICS
+ER
+
+PT B
+DE Biometrics; Authentication; privacy protection
+ER
+
+PT S
+DE Biometrics; Imaging Security; Watermarking; Image Cryptography;
+   Steganography
+ID FRAGILE WATERMARKING SCHEME; FACE RECOGNITION; PALMPRINT RECOGNITION;
+   MULTIMODAL BIOMETRICS; AUTHENTICATION; ENCRYPTION; PROTECTION; DOMAIN;
+   REPRESENTATION; STEGANOGRAPHY
+ER
+
+PT J
+ID RECOGNITION; TRAITS
+ER
+
+PT B
+DE Ear Biometrics; Pixel; Feature Extraction; Contour
+ER
+
+PT J
+ER
+
+PT J
+DE Biometrics; Pattern recognition; Matching score level fusion
+ID MULTIMODAL BIOMETRICS; LEVEL FUSION
+ER
+
+PT J
+DE Biometrics; Face reconition; Object recognition; Gender issues;
+   Identification; Authentication; Access control; Gender classification;
+   Identity sciences; Soft biometrics; Age estimation
+ER
+
+PT B
+DE biometrics; multi-biometrics; cryptography; cryptographic keys; session
+   key; key sharing; secure key management; revocable/cancelable
+   biometrics; crypto-biometrics keys
+ER
+
+PT S
+DE biometrics; particle swarm; data fusion; iris recognition; face
+   recognition
+ER
+
+PT S
+ER
+
+PT S
+ID RECOGNIZING MOVING FACES; GAIT RECOGNITION; METRICS; HUMANS; MOTION
+ER
+
+PT J
+DE biometrics; behavioral biometrics; physiological biometrics; image
+   analysis; activity-related recognition; event detection; activity
+   recognition; clustering; HMM; classification; authentication
+ID RECOGNITION
+ER
+
+PT J
+DE Soft biometrics; Weight; Clothes color; Bag of soft biometrics; Human
+   identification; Multibiometrics; Biometrics
+ID GAIT RECOGNITION; WEIGHT; HEIGHT; IMAGES; LENGTH; COLOR
+ER
+
+PT B
+ER
+
+PT S
+ID IDENTIFICATION; RECOGNITION; EXTRACTION; 3D
+ER
+
+PT S
+DE Biometric keys; Helper data; Cancelable Biometrics; Positive-sum
+   paradigm; Fair information practices; e-Identity; Covert/overt
+   biometrics
+ID RECONSTRUCTION; TEMPLATE
+ER
+
+PT S
+ER
+
+PT S
+DE Biometrics; Biometric Technologies; Biometrics Recognition; Ethical
+   Governance
+ER
+
+PT S
+DE biometrics; biosignal processing; digital human model; validation;
+   robustness
+ID IDENTIFICATION; RECOGNITION
+ER
+
+PT J
+DE Biometrics; footwear; gender recognition; shoes
+ER
+
+PT S
+DE Projection matrix; Finger print classification; Biometrics
+ER
+
+PT S
+DE biometrics; emerging biometrics; novel biometrics; biometric challenges;
+   biometric systems
+ER
+
+PT S
+DE Biometrics; Face Recognition; Wireless Sensor Network; Contactless
+   Biometrics
+ER
+
+PT J
+DE Audiovisual documentation; Television archives; Digital Media;
+   Information technologies; Computerisation of processes; Video
+   recognition
+ID RECOGNITION
+ER
+
+PT J
+DE Multimodal biometrics; Score-level fusion; Unconstrained cohort
+   normalisation; Qualitative-based fusion
+ID VERIFICATION
+ER
+
+PT B
+ER
+
+PT B
+DE Cancelable biometrics; identification; untraceability
+ID FINGERPRINT TEMPLATES
+ER
+
+PT B
+ER
+
+PT B
+DE Biometric encryption; security; keystroke
+ID ENCRYPTION(TM)
+ER
+
+PT B
+DE biometry; ICT; components on a base biometrics; practice use biometrics
+   in the school area
+ER
+
+PT J
+DE biometrics; authentication; face; fingerprint; token
+ER
+
+PT J
+DE biometrics; identity verification; iris recognition; texture analysis
+ID RECOGNITION SYSTEM; TEXTURE ANALYSIS; WAVELET PACKETS; SEGMENTATION
+   METHOD; NEURAL-NETWORK; GABOR FILTERS; ROBUST; CLASSIFICATION;
+   IDENTIFICATION; LOCALIZATION
+ER
+
+PT J
+DE multimodal biometrics; score-level fusion; unconstrained cohort
+   normalisation; biometric identification; biometric verification
+ER
+
+PT B
+DE biometrics; uniqueness; across-system replay; Security model
+ID SIGNATURE VERIFICATION; RECOGNITION
+ER
+
+PT S
+ER
+
+PT S
+ID RECOGNITION; EIGENFACES
+ER
+
+PT B
+DE biometric identification; DNA; finger print; Iris
+ER
+
+PT J
+DE biometrics; identification; frontier between 'them' and 'us';
+   generalization of suspicion; identity
+ID CRIME
+ER
+
+PT B
+ER
+
+PT S
+DE biometrics; forensics; face recognition
+ID FACE RECOGNITION
+ER
+
+PT S
+ID DERMATOGLYPHIC ASYMMETRY; SEXUAL ORIENTATION
+ER
+
+PT B
+DE Biometrics; feature extraction; classifier; recognition; matching score
+ER
+
+PT J
+DE 3D shape; shape matching; iterative closest point; biometrics
+ID FACE RECOGNITION; REGISTRATION; IMAGES
+ER
+
+PT J
+DE biometrics; online trust; data security; data integrity; electronic;
+   commerce
+ID INFORMATION-SYSTEMS; COMMERCE; MARKETS
+ER
+
+PT J
+ID AUTHENTICATION; RECOGNITION
+ER
+
+PT J
+DE single sample biometrics recognition; face and palmprint biometrics;
+   feature level fusion; Gabor-based image preprocessing; PCA; feature
+   weighting strategy; biometrics supplement
+ER
+
+PT B
+ID RECOGNITION
+ER
+
+PT S
+DE BioPhasor; cancellable biometrics; 2(N) stage discretisation; face
+   biometrics
+ID RECOGNITION
+ER
+
+PT S
+DE grid computing; biometrics; face; voiceprint
+ID FACE RECOGNITION; SYSTEM
+ER
+
+PT S
+DE grid technology; biometrics; face recognition; grid application
+ID FACE RECOGNITION
+ER
+
+PT S
+DE biometrics; authentication; human-computer interaction; Markov chains;
+   Bayesian methods
+ID SOFTWARE PROCESS; METRICS
+ER
+
+PT J
+ER
+
+PT J
+DE biometrics; identification; fusion; multimodal; body weight; body fat
+   percentage; fingerprint; soft biometrics
+ID FUSION; VERIFICATION; IDENTIFICATION; RECOGNITION; FACE
+ER
+
+PT S
+ER
+
+PT S
+DE user authentication; smart card; fingerprint; biometrics
+ER
+
+PT B
+DE authentication; biometrics; identification
+ID RECOGNITION
+ER
+
+PT B
+DE biometrics; person identification; security; access control;
+   fingerprint; iris; facial recognition
+ER
+
+PT J
+ER
+
+PT S
+ID FEATURE-EXTRACTION
+ER
+
+PT B
+DE cancelable biometrics; verification; privacy; BioHashing; security;
+   insider attack
+ID RECOGNITION
+ER
+
+PT S
+ER
+
+PT J
+ER
+
+PT B
+ID PRINCIPLES
+ER
+
+PT S
+ID RECOGNITION
+ER
+
+PT B
+DE Authentication; Authorization; Biometrics
+ER
+
+PT J
+ER
+
+PT S
+ER
+
+PT S
+ID SYSTEMS
+ER
+
+PT B
+ID RECOGNITION; FACE
+ER
+
+PT B
+DE python; biometrics; pyfinger; scripting; wrapper
+ER
+
+PT S
+DE biometrics; value chain; identity fraud; strategy; management; law
+   enforcement; identity checking; identity document
+ER
+
+PT B
+ER
+
+PT J
+ER
+
+PT J
+DE secure authentication; threat model; biometrics; fingerprint; WSQ
+   compression; data hiding; cancellable biometrics
+ID IDENTITY; SYSTEM
+ER
+
+PT J
+ER
+
+PT S
+DE classification of biometric applications; person recognition;
+   biometrics; passports; person tracking; fight against terror; antiterror
+   biometrics; biocodeR
+ER
+
+PT B
+ER
+
+PT J
+ER
+
+PT J
+DE biometrics; identity theft; performance evaluation; person
+   identification; security
+ID FINGERPRINTS; RECOGNITION
+ER
+
+PT J
+ER
+
+PT J
+ID FINGERPRINT; WATERMARKS; IMAGES
+ER
+
+PT J
+ER
+
+EF

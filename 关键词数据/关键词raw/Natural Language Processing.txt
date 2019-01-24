@@ -1,0 +1,637 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE Universal networking language; Punjabi analysis grammar; Punjabi
+   generation grammar; UNL; Punjabi natural language processing; X-bar;
+   IAN; EUGENE
+ER
+
+PT J
+DE Kurdish BLARK; Language tools; Computational linguistics; Natural
+   language processing
+ER
+
+PT J
+ID MODELS
+ER
+
+PT J
+DE Natural language interface; ontology; Semantic web; Arabic natural
+   language processing (NLP)
+ID SEMANTIC WEB
+ER
+
+PT S
+DE Natural language processing; Neural networks; Document representation;
+   Feature selection; Natural language generation; Language models;
+   Structured prediction; Supervised learning by classification
+ER
+
+PT B
+DE natural language processing; machine translation; decoding
+ER
+
+PT J
+DE Natural language generation; computer-generated texts; computational
+   creativity; authorship; computational agency
+ID COMPUTERS
+ER
+
+PT J
+DE Machine Translation; Natural Language Processing; SVO; SOV; SMT
+ER
+
+PT J
+ER
+
+PT J
+DE Natural Language Processing; UML Diagrams; Software Engineering
+ER
+
+PT J
+ER
+
+PT J
+DE Computer Vision; Natural Language Processing; Robotics; Language and
+   vision; survey; multimedia; robotics; symbol grounding; distributional
+   semantics; computer vision; natural language processing; visual
+   attribute; image captioning; imitation learning; word2vec; word
+   embedding; image embedding; semantic parsing; lexical semantics
+ID WEB DATA; DISTRIBUTIONAL SEMANTICS; RECOGNITION; MODELS; IMAGES;
+   COMMUNICATION; ANNOTATION; PERCEPTION; GRAMMAR; NORMS
+ER
+
+PT B
+DE computer linguistics; language theory; formal languages; question-answer
+   systems; higher ontology
+ER
+
+PT B
+DE Natural Language Processing; Facts extraction; Polish natural language
+ER
+
+PT B
+ER
+
+PT B
+DE Sarcasm; Sentiment analysis; Machine learning; Natural language
+   processing
+ER
+
+PT S
+ID SENTIMENT CLASSIFICATION; INFORMATION; WORDNET; IMPROVE
+ER
+
+PT B
+DE Word Sense Disambiguation; Natural Language processing; Arabic Word
+   Sense Disambiguation
+ID TEXT
+ER
+
+PT S
+DE Hidden Markov Model; Arabic Natural Language Processing; Part-of-Speech
+   Tagger; Morphology; Statistical Language Model; Trigram; Bigram; first
+   order logic; second order logic; Text classification; Name Entity
+   Recognition
+ER
+
+PT B
+ER
+
+PT S
+DE component; Computational linguistics; Natural language processing; Text
+   processing; Database
+ER
+
+PT J
+DE Standard Arabic language; HPSG; Software platform; Text parsing; Natural
+   language processing; Linguistic resources; Interface in natural language
+ER
+
+PT J
+ER
+
+PT B
+DE Urdu Word Processor; NLP; Language Processing Tools; Unicode
+ER
+
+PT B
+DE Structure Query Language; natural language processing; discourse;
+   semantic
+ER
+
+PT B
+DE Natural Language Processing(NLP); Natural language generation (NLG); Web
+   services(WS); Natural Language constraints(NLP); Web Ontology
+   Language(OWL)
+ER
+
+PT B
+DE route natural language processing; route natural language corpus; route
+   units; semantic role labeling; navigation intention map
+ER
+
+PT B
+DE Text retrieval; natural language processing
+ER
+
+PT J
+ID DISTRIBUTED REPRESENTATIONS
+ER
+
+PT S
+DE data validation; natural language processing; e-learning;
+   sentence-pattern
+ER
+
+PT B
+DE Automata; Finite Slate Automata; Language; Natural Language Processing;
+   Parsing
+ER
+
+PT J
+ER
+
+PT B
+DE shallow parsing; morphological ambiguity; ambiguous texts; query
+   language
+ER
+
+PT S
+DE Natural language processing; database; dialogue system; user interface;
+   Markov decision process; Levenshtein distance
+ER
+
+PT J
+ID INDUCTION; ALGORITHM; NETWORKS; TEXTS; MODEL; WEB
+ER
+
+PT J
+DE Editorials; database; electronic health records; natural language
+   processing; percutaneous coronary intervention
+ID POSTOPERATIVE-COMPLICATIONS; HEART-FAILURE; TRIAL; CARE
+ER
+
+PT S
+DE natural language; pplied language management system; intelligent
+   computer & WordNet
+ER
+
+PT B
+DE Composition and decomposition; morphological decomposition; L2
+   processing; derived words; natural language processing
+ID WORDS
+ER
+
+PT B
+DE Image Representation; Primal Sketch Theory; Semantics; Natural Language
+ER
+
+PT S
+DE Natural Language System Evaluation; Natural Language Processing;
+   Computational Linguistics
+ER
+
+PT B
+DE Text retrieval; natural language processing
+ER
+
+PT B
+DE American Sign Language; Sign Language; Simple Sentence; Natural Language
+ER
+
+PT S
+DE Clinical Decision Support; Natural Language Processing; NLP-based
+   Clinical Decision Support Systems
+ID ELECTRONIC HEALTH RECORDS; EMERGENCY-DEPARTMENT; HEART-FAILURE;
+   LANGUAGE; INFORMATION; CARE; PERFORMANCE; PNEUMONIA; DOCUMENTS
+ER
+
+PT B
+DE Documentation; natural language processing
+ER
+
+PT S
+DE Natural language processing; database
+ER
+
+PT S
+ID RETRIEVAL
+ER
+
+PT S
+DE Mixing of natural language and modeling language; Anti patterns;
+   Business process models
+ID VERIFICATION; ERRORS
+ER
+
+PT S
+DE Abstractive summarization; Natural language generation; Markov decision
+   process; Value iteration
+ER
+
+PT B
+DE semantic structure tree; semantic recognition algorithm; natural
+   language processing; word segmentation
+ER
+
+PT J
+DE Turkish; Natural language processing; Language resources
+ID MORPHOLOGICAL DISAMBIGUATION
+ER
+
+PT S
+DE emotion classification for text based conversations; dialog act
+   modeling; natural language processing
+ER
+
+PT S
+DE Semantic information retrieval; Query interfaces; Natural language
+   processing; Linked Data; Tourism ontology
+ER
+
+PT S
+DE Natural language visualization; natural language understanding; natural
+   language processing; image generation; Indian language processing; Hindi
+   POS tagger; tree adjoining grammar; Human-Computer Interface (HCI)
+ER
+
+PT S
+DE controlled language; domain-specific language; embedded language;
+   Grammatical Framework; machine translation
+ID GF
+ER
+
+PT S
+DE Chinese Romanization; Pinyin; documentation; Chinese characters;
+   human-computer interaction
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT S
+DE Natural Language Processing; Part of Speech; Tagging; Arabic Language;
+   Linguistic Features; Syntax; Morphology
+ER
+
+PT S
+DE Chronic Obstructive Pulmonary Disease; Natural Language Processing; Term
+   Extraction
+ID PATIENT SMOKING STATUS; ALGORITHM; RECORDS; TEXT
+ER
+
+PT J
+DE Controlled natural language; knowledge representation; answer set
+   programming
+ER
+
+PT J
+DE Natural language processing; text analysis; sentiment and subjectivity
+   analysis; multilingual subjectivity
+ER
+
+PT B
+DE natural language processing; infirmation retrieval; sentiment analysis;
+   word sense disambiguation; similarity measures
+ID RECOGNIZING TEXTUAL ENTAILMENT; CONCEPTUAL GRAPHS; SEMANTIC SIMILARITY;
+   DYNAMIC THESAURUS; UNSUPERVISED WSD; LEGAL DOCUMENTS; COLLOCATIONS;
+   DICTIONARY; ALGORITHMS; NOUNS
+ER
+
+PT S
+DE Requirements Engineering; Grammatical Knowledge Patterns; Frames;
+   Structuring Requirements; Natural Language Processing; Natural Language
+   Patterns; Reuse
+ER
+
+PT B
+DE NLP; natural language processing; software failure
+ER
+
+PT B
+DE Natural Sign Language; Corpus; Dynamic
+ER
+
+PT S
+DE Artificial Intelligent; Natural language understanding; Essay Questions
+   Examiner
+ER
+
+PT B
+DE natural language processing; information retrieval; phrase
+   identification; stemming
+ER
+
+PT S
+DE Video processing; Video annotation; Natural language description; video
+   feature units
+ER
+
+PT B
+ER
+
+PT S
+DE text encryption; information security; natural language processing
+ID WATERMARKING
+ER
+
+PT S
+DE NLIDB; Computational Paninian Grammar; Karaka Relations; Language
+   Independence; Domain Portability
+ER
+
+PT B
+DE crowdsourcing; natural language elicitation methods; language
+   understanding; spoken dialog
+ER
+
+PT S
+ER
+
+PT S
+DE Novice programming environments; natural language; novice programmer;
+   multiple representations
+ER
+
+PT S
+DE natural language processing; lexical resource; semantic web; ontology;
+   Linked Data
+ID ONTOLOGY
+ER
+
+PT J
+DE Cover unit; data-hiding code; natural language information hiding;
+   natural language processing
+ID WATERMARKING
+ER
+
+PT B
+DE fuzzy query; computing with words; fuzzy sets; natural query
+ID NATURAL-LANGUAGE
+ER
+
+PT J
+ID SPEAKING CHILDREN; IMPAIRMENT; SPEECH; SLI; DISRUPTIONS; NARRATIVES;
+   PEERS
+ER
+
+PT J
+ER
+
+PT S
+DE Description logic; Natural language processing
+ER
+
+PT S
+DE Description logic; Natural language processing
+ER
+
+PT S
+DE Natural Language Processing; Semantic Networks; Spreading Activation
+ER
+
+PT J
+DE Natural language processing; Prolog; Applications of natural language
+   processing
+ER
+
+PT B
+ER
+
+PT S
+DE linguistics; semantics; semantic search
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+DE natural language processing; text processing; text mining; plagiarism
+   detection; software framework; Slovenian language
+ER
+
+PT S
+ID NATURAL-LANGUAGE; FRAMEWORK
+ER
+
+PT S
+DE natural human-robot interaction; natural language processing; dialogue
+   interactions; integrated architecture
+ER
+
+PT B
+DE natural language; service composition; patterns
+ER
+
+PT S
+DE text summarization; rules; statistics
+ER
+
+PT B
+DE spatial relation; natural language; annotation
+ER
+
+PT B
+DE natural language processing; semantics; dynamical systems; chaos
+ER
+
+PT B
+DE Semantic web; tagging; Web 2.0; natural language processing
+ER
+
+PT S
+DE Query processing; Local grammars; Korean natural language query; Query
+   understanding
+ER
+
+PT J
+ID FAR-EASTERN LANGUAGES; IBM HISTORY
+ER
+
+PT J
+ER
+
+PT J
+ID RECOGNITION; GESTURES; MODELS
+ER
+
+PT B
+DE Chinese Natural Language Processing; Language Resource; Resource
+   Consortium
+ER
+
+PT B
+DE language description; graphic representation; visual information; text
+   to visualization
+ID VISUAL INFORMATION
+ER
+
+PT S
+DE natural language processing; formal languages; parsing; natural language
+   interface; computational model
+ER
+
+PT J
+ER
+
+PT J
+DE natural language queries; conceptual schema; class diagram;
+   object-oriented modeling (OO modeling)
+ID INFORMATION-SYSTEMS; ENGLISH; QUERIES; SQL
+ER
+
+PT B
+DE natural language processing; syntax parsing; rule; syntactic
+ER
+
+PT B
+DE Object Constraint Language; Statistical Machine Translation; Business
+   Process
+ER
+
+PT S
+ID GENERATION
+ER
+
+PT S
+ER
+
+PT J
+ER
+
+PT S
+DE Biolinguistics; natural languages; natural language processing;
+   hierarchical functional structure; pronominal anaphora resolution
+ER
+
+PT B
+ER
+
+PT B
+ID MAPS
+ER
+
+PT S
+DE text compression; natural language modelling; PPM
+ER
+
+PT J
+DE affect; affect recognition; affect lexicon; natural language processing
+   techniques
+ER
+
+PT J
+DE Chinese information processing; Natural Language Processing;
+   computational linguistics
+ID RETRIEVAL
+ER
+
+PT J
+DE ontologies; semantic web; natural language processing
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT J
+DE affect; attitudes; corpus annotation; emotion; natural language
+   processing; opinions; sentiment; subjectivity
+ID REPRESENTATION; BELIEF; TEXT
+ER
+
+PT B
+DE AV controller; natural language processing; dialog; lexicon
+ER
+
+PT S
+DE text watermarking; natural language processing; text steganography
+ER
+
+PT J
+DE language situation; Chinese word segmentation; ambiguous word
+ER
+
+PT J
+DE computational linguistics; Hebrew; natural language processing
+ID RETRIEVAL-SYSTEMS
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT B
+ID CONTEXT
+ER
+
+PT B
+DE natural language processing; HowNet; web data mining.; web sensitive
+   information
+ER
+
+PT S
+ER
+
+PT J
+ER
+
+PT J
+DE natural language processing; natural language; information systems;
+   database design; database querying
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT J
+ER
+
+PT S
+ER
+
+PT J
+ER
+
+EF
