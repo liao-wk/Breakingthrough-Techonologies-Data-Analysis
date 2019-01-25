@@ -1,0 +1,636 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE Design criteria; Design evaluation; Conceptual mechatronics design
+ID QUOTIENT; FUTURE; SYSTEM
+ER
+
+PT J
+DE mechatronics; actuator; sensing; control; pneumatics
+ER
+
+PT S
+DE Lab design; Mechanical engineering; Mechatronics; User centered design
+ID EDUCATION
+ER
+
+PT B
+DE Mechatronics Education; Industry-based Training; Articulated Learning;
+   Project-based Learning
+ER
+
+PT J
+DE Motion control; disturbance observer; Kalman filter; Haptics;
+   optimization
+ER
+
+PT B
+DE Mechatronics; CPS; Design methodologies; Energetic approach
+ER
+
+PT S
+DE mechatronics; review; present situation; developing trend
+ER
+
+PT B
+DE mechatronics education; bilingual teaching; project-based teaching;
+   drilling end-effector
+ID EDUCATION; UNIVERSITY; DESIGN
+ER
+
+PT J
+DE Teaching; Control Engineering; Embedded systems; Education Laboratory;
+   Educational Aids
+ER
+
+PT J
+DE engineering education; mechatronics; study programs
+ID INDUSTRIAL-ENGINEERING COURSES; UNIVERSITY; PERSPECTIVE; CURRICULUM;
+   PRODUCTS; SYSTEM
+ER
+
+PT B
+DE paper mechatronics; engineering education
+ER
+
+PT B
+DE Training in mechatronics systems; content management; didactic
+   materials; automation devices
+ER
+
+PT B
+DE RM-ODP; Mechatronics systems; Event B; QoS Requirements
+ER
+
+PT B
+DE Research Methodology; Mechatronics; Engineering Education
+ER
+
+PT B
+DE NCS; Automation; Mechatronics; Curriculum; College; Republic of Korea
+ER
+
+PT B
+DE Mechatronics Engineering; Sino-German University of Applied Sciences;
+   CDHAW; Tongji University; binational; Chinese; German
+ID EDUCATION
+ER
+
+PT B
+DE mechatronics educational material; Arduino; Scilab/Xcos; hardware
+   modules; real-time tuning
+ER
+
+PT S
+DE mechatronics; controller; washing machine
+ER
+
+PT J
+DE Competition based learning; Project practice; Innovative thinking;
+   Teamwork; Mechatronics education
+ID MECHATRONICS EDUCATION; UNIVERSITY
+ER
+
+PT B
+DE mechatronics education; musical mechatronics; mechatronics retention
+ER
+
+PT S
+DE Mechatronics; robots; Arduino
+ER
+
+PT B
+ID UNIVERSITY; CURRICULUM
+ER
+
+PT S
+DE fault diagnose; parity vector; subspace identification mechatronics
+   system
+ID DYNAMIC-SYSTEMS; VEHICLE; IDENTIFICATION; SUSPENSION
+ER
+
+PT J
+DE project-based learning; artifact; Mechatronics; engineering education;
+   electronic pet robot; interdisciplinary learning
+ID DESIGN
+ER
+
+PT B
+DE mechatronics; student projects; mobile robotics
+ID EDUCATION
+ER
+
+PT B
+DE mechatronics education; virtual prototype; physical prototype; miniature
+   3-axis milling machine
+ID DESIGN
+ER
+
+PT B
+DE 3D printers; project based learning; engineering education;
+   mechatronics; mechanical modeling
+ER
+
+PT J
+DE Design methodology; Mechatronics engineering; Modeling and simulation;
+   Projects
+ER
+
+PT J
+DE Mechatronics education; Agile methods; Capstone course; Design-centric
+   education
+ID SOFTWARE-DEVELOPMENT; ORGANIZATIONS
+ER
+
+PT J
+DE graphical human interface; mechatronics; experimental module; monitoring
+   and control system
+ID SYSTEMS
+ER
+
+PT J
+DE Mechatronics; Skill Analysis; Assistive Control
+ID BALANCE CONTROL; OPTICAL TOPOGRAPHY; HAPTIC SYSTEM; INFORMATION;
+   CEREBELLUM; ACTIVATION; MOVEMENT; TASK
+ER
+
+PT J
+DE Mechatronics; Remote Control; Monitoring And Control; Web-Based Learning
+ID ENGINEERING-EDUCATION; STUDENTS; PLATFORM; MODULES
+ER
+
+PT B
+DE mechatronics; embedded control; working model; special robot; amusement
+   park
+ER
+
+PT S
+DE Mechatronics Technology; Coal Mine Machinery; Application
+ER
+
+PT S
+DE mechatronics; micro-nano-mechatronics; robotics; micro-nano-robotics;
+   micro-nano-integronics; mechatronics galaxy
+ER
+
+PT S
+DE Technological and cross-border mixture value chain; pluri-disciplinary
+   science and multi-integrative; engineering; multi-integrative and
+   multi-potential concept of mechatronics-integronics-adaptronics;
+   products; systems
+ER
+
+PT S
+DE Mechatronics; Construction machinery; Application; Development trends
+ER
+
+PT J
+DE Competency analysis; Mechatronics; Delphi technique
+ID UNDERGRADUATE CURRICULUM; ENGINEERING-EDUCATION; ANIMATIONS; DESIGN;
+   SCHOOL; MODEL
+ER
+
+PT J
+DE Project based learning; Mechatronics education; Engineering education;
+   Industrial collaboration; Hands-on experience; Active learning
+ER
+
+PT J
+DE Mechatronics education; Theoretical teaching and practical teaching;
+   Mechatronics projects; Project based teaching
+ID EDUCATION
+ER
+
+PT J
+DE mechatronics; group project-based approach; engineering education
+ID ENGINEERING CURRICULUM; EDUCATION; SYSTEMS; DESIGN; SCHOOL
+ER
+
+PT B
+DE microcontroller kit; distance lab; virtual lab; learning methodology;
+   wireless programming
+ER
+
+PT B
+ER
+
+PT B
+DE mechatronics; engineers; associations; Jordan
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT B
+DE Mechatronics Association; Social Network
+ER
+
+PT S
+DE local economy; mechatronics engineering; cultivation system;
+   construction
+ER
+
+PT S
+ER
+
+PT B
+DE Modularization; Mechatronics Products; Product Design Process;
+   Configuration Design; Configuration Management
+ID DESIGN; PLATFORM
+ER
+
+PT S
+DE control quality; Matlab GUI; mechatronics system control; Simulink
+ER
+
+PT J
+DE Robot sensing systems; Mechatronics; Service robots; Surgery; Mobile
+   robots
+ID SYSTEMS; FUSION
+ER
+
+PT J
+DE mechatronics; miniaturisation; customisation; future trends in visceral
+   surgery
+ER
+
+PT S
+DE teaching; microcontroller; assembler; programming; mechatronics
+ER
+
+PT S
+DE Multirate; Mechatronics; Motion control system; Sampling
+ER
+
+PT S
+DE Mechatronics; design methodology; conceptual design; models
+ER
+
+PT S
+DE mechatronics; textile equipment; machine design; textile technology
+ER
+
+PT J
+ER
+
+PT J
+ID MANUFACTURING SYSTEMS; DESIGN; STRATEGIES; SELECTION; INDUSTRY; FUTURE;
+   ENERGY
+ER
+
+PT J
+ID MECHATRONICS; TELEOPERATION; SYSTEM; ROBOT
+ER
+
+PT J
+ER
+
+PT J
+DE Curriculum development; mechatronics education; mobile robotics;
+   precollege outreach; project-based learning
+ER
+
+PT J
+DE Curriculum development; mechatronics education; project-based learning;
+   sensors; system modeling
+ER
+
+PT B
+DE design management; mechatronics; branding; communities; perceived
+   quality
+ER
+
+PT S
+DE Modular design; Modular modeling; Module interface; Robot
+ER
+
+PT B
+ID TECHNOLOGY; SYSTEMS
+ER
+
+PT J
+DE hardware design; mechatronics systems; robotics systems; software design
+ER
+
+PT S
+DE Mechatronics; education; German Universities of Applied Sciences
+ER
+
+PT S
+DE mechatronics; machine; textile; system; equipment
+ER
+
+PT B
+DE Education methodology; Mechatronics; Teaching; Motion control
+ID POWER-ELECTRONICS; EDUCATION
+ER
+
+PT J
+DE mechatronics education; vocational schools; curriculum analysis; branch
+   education
+ER
+
+PT J
+DE Mechatronics education; Laboratory; Hands-on skills
+ER
+
+PT J
+DE Course evaluation; course structure; design methodology; mechatronic
+   systems; student projects
+ID CURRICULUM; EDUCATION; DESIGN
+ER
+
+PT S
+DE mechatronics; graphical representation; definition
+ER
+
+PT B
+DE Mechatronics; project development; DC motor control
+ER
+
+PT S
+DE Mechatronics; Study Programs; Lithuania
+ER
+
+PT J
+DE mechatronics education; mechanical engineering curriculum; mechatronics
+   in Turkey
+ID UNDERGRADUATE CURRICULUM; COMPREHENSIVE APPROACH; DEGREE PROGRAM;
+   EDUCATION; UNIVERSITY; EVOLUTION
+ER
+
+PT S
+DE Mechatronics; adult education; distance learning; remote laboratory
+ER
+
+PT J
+DE Mechatronics; mechatronic system; history of science
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE mechatronics education; mechanical design; technical communication
+ID UNDERGRADUATE CURRICULUM; DEGREE PROGRAM; EDUCATION; UNIVERSITY
+ER
+
+PT J
+DE mechatronics education; curriculum design; international collaboration
+ER
+
+PT B
+ER
+
+PT B
+DE Interdisciplinary; Learning; Mechatronics Design; Knowledge Space; HAFM;
+   Synergy; Engineering Science
+ID DESIGN; SYSTEMS
+ER
+
+PT S
+DE micro-mechatronic concepts; intelligent systems; advanced robotics;
+   control and measurement process
+ER
+
+PT J
+ER
+
+PT S
+DE mechatronics; mechatronics education; educational platform; 'Mechatron';
+   mechatronics learning
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE mechatronics curriculum development; mechatronics study in the middle
+   east
+ER
+
+PT S
+DE automation; component-handling; education; mechatronics
+ER
+
+PT S
+DE human adaptive mechatronics; identification of human dynamic
+   characteristics; assisting control
+ID MODEL
+ER
+
+PT B
+DE mechatronics; dimensional inspection; flexibility; automatisation
+ER
+
+PT B
+DE mechatronics; modelling; generalized impedance; quadripole; bond-graph
+ER
+
+PT B
+DE mechatronics; robotics; training; simulation; modelling
+ER
+
+PT S
+DE precision mechatronics; nanometrology; design of nanomeasuring machines;
+   nanoprobes
+ER
+
+PT J
+DE virtual instrumentation; computer-based projects; Mechatronics course;
+   intuitive learning; hands-on experience
+ER
+
+PT J
+DE mechatronics education; engineering education; education Turkey
+ID UNIVERSITY
+ER
+
+PT B
+DE mechatronics; engineering education; simultaneous and concurrent
+   engineering; products; development processes and tools
+ER
+
+PT B
+DE mechatronics; automation; communication; manufacturing; integration
+ER
+
+PT S
+ER
+
+PT S
+DE industry-university collaboration; Mechatronics Courses
+ER
+
+PT S
+DE transurethral resection of the prostate; mechatronics in medicine
+ER
+
+PT J
+DE mechatronics; microcontroller education; MC68HCI1; evaluation boards;
+   embedded applications; simulation; interfacing software;
+   electro-mechanical; sensing; actuation; functional modules
+ER
+
+PT J
+DE sensors; actuators; mechatronics; laboratory undergraduate
+ID MECHATRONICS
+ER
+
+PT J
+DE mechatronics evolution; education; didactical analysis
+ER
+
+PT B
+ER
+
+PT B
+DE mechatronics design; UAV; robotic platform
+ER
+
+PT S
+ID PROJECT; KITS
+ER
+
+PT B
+DE graduate-level Mechatronics course; Mechatronics education; hands-on
+   skills; innovative laboratory experiments
+ER
+
+PT J
+ID DEGREE PROGRAM; UNIVERSITY; EDUCATION; MACHINES; DESIGN
+ER
+
+PT J
+ER
+
+PT J
+DE education; engineering design; robotics; systems
+ER
+
+PT J
+DE mechatronics
+ER
+
+PT B
+DE mechatronics; design curriculum; design engineering
+ER
+
+PT J
+ER
+
+PT B
+DE Mechatronics; myth and reality; course development; method of delivery
+ID COURSES; DESIGNS
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ID SYSTEMS; INSTRUCTION; METHODOLOGY; UNIVERSITY; MACHINES; STATE
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ID MICROPROCESSOR DESIGN; PROJECTS; INSTRUCTION; UNIVERSITY; CURRICULUM
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT B
+ID BALANCE
+ER
+
+PT B
+ER
+
+PT B
+DE MEMS; microrobots; mechatronics engineering; overview
+ER
+
+PT B
+ER
+
+PT B
+DE integrated mechatronics; training laboratory; skills development;
+   project-based learning; achievements
+ER
+
+PT B
+DE mechatronics; education; course development; method of delivery
+ID DESIGNS
+ER
+
+PT B
+DE mechatronics; tertiary education; course contents
+ER
+
+PT J
+DE mechatronics; controls; modeling; design integration
+ER
+
+PT J
+DE mechatronics; integration; systems; team building; project-based
+   curriculum
+ER
+
+PT J
+DE mechatronics; education; mechanical engineering; curriculum; ABET;
+   measurements; instrumentation
+ER
+
+PT J
+DE 3-D animation; electromechanical; mechatronics; simulation; small
+   electric motors
+ER
+
+PT J
+DE education; mechatronics
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE automation; fuzzy logic; genetic algorithms; Japan; mechatronics; neural
+   networks
+ER
+
+EF

@@ -1,0 +1,749 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE magnetic resonance imaging; molecular imaging; nanoprobes; optical
+   imaging; self-assembly
+ID AGGREGATION-INDUCED EMISSION; IN-VIVO; MULTIFUNCTIONAL NANOPARTICLES;
+   F-19 NANOPARTICLES; GOLD NANOPARTICLES; CELL APOPTOSIS; DRUG-DELIVERY;
+   NANOTECHNOLOGY; PROBES; VITRO
+ER
+
+PT J
+DE Molecular; Imaging; Infective; Endocarditis; Diagnosis
+ID CARDIAC DEVICE INFECTION; ENDOCARDITIS; DIAGNOSIS; PET
+ER
+
+PT J
+DE Atherosclerosis; Vulnerable plaque imaging; Translational medicine;
+   Molecular imaging
+ID HIGH-RISK PATIENTS; PCSK9 INHIBITORS; ATHEROSCLEROSIS; INFLAMMATION;
+   RATIONALE; EVENTS; DESIGN; PET
+ER
+
+PT J
+DE Deep learning; Molecular imaging; Machine learning; Convolutional neural
+   network; Precision medicine
+ID CONVOLUTIONAL NEURAL-NETWORKS; BRAIN-TUMOR SEGMENTATION; IMAGES; CANCER;
+   MRI; VOLUME; PET/CT; MODEL
+ER
+
+PT J
+DE In vivo imaging; nuclear imaging; optical imaging; precision medicine
+ID NICOTINIC ACETYLCHOLINE-RECEPTORS; POSITRON-EMISSION-TOMOGRAPHY;
+   BREAST-CANCER XENOGRAFTS; MEMBRANE ANTIGEN; INTRAOPERATIVE
+   VISUALIZATION; ATHEROSCLEROTIC PLAQUES; ALZHEIMERS-DISEASE; PD-L1
+   EXPRESSION; RATIONAL DESIGN; PROSTATE-CANCER
+ER
+
+PT J
+DE Molecular imaging; Pulmonary disease; SPECT; PET
+ID ISCHEMIA-REPERFUSION INJURY; RESPIRATORY-DISTRESS-SYNDROME; CELL
+   LUNG-CANCER; TUMOR-METASTASIS; LYMPHATIC VASCULATURE; INTERNATIONAL
+   SOCIETY; INFECTION; PET; TRANSPLANTATION; INFLAMMATION
+ER
+
+PT J
+DE Molecular imaging; Small molecule-based probes; UPAR; AE105; NIR-II;
+   Multimodal imaging
+ID PLASMINOGEN-ACTIVATOR RECEPTOR; NEAR-INFRARED WINDOW; IN-VIVO; UROKINASE
+   RECEPTOR; FLUORESCENCE; EXPRESSION; PET; FLUOROPHORES; CONSTRUCTION;
+   DISCOVERY
+ER
+
+PT J
+DE molecular imaging; imaging probe; nuclear medical imaging;
+   radiotheranostic; optical imaging; photoacoustic imaging
+ID TYPE-1 MATRIX-METALLOPROTEINASE; NICOTINIC ACETYLCHOLINE-RECEPTORS;
+   POSITRON-EMISSION-TOMOGRAPHY; ALZHEIMERS-DISEASE BRAINS; NOREPINEPHRINE
+   TRANSPORTER DENSITY; INDUCIBLE FACTOR-1-ACTIVE REGIONS; ANTI-HER2
+   FRAGMENT ANTIBODY; PLAQUE INSTABILITY-ANALYSIS; IRON-OXIDE
+   NANOPARTICLES; METASTATIC BONE PAIN
+ER
+
+PT J
+DE lymphoma; molecular imaging; drugs; PET-CT; bioluminescence
+ID POSITRON-EMISSION-TOMOGRAPHY; NON-HODGKINS-LYMPHOMA; B-CELL LYMPHOMA;
+   SODIUM-IODIDE SYMPORTER; IN-VIVO; REPORTER GENE; BRENTUXIMAB VEDOTIN;
+   FLUORESCENT PROTEINS; CANCER STATISTICS; NUCLEAR-MEDICINE
+ER
+
+PT J
+DE molecular imaging; atherosclerosis; near infrared; fluorescence; PET;
+   venous thromboembolism
+ID DEEP-VEIN THROMBOSIS; FDG-PET/CT; ARTERIAL INFLAMMATION;
+   PULMONARY-EMBOLISM; IN-VIVO; PLAQUE INFLAMMATION; F-18-FDG UPTAKE;
+   CAROTID-ARTERY; RISK; EVENTS
+ER
+
+PT J
+DE Molecular imaging; Laboratory management; World Molecular Imaging
+   Society
+ID SMALL ANIMALS; ANESTHESIA
+ER
+
+PT J
+DE Molecular imaging; Drug research and development; Positron emission
+   tomography; Imaging biomarkers
+ID MODERATE ALZHEIMERS-DISEASE; CENTRAL-NERVOUS-SYSTEM; NEUROFIBRILLARY
+   TANGLES; RECEPTOR ANTAGONIST; TAU; APREPITANT; TRIALS; BIOMARKERS;
+   DIAGNOSIS; SEVERITY
+ER
+
+PT J
+DE editorial; energy metabolism; cancer metabolic reprogramming; molecular
+   imaging; imaging methods
+ID MALIGNANT-TRANSFORMATION; PHOSPHOLIPID-METABOLISM; CELLS; INHIBITION;
+   MEMBRANE
+ER
+
+PT J
+ER
+
+PT J
+DE Molecular imaging; Molecular imaging probes; Cardiovascular disease
+ID MAGNETIC-RESONANCE DETECTION; IN-VIVO; MYOCARDIAL-INFARCTION;
+   MITOCHONDRIAL-MEMBRANE; IRON-OXIDE; ATHEROSCLEROTIC LESIONS; NONINVASIVE
+   ASSESSMENT; GOLD NANOPARTICLES; RAT MODEL; TOMOGRAPHY
+ER
+
+PT J
+ID CONVOLUTIONAL NEURAL-NETWORKS; BRAIN-TUMOR SEGMENTATION;
+   PROSTATE-CANCER; PET/CT IMAGES; DIMENSIONALITY; REPRESENTATION;
+   REDUCTION
+ER
+
+PT J
+ER
+
+PT J
+DE Atherosclerosis; Molecular imaging; Positron emission tomography;
+   Near-infrared fluorescence; Optical coherence tomography
+ID POSITRON-EMISSION-TOMOGRAPHY; CAROTID PLAQUE INFLAMMATION; ACUTE
+   CORONARY SYNDROME; ULTRASMALL SUPERPARAMAGNETIC PARTICLES; ACUTE
+   MYOCARDIAL-INFARCTION; IN-VIVO; RISK-FACTORS; IRON-OXIDE; FDG-PET/CT;
+   GA-68-DOTATATE PET/CT
+ER
+
+PT J
+DE nanoparticles; medical imaging; molecular imaging; nanoparticle; imaging
+   and diagnostics
+ID LYMPH-NODE BIOPSY; INDOCYANINE GREEN; BREAST-CANCER; TC-99M; DIAGNOSIS;
+   THERAPY
+ER
+
+PT J
+DE Molecular imaging; instrumentation SPECT; instrumentation PET; optical
+   imaging
+ER
+
+PT J
+DE Molecular imaging; Molecular targeting; Brain tumor; Liposomes; Iron
+   oxide nanoparticle; Gold nanoparticle
+ID SUPERPARAMAGNETIC IRON-OXIDE; CONVECTION-ENHANCED DELIVERY;
+   MAGNETIC-RESONANCE ANGIOGRAPHY; POSITRON-EMISSION-TOMOGRAPHY;
+   NEUTRON-CAPTURE THERAPY; PH-SENSITIVE LIPOSOMES; NUCLEIC-ACID TARGETS;
+   RAT GLIOMA MODEL; IN-VIVO TRACKING; DRUG-DELIVERY
+ER
+
+PT J
+DE Multimodal imaging; Molecular imaging; Molecular probe; Nanomaterial;
+   Gene reporter; Tumor; Review
+ID GA-68-LABELED PSMA LIGAND; RECURRENT PROSTATE-CANCER; IN-VIVO;
+   MAGNETIC-RESONANCE; CONTRAST AGENTS; REPORTER-GENE; COMPUTED-TOMOGRAPHY;
+   LIVING SUBJECTS; PET/CT; NANOPARTICLES
+ER
+
+PT J
+DE Molecular imaging; basic science; diagnostic and prognostic application
+ID CLINICAL TRANSLATION
+ER
+
+PT J
+DE molecular imaging; cancer; interventional oncology; biopsy; ablation;
+   interventional radiology; PET/CT; fluorescence imaging
+ID GUIDED PERCUTANEOUS BIOPSY; PRIOR PET/CT IMAGES; RADIOFREQUENCY
+   ABLATION; LIVER METASTASES; EXPERIENCE; MEDICINE; THERAPY; LESIONS;
+   CANCER; REGISTRATION
+ER
+
+PT J
+DE molecular imaging; radioactive probe; positron emission tomography;
+   single-photon emission computed tomography; nicotinic acetylcholine
+   receptor; hypoxia-inducible factor-1
+ID NICOTINIC ACETYLCHOLINE-RECEPTORS; INDUCIBLE FACTOR-1-ACTIVE REGIONS;
+   CHOLINERGIC-RECEPTORS; COMPUTED-TOMOGRAPHY; HYPOXIA; BRAIN; SPECT;
+   LIGAND; TUMOR; QUANTIFICATION
+ER
+
+PT J
+DE molecular; imaging; genetic; reporter gene; medicine; optical
+ER
+
+PT J
+ER
+
+PT J
+DE Breast cancer; PET; Molecular imaging; Molecular target therapy; HER2
+ID POSITRON-EMISSION-TOMOGRAPHY; ESTROGEN-RECEPTOR; FDG-PET; NEOADJUVANT
+   CHEMOTHERAPY; WHOLE-BODY; CU-64-DOTA-TRASTUZUMAB PET; ADJUVANT
+   CHEMOTHERAPY; F-18-FDG PET; THERAPY; TRASTUZUMAB
+ER
+
+PT J
+DE Click reaction; F-18; CuAAC; Molecular imaging; Pretargeting
+ER
+
+PT J
+DE optical molecular imaging; multimodality molecular imaging; optical
+   multimodality tomography; Cerenkov luminescence imaging; intraoperative
+   image-guided surgery
+ER
+
+PT J
+DE bioresponsive agents; activatable probes; molecular imaging; biomarker
+ID CELL-PENETRATING PEPTIDES; NEAR-INFRARED-FLUORESCENCE; MRI CONTRAST
+   AGENT; POSITRON-EMISSION-TOMOGRAPHY; MATRIX-METALLOPROTEINASE ACTIVITY;
+   INDUCED MAGNETIZATION ENHANCEMENT; FIBROBLAST ACTIVATION PROTEIN;
+   BETA-GALACTOSIDASE ACTIVITY; HYDROGEN-PEROXIDE; LIVING CELLS
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT S
+DE microbubble; targeted imaging; angiogenesis; microvasculature; biomarker
+ID IMPROVING SENSITIVITY; SIZE DISTRIBUTION; CONTRAST AGENTS
+ER
+
+PT J
+DE Tumor metastasis; Molecular imaging; MRI; Optical Imaging; PET;
+   Nanoparticles
+ID SOLUBLE MAGNETITE NANOCRYSTALS; LYMPH-NODE METASTASES; ONE-POT REACTION;
+   IN-VIVO; PROSTATE-CANCER; CLINICAL-APPLICATIONS; COMPUTED-TOMOGRAPHY;
+   RESONANCE DETECTION; GASTRIC-CANCER; IRON-OXIDE
+ER
+
+PT J
+DE Optical molecular imaging; targeted drug delivery; bioluminescence
+   imaging; fluorescence imaging; two-photon microscopy; Raman imaging
+ID RAMAN-SCATTERING MICROSCOPY; MESENCHYMAL STEM-CELLS; IN-VIVO;
+   BIOLUMINESCENCE TOMOGRAPHY; 2-PHOTON MICROSCOPY; LIVING CELLS;
+   MOUSE-BRAIN; NANOPARTICLES; FLUORESCENCE; THERAPY
+ER
+
+PT J
+DE Molecular imaging; Individualized medicine; Receptor; Angiogenesis;
+   Apoptosis
+ER
+
+PT J
+DE Atherosclerosis; Vulnerable plaque; Molecular imaging; Nuclear molecular
+   imaging; CT; MRI
+ID POSITRON-EMISSION-TOMOGRAPHY; CELL-ADHESION MOLECULE-1;
+   CORONARY-ARTERY-DISEASE; MACROPHAGES IN-VIVO; MAGNETIC-RESONANCE;
+   ATHEROSCLEROTIC PLAQUES; CARDIOVASCULAR-DISEASE; CONTRAST AGENT;
+   IRON-OXIDE; F-18 FLUORODEOXYGLUCOSE
+ER
+
+PT J
+DE molecular imaging; drug delivery system; theragnostics; tumor;
+   nanomedicine
+ID CHITOSAN NANOPARTICLES; COPOLYMERS; N-(2-HYDROXYPROPYL)METHACRYLAMIDE;
+   VASCULATURE; THERAPY; PEPTIDE
+ER
+
+PT J
+DE skin biopsy; molecular hyperspectral imaging; skin histopathology; image
+   processing; skin morphology; visualization enhancement
+ID SECTIONS
+ER
+
+PT J
+DE molecular imaging; ophthalmology; ophthalmic imaging; eye; optical
+   imaging; optical coherence tomography; magnetic resonance imaging;
+   multispectral imaging; scanning laser ophthalmoscope
+ID OPTICAL COHERENCE TOMOGRAPHY; RETINAL GANGLION-CELLS; INDOCYANINE-GREEN
+   ANGIOGRAPHY; INDEPENDENT PHOTORECEPTOR APOPTOSIS; SCANNING LASER
+   OPHTHALMOSCOPY; CONFOCAL NEUROIMAGING ICON; TRANSGENIC MOUSE MODEL;
+   IN-VIVO VISUALIZATION; AMYLOID-BETA DEPOSITS; NITRIC-OXIDE SYNTHASE
+ER
+
+PT J
+DE breast; breast tumors; molecular imaging; MRI; MR spectroscopy; nuclear
+   imaging; radiotracers
+ID POSITRON-EMISSION MAMMOGRAPHY; PROTON MR SPECTROSCOPY;
+   MAGNETIC-RESONANCE; FDG-PET; DIAGNOSTIC-ACCURACY; IN-VIVO; PRONE
+   SCINTIMAMMOGRAPHY; F-18 FLUORODEOXYGLUCOSE; DIFFERENTIAL-DIAGNOSIS;
+   CLINICAL-APPLICATIONS
+ER
+
+PT J
+DE optical imaging; fluorescence imaging; image processing; intraoperative
+   imaging
+ID CANCER
+ER
+
+PT J
+DE Breast tumor; Magnetic resonance imaging (MRI); Nuclear imaging; MR
+   spectroscopy; Radiotracers
+ID POSITRON-EMISSION-TOMOGRAPHY; C-13 MAGNETIC-RESONANCE; CONTRAST-ENHANCED
+   MRI; HYPERPOLARIZED C-13; IN-VIVO; F-18-FDG PET; CANCER-PATIENTS;
+   FDG-PET; 3 T; CU-64-DOTA-TRASTUZUMAB PET
+ER
+
+PT J
+DE aptamers; molecular imaging probes; molecular diagnostics; aptamer
+ID NUCLEIC-ACID APTAMERS; CONTRAST AGENTS; MICROBUBBLES; THROMBIN
+ER
+
+PT J
+DE molecular imaging; oncology; breast; PET; PET/CT; radiopharmaceuticals;
+   breast cancer; breast-specific gamma imaging; positron-emission
+   mammography; positron-emission tomography
+ID POSITRON EMISSION MAMMOGRAPHY; NEOADJUVANT CHEMOTHERAPY; CANCER;
+   METAANALYSIS; WOMEN; PREDICTION; DIAGNOSIS; ACCURACY; THERAPY; MRI
+ER
+
+PT J
+ID PROTEIN-PROTEIN INTERACTIONS; NEAR-INFRARED FLUORESCENCE; TRANSGENIC
+   MOUSE MODEL; FACTOR-KAPPA-B; IN-VIVO; LIVING MICE; GENE-EXPRESSION;
+   BREAST-CANCER; LUCIFERASE REPORTER; RENILLA LUCIFERASE
+ER
+
+PT J
+DE correlative imaging; molecular imaging; oncology; PET; PET/CT; PET/MRI;
+   radiopharmaceuticals; cancer; imaging; molecular; prostate
+ID ANTI-1-AMINO-3-F-18-FLUOROCYCLOBUTANE-1-CARBOXYLIC ACID; BIOCHEMICAL
+   RECURRENCE; MEMBRANE ANTIGEN; F-18-FDG PET/CT; TOMOGRAPHY; CARCINOMA
+ER
+
+PT J
+DE bone; cancer; cartilage; chondrocyte; fracture; imaging; infection;
+   inflammation; muscle; osteoarthritis; osteoblast; osteoclast; pain;
+   rheumatoid arthritis; stem cells
+ID MESENCHYMAL STEM-CELLS; POSITRON-EMISSION-TOMOGRAPHY; NEAR-INFRARED
+   FLUORESCENCE; COLLAGEN-INDUCED ARTHRITIS; IN-VIVO; MAGNETIC-RESONANCE;
+   NEUROPATHIC PAIN; RHEUMATOID-ARTHRITIS; MOUSE MODEL; RADIOFLUORINATED
+   PYRIMIDINE-2,4,6-TRIONES
+ER
+
+PT J
+DE molecular imaging; oncology; PET; gene therapy; reporter gene imaging
+ID POSITRON-EMISSION-TOMOGRAPHY; HUMAN NOREPINEPHRINE TRANSPORTER; IN-VIVO;
+   THYMIDINE KINASE; TRANSGENIC MICE; CELL THERAPY; LIVING ANIMALS;
+   EXPRESSION; RECEPTOR; PET
+ER
+
+PT S
+DE small animal molecular imaging; imaging cassette; co-registration;
+   multimodal imaging
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE angiogenesis; contrast agents; inflammation; microbubbles; molecular
+   imaging; ultrasound
+ID ACOUSTIC RADIATION FORCE; TUMOR-ANGIOGENESIS; P-SELECTIN; IN-VITRO;
+   SHEAR-FLOW; POLY(ETHYLENE GLYCOL); ACTIVATED LEUKOCYTES; ENHANCED
+   ULTRASOUND; ADHESION MOLECULE-1; TARGETED DELIVERY
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE Fusion reporters; molecular imaging
+ID REPORTER GENE-EXPRESSION; XENOGRAFTS; MICE
+ER
+
+PT J
+ER
+
+PT J
+DE Molecular imaging; Animal model; Imaging informatics; Data Grid
+ID INFORMATICS; MANAGEMENT
+ER
+
+PT J
+DE Molecular imaging; Breast cancer; PET-MRI; Multiparametric MRI; Nuclear
+   imaging
+ID PROTON MR SPECTROSCOPY; POSITRON-EMISSION MAMMOGRAPHY; CONTRAST-ENHANCED
+   MRI; TC-99M SESTAMIBI SCINTIMAMMOGRAPHY; REPERFUSED
+   MYOCARDIAL-INFARCTION; TISSUE SODIUM CONCENTRATION;
+   NUCLEAR-MAGNETIC-RESONANCE; POSITIVE PREDICTIVE-VALUE;
+   DIFFUSION-WEIGHTED MRI; IN-VIVO
+ER
+
+PT J
+DE Integrin; molecular imaging; molecular therapy; theranostics
+ER
+
+PT J
+DE atherosclerosis; heart failure; molecular imaging; myocardial
+   infarction; thrombosis
+ID POSITRON-EMISSION-TOMOGRAPHY; RABBIT ATHEROSCLEROTIC PLAQUES; CARDIAC
+   MAGNETIC-RESONANCE; ACUTE CORONARY SYNDROMES; IN-VIVO; STEM-CELLS;
+   MYOCARDIAL-INFARCTION; CONTRAST AGENT; MATRIX METALLOPROTEINASES; ACTIVE
+   INFLAMMATION
+ER
+
+PT J
+DE Tumor; receptor; molecular imaging; dual-targeted; peptide heterodimer
+ID POSITRON-EMITTING RADIOTRACERS; RGD-BOMBESIN HETERODIMER; GROWTH-FACTOR
+   RECEPTOR; PEPTIDE-BASED PROBES; TUMOR ANGIOGENESIS; PROSTATE-CANCER;
+   IN-VIVO; NEUROENDOCRINE TUMORS; BISPECIFIC ANTIBODIES; MULTIMERIC
+   LIGANDS
+ER
+
+PT J
+DE Optical molecular imaging; planar imaging; tomographic imaging;
+   bioluminescence tomography; fluorescence molecular tomography;
+   multimodality fusion
+ID RESOLVED BIOLUMINESCENCE TOMOGRAPHY; IN-VIVO; FLUORESCENCE TOMOGRAPHY;
+   RECONSTRUCTION METHOD; COMPUTED-TOMOGRAPHY; TIME-DOMAIN; LIGHT; MICE;
+   SIMULATION; MODALITY
+ER
+
+PT J
+DE Molecular imaging; imaging probe design; imaging probe development
+   strategies
+ID POSITRON-EMISSION-TOMOGRAPHY; STIMULATING HORMONE ANALOG; SMALL-ANIMAL
+   PET; INTEGRIN ALPHA(V)BETA(3) EXPRESSION; PROTEIN-SYNTHESIS RATE;
+   IN-VIVO; CLICK CHEMISTRY; TUMOR XENOGRAFTS; LIVING SUBJECTS; PROTEOMIC
+   TECHNOLOGIES
+ER
+
+PT J
+ID POSITRON-EMISSION-TOMOGRAPHY; CONTRAST-ENHANCED ULTRASOUND;
+   MAGNETIC-RESONANCE-SPECTROSCOPY; NONINVASIVE RAMAN-SPECTROSCOPY; OPTICAL
+   COHERENCE TOMOGRAPHY; PROTON MR SPECTROSCOPY; IN-VIVO PATHOLOGY; TUMOR
+   ANGIOGENESIS; PROSTATE-CANCER; LIVING MICE
+ER
+
+PT J
+DE molecular imaging; multimodality cardiovascular molecular imaging
+ER
+
+PT J
+DE molecular imaging; cardiovascular; multidisciplinary approach
+ID OPTICAL COHERENCE TOMOGRAPHY; ACUTE MYOCARDIAL-INFARCTION; ACUTE
+   CORONARY SYNDROME; MESENCHYMAL STEM-CELLS; MONOCYTE CHEMOATTRACTANT
+   PROTEIN-1; STABLE ANGINA-PECTORIS; ATHEROSCLEROTIC PLAQUES; VULNERABLE
+   PLAQUE; LESION MORPHOLOGY; PROGNOSTIC VALUE
+ER
+
+PT J
+DE Molecular imaging; Nanotechnology; Quantum dots; Indirect imaging;
+   Optical imaging; Positron emission tomography
+ID POSITRON-EMISSION-TOMOGRAPHY; REPORTER GENE-EXPRESSION; IN-VIVO;
+   TRANSGENE EXPRESSION; SODIUM/IODIDE SYMPORTER; TRANSFERRIN RECEPTOR;
+   DEPRESSED-PATIENTS; LIVING ANIMALS; QUANTUM DOTS; DRUG-NAIVE
+ER
+
+PT J
+ER
+
+PT J
+DE molecular imaging; stroke; optical imaging
+ID TISSUE-PLASMINOGEN ACTIVATOR; ACUTE ISCHEMIC-STROKE; CEREBRAL-ARTERY
+   INFARCTION; CAROTID-ARTERY; IN-VIVO; REAL-TIME; HEMORRHAGIC
+   TRANSFORMATION; ATHEROSCLEROTIC LESIONS; CARDIOVASCULAR-DISEASE;
+   NONINVASIVE DETECTION
+ER
+
+PT J
+ID OPTICAL COHERENCE TOMOGRAPHY; IN-VIVO; GENE-EXPRESSION; FEASIBILITY;
+   DELIVERY; CANCER; SYSTEM
+ER
+
+PT J
+ER
+
+PT J
+DE Angiogenesis; Apoptosis; Blood flow; Brain; Computed tomography (CT);
+   Cardiomyopathy; Movement disorder; Receptor; Metabolism; Magnetic
+   resonance imaging (MRI); Magnetic resonance spectroscopy (MRS); Magnetic
+   resonance spectroscopy imaging (MRSI); Optical imaging perfusion;
+   Positron emission tomography (PET); Single photon emission computed;
+   tomography (SPECT); Ultrasound; Humans; Trials; Criteria
+ID POSITRON-EMISSION-TOMOGRAPHY; TUMOR PROLIFERATIVE ACTIVITY;
+   BREAST-CANCER; PROSTATE-CANCER; NEUROENDOCRINE TUMORS;
+   INITIAL-EXPERIENCE; PARKINSONS-DISEASE; GLUCOSE-METABOLISM;
+   MALIGNANT-TUMORS; DRUG DEVELOPMENT
+ER
+
+PT B
+DE molecular imaging; vivo imaging; nano-molecular probe; target tropism
+ID NANOPARTICLES; RELEASE; DRUG
+ER
+
+PT B
+DE Molecular imaging; radiation force; monodisperse contrast agents;
+   targeted imaging
+ID ACOUSTIC RADIATION FORCE; CONTRAST AGENTS; MICROBUBBLES
+ER
+
+PT S
+DE optical coherence tomography (OCT); fluorescence molecular imaging (FMI)
+ER
+
+PT J
+ER
+
+PT J
+DE cardiovascular diseases; diagnosis; imaging; radionuclide imaging; image
+   three-dimensional; molecular probes
+ID POSITRON-EMISSION-TOMOGRAPHY; OPTICAL COHERENCE TOMOGRAPHY;
+   INTERCELLULAR-ADHESION MOLECULE-1; ULTRASOUND CONTRAST AGENTS; REPORTER
+   GENE-EXPRESSION; SMALL-ANIMAL PET; INTRAVASCULAR ULTRASOUND;
+   TIME-COURSE; IRON-OXIDE; MICROBUBBLES
+ER
+
+PT J
+ER
+
+PT J
+ID OPTICAL-SIMULATION ENVIRONMENT; FINITE-ELEMENT ALGORITHM;
+   BIOLUMINESCENCE TOMOGRAPHY; GENE-EXPRESSION; RECONSTRUCTION; PROBES;
+   LIGHT; MODEL; MICE
+ER
+
+PT J
+DE molecular imaging; imaging probe discovery; HTS
+ID CHEMICAL GENETICS; DRUG DISCOVERY; ZEBRAFISH; ANGIOGENESIS; LIBRARY;
+   ASSAY
+ER
+
+PT J
+DE Molecular imaging; mu PET; Mouse models; AD
+ER
+
+PT S
+DE Optical activity; metabolic imaging; molecular contrast agents and
+   biomarkers; enhanced target detection techniques; Stokes parameters
+   imaging
+ID MUELLER MATRIX; TISSUES; POLARIZATION; SCATTERING; SYSTEM
+ER
+
+PT J
+ID POSITRON-EMISSION-TOMOGRAPHY; RECEPTOR TYROSINE KINASES; SODIUM-IODIDE
+   SYMPORTER; SMALL-ANIMAL PET; IN-VIVO; GENE-THERAPY; TUMOR ANGIOGENESIS;
+   CONTRAST AGENTS; HEAT-SHOCK; INTEGRIN ALPHA(V)BETA(3)
+ER
+
+PT B
+DE Bioendoscopy; Molecular imaging; Narrow-band imaging; Autofluorescence
+   imaging; Near-infrared optical imaging
+ID GASTRIC-CANCER; MAGNIFYING ENDOSCOPE; SYSTEM; ANTIBODY; TUMORS
+ER
+
+PT J
+DE cancer; molecular imaging; nanomedicine; nanoplatforms; nanotechnology
+ID SUPERPARAMAGNETIC IRON-OXIDE; ULTRASOUND CONTRAST AGENTS; SEMICONDUCTOR
+   QUANTUM DOTS; COMPUTED-TOMOGRAPHY LYMPHOGRAPHY; OPTICAL COHERENCE
+   TOMOGRAPHY; RECEPTOR-MEDIATED ENDOCYTOSIS; CELL-PENETRATING PEPTIDES;
+   ZNSE NANOCRYSTAL EMITTERS; INDUCED TISSUE FACTOR; VX-2 RABBIT TUMORS
+ER
+
+PT J
+DE MR spectroscopy; contrast agents; cardiovascular molecular imaging;
+   cardiovascular disease
+ID CREATINE-KINASE; RESONANCE; MYOCARDIUM; DYSFUNCTION
+ER
+
+PT J
+DE apoptosis; molecular imaging; cardiovascular disease; annexin A5
+ID ACUTE MYOCARDIAL-INFARCTION; CARDIAC ALLOGRAFT-REJECTION; IN-VIVO
+   DETECTION; MONOCYTE CHEMOATTRACTANT PROTEIN-1; MEMBRANE PHOSPHOLIPID
+   ASYMMETRY; POSITRON-EMISSION-TOMOGRAPHY; RADIOLABELED ANNEXIN-V;
+   PROGRAMMED CELL-DEATH; ATHEROSCLEROTIC LESIONS; NONINVASIVE DETECTION
+ER
+
+PT J
+ID POSITRON-EMISSION-TOMOGRAPHY; DRUG DEVELOPMENT; TRANSLATIONAL RESEARCH;
+   GENE-EXPRESSION; BIOLOGICAL PROCESSES; TRANSGENIC ANIMALS; TARGETED
+   THERAPY; SYSTEMS BIOLOGY; LIVING SUBJECTS; CANCER
+ER
+
+PT J
+ER
+
+PT S
+DE ultrasound; imaging; nanoparticles; magneto-motive; nanocomposites;
+   cellular imaging; magnetic force; contrast agents; molecular imaging
+ID CONTRAST AGENT
+ER
+
+PT S
+DE fluorescence imaging; molecular imaging; LSQR; ART
+ID OPTICAL TOMOGRAPHY; EQUATIONS; MEDIA; RATIO
+ER
+
+PT J
+DE molecular imaging; optical imaging; magnetic resonance imaging (MRI);
+   nuclear imaging; arthritis
+ID POSITRON-EMISSION-TOMOGRAPHY; RHEUMATOID-ARTHRITIS; ARTICULAR-CARTILAGE;
+   DISEASE-ACTIVITY; CONTRAST AGENTS; MODEL; SCINTIGRAPHY; KNEE; TISSUE;
+   JOINT
+ER
+
+PT J
+ER
+
+PT J
+DE molecular imaging; molecular guided therapy; nuclear medicine
+ID DIFFERENTIATED THYROID-CARCINOMA; NUCLEAR-MEDICINE PROCEDURES;
+   RADIOIODINE THERAPY; FDG-PET; RADIATION-EXPOSURE; GRAVES-DISEASE;
+   GENE-THERAPY; IN-VIVO; X-RAY; JOURNAL NUKLEARMEDIZIN
+ER
+
+PT J
+DE PET; SPECT; bioluminescence imaging; molecular imaging; molecular
+   sensitivity
+ER
+
+PT J
+DE positron emission tomography; magnetic resonance imaging; optical
+   imaging; inflammation imaging; gene expression imaging
+ID POSITRON-EMISSION-TOMOGRAPHY; REPORTER GENE-EXPRESSION; KAPPA-B
+   ACTIVATION; IN-VIVO; TRANSGENE EXPRESSION; PSEUDOMONAS-AERUGINOSA; LOBAR
+   PNEUMONIA; LIVING ANIMALS; MOUSE MODEL; PULMONARY
+ER
+
+PT J
+DE transillumination; light scattering; optical imaging; molecular imaging;
+   diffusion
+ID OPTICAL MAMMOGRAPHY; RECONSTRUCTION; TOMOGRAPHY; ANIMALS; TUMORS; LIGHT
+ER
+
+PT J
+DE molecular imaging; contrast agents; optical coherence tomography;
+   scattering; absorption; nonlinear optics
+ID STOKES-RAMAN SCATTERING; TIME-FREQUENCY-DISTRIBUTIONS;
+   HIGH-SPECTRAL-RESOLUTION; IN-VIVO; BIOLOGICAL TISSUE; DOPPLER
+   TOMOGRAPHY; BLOOD OXYGENATION; HIGH-SENSITIVITY; MULTIPLEX CARS; FLOW
+   VELOCITY
+ER
+
+PT J
+DE molecular imaging; imaging techniques; contrast agents
+ID GREEN-FLUORESCENT PROTEIN; DIFFUSE OPTICAL TOMOGRAPHY; REPORTER
+   GENE-EXPRESSION; POSITRON-EMISSION-TOMOGRAPHY; TO-NOISE RATIO; IN-VIVO;
+   CONTRAST AGENTS; HIGH-RESOLUTION; QUANTUM DOTS; PROJECTION TOMOGRAPHY
+ER
+
+PT J
+DE preclinical studies; animal models; molecular imaging; ultrasound;
+   ultrasound contrast agents
+ID CENTRAL-NERVOUS-SYSTEM; TRANSENDOTHELIAL MIGRATION; TUMOR ANGIOGENESIS;
+   IN-VIVO; MICROBUBBLES; ADHESION; CELLS; ALPHA-4-INTEGRIN; INFLAMMATION;
+   SELECTIN
+ER
+
+PT J
+ER
+
+PT J
+DE magnetic resonance imaging (MRI); molecular imaging; multimodality
+   imaging; optical imaging
+ID STEM-CELL MIGRATION; OVARIAN TUMOR XENOGRAFTS; VEGF SIGNALING INHIBITOR;
+   SINGLE MAMMALIAN-CELLS; IN-VIVO ASSESSMENT; CONTRAST AGENTS; NONINVASIVE
+   DETECTION; TAT PEPTIDE; PROSTATE-CANCER; GENE-EXPRESSION
+ER
+
+PT J
+DE in vivo diagnostics; molecular imaging; magnetic resonance (MR);
+   nanoparticles; near IR fluorescence imaging (NIRF); positron emission
+   tomography (PET); single photon emission computed tomography (SPECT);
+   small-animal imaging (SAI); targeted contrast agents
+ID POSITRON-EMISSION-TOMOGRAPHY; IRON-OXIDE PARTICLES; GENE-EXPRESSION;
+   TELOMERASE ACTIVITY; REPORTER GENE; CANCER; MICE; APOPTOSIS; THERAPY;
+   TUMORS
+ER
+
+PT S
+ID DIFFUSION TOMOGRAPHY
+ER
+
+PT J
+ID POSITRON-EMISSION-TOMOGRAPHY; GASTROINTESTINAL STROMAL TUMORS;
+   SUPERPARAMAGNETIC IRON-OXIDE; TARGETED CONTRAST AGENT; HIGH-RESOLUTION
+   MRI; GENE-EXPRESSION; IN-VIVO; NONINVASIVE DETECTION; TRANSGENE
+   EXPRESSION; TRANSFERRIN RECEPTOR
+ER
+
+PT J
+ER
+
+PT J
+DE fluorescence; molecular imaging; fluorescence reflectance imaging;
+   fluorescence molecular tomography
+ID DIFFUSE OPTICAL TOMOGRAPHY; CONTRAST AGENTS; TURBID MEDIA; HUMAN SKIN;
+   MICROSCOPY; PROBES; RECONSTRUCTION; SPECTROSCOPY; BEACONS; CELLS
+ER
+
+PT S
+DE molecular imaging in cardiology; atherosclerotic plaques; cardiac
+   neurotransmission
+ER
+
+PT J
+ID IN-VIVO
+ER
+
+PT J
+DE rheumatoid arthritis; molecular markers; molecular imaging; radiological
+   diagnostics; fluorescence imaging
+ID INFLAMMATION; WRIST
+ER
+
+PT J
+DE molecular nuclear medicine; imaging; PET; SPECT
+ID ANTISENSE; SPECT; PET
+ER
+
+PT J
+DE molecular imaging; nanotechnology; magnetic resonance imaging
+ID INDUCED TISSUE FACTOR; IN-VIVO; GENE-EXPRESSION; CONTRAST AGENT; CAROTID
+   ARTERIES; SYSTEM; NANOPARTICLES; VISUALIZATION; TRANSFECTION;
+   ENHANCEMENT
+ER
+
+PT J
+ID POSITRON-EMISSION-TOMOGRAPHY; MAGNETIC-RESONANCE MICROSCOPY; RAY
+   COMPUTED-TOMOGRAPHY; DIFFUSE OPTICAL TOMOGRAPHY; IRON-OXIDE PARTICLES;
+   TRAFFICKING IN-VIVO; LIVING ANIMALS; TRANSGENE EXPRESSION; TUMOR
+   ANGIOGENESIS; NERVOUS-SYSTEM
+ER
+
+PT J
+DE gene therapy; imaging; nuclear medicine; molecular medicine
+ID VIRUS-THYMIDINE KINASE; IN-VIVO; MONOCLONAL-ANTIBODY; RETROVIRAL VECTOR;
+   TRANSFECTED GENES; TUMOR-SUPPRESSOR; REPORTER GENE; LUNG-CANCER;
+   EXPRESSION; RECEPTOR
+ER
+
+PT J
+ID RECEPTORS; PEPTIDE
+ER
+
+PT J
+DE editorials; genes and genetics; magnetic resonance (MR), utilization;
+   radionuclide imaging
+ID MAGNETIC-RESONANCE MICROSCOPY; POSITRON-EMISSION-TOMOGRAPHY;
+   HERPES-SIMPLEX VIRUS; KINASE GENE-TRANSFER; IN-VIVO; P-GLYCOPROTEIN;
+   DRUG DISCOVERY; TURBID MEDIA; EXPRESSION; THERAPY
+ER
+
+EF

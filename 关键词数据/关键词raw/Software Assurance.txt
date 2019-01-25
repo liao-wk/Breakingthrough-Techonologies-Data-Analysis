@@ -1,0 +1,673 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE Self-adaptive software systems; software engineering methodology;
+   assurance evidence; assurance cases
+ID TEMPORAL LOGIC; SYSTEMS; VERIFICATION; REQUIREMENTS; ADAPTATION;
+   ALGORITHMS
+ER
+
+PT J
+DE cybersecurity; software assurance; software quality; static analysis
+ER
+
+PT J
+DE software defect prediction; industrial application; quality assurance;
+   quality assurance cost
+ID DESIGN METRICS; QUALITY; SYSTEMS; CODE
+ER
+
+PT S
+DE software; development; quality assurance; quality management; tools;
+   practices
+ER
+
+PT S
+DE assurance cases; software quality; software requirements specification;
+   medical imaging software
+ER
+
+PT B
+DE Open Source Software; Quality Assurance; OSS Community
+ER
+
+PT B
+DE Software Failure; Quality Assurance; Management Model
+ER
+
+PT J
+DE population density estimation; random walk sampling; network
+   exploration; ant colony algorithms; biological distributed algorithms
+ID COLONIES
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT B
+DE quality; software; development; engineer; control
+ER
+
+PT S
+DE Software quality assurance; Implementation; Software development;
+   Software quality; Software houses; Survey
+ER
+
+PT J
+DE continuous assurance; static analysis; software security
+ID BUGS
+ER
+
+PT J
+DE agile software development; agile transition; quality assurance; quality
+   management; quality risk mitigation
+ID PROCESS IMPROVEMENT; MANAGEMENT
+ER
+
+PT J
+DE Dynamic systems; Formal methods; Semantics; Automata; Process creation;
+   Mobility
+ID VERIFICATION; SERVICE
+ER
+
+PT B
+DE systems engineering; process assessment; safety assurance; assurance
+   case; nuclear power
+ER
+
+PT S
+DE assurance model; safety pattern; model transformation; safety critical
+   system
+ER
+
+PT B
+DE agile; security assurance case; software security
+ER
+
+PT S
+DE Software quality assurance; Software testing; Internet of Things; Data
+   science; Process mining; Software quality engineering
+ID BIG DATA; SOFTWARE; MANAGEMENT; ANALYTICS; DESIGN; IOT
+ER
+
+PT S
+DE software assurance; measurement; security risk; quality assurance
+ER
+
+PT S
+DE Software Assurance Education; Industry/University Collaboration; Secure
+   Software Development
+ER
+
+PT S
+ER
+
+PT J
+DE Applications; Development; Mobile; Practice; Process; Product; Quality
+ER
+
+PT J
+DE component-based software systems (CBSS); QAM; software architecture;
+   components; quality assurance
+ER
+
+PT J
+ER
+
+PT B
+DE software; software quality; software quality challenges; software
+   quality assurance
+ER
+
+PT B
+ER
+
+PT S
+DE OSS; Open Source; Quality Assurance; Open Source Development Model; OSSD
+ER
+
+PT S
+DE Safety-critical systems; Assurance; SafeScrum; Assurance case; Safety
+   cases
+ER
+
+PT S
+DE software assurance; malware detection; computer security; automation;
+   machine learning
+ER
+
+PT J
+DE radiation therapy; guidelines; software; quality assurance; testing
+ID RADIATION-THERAPY; DOCUMENTATION
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE Computer software; Image analysis; Image scanners; Computed tomography;
+   Water quality; Medical image quality; Quality assurance; Error analysis;
+   Image reconstruction
+ER
+
+PT J
+ER
+
+PT B
+DE risk; software assurance; security-critical systems; safety-critical
+   systems; cyber-physical systems; vulnerabilities; weaknesses; cyber
+   threats; technical standards; governance
+ER
+
+PT B
+DE Software assurance case; ISO 26262; safety case
+ER
+
+PT S
+ID SYSTEM; TOOL
+ER
+
+PT S
+ID DIVISION-OF-LABOR; INSECT SOCIETIES; THRESHOLD REINFORCEMENT;
+   POLYETHISM; VARIABILITY; HYMENOPTERA; FORMICIDAE; HONEYBEES; MODELS;
+   WORK
+ER
+
+PT S
+DE Information System; Control Process; Assurance Process; Quality
+   Management
+ER
+
+PT S
+DE Software quality assurance; Educational software quality assurance
+   model; CMM; Process improvement
+ER
+
+PT S
+ER
+
+PT S
+DE assurance case; argument pattern; data flow diagram; experimental
+   evaluation; smart card application
+ER
+
+PT B
+ER
+
+PT J
+ER
+
+PT J
+DE Software safety; Assurance cases; Safety cases; Certification; DO178C
+ID REQUIREMENTS
+ER
+
+PT J
+DE CODAC; SQA
+ER
+
+PT J
+ER
+
+PT J
+DE Modeling; Model-based software development; Model quality; Model quality
+   assurance; Eclipse Modeling Framework
+ID TRANSFORMATIONS; UML
+ER
+
+PT B
+DE Software engineering; assurance cases; safety; security; certification;
+   argumentation; evidence
+ER
+
+PT B
+DE Assurance Case; Argument Pattern; Experimental Evaluation
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT J
+ID CONSENSUS; SYSTEMS; TIME
+ER
+
+PT J
+DE software quality assurance; documentation based inspection;
+   documentation based testing
+ID SYSTEMS; DOCUMENTATION; REQUIREMENTS
+ER
+
+PT B
+ER
+
+PT S
+DE Dependability; Assurance Case; Risk Management
+ER
+
+PT B
+DE software assurance; ICT supply chain risk management; software
+   development process; security
+ER
+
+PT J
+ER
+
+PT J
+DE Balance; stroke; walking; measurement; systematic review
+ID FUNCTIONAL AMBULATION PROFILE; DYNAMIC STANDING BALANCE; COMMUNITY
+   AMBULATION; MOBILITY SCALE; STEP TEST; GO TEST; RELIABILITY; GAIT;
+   REHABILITATION; VALIDITY
+ER
+
+PT J
+DE electromyography; end-stage renal disease (ESRD); metabolism; muscle
+   weakness; skeletal muscle
+ID MAGNETIC-RESONANCE-SPECTROSCOPY; CHRONIC KIDNEY-DISEASE;
+   HEMODIALYSIS-PATIENTS; DIALYSIS PATIENTS; UREMIC PATIENTS; AEROBIC
+   EXERCISE; CONTROLLED-TRIAL; FAILURE PATIENTS; L-CARNITINE; MYOPATHY
+ER
+
+PT J
+ER
+
+PT J
+DE knee; muscular strength; osteoarthritis; prehabilitation; resistance
+   training
+ID COMPARTMENT KNEE OSTEOARTHRITIS; ADDUCTION MOMENT; MUSCLE FUNCTION;
+   WALKING; GAIT; ARTHROPLASTY; EXERCISE; DETERMINANTS; MALALIGNMENT;
+   OUTCOMES
+ER
+
+PT B
+DE software assurance; secure coding; information assurance; computer
+   security; curriculum; computer science
+ER
+
+PT B
+DE Unit Testing; Software Metrics; Change Risk
+ER
+
+PT S
+DE Software assurance; software engineering education; software assurance
+   body of knowledge
+ER
+
+PT J
+DE Dynamic distributed systems; Atomic register; Distributed shared memory;
+   Fault-tolerance; Reconfigurable; Eventual synchrony
+ID DISTRIBUTED SYSTEM; QUORUM SYSTEMS; AVAILABILITY; COMMUNICATION;
+   CONSISTENCY; PAXOS; TIME
+ER
+
+PT J
+ID CAT SPINAL MOTONEURONS; HUMAN MOTOR UNITS; RECIPROCAL IA INHIBITION;
+   MUSCLE-SPINDLE ENDINGS; HINDLIMB MOTONEURONS; PHYSIOLOGICAL-PROPERTIES;
+   MEDIAL GASTROCNEMIUS; ALPHA-MOTONEURONS; TRICEPS SURAE; FIRING RATE
+ER
+
+PT J
+DE Muscle strength; Osteoarthritis, knee; Rehabilitation
+ID TEST-RETEST RELIABILITY; FEMORIS MUSCLE; FLEXOR STRENGTH; WEAKNESS;
+   ARTHROPLASTY; INDIVIDUALS; PERFORMANCE; PRECISION; FAILURE; DAMAGE
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE Control charts; Process control; Software quality; Monitoring; Software
+   measurement; Software engineering; software engineering; maintenance
+   management; software quality; software quality assurance; quality
+   evolution; statistical process control
+ER
+
+PT J
+ER
+
+PT J
+DE Rehabilitation; Stroke
+ID POST-STROKE; RELIABILITY; VALIDATION; DISABILITY; STRENGTH; TESTS;
+   INDIVIDUALS; IMPAIRMENTS; PERFORMANCE; PATIENT
+ER
+
+PT J
+DE product assurance; software assurance; software assurance case; software
+   security; structured assurance case model; structured software assurance
+   model
+ER
+
+PT S
+DE engineering economics; engineering practice; life cycle; governance;
+   quality characteristics; regulatory compliance; risk management;
+   security; software assurance; software; engineering; system assurance;
+   systems engineering; system of systems; trade-off; value chain; value
+   delivery; value management
+ER
+
+PT S
+ER
+
+PT S
+DE assurance case; pacemaker challenge; model-driven development; real-time
+   software
+ER
+
+PT B
+DE Adaptive Process Management; Semantic Technology; Software Quality
+   Assurance; Process-Centered Software Engineering Environments
+ER
+
+PT J
+DE electromyography; force; balance; movement
+ID RECIPROCAL IA INHIBITION; JOINT TORQUE PATTERNS; MOTOR NEURON SYNDROME;
+   LENGTH-OF-STAY; STANDING BALANCE; HEMIPLEGIC PATIENTS; VOLUNTARY
+   MOVEMENT; UPPER-LIMB; ELECTROMYOGRAPHIC ACTIVITY; DISCHARGE DESTINATION
+ER
+
+PT J
+DE SPINE; COACTIVATION; MUSCLE ACTIVATION PATTERNS; PEAK FORCE
+ID LOW-BACK-PAIN; LUMBAR SPINE; ABDOMINAL-MUSCLES; EXTENSOR MUSCLES;
+   COCONTRACTION; RECRUITMENT; INSTABILITY; STIFFNESS; PATTERNS; FLEXION
+ER
+
+PT B
+ER
+
+PT B
+DE Software Assurance; software security; commercial development practices
+ER
+
+PT B
+DE Software process improvement; Decision support; Software quality
+   assurance; COQUALMO
+ER
+
+PT J
+ER
+
+PT J
+DE afterhyperpolarization; motor unit; human; discharge rate; motoneurone
+ID AXON STIMULATION; MEDIAL GASTROCNEMIUS; SPINAL MOTONEURONS;
+   PHYSIOLOGICAL-PROPERTIES; CONTRACTILE PROPERTIES; CONDUCTION-VELOCITY;
+   LUMBAR MOTONEURONS; TIBIALIS ANTERIOR; SYNAPTIC NOISE; MUSCLE
+ER
+
+PT J
+DE human; posture; electromyography
+ID HUMAN POSTURAL SWAY; SOLEUS MUSCLE; QUIET STANCE; BALANCE; CONTRACTIONS;
+   MOTONEURONS; ACTIVATION; DISCHARGE
+ER
+
+PT J
+ID TRANSCRANIAL MAGNETIC STIMULATION; HUMAN MUSCLE FATIGUE; ELBOW FLEXOR
+   MUSCLES; HUMAN MOTOR CORTEX; VOLUNTARY CONTRACTION; PRESYNAPTIC
+   INHIBITION; BICEPS-BRACHII; SILENT PERIOD; CERVICOMEDULLARY JUNCTION;
+   SUPRASPINAL FATIGUE
+ER
+
+PT S
+ER
+
+PT S
+ID VERIFICATION
+ER
+
+PT S
+ER
+
+PT S
+ID DESIGN
+ER
+
+PT B
+ER
+
+PT J
+DE balance; H-reflex; human
+ID SOLEUS H-REFLEX; PRESYNAPTIC INHIBITION; MOTONEURON POOL; IA-FIBERS;
+   MODULATION; GASTROCNEMIUS; HUMANS; MUSCLE; AMPLITUDE; ACTIVATION
+ER
+
+PT J
+DE age; former professional athletes; CVD risk factors; physical activity;
+   muscle mass; bone mineral density
+ID CORONARY-HEART-DISEASE; BONE-MINERAL DENSITY; PHYSICAL-ACTIVITY;
+   METABOLIC SYNDROME; MEN; FITNESS; AGE; DETERMINANTS; ATHLETICISM;
+   STRENGTH
+ER
+
+PT J
+ID CERVICAL SPINAL-CORD; PROPRIOCEPTIVE INFORMATION; VOLUNTARY
+   CONTRACTIONS; VESTIBULOSPINAL TRACT; POSTURAL RESPONSES; TENDON
+   VIBRATION; QUIET STANCE; REFLEX; CAT; MOTONEURONS
+ER
+
+PT J
+DE afterhyperpolarization; motoneurone; motor unit; human; reliability
+ID HUMAN MOTOR UNITS; MUSCLE; DISCHARGE; CONTRACTION
+ER
+
+PT J
+DE balance; quality of life; rehabilitation; stroke
+ID REHABILITATION COHORT; POSTURAL ADJUSTMENTS; OVERHEAD HARNESS; POSTACUTE
+   STROKE; MUSCLE-ACTIVITY; BACK-PAIN; ARM; INDIVIDUALS; HEMIPARESIS;
+   RESPONSES
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ID ATOMIC-FORCE MICROSCOPE; MANIPULATION
+ER
+
+PT S
+ER
+
+PT J
+DE human; motor unit; posture; coherence; common drive
+ID SHORT-TERM SYNCHRONIZATION; VOLUNTARY CONTRACTIONS; CORTICOSPINAL
+   PROJECTIONS; FIRING PATTERN; QUIET STANCE; MUSCLE; COHERENCE; BALANCE;
+   MOTONEURONS; STIFFNESS
+ER
+
+PT J
+DE software quality assurance; launch vehicle; testing; simulation;
+   verification; validation; software fault injection
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT B
+DE software quality assurance (SQA); pareto; principle
+ER
+
+PT J
+DE mobile networks; ad hoc networks; dynamic distributed algorithms;
+   fault-tolerance; location-aware
+ID DISTRIBUTED SYSTEM; MANAGEMENT
+ER
+
+PT J
+ID SHORT-TERM SYNCHRONIZATION; QUIET STANCE; SPINAL-CORD; CORTICOSPINAL
+   PROJECTIONS; VESTIBULOSPINAL TRACT; ALPHA-MOTONEURONES; FORCE TREMOR;
+   COMMON INPUT; CAT; CONTRACTIONS
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT J
+DE muscle mass; muscle strength; muscle power; genetics; gender
+ID II IGF-II; SKELETAL-MUSCLE; BIRTH-WEIGHT; GENE REGION; STRENGTH; AGE;
+   MEN; EXPRESSION; WOMEN; MALES
+ER
+
+PT J
+DE fatigue; H-reflex; human; motor unit
+ID MOTONEURON FIRING RATES; HUMAN TRICEPS SURAE; MAXIMAL VOLUNTARY
+   CONTRACTIONS; ISOMETRIC PLANTAR FLEXION; PRESYNAPTIC INHIBITION;
+   HOFFMANN REFLEX; EXCITABILITY; RESPONSES; AFFERENTS; EXERCISE
+ER
+
+PT J
+DE afterhyperpolarization; contraction speed; human; ischemia; motor unit;
+   twitch
+ID TIME-COURSE; TIBIALIS ANTERIOR; MUSCLE UNITS; CONTRACTILE PROPERTIES;
+   MEDIAL GASTROCNEMIUS; FATIGUE PROPERTIES; SKELETAL-MUSCLE; SYNAPTIC
+   NOISE; CAT; TWITCH
+ER
+
+PT J
+DE human; postural control; EMG; anticipatory postural adjustment; standing
+   balance
+ID UPPER-LIMB MOVEMENT; VOLUNTARY MOVEMENT; ADJUSTMENTS; PERTURBATIONS;
+   ORGANIZATION
+ER
+
+PT S
+ER
+
+PT B
+ID CODE
+ER
+
+PT B
+DE composite evaluation; common criteria; high assurance; smart cards;
+   covert channels
+ID SECURITY
+ER
+
+PT B
+ER
+
+PT J
+DE balance; cerebrovascular accident; rehabilitation
+ID POSTURAL ADJUSTMENTS; HEMIPLEGIC PATIENTS; OVERHEAD HARNESS; GAIT SPEED;
+   RESPONSES; RELIABILITY; SCALE; REHABILITATION; PHYSIOTHERAPY;
+   PERTURBATION
+ER
+
+PT J
+ID INTRAMUSCULAR MICROSTIMULATION; PHYSIOLOGICAL-PROPERTIES; MEDIAL
+   GASTROCNEMIUS; FATIGUE PROPERTIES; TIBIALIS ANTERIOR; MODEL MOTONEURON;
+   SYNAPTIC NOISE; CAT; CONTRACTIONS; FORCE
+ER
+
+PT J
+DE motor unit; spike-triggered average; human; reliability
+ID HUMAN MOTOR UNITS; VOLUNTARY ISOMETRIC CONTRACTIONS; DIGITORUM COMMUNIS
+   MUSCLE; AXON STIMULATION; SIMULATED CONTRACTIONS; ORDERLY RECRUITMENT;
+   HUMAN MASSETER; SYNCHRONIZATION; BEHAVIOR; FATIGUE
+ER
+
+PT J
+ID OBESE POSTMENOPAUSAL WOMEN; BODY-FAT DISTRIBUTION; ABDOMINAL FAT;
+   CARDIOVASCULAR-DISEASE; COMPUTED-TOMOGRAPHY; INSULIN SENSITIVITY; MEN;
+   OVERWEIGHT; ACCUMULATION; FOLLOW
+ER
+
+PT J
+ER
+
+PT J
+DE human; muscle fatigue; endurance; submaximal contractions
+ID MOTOR UNITS; SKELETAL-MUSCLE; RELAXATION; MECHANISMS; REFLEX; SPEED;
+   POWER
+ER
+
+PT S
+ID RELIABILITY; RISK
+ER
+
+PT S
+ER
+
+PT S
+ID DISTRIBUTED SYSTEM; MANAGEMENT
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT J
+DE motoneuron; rate coding; skeletal muscle; contractile properties; aging
+ID AGE-RELATED-CHANGES; CONTRACTILE PROPERTIES; VOLUNTARY CONTRACTIONS;
+   ELDERLY SUBJECTS; FLEXOR MUSCLES; FIRING RATES; LEG MUSCLES; YOUNG;
+   STRENGTH; ADULTS
+ER
+
+PT J
+DE menopause; VO(2)max; body composition; lipoprotein lipids; bone mineral
+   density
+ID ESTROGEN REPLACEMENT THERAPY; CORONARY HEART-DISEASE; BODY-COMPOSITION;
+   HEALTHY WOMEN; WEIGHT-LOSS; FITNESS; MENOPAUSE; EXERCISE; AGE; FRACTURE
+ER
+
+PT J
+ID LIPOPROTEIN-LIPASE ACTIVITY; DEPENDENT PROTEIN-KINASE; BODY-FAT
+   DISTRIBUTION; REGIONAL DIFFERENCES; RAT ADIPOCYTES; OBESE WOMEN;
+   LIPOLYSIS; MENOPAUSE; ESTROGEN; PLASMA
+ER
+
+PT J
+DE human; muscle fatigue; H-reflex; submaximal contraction
+ID GROUP-IV AFFERENTS; GROUP-III; SKELETAL-MUSCLE; EXERCISE; CONTRACTION;
+   POTASSIUM
+ER
+
+PT J
+ER
+
+PT B
+ER
+
+PT J
+DE motor unit; muscle fatigue; motoneuron; human
+ID ARM MOVEMENTS; MOTOR UNITS; CONTRACTIONS; VOLUNTARY; FREQUENCY; BEHAVIOR
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+EF

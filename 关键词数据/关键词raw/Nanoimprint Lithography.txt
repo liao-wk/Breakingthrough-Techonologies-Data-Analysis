@@ -1,0 +1,1000 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE soft lithography; nanoimprint lithography; polydimethylsiloxane (PDMS);
+   non-planar substrates
+ID LIGHT-EMITTING DEVICES; OXYGEN-PLASMA; MECHANICAL-PROPERTIES; IMPRINT
+   LITHOGRAPHY; HIGH-RESOLUTION; POLYDIMETHYLSILOXANE; TEMPERATURE; FILMS;
+   FABRICATION; STABILITY
+ER
+
+PT J
+DE Nanoimprint lithography; Biomass; Gas permeability; Volatile solvent;
+   Mass production; Raman spectra
+ID NANOIMPRINT LITHOGRAPHY; HIGH-THROUGHPUT
+ER
+
+PT J
+DE Nanoimprint lithography; Modulus of elasticity; Template deformation;
+   Stress concentration; Simulation
+ID THERMAL NANOIMPRINT LITHOGRAPHY; DEMOLDING PROCESS; COMPOSITE STAMPS;
+   SOFT LITHOGRAPHY; HIGH-RESOLUTION; MOLD; SURFACE
+ER
+
+PT J
+ID UV-NIL; IMPRINT LITHOGRAPHY; PERFORMANCE
+ER
+
+PT J
+ID IMPRINT LITHOGRAPHY; POLY(LACTIC ACID); RESIST MATERIAL; POLYMERS;
+   NANOPARTICLES; REDUCTION; TEMPLATE; FILM; FABRICATION; SURFACES
+ER
+
+PT S
+DE nanoimprint lithography; gas permeable template; mold; biomass;
+   cellulose; defect reduction
+ID FLASH IMPRINT LITHOGRAPHY; ROLL-TO-ROLL; STEP
+ER
+
+PT S
+DE metal nanostructure; structure building; nanoimprint lithography
+ER
+
+PT J
+ID WAVE-GUIDES; IMPRINT LITHOGRAPHY; OPTICAL-PROPERTIES; SOFT LITHOGRAPHY;
+   FIBERS; BANDGAP; FILMS; LONG
+ER
+
+PT J
+ID FLASH IMPRINT LITHOGRAPHY; LINE; NANOPARTICLES; POLYMERS; SYSTEMS; STEP
+ER
+
+PT J
+DE nanoimprint lithography; nanoimprint; template; replica; defect; image
+   placement
+ER
+
+PT J
+ER
+
+PT J
+DE Hot embossing lithography; nanoimprint lithography; low temperature;
+   stamp; stress; finite element method
+ID FINITE-ELEMENT-ANALYSIS; FILMS
+ER
+
+PT S
+DE bowtie aperture; near-field scanning optical lithography; manufacturing
+   process; high resolution; plate-to-roll nanoimprint lithography
+ID NEAR-FIELD PHOTOLITHOGRAPHY; ROLL-TO-ROLL; NANOIMPRINT LITHOGRAPHY;
+   DESIGN; APERTURES; TRANSMISSION; RESOLUTION; ARRAY; STEP
+ER
+
+PT J
+DE nanofabrication; nanoimprint; lithography; molding; dry etching
+ID SIMULATION; IMPRINT; POLYMER; FILM
+ER
+
+PT S
+DE Template; mold; UV nanoimprint lithography; photomask; gas-permeable
+   film
+ID RESIST MATERIAL
+ER
+
+PT S
+DE nanoimprint; nanostructures; optical gratings; silicon mold; Teflon
+   coating; large-scale nanofabrication
+ID LITHOGRAPHY
+ER
+
+PT S
+DE Nanoimprint lithography; multi-scale; computational lithography;
+   simulation; design for manufacture
+ID FLASH IMPRINT LITHOGRAPHY
+ER
+
+PT J
+DE Nanobowl array; Self-assembly; Nanoimprint lithography; Lift-off
+ID NANOSPHERE LITHOGRAPHY; SILICON NANOPILLARS; NANOPARTICLES; TEMPLATE;
+   STAMPS; NICKEL
+ER
+
+PT J
+ID IMPRINT LITHOGRAPHY; TEMPERATURE; RESOLUTION; THICKNESS
+ER
+
+PT J
+ID METAL-ELECTRODES; NM
+ER
+
+PT J
+ID FLASH IMPRINT LITHOGRAPHY; ARF LITHOGRAPHY; FABRICATION; STEP;
+   NANOFABRICATION; NANOPARTICLES; DERIVATIVES; POLYMERS
+ER
+
+PT J
+ID THIN POLYMER-FILMS; NANOIMPRINT LITHOGRAPHY; THERMAL NANOIMPRINT; VACUUM
+   ENVIRONMENT; SOFT LITHOGRAPHY; UV-NANOIMPRINT; PRESSURE; STAMPS;
+   MICROSTRUCTURES; MOLD
+ER
+
+PT J
+DE Nanoimprint Lithography; Injection molding; Functional surfaces
+ID WENZEL WETTING TRANSITION; IMPRINT LITHOGRAPHY; SURFACES; POLYMER;
+   RESOLUTION; ENERGY
+ER
+
+PT J
+DE biocompatible magnetite; magnetic properties; nanoimprint lithography;
+   nanoparticles; sombrero element arrays
+ID FE3O4 NANOPARTICLES; TEMPERATURE; SENSITIVITY
+ER
+
+PT S
+DE thermal nanoimprint lithography; nanoimprint lithography; low
+   temperature nanoimprint lithography; resist; stress; finite element
+   analysis
+ID LITHOGRAPHY; FILMS
+ER
+
+PT S
+DE NIL; nanoimprint; template; replica; defect; image placement
+ER
+
+PT S
+DE nanoimprint lithography; plant-based materials; defect less process;
+   light transparency film
+ID ARF LITHOGRAPHY; RESIST MATERIAL
+ER
+
+PT J
+ID FINITE-ELEMENT-ANALYSIS; ROOM-TEMPERATURE; LOW-PRESSURE; FABRICATION;
+   SURFACE; RESIST; IMPRINT; PLANAR; MOLDS; FILMS
+ER
+
+PT J
+DE Nanoimprint; Lithography; Nanofabrication; Nanopatterning; Roll-to-roll;
+   Roll-to-plate; Plate-to-plate
+ID AREA PATTERN REPLICATION; UV-NANOIMPRINT; IMPRINT LITHOGRAPHY; BEAM
+   LITHOGRAPHY; LOW-PRESSURE; FABRICATION; POLYMER; STAMP; SYSTEM; STEP
+ER
+
+PT J
+DE nanoimprint lithography; nano-scale feature; T mold
+ER
+
+PT J
+DE nanoimprint; residual layer; polymer; mold; roll-to-roll process
+ID ROLL-TO-ROLL; PHOTOLITHOGRAPHY-PATTERNING TECHNIQUE; FLASH IMPRINT
+   LITHOGRAPHY; THIN-FILM TRANSISTORS; MOLDING TECHNIQUES; SOFT
+   LITHOGRAPHY; RESOLUTION; MICROSTRUCTURES; NANOSTRUCTURES; DENSITY
+ER
+
+PT J
+DE Thermal-nanoimprint lithography; Organic lasers; Distributed feedback
+   lasers; Perylenediimide derivatives
+ID AMPLIFIED SPONTANEOUS EMISSION; CONJUGATED-POLYMER; FILMS; DERIVATIVES;
+   DEPENDENCE
+ER
+
+PT J
+DE UV nanoimprint; lithography; condensable gas; pentafluoropropane;
+   throughput; demolding force; UV resin; solubility parameter; simulation
+ID FLASH IMPRINT LITHOGRAPHY; RESIDUAL LAYER THICKNESS; UV-NANOIMPRINT;
+   ENVIRONMENTAL PRESSURE; FILMS; MOLD; RESOLUTION; DEFECTS; STEP; POLYMER
+ER
+
+PT J
+DE nanoimprint; replica mold; second generation
+ID UV-NANOIMPRINT LITHOGRAPHY
+ER
+
+PT S
+DE Thermal roller nanoimprint lithography; Shrink BOPP film; Defect;
+   Rheology property
+ID THERMAL NANOIMPRINT; POLYMER FLOW; IMPACT
+ER
+
+PT J
+DE nanoimprint lithography; anodic aluminum oxide; porous silicon; raman
+   spectrum
+ID ANODIC ALUMINUM-OXIDE; LIGHT-EMITTING-DIODES; NANOPILLAR ARRAYS;
+   NANOWIRE ARRAYS; FABRICATION; ANODIZATION; MEMBRANE; STORAGE; FILMS
+ER
+
+PT J
+DE nanostencil lithography; nanoimprint lithography; nanowires
+ID RESOLUTION; NANOFABRICATION; NANOSTENCILS; POLYMER; MASKS
+ER
+
+PT J
+DE Bridged-grain; Thin film transistor; Nanoimprint
+ID ROLL; TFTS
+ER
+
+PT J
+ID LITHOGRAPHY; RESOLUTION; PLASMA; AL2O3; PMMA
+ER
+
+PT J
+DE graphene nanorings; nanoimprint lithography; nanorribons; bandgap
+   opening
+ID NANOIMPRINT LITHOGRAPHY; NANORIBBONS; TRANSPARENT; ELECTRODES;
+   MONOLAYER; BANDGAP; FILMS; RAMAN
+ER
+
+PT S
+DE Nanoimprint lithography; Fishnet; Split Ring Resonators; Metamaterials
+ID INDEX
+ER
+
+PT J
+DE light-emitting diode; nanoimprint lithography; dry etching; hydride
+   vapor phase epitaxy
+ER
+
+PT J
+DE UV nanoimprint; lithography; condensable gas; pentafluoropropane;
+   throughput; demolding force; solubility parameter
+ID UV-NANOIMPRINT; ENVIRONMENTAL PRESSURE; DEFECTS; RESOLUTION; POLYMER;
+   STEP; FLOW
+ER
+
+PT J
+DE nanoimprint lithography; hybrid polymer; functional material;
+   anti-adhesive property; release force; polymeric working stamp;
+   nanofluidics
+ID NANOIMPRINT LITHOGRAPHY
+ER
+
+PT J
+DE nanoimprint; adhesion; releasing energy; surface energy; template
+ID DEMOLDING FORCES
+ER
+
+PT J
+ID SU-8 MICROSTRUCTURES; UV-LITHOGRAPHY; IMPRINT; NANOSTRUCTURES
+ER
+
+PT S
+DE Nanoimprint lithography (NIL); Hot embossing lithography (HEL);
+   Ultraviolet nanoimprint lithography (UV - NIL)
+ID FABRICATION; IMPRINT
+ER
+
+PT J
+ID HYDROGEN SILSESQUIOXANE; MICROSCOPY; RESOLUTION; RESIST; TOOL
+ER
+
+PT J
+DE Photonic crystal; Photonic band gap; Nanoimpression
+ID CRYSTALS
+ER
+
+PT J
+DE Organic transistor; Short channel effect; UV-nanoimprint lithography;
+   Opaque Si-mold; Lift-off process
+ID THIN-FILM TRANSISTORS; CONTACT RESISTANCE; ELECTRODES; CIRCUITS
+ER
+
+PT J
+ER
+
+PT J
+DE DFB LD; Nanoimprint; SFIL; Soft stamp
+ID IMPRINT LITHOGRAPHY; STAMPS; LASERS
+ER
+
+PT J
+ID ALIGNMENT
+ER
+
+PT J
+ID IMPRINT LITHOGRAPHY; HYDROGEN SILSESQUIOXANE; RESOLUTION; PLASMA
+ER
+
+PT S
+DE memristor; crossbar arrays; nanoimprint lithography; sub-10 nm
+ID LITHOGRAPHY
+ER
+
+PT B
+DE nanoimprint lithography; soft nanoimprint lithography; composite stamp;
+   184 PDMS
+ID SOFT LITHOGRAPHY; NANOIMPRINT LITHOGRAPHY; IMPRINT LITHOGRAPHY;
+   RESOLUTION; STABILITY
+ER
+
+PT S
+DE nanoimprint; polymer; viscoelastic; finite element analysis; PMMA
+ER
+
+PT S
+DE nanoimprint lithography; resist material; biomass; hardmask layer
+ER
+
+PT J
+ID SHAPES; NANOSTRUCTURES; SURFACES; ARRAYS
+ER
+
+PT J
+DE electron beam lithography; nanolithography; nanopatterning; polymers;
+   resists; soft lithography
+ID X-RAY
+ER
+
+PT J
+DE Fourier transforms; glass; molecular dynamics method; moulding;
+   nanofabrication; nanolithography; nanopatterning; nanostructured
+   materials; soft lithography
+ID IMPRINT LITHOGRAPHY; VITREOUS SILICA; GLASS-SURFACE; SCALE; SIMULATIONS;
+   POTENTIALS; RESOLUTION; FRACTURE
+ER
+
+PT J
+DE ZnO thin films; Surface pattern; Sol-gel methods; Nanoimprint
+   lithography
+ID ZINC-OXIDE; COLLOIDAL CRYSTALS; TRANSPARENT; ORIENTATION
+ER
+
+PT J
+DE Mold of a sub-micron grating array; Grating array; Sol-gel; Nanoimprint
+   lithography (NIL)
+ID REAL-TIME MEASUREMENT; BEAM SPLITTER; SENSORS; COUPLER
+ER
+
+PT J
+DE UV-nanoimprint lithography; UV-NIL; Working stamps; Maskless
+   lithography; Nanopatterning
+ID HYDROGEN SILSESQUIOXANE; RESIST
+ER
+
+PT J
+DE Imprinting; Metal pattern transfer; PDMS; Soft mold
+ID NANOIMPRINT LITHOGRAPHY; ELASTOMERIC STAMP; PATTERN TRANSFER; TRENCHES
+ER
+
+PT J
+DE Negative-index material; Split-ring resonator; Tilted nanoimprint
+   lithography; Nanotransfer printing; Reactive ion etching
+ID NEGATIVE REFRACTIVE-INDEX; PHOTONIC CRYSTALS; METAMATERIALS;
+   PERMEABILITY; FREQUENCIES; NM
+ER
+
+PT J
+DE Nanoimprint; Embedded metal electrode; Flexible film; Polyurethane
+   acrylate; Metal transfer imprint
+ER
+
+PT J
+ID IMPRINT LITHOGRAPHY; THERMAL NANOIMPRINT; ARRAYS
+ER
+
+PT J
+ID DIODE-LASERS
+ER
+
+PT J
+DE Nanoimprint lithography; Soft molecular scale; Nanofabrication
+ID FLASH IMPRINT LITHOGRAPHY; POLY 3-HEXYLTHIOPHENE; SOLAR-CELLS; STEP;
+   TRANSISTORS; RESOLUTION; SCALE
+ER
+
+PT J
+DE Roll nanoimprint; Photo-curable resin; Electron beam lithography;
+   Transparent roll mold
+ID NANOIMPRINT LITHOGRAPHY
+ER
+
+PT S
+DE nanoimprint; NIL; jet and flash imprint lithography; J-FIL; step and
+   flash imprint lithography; S-FIL; Molecular Imprints; defectivity; HVM
+ID LITHOGRAPHY; STEP
+ER
+
+PT S
+DE UV-nanoimprint lithography; UV-NIL; working stamps; maskless lithography
+ER
+
+PT B
+DE Subwavelength gratings; optical fibers; nanoimprint lithography; optical
+   communications system
+ID SURFACES
+ER
+
+PT J
+DE Grating; nanoimprint lithography; polydimethylsiloxane (PDMS);
+   polysiloxane; soft lithography; waveguides
+ID FILTERS
+ER
+
+PT J
+ID SELF-ASSEMBLED MONOLAYER; ANTISTICKING LAYERS; UV; FABRICATION; STAMPS;
+   MOLD
+ER
+
+PT J
+DE resist material; nanopatterning; process conditions; plant-based resin;
+   trehalose; lithography; ultraviolet polymerization; step-and-flash
+   nanoimprint lithography
+ID FLASH IMPRINT LITHOGRAPHY; FABRICATION; STEP
+ER
+
+PT J
+DE Nanoimprint lithography; Soft stamp; High resolution; Mold inversion
+ID IMPRINT LITHOGRAPHY; RESOLUTION; NANOFABRICATION
+ER
+
+PT J
+DE Nanoimprint lithography (NIL); Nanoimprint resin; Flow behavior;
+   Polyvinyl alcohol; Cross-sectional observation
+ID ROOM-TEMPERATURE NANOIMPRINT; DEFORMATION; LITHOGRAPHY
+ER
+
+PT B
+ID LITHOGRAPHY
+ER
+
+PT S
+ID NANOIMPRINT LITHOGRAPHY
+ER
+
+PT S
+DE nanoimprint lithography; simulation; design rules; pattern dependencies;
+   computer-aided design; design-for-manufacture
+ID THIN POLYMER-FILMS; FLOW BEHAVIOR; SIMULATION; THICKNESS; CONTACT;
+   MODEL; LAYER; DEFORMATION; IMPACT
+ER
+
+PT J
+ID GAP FILL MATERIALS; LITHOGRAPHY; NANOIMPRINT; SUBSTRATE; TRENCHES;
+   DEFECTS
+ER
+
+PT J
+DE nanoimprint; resist flow; UV cure; shrinkage; process simulation
+ER
+
+PT J
+DE UV nanoimprint; UV curable resist; modulus; shrinkage; conversion time
+ER
+
+PT J
+DE nanoimprint lithography; mold fabrication; electron beam lithography
+ID IMPRINT LITHOGRAPHY; STAMPS
+ER
+
+PT J
+DE UV nanoimprint lithography; Hot embossing; DLC coating; Flexible polymer
+   template
+ID NANOSPHERE LITHOGRAPHY; COLLOIDAL CRYSTALS; FABRICATION
+ER
+
+PT J
+DE Nanoimprint; LCD; TFT; Gate; Large area
+ID FABRICATION
+ER
+
+PT J
+ER
+
+PT J
+DE anodic alumina membranes; fluorescent nanorods; nanoimprint lithography;
+   nanoporous silicon; nonspherical nanoparticles
+ID IMPRINT LITHOGRAPHY; DRUG-DELIVERY; SHAPE; PARTICLES; NANOPARTICLES;
+   MONODISPERSE; ALUMINA; ARRAYS; NANOLITHOGRAPHY; MICROPARTICLES
+ER
+
+PT J
+ID FLASH IMPRINT LITHOGRAPHY; SIMULATION; POLYMER; STEP
+ER
+
+PT J
+ID IMPRINT LITHOGRAPHY; PRESSURE
+ER
+
+PT J
+DE Nanoimprint lithography; UV nanoimprint; Residual layer thickness;
+   Pattern density; Capacity-equalized mold
+ID LITHOGRAPHY; MOLD
+ER
+
+PT J
+DE Reversal lithography; Nanophotoic chiral crystals; Optical chirality
+ID HOLOGRAPHIC LITHOGRAPHY; FABRICATION; FILTER
+ER
+
+PT J
+DE Nanoimprint lithography; UV-NIL; Polymer mold; Plastomer; Hot embossing
+ID IMPRINT
+ER
+
+PT J
+DE UV-nanoimprint lithography; UV-NIL; Working stamps; Anti sticking
+   treatment
+ID NANOIMPRINT LITHOGRAPHY
+ER
+
+PT J
+DE Nanoimprint lithography; Ultraviolet nanoimprint lithography; Stamp
+   replication; Polyhedral silsesquioxane
+ER
+
+PT B
+DE ultrasonic nanoimprint lithography; assisted-heating; nanofabrication
+ID VIBRATION
+ER
+
+PT B
+DE Micro fuel cell; Flow field plate; Nanoimprint lithography;
+   UV-nanoimprint lithography
+ID IMPRINT
+ER
+
+PT S
+DE Nanoimprint; lithography
+ER
+
+PT J
+DE UV nanoimprint lithography; gratings; composite semiconductors;
+   uniformity
+ER
+
+PT S
+DE cell culture; nanoimprint lithography; holographic lithography;
+   nanogroove; nanostructures
+ER
+
+PT J
+DE Anti-adhesive; Self-assembled monolayer; FDTS; UV-nanoimprint
+   lithography
+ID STAMPS; POLYMERS; SCALE; FILMS
+ER
+
+PT J
+DE arrays; nanoimprint lithography; nanostructures; patterning
+ID HYDROGEN SILSESQUIOXANE; CO/PD MULTILAYER; MAGNETIC STORAGE;
+   LITHOGRAPHY; DENSITY; MEDIA
+ER
+
+PT J
+DE Data storage; e-beam lithography; magnetic storage; nanofabrication;
+   nanoimprint; nanomagnetic; patterned media
+ID MAGNETIC RECORDING MEDIA; NANOIMPRINT LITHOGRAPHY; IMPRINT LITHOGRAPHY;
+   BEAM LITHOGRAPHY; SQUARE INCH; MAGNETORESISTANCE; MULTILAYERS;
+   FABRICATION; SENSORS; TERABIT
+ER
+
+PT J
+DE lithography; nanoimprint; UV-NIL; nanopatterning; nanotechnology
+ID ULTRAVIOLET-BASED NANOIMPRINT; IMPRINT; NM; FABRICATION
+ER
+
+PT J
+ER
+
+PT J
+ID NM HALF-PITCH
+ER
+
+PT J
+ID PATTERN DEFINITION TECHNIQUE; SIZE-REDUCTION LITHOGRAPHY; NANOWIRE
+   ARRAYS; LOCOS ISOLATION; TECHNOLOGY; OXIDATION; IMPRINT; LINES; MASK
+ER
+
+PT J
+DE nanoimprint; photonics; ePIXnet; nanoparticles
+ID POLYMER
+ER
+
+PT J
+ID HOT EMBOSSING LITHOGRAPHY; THIN POLYMER-FILMS; FLOW BEHAVIOR;
+   MICROFABRICATION
+ER
+
+PT B
+DE component; flexible stamp; thermal nanoimprint; roll typed
+   UV-nanoimprint; polycarbonate; polyurethane; PDMS
+ID IMPRINT LITHOGRAPHY; DESIGN
+ER
+
+PT B
+DE holographic lithography; nanoimprint lithography; osteoblast;
+   nanopattern; cytoskeleton
+ID GUIDANCE; MECHANOTRANSDUCTION; MORPHOLOGY
+ER
+
+PT B
+DE nanoimpirint lithography (NIL); roller-type nanoimprint lithography
+   (RNIL)
+ID IMPRINT LITHOGRAPHY; FABRICATION; STEP
+ER
+
+PT S
+DE optical information processing; nanoimprint lithography; nanophotonics;
+   photonic crystals
+ID NANOIMPRINT LITHOGRAPHY; IMPRINT LITHOGRAPHY; PHOTONIC CRYSTAL;
+   NANOCAVITY
+ER
+
+PT B
+DE surface gratings; distributed feedback lasers; nanoimprint lithography
+ER
+
+PT S
+DE nanoimprint lithography; S-FIL; CMOS devices; template
+ER
+
+PT S
+DE transparent stamps; sol-gel; hybrid polymer; nanoimprint lithography
+   (NIL); UV patterning
+ID REPLICATION
+ER
+
+PT J
+DE UV nanoimprint lithography; template release; nanoimprint resists;
+   fluoroalkyl silanes; metal oxides; metal nitrides
+ID FLASH IMPRINT LITHOGRAPHY; STEP; LAYERS
+ER
+
+PT J
+DE UV nanoimprint lithography; electrodeposition; chemical mechanical
+   polishing; magnetic nanodots array
+ID NANOSTRUCTURES; STORAGE; MOLD; NIL
+ER
+
+PT B
+DE nanoimprint lithography; stamp and substrate deformation; computer
+   simulation
+ER
+
+PT S
+ER
+
+PT J
+ID NANOELECTRODE LITHOGRAPHY; IMPRINT LITHOGRAPHY; FEATURES; STAMP
+ER
+
+PT J
+ID ELECTRON-BEAM LITHOGRAPHY
+ER
+
+PT J
+DE nanoimprint lithography; polythiophene; conductive polymer;
+   electrochromic; precursor route; terthiophene; polynorbomylene
+ID CONDUCTING POLYMERS; POLY(THIOPHENE); NANOLITHOGRAPHY; POLYANILINE;
+   SURFACES
+ER
+
+PT J
+DE nanoimprint lithography; ultrasonic vibration; polycarbonate; glass
+   transition temperature; MEMS fabrication technology
+ID IMPRINT
+ER
+
+PT J
+ID IMPRINT LITHOGRAPHY; POLYMER; NANOLITHOGRAPHY; FEATURES
+ER
+
+PT J
+DE nanoimprint; nanocasting; anti-reflection; reproduction; low cost;
+   fluorinated polymer
+ER
+
+PT J
+DE reverse nanoimprint lithography; three-dimensional nanofabrication
+ER
+
+PT J
+DE nanoimprint lithography; alignment; Moire
+ER
+
+PT J
+DE hot embossing; nickel stamp; nanoimprint lithography
+ID NANOIMPRINT LITHOGRAPHY; IMPRINT LITHOGRAPHY
+ER
+
+PT J
+DE UV-nanoimprint; CD control; reproducibility; step & repeat; wafer scale;
+   dimensional stability
+ID FLASH IMPRINT LITHOGRAPHY
+ER
+
+PT J
+DE 3D structural templates; UV-nanoimprint; gray-scale lithography; dot
+   density modulation
+ER
+
+PT J
+ID NANOIMPRINT LITHOGRAPHY; DIFFUSION
+ER
+
+PT J
+ID SCHEME
+ER
+
+PT B
+DE nanofabrication; nanoimprint lithography; isothermal imprint;
+   room-temperature nanoimprint lithography
+ID IMPRINT LITHOGRAPHY; RESOLUTION; PATTERNS
+ER
+
+PT S
+ER
+
+PT J
+DE thin layer soft lithography; polymethyl methacrylate (PMMA);
+   micropattern
+ID IMPRINT
+ER
+
+PT S
+DE thermal nano imprint; UV nanoimprint; micro structure; nano structure;
+   mold; template
+ID IMPRINT
+ER
+
+PT J
+ER
+
+PT J
+DE nanoimprint; mold; replication; UV resin; roll to rolls; MEMS
+ER
+
+PT B
+ER
+
+PT B
+ID FLOW
+ER
+
+PT B
+ER
+
+PT S
+DE nanoimprint lithography; UV-NIL; alignment; Moire
+ER
+
+PT J
+DE nanoimprint lithography; stamp material; nanoindentation; hardness;
+   young's modulus
+ID MECHANICAL-PROPERTIES; FILMS
+ER
+
+PT J
+DE UV-nanoimprint; spin-coating; resist; wafer scale; resolution;
+   nanotechnology; alignment; lithography
+ID ULTRAVIOLET-BASED NANOIMPRINT; IMPRINT TECHNIQUE; LITHOGRAPHY; STEP;
+   MOLD
+ER
+
+PT J
+DE etch; nanoimprint lithography; S-FIL
+ID FLASH IMPRINT LITHOGRAPHY; STEP
+ER
+
+PT J
+DE nanoimprint lithography; photolithography; hybrid mask mold;
+   anti-sticking property
+ID FLASH IMPRINT LITHOGRAPHY; STEP
+ER
+
+PT J
+DE three-dimensional nanoimprint template; focused ion beam lithography;
+   spin-on-glass; PMMA
+ID IMPRINT
+ER
+
+PT J
+DE photonic crystals; nanoimprint lithography; soft UV lithography
+ID IMPRINT LITHOGRAPHY; BAND-STRUCTURE; RESOLUTION
+ER
+
+PT J
+DE patterning; nanoimprint lithography; colloidal particles
+ID SELECTIVE GROWTH; SOFT LITHOGRAPHY; POLYMER; PARTICLE; CRYSTALLIZATION;
+   MICROSPHERES; SUBSTRATE; PATTERNS; IMPRINT
+ER
+
+PT J
+DE nanoimprinting lithography; multilayer structure; sacrificial film
+ID FABRICATION; DEPOSITION; MOLD
+ER
+
+PT J
+ID PHOTONIC CRYSTAL
+ER
+
+PT J
+DE photonic crystal; nanoimprint lithography; glass substrate; viscous
+   fluid; Navier-Stokes equation; visible wavelength
+ID HIGH-EXTRACTION-EFFICIENCY; LIGHT-EMITTING DIODE; IMPRINT LITHOGRAPHY;
+   SPONTANEOUS EMISSION; SURFACE; REPLICATION
+ER
+
+PT J
+ER
+
+PT J
+ID IMPRINT LITHOGRAPHY; BAND-STRUCTURE; RESOLUTION
+ER
+
+PT S
+DE nanoimprint lithography; thermal NIL; UV-NIL; microcontact printing
+ID FLASH IMPRINT LITHOGRAPHY; SELF-ASSEMBLED MONOLAYERS; HOT EMBOSSING
+   LITHOGRAPHY; PATTERN REPLICATION; STEP; FABRICATION; POLYMERS; RESISTS;
+   STAMP; MOLD
+ER
+
+PT B
+DE high-density optical disk; disk mastering; nanoimprint lithography;
+   electroplating
+ID ELECTRON-BEAM
+ER
+
+PT S
+ID LITHOGRAPHY
+ER
+
+PT J
+DE nanoimprint lithography; thermal expansion; pattern placement error;
+   electron beam lithography
+ID FLASH IMPRINT LITHOGRAPHY; STEP
+ER
+
+PT J
+ID MULTIPLE MICROELECTRODE ARRAYS; NANOELECTRODE ENSEMBLES; FABRICATION;
+   SENSORS; GATES
+ER
+
+PT S
+DE nanoimprint; PDMS; high resolution electron beam resist ZEP520
+ID SOFT LITHOGRAPHY; POLYMERS
+ER
+
+PT J
+ER
+
+PT J
+DE lithography; nanoscale
+ID NANOIMPRINT LITHOGRAPHY; ROOM-TEMPERATURE; SOFT LITHOGRAPHY;
+   OPTICAL-DEVICES; STEP; FABRICATION; MOLD; PHOTOINITIATORS; REPLICATION;
+   PATTERNS
+ER
+
+PT J
+ID GOLD; RESIST; FILMS; DNA
+ER
+
+PT J
+DE imprint; nanoimprint; lithography; contact mechanics
+ID MAGNETIC DISKS; ISLANDS; STEP; MOLD
+ER
+
+PT J
+DE room temperature nanoimprint lithography; electron beam lithography;
+   thermal expansion; reactive ion etch; pattern placement error; PMMA;
+   hydrogen silsequioxane
+ER
+
+PT S
+ID IMPRINT
+ER
+
+PT B
+ID LIGHT-EMITTING DIODE; IMPRINT LITHOGRAPHY; SURFACE
+ER
+
+PT J
+DE nanoimprint; modulus; viscosity; retardation time; molecular weight;
+   optical interference; phase shift; defects
+ID MECHANICAL-PROPERTIES; IMPRINT
+ER
+
+PT S
+DE nanoimprinting; hot embossing; UV-Nanoimprint lithography; sub-100nm
+   features
+ER
+
+PT J
+ID IMPRINT LITHOGRAPHY; POLY(DIMETHYLSILOXANE); SURFACE
+ER
+
+PT S
+DE nanoimprint; S-FIL; nanofabrication; nanolithography; quantum-dot;
+   metallic nanoparticles; biotechnology; protein array; biosensors
+ID ELECTRON-MOBILITY TRANSISTORS; POLYMER MICRORING RESONATORS; FLASH
+   IMPRINT LITHOGRAPHY; NANOFLUIDIC CHANNELS; FABRICATION; RESOLUTION;
+   KINESIN; STEP; MOLD; SIZE
+ER
+
+PT J
+ID IMPRINT LITHOGRAPHY; TRANSISTORS; MOLECULES
+ER
+
+PT J
+DE nanoimprint; lithography; HSQ; bilayer; high aspect resist patterns
+ID IMPRINT LITHOGRAPHY; HYDROGEN SILSEQUIOXANE; FABRICATION; TECHNOLOGY;
+   POLYMERS
+ER
+
+PT J
+DE fluorine; imprinting; lithography; nanostructures; polymers
+ID NANOIMPRINT LITHOGRAPHY; IMPRINT LITHOGRAPHY; FABRICATION; NM; FEATURES;
+   NANOSTRUCTURES; TRANSISTORS; CHEMISTRY; DEVICES; STAMPS
+ER
+
+PT S
+DE photo-curable nanoimprint lithography; P-NIL; nanoimprintor; Nanonex;
+   air cushion press; ACP
+ER
+
+PT S
+DE lithography; NGL; NIL; T-NIL; P-NIL; air cushion press; nanonex;
+   nanofabrication
+ID LITHOGRAPHY
+ER
+
+PT J
+ID LIGHT-EMITTING DEVICES; IMPRINT LITHOGRAPHY; DYE-DIFFUSION; POLYMERS;
+   PHOTOLUMINESCENCE
+ER
+
+PT B
+DE nanoimprint lithography; hot embossing lithography; alignment; moire
+   interferometry
+ID IMPRINT LITHOGRAPHY
+ER
+
+PT J
+DE focused-ion-beam (FIB); chemical vapor deposition (CVD); nanoimprint;
+   mold; diamond-like carbon (DLC); electron beam (EB); hydrogen
+   silsequioxane (HSQ); nanoimprint lithography (NIL)
+ID IMPRINT LITHOGRAPHY; TECHNOLOGY
+ER
+
+PT J
+DE nanofabrication; nanoimprint lithography; polymer moulding
+ID IMPRINT LITHOGRAPHY; POLYMER MATERIALS; REPLICATION
+ER
+
+PT S
+ID IMPRINT LITHOGRAPHY; PHOTONIC CRYSTAL; ARRAY; BANDGAP; DOT
+ER
+
+PT J
+DE nanofabrication; nanoimprint lithography; polymers
+ER
+
+PT J
+DE microfabrication; nanofabrication; nanoimprint lithography (NIL);
+   room-temperature nanoimprint lithography (RT-NIL); hydrogen
+   silsequioxane (HSQ); spin-on-glass (SOG)
+ID IMPRINT LITHOGRAPHY; FABRICATION; POLYMERS; RESIST
+ER
+
+PT J
+ID ELECTRON-MOBILITY TRANSISTORS; T-GATE FABRICATION; RESIST PROCESS;
+   IMPRINT LITHOGRAPHY
+ER
+
+PT J
+ID NANOIMPRINT LITHOGRAPHY; POLYMERS; FABRICATION; DEFINITION
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ID BRAGG-REFLECTOR LASERS; FRESNEL ZONE PLATES; HIGH-RESOLUTION; IMPRINT
+   LITHOGRAPHY; POLYMERS
+ER
+
+PT J
+ID IMPRINT
+ER
+
+EF

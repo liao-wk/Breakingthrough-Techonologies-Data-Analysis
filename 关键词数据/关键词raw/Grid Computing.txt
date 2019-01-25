@@ -1,0 +1,969 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE Mobile Grid; scheduling; Grid computing; resource management
+ID MANAGEMENT
+ER
+
+PT J
+DE Agricultural systems; Models; Next generation; Data History
+ID GREENHOUSE-GAS EMISSIONS; CROP-LIVESTOCK SYSTEMS; CLIMATE-CHANGE;
+   SIMULATION-MODELS; FARMING SYSTEMS; GROWTH-MODEL; INTEGRATED ASSESSMENT;
+   NET CARBOHYDRATE; PROTEIN SYSTEM; NEW-GENERATION
+ER
+
+PT J
+DE Integrated agricultural systems models; Crop models; Economic models;
+   Livestock models; Use cases; Agricultural data
+ID GLOBAL CROP PRODUCTION; CLIMATE-CHANGE; SIMULATION-MODELS; FARMING
+   SYSTEMS; MANAGEMENT STRATEGIES; CARBON SEQUESTRATION; PEANUT MODEL;
+   SOIL; RESPONSES; IMPACT
+ER
+
+PT B
+DE grid computing; grid middleware; condor; legion; punch; resource
+   management; european data grid; datagrid; grid engine; glite and
+   openlava etc
+ER
+
+PT B
+DE Grid Computing; Reasons and Need of Grid Computing; Comparative Visions;
+   Grid Architecture; Distributed Computing; Application and benefits of
+   Grid Computing
+ID ARCHITECTURE
+ER
+
+PT J
+DE distributed computing networks; grid; information security; security
+   threats; security policy
+ER
+
+PT J
+DE Resource profiling; Job scheduling; Grid computing; Scout; Scientific
+   computing
+ER
+
+PT J
+DE Grid computing; cooperative computing; volunteer computing; comparison
+   with cloud computing
+ER
+
+PT J
+ID X-RAY SCATTERING; PROTEIN DATA-BANK; MACROMOLECULAR CRYSTALLOGRAPHY;
+   STRUCTURE MODELS; DATA QUALITY; SYNCHROTRON; SOFTWARE; SCIENCE;
+   EXPERIENCES; RESOLUTION
+ER
+
+PT J
+DE virtualization; distribution computing; parallel computing; cloud
+   computing; cluster computing; grid computing
+ER
+
+PT B
+DE Grid computing; PSGrid; RSA-Grid
+ER
+
+PT J
+DE Grid computing; Optimization; Product-mix; e-Infrastrucutre failure
+ID DECOMPOSITION ALGORITHMS; PERFORMANCE; MANAGEMENT; CLUSTERS
+ER
+
+PT B
+DE Hierarchical Set Up; Job Scheduling; Load Balancing; Resource
+   Utilization; Process Execution
+ER
+
+PT B
+DE Static load balancing; Dynamic load Balancing; Working Node; Highly
+   Loaded Nodes; Lightly Loaded Nodes; Group Manager; Location Manager;
+   Grid Manger
+ER
+
+PT B
+DE Load Balancing; Local area Network; Wide area Network; Metropolitan area
+   Network; Intra Group Load Balancing; Inter Grid Load Balancing; Static
+   load balancing; Dynamic load Balancing; Working Node
+ER
+
+PT S
+DE Grid Computing; Load Balancing; Node Optimization; CPU-G2PU Hybrid
+   Computing; Multi Core CPU; JPPF Grid
+ID GPU; DOCKING
+ER
+
+PT J
+DE Sediment fingerprinting; Tracers; Sediment sources; River catchments
+ID AGRICULTURAL CATCHMENTS; SOUTHERN ENGLAND; FINE SEDIMENT; KAROO UPLANDS;
+   BANK EROSION; UK; TRACERS; SIZE; LAKE; YORKSHIRE
+ER
+
+PT J
+DE Climate change impacts, adaptation, and vulnerabilities (VIA); Parallel
+   computing; Data processing and standardization; Crop modeling; Forestry
+   modeling; Multi-model; Ensemble simulation
+ID CLIMATE-CHANGE; AGRICULTURAL PRODUCTION; LARGE-SCALE; SIMULATION;
+   PATTERNS
+ER
+
+PT J
+DE Smart Grid; Cloud Computing; Smart Grid and Cloud Computing
+   architecture; Cloud Computing based Smart Grid applications and projects
+ID OPPORTUNITIES; ARCHITECTURE; ELECTRICITY; NETWORKS; MODEL
+ER
+
+PT J
+ER
+
+PT J
+DE Bioinformatics; Scientific workflow; Sequencing analyses; Cloud
+   computing; Galaxy
+ID LIFE SCIENCES; GENOMICS; BIOLOGY; GALAXY; TOOL
+ER
+
+PT J
+DE adaptation; agriculture; hydrology; uncertainty
+ID MODEL DESCRIPTION; REQUIREMENTS; FOOD; SCARCITY; IMPACTS; PART
+ER
+
+PT B
+DE Grid computing; Grid applications and challenges; Grid security
+ER
+
+PT B
+DE Grid Computing; Framework; Parallel Processing
+ER
+
+PT S
+DE LRM; Grid computing; remote job submission; remote job execution;
+   Globus; Condor; Grid testbed
+ER
+
+PT S
+DE cloud computing; grid computing; definition
+ER
+
+PT S
+DE grid domain; user interface
+ER
+
+PT B
+DE green IT; grid computing; solar cell
+ER
+
+PT S
+DE collaborative community; resource sharing; architecture
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT B
+DE component: grid; computing; high performance computing; clustering;
+   AliEn; EMI; gLite
+ER
+
+PT B
+DE component; cloud; infrastructure; Grid
+ER
+
+PT S
+DE Distributed systems; Grid computing; High performance computing;
+   Parallel programming language
+ER
+
+PT S
+DE Testing; Validation; Grid Computing; Distributed Computing
+ER
+
+PT S
+DE Cloud; Grid; Resource; Trust
+ER
+
+PT B
+DE grid technology; grid computing; workstations; sophisticated software
+ER
+
+PT S
+DE grid computing; cloud computing; virtualization; scientific computing
+   environment; message passing interface
+ER
+
+PT S
+DE Distributed Systems; Autonomic Computing; Grid Computing; Cloud
+   Computing; Computing Models; DIME Network Architecture
+ID COMPUTABLE NUMBERS; SELF-REPAIR; CALCULUS; ENTSCHEIDUNGSPROBLEM
+ER
+
+PT J
+DE Grid computing; Economic model; Dynamic environment
+ID RESOURCE-ALLOCATION; FRAMEWORK; MANAGEMENT; UTILITY; CLUSTERS
+ER
+
+PT J
+DE grid computing; Global Arrays toolkit; multi-level parallelism;
+   multi-level topology-aware
+ID MESSAGE-PASSING INTERFACE; GLOBAL ARRAYS; PERFORMANCE
+ER
+
+PT J
+DE Swift; Parallel programming; Scripting; Dataflow
+ID CLUSTERS
+ER
+
+PT J
+DE collective agility; improvisation; paradox; grid computing; particle
+   physics
+ID DISTRIBUTED SOFTWARE-DEVELOPMENT; INFORMATION-SYSTEMS DEVELOPMENT;
+   TECHNOLOGY; MODEL; JAZZ; SENSEMAKING; STRATEGIES; MANAGEMENT; EMERGENCE;
+   DESIGN
+ER
+
+PT J
+DE Grid computing; Resource allocation
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE data analysis; distributed computing; grid; virtual screening
+ID DESIGN
+ER
+
+PT J
+DE APSIM; crop simulation; evapotranspiration; heat stress; wheat
+ID TRITICUM-AESTIVUM L.; GRAIN-GROWTH; HEAT-STRESS; CLIMATE-CHANGE; SHORT
+   PERIODS; MEDITERRANEAN CLIMATE; MODEL PREDICTIONS; CROPPING SYSTEMS;
+   STARCH SYNTHESIS; USE EFFICIENCY
+ER
+
+PT B
+DE Grid computing; Multi-Grid; Resource Broker
+ER
+
+PT B
+DE Grid Computing; Cloud Computing; D-Grid
+ER
+
+PT S
+DE distributed computing; volunteer computing; grid; BOINC
+ER
+
+PT S
+DE grid computing; Web service; open grid services architecture; resource
+   management
+ER
+
+PT S
+DE grid computing; task scheduling; Map-Reduce; genetic algorithm
+ER
+
+PT S
+DE Grid computing; Cloud computing; Software as a Service; Web services;
+   User interface
+ER
+
+PT J
+DE dependent tasks; grid computing; tasks assignment; DAG; directed acyclic
+   graph; grid model; GridSim
+ID DEPENDENT TASKS; SYSTEMS; MANAGEMENT; ALGORITHM; DEVICES
+ER
+
+PT S
+DE grid computing; cloud computing; virtualization; scientific computing
+   environments; message passing interface
+ER
+
+PT J
+DE Grid computing; Virtual research environment; Grid applications; Grid
+   middleware; Cloud computing
+ID DECISION-SUPPORT; LARGE-SCALE; ORGANIZATION; NETWORKS; MOLECULE; SCIENCE
+ER
+
+PT J
+ER
+
+PT J
+DE Context-constrained authorisation; Grid computing; Pervasive computing
+ID CHALLENGES; MANAGEMENT
+ER
+
+PT J
+ER
+
+PT J
+DE Virtual environment; Virtual machine; Grid computing
+ER
+
+PT S
+DE Autonomic Computing; Globus; N1GE6; Condor; Alchemi
+ER
+
+PT S
+ER
+
+PT S
+DE InfiniBand; Grid Architecture; OGSA
+ER
+
+PT S
+DE Grid computing; Job grouping; Job scheduling; Resource scheduling;
+   constraint
+ER
+
+PT J
+DE geosensor networks; grid computing; digital earth; GIS; supercomputer
+ID INFORMATION-SYSTEM; SENSOR NETWORKS; ARCHITECTURE
+ER
+
+PT J
+DE workflows; grid computing; grid portals; GROMACS package
+ID DYNAMICS
+ER
+
+PT B
+DE Grid computing; Peer-to-Peer; Globus Toolkit; Open grid service
+   infrastructure; Open grid service architecture
+ID NETWORKS
+ER
+
+PT S
+DE grid; parallel computing; message communication; job scheduling
+ER
+
+PT B
+DE topology; reliability; Grid computing system; simulated annealing
+ID OPTIMIZATION; ALGORITHM
+ER
+
+PT B
+ER
+
+PT B
+DE Grid computing; distributed computing; OGSA; Lifetime management
+ER
+
+PT B
+DE Grid Computing; Cloud Computing; Programming Method
+ER
+
+PT B
+DE Autonomic Grid; Software Architecture; C4ISR; AGC4ISR
+ER
+
+PT J
+DE Desktop computing; Docking application; World Community Grid; Grid
+   performance evaluation; Grids comparison
+ID PROTEIN-PROTEIN DOCKING; AT-HOME
+ER
+
+PT J
+DE information system; grid; resource broker; load balance
+ID COMPUTING ENVIRONMENTS
+ER
+
+PT J
+DE cloud computing; distributed systems; virtual machines
+ER
+
+PT J
+DE BOINC; Bridge; Desktop Grid; EDGeS; EGEE; Interface; Interoperation;
+   OGF; Service Grid; XtremWeb; XWHEP
+ER
+
+PT J
+DE Erosion; Risk-assessment; Off-site impacts; Climate change; Agricultural
+   change; Land-use change; Muddy floods
+ID MUDDY FLOODS; WATER EROSION; SOUTH DOWNS; ARABLE FARMS; ENGLAND; WALES;
+   CATCHMENTS; SEDIMENT; CLIMATE
+ER
+
+PT J
+DE Attribute-based access control (ABAC); Attribute-based multipolicy
+   access control (ABMAC); Grid computing; GT4 authorization framework
+ER
+
+PT J
+DE Grid computing; Virtual environment; Workflow
+ER
+
+PT B
+DE Access control; grid computing; security requirements engineering
+ID ACCESS-CONTROL
+ER
+
+PT B
+ER
+
+PT B
+DE Information Technology; Virtual Realization; IGT; Open Grid Services
+   Architecture
+ER
+
+PT B
+DE computing grid; distributed middleware; subgrid; middleware protocol;
+   grid plug-in
+ER
+
+PT S
+DE Grid Computing; Virtual Machine; Trusted Computing; Trusted Execution
+   Environment
+ER
+
+PT S
+DE Grid Economics; Grid Capacity Planning; Service-Oriented Computing; Grid
+   Computing; Resource Allocation; Utility Computing
+ID RESOURCE-ALLOCATION
+ER
+
+PT S
+ID COMPUTING ENVIRONMENTS
+ER
+
+PT B
+ER
+
+PT B
+DE Grid; Web Service; Semantic web; Reasoning engine; knowledge Ontology
+ER
+
+PT S
+DE Computational Grid; distributed computing environment; CORBA
+   technologies
+ID CORBA
+ER
+
+PT S
+DE Integration; Standardization; Grid; Cloud computing; Next Generation
+   Network (NGN)
+ER
+
+PT J
+DE Grid computing; Economics of Grid computing; Cost estimation
+ER
+
+PT J
+ER
+
+PT J
+ID SCIENTIFIC-DATA
+ER
+
+PT J
+ID INFORMATICS
+ER
+
+PT S
+ID RESOURCE BROKER
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT B
+DE Grid; P2P; Job Migration; Load Sharing
+ER
+
+PT B
+ER
+
+PT S
+DE grid computing; PKI (public key installation); CA (certification
+   assurance); IDS (distributed intrusion detection) system; Artificial
+   Immune; NP-complete problem
+ER
+
+PT J
+DE grid; pervasive computing; middleware services
+ER
+
+PT S
+DE grid business models; business grids; grid enabled application
+ER
+
+PT B
+DE Metacomputing; metaprogramming; grid computing; service-oriented
+   architectures; service-oriented programming
+ER
+
+PT B
+DE data grids; urgent computing; grid and web services; service-oriented
+   architectures
+ID INFRASTRUCTURE; MANAGEMENT; QUALITY
+ER
+
+PT J
+ER
+
+PT S
+DE Ubiquitous Computing; context-aware; context reasoning; Access Grid;
+   Computation Grid
+ID INFRASTRUCTURE
+ER
+
+PT B
+DE Genetic algorithm; grid computing; heterogeneous; scheduling algorithm
+ID COMPUTATIONAL GRIDS; INDEPENDENT TASKS; SYSTEMS
+ER
+
+PT J
+DE distributed data mining; grid computing; grid services; WSRF
+ID TOOLKIT
+ER
+
+PT S
+DE Grid; Virtual Machine
+ER
+
+PT S
+ER
+
+PT B
+DE Grid computing; Finite element method; Parallel computing; Globus
+ER
+
+PT B
+DE computational grid; idle resource; grid computing; resource broker; job;
+   node; grid middleware
+ER
+
+PT B
+DE Grid Computing; Globus; Grid Portal; Undergraduate Education
+ER
+
+PT B
+DE Distributed Computing; Grid Computing; Globus; Networking
+ER
+
+PT J
+ER
+
+PT J
+DE sediment fingerprinting; South Affican Karoo; erosion history; extreme
+   events; (137)Cs and (210)Pb
+ID GREAT-KAROO; VARIABILITY; SNEEUBERG; ENGLAND; EROSION; RATES; LAND
+ER
+
+PT J
+DE Grid computing; Grid simulation; differentiated network service
+ER
+
+PT J
+DE fault tolerance; scheduling; Grid computing
+ID REAL-TIME TASKS; RESOURCE-MANAGEMENT; KNAPSACK-PROBLEM; ALGORITHMS;
+   SYSTEMS
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT B
+DE Grid computing; Resource management; Fault Tolerant computing; Task
+   Scheduling Algorithm; Grid Service
+ER
+
+PT S
+ID INFRASTRUCTURE; TOOLKIT
+ER
+
+PT B
+DE synergy; peer-to-peer computing; grid computing; open grid services
+   architecture; autonomic domain
+ER
+
+PT S
+ER
+
+PT S
+DE grid computing; GIS; grid GIS; distributed cooperative computing
+ID ARCHITECTURE
+ER
+
+PT B
+ER
+
+PT B
+DE grid computing; system-on-chip; embedded system; dual OS; scratch pad
+   memory
+ER
+
+PT S
+DE GRID; QoS; QoS metrics; QoS parameters; GRID performance
+ER
+
+PT S
+ER
+
+PT B
+DE grid computing; flexible grid client; thin-client computing; fat-client
+   computing
+ER
+
+PT B
+DE grid computing; scientific computing; middleware; OGSA; WSRF; job
+   management
+ER
+
+PT J
+DE grid computing; multi-agent environment; agent-based grid computing;
+   resource management; service management
+ER
+
+PT J
+DE distributed systems; distributed applications; Internet applications;
+   middleware; open source
+ID SCIENCE
+ER
+
+PT J
+DE chironomids; chlorophyll alpha; eutrophication; total phosphorus;
+   transfer functions
+ID PHOSPHORUS TRANSFER-FUNCTIONS; PAST HYPOLIMNETIC ANOXIA;
+   PALEOLIMNOLOGICAL ANALYSIS; QUANTITATIVE INFERENCES; SHALLOW LAKES;
+   BOREAL LAKE; SEDIMENTS; DIATOM; RECONSTRUCTION; DIPTERA
+ER
+
+PT J
+DE grid computing; credibility; ranking; dynamic information
+ER
+
+PT J
+DE dependable computing; grid computing; failure detection; fault tolerance
+ID DISTRIBUTED-PROGRAM RELIABILITY; SYSTEMS
+ER
+
+PT S
+DE data mining; grid computing; distributed processing; loosely coupled
+   parallelism
+ID MANAGEMENT
+ER
+
+PT B
+DE wireless grid; grid security; trusted computing
+ER
+
+PT S
+DE grid Computing; small signal stability; Monte Carlo simulation;
+   eigenvector; participation factor
+ID STABILITY ANALYSIS; POWER-SYSTEMS; COMPUTATION; EXPANSION
+ER
+
+PT S
+DE grid computing; power system reliability and security analysis;
+   probabilistic reliability analysis; Monte Carlo simulation
+ER
+
+PT S
+ER
+
+PT S
+ID WEB
+ER
+
+PT S
+DE distributed parallel computing; grid computing; Scilab; globus toolkit
+ER
+
+PT S
+ER
+
+PT J
+ID THROUGHPUT PROTEOME ANNOTATION; SYSTEM; ENVIRONMENT; INFERENCE;
+   ALGORITHM; SOFTWARE
+ER
+
+PT S
+ID SELECTION; SCHEME
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT B
+DE virtual reality system; grid computing architecture; client-server
+   architecture
+ER
+
+PT B
+DE Grid Computing; distributed databases; access methods; architectures;
+   queuing systems
+ER
+
+PT J
+ID ENERGY; SIMULATIONS; EQUALITY
+ER
+
+PT J
+ID RESTORATION; EVERGLADES
+ER
+
+PT J
+DE Grid computing; middleware; computational steering; computational
+   science
+ER
+
+PT J
+ID SYSTEM; WORLD; WEB
+ER
+
+PT J
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT S
+DE power system restoration; grid computing; prototype
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT B
+DE Grid computing; High Performance Cluster; Grid Service; Service Oriented
+   Grid Architecture
+ER
+
+PT B
+DE grid computing; peer-to-peer; distributed computing
+ER
+
+PT B
+ER
+
+PT B
+DE Grid computing; education; sun Grid engine; GT3
+ER
+
+PT S
+ID TOOLKIT
+ER
+
+PT S
+ER
+
+PT B
+DE grid computing; spatial data grid; GIS; globus
+ER
+
+PT B
+DE grid computing; grid technology; grid middleware; distributed computing;
+   high performance computing; civil engineering; construction
+ER
+
+PT B
+DE Grid Computing; workflow engine; power system
+ER
+
+PT B
+ER
+
+PT B
+DE higher education; cluster and grid technology; computing curricula
+ER
+
+PT S
+DE autonomic computing; Grid computing; data grids; future behaviour
+   prediction
+ID SYSTEM
+ER
+
+PT S
+DE grid computing; resource broker; job submission; video conversion; 3D
+   rendering
+ER
+
+PT B
+DE computing grid; load sharing; simulation analysis
+ER
+
+PT B
+DE grid computing; component; object grids; clusters; mobile grids
+ER
+
+PT S
+DE Grid computing; Globus; resource management; high-performance computing
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT B
+DE power systems; computer science; power flow
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT B
+DE grid; Internet; software service; SBG; MSC
+ER
+
+PT B
+DE grid; OGSA; OGSI; GT3; grid service
+ER
+
+PT B
+DE Grid; Grid computing; advanced distributed simulation; Globus
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT S
+ER
+
+PT S
+DE grid computing system; security abstract; grid security protocols;
+   broker
+ER
+
+PT B
+ER
+
+PT B
+DE grid; OGSA; information service; GISG
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT B
+DE grid; attribute; infrastructure
+ER
+
+PT S
+DE cluster computing; grid node; distribute computing
+ER
+
+PT B
+ER
+
+PT B
+DE service-oriented grid computing; digital money; grid bank; grid
+   accounting and payment
+ER
+
+PT B
+ER
+
+PT J
+ER
+
+PT B
+DE grid computing; OGSA; QoS
+ER
+
+PT S
+ER
+
+PT B
+DE grid computing; multi-agent environment; agent-based grid computing;
+   resource management; service management
+ER
+
+PT B
+DE grid computing; visualization; job scheduling; single sign-on; web
+   services
+ER
+
+PT B
+DE Grid; OGSA; Globus; web services
+ER
+
+PT B
+DE grid system; reliability; distributed systems
+ID DISTRIBUTED-PROGRAM RELIABILITY; ALGORITHM
+ER
+
+PT B
+DE Grid computing; Grid programming model; Grid security infrastructure;
+   Globus; Grid-based Web services; OGSA; Semantic Grid
+ER
+
+PT S
+ER
+
+PT J
+DE grid computing; Web Services; open grid services architecture; Globus
+   Toolkit
+ER
+
+PT B
+DE grid computing; multi-agent environment; agent-based grid computing
+   system
+ER
+
+PT S
+ER
+
+PT J
+ER
+
+EF

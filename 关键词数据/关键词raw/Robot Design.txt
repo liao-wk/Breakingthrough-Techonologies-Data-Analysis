@@ -1,0 +1,658 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE Distributed robot systems; networked robots; multi-robot systems
+ID CONSENSUS; ALGORITHMS; ROBUSTNESS; CONNECTIVITY
+ER
+
+PT J
+DE Mechanism design; humanoid robots
+ER
+
+PT J
+ER
+
+PT J
+DE Compliant mechanisms; multimodal locomotion; robot design methodology;
+   robotic origami; shape memory alloy (SMA)
+ID ACTUATORS; MECHANISM; SENSOR
+ER
+
+PT B
+DE caddie robot; modular design; functional tuple; module partition
+ER
+
+PT B
+ID CLIMBING ROBOT; ELASTOMER ADHESIVES
+ER
+
+PT J
+DE Interactive design; digital fabrication; data-driven methods;
+   simulation; concurrent design
+ID OPTIMIZATION
+ER
+
+PT J
+DE robot cowl; service robot; autonomous mobile robot; robot design; Real
+   World Robot Challenge
+ER
+
+PT J
+DE Robot designs; Organism-based robot; Object-based robot; Human-Robot
+   interaction; Consumer acceptance; Categorization
+ID PRODUCT EVALUATION; SOCIAL ROBOTS; CATEGORIZATION; APPEARANCE;
+   INFERENCE; SEEKING; MODEL; FORM
+ER
+
+PT J
+DE robot contest; robot design; design education; aesthetic appeal; 3D
+   modeling
+ER
+
+PT B
+DE Robot Contest; Robot Design; 3D-CAD; Rapid Prototyping; Design Process
+ER
+
+PT B
+DE humanoid robotics; innovation platform; full-size; system design
+ER
+
+PT S
+DE Innovative design; Delta robot; Platform; Kinematics inverse solution
+   and Control System
+ER
+
+PT S
+DE Robot; rehabilitation; stroke; upper-limb; design
+ID OCCUPATIONAL-THERAPY; SYSTEM
+ER
+
+PT S
+DE Emotion prototyping; Experience design; Engineering education; Co-design
+ER
+
+PT S
+ER
+
+PT S
+DE ship shell plate painting; wall climbing robot; control system; basic
+   design; control model
+ER
+
+PT S
+ID ELDERLY-PEOPLE
+ER
+
+PT J
+DE Robots; robot ethics; servitude; designing; eugenics
+ID ROBOT NANNIES; MACHINES
+ER
+
+PT J
+DE Legged locomotion; robot kinematics; self-adaptive mechanisms; mobile
+   robots
+ID HEXAPOD ROBOT; 6-LEGGED WALKING; CLIMBING ROBOT; MECHANISMS; HAND;
+   KINEMATICS; MOBILITY; VEHICLE; MACHINE
+ER
+
+PT J
+DE Robot-inclusive spaces; Robot-environment interaction; Autonomy; Design
+   framework; Ambient intelligence; Environmental automation
+ID UNMANNED SYSTEMS; AUTONOMY LEVELS
+ER
+
+PT B
+DE flapping wing robot; seagull robot; flapping wing mechanism; planar four
+   bar mechanism; motion analysis
+ID FLIGHT; LIFT
+ER
+
+PT B
+DE human-robot interaction; animation; robot animation; expressive
+   movement; expressive gestures
+ER
+
+PT B
+ER
+
+PT B
+ID HUMANOID ROBOT
+ER
+
+PT S
+ID STROKE; DISEASE; UPDATE
+ER
+
+PT B
+DE Leg Kinematics Design; Quadrupeds; Legged Robots; Force
+   Manipulability/Polytope; Dynamic Manipulability/Polytope
+ID MECHANICAL DESIGN; WALKING ROBOT
+ER
+
+PT S
+ID CARE
+ER
+
+PT B
+DE Robots; accessibility; blind; participatory design
+ID SHARED CONTROL; ELDERLY BLIND; MOBILITY AID
+ER
+
+PT B
+DE HRI; Value Sensitive Design (VSD); robot design principles; humanoid
+   robots; roboethics
+ER
+
+PT S
+DE Human-robot interaction; Designing robot behavior; Legible robot
+   behavior; Predictable robot behavior; Choice theory
+ID PEOPLE; TIME
+ER
+
+PT S
+DE Human-robot interaction; Humanoid robots; User centered design; R1;
+   Robot design
+ID UNCANNY VALLEY; CONSISTENCY
+ER
+
+PT B
+DE Hydraulic quadruped robot; Bound planes; Design; FEM; Strength analysis
+ER
+
+PT S
+DE mobile robot; independent drive and steering; remote control; mechanical
+   design
+ER
+
+PT J
+DE Design; Mobile robots; Control of robotic systems; Mechatronic systems;
+   Robot dynamics
+ID MOBILE ROBOTS
+ER
+
+PT J
+DE Robot inclusive spaces; Robotics challenge; Design for robots; Service
+   robotics
+ER
+
+PT J
+DE Robotics; mechanisms; robots; robot dynamics and control; applications
+   of design theory; design techniques; operations research and management
+   science; MSC 2010 68T40; 70B15; 70E60; 94C30; 93B51; 90Bxx
+ER
+
+PT B
+DE Wrist Rehabilitation Robot; Design and Fabrication Robot; Kinematics and
+   Dynamics Modeling; Multiple Impedance Control
+ID STROKE; MANIPULATION; RECOVERY
+ER
+
+PT B
+DE component; Multi-Robot Design; Human-Robot Interactions; Ergonomics;
+   Design Constraints and Process
+ER
+
+PT S
+ID MANIPULATORS
+ER
+
+PT S
+ER
+
+PT B
+DE Developing path; complex system evolution; designing robot
+ER
+
+PT J
+DE Ankle rehabilitation robot; fuzzy logic based controller; parallel
+   mechanisms; pneumatic muscle actuators
+ER
+
+PT J
+DE Quadruped Robot; Robot Design; Research Platform
+ID LOCOMOTION; TERRAIN; WALKING
+ER
+
+PT J
+DE Workspace; Underactuated mechanism; Monte Carlo method; Robot wrist;
+   Virtual prototyping
+ID SPHERICAL PARALLEL MECHANISMS; MANIPULATOR; KINEMATICS; DESIGN; DYNAMICS
+ER
+
+PT J
+DE small robots; vibration; mechanism design; motion analysis
+ER
+
+PT B
+DE wheeled hopping robot; mechanism design; parameters; cross obstacles and
+   ditches; jumping robot
+ER
+
+PT B
+DE parallel mechanism; mobile robot; topology; design; hexapod robot
+ID OPTIMAL KINEMATIC DESIGN; WALKING ROBOT; 3-DOF; MANIPULATORS; 2-DOF
+ER
+
+PT J
+DE Humanoid robot; biped robot; mechanical design; kinematics
+ID BIPED ROBOT
+ER
+
+PT B
+DE wheel-legged robot; mechatronic design; hexapod; adaptation
+ER
+
+PT B
+ID ALGORITHM; POINT
+ER
+
+PT S
+DE Quadruped Robot; Bionics; Trot; Time-Pose control method; Gait
+   Optimization
+ID HYQ
+ER
+
+PT J
+DE Dynamics; Miniature
+ER
+
+PT B
+DE Robot Dance; Movement Design; Kinematics Modeling; Implementation;
+   Harmonious; Mimic Human
+ER
+
+PT S
+DE FEA; three-fingered robot hand; ANSYS; design
+ER
+
+PT B
+DE Design; Service Robot; SD method; KJ method
+ER
+
+PT B
+ER
+
+PT B
+DE SCARA; industrial robot; robot's mechanical design; joint design;
+   critical trajectory
+ID TRANSMISSIONS; SYSTEM
+ER
+
+PT S
+DE Domestic Robots; Design Preferences; Attitude towards Robots; Anxiety
+   towards Robots
+ER
+
+PT S
+DE Categorization; human-oriented robot; human-robot interaction;
+   marketing; product-oriented robot; robot designs
+ID CATEGORIZATION; MODEL
+ER
+
+PT J
+ER
+
+PT J
+ID PERFORMANCE; SURFACES; DESIGN
+ER
+
+PT J
+DE In-pipe robot; Axiomatic design; Independence; Traction ability
+ID INSPECTION
+ER
+
+PT S
+DE Surgical robot; Robots; (MIS) Minimally invasive surgery; Robot design
+ER
+
+PT S
+DE Aerial Robot; Structural Layout Design; Manufacture; Modula Design
+ER
+
+PT S
+DE the flying and adhesive robot; adhesion mechanism; supporting system
+ER
+
+PT J
+DE Robot ethics; Value-sensitive design; Care robots; Ethics and design;
+   Design and robots; Robots; Ethics
+ID CARE
+ER
+
+PT S
+DE Design Robot; developmental design; industrial robot; agent;
+   multiobjective optimization
+ID SYSTEMS
+ER
+
+PT S
+DE spherical robot; reconnaissance robot; absorber mechanism
+ER
+
+PT S
+DE robot arm; Chinese medical massage; chain drive; structure design
+ER
+
+PT S
+DE social interaction; tutoring; children evaluation
+ER
+
+PT S
+DE Module Intelligent; fire fighting robot; obstacle avoidance ultrasonic;
+   single chip microcomputer
+ER
+
+PT S
+DE Welding robot; Fischertechnik combination model; PLC control system;
+   ROBO interface board
+ER
+
+PT B
+ID SERVICE ROBOTS; NAVIGATION
+ER
+
+PT J
+DE Humanoid robotics; open source; cognitive system
+ID PLATFORM; NEUROSCIENCE
+ER
+
+PT J
+DE Under water hull cleaning robot; Remotely operated vehicle; Hydrodynamic
+   design
+ID CONTROLLER
+ER
+
+PT S
+DE bionic snake-like robot; structural design; structural research
+ER
+
+PT S
+ID OPTIMIZATION; DEXTERITY
+ER
+
+PT S
+DE Mobile platform; Food sorting; Mechanical manipulator
+ER
+
+PT S
+DE mobile robot; stability condition; walking process
+ER
+
+PT S
+DE dispersing information detecting robot; anti-impact mechanism design;
+   autonomous reconnaissance; two-wheel robot
+ER
+
+PT S
+DE Virtual prototype technology; Demolition Robot,work elements; kinematic
+   simulation
+ER
+
+PT S
+DE humanoid robots; arm and hand design
+ER
+
+PT S
+DE Pipeline robot; Control system; Communication
+ER
+
+PT S
+ER
+
+PT B
+DE Parallel robot; High-speed; Dynamic property
+ER
+
+PT S
+DE Human-Robot Interaction; Gesture Vocabulary; Dialog; Design Methods
+ER
+
+PT J
+DE Animation and simulation; assistive robotics; kinematics; personal
+   robots; task-oriented design (TOD)
+ID GRID METHOD
+ER
+
+PT J
+DE Robotics; design; interaction
+ID COMMUNICATION; EXPRESSION
+ER
+
+PT S
+DE stacking-destacking; structure design; kinematics analysis; five-dof
+   cylindrical coordinate robot
+ER
+
+PT S
+DE Modular Design; Industrial Robot; Perpendicular Jointed; Product Design
+ID CONFIGURATION; SYSTEM
+ER
+
+PT B
+DE Korean service robot; workspace; kinematic analysis
+ER
+
+PT J
+ER
+
+PT S
+DE Robot vision; Age and disabled helping robot (ADHR); ARM; DSP
+ER
+
+PT S
+DE Conceptual Design; Palletizing Robot; Computer-Aided Design
+ER
+
+PT B
+DE Autonomous robots; Surveillance; Robot exploration; Robot team design
+ER
+
+PT B
+DE robot; project; design; security
+ER
+
+PT J
+DE Humanoid robots; anthropomorphic arms; design; simulation
+ID MODEL
+ER
+
+PT B
+ID PHYSICAL ATTRACTIVENESS; BEAUTIFUL; FACES
+ER
+
+PT B
+ER
+
+PT B
+DE Space Robotics; Simulation-Based Design; Six-Legged Walking Robot
+ER
+
+PT S
+DE Virtual Mobile Robot Design Cycle; Quantitative Research; Program
+   Evaluation and Review Technique
+ER
+
+PT S
+DE Crawling robot; Slider-crank mechanism; Geneva mechanism; Control system
+ER
+
+PT J
+ID GAIT GENERATION; LOCOMOTION; KINEMATICS; SYSTEM
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT B
+DE Housekeeping robots; Hybrid sensors; neural networks; robot navigation
+ER
+
+PT J
+DE EOD/IEDD; mobile robot; design tendencies
+ER
+
+PT B
+DE modular devices; reconfigurable mechanisms
+ID M-TRAN
+ER
+
+PT J
+DE entertainment robotics; mechanism design; wheeled robot
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT S
+DE space; robot; reliability; fault-tolerant; design
+ER
+
+PT S
+DE mobile robot; vehicle; weight design
+ID VEHICLES
+ER
+
+PT B
+DE Entertainment robotics; Mechanism design; Wheeled robot
+ER
+
+PT B
+DE FDNet; Cognitive model; module robot design; Robot Middle Ware
+ER
+
+PT B
+DE Torpedo-shape robot fish; modular design; experimental study
+ID LOCOMOTION
+ER
+
+PT B
+ID M-TRAN; SYSTEM; CONFIGURATIONS
+ER
+
+PT J
+DE robotics; kinematics; health and safety
+ER
+
+PT B
+DE Omni-directional mobile robot; Mecanum whewl; MCU; Zigbee; CC2420 chip
+ER
+
+PT S
+DE omnidirectional vehicles; rough terrain; isotropy; mobile robots;
+   design; UGV
+ER
+
+PT J
+DE mechanical design; intelligent; autonomous robot; mobile robot
+ID INSPECTION
+ER
+
+PT B
+DE wall climbing robot; mechanism; embedded controller
+ER
+
+PT B
+DE robot-in-the-loop simulation; DEVS; simulation based design; mobile
+   robots; pattern recognition; image processing
+ER
+
+PT B
+DE autonomous mobile robot; design and implementation
+ER
+
+PT B
+DE FPGA design; master robot; slave robot; humanoid robot arms
+ER
+
+PT B
+DE robot design
+ER
+
+PT S
+DE modular design; self-assembling robots in a system (SRS);
+   self-assembling robots; manipulation; minimizing disturbance; Series
+   Elastic Actuator (SEA)
+ER
+
+PT B
+DE operating capability; robot with limb mechanism; integrated mechanism of
+   leg and arm
+ID QUADRUPED WALKING ROBOT; DESIGN; ARM; LEG
+ER
+
+PT B
+DE minimal design; communication robot; embodied interface and
+   communication agent
+ER
+
+PT B
+DE component; communication robot; life-likess; minimal design; information
+   design; media literacy; in situ; quasi-inter persoanal behavior
+ER
+
+PT B
+DE collaborative design; modular robot; robot platform; robot family;
+   customized robots
+ER
+
+PT B
+DE humanoid robot; gorilla robot; robot system; modular combinational
+   design
+ER
+
+PT S
+DE mobile robot; nonlinear control; trajectory linearization;
+   omni-direction
+ER
+
+PT B
+DE human-robot communication; mutual adaptive model; synchronic actions
+ER
+
+PT J
+DE adaptation; development; evolvability; modularity; pleiotropy
+ID EVOLUTION
+ER
+
+PT J
+DE robotics; design; parallel manipulators; workspace
+ID PARALLEL
+ER
+
+PT J
+DE evolutionary robotics; artificial life; evolutionary algorithms;
+   distributed learning; collective robotics
+ER
+
+PT B
+ID ALGORITHM
+ER
+
+PT J
+DE body-brain evolution; generative representations; representation;
+   Lindenmayer systems (L systems)
+ID CONTROLLERS; DESIGN
+ER
+
+PT J
+DE kinematics; reconfigurable; parallel robot; modular design
+ID MANIPULATORS
+ER
+
+PT J
+ID EVOLUTION
+ER
+
+EF

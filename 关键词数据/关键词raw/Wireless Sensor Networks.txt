@@ -1,0 +1,859 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+ID SWEAT COMPOSITION; SKIN; LACTATE; EXERCISE; ELECTRONICS; POLYMER;
+   DEVICES; DEHYDRATION; BIOSENSORS; PRESSURE
+ER
+
+PT J
+DE split common fixed point problem; asymptotically nonexpansive mapping;
+   strong convergence; Hilbert space; algorithm
+ID FEASIBILITY PROBLEM; SETS; ALGORITHM; OPERATORS
+ER
+
+PT J
+DE 5G; cloud; D2D; massive MIMO; mm-wave; relay; small-cell
+ID RADIO ACCESS NETWORKS; HETEROGENEOUS CELLULAR NETWORKS; TO-DEVICE
+   COMMUNICATIONS; WIRELESS SENSOR NETWORKS; MULTIUSER MIMO SYSTEMS;
+   RESOURCE-ALLOCATION; MASSIVE MIMO; INTERFERENCE COORDINATION; KEY
+   TECHNOLOGIES; USER ASSOCIATION
+ER
+
+PT J
+DE Internet of Things (IoT); CoAP; MQTT; AMQP; XMPP; DDS; mDNS; IoT gateway
+ID WIRELESS SENSOR NETWORKS; DEPENDABILITY EVALUATION; LOW-POWER;
+   COMMUNICATION; CHALLENGES; CLOUD; RELIABILITY; AUTOMATION; STANDARDS;
+   MOBILITY
+ER
+
+PT J
+DE RF-powered Cognitive radio network; simultaneous wireless information
+   and power transfer (SWIPT); receiver operation policy; beamforming;
+   communication protocols; RF energy harvesting; magnetic MIMO
+ID COGNITIVE RADIO NETWORKS; POWERED COMMUNICATION-NETWORKS; SUM-RATE
+   MAXIMIZATION; LARGE-SCALE NETWORKS; SIMULTANEOUS INFORMATION; SENSOR
+   NETWORKS; COOPERATIVE NETWORKS; INTERFERENCE CHANNEL; ANTENNA SELECTION;
+   CMOS RECTIFIER
+ER
+
+PT J
+DE Complicated industrial applications; data-based techniques; monitoring
+   and control; overview
+ID ITERATIVE LEARNING CONTROL; WIRELESS SENSOR NETWORKS; FAULT-TOLERANT
+   CONTROL; PREDICTIVE CONTROL; INDUCTION MACHINES; STOCHASTIC-SYSTEMS;
+   WIND TURBINES; DRIVEN; DIAGNOSIS; CLASSIFICATION
+ER
+
+PT J
+DE Big data analytics; enterprise systems; information and communications
+   technology (ICT); industrial informatics; internet of things (IoT); near
+   field communications; radio-frequency identification (RFID); wireless
+   sensor networks (WSNs)
+ID WIRELESS SENSOR NETWORKS; QUALITY MANAGEMENT; SERVICE WORKFLOW; WEB
+   SERVICES; SUPPLY CHAIN; HEALTH-CARE; SYSTEMS; DESIGN; TECHNOLOGIES;
+   ARCHITECTURE
+ER
+
+PT J
+DE Full-duplex; simultaneous transmit and receive; wireless communications
+ID LIMITED DYNAMIC-RANGE; INTERFERENCE CANCELLATION; SELF-INTERFERENCE;
+   POWER ALLOCATION; ACHIEVABLE RATES; PHASE-NOISE; MIMO RELAYS; TX
+   LEAKAGE; DESIGN; CANCELER
+ER
+
+PT J
+DE strain sensors; graphene; skin sensors; human motion monitoring
+ID ELECTRONIC SKIN; PRESSURE SENSORS; FILMS; NANOGENERATORS; COMPOSITE
+ER
+
+PT J
+ID WIRELESS SENSOR NETWORKS; LTE-ADVANCED NETWORKS
+ER
+
+PT J
+ID ORGANIC TRANSISTORS; INTEGRATED-CIRCUITS; IN-VIVO; MEMORY;
+   NANOPARTICLES; ELECTRONICS; SWITCHES; SKIN
+ER
+
+PT J
+DE Millimeter wave; multiple-input multiple-output (MIMO); antenna arrays;
+   beamforming; precoding; cellular communication; sparsity; sparse
+   reconstruction; basis pursuit; limited feedback
+ID MULTIPLE-MEASUREMENT VECTORS; RECEIVE ANTENNA SELECTION; OUTPUT WIRELESS
+   SYSTEMS; HETEROGENEOUS NETWORKS; BEAMFORMING DESIGN; FADING CHANNELS;
+   ALGORITHMS; APPROXIMATION; CAPACITY; MAXIMIZATION
+ER
+
+PT J
+ID ANTENNA SYSTEMS
+ER
+
+PT J
+DE Cyber physical systems; Internet of Things (IoT); mobile computing;
+   pervasive computing; wireless sensor networks
+ER
+
+PT J
+DE Free-space optical (FSO) communication; optical wireless communication
+   (OWC); channel modeling; optical modulation; spatial diversity; channel
+   capacity; channel coding; hybrid RF/FSO systems; relay-assisted
+   networks; adaptive transmission
+ID ATMOSPHERIC-TURBULENCE CHANNELS; PULSE-POSITION MODULATION; PARITY-CHECK
+   CODES; BIT-ERROR-RATE; LIKELIHOOD SEQUENCE DETECTION; TRANSMIT LASER
+   SELECTION; MULTIPLYING AVALANCHE PHOTODIODES; COHERENT GAUSSIAN-BEAM;
+   GAMMA FADING CHANNELS; TO-STRONG TURBULENCE
+ER
+
+PT J
+DE Physical layer security; Information-theoretic security; wiretap
+   channel; secrecy; artificial noise; cooperative jamming; secret-key
+   agreement
+ID SECRET-KEY AGREEMENT; UNAUTHENTICATED PUBLIC CHANNELS; GAUSSIAN WIRETAP
+   CHANNEL; MULTIPLE-ACCESS CHANNELS; BROADCAST CHANNELS; ARTIFICIAL-NOISE;
+   CAPACITY REGION; INTERFERENCE ALIGNMENT; CONFIDENTIAL MESSAGES; COMMON
+   RANDOMNESS
+ER
+
+PT J
+DE Software-Defined Networking; programmable networks; survey; data plane;
+   control plane; virtualization
+ID OPENFLOW
+ER
+
+PT J
+DE IEEE 802.15.6; Medium access control; Physical Layer; Routing; Wireless
+   Body Area Networks; Wireless Sensor Networks
+ID SENSOR NETWORKS; HEALTH; CHALLENGES; CHANNEL; TECHNOLOGIES; ANTENNAS;
+   DESIGN; SYSTEM
+ER
+
+PT J
+DE Internet of things; context awareness; sensor networks; sensor data;
+   context life cycle; context reasoning; context modelling; ubiquitous;
+   pervasive; mobile; middleware
+ID SENSOR NETWORKS; INFORMATION; WEB; MIDDLEWARE; FRAMEWORK; ONTOLOGY;
+   SERVICES; SYSTEMS; ENVIRONMENTS; PRINCIPLES
+ER
+
+PT J
+DE Wireless power; energy harvesting; throughput maximization; doubly
+   near-far problem; TDMA; convex optimization
+ID OPTIMAL RESOURCE-ALLOCATION; BROADCAST CHANNELS; MULTIPLE-ACCESS; PART
+   I; ENERGY; INFORMATION; CAPACITY
+ER
+
+PT J
+DE Algorithms; Design; Experimentation; Performance; Full Duplex;
+   Interference Cancellation; Non-linear Cancellation
+ER
+
+PT J
+DE 3-D beamforming; antenna correlation; deterministic equivalents;
+   multiuser MIMO downlink
+ID MIMO BROADCAST CHANNELS; ACHIEVABLE RATES; ANTENNA SYSTEMS; CAPACITY;
+   INFORMATION
+ER
+
+PT J
+DE Internet of Things; Ubiquitous sensing; Cloud computing; Wireless sensor
+   networks; RFID; Smart environments
+ID WIRELESS SENSOR NETWORKS; TRANSPORT; FRAMEWORK; SECURITY; SYSTEM; HOME
+ER
+
+PT J
+ID RIVER-BASIN; VEGETATION MODEL; ENERGY; SIMULATION; WOFOST; CHINA; GEWEX;
+   SCALE; CYCLE
+ER
+
+PT J
+DE Energy harvesting; wireless power transfer; amplify-and-forward;
+   cooperative communications; throughput; outage probability; ergodic
+   capacity
+ID SENSOR NETWORKS
+ER
+
+PT J
+DE Routing Protocols; Energy Efficiency; Wireless Sensor Networks
+ID AD HOC NETWORKS; PERFORMANCE EVALUATION; CONSERVATION; INFORMATION;
+   ALGORITHMS; BROADCAST; DELIVERY; SCHEMES; DESIGN; ISSUES
+ER
+
+PT J
+DE energy efficiency; cooperative communication; cross-layer optimization;
+   network design; MIMO; OFDMA
+ID CROSS-LAYER OPTIMIZATION; COOPERATIVE COMMUNICATION; SENSOR NETWORKS;
+   POWER-CONTROL; RESOURCE-ALLOCATION; SPECTRAL EFFICIENCY; CELLULAR
+   NETWORKS; CHANNEL CAPACITY; LINK ADAPTATION; MIMO
+ER
+
+PT J
+DE Postural transitions; Body-fixed-sensor; Method comparison; Older
+   adults; Parkinson's disease; Independent-living
+ID SYSTEM ACCURACY; FALL RISK; ACCELEROMETER; MOVEMENT; GO; GYROSCOPES;
+   AGREEMENT; MOBILITY; HEALTHY; WALKING
+ER
+
+PT J
+ID PLASMON-INDUCED TRANSPARENCY; FANO RESONANCES; CLASSICAL ANALOG;
+   FREQUENCY; MODULATOR
+ER
+
+PT J
+DE Internet-of-Things; Web; Smart objects; RFID; Sensors; Actuators;
+   Interoperability; Security
+ID WIRELESS SENSOR NETWORKS; ACCESS-CONTROL; TRUST NEGOTIATION; DATA
+   AGGREGATION; CONTEXT; INFORMATION; MANAGEMENT; SYSTEMS; COMPUTATION;
+   COMPUTER
+ER
+
+PT J
+DE Computation; displays; energy generation; energy storage; flexible
+   substrates; healthcare; human-machine interactivity; lab-on-chip;
+   mobility; sensors; thin-film technology; wireless networks
+ID THIN-FILM TRANSISTORS; SENSITIZED SOLAR-CELLS;
+   CHEMICAL-VAPOR-DEPOSITION; LITHIUM-ION BATTERIES; ON-A-CHIP;
+   MULTIFUNCTIONAL STRUCTURAL BATTERIES; OF-THE-ART; AMORPHOUS-SILICON;
+   CARBON NANOTUBE; GRAPHENE FILMS
+ER
+
+PT J
+ID WIRELESS SENSOR NETWORKS; DECENTRALIZED SEQUENTIAL DETECTION;
+   INFORMATION-THEORETIC CRITERIA; ENERGY DETECTION; STATISTICAL TESTS;
+   CENSORING SENSORS; SIGNAL-DETECTION; SYSTEMS; FUSION; CYCLOSTATIONARITY
+ER
+
+PT S
+ID NETWORKED CONTROL-SYSTEMS; COMMUNICATION; SENSITIVITY
+ER
+
+PT J
+DE energy conversion; nanogenerators; nanotechnology; photovoltaics;
+   self-powered nanosystems
+ID SENSITIZED SOLAR-CELLS; NANOTUBE-ARRAY PHOTOELECTRODES; BULK
+   THERMOELECTRIC-MATERIALS; MULTIPLE EXCITON GENERATION; WIRELESS SENSOR
+   NETWORKS; NANOCRYSTAL QUANTUM DOTS; FIELD-EFFECT TRANSISTORS; SILICON
+   NANOWIRES; FUEL-CELL; PHOTOVOLTAIC DEVICES
+ER
+
+PT J
+DE OFDM; MIMO; Energy efficiency; Resource management; Energy resources
+ID CROSS-LAYER OPTIMIZATION; RESOURCE-ALLOCATION; FADING CHANNELS; SENSOR
+   NETWORKS; RELAY; SYSTEMS; CAPACITY; REGIME; MIMO
+ER
+
+PT J
+DE Energy Harvesting; Piezoelectric; Vibration; Energy generation; Micro
+   Power
+ID WIRELESS SENSOR NODES; POWER GENERATOR; THIN-FILM; CONVERSION; DEVICES;
+   SYSTEMS; BEAM; OPTIMIZATION; EFFICIENCY; NANOGENERATOR
+ER
+
+PT J
+DE Cellular systems; outage probability; SINR; stochastic geometry
+ID MULTIPLE-ACCESS CHANNEL; SHANNON-THEORETIC APPROACH; STOCHASTIC
+   GEOMETRY; INTERFERENCE; CAPACITY; CDMA; CANCELLATION; UPLINK
+ER
+
+PT J
+ID PRIVACY
+ER
+
+PT J
+DE Delay-tolerant network (DTN); human mobility; Levy walk; mobile ad hoc
+   network (MANET); mobile network; mobility model
+ID FLIGHT SEARCH PATTERNS; AD HOC NETWORKS; WANDERING ALBATROSSES; NODE
+   DISTRIBUTION; MODEL; DYNAMICS; DIFFUSION; MOTION
+ER
+
+PT J
+ID DEVELOPING-COUNTRIES; REAL-TIME; PHONES; TECHNOLOGIES; PEOPLE; SYSTEM
+ER
+
+PT J
+DE wireless sensor networks; body area networks; survey
+ID WIRELESS SENSOR NETWORKS; HEALTH; TECHNOLOGIES
+ER
+
+PT J
+DE Wireless body area networks; Routing; MAC
+ID SENSOR NETWORKS; COMMUNICATION CHANNEL; PERFORMANCE ANALYSIS; MEDICAL
+   APPLICATIONS; M-HEALTH; PROTOCOL; MODEL; CHALLENGES; MOTION
+ER
+
+PT J
+DE Consensus protocols; distributed algorithms; distributed processing;
+   gossip protocols; graph theory; information networks distributed
+   averaging; network topology; peer to peer computing; protocols; random
+   topologies; topology design; wireless sensor networks
+ID SENSOR NETWORKS; CONSENSUS ALGORITHMS; QUANTIZED CONSENSUS; COOPERATIVE
+   CONTROL; SOURCE LOCALIZATION; AVERAGE CONSENSUS; SIDE INFORMATION;
+   MARKOV-CHAIN; PART I; CONVERGENCE
+ER
+
+PT J
+DE Wireless sensor networks; Pervasive healthcare; Care for elderly;
+   Children and chronically ill
+ID ACTIVITY RECOGNITION; UBIQUITOUS HEALTH; SYSTEM; TECHNOLOGIES;
+   TELEMEDICINE; CHALLENGES; PROTOCOLS; SECURITY; SERVICES
+ER
+
+PT J
+DE Internet of Things; Pervasive computing; RFID systems
+ID WIRELESS SENSOR NETWORKS; ARCHITECTURE
+ER
+
+PT J
+DE CC2420; diagnostics; IEEE 802.15.4; link-quality indicator (LQI);
+   monitoring; received signal strength indicator (RSSI); smart grid;
+   wireless sensor networks (WSNs)
+ID SYSTEMS; AUTOMATION
+ER
+
+PT J
+ER
+
+PT J
+DE GPS-enabled cell phones; Traffic monitoring systems; Traffic sensors;
+   Mobile sensors
+ID MONITORING SYSTEMS
+ER
+
+PT J
+ID MAXIMUM-LIKELIHOOD DETECTION; EPSILON-APPROXIMATION ALGORITHMS; SENSOR
+   NETWORK LOCALIZATION; MULTIUSER DETECTION; CONVEX-OPTIMIZATION; MIMO
+   DETECTION; ORDER QAM; RANK; CONSTRAINTS; PERFORMANCE
+ER
+
+PT J
+DE Optimal energy management policies; energy harvesting; sensor networks
+ID NETWORKS; COMPRESSION
+ER
+
+PT J
+DE Adaptive networks; diffusion LMS; diffusion networks; distributed
+   estimation; energy conservation
+ID ADAPTIVE FILTERS; CONVEX COMBINATION; NETWORKS; PERFORMANCE; SQUARES
+ER
+
+PT J
+DE Biosensor; body area networks; health-monitoring; wearable systems
+ID BODY AREA NETWORK; CARE-SYSTEM; PLATFORM
+ER
+
+PT J
+DE Cross-layer design; industrial wireless sensor networks (IWSNs); ISA100;
+   ultrawideband (UWB); wireless HART; ZigBee; 6LoWPAN
+ID LAYER; AUTOMATION; MOBILE
+ER
+
+PT J
+DE Wireless sensor networks; Survey; Energy efficiency; Power management
+ID RANDOM FORWARDING GERAF; MEDIUM ACCESS-CONTROL; AD HOC; TOPOLOGY
+   CONTROL; SYSTEM; PERFORMANCE; MODEL
+ER
+
+PT J
+DE Cognitive radio; cyclostationarity; fast Fourier transform (FFT)
+   algorithm; Fourier transform; multitaper method; space-time processing
+   Loeve transform; spectrum sensing
+ID SIGNAL INTERCEPTION; MODULATED SIGNALS; PERFORMANCE; ENVIRONMENT
+ER
+
+PT J
+DE Wireless relay networks; cooperative diversity; relay selection
+ID OPTIMAL POWER ALLOCATION; USER COOPERATION DIVERSITY; WIRELESS NETWORKS;
+   SENSOR NETWORKS; AD-HOC; CHANNELS; PERFORMANCE; CAPACITY; SYSTEMS;
+   PROTOCOLS
+ER
+
+PT J
+DE interference; localization; multipath channel; ranging; time-of-arrival;
+   ultrawide bandwidth
+ID TIME-DELAY ESTIMATION; WIRELESS SENSOR NETWORKS; REALIZABLE LOWER
+   BOUNDS; PARAMETER-ESTIMATION; TOA ESTIMATION; FUNDAMENTAL LIMITATIONS;
+   LOCATION ESTIMATION; INDOOR GEOLOCATION; ERROR PERFORMANCE; IMPULSE
+   RADIO
+ER
+
+PT J
+DE Cooperative processing; factor graphs; localization; sum-product
+   algorithm; ultrawide bandwidth transmission
+ID DENSE MULTIPATH CHANNELS; ULTRAWIDE BANDWIDTH SIGNALS; BELIEF
+   PROPAGATION; SENSOR NETWORKS; COMMUNICATION-SYSTEMS; SELF-LOCALIZATION;
+   IMPULSE RADIO; FACTOR GRAPHS; WIDE; ALGORITHM
+ER
+
+PT J
+DE Cognitive radio; spectrum sensing; dynamic spectrum access;
+   multi-dimensional spectrum sensing; cooperative sensing; radio
+   identification
+ID ACCESS; SYSTEMS; TERMINALS; SIGNALS
+ER
+
+PT J
+DE Additive noise; consensus; sensor networks; stochastic approximation;
+   random topology
+ID FLOCKING; TOPOLOGY
+ER
+
+PT J
+DE Injection locking; microwave photonics; optical generation and
+   processing of microwave signals; phase-lock loop (PLL); photonic
+   analog-to-digital conversion; photonic microwave filters;
+   radio-over-fiber; true-time delay
+ID TRUE-TIME-DELAY; FIBER BRAGG GRATINGS; PHASED-ARRAY ANTENNA; TO-DIGITAL
+   CONVERTER; MILLIMETER-WAVE GENERATION; SIDE-BAND MODULATION; STIMULATED
+   BRILLOUIN-SCATTERING; SEMICONDUCTOR OPTICAL AMPLIFIER; FREQUENCY
+   UP-CONVERSION; MULTIMODE-FIBER
+ER
+
+PT J
+DE wireless sensor network; protocols; sensor network services; sensor
+   network deployment; survey
+ID OPTIMIZATION
+ER
+
+PT J
+DE Node placement; Positioning; Wireless sensor networks; Node relocation
+ER
+
+PT J
+DE far field; floating gate; high efficiency; interface circuit; micro
+   power; passively powered; power conversion; RF powered; rectifier;
+   sensor network
+ID RFID APPLICATIONS; UHF; DESIGN; SYSTEM
+ER
+
+PT J
+DE cognitive radio; IEEE 802154; industrial-QoS; spatial and cooperative
+   diversity; ultra-wideband; wireless sensor networks; ZigBee
+ID REAL-TIME COMMUNICATION; CROSS-LAYER DESIGN; AD HOC NETWORKS; SENSOR
+   NETWORKS; COGNITIVE RADIO; CHANNEL CHARACTERIZATION; (M,K)-FIRM
+   DEADLINES; PERFORMANCE ANALYSIS; RELIABLE TRANSPORT; BATTERY MANAGEMENT
+ER
+
+PT J
+DE cognitive radio; sensing-throughput tradeoff; spectrum reuse; spectrum
+   sensing; throughput maximization
+ID SYSTEMS
+ER
+
+PT J
+DE ad hoc networks; delay tolerant networks; intermittent connectivity;
+   routing
+ID WIRELESS NETWORKS; CAPACITY
+ER
+
+PT J
+ID DISTRIBUTED DETECTION; MULTIPLE SENSORS; DIVERSITY; PERFORMANCE
+ER
+
+PT J
+DE distributed estimation; nonlinear optimization; wireless sensor networks
+   (WSNs)
+ID WIRELESS SENSOR NETWORKS
+ER
+
+PT J
+DE indoor location sensing; location fingerprinting; positioning algorithm;
+   radio frequency (RF); wireless localization
+ID LOCATION SYSTEMS; SENSOR NETWORKS; LOCALIZATION; TECHNOLOGY
+ER
+
+PT J
+DE wireless sensor networks; clustering algorithms; scalability; network
+   architecture; energy aware design
+ID ENERGY-EFFICIENT; ORGANIZATION; PROTOCOL
+ER
+
+PT J
+DE wireless sensor networks; localization; AOA; RSS; TDOA
+ID OF-ARRIVAL ESTIMATION; HIGHLY CORRUPTIVE ENVIRONMENTS; SIGNAL
+   PARAMETER-ESTIMATION; LOCATION ESTIMATION; PASSIVE LOCATION; MULTIPATH
+   ENVIRONMENT; DELAY ESTIMATION; DATA FUSION; TIME-DELAY; ALGORITHMS
+ER
+
+PT J
+ID POWER GENERATOR; SYSTEMS
+ER
+
+PT J
+DE wireless sensor networks; ZigBee; IEEE 802.15.4
+ID AD HOC; CLUSTER
+ER
+
+PT J
+DE wireless sensor networks; multimedia communications; distributed smart
+   cameras; video sensor networks; energy-aware protocol design;
+   cross-layer protocol design; quality of service
+ID AD HOC NETWORKS; TRANSPORT PROTOCOL; RELIABLE TRANSPORT; IMPULSE RADIO;
+   COMMUNICATION; INFORMATION; ENVIRONMENT; DELAY; SPEED; UWB
+ER
+
+PT S
+ID OVERDEFINED SYSTEMS; ALGORITHMS; SECURITY
+ER
+
+PT J
+DE communication networks; consensus; control of networks; control systems;
+   cooperative control; distributed control systems; estimation; networked
+   control systems; networked embedded systems; networks; real-time
+   systems; sensor and actuator networks; sensor networks
+ID RECURSIVE STATE ESTIMATION; LINEAR-SYSTEMS; LIMITED INFORMATION;
+   BANDWIDTH CONSTRAINTS; SPECIAL-ISSUE; FEEDBACK; STABILIZATION;
+   COMPLEXITY; CONSENSUS; AGENTS
+ER
+
+PT J
+DE wireless sensor networks; environmental monitoring; cyberinfrastructure
+ID MONITORING-SYSTEM; REAL-TIME; WATER; WEB; INSTRUMENTATION; CHALLENGES;
+   BIOSENSORS; EVOLUTION
+ER
+
+PT J
+DE complexity regularization; data compression; denoising; Rademacher
+   chaos; random projections; sampling; wireless sensor networks
+ID FINITE RATE; ALGORITHM; INNOVATION
+ER
+
+PT J
+DE wireless sensor networks; health monitoring; hardware; software; signal
+   processing; time synchronization; energy efficiency
+ER
+
+PT J
+DE wireless sensor networks; clustering algorithm; heterogeneous
+   environment; energy-efficient
+ER
+
+PT J
+DE distributed averaging; gossip; random walk; scaling laws; sensor
+   networks; semidefinite programming
+ID MOBILE AUTONOMOUS AGENTS; NETWORKS; EIGENVALUES; MATRICES
+ER
+
+PT J
+DE mobile sensor networks; sensor coverage; distributed algorithm
+ER
+
+PT J
+DE system design; simulations; sensor networks; service differentiation;
+   QoS; real-time; reliability; localized routing protocol
+ID SERVICE; QUALITY
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE coherence time; fading channel; network cooperative diversity; outage
+   probability; wireless networks
+ID RANDOM FORWARDING GERAF; AD-HOC; SENSOR NETWORKS; RELAY NETWORKS;
+   PERFORMANCE; CHANNELS; TRANSMISSION; TRADEOFF
+ER
+
+PT J
+DE M2M; ZigBee; bluetooth; RFID
+ID SYSTEM; MANAGEMENT
+ER
+
+PT J
+DE transverse mode piezoelectric; micro power generator; cantilever beam;
+   energy harvesting; interdigitated electrode
+ID TEMPERATURE; HYSTERESIS
+ER
+
+PT J
+ID CDMA-CELLULAR-SYSTEMS; PROPAGATION; GEOLOCATION; ACCURACY; CHANNELS;
+   MOBILES; BOUNDS; MODEL
+ER
+
+PT J
+ID CRAMER-RAO BOUNDS; MULTIPATH PARAMETERS; LOCATION ESTIMATION; SYSTEMS;
+   CHANNELS; TRACKING
+ER
+
+PT J
+ID WIRELESS SENSOR NETWORKS; TIME-DELAY; LOCALIZATION; BOUNDS
+ER
+
+PT J
+ID IMPULSE RADIO; CHANNEL; PERFORMANCE; NETWORKS; LOCATION; SYSTEMS; DESIGN
+ER
+
+PT J
+DE algorithms; design; connectivity; energy consumption; topology control;
+   sensor networks; wireless ad hoc networks
+ID MINIMAL SPANNING-TREES; CRITICAL TRANSMITTING RANGE; RANDOM POINTS;
+   RADIO NETWORKS; STRONG LAW; CONNECTIVITY; ASYMPTOTICS; MODEL; LINK
+ER
+
+PT J
+DE Bluetooth (BT); fieldbus systems; hybrid systems; IEEE 802.11; IEEE
+   802.15.4; real-time communications; wireless technologies
+ID SENSE MULTIPLE-ACCESS; RADIO CHANNELS; PERFORMANCE; COMMUNICATION;
+   BLUETOOTH; PROFIBUS; SYSTEM; DESIGN; COORDINATION; ENVIRONMENT
+ER
+
+PT J
+DE wireless sensor networks; energy efficiency; node organization; disjoint
+   set covers
+ER
+
+PT J
+DE wireless mesh networks; ad hoc networks; wireless sensor networks;
+   medium access control; routing protocol; transport protocol;
+   scalability; security; power management and control; timing
+   synchronization
+ID AD-HOC NETWORKS; TCP PERFORMANCE; MOBILITY MANAGEMENT; CAPACITY;
+   TRANSPORT; PROTOCOL; SYSTEMS; ACCESS; SCHEME; LAYER
+ER
+
+PT J
+DE experimentation; performance; query processing; sensor networks; data
+   acquisition
+ER
+
+PT J
+DE CMOS digital integrated circuits; CMOS memory circuits; coprocessors;
+   design methodology; digital signal processors; leakage currents; logic
+   design; subthreshold CMOS circuits
+ID LOW-POWER
+ER
+
+PT J
+DE block fading; cooperative diversity; hybrid-automatic repeat request
+   (ARQ); relay channel
+ID USER COOPERATION DIVERSITY; RANDOM FORWARDING GERAF; HOC WIRELESS
+   NETWORKS; AD HOC; FADING CHANNELS; SENSOR NETWORKS; PERFORMANCE;
+   PROTOCOLS; ENERGY; CAPACITY
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE acoustic energy; acoustic intensity; maximum likelihood; nonlinear least
+   square; sensor network; source localization
+ID SOUND; PROPAGATION; ATMOSPHERE; PROFILE; MODEL
+ER
+
+PT J
+DE wireless sensor networks; smart dust; target classification and
+   tracking; reliability; stabilization
+ER
+
+PT J
+ID PROTOCOLS
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE sensor networks; clustering; network lifetime; energy efficiency; fault
+   tolerance
+ER
+
+PT J
+ER
+
+PT J
+ID SIDE INFORMATION; MEMORYLESS SOURCES; LDPC CODES; COMPRESSION; DUALITY;
+   CHANNEL; LATTICE; DECODER
+ER
+
+PT J
+DE Kalman estimation; missing observation; online adaptive filtering;
+   sensor networks; stability
+ID STATE ESTIMATION; SYSTEMS; ESTIMATORS
+ER
+
+PT J
+DE energy-sensitive routing; power aware routing; wireless ad hoc networks;
+   wireless sensor networks
+ER
+
+PT J
+DE cooperative multi-input-multi-output (MIMO); energy efficiency; MIMO;
+   sensor network
+ER
+
+PT J
+DE adaptive systems; cooperative control; gradient methods; mobile robots;
+   multiagent systems; sensor networks
+ID FORMATION MANEUVERS; AGGREGATION
+ER
+
+PT J
+ER
+
+PT J
+DE spatial correlation; temporal correlation; MAC protocol; transport
+   protocol; wireless sensor networks
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE Tenergy efficiency; medium access control (MAC); sensor network;
+   wireless network
+ER
+
+PT J
+DE Centroidal Voronoi partitions; coverage control; distributed and
+   asynchronous algorithms; sensor networks
+ID GEOMETRIC PATTERNS; VORONOI DIAGRAMS; ROBOTS; ALGORITHMS; QUANTIZATION
+ER
+
+PT J
+DE fault tolerance; event detection; sensor fusion; Bayesian algorithms;
+   wireless sensor networks
+ID LINEAR-TIME ALGORITHMS
+ER
+
+PT S
+ER
+
+PT J
+DE microelectrodes; microfluidics; micromachining; microsystems; nervous
+   system; neural implants; sensors
+ID IRIDIUM OXIDE ELECTRODES; MICROELECTRODE ARRAYS; ELECTRICAL-STIMULATION;
+   THIN-FILM; MULTISITE MICROPROBES; PERIPHERAL-NERVES; DATA-TRANSMISSION;
+   CHARGE INJECTION; CEREBRAL-CORTEX; MOTOR CORTEX
+ER
+
+PT J
+DE ad-hoc networks; distributed algorithms; positioning
+ID ROBOT LOCALIZATION
+ER
+
+PT J
+DE geographic forwarding; multihop performance; ad hoc networks; sensor
+   networks; energy; routing; MAC
+ID PROTOCOLS
+ER
+
+PT J
+DE Cramer-Rao bound; localization; radio channel measurement;
+   self-configuration; sensor position location estimation; signal
+   strength; time-of-arrival
+ID ACCURACY
+ER
+
+PT J
+DE collaborative signal processing; microsensors; network routing and
+   control; querying and tasking; sensor networks; tracking and
+   classification; wireless networks
+ID SYSTEMS
+ER
+
+PT J
+DE energy scavenging; vibration to electricity conversion; self powered
+   wireless sensing
+ER
+
+PT J
+DE data aggregation; data-centric routing; distributed sensing; in-network
+   processing; wireless sensor networks
+ID ARCHITECTURE
+ER
+
+PT B
+DE government construction projects; supervisory system; government
+   commonweal projects
+ER
+
+PT J
+DE positioning; ad hoc networks; APS
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE wireless sensor networks; data gathering protocols; energy-efficient
+   operation; greedy algorithms; performance evaluation
+ER
+
+PT J
+DE secure communication protocols; sensor networks; mobile ad hoc networks;
+   MANET; authentication of wireless communication; secrecy and
+   confidentiality; cryptography
+ID AUTHENTICATION
+ER
+
+PT J
+ER
+
+PT J
+ID FADING CHANNELS; POWER-CONTROL; ADAPTIVE MODULATION; RADIO SYSTEMS;
+   CAPACITY; INFORMATION; PERFORMANCE; TRANSMISSION; SCHEMES; ERROR
+ER
+
+PT J
+DE wireless sensor networks; ad hoc networks; application layer; transport
+   layer; networking layer; routing; data link layer; medium access
+   control; error control; physical layer; power aware protocols
+ER
+
+PT J
+ID WIRELESS COMMUNICATIONS; TIME-FREQUENCY; NETWORKS
+ER
+
+PT J
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT B
+ID MULTICAST
+ER
+
+PT B
+ID CLOCK SYNCHRONIZATION; SYSTEM
+ER
+
+PT J
+DE wireless sensor networks; energy-efficient protocols; negotiation-based
+   protocols; meta-data; information dissemination
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ID SYSTEM
+ER
+
+PT J
+ER
+
+PT J
+ID JOINT ANGLE; ARRAYS; CONSTRAINTS; ALGORITHMS; PARAMETERS; SIGNALS
+ER
+
+EF

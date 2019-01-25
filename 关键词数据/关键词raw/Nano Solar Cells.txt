@@ -1,0 +1,1039 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE Crossed-shaped nano-antenna; Cut-off filter; Photovoltaic solar cell;
+   Plasmonics; Surface plasmon resonance
+ID INDUCED DEGRADATION; NANOANTENNAS; OPTICS; LIGHT; AIR
+ER
+
+PT J
+DE Nano-particles; Plasmon resonance; Photovoltaic; Core-shell; Charge
+   transport
+ID SENSITIZED SOLAR-CELLS; NANOPARTICLES; EFFICIENCY; LAYERS
+ER
+
+PT J
+ID OPTICAL-ABSORPTION; SURFACE; NANOPARTICLES
+ER
+
+PT J
+DE Solar cells; Dielectric nanostructured reflectors; Absorption
+   enhancement
+ID EFFICIENCY; JUNCTION; ARRAYS; FRONT
+ER
+
+PT J
+DE Nanocomposite; Organic Solar cell; Thin Film
+ID POWER CONVERSION EFFICIENCY; HOLE TRANSPORT LAYER; PHOTOVOLTAIC DEVICES;
+   SOLVENT ADDITIVES; CELLS; POLYMER; NANOPARTICLES; ENHANCEMENT;
+   PERFORMANCE; NANOCOMPOSITE
+ER
+
+PT S
+DE Antireflection coatings; nanospheres; nanoresonators; whispering gallery
+   modes; absorptivity enhancements; photocurrent enhancements; near-field
+   scanning optical microscopy (NSOM); near-field scanning photocurrent
+   microscopy (NSPM)
+ID SOLAR-CELLS; PAPER
+ER
+
+PT J
+DE nano texturing; reactive ion etching; silicon; solar cell
+ID MULTICRYSTALLINE SILICON; CONVERSION EFFICIENCY; IMPROVEMENT
+ER
+
+PT S
+ID MEH-PPV; NANOPARTICLES; GLASS; LAYER
+ER
+
+PT J
+DE Solar cell; surface modification; carbon nano tube composite; efficiency
+   improvement
+ER
+
+PT J
+DE Quartz sand; nano silica; magnesiothermic reduction; nano silicon and
+   hybrid solar cells
+ID PHYSICOCHEMICAL PROPERTIES; ELECTRON-ACCEPTORS; POROUS SILICON;
+   REDUCTION; GRAPHENE; DIOXIDE; SYSTEM
+ER
+
+PT J
+ID ORGANOMETAL HALIDE PEROVSKITES; PHOTOCATALYTIC ACTIVITY; LOW-COST; TIO2;
+   EFFICIENCY; LAYER; AG; EXTRACTION; DEPOSITION; STATE
+ER
+
+PT J
+DE Quantum dot sensitized solar cells; Different TiO2 nanostructures;
+   Charge generation and separation; Charge transfer; Photovoltaic
+   performance enhancement
+ID EFFICIENCY ENHANCEMENT; COUNTER-ELECTRODE; PHOTOANODE; CONVERSION;
+   NANORODS
+ER
+
+PT J
+DE Nano-imprinting; anti-reflection; solar cells
+ID NANOIMPRINT LITHOGRAPHY; LIGHT
+ER
+
+PT J
+DE Solar cells; Quantum coherence; Fano interference; Nano-structure solar
+   cells
+ID ELECTROMAGNETICALLY INDUCED TRANSPARENCY; INVERSION; LASER
+ER
+
+PT J
+DE Functional Nano Thin Film; Solar Energy; Glass Substrate; Contamination
+ER
+
+PT J
+DE Far-field scattering effect; Metal nanoparticles; Perovskite solar
+   cells; Finite difference time domain method
+ID PHOTOVOLTAIC PERFORMANCE; HALIDE PEROVSKITES; THIN-FILMS; NANOPARTICLES;
+   DEVICES; ABSORPTION; DEPOSITION
+ER
+
+PT J
+ID POROUS SILICON; BLACK-SILICON
+ER
+
+PT J
+DE Nanoparticle; Photovoltaic cells; Power conversion; Surface plasmon
+   resonance; Light harvesting
+ID PHOTOVOLTAICS; ABSORPTION; CONVERSION; DIAMETER; DESIGN; BAND
+ER
+
+PT S
+DE Absorption-efficiency; optical path length; nano particles; photovoltaic
+   cell; plasmonic solar cell
+ER
+
+PT B
+DE Conversion efficiency; FDTD simulation; incident light angle;
+   nano-grating structure; reflection loss; solar cell
+ER
+
+PT B
+DE Solar cell; photovoltaic; hot carrier; phonon; lattice; nano-structure
+ID EFFICIENCY
+ER
+
+PT J
+DE Dye-sensitized solar cells; titanium dioxide nano particles; Florine tin
+   oxide glass; pomogrante dye; Photoelectric conversion efficiency
+ER
+
+PT J
+DE Silicoaluminophosphate; Non-Aquoues Media; SAPO 11; Nano-Crystalline
+   Materia; Highly Thermal Resist Mesoporous Material
+ER
+
+PT S
+ID CONTACTS
+ER
+
+PT J
+DE Nano-imprint; Nanopyramid; Near-zero reflection; Carrier collection
+   efficiency
+ID SILICON NANOWIRE; BLACK-SILICON; LIGHT; EFFICIENCY; MICROWIRE;
+   NANOSTRUCTURES; PHOTOVOLTAICS; PASSIVATION; PERFORMANCE; PYRAMIDS
+ER
+
+PT J
+DE Hybrid solar cell; Nanoimprint; Metal assisted chemical etching;
+   Micro(nano) pattern
+ID SILICON; EFFICIENCY
+ER
+
+PT J
+DE FDTD simulation; nano-structures; light reflection loss; solar cells;
+   subwavelength grating (SWG); triangular or conical shaped nano-grating
+ID LORENTZ-DRUDE MODEL; OPTOELECTRONIC DEVICES; OPTICAL-PROPERTIES;
+   ANTIREFLECTION; SURFACE; SIMULATION; LIGHT
+ER
+
+PT J
+DE solar cell; photovoltaic cell; FDTD modelling; subwavelength
+   nano-structures; reflection loss
+ID OPTICAL-ABSORPTION; SILICON NANOWIRE; QUANTUM DOTS; ARRAYS;
+   NANOSTRUCTURES; INDEX
+ER
+
+PT J
+DE Impedance Spectroscopy; TiO2 Nano Urchins; Photovoltaic; QDSSC; SILLAR
+ID TITANIUM-OXIDE NANOTUBE; FILMS; ZNO; PERFORMANCE; LAYERS
+ER
+
+PT J
+ID CAPILLARY PERFORMANCE; PHOTOVOLTAIC CELLS; TRANSFER DEVICES; COMPOSITE
+   WICKS; TEMPERATURE; NANOPARTICLES; ENHANCEMENT; MODULES; SYSTEMS
+ER
+
+PT J
+DE Electrospinning; Pt Nano-Fiber; Counter Electrode; Catalytic Activation;
+   Dye-Sensitized Solar Cell
+ID ELECTROCHEMICAL IMPEDANCE SPECTROSCOPY; ORGANOMETAL HALIDE PEROVSKITES;
+   ACTIVATED CARBON NANOFIBERS; MEMBRANE ELECTROLYTE; PHOTOVOLTAIC CELLS;
+   LOW-COST; PERFORMANCE; EFFICIENCY; TRANSISTORS; ADSORPTION
+ER
+
+PT J
+DE Plasmon; Nano-particles; Light scattering
+ID NANOPARTICLES; ENHANCEMENT; ABSORPTION; CONVERSION; FIELDS; FILMS
+ER
+
+PT J
+DE Catalytic activation; Polymer; Counter electrode; Nano particle;
+   Dye-sensitized solar cells
+ID ELECTROCHEMICAL IMPEDANCE SPECTROSCOPY; POLY(STYRENE SULFONATE) FILM;
+   PHOTOVOLTAIC CELLS; CHARGE-TRANSFER; PERFORMANCE; EFFICIENCY; CARBON;
+   CONVERSION; TRANSPORT; RECOMBINATION
+ER
+
+PT J
+DE Nano-hole structures; Optical generation rate; Surface recombination
+   velocity (SRV); Simulation; Thin-film solar cell
+ER
+
+PT S
+ID SOLAR-CELLS
+ER
+
+PT J
+DE nano-crystals; quantum efficiency; UV light; down-conversion
+ID QUANTUM DOTS; NANOCRYSTALS; NANOSTRUCTURES; ENHANCEMENT; LAYERS
+ER
+
+PT B
+DE Al; Ag; Au nano particles; silicon; solar cells; surface plasma
+   resonance; hot carrier cells; multiple junction solar cell
+ER
+
+PT S
+DE molecular electronics; self-assembled monolayers; molecular structure;
+   charge transport; tunneling; quantum interference; current density
+ID SOLAR-ENERGY COLLECTION; PLASMONIC NANOGAP; ANTENNA; EFFICIENCY;
+   RECTIFICATION; CELLS; NANOANTENNAS; DESIGN; ARRAYS
+ER
+
+PT B
+DE nano-plasmonic thin-film solar cell; optical wireless communication;
+   visible light communication (VLC); light trapping structure
+ID SILICON; NANOPARTICLES
+ER
+
+PT S
+DE Nano-diamod self-cleaning film; stubborn dust; automatic tracking;
+   photoelectric efficiency
+ER
+
+PT S
+DE Nano-SiC film; solar cell; conversion efficiency
+ER
+
+PT J
+ID PHOTOVOLTAIC APPLICATIONS; SI; ARRAYS; NANOWIRES; RECOMBINATION;
+   FABRICATION; ABSORPTION; TEXTURES; DESIGN
+ER
+
+PT J
+DE Efficiency; Solar cells; Double junction structure; Thin film; Carbon
+   nanotube
+ER
+
+PT J
+DE silicon micro-nano structures; solar cells; efficiency improvement;
+   flexibility
+ID SINGLE-CRYSTAL SILICON; PHOTOVOLTAIC DEVICES; OPTICAL-PROPERTIES; CARBON
+   NANOTUBES; ARRAYS; EFFICIENCY; NANOPARTICLES; ABSORPTION; NANOWIRES;
+   FABRICATION
+ER
+
+PT J
+ID BROAD-BAND; SURFACE-PLASMON; NANOPARTICLES; ABSORPTION; RESONANCE;
+   DESIGN
+ER
+
+PT J
+DE Silver assisted etching; Black multi-crystalline silicon; Reflection
+   loss; Solar cells
+ID N-TYPE SILICON; POROUS SILICON; MULTICRYSTALLINE SILICON; MACROPORE
+   FORMATION; ARRAYS; COATINGS; SURFACE; LITHOGRAPHY; PERFORMANCE;
+   FABRICATION
+ER
+
+PT S
+DE photovoltaic devices; nano-scale devices; numerical simulation;
+   perovskite solar cells
+ER
+
+PT S
+DE Numerical method; Photovoltaic Devices; Surface Recombination Velocity;
+   Fermi-Level Pinning; Metal-Semiconductor Contact; Gallium Arsenide
+ID FERMI-LEVEL; STATES; RECOMBINATION; INTERFACES
+ER
+
+PT J
+ID ONE-DIMENSIONAL NANOSTRUCTURES; PERFORMANCE; MORPHOLOGY; ARRAYS; OXIDES
+ER
+
+PT J
+DE light trapping; light management; multi-junction solar cells;
+   nano-imprint lithography; silicon
+ID MICROCRYSTALLINE SILICON; NANOIMPRINT LITHOGRAPHY; PHOTOVOLTAICS; TCO;
+   ABSORPTION; DEVICES; LIMIT; OXIDE; GLASS
+ER
+
+PT B
+DE Mirrors; Back reflectors; Nano-grooves; GaAs Solar cell
+ID MIRRORS
+ER
+
+PT J
+DE Hybrid Solar Cell; Titanium Dioxide; P3HT; Glancing Angle Deposition
+ID POLYMER PHOTOVOLTAIC CELLS; FILMS
+ER
+
+PT J
+DE Metal catalyst; Nano/microhole Si array; Reflectance; Efficiency
+ID NANOWIRE ARRAYS; PHOTOVOLTAIC APPLICATIONS; ABSORPTION
+ER
+
+PT J
+DE polymer solar cells; nano-morphology; non-fullerene acceptors; ternary
+   solvents; donor polymers
+ID 25TH ANNIVERSARY ARTICLE; OPEN-CIRCUIT VOLTAGE; SMALL-MOLECULE;
+   PHOTOVOLTAIC POLYMERS; ELECTRON-ACCEPTOR; CHARGE GENERATION;
+   PERFORMANCE; DESIGN; LAYER; DIKETOPYRROLOPYRROLE
+ER
+
+PT J
+DE Silicon solar cells; Silver; Cost reduction; Nano-inks
+ER
+
+PT J
+ID FABRICATION
+ER
+
+PT J
+DE Carbon nano-onion; Dye sensitized solar cells; Candle synthesis
+ID CHEMICAL-VAPOR-DEPOSITION; DOPED TIN OXIDE; COUNTER-ELECTRODES; GRAPHENE
+   FILMS; ARC-DISCHARGE; NANOTUBES; TRANSPARENT; DIAMOND; GROWTH; CANDLE
+ER
+
+PT J
+DE dye-sensitized solar cell; photoactive electrode; secondary structure;
+   titanium tetrachloride additive
+ID MESOPOROUS TIO2 BEADS; FILM; CONVERSION; IMPEDANCE; ARRAYS; LAYER
+ER
+
+PT J
+DE Amorphous silicon solar cells; Light trapping; Nano particles; Plasmonic
+   losses
+ID BACK CONTACT
+ER
+
+PT J
+DE flexible polymer solar cells; nano-pattern structure; top-illumination;
+   bulk heterojunction; ITO-Free Ag electrode
+ID PHOTOVOLTAIC CELLS; HETEROJUNCTIONS; ENHANCEMENT; MICROCAVITY; DESIGN
+ER
+
+PT J
+DE TiO2; CdS; Nanobranch; Solar cells
+ID COUNTER ELECTRODE MATERIAL; LARGE-SCALE SYNTHESIS; PHOTOVOLTAIC CELLS;
+   PERFORMANCE
+ER
+
+PT B
+DE Nanotechnology; porous Si; quantum dots; solar cells
+ID TIO2 THIN-FILMS; ENERGY CONVERSION; PHOTOELECTROCHEMICAL CELLS;
+   PHYSICAL-PROPERTIES; QUANTUM DOTS; ORGANIC-DYES; EFFICIENCY; SILICON;
+   NANOSTRUCTURE; STABILITY
+ER
+
+PT S
+DE gallium arsenide; solar cells; thin film; nano-structures; photon
+   managements; light trapping; epitaxial lift-off
+ID HIGH-EFFICIENCY; ENHANCEMENT
+ER
+
+PT S
+DE nano-wall; solar cell; Si
+ER
+
+PT J
+ID PHOTOVOLTAIC DEVICES; EFFICIENCY; POLYMER; PERFORMANCE; COMPOSITES;
+   DYNAMICS; BLENDS
+ER
+
+PT S
+DE TiO2-nano-SiO2 hybrid photoanode; sensitized; solar cells
+ID NANOCRYSTALS; PERFORMANCE; CDS
+ER
+
+PT S
+DE Nano-TiO2; Chemical industry; Water treatment; Environmental protection
+ER
+
+PT S
+DE nano-textured interfaces; scalar scattering theory; thin-film solar
+   cells; light management
+ER
+
+PT J
+DE plasmonic nanoparticles; binary optimization algorithm
+ID WAVE-GUIDES; NANOPARTICLES; LOCALIZATION
+ER
+
+PT J
+DE Silicon solar cell; Nanostructures; Electrode-contact
+ID MULTICRYSTALLINE SILICON; ARRAYS; FABRICATION; NANOWIRES; SURFACE
+ER
+
+PT S
+DE core shell plasmonic nano-antenna; thin film solar cell; supper
+   scattering; absorption enhancement
+ER
+
+PT B
+DE Bowtie nano antenna; rectenna; rectifier; solar energy collection
+ER
+
+PT B
+DE Numerical Simulation; Nano-scale Devices; Photovoltaic Devices; Solar
+   Cells; Surface Recombination
+ID NANOPILLAR-ARRAY; EFFICIENCY
+ER
+
+PT B
+DE integration; nano structured materials; organic photovoltaic cells; TCO;
+   thermoelectric
+ID NANOSTRUCTURES
+ER
+
+PT B
+DE light management; nano-imprint; photovoltaic; thin-film silicon
+ID FILMS
+ER
+
+PT S
+ER
+
+PT J
+ID SILICON; MULTICRYSTALLINE; PLASMONICS; ABSORPTION
+ER
+
+PT J
+DE Anti-Reflection; Sol-Gel SiO2; TiO2; Nano-Sized Double Layer ARCs; Solar
+   Cell
+ID CHEMICAL-VAPOR-DEPOSITION; SILICON; PASSIVATION; DESIGN
+ER
+
+PT J
+DE Electrodes; energy conversion; photovoltaic cells; titanium (Ti)
+ID FABRICATION; SUBSTRATE
+ER
+
+PT J
+DE Solar Cell; Nano-Micro Scale Combination Patterns; Energy Conversion
+   Efficiency; Nanoimprint
+ID UV-NANOIMPRINT LITHOGRAPHY; IMPRINT LITHOGRAPHY; LAYER
+ER
+
+PT J
+DE Photovoltaics; Thin film CIGS solar cells; Rear surface passivation;
+   Al2O3; Nano-sized local point contacts
+ID DEPOSITION; LAYER
+ER
+
+PT J
+ID SURFACE-RELIEF GRATINGS; COUPLED-WAVE ANALYSIS; TRANSPARENT ELECTRODE;
+   DIFFRACTION
+ER
+
+PT J
+DE Nano-textured surface; Silicon nitride; Antireflection;
+   Multi-crystalline silicon; Solar cell
+ID BLACK-SILICON; PASSIVATION; NANOSTRUCTURES; RECOMBINATION; CATALYSIS;
+   PARTICLE
+ER
+
+PT J
+DE Plasmonic; Ag Nano-Pillars Array; Organic Solar Cell
+ID SURFACE-PLASMON RESONANCE; SPECTROSCOPY; PERFORMANCE; GEOMETRY;
+   SPECTRUM; LAYER
+ER
+
+PT J
+DE Dye-sensitized solar cell; secondary structure; TiCl4 additive;
+   photoanode
+ID ELECTROCHEMICAL PROPERTIES; IMPEDANCE; LAYER
+ER
+
+PT J
+ID LIGHT EXTRACTION EFFICIENCY; SILICON NANOWIRE; OPTICAL-ABSORPTION;
+   MICROLENS ARRAYS; EMITTING-DIODES; ENHANCEMENT; DEPOSITION
+ER
+
+PT J
+DE Nano solar cells; Thiols; Electron transfer bridges; Kinetically
+   determined solar cells; Quantum dots
+ID COLLOIDAL QUANTUM DOTS; ENERGY-CONVERSION; EFFICIENCY; CATALYSIS; FILMS
+ER
+
+PT J
+DE Colloidal synthesis; Nanocrystal; Nano-heterojunction; Solar cell; TiO2
+   nanotube
+ER
+
+PT J
+DE Crystalline silicon solar cell; Texturization; Nano structure;
+   Antireflection
+ID SURFACE; REFLECTIVITY; LAYER
+ER
+
+PT B
+DE FDTD simulation; incident angle; nano-structures; reflection losses;
+   subwavelength grating (SWG); solar cells; triangular or conical shaped
+   nano-grating
+ER
+
+PT S
+DE Solar cells; Metallic quantum dots; Nano scale; Phonon bottleneck
+ID GOLD NANOPARTICLE CATALYSTS; SENSOR
+ER
+
+PT S
+DE Solar energy; Thin film devices and applications; Nanostructure
+   fabrication; Photovoltaic
+ID SI; DIODES
+ER
+
+PT S
+DE light trapping; solar cells; nanostructures; benchmarking
+ER
+
+PT S
+ID NANOWIRE; ARRAY; SI; ABSORPTION; SPRAY
+ER
+
+PT S
+DE gallium arsenide; photovoltaic cells; thin film nano-structures; light
+   trapping; semiconductor growth
+ID OPTICAL-ABSORPTION ENHANCEMENT; SILICON NANOWIRE; ARRAYS
+ER
+
+PT B
+ER
+
+PT S
+DE hot carrier cell device prototype; heterogeneous nano-particle array;
+   electronic and optical properties; electrical conductivity; lattice
+   thermal conductivity
+ID THERMOELECTRIC FIGURE; QUANTUM-WELLS; PHONONS; MERIT
+ER
+
+PT S
+DE Solar energy harvesting; solar radiation; nano antennas; nano dipoles
+ID EMISSION; ANTENNA; MEDIA
+ER
+
+PT S
+DE Nanostructure; Simulation; Quantum Well
+ER
+
+PT S
+DE Thin film solar cells; FDTD; nano particles; textured interfaces
+ER
+
+PT S
+DE single crystal silicon solar cell; nano-disk array; electromagnetic
+   field distribution; energy flux; FDTD
+ID MODULATION
+ER
+
+PT J
+ID BROAD-BAND ANTIREFLECTION; BLACK-SILICON; SURFACE; RECOMBINATION;
+   NANOWIRES; PLASMA
+ER
+
+PT S
+DE Thin film solar cell; GaAs; CIGS; light-trapping; plasmonic;
+   nano-photonic; high-efficiency; cost reduction; nano-imprint lithography
+ID LIFT-OFF; OPTICAL-CONSTANTS; FILMS; THICKNESS; DESIGN
+ER
+
+PT S
+ER
+
+PT J
+DE Nano-sphere lithograph; Nano-patterned Si structures; Antireflection
+ID BROAD-BAND ANTIREFLECTION; SOLAR-CELLS; PHOTOVOLTAIC APPLICATIONS;
+   ABSORPTION ENHANCEMENT; OPTICAL-PROPERTIES; SILICON NANOWIRE; ARRAYS;
+   EMISSION
+ER
+
+PT J
+ID IONIC LIQUID; CHARGE-TRANSPORT; REDOX COUPLE; PERFORMANCE; FABRICATION;
+   DIFFUSION
+ER
+
+PT S
+DE External quantum efficiency (EQE); nanoparticles; plasmonics;
+   triple-junction solar cell; current matched
+ER
+
+PT S
+ID POLYMER PHOTOVOLTAIC CELLS; EFFICIENCY
+ER
+
+PT J
+DE Hybrid solar cells; Kelvin probe force microscopy; Interface; Surface
+   potential
+ID OPEN-CIRCUIT VOLTAGE; PHOTOVOLTAIC DEVICES; SOLAR-CELLS; EFFICIENCY;
+   PERFORMANCE; NANORODS
+ER
+
+PT B
+ID FIELD-EMISSION
+ER
+
+PT J
+ID ABSORPTION ENHANCEMENT; SILICON NANOWIRE; OPTICAL-ABSORPTION; LIGHT;
+   PHOTOVOLTAICS; EFFICIENCY; NANOSCALE; DEVICES; ARRAY; RESONANCES
+ER
+
+PT J
+DE Thin film solar Cell; Inverse problem; Numerical optimization
+ID OPTIMIZATION; ABSORPTION; SIMULATION; LAYERS
+ER
+
+PT J
+ID LIGHT-EMITTING-DIODES; P-GAN; ENHANCEMENT; CONTACTS; OUTPUT
+ER
+
+PT J
+DE flexible polymer solar cells; nano-imprint process; bulk heterojunction;
+   indium zinc oxide anode; nano-pattern structure
+ID PHOTOVOLTAIC DEVICES; SOFT LITHOGRAPHY; NANOMORPHOLOGY; ENHANCEMENT;
+   MOLD
+ER
+
+PT J
+ID FLASH IMPRINT LITHOGRAPHY; ABSORPTION ENHANCEMENT; OPTICAL-ABSORPTION;
+   OPTIMIZATION; GRATINGS; NANOWIRE; COST; STEP
+ER
+
+PT J
+DE Dye Sensitized Solar Cell; Nano-CdO; SEM; AFM
+ID ZNO NANORODS
+ER
+
+PT J
+DE SnO2 nano particle; Inverted BHJ solar cell; Stability; P3HT; PCBM
+ID PHOTOVOLTAIC CELLS; INJECTION; DEVICES; SNO2
+ER
+
+PT J
+ID QUANTUM-DOT PHOTOVOLTAICS; NANOCRYSTAL SOLIDS; EFFICIENCY;
+   RECOMBINATION; STABILITY; LAYER; FILMS
+ER
+
+PT J
+ID ROUGH INTERFACES; LIGHT-SCATTERING; SI
+ER
+
+PT J
+DE Light trapping; Nano-textured topography; Magnetron sputtering;
+   Thin-film solar cells
+ID SILICON SOLAR-CELLS; THIN-FILM; A-SI; CRYSTALLIZATION; OXIDE
+ER
+
+PT J
+ER
+
+PT J
+DE nano-structuring; nano-structured organic-metal interface;
+   nano-structured polymer solar cell; external quantum efficiency;
+   internal quantum efficiency
+ID ANODE INTERFACIAL LAYER; PHOTOVOLTAIC CELLS; GRATINGS; OXIDE; PCBM
+ER
+
+PT J
+ID ROOM-TEMPERATURE; REFRACTIVE-INDEX; FABRICATION; ABSORPTION; ARRAYS
+ER
+
+PT B
+DE Solar cell; photovoltaic cell; alternate energy energy generation;
+   conversion efficiency; semiconductor; silicon; compound semiconductor;
+   photocarrier generation efficiency; photocarrier collection efficiency
+ER
+
+PT S
+DE solar cells; reflectance; atomic layer deposition; lifetime
+ID WAFERS
+ER
+
+PT S
+DE Rare earth; Up-conversion; Nano-crystal material; Dye-sensitized solar
+   cells
+ER
+
+PT S
+DE Guided-mode resonance; leaky-mode resonance; quasi-guided modes;
+   nano-patterns; interferometric lithography
+ID GRATINGS; FILTERS
+ER
+
+PT S
+DE nano-SiC film; solar cells; open circuit voltage; short circuit current;
+   I-V characteristics
+ID FIELD-EMISSION; NANOWIRES; SILICON; CATHODE
+ER
+
+PT S
+DE micro-emulsion; surfactant; TiO2; dye sensitized solar cells;
+   photoelectric properties
+ID DOPED TIO2; PHOTOCATALYTIC DEGRADATION
+ER
+
+PT S
+DE Silver nano-silver particle; Size and its distribution; Conductivity
+ER
+
+PT S
+DE Nanoparticles; Surface area; TiO2; Tetra-n-butyl titanate
+ER
+
+PT S
+DE Zn Oxide nanowire; dye-sensitized solar cell; nano-forest
+ID NANOWIRES
+ER
+
+PT J
+DE Solar Cell; Nanoparticles; Self-Assembled Monolayer; Localized Surface
+   Plasmon Resonance
+ID EXTERNAL QUANTUM EFFICIENCY; TERMINATED SI(111) SURFACES; THIN-FILMS;
+   ZINC PHTHALOCYANINE; ENHANCEMENT; DIODES; SI; PLASMONS; DEVICES; AU
+ER
+
+PT J
+DE arrays; nanohemispheres; photovoltaic devices; silicon; solar cells
+ID THIN-FILM SILICON; PHOTOVOLTAIC APPLICATIONS; OPTICAL-ABSORPTION;
+   NANOWIRE ARRAYS; CRYSTALLINE; REFLECTION
+ER
+
+PT J
+ID INTERNAL RESISTANCE; PHOTOVOLTAIC CELLS; EQUIVALENT-CIRCUIT; IMPEDANCE
+   ANALYSIS; TIO2; PHOTOCURRENT; RECOMBINATION; PERFORMANCE; EFFICIENCY;
+   TRANSPORT
+ER
+
+PT J
+ID EFFICIENCY
+ER
+
+PT J
+DE Processing additives; Chemical additives; Organic solar cells;
+   Bulk-heterojunction; Nano-morphology; Interpenetrating network
+ID POLYMER PHOTOVOLTAIC CELLS; FIELD-EFFECT TRANSISTORS; POLYFLUORENE
+   COPOLYMER/FULLERENE BLENDS; ENERGY-CONVERSION EFFICIENCY; LOW-BANDGAP
+   POLYMER; CHARGE-TRANSPORT; CONJUGATED POLYMER; ORGANIC PHOTOVOLTAICS;
+   REGIOREGULAR POLY(3-HEXYLTHIOPHENE); INTERPENETRATING NETWORK
+ER
+
+PT J
+DE Inorganic nanostructured solar cells; Nanostructured metal oxide;
+   Extremely thin absorber; Ultra-thin nano-composite absorber; Quantum
+   dots
+ID EXTREMELY THIN ABSORBER; HIGHLY STRUCTURED
+   TIO2/IN(OH)(X)S-Y/PBS/PEDOT-PSS; IONIC-LAYER ADSORPTION; TIO2 NANOTUBE
+   ARRAYS; ZNO NANOWIRE ARRAYS; ZINC-OXIDE NANORODS; CDSE QUANTUM DOTS;
+   LOW-COST; PHOTOVOLTAIC APPLICATIONS; OPTICAL-PROPERTIES
+ER
+
+PT J
+DE Nano-Texturing; Solar Cells; Reflectance; Monocrystalline Silicon;
+   Atomic Layer Deposition; Lifetime
+ID ENERGY ION-SCATTERING; ETCHING PROCESS; SURFACE; NITRIDE; GROWTH; LAYERS
+ER
+
+PT J
+ID POLYMER ELECTROLYTE; NANOPARTICLES
+ER
+
+PT J
+DE Polyaniline; Electrodeposition; Thin films; Buffer layers; Solar cells
+ID PHOTOVOLTAIC CELLS; POLYMER; NANOWIRES; EFFICIENCY
+ER
+
+PT J
+DE Nanotechnology; Photoelectrochemical solar cells; Molecular dynamics;
+   Nanotube array
+ID EFFICIENCY; TIO2; FILM; NANOTUBES
+ER
+
+PT S
+ID FILMS
+ER
+
+PT B
+DE Silicon nanostructure; Nanostructured solar cell; Etching process
+ID POROUS SILICON
+ER
+
+PT B
+ER
+
+PT S
+DE surface plasmon; thin film solar cell; metallic nanoparticles
+ER
+
+PT S
+DE Acid texturing; Nanostructures; Solar cells
+ID CRYSTALLINE SILICON; MULTICRYSTALLINE SILICON
+ER
+
+PT J
+ID TITANIUM-OXIDE NANOTUBE; STAINLESS-STEEL SUBSTRATE; ANODIC-OXIDATION;
+   ARRAYS; FABRICATION; EFFICIENCY
+ER
+
+PT J
+ID OPTICAL-ABSORPTION ENHANCEMENT; SILICON NANOWIRE; PHOTOVOLTAIC
+   APPLICATIONS; ORDERED ARRAYS; ANODIC ALUMINA; SURFACE RECOMBINATION;
+   THIN-FILM; LITHOGRAPHY; FABRICATION; NANOSTRUCTURES
+ER
+
+PT J
+DE Nano-imprint lithography; Moth-eye; GaAs solar cell; Anti-reflection;
+   Conversion efficiency
+ID PATTERNS
+ER
+
+PT J
+DE Organic solar cell; Photoactive nano-layer; Polymer based photovoltaic
+   device; Semi-transparent cathode; Solar harvesting textile
+ID DEVICES; FIBER
+ER
+
+PT J
+DE TiO2 nano-particles; ZnO nano-rod; Dye sensitized solar cells
+ID THIN-FILMS; TEMPERATURE; ELECTRODES; LIGHT; INJECTION; GROWTH; ARRAY
+ER
+
+PT J
+DE Nano-imprint lithography; Moth-eye; Anti-reflection; Transmittance;
+   Quantum efficiency
+ID FABRICATION; LAYER
+ER
+
+PT B
+ID SOLAR-CELLS; THIN
+ER
+
+PT S
+ID LIGHT-EMITTING DEVICES; SILICON NANOCRYSTALS; 3RD-GENERATION
+   PHOTOVOLTAICS; EFFICIENCY
+ER
+
+PT S
+ER
+
+PT S
+ID REFLECTION; INDEX
+ER
+
+PT S
+DE TiO2 nano particles; SnO2 micro particles; hybrid porous film;
+   improvement in conductivity; ultrasonic spray pyrolysis
+ER
+
+PT S
+ER
+
+PT S
+DE porphyrins; carbon nano tube; textile; solar cell
+ID NANOTUBES; PHOTOCONVERSION
+ER
+
+PT S
+DE Silicon solar cells; PECVD; silicon nanocrystals; silicon rich oxide;
+   spectral down shifting; photoluminescence; power conversion efficiency;
+   modeling
+ID SPECTRAL RESPONSE; EFFICIENCY
+ER
+
+PT S
+ER
+
+PT J
+DE Polymer solar cell; Inverted polymer solar cell; Zinc oxide; Nano-ridge
+ID PHOTOVOLTAIC DEVICES; FILMS
+ER
+
+PT J
+DE refractive index; antireflection coating; nanomaterial; space Si solar
+   cells
+ID FILMS
+ER
+
+PT J
+DE Dye-sensitized solar cells; Nano-channel; Flexible
+ID LOW-TEMPERATURE; FILMS
+ER
+
+PT J
+DE BiOI; Nanostructures; Chitosan; Solar cells
+ID NANOCRYSTAL-POLYMER COMPOSITES; PHOTOELECTROCHEMICAL PROPERTIES; QUANTUM
+   DOTS; NANOPARTICLES; ELECTROCHEMISTRY; POLYTHIOPHENE; ENHANCEMENT;
+   MORPHOLOGY; NANORODS; LAYER
+ER
+
+PT J
+DE Nanostructures; Optical materials; Sol-gel growth
+ID ARTIFICIAL PHOTOSYNTHESIS; CHLOROPHYLL DERIVATIVES; FILMS;
+   PHOTOSENSITIZATION
+ER
+
+PT B
+ID COMPOSITES
+ER
+
+PT J
+DE TiO2 nano-particles; dye-sensitized solar cells; tetramethylammonium
+   hydroxide; photoelectric conversion efficiency
+ID ANATASE; MORPHOLOGY; CONVERSION; MECHANISM; LIGHT
+ER
+
+PT B
+DE nanostructures; zinc oxide; polymer solar cell; open-circuit voltage
+ID PERFORMANCE
+ER
+
+PT B
+DE nanoplates; nanowires; solar cell; n-p junction
+ID NANOWIRES; GROWTH
+ER
+
+PT S
+DE nanostructured solar cell; quantum dot; photovoltaic; nanostructures;
+   hydrodynamics; drift-diffusion; multiscale; computer-aided design;
+   intermediate band solar cells
+ID SIMULATION; SYSTEMS
+ER
+
+PT J
+ER
+
+PT S
+DE photo transistor; antenna solar cell; detector
+ER
+
+PT S
+ER
+
+PT S
+ID AMORPHOUS-SILICON
+ER
+
+PT S
+DE dye-sensitized solar cell; TiO2 electrode; spin-coating technique
+ER
+
+PT S
+DE nano-TiO2; vacuum cold spraying; dye-sensitized solar cell;
+   low-temperature fabrication
+ID ELECTRODES
+ER
+
+PT J
+DE hybrid solar cells; titanium dioxide; nano-composite
+ID CONJUGATED POLYMER; TIO2 NANOPARTICLES; PHOTOVOLTAIC CELLS; FERMI-LEVEL;
+   EFFICIENCY; NETWORK; PERFORMANCE; TITANIA; SENSOR
+ER
+
+PT J
+DE anodic oxidation; TiO2 nanotube arrays; dye-sensitized solar cell
+ID TITANIA NANOTUBES; ANODIC-OXIDATION; TEMPLATE SYNTHESIS;
+   LIGHT-SCATTERING; FABRICATION; ELECTROLYTES; ANODIZATION; ELECTRODES;
+   LENGTH; FILM
+ER
+
+PT J
+DE pc-Si : H solar cell; conductive AFM; surface topography; local reverse
+   (leakage) current; nano-scale I-V characteristics
+ID THIN-FILMS
+ER
+
+PT J
+ER
+
+PT B
+ID NANOCRYSTALLINE TIO2; CHARGE RECOMBINATION; SEMICONDUCTOR-FILMS;
+   EFFICIENCY; KINETICS; LAYERS; PBS
+ER
+
+PT J
+DE nano-structure; low-cost; TCO
+ER
+
+PT J
+ID OPEN-CIRCUIT VOLTAGE; POLYMER; EFFICIENCIES; FABRICATION; COMPOSITES;
+   TRANSPORT; NETWORKS
+ER
+
+PT J
+DE nano-composite solar cells; kinetic charge separation; solar energy
+   conversion; kinetic irreversibility
+ID ELECTRONIC-STRUCTURE CONTRIBUTIONS; SULFUR ACTIVE-SITES; TRANSFER
+   REACTIVITY; ELECTRICAL RECTIFICATION; IMAGING TECHNIQUES; DYE;
+   DEGRADATION; EFFICIENCY; PHOTODEGRADATION; INTERFACES
+ER
+
+PT J
+ID NANOCRYSTALLINE TIO2 FILMS; RUTHENIUM SENSITIZERS; COUMARIN DYES;
+   PHOTOSENSITIZATION; ELECTRODES; CONVERSION; CYANINE
+ER
+
+PT B
+DE nano-porous; porous silicon; pyramid; anti-reflection coating; solar
+   cell; reflectance
+ID SOLAR-CELLS
+ER
+
+PT J
+ID CELL APPLICATIONS; CDS; FILMS
+ER
+
+PT S
+DE electrochemistry; photoelectrochemistry; dye-sensitized TiO2;
+   nano-crystalline; solar cells
+ID ELECTROCHEMICAL MICROSCOPY; TIO2 FILMS; PHOTOCATALYSIS; INTERFACES;
+   KINETICS
+ER
+
+PT J
+ER
+
+PT S
+DE dye sensitized solar cells; gel electrolytes; quasi-solid; interface;
+   TiO2; carboxylic acids; Cole-Cole plot
+ID TEMPERATURE MOLTEN-SALTS; PHOTOELECTROCHEMICAL CELLS; POLYMER
+   ELECTROLYTES; GEL ELECTROLYTE; FILMS; RECOMBINATION; PERFORMANCE;
+   EFFICIENCY; STABILITY; GELATOR
+ER
+
+PT J
+ER
+
+PT J
+DE dye-sensitized solar cell; electron transport; nano-structured TiO2
+   electrode; iodide/polyiodide redox electrolyte
+ID TITANIUM-DIOXIDE FILMS; CHARGE RECOMBINATION KINETICS;
+   PHOTOELECTROCHEMICAL CELLS; NANOPOROUS TIO2; NANOCRYSTALLINE;
+   CONVERSION; EFFICIENCY; DYNAMICS
+ER
+
+EF

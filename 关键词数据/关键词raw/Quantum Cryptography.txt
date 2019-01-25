@@ -1,0 +1,868 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+ER
+
+PT J
+ID CLIFFORD CIRCUITS; ENTROPIC SECURITY; COMPUTATION; CRYPTOGRAPHY; SECRET
+ER
+
+PT J
+ER
+
+PT J
+DE Quantum computers; post-quantum cryptography; Shor's algorithm; Grover's
+   algorithm; asymmetric cryptography; symmetric cryptography
+ID KEY DISTRIBUTION; BLINDING ATTACK; BELL THEOREM; SECURITY; STATES; QKD
+ER
+
+PT J
+DE Quantum cryptography; Quantum key distribution; Quantum authentication;
+   Quantum public-key cryptography
+ID KEY DISTRIBUTION; BELL THEOREM; STATES; COMMUNICATION; ENTANGLEMENT;
+   SECURITY; PROTOCOL
+ER
+
+PT J
+ID CRYPTOSYSTEMS; SIGNATURES; ALGORITHM; VECTORS
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE cryptography; quantum cryptography; long-term security
+ID KEY DISTRIBUTION
+ER
+
+PT J
+ID KEY DISTRIBUTION PROTOCOL; UNCONDITIONAL SECURITY; ERROR-CORRECTION;
+   OPTICAL-FIBER; STATES; PHOTONS; PROOF
+ER
+
+PT S
+ID SIGNATURE SCHEME; GROBNER BASES; HFE; CRYPTANALYSIS; CRYPTOGRAPHY;
+   ALGORITHMS; EQUATIONS; SECURITY; QUARTZ; SYSTEM
+ER
+
+PT B
+DE Cryptography; Communication; Quantum Cryptography; Security attacks
+ER
+
+PT B
+DE quantum public key encryption model; quantum trapdoor one-way function;
+   computational indistinguishability; quantum information security;
+   quantum cryptography
+ID ASYMMETRIC CRYPTOGRAPHY; SYMMETRIC KEYS; CRYPTOSYSTEMS
+ER
+
+PT J
+ID COMMUNICATION; COMPUTERS
+ER
+
+PT J
+ER
+
+PT J
+DE Quantum key distribution; TELECOM network; Optical fibers; Quantum
+   cryptography; Quantum entanglement; Photon polarization
+ID INTERFEROMETRY; SYSTEMS
+ER
+
+PT J
+DE quantum key distribution; relativistic quantum cryptography
+ID KEY DISTRIBUTION
+ER
+
+PT S
+ER
+
+PT B
+DE Big Data; Key generation; Neural cryptography; Quantum cryptography
+ER
+
+PT S
+DE basis; classical cryptography; photons; polarization; quantum
+   cryptography; quantum key distribution protocol; qubits; quantum
+   networks; states
+ER
+
+PT J
+DE Quantum Cryptography; RSA; Quantum encryptors; Quantum computer; D-wave;
+   QKD MiTM; SQUID
+ER
+
+PT S
+ER
+
+PT J
+DE Conjugate coding; Delegated quantum computation; Limited-quantum-storage
+   models; Quantum money; Quantum two-party computation; Survey
+ID NOISY-STORAGE MODEL; BIT COMMITMENT; EXPERIMENTAL IMPLEMENTATION;
+   HOMOMORPHIC ENCRYPTION; COMPOSABLE SECURITY; ENTROPIC SECURITY; SENSOR
+   NETWORKS; BELL THEOREM; COMPUTATION; VERIFICATION
+ER
+
+PT J
+DE Single sign-on; Quantum cryptography; User authentication; GHZ states
+ID SECURE DIRECT COMMUNICATION; SECRET SHARING SCHEMES; IDENTITY
+   AUTHENTICATION; ENTANGLEMENT; CRYPTOGRAPHY; PHOTONS; ENCRYPTION
+ER
+
+PT J
+ID KEY DISTRIBUTION
+ER
+
+PT J
+DE Counterfactual quantum communication; quantum cryptography; quantum
+   network; untrusted relays
+ID KEY DISTRIBUTION; SYNCHRONIZATION
+ER
+
+PT J
+DE Single sign-on; Quantum cryptography; User authentication
+ID SECURE DIRECT COMMUNICATION; SECRET SHARING SCHEMES; IDENTITY
+   AUTHENTICATION; PHOTONS; STATES; CRYPTOGRAPHY; ENCRYPTION
+ER
+
+PT J
+DE quantum cryptography; three-stage quantum protocol; multi-photon;
+   collective-rotation noise
+ID COMMUNICATION
+ER
+
+PT J
+DE Quantum information; Post-quantum cryptography; Coding-based
+   cryptography; Digital signatures; Grover search
+ID CRYPTOSYSTEMS
+ER
+
+PT S
+DE Quantum cryptography communication; Cryptographic algorithms; Protocol
+ER
+
+PT S
+DE quantum cryptography; quantum public-key encryption; classification
+ID CRYPTOSYSTEMS; CRYPTOGRAPHY; SIGNATURES
+ER
+
+PT J
+DE Quantum information; Quantum cryptography; Singlet states; Entanglement;
+   Quantum non-locality; Value indefiniteness; Contextuality
+ID RANDOM NUMBER GENERATOR; UNBIASED RANDOM SEQUENCE; GENERALIZED URN
+   MODELS; KOCHEN-SPECKER THEOREM; HIDDEN VARIABLES; BELL THEOREM;
+   MECHANICS; LOGIC; ENTANGLEMENT; AUTOMATA
+ER
+
+PT J
+DE Single sign-on; Quantum cryptography; User authentication; Entanglement
+ID SECURE DIRECT COMMUNICATION; SECRET SHARING SCHEMES; IDENTITY
+   AUTHENTICATION; STATES; CRYPTOGRAPHY; PHOTONS; ENCRYPTION
+ER
+
+PT J
+DE quantum key distribution; BB84 protocol; SARG04 protocol; quantum
+   cryptography
+ID UNCONDITIONAL SECURITY; CRYPTOGRAPHY; STATES
+ER
+
+PT J
+ID TAILORED BRIGHT ILLUMINATION; SINGLE-PHOTON DETECTORS; FIELD-TEST;
+   COMMUNICATION-NETWORK; DISTRIBUTION-SYSTEM; COHERENT STATES; BLINDING
+   ATTACK; RANDOM NUMBERS; HIGH-SPEED; CRYPTOGRAPHY
+ER
+
+PT J
+DE Single sign-on; Quantum cryptography; User authentication;
+   Non-entanglement
+ID SECURE DIRECT COMMUNICATION; SECRET SHARING SCHEMES; IDENTITY
+   AUTHENTICATION; STATES; CRYPTOGRAPHY; PHOTONS; ENCRYPTION
+ER
+
+PT J
+DE Single sign-on; Quantum cryptography; User authentication
+ID SECURE DIRECT COMMUNICATION; SECRET SHARING SCHEMES; IDENTITY
+   AUTHENTICATION; STATES; PHOTONS; ENCRYPTION
+ER
+
+PT S
+DE Arbitrated quantum signature; Quantum cryptography
+ID KEY DISTRIBUTION; BELL THEOREM; SECURITY; SECRET
+ER
+
+PT J
+DE Single Sign-On; Quantum cryptography; User authentication
+ID SECURE DIRECT COMMUNICATION; SECRET SHARING SCHEMES; IDENTITY
+   AUTHENTICATION; ENTANGLEMENT; STATES; PHOTONS; ENCRYPTION
+ER
+
+PT B
+ID ALGORITHM
+ER
+
+PT J
+ER
+
+PT B
+DE BB84 Protocol; QKD Protocol Implementation; Quantum Cryptography; Qubits
+ER
+
+PT S
+DE Quantum key distribution; Quantum commitment; Bounded quantum storage
+   model; Position-based quantum cryptography; Post-quantum cryptography
+ID STORAGE MODEL
+ER
+
+PT J
+DE Quantum cryptography; quantum key distribution; access protocols
+ER
+
+PT J
+DE quantum key distribution; network
+ID KEY DISTRIBUTION; SECURITY
+ER
+
+PT B
+DE Qubit; quantum cryptography; Grover algorithm
+ER
+
+PT B
+DE Quantum Cryptography; Quantum key distribution; BB84 Protocol
+ER
+
+PT S
+DE determined key distribution protocol; quantum cryptography;
+   non-orthogonal quantum states; quantum measurement; security
+ID UNCONDITIONAL SECURITY; BELL THEOREM; CRYPTOGRAPHY
+ER
+
+PT S
+DE quantum computation; quantum information processing; quantum circuits;
+   quantum cryptography; quantum compilers
+ID ACCURACY THRESHOLD; FOURIER-TRANSFORM; COMPUTATION; CIRCUIT;
+   ARCHITECTURE; ALGORITHMS
+ER
+
+PT S
+DE unicity distance; quantum unicity distance; quantum private key
+   encryption; quantum probabilistic encryption
+ID CRYPTOGRAPHY; ENCRYPTION; SECURITY; CHANNELS
+ER
+
+PT S
+DE quantum cryptography; quantum public-key encryption;
+   information-theoretic security; chosen plaintext attack;
+   ciphertext-indistinguishability
+ID CRYPTOSYSTEMS
+ER
+
+PT J
+ID KEY-DISTRIBUTION; DAYLIGHT; STATES; FIBER
+ER
+
+PT J
+ID ELECTROMAGNETICALLY INDUCED TRANSPARENCY; SINGLE-PHOTON SOURCE;
+   ENTANGLEMENT PURIFICATION; DOWN-CONVERSION; TELECOM FIBER; LIGHT; STATE;
+   MEMORY; COMMUNICATION; TELEPORTATION
+ER
+
+PT J
+DE Quantum secret sharing; Quantum cryptography; Quantum information
+   processing; Quantum communication
+ID ENTANGLEMENT
+ER
+
+PT J
+ID SINGLE-PHOTON; ATOMIC ENSEMBLES; TRAPPED ATOM; COMMUNICATION; LIGHT;
+   MATTER
+ER
+
+PT J
+ID SWITCHING ELECTRIC-FIELDS; SINGLE-PHOTON SOURCE; ATOMIC ENSEMBLES;
+   RUBIDIUM VAPOR; SPIN MEMORY; LIGHT; ENTANGLEMENT; STATE; MATTER; DOT
+ER
+
+PT J
+DE Quantum cryptography; Quantum information theory; Hilbert space
+   formalism; Key distribution; Secure cooperation
+ID PRIVACY AMPLIFICATION; KEY DISTRIBUTION; UNCONDITIONAL SECURITY; BIT
+   COMMITMENT; BELL THEOREM; UNCERTAINTY; PROOF; PROTOCOL; STATES
+ER
+
+PT J
+DE modern cryptography; quantum key distribution; unconditional security
+ID KEY DISTRIBUTION; SECURITY
+ER
+
+PT J
+DE quantum cryptography; photonic network; quantum network
+ID STATES
+ER
+
+PT B
+DE YinYang Bipolar Relativity; Logically Definable Causality; Bipolar
+   Qubit; Bipolar Quantum Entanglement; Bipolar Teleportation; Bipolar
+   Cryptography; Unification
+ID DECISION
+ER
+
+PT J
+ID CRYPTOGRAPHY; SYSTEM; FIBER; PLUG
+ER
+
+PT S
+DE code-based cryptography; post-quantum cryptography
+ER
+
+PT S
+DE Quantum Cryptography; QKD; BB84; Entanglement
+ID KEY DISTRIBUTION; BELL THEOREM
+ER
+
+PT S
+DE Quantum cryptography; Quantum communication; BB84 protocol; SARG04
+   protocol; Depolarizing channel
+ID KEY DISTRIBUTION; ENTANGLEMENT; DAYLIGHT
+ER
+
+PT J
+DE quantum cryptography; public-key cryptography; entanglement
+ID PRIVACY AMPLIFICATION; NOISY CHANNELS; SECURITY; STATES; ENTANGLEMENT;
+   PURIFICATION; ENSEMBLES; SYSTEM
+ER
+
+PT J
+DE optical networks; optical burst switching; cryptography; quantum
+   cryptography; key distribution
+ID KEY DISTRIBUTION; OBS
+ER
+
+PT J
+DE quantum cryptography; quantum optics
+ID QUANTUM KEY DISTRIBUTION; NUMBER STATISTICS; EMISSION; SECURITY; STATES;
+   DOT; CRYPTOGRAPHY; MICROCAVITY; TURNSTILE; DIAMOND
+ER
+
+PT J
+ER
+
+PT J
+ID CRYPTOGRAPHY; SECURITY; NUMBER
+ER
+
+PT J
+ID OPTICAL-FIBER NETWORKS; STATES ATTACK; BELL THEOREM; CRYPTOGRAPHY;
+   SECURITY; CRYPTOSYSTEMS; REPEATERS; PLUG; TIME; FLOW
+ER
+
+PT J
+ER
+
+PT J
+DE quantum communication; quantum optics; quantum theory
+ID ELECTROMAGNETICALLY INDUCED TRANSPARENCY; PHOTON-ECHOES; COMMUNICATION;
+   ENTANGLEMENT; ENSEMBLES; LIGHT
+ER
+
+PT J
+DE cryptographic protocols; quantum computing; quantum cryptography;
+   quantum optics
+ID QUANTUM CRYPTOGRAPHY; STATES
+ER
+
+PT J
+ER
+
+PT J
+DE pulmonary hypertension; connective tissue disease; systemic sclerosis;
+   systemic lupus erythematosus; survival
+ID SYSTEMIC-LUPUS-ERYTHEMATOSUS; SCLERODERMA SPECTRUM; BOSENTAN TREATMENT;
+   CONTROLLED-TRIAL; SCLEROSIS; SURVIVAL; REGISTRY
+ER
+
+PT B
+DE quantum cryptography; quantum cloning; quantum relative entropy
+ER
+
+PT B
+DE optical networks; quantum cryptography; quantum divergence
+ER
+
+PT B
+DE Quantum cryptography; 802.11i; BB84; PTK; QKD
+ER
+
+PT J
+ID ELECTROMAGNETICALLY INDUCED TRANSPARENCY; QUANTUM COMMUNICATION; ATOMIC
+   ENSEMBLES
+ER
+
+PT J
+ID CHANNELS
+ER
+
+PT J
+DE quantum cryptography; quantum secret communication; W state
+ID BELL THEOREM; TELEPORTATION; CRYPTOGRAPHY; SCHEME
+ER
+
+PT J
+ID CRYPTOGRAPHY; PHOTONS
+ER
+
+PT J
+DE pulmonary hypertension; thromboembolism; endarterectomy; survival; drug
+   therapy
+ID LONG-TERM TREATMENT; BOSENTAN THERAPY; FOLLOW-UP; EMBOLISM;
+   THROMBOENDARTERECTOMY; ENDARTERECTOMY; EXPERIENCE; SILDENAFIL
+ER
+
+PT J
+ID MIXED-STATE ENTANGLEMENT; BOUND ENTANGLEMENT; KEY DISTRIBUTION; NOISY
+   CHANNELS; SECURITY; AMPLIFICATION; CRYPTOGRAPHY
+ER
+
+PT J
+ID CRYPTOGRAPHY; MODES
+ER
+
+PT S
+DE quantum cryptography; CHSH inequality; E91
+ID ENTANGLED PHOTON PAIRS; BELL THEOREM; CRYPTOGRAPHY
+ER
+
+PT S
+DE wireless sensor networks; quantum cryptography; quantum teleportation;
+   entanglement swapping
+ID BELL THEOREM; CRYPTOGRAPHY; STATE
+ER
+
+PT J
+ER
+
+PT J
+DE 03; 65; Bz; 03; 67; Db
+ER
+
+PT J
+ID KEY DISTRIBUTION; BELL THEOREM; ENTANGLEMENT; STATES
+ER
+
+PT J
+ID ELECTROMAGNETICALLY INDUCED TRANSPARENCY; SOLID-STATE; ATOMIC ENSEMBLES;
+   COMMUNICATION; STORAGE; PULSES; LIGHT
+ER
+
+PT J
+ID CRYPTOGRAPHY
+ER
+
+PT J
+ER
+
+PT J
+ID KEY DISTRIBUTION EXPERIMENT; UP-CONVERSION DETECTORS; PODOLSKY-ROSEN
+   CHANNELS; BELL INEQUALITY; ATOMIC ENSEMBLES; NOISY CHANNELS;
+   TELEPORTATION; CRYPTOGRAPHY; ENTANGLEMENT; PHOTONS
+ER
+
+PT J
+ER
+
+PT J
+ID CRYPTOGRAPHY
+ER
+
+PT B
+ID TELECOM FIBER
+ER
+
+PT J
+DE theory; security; algorithms; experimentation; quantum bit commitment;
+   quantum cryptography; quantum key; distribution
+ID ONE-WAY PERMUTATIONS; KEY DISTRIBUTION; DISCRETE LOGARITHMS; COMPLEXITY
+   THEORY; BIT COMMITMENT; SECRET KEY; STATES; SETS; CRYPTOSYSTEM; SECURITY
+ER
+
+PT S
+ID MECHANICS; THEOREM
+ER
+
+PT S
+DE classical cryptography; quantum cryptography; quantum computer; quantum
+   ommunications
+ER
+
+PT S
+DE quantum cryptography; quantum key distribution; eavesdropping
+ID QUANTUM CRYPTOGRAPHY; INFORMATION
+ER
+
+PT B
+ID INFORMATION
+ER
+
+PT S
+DE information security; optical quantum cryptography; quantum key
+   distribution; channel eavesdropping; single photon devices; quantum
+   cryptographic protocols
+ID JOHNSON LIKE NOISE; SECURE
+ER
+
+PT B
+ID BIT COMMITMENT; SIGNATURE SCHEME; CODES; KEY
+ER
+
+PT J
+ID KEY; STATES; RECONCILIATION; ENTANGLEMENT
+ER
+
+PT J
+DE quantum key distribution; quantum information; information versus
+   disturbance; quantum security
+ID UNCONDITIONAL SECURITY; PRIVACY AMPLIFICATION; COLLECTIVE ATTACKS;
+   CRYPTOGRAPHY; INFORMATION
+ER
+
+PT J
+ID AGREEMENT; CRYPTOGRAPHY; INFORMATION
+ER
+
+PT J
+DE quantum cryptography
+ID KEY DISTRIBUTION; STATES
+ER
+
+PT J
+ID SECURE KEY EXCHANGE; DAYLIGHT; STATES
+ER
+
+PT J
+DE quantum information science; quantum cryptography; secure communication
+   protocol
+ER
+
+PT J
+ID BIT COMMITMENT
+ER
+
+PT J
+ID QUANTUM CRYPTOGRAPHY; BELL THEOREM; MECHANICS
+ER
+
+PT J
+ID CLONING
+ER
+
+PT J
+ER
+
+PT J
+ID CRYPTOGRAPHY; SECURITY; PLUG
+ER
+
+PT J
+DE quantum identification; quantum cryptography; cryptography; phase
+   modulation
+ID KEY DISTRIBUTION; UNCONDITIONAL SECURITY; CRYPTOGRAPHY
+ER
+
+PT B
+ER
+
+PT J
+DE computational cryptography; quantum computing; quantum cryptography
+ID ONE-WAY PERMUTATIONS; STATISTICAL ZERO-KNOWLEDGE; HIDDEN SUBGROUP
+   PROBLEM; BIT COMMITMENT; OBLIVIOUS TRANSFER; PROOF SYSTEMS; LATTICE;
+   ALGORITHMS; COMPLEXITY; LANGUAGES
+ER
+
+PT S
+DE quantum cryptography; quantum key distribution; quantum channel
+ID KEY DISTRIBUTION; SECURITY
+ER
+
+PT S
+DE quantum cryptography; no-key protocol; identification
+ER
+
+PT J
+ID ONE-WAY PERMUTATIONS; HIDDEN SUBGROUP PROBLEM; BIT COMMITMENT; UNIVERSAL
+   TEST; ENCRYPTION; SECURITY; SCHEMES
+ER
+
+PT S
+DE quantum communication; quantum repeater; entanglement; NV center
+ID KEY DISTRIBUTION; NOISY CHANNELS; SINGLE PHOTONS; ENTANGLEMENT;
+   CRYPTOGRAPHY; CANNOT; PURIFICATION
+ER
+
+PT S
+ID CLASSICAL INFORMATION; THEOREM
+ER
+
+PT S
+DE quantum cryptography; quantum key distribution; quantum communication;
+   entanglement
+ID QUANTUM CRYPTOGRAPHY
+ER
+
+PT S
+ID UNCONDITIONAL SECURITY; CRYPTOGRAPHY; WALKS
+ER
+
+PT S
+DE quantum cryptography; reconciliation; privacy amplification; BB84; renyi
+   entropy
+ID PRIVACY AMPLIFICATION
+ER
+
+PT J
+ID CRYPTOGRAPHY; GENERATION; SECURITY
+ER
+
+PT J
+ID COMMUNICATION; ENTANGLEMENT; STATE
+ER
+
+PT J
+ID EXPERIMENTAL REALIZATION; INFORMATION-THEORY; OPTIMAL UNIVERSAL; PURE
+   STATES; CRYPTOGRAPHY; COMMUNICATION; ENTANGLEMENT; AMPLIFICATION;
+   AMPLIFIERS; MACHINES
+ER
+
+PT J
+ID FREQUENCY UP-CONVERSION; SINGLE-PHOTON; BELL INEQUALITIES; WAVE-GUIDE;
+   ENTANGLEMENT; VIOLATION; COMMUNICATION; REALIZATION; WAVELENGTHS; GATE
+ER
+
+PT J
+ID DOT
+ER
+
+PT J
+ID DAYTIME SLEEPINESS; RANDOMIZED-TRIAL; DOSE-RESPONSE; PERFORMANCE;
+   DEPRIVATION; WAKEFULNESS; NIGHT; PATHOPHYSIOLOGY; CONSEQUENCES;
+   RESTRICTION
+ER
+
+PT J
+ID ENTANGLEMENT; CRYPTOGRAPHY; STATE
+ER
+
+PT J
+ID FREE-RADICAL POLYMERIZATION; FRAGMENTATION CHAIN TRANSFER; PROPAGATION
+   RATE COEFFICIENT; PULSED-LASER POLYMERIZATION; EVALUATED RATE
+   COEFFICIENTS; BUTYL ACRYLATE; BLOCK-COPOLYMERS; TRANSFER AGENTS;
+   MINIEMULSION POLYMERIZATION; CHARACTERISTIC RATIO
+ER
+
+PT J
+DE quantum identification; quantum cryptography; cryptography
+ID KEY DISTRIBUTION; SYSTEM
+ER
+
+PT J
+ER
+
+PT J
+ID CLASSICAL INFORMATION; THEOREM
+ER
+
+PT J
+ID CRYPTOGRAPHY
+ER
+
+PT J
+ID INFORMATION
+ER
+
+PT J
+ID SECRET; SHARE
+ER
+
+PT J
+DE optical quantum-information processing; quantum cryptography
+ID KEY DISTRIBUTION; STATES
+ER
+
+PT S
+ER
+
+PT J
+ID UNCONDITIONAL SECURITY; BELL THEOREM; CRYPTOGRAPHY; PROOF
+ER
+
+PT J
+ER
+
+PT J
+ID KEY DISTRIBUTION; STATES
+ER
+
+PT S
+ID CRYPTOGRAPHY
+ER
+
+PT S
+DE quantum cryptography; quantum key distribution; entangling probe;
+   optimization
+ID QUANTUM CRYPTOGRAPHY
+ER
+
+PT J
+DE error probability; quantum cryptography; quantum detection theory;
+   quantum mixed state signals; square-root measurement
+ID CLASSICAL INFORMATION; CHANNEL; CAPACITY; SUPERADDITIVITY
+ER
+
+PT J
+DE quantum cryptography; photonics; security
+ER
+
+PT J
+DE quantum cryptography; nonlinear optics; fibers
+ER
+
+PT J
+ID BIT COMMITMENT
+ER
+
+PT J
+DE quantum key distribution; Bell operator; entanglement swapping
+ID CRYPTOGRAPHY; THEOREM
+ER
+
+PT J
+ID PODOLSKY-ROSEN CHANNELS; QUANTUM TELEPORTATION; ENTANGLED PHOTONS;
+   STATE; COMMUNICATION; OPERATIONS
+ER
+
+PT S
+DE quantum cryptography; quantum network; wavelength division multiplexing.
+ID CRYPTOGRAPHY
+ER
+
+PT J
+ER
+
+PT J
+DE quantum cryptography; quantum key distribution
+ID INDIVIDUAL ATTACKS; NOISY CHANNELS; BELL THEOREM; CRYPTOGRAPHY;
+   INFORMATION; AGREEMENT; PROTOCOL; STATES
+ER
+
+PT J
+ID CURRENT SITUATION; DENSITY-MATRICES; NOISY CHANNELS; CRYPTOGRAPHY;
+   SEPARABILITY; MECHANICS
+ER
+
+PT J
+ID PRIVACY AMPLIFICATION; CRYPTOGRAPHY; ATTACKS
+ER
+
+PT J
+ID CRYPTOGRAPHY
+ER
+
+PT J
+DE quantum key verification; quantum cryptography; quantum physics;
+   cryptography
+ID ENTANGLEMENT
+ER
+
+PT J
+ID OPTIMAL CLONING
+ER
+
+PT J
+ID CRYPTOGRAPHY; CLONING; INFORMATION; PROTOCOL
+ER
+
+PT J
+ID QUANTUM KEY DISTRIBUTION; ERROR-CORRECTING CODES; CRYPTOGRAPHY;
+   CHANNELS; SECURITY; PURIFICATION; PROTOCOL; STATE
+ER
+
+PT J
+ER
+
+PT S
+ID CRYPTOGRAPHY; UNIVERSAL; NETWORKS; GATES; ALGORITHM
+ER
+
+PT S
+DE quantum cryptography; quantum information; free space optics
+ID KEY DISTRIBUTION; OPTICAL-FIBER
+ER
+
+PT J
+ID PHOTON-CORRELATION MEASUREMENTS; SILICON AVALANCHE PHOTODIODES;
+   SINGLE-MOLECULE FLUORESCENCE; HIDDEN-VARIABLE THEORIES; RANDOM NUMBER
+   GENERATOR; OPTICAL-FIBER NETWORKS; KEY DISTRIBUTION; PRIVACY
+   AMPLIFICATION; ENTANGLED PHOTONS; BELL INEQUALITY
+ER
+
+PT J
+ID ENTANGLED PHOTONS; BELL STATES; CRYPTOGRAPHY; INEQUALITIES; VIOLATION;
+   THEOREM; TESTS
+ER
+
+PT J
+ID NOISY ENTANGLEMENT; DENSITY-MATRICES; STATES; INEQUALITIES;
+   PURIFICATION; NONLOCALITY
+ER
+
+PT J
+DE estrogen; alklyphenol; medaka; intersex; effluent
+ID CHROMATOGRAPHY MASS-SPECTROMETRY; PERSISTENT ORGANIC-CHEMICALS;
+   GAS-CHROMATOGRAPHY; GONADAL DEVELOPMENT; TESTIS-OVA; IN-VITRO;
+   17-BETA-ESTRADIOL; XENOESTROGENS; VITELLOGENIN; NONYLPHENOL
+ER
+
+PT J
+ID VIOLATION
+ER
+
+PT J
+ID FREE-SPACE; CRYPTOGRAPHY; CANNOT
+ER
+
+PT J
+ER
+
+PT J
+ID OPTICAL-FIBER; INEQUALITY; VIOLATION; COMMUNICATION
+ER
+
+PT J
+DE quantum key distribution; quantum cryptography; quantum information
+ID ORTHOGONAL STATES; PRIVACY AMPLIFICATION; INFORMATION GAIN;
+   CRYPTOGRAPHY; SECURITY; PROTOCOL
+ER
+
+PT J
+ID PRIVACY AMPLIFICATION; CRYPTOGRAPHY; FIBER
+ER
+
+PT J
+ER
+
+PT J
+ID BROILER-CHICKENS; METABOLIZABLE ENERGY; POLYSACCHARIDE
+ER
+
+PT J
+ID BELL-INEQUALITY; HIGH-VISIBILITY; ENTANGLEMENTS; CRYPTOGRAPHY; THEOREM;
+   STATE; PAIRS
+ER
+
+PT J
+ID WAVE-FUNCTION APPROACH; DISSIPATIVE PROCESSES; STATE DIFFUSION;
+   DECOHERENT HISTORIES; EQUATION; OPTICS; JUMPS
+ER
+
+EF
