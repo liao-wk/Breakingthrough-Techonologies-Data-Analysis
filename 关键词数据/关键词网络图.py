@@ -8,9 +8,9 @@ import numpy as np
 import pandas as pd
 
 MG = nx.MultiGraph()
-plt.figure(figsize=(25, 25))
-os.chdir("F:\\大道之君\\Breakingthrough-Techonologies-Data-Analysis\\关键词数据\\关键词Data")
-fileName = "Microphotonics"
+plt.figure(figsize=(15, 15))
+fileName = "Quantum Cryptography"
+os.chdir("F:\\大道之君\\Breakingthrough-Techonologies-Data-Analysis\\关键词数据\\关键词Data\\"+fileName)
 filename = fileName + '.json'
 file = open(filename)
 line_num = 0  # 设置初始行号为0
