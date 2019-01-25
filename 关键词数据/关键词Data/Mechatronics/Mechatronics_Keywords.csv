@@ -1,0 +1,261 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,mechatronics,56,mechatronics,162
+1,mechatronics education,17,mechatronics education,37
+2,engineering education,9,engineering education,18
+3,education,7,education,18
+4,automation,4,automation,17
+5,mechatronics engineering,4,teaching,10
+6,teaching,3,robotics,10
+7,design methodology,3,curriculum,9
+8,robotics,3,mechatronics engineering,8
+9,mechanical engineering,2,design methodology,8
+10,motion control,2,modelling,8
+11,study programs,2,simulation,8
+12,mechatronics systems,2,integration,8
+13,curriculum,2,mechanical engineering,7
+14,arduino,2,systems,7
+15,project-based learning,2,motion control,6
+16,mobile robotics,2,mechatronics systems,6
+17,project based learning,2,mechatronics design,6
+18,application,2,course development,6
+19,curriculum development,2,method of delivery,6
+20,mechatronics design,2,ncs,5
+21,modelling,2,college,5
+22,simulation,2,republic of korea,5
+23,integration,2,arduino,5
+24,systems,2,project-based learning,5
+25,course development,2,application,5
+26,method of delivery,2,fuzzy logic,5
+27,design criteria,1,genetic algorithms,5
+28,design evaluation,1,japan,5
+29,conceptual mechatronics design,1,neural,5
+30,actuator,1,actuator,4
+31,sensing,1,sensing,4
+32,control,1,control,4
+33,pneumatics,1,pneumatics,4
+34,lab design,1,study programs,4
+35,user centered design,1,mobile robotics,4
+36,industry-based training,1,project based learning,4
+37,articulated learning,1,embedded control,4
+38,disturbance observer,1,working model,4
+39,kalman filter,1,special robot,4
+40,haptics,1,amusement,4
+41,cps,1,robot sensing systems,4
+42,design methodologies,1,service robots,4
+43,energetic approach,1,surgery,4
+44,review,1,mobile,4
+45,present situation,1,microcontroller,4
+46,developing trend,1,assembler,4
+47,bilingual teaching,1,programming,4
+48,project-based teaching,1,curriculum development,4
+49,control engineering,1,design management,4
+50,embedded systems,1,branding,4
+51,education laboratory,1,communities,4
+52,paper mechatronics,1,perceived,4
+53,training in mechatronics systems,1,machine,4
+54,content management,1,textile,4
+55,didactic,1,system,4
+56,rm-odp,1,equipment,4
+57,event b,1,interdisciplinary,4
+58,qos requirements,1,learning,4
+59,research methodology,1,knowledge space,4
+60,ncs,1,hafm,4
+61,college,1,generalized impedance,4
+62,republic of korea,1,quadripole,4
+63,sino-german university of applied sciences,1,bond-graph,4
+64,mechatronics educational material,1,training,4
+65,scilab/xcos,1,communication,4
+66,hardware,1,manufacturing,4
+67,controller,1,team building,4
+68,washing machine,1,project-based,4
+69,competition based learning,1,abet,4
+70,project practice,1,3-d animation,4
+71,innovative thinking,1,electromechanical,4
+72,musical mechatronics,1,small,4
+73,mechatronics retention,1,lab design,3
+74,robots,1,user centered design,3
+75,fault diagnose,1,disturbance observer,3
+76,parity vector,1,kalman filter,3
+77,subspace identification mechatronics,1,haptics,3
+78,artifact,1,cps,3
+79,student projects,1,design methodologies,3
+80,virtual prototype,1,energetic approach,3
+81,physical prototype,1,review,3
+82,miniature,1,present situation,3
+83,3d printers,1,developing trend,3
+84,modeling and simulation,1,control engineering,3
+85,agile methods,1,embedded systems,3
+86,capstone course,1,education laboratory,3
+87,design-centric,1,rm-odp,3
+88,graphical human interface,1,event b,3
+89,experimental module,1,qos requirements,3
+90,monitoring,1,mechatronics educational material,3
+91,skill analysis,1,scilab/xcos,3
+92,assistive control,1,hardware,3
+93,remote control,1,artifact,3
+94,monitoring and control,1,virtual prototype,3
+95,web-based learning,1,physical prototype,3
+96,embedded control,1,miniature,3
+97,working model,1,agile methods,3
+98,special robot,1,capstone course,3
+99,amusement,1,design-centric,3
+100,mechatronics technology,1,graphical human interface,3
+101,coal mine machinery,1,experimental module,3
+102,micro-nano-mechatronics,1,monitoring,3
+103,micro-nano-robotics,1,remote control,3
+104,technological and cross-border mixture value chain,1,monitoring and control,3
+105,pluri-disciplinary,1,web-based learning,3
+106,construction machinery,1,micro-nano-mechatronics,3
+107,development trends,1,micro-nano-robotics,3
+108,competency analysis,1,construction machinery,3
+109,delphi technique,1,development trends,3
+110,theoretical teaching and practical teaching,1,microcontroller kit,3
+111,group project-based approach,1,distance lab,3
+112,microcontroller kit,1,virtual lab,3
+113,distance lab,1,learning methodology,3
+114,virtual lab,1,engineers,3
+115,learning methodology,1,associations,3
+116,engineers,1,jordan,3
+117,associations,1,control quality,3
+118,jordan,1,matlab gui,3
+119,mechatronics association,1,mechatronics system control,3
+120,social network,1,simulink,3
+121,local economy,1,miniaturisation,3
+122,cultivation system,1,customisation,3
+123,modularization,1,future trends in visceral,3
+124,mechatronics products,1,multirate,3
+125,product design process,1,motion control system,3
+126,control quality,1,sampling,3
+127,matlab gui,1,conceptual design,3
+128,mechatronics system control,1,models,3
+129,simulink,1,textile equipment,3
+130,robot sensing systems,1,machine design,3
+131,service robots,1,textile technology,3
+132,surgery,1,modular design,3
+133,mobile,1,modular modeling,3
+134,miniaturisation,1,module interface,3
+135,customisation,1,robot,3
+136,future trends in visceral,1,hardware design,3
+137,microcontroller,1,robotics systems,3
+138,assembler,1,software design,3
+139,programming,1,education methodology,3
+140,multirate,1,vocational schools,3
+141,motion control system,1,curriculum analysis,3
+142,sampling,1,branch,3
+143,conceptual design,1,course evaluation,3
+144,models,1,course structure,3
+145,textile equipment,1,mechatronic,3
+146,machine design,1,adult education,3
+147,textile technology,1,distance learning,3
+148,design management,1,remote laboratory,3
+149,branding,1,educational platform,3
+150,communities,1,'mechatron',3
+151,perceived,1,component-handling,3
+152,modular design,1,dimensional inspection,3
+153,modular modeling,1,flexibility,3
+154,module interface,1,automatisation,3
+155,robot,1,microcontroller education,3
+156,hardware design,1,mc68hci1,3
+157,robotics systems,1,evaluation boards,3
+158,software design,1,sensors,3
+159,german universities of applied sciences,1,actuators,3
+160,machine,1,laboratory undergraduate,3
+161,textile,1,engineering design,3
+162,system,1,myth and reality,3
+163,equipment,1,mems,3
+164,education methodology,1,microrobots,3
+165,vocational schools,1,overview,3
+166,curriculum analysis,1,controls,3
+167,branch,1,modeling,3
+168,laboratory,1,design integration,3
+169,hands-on skills,1,design criteria,2
+170,course evaluation,1,design evaluation,2
+171,course structure,1,conceptual mechatronics design,2
+172,mechatronic,1,industry-based training,2
+173,graphical representation,1,articulated learning,2
+174,definition,1,bilingual teaching,2
+175,project development,1,project-based teaching,2
+176,dc motor control,1,training in mechatronics systems,2
+177,lithuania,1,content management,2
+178,mechanical engineering curriculum,1,didactic,2
+179,adult education,1,research methodology,2
+180,distance learning,1,controller,2
+181,remote laboratory,1,washing machine,2
+182,mechatronic system,1,competition based learning,2
+183,history of science,1,project practice,2
+184,mechanical design,1,innovative thinking,2
+185,technical communication,1,musical mechatronics,2
+186,curriculum design,1,mechatronics retention,2
+187,international collaboration,1,robots,2
+188,interdisciplinary,1,fault diagnose,2
+189,learning,1,parity vector,2
+190,knowledge space,1,subspace identification mechatronics,2
+191,hafm,1,student projects,2
+192,micro-mechatronic concepts,1,3d printers,2
+193,intelligent systems,1,modeling and simulation,2
+194,advanced robotics,1,skill analysis,2
+195,educational platform,1,assistive control,2
+196,'mechatron',1,mechatronics technology,2
+197,mechatronics curriculum development,1,coal mine machinery,2
+198,mechatronics study in the middle,1,competency analysis,2
+199,component-handling,1,delphi technique,2
+200,human adaptive mechatronics,1,group project-based approach,2
+201,identification of human dynamic,1,local economy,2
+202,dimensional inspection,1,cultivation system,2
+203,flexibility,1,modularization,2
+204,automatisation,1,mechatronics products,2
+205,generalized impedance,1,product design process,2
+206,quadripole,1,german universities of applied sciences,2
+207,bond-graph,1,laboratory,2
+208,training,1,hands-on skills,2
+209,precision mechatronics,1,graphical representation,2
+210,nanometrology,1,definition,2
+211,design of nanomeasuring machines,1,project development,2
+212,virtual instrumentation,1,dc motor control,2
+213,computer-based projects,1,lithuania,2
+214,mechatronics course,1,mechanical engineering curriculum,2
+215,education turkey,1,mechatronic system,2
+216,simultaneous and concurrent,1,history of science,2
+217,communication,1,mechanical design,2
+218,manufacturing,1,technical communication,2
+219,industry-university collaboration,1,curriculum design,2
+220,mechatronics courses,1,international collaboration,2
+221,transurethral resection of the prostate,1,micro-mechatronic concepts,2
+222,mechatronics in medicine,1,intelligent systems,2
+223,microcontroller education,1,advanced robotics,2
+224,mc68hci1,1,precision mechatronics,2
+225,evaluation boards,1,nanometrology,2
+226,sensors,1,design of nanomeasuring machines,2
+227,actuators,1,virtual instrumentation,2
+228,laboratory undergraduate,1,computer-based projects,2
+229,mechatronics evolution,1,mechatronics course,2
+230,didactical analysis,1,education turkey,2
+231,uav,1,simultaneous and concurrent,2
+232,robotic platform,1,mechatronics evolution,2
+233,graduate-level mechatronics course,1,didactical analysis,2
+234,hands-on,1,uav,2
+235,engineering design,1,robotic platform,2
+236,design curriculum,1,graduate-level mechatronics course,2
+237,design engineering,1,hands-on,2
+238,myth and reality,1,design curriculum,2
+239,mems,1,design engineering,2
+240,microrobots,1,integrated mechatronics,2
+241,overview,1,training laboratory,2
+242,integrated mechatronics,1,skills development,2
+243,training laboratory,1,tertiary education,2
+244,skills development,1,course contents,2
+245,tertiary education,1,paper mechatronics,1
+246,course contents,1,sino-german university of applied sciences,1
+247,controls,1,technological and cross-border mixture value chain,1
+248,modeling,1,pluri-disciplinary,1
+249,design integration,1,theoretical teaching and practical teaching,1
+250,team building,1,mechatronics association,1
+251,project-based,1,social network,1
+252,abet,1,mechatronics curriculum development,1
+253,3-d animation,1,mechatronics study in the middle,1
+254,electromechanical,1,human adaptive mechatronics,1
+255,small,1,identification of human dynamic,1
+256,fuzzy logic,1,industry-university collaboration,1
+257,genetic algorithms,1,mechatronics courses,1
+258,japan,1,transurethral resection of the prostate,1
+259,neural,1,mechatronics in medicine,1

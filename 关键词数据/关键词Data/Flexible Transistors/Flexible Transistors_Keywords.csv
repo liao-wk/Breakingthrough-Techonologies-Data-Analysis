@@ -1,0 +1,222 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,flexible electronics,16,flexible electronics,44
+1,flexible,10,flexible,31
+2,graphene,8,graphene,29
+3,transistors,5,transistors,17
+4,thin-film transistors,5,thin-film transistors,15
+5,nanocrystals,5,transistor,15
+6,thin film transistors,4,flexible transistor,13
+7,transistor,4,organic,11
+8,organic,4,nanocrystals,11
+9,flexible transistor,4,thin film,11
+10,organic semiconductors,3,thin film transistors,8
+11,thin film,3,organic semiconductors,8
+12,flexible devices,2,gold nanorods,8
+13,zinc oxide,2,ctab,8
+14,thin-film transistor (tft),2,zinc oxide,7
+15,flexible memory,2,self-assembly,7
+16,thin-film,2,field-effect transistor,7
+17,organic electronics,2,quantum dots,7
+18,graphene oxide,2,printing,7
+19,thin-film transistor,2,superlattice,7
+20,si nanomembrane,2,flexible memory,6
+21,self-assembly,2,organic electronics,6
+22,upconversion,2,graphene oxide,6
+23,nanophosphor,2,flexible devices,5
+24,field-effect transistor,2,thin-film transistor (tft),5
+25,gold nanorods,2,thin-film,5
+26,ctab,2,thin-film transistor,5
+27,flexible display,2,demodulators,5
+28,quantum dots,2,antenna,5
+29,printing,2,am radio receiver,5
+30,superlattice,2,circuit,5
+31,cut-off frequency,1,si nanomembrane,5
+32,spin-on glass (sog),1,upconversion,5
+33,thin-film transistors (tfts),1,nanophosphor,5
+34,leds,1,leds,4
+35,wavy,1,wavy,4
+36,oxide semiconductor,1,semiconductors,4
+37,dual-gate,1,high-mobility,4
+38,igzo,1,layer,4
+39,semiconductors,1,hole,4
+40,high-mobility,1,fets,4
+41,layer,1,tin dioxide,4
+42,hole,1,electrolyte gating,4
+43,fets,1,ionic liquids,4
+44,nonvolatile memory,1,patterning,4
+45,vertical,1,flexible 2d nanoelectronics,4
+46,tin dioxide,1,cvd mos2,4
+47,electrolyte gating,1,black phosphorus,4
+48,ionic liquids,1,thz,4
+49,patterning,1,complementary circuit,4
+50,nanowires,1,inverter,4
+51,sol-gel method,1,ring oscillator,4
+52,indium zinc oxide (izo),1,tin monoxide,4
+53,transparent electronics,1,mos2,4
+54,flexible paper electronics,1,polyimide,4
+55,nanowire transistors,1,lead selenide,4
+56,electric-double-layer,1,lead sulfide,4
+57,carbon nanotube (cnt),1,stoichiometry,4
+58,contact resistance,1,field-effect,4
+59,printed electronics,1,sodium oleate,4
+60,tfts,1,surfactant mixture,4
+61,bjts,1,tetrahexahedral,4
+62,bicmos devices,1,single-layer,4
+63,organic thin-film transistor,1,solution-based,4
+64,mechanical fatigue,1,high-frequency,4
+65,printed,1,monodisperse,4
+66,proton gating,1,salicylic acid,4
+67,electric double layer (edl),1,nanocubes,4
+68,flexible si membrane,1,field-effect transistors,4
+69,e-textile,1,inverters,4
+70,textile composite,1,circuits,4
+71,textile transistor,1,contacts,4
+72,organic thin-film transistor (otft),1,dielectrics,4
+73,zno,1,pattern formation,4
+74,ambipolar,1,polymers,4
+75,otft,1,quantum dot,4
+76,flexibility,1,nanoparticle,4
+77,integrated circuits,1,colloidal crystal,4
+78,flexible electronic,1,supercrystal,4
+79,zno nanoparticle,1,cut-off frequency,3
+80,flexible 2d nanoelectronics,1,dual-gate,3
+81,cvd mos2,1,igzo,3
+82,black phosphorus,1,nonvolatile memory,3
+83,thz,1,vertical,3
+84,two-dimensional materials,1,transparent electronics,3
+85,ulimately scaled cmos,1,carbon nanotube (cnt),3
+86,complementary circuit,1,contact resistance,3
+87,inverter,1,printed electronics,3
+88,ring oscillator,1,tfts,3
+89,tin monoxide,1,bjts,3
+90,flexible materials,1,bicmos devices,3
+91,indium oxide,1,organic thin-film transistor,3
+92,polymer blends,1,mechanical fatigue,3
+93,action potentials,1,printed,3
+94,bioelectronics,1,e-textile,3
+95,phosphorene,1,textile composite,3
+96,ambipolar conduction,1,textile transistor,3
+97,frequency,1,organic thin-film transistor (otft),3
+98,quantum-dot solids,1,zno,3
+99,light-emitting-diodes,1,ambipolar,3
+100,cellulose nanofibrillated fiber,1,flexible materials,3
+101,si nanomembranes,1,indium oxide,3
+102,bio-degradable and,1,polymer blends,3
+103,demodulators,1,action potentials,3
+104,antenna,1,bioelectronics,3
+105,am radio receiver,1,phosphorene,3
+106,circuit,1,ambipolar conduction,3
+107,free-standing transistors,1,frequency,3
+108,chitosan films,1,in-ga-zn-o,3
+109,lateral coupling,1,polymer films,3
+110,in-ga-zn-o,1,semiconductor device,3
+111,polymer films,1,non-volatile,3
+112,semiconductor device,1,memory,3
+113,lead chalcogenide,1,flexible transistors,3
+114,colloidal atomic layer deposition,1,flexible inductors,3
+115,non-volatile,1,degradation,3
+116,memory,1,parametric yield,3
+117,flexible transistors,1,performance optimization,3
+118,flexible inductors,1,field effect transistor,3
+119,degradation,1,inkjet printing,3
+120,parametric yield,1,monolayer transistor,3
+121,performance optimization,1,molecular electronics,3
+122,solvent-free printing,1,low voltage,3
+123,polymer semiconductor,1,nanohole array,3
+124,inkjet-printing,1,plasmonically enhanced,3
+125,organic field-effect,1,aluminum-doped zinc oxide,3
+126,flexible synaptic transistors,1,room,3
+127,nanogranular sio2 electrolyte,1,carbon nanotubes,3
+128,field effect transistor,1,organic/polymer,3
+129,inkjet printing,1,solution-process,3
+130,indium-gallium-zinc oxide,1,carbon nanotube,3
+131,mechanical strain,1,integrated,3
+132,monolayer transistor,1,flexible display,3
+133,molecular electronics,1,gfet,3
+134,low voltage,1,maximum frequency of oscillation,3
+135,nanohole array,1,tunneling,3
+136,plasmonically enhanced,1,organic transistors,3
+137,thermal stability,1,polymeric transistors,3
+138,organic field-effect transistors,1,thin,3
+139,printed zno transistors,1,band-transport,3
+140,electrolyte gated transistors (egts),1,cadmium-selenide,3
+141,aluminum-doped zinc oxide,1,surface energy,3
+142,room,1,doped nanocrystals,3
+143,mos2,1,lanthanides,3
+144,polyimide,1,luminescence,3
+145,organic thin-film transistors,1,metallic nanoparticles,3
+146,flexible organic circuits,1,charge,3
+147,carbon nanotubes,1,annealing,3
+148,lead selenide,1,field effect transistors,3
+149,lead sulfide,1,mercury telluride,3
+150,stoichiometry,1,thin film transistor,3
+151,field-effect,1,hydrophilicity,3
+152,organic/polymer,1,organic transistor,3
+153,solution-process,1,flexble device,3
+154,sodium oleate,1,display,3
+155,surfactant mixture,1,vertical type transistor,3
+156,tetrahexahedral,1,artificial skins,3
+157,carbon nanotube,1,tactile sensors,3
+158,integrated,1,spin-on glass (sog),2
+159,roll-to-roll,1,thin-film transistors (tfts),2
+160,gfet,1,oxide semiconductor,2
+161,maximum frequency of oscillation,1,sol-gel method,2
+162,tunneling,1,indium zinc oxide (izo),2
+163,organic transistors,1,flexible paper electronics,2
+164,polymeric transistors,1,nanowire transistors,2
+165,thin,1,electric-double-layer,2
+166,microwave flexible electronics,1,proton gating,2
+167,organic field-effect transistor,1,electric double layer (edl),2
+168,organic semiconductor,1,flexible si membrane,2
+169,plasmonically enhanced emission,1,otft,2
+170,band-transport,1,flexibility,2
+171,cadmium-selenide,1,integrated circuits,2
+172,nanomaterials,1,flexible electronic,2
+173,shape-controlled,1,zno nanoparticle,2
+174,single-layer,1,two-dimensional materials,2
+175,solution-based,1,ulimately scaled cmos,2
+176,high-frequency,1,quantum-dot solids,2
+177,monodisperse,1,light-emitting-diodes,2
+178,salicylic acid,1,cellulose nanofibrillated fiber,2
+179,metal oxide semiconductors,1,si nanomembranes,2
+180,low temperature,1,bio-degradable and,2
+181,surface energy,1,free-standing transistors,2
+182,nanocubes,1,chitosan films,2
+183,field-effect transistors,1,lateral coupling,2
+184,inverters,1,lead chalcogenide,2
+185,circuits,1,colloidal atomic layer deposition,2
+186,nanocrystal,1,solvent-free printing,2
+187,contacts,1,polymer semiconductor,2
+188,dielectrics,1,inkjet-printing,2
+189,doped nanocrystals,1,organic field-effect,2
+190,lanthanides,1,indium-gallium-zinc oxide,2
+191,luminescence,1,mechanical strain,2
+192,metallic nanoparticles,1,thermal stability,2
+193,charge,1,organic field-effect transistors,2
+194,single-walled carbon nanotube,1,printed zno transistors,2
+195,flexible thin-film transistor,1,electrolyte gated transistors (egts),2
+196,cluster-assembled materials,1,microwave flexible electronics,2
+197,artificial atoms,1,organic field-effect transistor,2
+198,nanoparticles,1,organic semiconductor,2
+199,annealing,1,plasmonically enhanced emission,2
+200,field effect transistors,1,metal oxide semiconductors,2
+201,pattern formation,1,low temperature,2
+202,polymers,1,cluster-assembled materials,2
+203,mercury telluride,1,artificial atoms,2
+204,thin film transistor,1,nanoparticles,2
+205,hydrophilicity,1,manufacturing processes,2
+206,manufacturing processes,1,pilot line,2
+207,pilot line,1,electrophoretic displays,2
+208,electrophoretic displays,1,tft,2
+209,organic transistor,1,plastic,2
+210,flexble device,1,flexible synaptic transistors,1
+211,display,1,nanogranular sio2 electrolyte,1
+212,vertical type transistor,1,organic thin-film transistors,1
+213,artificial skins,1,flexible organic circuits,1
+214,tactile sensors,1,roll-to-roll,1
+215,tft,1,nanomaterials,1
+216,plastic,1,shape-controlled,1
+217,quantum dot,1,single-walled carbon nanotube,1
+218,nanoparticle,1,flexible thin-film transistor,1
+219,colloidal crystal,1,,
+220,supercrystal,1,,

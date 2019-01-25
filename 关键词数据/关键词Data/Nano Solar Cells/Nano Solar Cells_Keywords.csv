@@ -1,0 +1,393 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,solar cells,20,solar cells,61
+1,solar cell,12,solar cell,35
+2,dye-sensitized solar cell,7,photovoltaic,22
+3,nanostructures,7,tio2,20
+4,photovoltaic,6,nanostructures,18
+5,tio2,6,photovoltaic cells,15
+6,photovoltaic cells,5,dye-sensitized solar cell,14
+7,anti-reflection,4,silicon,12
+8,nanoparticles,4,anti-reflection,12
+9,photovoltaic devices,4,photovoltaic devices,11
+10,light trapping,4,solar,11
+11,dye sensitized solar cells,4,thin film,10
+12,thin film solar cell,4,efficiency,10
+13,organic solar cell,3,nanoparticles,10
+14,thin film,3,nano-structures,10
+15,silicon,3,light trapping,10
+16,efficiency,3,dye sensitized solar cells,10
+17,perovskites,3,thin film solar cell,10
+18,solar energy,3,nano particles,9
+19,nano particles,3,reflectance,9
+20,fdtd simulation,3,plasmonic,9
+21,dye-sensitized solar cells,3,fdtd simulation,8
+22,nano-structures,3,pcbm,8
+23,reflectance,3,solar energy,7
+24,plasmonic,3,nano-structure,7
+25,solar,3,p3ht,7
+26,nano-particles,2,gallium arsenide,7
+27,low-cost,2,nano-particles,6
+28,surface plasmon,2,organic solar cell,6
+29,conversion efficiency,2,dye-sensitized solar cells,6
+30,nano-structure,2,nano-imprint,6
+31,nano-imprint,2,nanotube,6
+32,hybrid solar cell,2,counter electrode,6
+33,photovoltaic cell,2,catalytic activation,6
+34,nanotube,2,gaas solar cell,6
+35,films,2,silicon solar cells,6
+36,counter electrode,2,interface,6
+37,catalytic activation,2,nano-imprint lithography,6
+38,nano-sic film,2,moth-eye,6
+39,nano-scale devices,2,polymer solar cell,6
+40,numerical simulation,2,zinc oxide,6
+41,light management,2,perovskites,5
+42,gaas solar cell,2,low-cost,5
+43,titanium dioxide,2,surface plasmon,5
+44,p3ht,2,hot carrier,5
+45,silicon solar cells,2,phonon,5
+46,secondary structure,2,lattice,5
+47,flexible polymer solar cells,2,hybrid solar cell,5
+48,nanotechnology,2,photovoltaic cell,5
+49,gallium arsenide,2,films,5
+50,nano-tio2,2,al,5
+51,tco,2,ag,5
+52,energy conversion,2,au nano particles,5
+53,antireflection,2,surface plasma,5
+54,nanostructure,2,nano-sic film,5
+55,hybrid solar cells,2,nano-scale devices,5
+56,interface,2,numerical simulation,5
+57,pcbm,2,light management,5
+58,nanostructured solar cell,2,titanium dioxide,5
+59,nano-imprint lithography,2,nanotechnology,5
+60,moth-eye,2,nano-tio2,5
+61,tio2 nano-particles,2,tco,5
+62,polymer solar cell,2,energy conversion,5
+63,zinc oxide,2,hybrid solar cells,5
+64,crossed-shaped nano-antenna,1,nanostructured solar cell,5
+65,cut-off filter,1,plasmon resonance,4
+66,photovoltaic solar cell,1,core-shell,4
+67,plasmon resonance,1,charge,4
+68,core-shell,1,conversion efficiency,4
+69,charge,1,impedance spectroscopy,4
+70,dielectric nanostructured reflectors,1,tio2 nano urchins,4
+71,absorption,1,qdssc,4
+72,nanocomposite,1,sillar,4
+73,antireflection coatings,1,zno,4
+74,nanospheres,1,performance,4
+75,nanoresonators,1,layers,4
+76,whispering gallery,1,double junction structure,4
+77,nano texturing,1,carbon,4
+78,reactive ion etching,1,secondary structure,4
+79,surface modification,1,flexible polymer solar cells,4
+80,carbon nano tube composite,1,photon,4
+81,quartz sand,1,sol-gel sio2,4
+82,nano silica,1,nano-sized double layer arcs,4
+83,magnesiothermic reduction,1,antireflection,4
+84,nano silicon and,1,colloidal synthesis,4
+85,photocatalytic activity,1,nanocrystal,4
+86,quantum dot sensitized solar cells,1,nano-heterojunction,4
+87,different tio2 nanostructures,1,nanostructure,4
+88,nano-imprinting,1,gaas,4
+89,quantum coherence,1,cigs,4
+90,fano interference,1,light-trapping,4
+91,nano-structure solar,1,sno2 nano particle,4
+92,functional nano thin film,1,inverted bhj solar cell,4
+93,glass substrate,1,stability,4
+94,contamination,1,interfacial layer,4
+95,far-field scattering effect,1,gratings,4
+96,metal nanoparticles,1,oxide,4
+97,perovskite solar,1,arrays,4
+98,thin-films,1,nanohemispheres,4
+99,nanoparticle,1,polyaniline,4
+100,power conversion,1,electrodeposition,4
+101,absorption-efficiency,1,thin films,4
+102,optical path length,1,buffer layers,4
+103,incident light angle,1,tio2 nano-particles,4
+104,hot carrier,1,nano-porous,4
+105,phonon,1,porous silicon,4
+106,lattice,1,pyramid,4
+107,titanium dioxide nano particles,1,anti-reflection coating,4
+108,florine tin,1,antireflection coatings,3
+109,silicoaluminophosphate,1,nanospheres,3
+110,non-aquoues media,1,nanoresonators,3
+111,sapo 11,1,whispering gallery,3
+112,nano-crystalline,1,nano texturing,3
+113,nanopyramid,1,reactive ion etching,3
+114,near-zero reflection,1,surface modification,3
+115,carrier collection,1,carbon nano tube composite,3
+116,nanoimprint,1,quartz sand,3
+117,metal assisted chemical etching,1,nano silica,3
+118,light reflection loss,1,magnesiothermic reduction,3
+119,model,1,nano silicon and,3
+120,optoelectronic devices,1,photocatalytic activity,3
+121,optical-properties,1,quantum coherence,3
+122,fdtd modelling,1,fano interference,3
+123,subwavelength,1,nano-structure solar,3
+124,impedance spectroscopy,1,functional nano thin film,3
+125,tio2 nano urchins,1,glass substrate,3
+126,qdssc,1,contamination,3
+127,sillar,1,nanoparticle,3
+128,zno,1,power conversion,3
+129,performance,1,absorption-efficiency,3
+130,layers,1,optical path length,3
+131,electrospinning,1,silicoaluminophosphate,3
+132,pt nano-fiber,1,non-aquoues media,3
+133,plasmon,1,sapo 11,3
+134,light scattering,1,nano-crystalline,3
+135,polymer,1,nanopyramid,3
+136,nano particle,1,near-zero reflection,3
+137,nano-hole structures,1,carrier collection,3
+138,optical generation rate,1,light reflection loss,3
+139,surface recombination,1,fdtd modelling,3
+140,nano-crystals,1,subwavelength,3
+141,quantum efficiency,1,electrospinning,3
+142,uv light,1,pt nano-fiber,3
+143,down-conversion,1,polymer,3
+144,al,1,nano particle,3
+145,ag,1,nano-crystals,3
+146,au nano particles,1,quantum efficiency,3
+147,surface plasma,1,uv light,3
+148,molecular electronics,1,down-conversion,3
+149,self-assembled monolayers,1,mirrors,3
+150,molecular structure,1,back reflectors,3
+151,nano-plasmonic thin-film solar cell,1,nano-grooves,3
+152,optical wireless communication,1,glancing angle deposition,3
+153,nano-diamod self-cleaning film,1,metal catalyst,3
+154,stubborn dust,1,nano/microhole si array,3
+155,automatic tracking,1,polymer solar cells,3
+156,double junction structure,1,nano-morphology,3
+157,carbon,1,non-fullerene acceptors,3
+158,silicon micro-nano structures,1,ternary,3
+159,efficiency improvement,1,silver,3
+160,silver assisted etching,1,cost reduction,3
+161,black multi-crystalline silicon,1,nano-inks,3
+162,reflection,1,amorphous silicon solar cells,3
+163,numerical method,1,cds,3
+164,surface recombination velocity,1,nanobranch,3
+165,multi-junction solar cells,1,porous si,3
+166,mirrors,1,quantum dots,3
+167,back reflectors,1,chemical industry,3
+168,nano-grooves,1,water treatment,3
+169,glancing angle deposition,1,environmental protection,3
+170,metal catalyst,1,bowtie nano antenna,3
+171,nano/microhole si array,1,rectenna,3
+172,polymer solar cells,1,rectifier,3
+173,nano-morphology,1,solar energy collection,3
+174,non-fullerene acceptors,1,integration,3
+175,ternary,1,nano structured materials,3
+176,silver,1,organic photovoltaic cells,3
+177,cost reduction,1,thin-film silicon,3
+178,nano-inks,1,electrodes,3
+179,carbon nano-onion,1,titanium (ti),3
+180,candle synthesis,1,nano solar cells,3
+181,photoactive electrode,1,thiols,3
+182,amorphous silicon solar cells,1,electron transfer bridges,3
+183,nano-pattern structure,1,kinetically,3
+184,top-illumination,1,incident angle,3
+185,cds,1,reflection losses,3
+186,nanobranch,1,metallic quantum dots,3
+187,material,1,nano scale,3
+188,large-scale synthesis,1,phonon bottleneck,3
+189,porous si,1,benchmarking,3
+190,quantum dots,1,thin film nano-structures,3
+191,photon,1,light,3
+192,nano-wall,1,solar energy harvesting,3
+193,si,1,solar radiation,3
+194,tio2-nano-sio2 hybrid photoanode,1,nano antennas,3
+195,sensitized,1,nano dipoles,3
+196,chemical industry,1,thin film solar cells,3
+197,water treatment,1,fdtd,3
+198,environmental protection,1,textured interfaces,3
+199,nano-textured interfaces,1,kelvin probe force microscopy,3
+200,scalar scattering theory,1,surface,3
+201,thin-film solar,1,dye sensitized solar cell,3
+202,plasmonic nanoparticles,1,nano-cdo,3
+203,binary optimization algorithm,1,sem,3
+204,silicon solar cell,1,afm,3
+205,electrode-contact,1,atomic layer deposition,3
+206,core shell plasmonic nano-antenna,1,lifetime,3
+207,supper,1,rare earth,3
+208,bowtie nano antenna,1,up-conversion,3
+209,rectenna,1,nano-crystal material,3
+210,rectifier,1,dye-sensitized solar,3
+211,solar energy collection,1,open circuit voltage,3
+212,integration,1,short circuit current,3
+213,nano structured materials,1,micro-emulsion,3
+214,organic photovoltaic cells,1,surfactant,3
+215,thin-film silicon,1,surface area,3
+216,sol-gel sio2,1,tetra-n-butyl titanate,3
+217,nano-sized double layer arcs,1,self-assembled monolayer,3
+218,electrodes,1,localized surface,3
+219,titanium (ti),1,nano-texturing,3
+220,nano-micro scale combination patterns,1,monocrystalline silicon,3
+221,photovoltaics,1,transmittance,3
+222,thin film cigs solar cells,1,porphyrins,3
+223,rear surface passivation,1,carbon nano tube,3
+224,nano-textured surface,1,textile,3
+225,silicon nitride,1,pecvd,3
+226,ag nano-pillars array,1,silicon nanocrystals,3
+227,ticl4 additive,1,silicon rich oxide,3
+228,nano solar cells,1,inverted polymer solar cell,3
+229,thiols,1,nano-ridge,3
+230,electron transfer bridges,1,refractive index,3
+231,kinetically,1,antireflection coating,3
+232,colloidal synthesis,1,nanomaterial,3
+233,nanocrystal,1,space si solar,3
+234,nano-heterojunction,1,bioi,3
+235,crystalline silicon solar cell,1,chitosan,3
+236,texturization,1,open-circuit voltage,3
+237,nano structure,1,nanoplates,3
+238,incident angle,1,nanowires,3
+239,reflection losses,1,n-p junction,3
+240,metallic quantum dots,1,quantum dot,3
+241,nano scale,1,pc-si : h solar cell,3
+242,phonon bottleneck,1,conductive afm,3
+243,thin film devices and applications,1,surface topography,3
+244,benchmarking,1,local reverse,3
+245,thin film nano-structures,1,gel electrolytes,3
+246,light,1,quasi-solid,3
+247,hot carrier cell device prototype,1,crossed-shaped nano-antenna,2
+248,heterogeneous nano-particle array,1,cut-off filter,2
+249,solar energy harvesting,1,photovoltaic solar cell,2
+250,solar radiation,1,dielectric nanostructured reflectors,2
+251,nano antennas,1,absorption,2
+252,nano dipoles,1,nanocomposite,2
+253,simulation,1,nano-imprinting,2
+254,quantum well,1,far-field scattering effect,2
+255,thin film solar cells,1,metal nanoparticles,2
+256,fdtd,1,perovskite solar,2
+257,textured interfaces,1,thin-films,2
+258,single crystal silicon solar cell,1,incident light angle,2
+259,nano-disk array,1,titanium dioxide nano particles,2
+260,electromagnetic,1,florine tin,2
+261,gaas,1,nanoimprint,2
+262,cigs,1,metal assisted chemical etching,2
+263,light-trapping,1,model,2
+264,nano-sphere lithograph,1,optoelectronic devices,2
+265,nano-patterned si structures,1,optical-properties,2
+266,external quantum efficiency (eqe),1,plasmon,2
+267,plasmonics,1,light scattering,2
+268,kelvin probe force microscopy,1,nano-hole structures,2
+269,surface,1,optical generation rate,2
+270,inverse problem,1,surface recombination,2
+271,numerical optimization,1,molecular electronics,2
+272,nano-imprint process,1,self-assembled monolayers,2
+273,bulk heterojunction,1,molecular structure,2
+274,dye sensitized solar cell,1,nano-diamod self-cleaning film,2
+275,nano-cdo,1,stubborn dust,2
+276,sem,1,automatic tracking,2
+277,afm,1,silicon micro-nano structures,2
+278,sno2 nano particle,1,efficiency improvement,2
+279,inverted bhj solar cell,1,silver assisted etching,2
+280,stability,1,black multi-crystalline silicon,2
+281,nano-textured topography,1,reflection,2
+282,magnetron sputtering,1,numerical method,2
+283,nano-structuring,1,surface recombination velocity,2
+284,nano-structured organic-metal interface,1,multi-junction solar cells,2
+285,interfacial layer,1,carbon nano-onion,2
+286,gratings,1,candle synthesis,2
+287,oxide,1,photoactive electrode,2
+288,alternate energy energy generation,1,nano-pattern structure,2
+289,atomic layer deposition,1,top-illumination,2
+290,lifetime,1,material,2
+291,rare earth,1,large-scale synthesis,2
+292,up-conversion,1,nano-wall,2
+293,nano-crystal material,1,si,2
+294,dye-sensitized solar,1,tio2-nano-sio2 hybrid photoanode,2
+295,guided-mode resonance,1,sensitized,2
+296,leaky-mode resonance,1,nano-textured interfaces,2
+297,quasi-guided modes,1,scalar scattering theory,2
+298,open circuit voltage,1,thin-film solar,2
+299,short circuit current,1,silicon solar cell,2
+300,micro-emulsion,1,electrode-contact,2
+301,surfactant,1,core shell plasmonic nano-antenna,2
+302,silver nano-silver particle,1,supper,2
+303,size and its distribution,1,nano-micro scale combination patterns,2
+304,conductivity,1,photovoltaics,2
+305,surface area,1,thin film cigs solar cells,2
+306,tetra-n-butyl titanate,1,rear surface passivation,2
+307,zn oxide nanowire,1,nano-textured surface,2
+308,nano-forest,1,silicon nitride,2
+309,self-assembled monolayer,1,ag nano-pillars array,2
+310,localized surface,1,ticl4 additive,2
+311,arrays,1,crystalline silicon solar cell,2
+312,nanohemispheres,1,texturization,2
+313,processing additives,1,nano structure,2
+314,chemical additives,1,thin film devices and applications,2
+315,organic solar cells,1,simulation,2
+316,inorganic nanostructured solar cells,1,quantum well,2
+317,nanostructured metal oxide,1,single crystal silicon solar cell,2
+318,nanorods,1,nano-disk array,2
+319,cdse quantum dots,1,electromagnetic,2
+320,nano-texturing,1,nano-sphere lithograph,2
+321,monocrystalline silicon,1,nano-patterned si structures,2
+322,polyaniline,1,external quantum efficiency (eqe),2
+323,electrodeposition,1,plasmonics,2
+324,thin films,1,inverse problem,2
+325,buffer layers,1,numerical optimization,2
+326,photoelectrochemical solar cells,1,nano-imprint process,2
+327,molecular dynamics,1,bulk heterojunction,2
+328,silicon nanostructure,1,nano-textured topography,2
+329,etching process,1,magnetron sputtering,2
+330,metallic nanoparticles,1,alternate energy energy generation,2
+331,acid texturing,1,guided-mode resonance,2
+332,stainless-steel substrate,1,leaky-mode resonance,2
+333,anodic-oxidation,1,quasi-guided modes,2
+334,photoactive nano-layer,1,silver nano-silver particle,2
+335,polymer based photovoltaic,1,size and its distribution,2
+336,zno nano-rod,1,conductivity,2
+337,transmittance,1,zn oxide nanowire,2
+338,tio2 nano particles,1,nano-forest,2
+339,sno2 micro particles,1,processing additives,2
+340,hybrid porous film,1,chemical additives,2
+341,porphyrins,1,organic solar cells,2
+342,carbon nano tube,1,photoelectrochemical solar cells,2
+343,textile,1,molecular dynamics,2
+344,pecvd,1,silicon nanostructure,2
+345,silicon nanocrystals,1,etching process,2
+346,silicon rich oxide,1,metallic nanoparticles,2
+347,inverted polymer solar cell,1,acid texturing,2
+348,nano-ridge,1,stainless-steel substrate,2
+349,refractive index,1,anodic-oxidation,2
+350,antireflection coating,1,photoactive nano-layer,2
+351,nanomaterial,1,polymer based photovoltaic,2
+352,space si solar,1,zno nano-rod,2
+353,nano-channel,1,tio2 nano particles,2
+354,flexible,1,sno2 micro particles,2
+355,bioi,1,hybrid porous film,2
+356,chitosan,1,nano-channel,2
+357,optical materials,1,flexible,2
+358,sol-gel growth,1,optical materials,2
+359,tetramethylammonium,1,sol-gel growth,2
+360,open-circuit voltage,1,tetramethylammonium,2
+361,nanoplates,1,photo transistor,2
+362,nanowires,1,antenna solar cell,2
+363,n-p junction,1,detector,2
+364,quantum dot,1,tio2 electrode,2
+365,photo transistor,1,spin-coating technique,2
+366,antenna solar cell,1,vacuum cold spraying,2
+367,detector,1,nano-composite,2
+368,tio2 electrode,1,anodic oxidation,2
+369,spin-coating technique,1,tio2 nanotube arrays,2
+370,vacuum cold spraying,1,nano-composite solar cells,2
+371,nano-composite,1,kinetic charge separation,2
+372,anodic oxidation,1,electrochemistry,2
+373,tio2 nanotube arrays,1,photoelectrochemistry,2
+374,pc-si : h solar cell,1,dye-sensitized tio2,2
+375,conductive afm,1,electron transport,2
+376,surface topography,1,nano-structured tio2,2
+377,local reverse,1,quantum dot sensitized solar cells,1
+378,nano-composite solar cells,1,different tio2 nanostructures,1
+379,kinetic charge separation,1,nano-plasmonic thin-film solar cell,1
+380,nano-porous,1,optical wireless communication,1
+381,porous silicon,1,plasmonic nanoparticles,1
+382,pyramid,1,binary optimization algorithm,1
+383,anti-reflection coating,1,hot carrier cell device prototype,1
+384,electrochemistry,1,heterogeneous nano-particle array,1
+385,photoelectrochemistry,1,nano-structuring,1
+386,dye-sensitized tio2,1,nano-structured organic-metal interface,1
+387,gel electrolytes,1,inorganic nanostructured solar cells,1
+388,quasi-solid,1,nanostructured metal oxide,1
+389,electron transport,1,nanorods,1
+390,nano-structured tio2,1,cdse quantum dots,1
+391,charge recombination kinetics,1,charge recombination kinetics,1

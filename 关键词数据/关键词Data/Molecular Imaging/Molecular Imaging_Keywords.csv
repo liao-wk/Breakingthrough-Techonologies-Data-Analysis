@@ -1,0 +1,224 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,molecular imaging,61,molecular imaging,180
+1,pet,9,pet,36
+2,imaging,8,imaging,33
+3,optical,6,molecular,20
+4,optical imaging,6,optical,19
+5,molecular,5,optical imaging,17
+6,atherosclerosis,5,angiogenesis,15
+7,angiogenesis,4,atherosclerosis,14
+8,contrast agents,4,cancer,14
+9,magnetic resonance imaging,3,oncology,14
+10,diagnosis,3,diagnosis,12
+11,spect,3,spect,10
+12,positron emission tomography,3,breast,10
+13,cancer,3,pet/ct,10
+14,optical molecular imaging,3,contrast agents,10
+15,magnetic resonance imaging (mri),3,mri,9
+16,oncology,3,nuclear,9
+17,nanotechnology,3,nanotechnology,9
+18,nuclear imaging,2,reporter gene,8
+19,bioluminescence,2,nanoparticles,8
+20,symporter,2,biopsy,8
+21,reporter gene,2,breast cancer,8
+22,fluorescence,2,magnetic resonance imaging,7
+23,molecular imaging probes,2,biomarker,7
+24,cardiovascular disease,2,receptor,7
+25,nanoparticles,2,tumor,7
+26,biopsy,2,image,7
+27,breast cancer,2,mr spectroscopy,7
+28,biomarker,2,magnetic resonance imaging (mri),7
+29,mri,2,gene therapy,7
+30,receptor,2,apoptosis,7
+31,tumor,2,ultrasound,7
+32,image,2,nuclear imaging,6
+33,breast,2,bioluminescence,6
+34,mr spectroscopy,2,fluorescence,6
+35,nuclear,2,positron emission tomography,6
+36,fluorescence imaging,2,optical molecular imaging,6
+37,pet/ct,2,fluorescence imaging,6
+38,gene therapy,2,bone,6
+39,apoptosis,2,cartilage,6
+40,ultrasound,2,chondrocyte,6
+41,nuclear medicine,2,fracture,6
+42,particles,2,infection,6
+43,nanoprobes,1,molecular imaging probes,5
+44,infective,1,cardiovascular disease,5
+45,endocarditis,1,genetic,5
+46,vulnerable plaque imaging,1,medicine,5
+47,translational medicine,1,breast tumors,5
+48,deep learning,1,radiopharmaceuticals,5
+49,machine learning,1,correlative imaging,5
+50,convolutional neural,1,pet/mri,5
+51,in vivo imaging,1,nuclear medicine,5
+52,precision medicine,1,infective,4
+53,pulmonary disease,1,endocarditis,4
+54,small molecule-based probes,1,small molecule-based probes,4
+55,upar,1,upar,4
+56,ae105,1,ae105,4
+57,nir-ii,1,nir-ii,4
+58,imaging probe,1,lymphoma,4
+59,nuclear medical imaging,1,drugs,4
+60,lymphoma,1,pet-ct,4
+61,drugs,1,symporter,4
+62,pet-ct,1,near infrared,4
+63,in-vivo,1,medical imaging,4
+64,brentuximab vedotin,1,nanoparticle,4
+65,near infrared,1,indocyanine green,4
+66,laboratory management,1,breast-cancer,4
+67,world molecular imaging,1,tc-99m,4
+68,drug research and development,1,molecular targeting,4
+69,positron emission,1,brain tumor,4
+70,editorial,1,liposomes,4
+71,energy metabolism,1,iron,4
+72,cancer metabolic reprogramming,1,interventional oncology,4
+73,medical imaging,1,ablation,4
+74,nanoparticle,1,molecular target therapy,4
+75,indocyanine green,1,her2,4
+76,breast-cancer,1,click reaction,4
+77,tc-99m,1,f-18,4
+78,instrumentation spect,1,cuaac,4
+79,instrumentation pet,1,pretargeting,4
+80,molecular targeting,1,microbubble,4
+81,brain tumor,1,targeted imaging,4
+82,liposomes,1,microvasculature,4
+83,iron,1,tumor metastasis,4
+84,multimodal imaging,1,ophthalmology,4
+85,molecular probe,1,ophthalmic imaging,4
+86,nanomaterial,1,eye,4
+87,basic science,1,reporter gene imaging,4
+88,diagnostic and prognostic application,1,inflammation,4
+89,interventional oncology,1,microbubbles,4
+90,ablation,1,pet-mri,4
+91,radioactive probe,1,multiparametric mri,4
+92,genetic,1,dual-targeted,4
+93,medicine,1,peptide heterodimer,4
+94,molecular target therapy,1,blood flow,4
+95,her2,1,brain,4
+96,click reaction,1,computed tomography (ct),4
+97,f-18,1,cardiovascular diseases,4
+98,cuaac,1,radionuclide imaging,4
+99,pretargeting,1,nanomedicine,4
+100,multimodality molecular imaging,1,nanoplatforms,4
+101,bioresponsive agents,1,magneto-motive,4
+102,activatable probes,1,nanocomposites,4
+103,microbubble,1,bioluminescence imaging,4
+104,targeted imaging,1,nanoprobes,3
+105,microvasculature,1,deep learning,3
+106,tumor metastasis,1,machine learning,3
+107,metastases,1,convolutional neural,3
+108,one-pot reaction,1,in vivo imaging,3
+109,targeted drug delivery,1,precision medicine,3
+110,individualized medicine,1,pulmonary disease,3
+111,vulnerable plaque,1,in-vivo,3
+112,nuclear molecular,1,brentuximab vedotin,3
+113,drug delivery system,1,editorial,3
+114,theragnostics,1,energy metabolism,3
+115,skin biopsy,1,cancer metabolic reprogramming,3
+116,molecular hyperspectral imaging,1,instrumentation spect,3
+117,skin histopathology,1,instrumentation pet,3
+118,ophthalmology,1,multimodal imaging,3
+119,ophthalmic imaging,1,molecular probe,3
+120,eye,1,nanomaterial,3
+121,synthase,1,bioresponsive agents,3
+122,breast tumors,1,activatable probes,3
+123,image processing,1,individualized medicine,3
+124,intraoperative,1,vulnerable plaque,3
+125,breast tumor,1,nuclear molecular,3
+126,mr,1,drug delivery system,3
+127,aptamers,1,theragnostics,3
+128,molecular diagnostics,1,skin biopsy,3
+129,aptamer,1,molecular hyperspectral imaging,3
+130,radiopharmaceuticals,1,skin histopathology,3
+131,correlative imaging,1,image processing,3
+132,pet/mri,1,intraoperative,3
+133,bone,1,breast tumor,3
+134,cartilage,1,mr,3
+135,chondrocyte,1,aptamers,3
+136,fracture,1,molecular diagnostics,3
+137,infection,1,aptamer,3
+138,reporter gene imaging,1,animal model,3
+139,small animal molecular imaging,1,imaging informatics,3
+140,imaging cassette,1,data grid,3
+141,co-registration,1,integrin,3
+142,inflammation,1,molecular therapy,3
+143,microbubbles,1,theranostics,3
+144,fusion reporters,1,heart failure,3
+145,animal model,1,myocardial,3
+146,imaging informatics,1,quantum dots,3
+147,data grid,1,indirect imaging,3
+148,pet-mri,1,vivo imaging,3
+149,multiparametric mri,1,nano-molecular probe,3
+150,integrin,1,target tropism,3
+151,molecular therapy,1,mu pet,3
+152,theranostics,1,mouse models,3
+153,heart failure,1,ad,3
+154,myocardial,1,bioendoscopy,3
+155,dual-targeted,1,narrow-band imaging,3
+156,peptide heterodimer,1,autofluorescence,3
+157,planar imaging,1,annexin a5,3
+158,tomographic imaging,1,lsqr,3
+159,imaging probe design,1,art,3
+160,imaging probe development,1,transillumination,3
+161,multimodality cardiovascular molecular imaging,1,light scattering,3
+162,cardiovascular,1,preclinical studies,3
+163,multidisciplinary approach,1,animal models,3
+164,quantum dots,1,rheumatoid arthritis,3
+165,indirect imaging,1,molecular markers,3
+166,transferrin receptor,1,radiological,3
+167,stroke,1,molecular nuclear medicine,3
+168,blood flow,1,molecular medicine,3
+169,brain,1,vulnerable plaque imaging,2
+170,computed tomography (ct),1,translational medicine,2
+171,vivo imaging,1,imaging probe,2
+172,nano-molecular probe,1,nuclear medical imaging,2
+173,target tropism,1,laboratory management,2
+174,radiation force,1,world molecular imaging,2
+175,monodisperse contrast agents,1,drug research and development,2
+176,optical coherence tomography (oct),1,positron emission,2
+177,fluorescence molecular imaging (fmi),1,basic science,2
+178,cardiovascular diseases,1,diagnostic and prognostic application,2
+179,radionuclide imaging,1,radioactive probe,2
+180,imaging probe discovery,1,multimodality molecular imaging,2
+181,hts,1,targeted drug delivery,2
+182,mu pet,1,small animal molecular imaging,2
+183,mouse models,1,imaging cassette,2
+184,ad,1,co-registration,2
+185,optical activity,1,planar imaging,2
+186,metabolic imaging,1,tomographic imaging,2
+187,molecular contrast agents and,1,imaging probe design,2
+188,bioendoscopy,1,imaging probe development,2
+189,narrow-band imaging,1,cardiovascular,2
+190,autofluorescence,1,multidisciplinary approach,2
+191,nanomedicine,1,stroke,2
+192,nanoplatforms,1,radiation force,2
+193,cardiovascular molecular imaging,1,monodisperse contrast agents,2
+194,annexin a5,1,imaging probe discovery,2
+195,magneto-motive,1,hts,2
+196,nanocomposites,1,optical activity,2
+197,lsqr,1,metabolic imaging,2
+198,art,1,molecular contrast agents and,2
+199,molecular guided therapy,1,cardiovascular molecular imaging,2
+200,bioluminescence imaging,1,molecular guided therapy,2
+201,transillumination,1,optical coherence tomography,2
+202,light scattering,1,imaging techniques,2
+203,optical coherence tomography,1,multimodality,2
+204,imaging techniques,1,in vivo diagnostics,2
+205,preclinical studies,1,magnetic resonance (mr),2
+206,animal models,1,fluorescence reflectance imaging,2
+207,multimodality,1,molecular imaging in cardiology,2
+208,in vivo diagnostics,1,atherosclerotic plaques,2
+209,magnetic resonance (mr),1,cardiac,2
+210,gene-expression,1,editorials,2
+211,fluorescence reflectance imaging,1,genes and genetics,2
+212,molecular imaging in cardiology,1,"magnetic resonance (mr), utilization",2
+213,atherosclerotic plaques,1,metastases,1
+214,cardiac,1,one-pot reaction,1
+215,rheumatoid arthritis,1,fusion reporters,1
+216,molecular markers,1,multimodality cardiovascular molecular imaging,1
+217,radiological,1,transferrin receptor,1
+218,molecular nuclear medicine,1,optical coherence tomography (oct),1
+219,molecular medicine,1,fluorescence molecular imaging (fmi),1
+220,editorials,1,particles,1
+221,genes and genetics,1,gene-expression,1
+222,"magnetic resonance (mr), utilization",1,,

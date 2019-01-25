@@ -1,0 +1,237 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,injectable,19,injectable,67
+1,tissue engineering,18,tissue engineering,54
+2,injectable hydrogels,13,hydrogels,38
+3,hydrogels,11,injectable hydrogels,37
+4,injectable hydrogel,10,tissue,35
+5,tissue,9,hydrogel,30
+6,hyaluronic acid,9,hyaluronic acid,28
+7,hydrogel,9,injectable hydrogel,26
+8,chitosan,7,biomaterials,26
+9,biomaterials,7,chitosan,24
+10,scaffold,6,scaffold,24
+11,stem cells,6,stem cells,22
+12,nanofibers,4,cartilage,16
+13,drug delivery,4,scaffolds,15
+14,biodegradable,4,drug delivery,14
+15,scaffolds,4,biodegradable,13
+16,cartilage,4,bone,12
+17,alginate,4,alginate,12
+18,bone tissue engineering,4,extracellular matrix,10
+19,bone,3,bone tissue engineering,10
+20,cardiac tissue engineering,3,hydroxyapatite,10
+21,extracellular matrix,3,nanofibers,9
+22,hydroxyapatite,3,gelatin,9
+23,tissue regeneration,2,cardiac tissue engineering,8
+24,polymers,2,polymer,8
+25,gelatin,2,composite,8
+26,myocardial tissue engineering,2,crosslinking,8
+27,cardiac regeneration,2,polymers,7
+28,polymer,2,cardiac regeneration,7
+29,injectable scaffolds,2,injectable scaffolds,7
+30,chondroitin sulfate,2,pluronics,7
+31,thermogel,2,tissue regeneration,6
+32,composite,2,chondroitin sulfate,6
+33,angiogenesis,2,thermogel,6
+34,pluronics,2,injectable scaffold,6
+35,injectable scaffold,2,cryogel,5
+36,adipose tissue engineering,2,thermoplastic,5
+37,biomimetic material,2,gold,5
+38,crosslinking,2,nanoparticle,5
+39,beta-glycerophosphate,1,anisotropy,5
+40,thermoresponsive hydrogel,1,shape,5
+41,neovascularization,1,angiogenesis,5
+42,osteoarthritis,1,cryogels,5
+43,peptide-polymer,1,microspheres,5
+44,anterior cruciate,1,adipose tissue engineering,5
+45,colloidal gel,1,biomimetic material,5
+46,fiber reinforcement,1,plg,5
+47,injectable gel,1,proteoglycan,5
+48,moldable gel,1,microsphere,5
+49,macroporous hydrogel,1,cell,5
+50,gelatin/oxidized alginate/adipic acid dihydrazide,1,beta-glycerophosphate,4
+51,collagen,1,thermoresponsive hydrogel,4
+52,cornea,1,collagen,4
+53,cyclodextrins,1,cornea,4
+54,fibril alignment,1,cyclodextrins,4
+55,self-assembly,1,fibril alignment,4
+56,muscle,1,self-assembly,4
+57,muscle regeneration,1,muscle,4
+58,muscular dystrophy,1,muscle regeneration,4
+59,immunology,1,muscular dystrophy,4
+60,cytokine,1,immunology,4
+61,injectable nanocomposite,1,cytokine,4
+62,bioimaging,1,nanoparticles,4
+63,biopolymeric injectable hydrogels,1,microparticles,4
+64,gelation,1,myocardial tissue engineering,4
+65,nanoparticles,1,cell therapy,4
+66,microparticles,1,design,4
+67,photo-crosslinking reaction,1,pullulan,4
+68,da click chemistry,1,chondrocyte,4
+69,cryogel,1,decellularized,4
+70,myocardial infarction,1,porcine,4
+71,in situ crosslinkable hydrogel,1,craniofacial reconstruction,4
+72,schiffs base reaction,1,adipose tissue regeneration,4
+73,injectable preformed scaffolds,1,lipofilling,4
+74,shape memory,1,3d,4
+75,sulfated,1,macrophages,4
+76,alginate nanobeads,1,t cells,4
+77,fibrin hydrogel,1,biomaterial implant,4
+78,soft tissue engineering,1,immune,4
+79,amniotic membrane,1,eye drops,4
+80,electrospinning,1,peptides,4
+81,composite membrane,1,sialic acid,4
+82,thermoplastic,1,dry eye,4
+83,gold,1,hepatogenic differentiation,4
+84,nanoparticle,1,tmsc,4
+85,anisotropy,1,3d culture,4
+86,shape,1,injectable scaf-folds,4
+87,cell therapy,1,natural biomaterials,4
+88,design,1,nanomedicine,4
+89,cell maturation,1,dental,4
+90,collagen vitrigel,1,craniofacial,4
+91,epithelial cells,1,microcarriers,4
+92,fibril density,1,nanomaterials,4
+93,pullulan,1,cardiac infarction,4
+94,chondrocyte,1,patch,4
+95,aqueous-solutions,1,adipose,4
+96,hybrid,1,growth,4
+97,carboxymethyl chitosan,1,enzymes,4
+98,cartilage repair,1,polysaccharides,4
+99,decellularized,1,rheology,4
+100,porcine,1,shear,4
+101,craniofacial reconstruction,1,viscoelastic properties,4
+102,methylcellulose,1,surface,4
+103,polyethylene glycol crosslinking,1,absorbable,4
+104,adipose tissue regeneration,1,beads,4
+105,lipofilling,1,osteoarthritis,3
+106,3d,1,peptide-polymer,3
+107,triple crosslinked,1,anterior cruciate,3
+108,cranial bone repaira,1,colloidal gel,3
+109,muscle tissue engineering,1,fiber reinforcement,3
+110,cellulose nanocrystals,1,injectable gel,3
+111,anisotropic,1,moldable gel,3
+112,macrophages,1,injectable nanocomposite,3
+113,t cells,1,amniotic membrane,3
+114,biomaterial implant,1,electrospinning,3
+115,immune,1,composite membrane,3
+116,reverse thermal gel,1,cell maturation,3
+117,carbon nanotube,1,collagen vitrigel,3
+118,crosslinking method,1,epithelial cells,3
+119,pterygia,1,fibril density,3
+120,vascular endothelial growth factor,1,cartilage repair,3
+121,corneal crosslinking,1,triple crosslinked,3
+122,corneal biomechanics,1,cranial bone repaira,3
+123,pectin,1,pectin,3
+124,oligopeptide g(4)rgds,1,oligopeptide g(4)rgds,3
+125,diels-alder,1,diels-alder,3
+126,dual crosslinked,1,dual crosslinked,3
+127,cranial bone tissue,1,cranial bone tissue,3
+128,eye drops,1,thermo-responsive polymers,3
+129,peptides,1,multi-block copolymers,3
+130,sialic acid,1,self-healing,3
+131,dry eye,1,injectable fillers,3
+132,poly(l-glutamic acid),1,ha fillers,3
+133,hepatogenic differentiation,1,cosmetic injectables,3
+134,tmsc,1,in situ crosslinking,3
+135,3d culture,1,drug,3
+136,injectable scaf-folds,1,injectable polymeric biomaterials,3
+137,natural biomaterials,1,surface patterns,3
+138,biomedical engineering,1,scaffolding,3
+139,injectable bone graft,1,antioxidants,3
+140,nanomedicine,1,electroactivity,3
+141,cryogels,1,tetraaniline,3
+142,microspheres,1,injectable sponge,3
+143,dental,1,guanosine 5'-diphosphate,3
+144,craniofacial,1,bone engineering,3
+145,hyaluronic-acid hydrogel,1,biodegradation,3
+146,microcarriers,1,injectable formulations,3
+147,calcium phosphate cement,1,reticulation processes,3
+148,human induced,1,swelling,3
+149,thermo-responsive polymers,1,biomaterial,3
+150,multi-block copolymers,1,in situ pore formation,3
+151,self-healing,1,poly(lactic-co-glycolic,3
+152,nanomaterials,1,in vivo,3
+153,cardiac infarction,1,biocompatibility,3
+154,patch,1,poly(ethylene,3
+155,stem cell,1,thermosensitive,3
+156,injectable fillers,1,inorganic nanoparticles,3
+157,ha fillers,1,biomineralization,3
+158,cosmetic injectables,1,chitosan microparticles,3
+159,adipose,1,plga,3
+160,in situ crosslinking,1,mesenchymal stem cell,3
+161,drug,1,injectable biomaterial,3
+162,soft tissue reconstruction,1,initiator,3
+163,cell separation,1,degradation,3
+164,antibody immobilization,1,poly(aldehyde guluronate),3
+165,injectable materials,1,neovascularization,2
+166,injectable polymeric biomaterials,1,bioimaging,2
+167,surface patterns,1,biopolymeric injectable hydrogels,2
+168,scaffolding,1,gelation,2
+169,in situ cross-linking,1,photo-crosslinking reaction,2
+170,cardiac catheters,1,da click chemistry,2
+171,pulmonary valve,1,myocardial infarction,2
+172,therapy,1,in situ crosslinkable hydrogel,2
+173,soft tissue,1,schiffs base reaction,2
+174,growth,1,injectable preformed scaffolds,2
+175,left-ventricular function,1,shape memory,2
+176,adult,1,sulfated,2
+177,antioxidants,1,alginate nanobeads,2
+178,electroactivity,1,fibrin hydrogel,2
+179,tetraaniline,1,soft tissue engineering,2
+180,bioactive materials,1,aqueous-solutions,2
+181,injectable bone cement,1,hybrid,2
+182,injectable sponge,1,carboxymethyl chitosan,2
+183,guanosine 5'-diphosphate,1,methylcellulose,2
+184,in situ forming,1,polyethylene glycol crosslinking,2
+185,nanofiber scaffold,1,muscle tissue engineering,2
+186,reduces,1,cellulose nanocrystals,2
+187,bone engineering,1,anisotropic,2
+188,thermally responsive,1,reverse thermal gel,2
+189,enzymes,1,carbon nanotube,2
+190,polysaccharides,1,crosslinking method,2
+191,cartilage microparticle acellular tissue matrix,1,pterygia,2
+192,acellular cartilage,1,vascular endothelial growth factor,2
+193,umbilical cord stem cells,1,corneal crosslinking,2
+194,calcium phosphate,1,corneal biomechanics,2
+195,injectable cardiac tissue engineering,1,poly(l-glutamic acid),2
+196,biodegradation,1,biomedical engineering,2
+197,injectable formulations,1,injectable bone graft,2
+198,reticulation processes,1,calcium phosphate cement,2
+199,swelling,1,human induced,2
+200,biomaterial,1,stem cell,2
+201,in situ pore formation,1,soft tissue reconstruction,2
+202,poly(lactic-co-glycolic,1,cell separation,2
+203,in vivo,1,antibody immobilization,2
+204,injectable cell delivery,1,injectable materials,2
+205,rheology,1,in situ cross-linking,2
+206,shear,1,cardiac catheters,2
+207,viscoelastic properties,1,pulmonary valve,2
+208,biocompatibility,1,therapy,2
+209,poly(ethylene,1,soft tissue,2
+210,thermosensitive,1,left-ventricular function,2
+211,inorganic nanoparticles,1,adult,2
+212,biomineralization,1,bioactive materials,2
+213,beta-tricalcium phosphate (beta-tcp) beads,1,injectable bone cement,2
+214,chitosan microparticles,1,in situ forming,2
+215,human study,1,thermally responsive,2
+216,injectable tissue-engineered bone,1,umbilical cord stem cells,2
+217,mesenchymal stem cells,1,calcium phosphate,2
+218,plga,1,injectable cardiac tissue engineering,2
+219,mesenchymal stem cell,1,injectable cell delivery,2
+220,injectable biomaterial,1,beta-tricalcium phosphate (beta-tcp) beads,2
+221,initiator,1,human study,2
+222,thermo-reponsive hydrogel,1,injectable tissue-engineered bone,2
+223,photopolymerization,1,mesenchymal stem cells,2
+224,guluronate) hydrogels,1,thermo-reponsive hydrogel,2
+225,in-situ,1,photopolymerization,2
+226,plg,1,macroporous hydrogel,1
+227,proteoglycan,1,gelatin/oxidized alginate/adipic acid dihydrazide,1
+228,microsphere,1,hyaluronic-acid hydrogel,1
+229,cell,1,nanofiber scaffold,1
+230,surface,1,reduces,1
+231,absorbable,1,cartilage microparticle acellular tissue matrix,1
+232,beads,1,acellular cartilage,1
+233,injectable gels,1,guluronate) hydrogels,1
+234,degradation,1,in-situ,1
+235,poly(aldehyde guluronate),1,injectable gels,1

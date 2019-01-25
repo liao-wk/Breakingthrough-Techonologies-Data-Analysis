@@ -1,0 +1,340 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,design,12,design,39
+1,mobile robot,7,mobile robot,18
+2,robot design,6,robot design,17
+3,mechanism design,5,robots,14
+4,modular design,5,human-robot interaction,13
+5,human-robot interaction,5,modular design,12
+6,humanoid robots,4,mechanism design,11
+7,robots,4,robot,11
+8,robotics,4,robotics,11
+9,kinematics,4,kinematics,11
+10,robot,3,industrial robot,9
+11,control system,3,humanoid robots,8
+12,workspace,3,robot contest,8
+13,industrial robot,3,control system,8
+14,service robot,2,workspace,8
+15,autonomous mobile robot,2,service robot,7
+16,robot contest,2,robot ethics,7
+17,humanoid robotics,2,component,7
+18,wall climbing robot,2,adaptation,7
+19,robot ethics,2,mobile,6
+20,mobile,2,mobile robots,6
+21,mobile robots,2,quadruped robot,6
+22,component,2,humanoid robot,6
+23,quadruped robot,2,mechanical design,6
+24,humanoid robot,2,structure design,6
+25,mechanical design,2,minimal design,6
+26,adaptation,2,communication robot,6
+27,structure design,2,autonomous mobile robot,5
+28,parallel robot,2,humanoid robotics,5
+29,entertainment robotics,2,wall climbing robot,5
+30,wheeled robot,2,parallel robot,5
+31,minimal design,2,robot cowl,4
+32,communication robot,2,real,4
+33,distributed robot systems,1,design education,4
+34,networked robots,1,aesthetic appeal,4
+35,multi-robot systems,1,3d,4
+36,compliant mechanisms,1,3d-cad,4
+37,multimodal locomotion,1,rapid prototyping,4
+38,robot design methodology,1,design process,4
+39,caddie robot,1,rehabilitation,4
+40,functional tuple,1,stroke,4
+41,module partition,1,upper-limb,4
+42,interactive design,1,servitude,4
+43,digital fabrication,1,designing,4
+44,data-driven methods,1,eugenics,4
+45,robot cowl,1,hydraulic quadruped robot,4
+46,real,1,bound planes,4
+47,robot designs,1,fem,4
+48,organism-based robot,1,strength analysis,4
+49,object-based robot,1,mechanisms,4
+50,human-robot,1,robot dynamics and control,4
+51,design education,1,applications,4
+52,aesthetic appeal,1,parallel mechanism,4
+53,3d,1,topology,4
+54,3d-cad,1,hexapod robot,4
+55,rapid prototyping,1,bionics,4
+56,design process,1,trot,4
+57,innovation platform,1,time-pose control method,4
+58,full-size,1,gait,4
+59,system design,1,entertainment robotics,4
+60,innovative design,1,wheeled robot,4
+61,delta robot,1,space,4
+62,platform,1,reliability,4
+63,kinematics inverse solution,1,fault-tolerant,4
+64,rehabilitation,1,omni-directional mobile robot,4
+65,stroke,1,mecanum whewl,4
+66,upper-limb,1,mcu,4
+67,emotion prototyping,1,zigbee,4
+68,experience design,1,cc2420 chip,4
+69,engineering education,1,life-likess,4
+70,co-design,1,information,4
+71,ship shell plate painting,1,development,4
+72,basic,1,evolvability,4
+73,servitude,1,modularity,4
+74,designing,1,pleiotropy,4
+75,eugenics,1,caddie robot,3
+76,legged locomotion,1,functional tuple,3
+77,robot kinematics,1,module partition,3
+78,self-adaptive mechanisms,1,robot designs,3
+79,robot-inclusive spaces,1,organism-based robot,3
+80,robot-environment interaction,1,object-based robot,3
+81,autonomy,1,human-robot,3
+82,flapping wing robot,1,innovation platform,3
+83,seagull robot,1,full-size,3
+84,flapping wing mechanism,1,system design,3
+85,planar four,1,innovative design,3
+86,animation,1,delta robot,3
+87,robot animation,1,platform,3
+88,expressive,1,kinematics inverse solution,3
+89,leg kinematics design,1,emotion prototyping,3
+90,quadrupeds,1,experience design,3
+91,legged robots,1,engineering education,3
+92,force,1,co-design,3
+93,accessibility,1,ship shell plate painting,3
+94,blind,1,basic,3
+95,participatory design,1,legged locomotion,3
+96,hri,1,robot kinematics,3
+97,value sensitive design (vsd),1,self-adaptive mechanisms,3
+98,robot design principles,1,robot-inclusive spaces,3
+99,humanoid,1,robot-environment interaction,3
+100,designing robot behavior,1,autonomy,3
+101,legible robot,1,flapping wing robot,3
+102,user centered design,1,seagull robot,3
+103,r1,1,flapping wing mechanism,3
+104,hydraulic quadruped robot,1,planar four,3
+105,bound planes,1,animation,3
+106,fem,1,robot animation,3
+107,strength analysis,1,expressive,3
+108,independent drive and steering,1,leg kinematics design,3
+109,remote control,1,quadrupeds,3
+110,mechanical,1,legged robots,3
+111,control of robotic systems,1,force,3
+112,mechatronic systems,1,accessibility,3
+113,robot inclusive spaces,1,blind,3
+114,robotics challenge,1,participatory design,3
+115,design for robots,1,hri,3
+116,service,1,value sensitive design (vsd),3
+117,mechanisms,1,robot design principles,3
+118,robot dynamics and control,1,humanoid,3
+119,applications,1,user centered design,3
+120,wrist rehabilitation robot,1,r1,3
+121,design and fabrication robot,1,independent drive and steering,3
+122,kinematics and,1,remote control,3
+123,multi-robot design,1,mechanical,3
+124,human-robot interactions,1,control of robotic systems,3
+125,ergonomics,1,mechatronic systems,3
+126,developing path,1,robot inclusive spaces,3
+127,complex system evolution,1,robotics challenge,3
+128,designing robot,1,design for robots,3
+129,ankle rehabilitation robot,1,service,3
+130,fuzzy logic based controller,1,multi-robot design,3
+131,parallel,1,human-robot interactions,3
+132,research platform,1,ergonomics,3
+133,underactuated mechanism,1,underactuated mechanism,3
+134,monte carlo method,1,monte carlo method,3
+135,robot wrist,1,robot wrist,3
+136,small robots,1,small robots,3
+137,vibration,1,vibration,3
+138,motion analysis,1,motion analysis,3
+139,wheeled hopping robot,1,wheeled hopping robot,3
+140,parameters,1,parameters,3
+141,cross obstacles and,1,cross obstacles and,3
+142,parallel mechanism,1,biped robot,3
+143,topology,1,wheel-legged robot,3
+144,hexapod robot,1,mechatronic design,3
+145,biped robot,1,hexapod,3
+146,wheel-legged robot,1,robot dance,3
+147,mechatronic design,1,movement design,3
+148,hexapod,1,kinematics modeling,3
+149,bionics,1,implementation,3
+150,trot,1,fea,3
+151,time-pose control method,1,three-fingered robot hand,3
+152,gait,1,ansys,3
+153,dynamics,1,sd method,3
+154,miniature,1,kj method,3
+155,robot dance,1,scara,3
+156,movement design,1,robot's mechanical design,3
+157,kinematics modeling,1,joint design,3
+158,implementation,1,domestic robots,3
+159,fea,1,design preferences,3
+160,three-fingered robot hand,1,attitude towards robots,3
+161,ansys,1,anxiety,3
+162,sd method,1,in-pipe robot,3
+163,kj method,1,axiomatic design,3
+164,scara,1,independence,3
+165,robot's mechanical design,1,traction ability,3
+166,joint design,1,surgical robot,3
+167,domestic robots,1,(mis) minimally invasive surgery,3
+168,design preferences,1,aerial robot,3
+169,attitude towards robots,1,structural layout design,3
+170,anxiety,1,manufacture,3
+171,categorization,1,modula design,3
+172,human-oriented robot,1,value-sensitive design,3
+173,in-pipe robot,1,care robots,3
+174,axiomatic design,1,ethics and design,3
+175,independence,1,design robot,3
+176,traction ability,1,developmental design,3
+177,surgical robot,1,agent,3
+178,(mis) minimally invasive surgery,1,robot arm,3
+179,aerial robot,1,chinese medical massage,3
+180,structural layout design,1,chain drive,3
+181,manufacture,1,gesture vocabulary,3
+182,modula design,1,dialog,3
+183,the flying and adhesive robot,1,design methods,3
+184,adhesion mechanism,1,animation and simulation,3
+185,supporting system,1,assistive robotics,3
+186,value-sensitive design,1,personal,3
+187,care robots,1,stacking-destacking,3
+188,ethics and design,1,kinematics analysis,3
+189,design robot,1,five-dof,3
+190,developmental design,1,perpendicular jointed,3
+191,agent,1,product design,3
+192,spherical robot,1,robot vision,3
+193,reconnaissance robot,1,age and disabled helping robot (adhr),3
+194,absorber mechanism,1,arm,3
+195,robot arm,1,dsp,3
+196,chinese medical massage,1,autonomous robots,3
+197,chain drive,1,surveillance,3
+198,social interaction,1,robot exploration,3
+199,tutoring,1,robot team design,3
+200,children evaluation,1,project,3
+201,module intelligent,1,security,3
+202,fire fighting robot,1,anthropomorphic arms,3
+203,obstacle avoidance ultrasonic,1,simulation,3
+204,welding robot,1,crawling robot,3
+205,fischertechnik combination model,1,slider-crank mechanism,3
+206,plc control system,1,geneva mechanism,3
+207,open source,1,housekeeping robots,3
+208,cognitive system,1,hybrid sensors,3
+209,under water hull cleaning robot,1,neural networks,3
+210,remotely operated vehicle,1,robot navigation,3
+211,hydrodynamic,1,fdnet,3
+212,bionic snake-like robot,1,cognitive model,3
+213,structural design,1,module robot design,3
+214,structural research,1,robot middle ware,3
+215,mobile platform,1,omnidirectional vehicles,3
+216,food sorting,1,rough terrain,3
+217,mechanical manipulator,1,isotropy,3
+218,stability condition,1,intelligent,3
+219,walking process,1,autonomous robot,3
+220,dispersing information detecting robot,1,robot-in-the-loop simulation,3
+221,anti-impact mechanism design,1,devs,3
+222,virtual prototype technology,1,simulation based design,3
+223,"demolition robot,work elements",1,fpga design,3
+224,kinematic,1,master robot,3
+225,arm and hand design,1,slave robot,3
+226,pipeline robot,1,humanoid robot arms,3
+227,communication,1,collaborative design,3
+228,high-speed,1,modular robot,3
+229,dynamic property,1,robot platform,3
+230,gesture vocabulary,1,robot family,3
+231,dialog,1,gorilla robot,3
+232,design methods,1,robot system,3
+233,animation and simulation,1,modular combinational,3
+234,assistive robotics,1,parallel manipulators,3
+235,personal,1,reconfigurable,3
+236,interaction,1,distributed robot systems,2
+237,stacking-destacking,1,networked robots,2
+238,kinematics analysis,1,multi-robot systems,2
+239,five-dof,1,compliant mechanisms,2
+240,perpendicular jointed,1,multimodal locomotion,2
+241,product design,1,robot design methodology,2
+242,korean service robot,1,interactive design,2
+243,kinematic analysis,1,digital fabrication,2
+244,robot vision,1,data-driven methods,2
+245,age and disabled helping robot (adhr),1,designing robot behavior,2
+246,arm,1,legible robot,2
+247,dsp,1,wrist rehabilitation robot,2
+248,conceptual design,1,design and fabrication robot,2
+249,palletizing robot,1,kinematics and,2
+250,computer-aided design,1,developing path,2
+251,autonomous robots,1,complex system evolution,2
+252,surveillance,1,designing robot,2
+253,robot exploration,1,ankle rehabilitation robot,2
+254,robot team design,1,fuzzy logic based controller,2
+255,project,1,parallel,2
+256,security,1,research platform,2
+257,anthropomorphic arms,1,categorization,2
+258,simulation,1,human-oriented robot,2
+259,space robotics,1,the flying and adhesive robot,2
+260,simulation-based design,1,adhesion mechanism,2
+261,six-legged walking robot,1,supporting system,2
+262,virtual mobile robot design cycle,1,spherical robot,2
+263,quantitative research,1,reconnaissance robot,2
+264,program,1,absorber mechanism,2
+265,crawling robot,1,social interaction,2
+266,slider-crank mechanism,1,tutoring,2
+267,geneva mechanism,1,children evaluation,2
+268,housekeeping robots,1,module intelligent,2
+269,hybrid sensors,1,fire fighting robot,2
+270,neural networks,1,obstacle avoidance ultrasonic,2
+271,robot navigation,1,welding robot,2
+272,eod/iedd,1,fischertechnik combination model,2
+273,design tendencies,1,plc control system,2
+274,modular devices,1,open source,2
+275,reconfigurable mechanisms,1,cognitive system,2
+276,space,1,under water hull cleaning robot,2
+277,reliability,1,remotely operated vehicle,2
+278,fault-tolerant,1,hydrodynamic,2
+279,vehicle,1,bionic snake-like robot,2
+280,weight design,1,structural design,2
+281,fdnet,1,structural research,2
+282,cognitive model,1,mobile platform,2
+283,module robot design,1,food sorting,2
+284,robot middle ware,1,mechanical manipulator,2
+285,torpedo-shape robot fish,1,stability condition,2
+286,experimental study,1,walking process,2
+287,health and safety,1,virtual prototype technology,2
+288,omni-directional mobile robot,1,"demolition robot,work elements",2
+289,mecanum whewl,1,kinematic,2
+290,mcu,1,pipeline robot,2
+291,zigbee,1,communication,2
+292,cc2420 chip,1,high-speed,2
+293,omnidirectional vehicles,1,dynamic property,2
+294,rough terrain,1,interaction,2
+295,isotropy,1,korean service robot,2
+296,intelligent,1,kinematic analysis,2
+297,autonomous robot,1,conceptual design,2
+298,mechanism,1,palletizing robot,2
+299,embedded controller,1,computer-aided design,2
+300,robot-in-the-loop simulation,1,space robotics,2
+301,devs,1,simulation-based design,2
+302,simulation based design,1,six-legged walking robot,2
+303,design and implementation,1,virtual mobile robot design cycle,2
+304,fpga design,1,quantitative research,2
+305,master robot,1,program,2
+306,slave robot,1,eod/iedd,2
+307,humanoid robot arms,1,design tendencies,2
+308,self-assembling robots in a system (srs),1,vehicle,2
+309,operating capability,1,weight design,2
+310,robot with limb mechanism,1,torpedo-shape robot fish,2
+311,integrated mechanism of,1,experimental study,2
+312,embodied interface and,1,health and safety,2
+313,life-likess,1,mechanism,2
+314,information,1,embedded controller,2
+315,collaborative design,1,operating capability,2
+316,modular robot,1,robot with limb mechanism,2
+317,robot platform,1,integrated mechanism of,2
+318,robot family,1,embodied interface and,2
+319,gorilla robot,1,nonlinear control,2
+320,robot system,1,trajectory linearization,2
+321,modular combinational,1,human-robot communication,2
+322,nonlinear control,1,mutual adaptive model,2
+323,trajectory linearization,1,synchronic actions,2
+324,human-robot communication,1,evolutionary robotics,2
+325,mutual adaptive model,1,artificial life,2
+326,synchronic actions,1,evolutionary algorithms,2
+327,development,1,body-brain evolution,2
+328,evolvability,1,generative representations,2
+329,modularity,1,representation,2
+330,pleiotropy,1,dynamics,1
+331,parallel manipulators,1,miniature,1
+332,evolutionary robotics,1,dispersing information detecting robot,1
+333,artificial life,1,anti-impact mechanism design,1
+334,evolutionary algorithms,1,arm and hand design,1
+335,body-brain evolution,1,modular devices,1
+336,generative representations,1,reconfigurable mechanisms,1
+337,representation,1,design and implementation,1
+338,reconfigurable,1,self-assembling robots in a system (srs),1

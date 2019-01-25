@@ -1,0 +1,324 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,wireless sensor networks,19,wireless sensor networks,47
+1,sensor networks,7,sensor networks,21
+2,energy efficiency,7,energy efficiency,20
+3,ad hoc networks,5,localization,13
+4,energy harvesting,4,ad hoc networks,12
+5,cognitive radio,4,energy harvesting,11
+6,localization,4,cognitive radio,10
+7,survey,3,sensor,10
+8,internet of things,3,internet of things (iot),9
+9,sensor,3,survey,8
+10,positioning,3,internet of things,8
+11,internet of things (iot),2,algorithms,8
+12,routing,2,design,8
+13,algorithms,2,experimentation,8
+14,design,2,performance,8
+15,experimentation,2,rfid,8
+16,performance,2,energy generation,8
+17,rfid,2,micro,8
+18,energy generation,2,coap,7
+19,mimo,2,mqtt,7
+20,micro,2,amqp,7
+21,body area networks,2,xmpp,7
+22,distributed algorithms,2,dds,7
+23,information,2,mdns,7
+24,ieee 802.15.4,2,iot gateway,7
+25,cooperative diversity,2,positioning,7
+26,consensus,2,5g,6
+27,zigbee,2,cloud,6
+28,transport,2,d2d,6
+29,split common fixed point problem,1,massive mimo,6
+30,asymptotically nonexpansive mapping,1,mm-wave,6
+31,5g,1,relay,6
+32,cloud,1,small-cell,6
+33,d2d,1,routing,6
+34,massive mimo,1,mimo,6
+35,mm-wave,1,consensus,6
+36,relay,1,transport,6
+37,small-cell,1,internet-of-things,5
+38,coap,1,web,5
+39,mqtt,1,smart objects,5
+40,amqp,1,sensors,5
+41,xmpp,1,actuators,5
+42,dds,1,body area networks,5
+43,mdns,1,ieee 802.15.4,5
+44,iot gateway,1,zigbee,5
+45,rf-powered cognitive radio network,1,ieee 802.15.6,4
+46,simultaneous wireless information,1,medium access control,4
+47,complicated industrial applications,1,physical layer,4
+48,data-based techniques,1,wireless,4
+49,monitoring,1,full duplex,4
+50,big data analytics,1,computation,4
+51,enterprise systems,1,displays,4
+52,information and communications,1,energy storage,4
+53,full-duplex,1,flexible,4
+54,simultaneous transmit and receive,1,ofdm,4
+55,wireless communications,1,resource management,4
+56,strain sensors,1,energy resources,4
+57,graphene,1,piezoelectric,4
+58,skin sensors,1,vibration,4
+59,human motion monitoring,1,distributed algorithms,4
+60,millimeter wave,1,cooperative diversity,4
+61,multiple-input multiple-output (mimo),1,interference,4
+62,antenna arrays,1,multipath channel,4
+63,cyber physical systems,1,ranging,4
+64,mobile computing,1,time-of-arrival,4
+65,free-space optical (fso) communication,1,far field,4
+66,optical wireless communication,1,floating gate,4
+67,physical layer security,1,high efficiency,4
+68,information-theoretic security,1,interface circuit,4
+69,wiretap,1,aoa,4
+70,software-defined networking,1,rss,4
+71,programmable networks,1,tdoa,4
+72,data plane,1,health monitoring,4
+73,ieee 802.15.6,1,hardware,4
+74,medium access control,1,software,4
+75,physical layer,1,signal,4
+76,wireless,1,distributed averaging,4
+77,context awareness,1,gossip,4
+78,sensor data,1,random walk,4
+79,wireless power,1,scaling laws,4
+80,throughput maximization,1,connectivity,4
+81,doubly,1,energy consumption,4
+82,full duplex,1,topology control,4
+83,3-d beamforming,1,bluetooth (bt),4
+84,antenna correlation,1,fieldbus systems,4
+85,deterministic equivalents,1,hybrid systems,4
+86,ubiquitous sensing,1,ieee 802.11,4
+87,cloud computing,1,ieee,4
+88,wireless sensor,1,query processing,4
+89,wireless power transfer,1,data,4
+90,amplify-and-forward,1,clustering,4
+91,routing protocols,1,network lifetime,4
+92,cooperative communication,1,fault,4
+93,cross-layer optimization,1,information,4
+94,postural transitions,1,memoryless sources,4
+95,body-fixed-sensor,1,ldpc codes,4
+96,method comparison,1,compression,4
+97,older,1,duality,4
+98,internet-of-things,1,microelectrodes,4
+99,web,1,microfluidics,4
+100,smart objects,1,micromachining,4
+101,sensors,1,microsystems,4
+102,actuators,1,nervous,4
+103,computation,1,strain sensors,3
+104,displays,1,graphene,3
+105,energy storage,1,skin sensors,3
+106,flexible,1,human motion monitoring,3
+107,energy conversion,1,software-defined networking,3
+108,nanogenerators,1,programmable networks,3
+109,nanotechnology,1,data plane,3
+110,photovoltaics,1,context awareness,3
+111,ofdm,1,sensor data,3
+112,resource management,1,wireless power,3
+113,energy resources,1,throughput maximization,3
+114,piezoelectric,1,doubly,3
+115,vibration,1,ubiquitous sensing,3
+116,cellular systems,1,cloud computing,3
+117,outage probability,1,wireless sensor,3
+118,sinr,1,postural transitions,3
+119,stochastic geometry,1,body-fixed-sensor,3
+120,delay-tolerant network (dtn),1,method comparison,3
+121,human mobility,1,older,3
+122,levy walk,1,energy conversion,3
+123,mobile ad hoc,1,nanogenerators,3
+124,wireless body area networks,1,nanotechnology,3
+125,mac,1,photovoltaics,3
+126,consensus protocols,1,cellular systems,3
+127,distributed processing,1,outage probability,3
+128,pervasive healthcare,1,sinr,3
+129,care for elderly,1,stochastic geometry,3
+130,pervasive computing,1,delay-tolerant network (dtn),3
+131,rfid systems,1,human mobility,3
+132,cc2420,1,levy walk,3
+133,diagnostics,1,mobile ad hoc,3
+134,link-quality indicator (lqi),1,cc2420,3
+135,gps-enabled cell phones,1,diagnostics,3
+136,traffic monitoring systems,1,link-quality indicator (lqi),3
+137,traffic sensors,1,adaptive networks,3
+138,optimal energy management policies,1,diffusion lms,3
+139,adaptive networks,1,diffusion networks,3
+140,diffusion lms,1,distributed,3
+141,diffusion networks,1,biosensor,3
+142,distributed,1,health-monitoring,3
+143,biosensor,1,wearable systems,3
+144,health-monitoring,1,power management,3
+145,wearable systems,1,cooperative processing,3
+146,cross-layer design,1,factor graphs,3
+147,industrial wireless sensor networks (iwsns),1,sum-product,3
+148,isa100,1,additive noise,3
+149,power management,1,stochastic approximation,3
+150,cyclostationarity,1,wireless sensor network,3
+151,fast fourier transform (fft),1,protocols,3
+152,wireless relay networks,1,sensor network services,3
+153,relay selection,1,node placement,3
+154,interference,1,node relocation,3
+155,multipath channel,1,ieee 802154,3
+156,ranging,1,industrial-qos,3
+157,time-of-arrival,1,spatial and cooperative,3
+158,cooperative processing,1,sensing-throughput tradeoff,3
+159,factor graphs,1,spectrum reuse,3
+160,sum-product,1,spectrum,3
+161,bandwidth signals,1,clustering algorithms,3
+162,belief,1,scalability,3
+163,spectrum sensing,1,network,3
+164,dynamic spectrum access,1,communication networks,3
+165,additive noise,1,control of networks,3
+166,stochastic approximation,1,control systems,3
+167,injection locking,1,complexity regularization,3
+168,microwave photonics,1,data compression,3
+169,optical generation and,1,denoising,3
+170,wireless sensor network,1,rademacher,3
+171,protocols,1,system design,3
+172,sensor network services,1,simulations,3
+173,node placement,1,service differentiation,3
+174,node relocation,1,coherence time,3
+175,far field,1,fading channel,3
+176,floating gate,1,network cooperative diversity,3
+177,high efficiency,1,outage,3
+178,interface circuit,1,m2m,3
+179,ieee 802154,1,bluetooth,3
+180,industrial-qos,1,node organization,3
+181,spatial and cooperative,1,disjoint,3
+182,sensing-throughput tradeoff,1,acoustic energy,3
+183,spectrum reuse,1,acoustic intensity,3
+184,spectrum,1,maximum likelihood,3
+185,delay tolerant networks,1,nonlinear least,3
+186,intermittent connectivity,1,adaptive systems,3
+187,distributed estimation,1,cooperative control,3
+188,nonlinear optimization,1,gradient methods,3
+189,indoor location sensing,1,mobile robots,3
+190,location fingerprinting,1,spatial correlation,3
+191,positioning algorithm,1,temporal correlation,3
+192,clustering algorithms,1,mac protocol,3
+193,scalability,1,fault tolerance,3
+194,network,1,event detection,3
+195,aoa,1,sensor fusion,3
+196,rss,1,bayesian algorithms,3
+197,tdoa,1,geographic forwarding,3
+198,multimedia communications,1,multihop performance,3
+199,distributed smart,1,data aggregation,3
+200,communication networks,1,data-centric routing,3
+201,control of networks,1,distributed sensing,3
+202,control systems,1,in-network,3
+203,environmental monitoring,1,application layer,3
+204,cyberinfrastructure,1,complicated industrial applications,2
+205,complexity regularization,1,data-based techniques,2
+206,data compression,1,monitoring,2
+207,denoising,1,big data analytics,2
+208,rademacher,1,enterprise systems,2
+209,health monitoring,1,information and communications,2
+210,hardware,1,full-duplex,2
+211,software,1,simultaneous transmit and receive,2
+212,signal,1,wireless communications,2
+213,clustering algorithm,1,millimeter wave,2
+214,heterogeneous,1,multiple-input multiple-output (mimo),2
+215,distributed averaging,1,antenna arrays,2
+216,gossip,1,cyber physical systems,2
+217,random walk,1,mobile computing,2
+218,scaling laws,1,physical layer security,2
+219,mobile sensor networks,1,information-theoretic security,2
+220,sensor coverage,1,wiretap,2
+221,distributed algorithm,1,3-d beamforming,2
+222,system design,1,antenna correlation,2
+223,simulations,1,deterministic equivalents,2
+224,service differentiation,1,wireless power transfer,2
+225,coherence time,1,amplify-and-forward,2
+226,fading channel,1,routing protocols,2
+227,network cooperative diversity,1,cooperative communication,2
+228,outage,1,cross-layer optimization,2
+229,m2m,1,wireless body area networks,2
+230,bluetooth,1,mac,2
+231,transverse mode piezoelectric,1,consensus protocols,2
+232,micro power generator,1,distributed processing,2
+233,cantilever beam,1,pervasive healthcare,2
+234,connectivity,1,care for elderly,2
+235,energy consumption,1,pervasive computing,2
+236,topology control,1,rfid systems,2
+237,bluetooth (bt),1,gps-enabled cell phones,2
+238,fieldbus systems,1,traffic monitoring systems,2
+239,hybrid systems,1,traffic sensors,2
+240,ieee 802.11,1,optimal energy management policies,2
+241,ieee,1,cross-layer design,2
+242,node organization,1,industrial wireless sensor networks (iwsns),2
+243,disjoint,1,isa100,2
+244,wireless mesh networks,1,cyclostationarity,2
+245,query processing,1,fast fourier transform (fft),2
+246,data,1,wireless relay networks,2
+247,cmos digital integrated circuits,1,relay selection,2
+248,cmos memory circuits,1,spectrum sensing,2
+249,coprocessors,1,dynamic spectrum access,2
+250,block fading,1,injection locking,2
+251,hybrid-automatic repeat request,1,microwave photonics,2
+252,acoustic energy,1,optical generation and,2
+253,acoustic intensity,1,delay tolerant networks,2
+254,maximum likelihood,1,intermittent connectivity,2
+255,nonlinear least,1,distributed estimation,2
+256,smart dust,1,nonlinear optimization,2
+257,target classification and,1,indoor location sensing,2
+258,clustering,1,location fingerprinting,2
+259,network lifetime,1,positioning algorithm,2
+260,fault,1,multimedia communications,2
+261,memoryless sources,1,distributed smart,2
+262,ldpc codes,1,environmental monitoring,2
+263,compression,1,cyberinfrastructure,2
+264,duality,1,clustering algorithm,2
+265,kalman estimation,1,heterogeneous,2
+266,missing observation,1,mobile sensor networks,2
+267,online adaptive filtering,1,sensor coverage,2
+268,energy-sensitive routing,1,distributed algorithm,2
+269,power aware routing,1,transverse mode piezoelectric,2
+270,wireless ad hoc networks,1,micro power generator,2
+271,cooperative multi-input-multi-output (mimo),1,cantilever beam,2
+272,adaptive systems,1,wireless mesh networks,2
+273,cooperative control,1,cmos digital integrated circuits,2
+274,gradient methods,1,cmos memory circuits,2
+275,mobile robots,1,coprocessors,2
+276,spatial correlation,1,block fading,2
+277,temporal correlation,1,hybrid-automatic repeat request,2
+278,mac protocol,1,smart dust,2
+279,tenergy efficiency,1,target classification and,2
+280,medium access control (mac),1,kalman estimation,2
+281,sensor network,1,missing observation,2
+282,centroidal voronoi partitions,1,online adaptive filtering,2
+283,coverage control,1,energy-sensitive routing,2
+284,distributed and,1,power aware routing,2
+285,fault tolerance,1,wireless ad hoc networks,2
+286,event detection,1,cooperative multi-input-multi-output (mimo),2
+287,sensor fusion,1,tenergy efficiency,2
+288,bayesian algorithms,1,medium access control (mac),2
+289,microelectrodes,1,sensor network,2
+290,microfluidics,1,centroidal voronoi partitions,2
+291,micromachining,1,coverage control,2
+292,microsystems,1,distributed and,2
+293,nervous,1,electrodes,2
+294,electrodes,1,microelectrode arrays,2
+295,microelectrode arrays,1,electrical-stimulation,2
+296,electrical-stimulation,1,ad-hoc networks,2
+297,ad-hoc networks,1,cramer-rao bound,2
+298,geographic forwarding,1,radio channel measurement,2
+299,multihop performance,1,collaborative signal processing,2
+300,cramer-rao bound,1,microsensors,2
+301,radio channel measurement,1,network routing and,2
+302,collaborative signal processing,1,energy scavenging,2
+303,microsensors,1,vibration to electricity conversion,2
+304,network routing and,1,self powered,2
+305,energy scavenging,1,government construction projects,2
+306,vibration to electricity conversion,1,supervisory system,2
+307,self powered,1,government,2
+308,data aggregation,1,aps,2
+309,data-centric routing,1,data gathering protocols,2
+310,distributed sensing,1,energy-efficient,2
+311,in-network,1,secure communication protocols,2
+312,government construction projects,1,mobile ad hoc networks,2
+313,supervisory system,1,energy-efficient protocols,2
+314,government,1,negotiation-based,2
+315,aps,1,split common fixed point problem,1
+316,data gathering protocols,1,asymptotically nonexpansive mapping,1
+317,energy-efficient,1,rf-powered cognitive radio network,1
+318,secure communication protocols,1,simultaneous wireless information,1
+319,mobile ad hoc networks,1,free-space optical (fso) communication,1
+320,application layer,1,optical wireless communication,1
+321,energy-efficient protocols,1,bandwidth signals,1
+322,negotiation-based,1,belief,1

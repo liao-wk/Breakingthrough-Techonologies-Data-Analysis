@@ -1,0 +1,305 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,nanoimprint lithography,60,nanoimprint lithography,146
+1,nanoimprint,28,nanoimprint,98
+2,lithography,12,lithography,40
+3,nanofabrication,10,nanofabrication,27
+4,uv-nil,7,uv-nil,23
+5,template,5,template,21
+6,uv nanoimprint lithography,5,mold,16
+7,uv nanoimprint,5,nil,15
+8,uv-nanoimprint lithography,5,uv nanoimprint,15
+9,mold,4,nanopatterning,14
+10,nanopatterning,4,uv-nanoimprint lithography,14
+11,electron beam lithography,4,uv-nanoimprint,14
+12,hot embossing,4,uv nanoimprint lithography,13
+13,uv-nanoimprint,4,defect,12
+14,biomass,3,hot embossing,12
+15,defect,3,nanostructures,11
+16,nanostructures,3,replica,10
+17,nil,3,biomass,9
+18,nanoimprint lithography (nil),3,polymers,9
+19,polymers,3,working stamps,9
+20,working stamps,3,s-fil,9
+21,s-fil,3,p-nil,9
+22,alignment,3,nanonex,9
+23,moire,3,polymer,8
+24,polydimethylsiloxane (pdms),2,electron beam lithography,8
+25,replica,2,shrinkage,8
+26,hot embossing lithography,2,modulus,8
+27,dry etching,2,alignment,8
+28,polymer,2,moire,8
+29,condensable gas,2,wafer scale,8
+30,pentafluoropropane,2,dry etching,7
+31,hybrid polymer,2,nanolithography,7
+32,photonic crystal,2,imprinting,7
+33,soft stamp,2,condensable gas,6
+34,resist material,2,pentafluoropropane,6
+35,nanolithography,2,soft stamp,6
+36,glass,2,resist material,6
+37,sol-gel,2,glass,6
+38,imprinting,2,sol-gel,6
+39,pdms,2,ngl,6
+40,shrinkage,2,t-nil,6
+41,modulus,2,air cushion press,6
+42,stamp,2,image,5
+43,holographic lithography,2,hot embossing lithography,5
+44,arrays,2,image placement,5
+45,patterning,2,hybrid polymer,5
+46,wafer scale,2,nanoimprint lithography (nil),5
+47,p-nil,2,photonic crystal,5
+48,nanonex,2,pdms,5
+49,soft lithography,1,stamp,5
+50,gas permeability,1,arrays,5
+51,volatile solvent,1,patterning,5
+52,modulus of elasticity,1,replication,5
+53,template deformation,1,uv resin,5
+54,gas permeable template,1,roll to rolls,5
+55,metal nanostructure,1,mems,5
+56,structure building,1,polydimethylsiloxane (pdms),4
+57,image,1,molding,4
+58,low temperature,1,photomask,4
+59,bowtie aperture,1,gas-permeable,4
+60,near-field scanning optical lithography,1,optical gratings,4
+61,manufacturing,1,silicon mold,4
+62,molding,1,teflon,4
+63,photomask,1,roll-to-roll,4
+64,gas-permeable,1,residual layer,4
+65,optical gratings,1,roll-to-roll process,4
+66,silicon mold,1,adhesion,4
+67,teflon,1,releasing energy,4
+68,multi-scale,1,surface energy,4
+69,computational lithography,1,viscoelastic,4
+70,nanobowl array,1,finite element analysis,4
+71,self-assembly,1,pmma,4
+72,lift-off,1,jet and flash imprint lithography,4
+73,injection molding,1,j-fil,4
+74,functional surfaces,1,step and,4
+75,biocompatible magnetite,1,resist flow,4
+76,magnetic properties,1,uv cure,4
+77,thermal nanoimprint lithography,1,process simulation,4
+78,low,1,uv curable resist,4
+79,image placement,1,conversion time,4
+80,plant-based materials,1,lcd,4
+81,defect less process,1,tft,4
+82,roll-to-roll,1,gate,4
+83,nano-scale feature,1,large area,4
+84,t mold,1,polymer mold,4
+85,residual layer,1,plastomer,4
+86,roll-to-roll process,1,holographic lithography,4
+87,thermal-nanoimprint lithography,1,nanotechnology,4
+88,organic lasers,1,nanocasting,4
+89,distributed feedback,1,anti-reflection,4
+90,replica mold,1,reproduction,4
+91,second generation,1,low cost,4
+92,thermal roller nanoimprint lithography,1,cd control,4
+93,shrink bopp film,1,reproducibility,4
+94,anodic aluminum oxide,1,step & repeat,4
+95,porous silicon,1,spin-coating,4
+96,raman,1,resist,4
+97,nanostencil lithography,1,resolution,4
+98,nanowires,1,viscosity,4
+99,bridged-grain,1,retardation time,4
+100,thin film transistor,1,molecular weight,4
+101,graphene nanorings,1,quantum-dot,4
+102,nanorribons,1,hsq,4
+103,bandgap,1,bilayer,4
+104,fishnet,1,high aspect resist patterns,4
+105,split ring resonators,1,fluorine,4
+106,metamaterials,1,gas permeability,3
+107,light-emitting diode,1,volatile solvent,3
+108,hydride,1,gas permeable template,3
+109,functional material,1,nanobowl array,3
+110,adhesion,1,self-assembly,3
+111,releasing energy,1,lift-off,3
+112,surface energy,1,anodic aluminum oxide,3
+113,hot embossing lithography (hel),1,porous silicon,3
+114,photonic band gap,1,raman,3
+115,nanoimpression,1,graphene nanorings,3
+116,organic transistor,1,nanorribons,3
+117,short channel effect,1,bandgap,3
+118,dfb ld,1,fishnet,3
+119,sfil,1,split ring resonators,3
+120,memristor,1,metamaterials,3
+121,crossbar arrays,1,light-emitting diode,3
+122,sub-10 nm,1,hydride,3
+123,soft nanoimprint lithography,1,dfb ld,3
+124,composite stamp,1,sfil,3
+125,viscoelastic,1,memristor,3
+126,finite element analysis,1,crossbar arrays,3
+127,pmma,1,sub-10 nm,3
+128,hardmask layer,1,hardmask layer,3
+129,fourier transforms,1,fourier transforms,3
+130,molecular dynamics method,1,molecular dynamics method,3
+131,moulding,1,moulding,3
+132,zno thin films,1,zno thin films,3
+133,surface pattern,1,surface pattern,3
+134,sol-gel methods,1,sol-gel methods,3
+135,mold of a sub-micron grating array,1,mold of a sub-micron grating array,3
+136,grating array,1,grating array,3
+137,maskless,1,maskless,3
+138,metal pattern transfer,1,metal pattern transfer,3
+139,soft mold,1,soft mold,3
+140,negative-index material,1,embedded metal electrode,3
+141,split-ring resonator,1,flexible film,3
+142,tilted nanoimprint,1,polyurethane,3
+143,embedded metal electrode,1,maskless lithography,3
+144,flexible film,1,subwavelength gratings,3
+145,polyurethane,1,optical fibers,3
+146,soft molecular scale,1,optical,3
+147,roll nanoimprint,1,process conditions,3
+148,photo-curable resin,1,plant-based resin,3
+149,jet and flash imprint lithography,1,high resolution,3
+150,j-fil,1,mold inversion,3
+151,step and,1,simulation,3
+152,maskless lithography,1,design rules,3
+153,subwavelength gratings,1,pattern dependencies,3
+154,optical fibers,1,dlc coating,3
+155,optical,1,flexible polymer,3
+156,grating,1,anti sticking,3
+157,process conditions,1,anti-adhesive,3
+158,plant-based resin,1,self-assembled monolayer,3
+159,high resolution,1,fdts,3
+160,mold inversion,1,data storage,3
+161,nanoimprint resin,1,e-beam lithography,3
+162,flow behavior,1,magnetic storage,3
+163,simulation,1,photonics,3
+164,design rules,1,epixnet,3
+165,pattern dependencies,1,nanoparticles,3
+166,resist flow,1,component,3
+167,uv cure,1,flexible stamp,3
+168,process simulation,1,thermal nanoimprint,3
+169,uv curable resist,1,roll typed,3
+170,conversion time,1,cmos devices,3
+171,mold fabrication,1,transparent stamps,3
+172,dlc coating,1,imprint lithography,3
+173,flexible polymer,1,features,3
+174,lcd,1,ultrasonic vibration,3
+175,tft,1,polycarbonate,3
+176,gate,1,3d structural templates,3
+177,large area,1,gray-scale lithography,3
+178,anodic alumina membranes,1,dot,3
+179,fluorescent nanorods,1,thermal nano imprint,3
+180,residual layer thickness,1,micro structure,3
+181,reversal lithography,1,nano structure,3
+182,nanophotoic chiral crystals,1,stamp material,3
+183,optical chirality,1,nanoindentation,3
+184,polymer mold,1,hardness,3
+185,plastomer,1,glass substrate,3
+186,anti sticking,1,viscous,3
+187,ultraviolet nanoimprint lithography,1,thermal nil,3
+188,ultrasonic nanoimprint lithography,1,microcontact printing,3
+189,assisted-heating,1,imprint,3
+190,micro fuel cell,1,contact mechanics,3
+191,flow field plate,1,nanoimprinting,3
+192,gratings,1,sub-100nm,3
+193,composite semiconductors,1,photo-curable nanoimprint lithography,3
+194,cell culture,1,nanoimprintor,3
+195,anti-adhesive,1,soft lithography,2
+196,self-assembled monolayer,1,modulus of elasticity,2
+197,fdts,1,template deformation,2
+198,data storage,1,metal nanostructure,2
+199,e-beam lithography,1,structure building,2
+200,magnetic storage,1,low temperature,2
+201,nanotechnology,1,bowtie aperture,2
+202,photonics,1,near-field scanning optical lithography,2
+203,epixnet,1,manufacturing,2
+204,nanoparticles,1,multi-scale,2
+205,component,1,computational lithography,2
+206,flexible stamp,1,injection molding,2
+207,thermal nanoimprint,1,functional surfaces,2
+208,roll typed,1,biocompatible magnetite,2
+209,osteoblast,1,magnetic properties,2
+210,nanoimpirint lithography (nil),1,thermal nanoimprint lithography,2
+211,roller-type nanoimprint lithography,1,low,2
+212,optical information processing,1,plant-based materials,2
+213,nanophotonics,1,defect less process,2
+214,surface gratings,1,nano-scale feature,2
+215,distributed feedback lasers,1,t mold,2
+216,cmos devices,1,thermal-nanoimprint lithography,2
+217,transparent stamps,1,organic lasers,2
+218,template release,1,distributed feedback,2
+219,nanoimprint resists,1,replica mold,2
+220,electrodeposition,1,second generation,2
+221,chemical mechanical,1,thermal roller nanoimprint lithography,2
+222,stamp and substrate deformation,1,shrink bopp film,2
+223,computer,1,nanostencil lithography,2
+224,imprint lithography,1,nanowires,2
+225,features,1,bridged-grain,2
+226,polythiophene,1,thin film transistor,2
+227,conductive polymer,1,functional material,2
+228,ultrasonic vibration,1,photonic band gap,2
+229,polycarbonate,1,nanoimpression,2
+230,nanocasting,1,organic transistor,2
+231,anti-reflection,1,short channel effect,2
+232,reproduction,1,soft nanoimprint lithography,2
+233,low cost,1,composite stamp,2
+234,reverse nanoimprint lithography,1,negative-index material,2
+235,three-dimensional nanofabrication,1,split-ring resonator,2
+236,nickel stamp,1,tilted nanoimprint,2
+237,cd control,1,soft molecular scale,2
+238,reproducibility,1,roll nanoimprint,2
+239,step & repeat,1,photo-curable resin,2
+240,3d structural templates,1,grating,2
+241,gray-scale lithography,1,nanoimprint resin,2
+242,dot,1,flow behavior,2
+243,isothermal imprint,1,mold fabrication,2
+244,thin layer soft lithography,1,anodic alumina membranes,2
+245,polymethyl methacrylate (pmma),1,fluorescent nanorods,2
+246,thermal nano imprint,1,residual layer thickness,2
+247,micro structure,1,reversal lithography,2
+248,nano structure,1,nanophotoic chiral crystals,2
+249,replication,1,optical chirality,2
+250,uv resin,1,ultraviolet nanoimprint lithography,2
+251,roll to rolls,1,ultrasonic nanoimprint lithography,2
+252,mems,1,assisted-heating,2
+253,stamp material,1,micro fuel cell,2
+254,nanoindentation,1,flow field plate,2
+255,hardness,1,gratings,2
+256,spin-coating,1,composite semiconductors,2
+257,resist,1,cell culture,2
+258,resolution,1,osteoblast,2
+259,etch,1,optical information processing,2
+260,photolithography,1,nanophotonics,2
+261,hybrid mask mold,1,surface gratings,2
+262,three-dimensional nanoimprint template,1,distributed feedback lasers,2
+263,focused ion beam lithography,1,template release,2
+264,photonic crystals,1,nanoimprint resists,2
+265,soft uv lithography,1,electrodeposition,2
+266,colloidal particles,1,chemical mechanical,2
+267,nanoimprinting lithography,1,stamp and substrate deformation,2
+268,multilayer structure,1,computer,2
+269,sacrificial film,1,polythiophene,2
+270,glass substrate,1,conductive polymer,2
+271,viscous,1,nickel stamp,2
+272,thermal nil,1,isothermal imprint,2
+273,microcontact printing,1,etch,2
+274,high-density optical disk,1,photolithography,2
+275,disk mastering,1,hybrid mask mold,2
+276,thermal expansion,1,photonic crystals,2
+277,pattern placement error,1,soft uv lithography,2
+278,nanoelectrode ensembles,1,colloidal particles,2
+279,fabrication,1,nanoimprinting lithography,2
+280,high resolution electron beam resist zep520,1,multilayer structure,2
+281,nanoscale,1,sacrificial film,2
+282,imprint,1,high-density optical disk,2
+283,contact mechanics,1,disk mastering,2
+284,room temperature nanoimprint lithography,1,thermal expansion,2
+285,viscosity,1,pattern placement error,2
+286,retardation time,1,nanoelectrode ensembles,2
+287,molecular weight,1,fabrication,2
+288,nanoimprinting,1,high resolution electron beam resist zep520,2
+289,sub-100nm,1,focused-ion-beam (fib),2
+290,quantum-dot,1,chemical vapor deposition (cvd),2
+291,hsq,1,polymer moulding,2
+292,bilayer,1,microfabrication,2
+293,high aspect resist patterns,1,hot embossing lithography (hel),1
+294,fluorine,1,nanoimpirint lithography (nil),1
+295,photo-curable nanoimprint lithography,1,roller-type nanoimprint lithography,1
+296,nanoimprintor,1,reverse nanoimprint lithography,1
+297,ngl,1,three-dimensional nanofabrication,1
+298,t-nil,1,thin layer soft lithography,1
+299,air cushion press,1,polymethyl methacrylate (pmma),1
+300,focused-ion-beam (fib),1,three-dimensional nanoimprint template,1
+301,chemical vapor deposition (cvd),1,focused ion beam lithography,1
+302,polymer moulding,1,nanoscale,1
+303,microfabrication,1,room temperature nanoimprint lithography,1

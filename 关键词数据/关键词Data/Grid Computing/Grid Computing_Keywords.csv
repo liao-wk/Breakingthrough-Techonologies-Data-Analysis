@@ -1,0 +1,345 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,grid computing,85,grid computing,235
+1,grid,23,grid,70
+2,cloud computing,9,globus,28
+3,globus,9,cloud computing,23
+4,distributed computing,7,ogsa,22
+5,ogsa,7,distributed computing,20
+6,job scheduling,5,job scheduling,17
+7,cloud,5,cloud,15
+8,distributed systems,5,resource,14
+9,resource,4,resource broker,13
+10,resource broker,4,distributed systems,11
+11,resource management,3,scientific computing,11
+12,virtualization,3,autonomic computing,10
+13,parallel computing,3,gis,10
+14,load balancing,3,resource management,9
+15,scientific computing,3,condor,9
+16,autonomic computing,3,virtualization,9
+17,web services,3,parallel computing,9
+18,virtual machine,3,load balancing,9
+19,gis,3,boinc,9
+20,multi-agent environment,3,web services,9
+21,agent-based grid computing,3,job,9
+22,scheduling,2,grid middleware,8
+23,next generation,2,wsrf,8
+24,grid middleware,2,middleware,8
+25,condor,2,next generation,7
+26,volunteer computing,2,component,7
+27,sediment fingerprinting,2,web service,7
+28,grid security,2,grid service,7
+29,high performance computing,2,gt3,7
+30,component,2,volunteer computing,6
+31,infrastructure,2,sediment fingerprinting,6
+32,grid technology,2,grid technology,6
+33,boinc,2,open grid services architecture,6
+34,web service,2,genetic algorithm,6
+35,open grid services architecture,2,virtual machine,6
+36,genetic algorithm,2,globus toolkit,6
+37,pervasive computing,2,bridge,6
+38,virtual environment,2,desktop grid,6
+39,peer-to-peer,2,edges,6
+40,globus toolkit,2,egee,6
+41,reliability,2,interface,6
+42,grid computing system,2,interoperation,6
+43,open grid services,2,open grid services,6
+44,computing grid,2,computational grid,6
+45,trusted computing,2,service-oriented,6
+46,computational grid,2,data grids,6
+47,load sharing,2,qos,6
+48,service-oriented,2,multi-agent environment,6
+49,data grids,2,agent-based grid computing,6
+50,wsrf,2,scheduling,5
+51,job,2,legion,5
+52,fault tolerance,2,punch,5
+53,qos,2,high performance computing,5
+54,middleware,2,infrastructure,5
+55,grid service,2,peer-to-peer,5
+56,gt3,2,reliability,5
+57,mobile grid,1,grid computing system,5
+58,agricultural systems,1,computing grid,5
+59,models,1,trusted computing,5
+60,data history,1,load sharing,5
+61,integrated agricultural systems models,1,fault tolerance,5
+62,crop models,1,resource profiling,4
+63,economic models,1,scout,4
+64,legion,1,scientific,4
+65,punch,1,grid security,4
+66,reasons and need of grid computing,1,collective agility,4
+67,comparative visions,1,improvisation,4
+68,distributed computing networks,1,paradox,4
+69,information security,1,particle,4
+70,security,1,apsim,4
+71,resource profiling,1,crop simulation,4
+72,scout,1,evapotranspiration,4
+73,scientific,1,heat stress,4
+74,cooperative computing,1,wheat,4
+75,comparison,1,dependent tasks,4
+76,distribution computing,1,tasks assignment,4
+77,psgrid,1,dag,4
+78,rsa-grid,1,directed acyclic,4
+79,optimization,1,pervasive computing,4
+80,product-mix,1,virtual environment,4
+81,e-infrastrucutre failure,1,n1ge6,4
+82,hierarchical set up,1,alchemi,4
+83,static load balancing,1,geosensor networks,4
+84,dynamic load balancing,1,digital earth,4
+85,working node,1,supercomputer,4
+86,highly,1,erosion,4
+87,local area network,1,risk-assessment,4
+88,wide area network,1,off-site impacts,4
+89,metropolitan area,1,climate change,4
+90,node optimization,1,agricultural,4
+91,cpu-g2pu hybrid,1,semantic web,4
+92,tracers,1,reasoning engine,4
+93,sediment sources,1,knowledge ontology,4
+94,river catchments,1,integration,4
+95,"climate change impacts, adaptation, and vulnerabilities (via)",1,standardization,4
+96,parallel,1,idle resource,4
+97,smart grid,1,system-on-chip,4
+98,smart grid and cloud computing,1,embedded system,4
+99,bioinformatics,1,dual os,4
+100,scientific workflow,1,scratch pad,4
+101,sequencing analyses,1,qos metrics,4
+102,adaptation,1,qos parameters,4
+103,agriculture,1,grid performance,4
+104,hydrology,1,job submission,4
+105,uncertainty,1,video conversion,4
+106,grid applications and challenges,1,3d,4
+107,framework,1,object grids,4
+108,parallel processing,1,clusters,4
+109,lrm,1,mobile grids,4
+110,remote job submission,1,internet,4
+111,remote job execution,1,software service,4
+112,definition,1,sbg,4
+113,grid domain,1,msc,4
+114,user interface,1,ogsi,4
+115,green it,1,visualization,4
+116,solar cell,1,single sign-on,4
+117,collaborative community,1,web,4
+118,resource sharing,1,mobile grid,3
+119,architecture,1,agricultural systems,3
+120,component: grid,1,models,3
+121,computing,1,data history,3
+122,clustering,1,distributed computing networks,3
+123,testing,1,information security,3
+124,validation,1,security,3
+125,trust,1,cooperative computing,3
+126,workstations,1,comparison,3
+127,sophisticated software,1,distribution computing,3
+128,economic model,1,optimization,3
+129,dynamic environment,1,product-mix,3
+130,global arrays toolkit,1,e-infrastrucutre failure,3
+131,multi-level parallelism,1,hierarchical set up,3
+132,swift,1,static load balancing,3
+133,parallel programming,1,dynamic load balancing,3
+134,scripting,1,working node,3
+135,dataflow,1,highly,3
+136,collective agility,1,local area network,3
+137,improvisation,1,wide area network,3
+138,paradox,1,metropolitan area,3
+139,particle,1,node optimization,3
+140,resource allocation,1,cpu-g2pu hybrid,3
+141,data analysis,1,tracers,3
+142,virtual screening,1,sediment sources,3
+143,apsim,1,river catchments,3
+144,crop simulation,1,bioinformatics,3
+145,evapotranspiration,1,scientific workflow,3
+146,heat stress,1,sequencing analyses,3
+147,wheat,1,adaptation,3
+148,multi-grid,1,agriculture,3
+149,d-grid,1,hydrology,3
+150,task scheduling,1,uncertainty,3
+151,map-reduce,1,lrm,3
+152,software as a service,1,remote job submission,3
+153,dependent tasks,1,remote job execution,3
+154,tasks assignment,1,component: grid,3
+155,dag,1,computing,3
+156,directed acyclic,1,clustering,3
+157,virtual research environment,1,testing,3
+158,grid applications,1,validation,3
+159,context-constrained authorisation,1,trust,3
+160,n1ge6,1,workstations,3
+161,alchemi,1,sophisticated software,3
+162,infiniband,1,swift,3
+163,grid architecture,1,parallel programming,3
+164,job grouping,1,scripting,3
+165,resource scheduling,1,dataflow,3
+166,geosensor networks,1,data analysis,3
+167,digital earth,1,virtual screening,3
+168,supercomputer,1,task scheduling,3
+169,workflows,1,map-reduce,3
+170,grid portals,1,software as a service,3
+171,gromacs package,1,virtual research environment,3
+172,open grid service,1,grid applications,3
+173,message communication,1,job grouping,3
+174,topology,1,resource scheduling,3
+175,simulated annealing,1,workflows,3
+176,lifetime management,1,grid portals,3
+177,programming method,1,gromacs package,3
+178,autonomic grid,1,open grid service,3
+179,software architecture,1,message communication,3
+180,c4isr,1,topology,3
+181,agc4isr,1,simulated annealing,3
+182,desktop computing,1,lifetime management,3
+183,docking application,1,autonomic grid,3
+184,world community grid,1,software architecture,3
+185,information system,1,c4isr,3
+186,load balance,1,agc4isr,3
+187,virtual machines,1,desktop computing,3
+188,bridge,1,docking application,3
+189,desktop grid,1,world community grid,3
+190,edges,1,information system,3
+191,egee,1,load balance,3
+192,interface,1,information technology,3
+193,interoperation,1,virtual realization,3
+194,erosion,1,igt,3
+195,risk-assessment,1,distributed middleware,3
+196,off-site impacts,1,subgrid,3
+197,climate change,1,middleware protocol,3
+198,agricultural,1,trusted execution,3
+199,attribute-based access control (abac),1,grid economics,3
+200,attribute-based multipolicy,1,grid capacity planning,3
+201,workflow,1,service-oriented computing,3
+202,access control,1,p2p,3
+203,security requirements engineering,1,job migration,3
+204,information technology,1,metacomputing,3
+205,virtual realization,1,metaprogramming,3
+206,igt,1,urgent computing,3
+207,distributed middleware,1,grid and web services,3
+208,subgrid,1,ubiquitous computing,3
+209,middleware protocol,1,context-aware,3
+210,trusted execution,1,context reasoning,3
+211,grid economics,1,access grid,3
+212,grid capacity planning,1,heterogeneous,3
+213,service-oriented computing,1,scheduling algorithm,3
+214,semantic web,1,distributed data mining,3
+215,reasoning engine,1,grid services,3
+216,knowledge ontology,1,finite element method,3
+217,distributed computing environment,1,grid portal,3
+218,corba,1,undergraduate education,3
+219,integration,1,networking,3
+220,standardization,1,south affican karoo,3
+221,economics of grid computing,1,erosion history,3
+222,cost estimation,1,extreme,3
+223,p2p,1,fault tolerant computing,3
+224,job migration,1,task,3
+225,pki (public key installation),1,synergy,3
+226,ca (certification,1,peer-to-peer computing,3
+227,middleware services,1,grid gis,3
+228,grid business models,1,distributed cooperative computing,3
+229,business grids,1,flexible grid client,3
+230,grid enabled application,1,thin-client computing,3
+231,metacomputing,1,fat-client,3
+232,metaprogramming,1,chironomids,3
+233,urgent computing,1,chlorophyll alpha,3
+234,grid and web services,1,eutrophication,3
+235,ubiquitous computing,1,total phosphorus,3
+236,context-aware,1,credibility,3
+237,context reasoning,1,ranking,3
+238,access grid,1,dynamic information,3
+239,heterogeneous,1,dependable computing,3
+240,scheduling algorithm,1,failure detection,3
+241,distributed data mining,1,data mining,3
+242,grid services,1,distributed processing,3
+243,finite element method,1,loosely coupled,3
+244,idle resource,1,distributed parallel computing,3
+245,grid portal,1,scilab,3
+246,undergraduate education,1,distributed databases,3
+247,networking,1,access methods,3
+248,south affican karoo,1,architectures,3
+249,erosion history,1,computational steering,3
+250,extreme,1,computational,3
+251,grid simulation,1,high performance cluster,3
+252,differentiated network service,1,service oriented,3
+253,fault tolerant computing,1,education,3
+254,task,1,sun grid engine,3
+255,synergy,1,spatial data grid,3
+256,peer-to-peer computing,1,future behaviour,3
+257,grid gis,1,high-performance computing,3
+258,distributed cooperative computing,1,advanced distributed simulation,3
+259,system-on-chip,1,information service,3
+260,embedded system,1,gisg,3
+261,dual os,1,service-oriented grid computing,3
+262,scratch pad,1,digital money,3
+263,qos metrics,1,grid bank,3
+264,qos parameters,1,integrated agricultural systems models,2
+265,grid performance,1,crop models,2
+266,flexible grid client,1,economic models,2
+267,thin-client computing,1,reasons and need of grid computing,2
+268,fat-client,1,comparative visions,2
+269,distributed applications,1,psgrid,2
+270,internet applications,1,rsa-grid,2
+271,chironomids,1,smart grid,2
+272,chlorophyll alpha,1,smart grid and cloud computing,2
+273,eutrophication,1,grid applications and challenges,2
+274,total phosphorus,1,framework,2
+275,credibility,1,parallel processing,2
+276,ranking,1,definition,2
+277,dynamic information,1,green it,2
+278,dependable computing,1,solar cell,2
+279,failure detection,1,collaborative community,2
+280,data mining,1,resource sharing,2
+281,distributed processing,1,architecture,2
+282,loosely coupled,1,economic model,2
+283,wireless grid,1,dynamic environment,2
+284,small signal stability,1,global arrays toolkit,2
+285,monte carlo simulation,1,multi-level parallelism,2
+286,power system reliability and security analysis,1,multi-grid,2
+287,distributed parallel computing,1,d-grid,2
+288,scilab,1,context-constrained authorisation,2
+289,virtual reality system,1,infiniband,2
+290,grid computing architecture,1,grid architecture,2
+291,client-server,1,programming method,2
+292,distributed databases,1,virtual machines,2
+293,access methods,1,workflow,2
+294,architectures,1,access control,2
+295,computational steering,1,security requirements engineering,2
+296,computational,1,distributed computing environment,2
+297,power system restoration,1,corba,2
+298,prototype,1,economics of grid computing,2
+299,high performance cluster,1,cost estimation,2
+300,service oriented,1,pki (public key installation),2
+301,education,1,ca (certification,2
+302,sun grid engine,1,middleware services,2
+303,spatial data grid,1,grid business models,2
+304,workflow engine,1,business grids,2
+305,power system,1,grid enabled application,2
+306,higher education,1,grid simulation,2
+307,cluster and grid technology,1,differentiated network service,2
+308,computing curricula,1,distributed applications,2
+309,future behaviour,1,internet applications,2
+310,job submission,1,wireless grid,2
+311,video conversion,1,small signal stability,2
+312,3d,1,monte carlo simulation,2
+313,simulation analysis,1,virtual reality system,2
+314,object grids,1,grid computing architecture,2
+315,clusters,1,client-server,2
+316,mobile grids,1,power system restoration,2
+317,high-performance computing,1,prototype,2
+318,power systems,1,workflow engine,2
+319,computer science,1,power system,2
+320,power flow,1,higher education,2
+321,internet,1,cluster and grid technology,2
+322,software service,1,computing curricula,2
+323,sbg,1,simulation analysis,2
+324,msc,1,power systems,2
+325,ogsi,1,computer science,2
+326,advanced distributed simulation,1,power flow,2
+327,security abstract,1,security abstract,2
+328,grid security protocols,1,grid security protocols,2
+329,information service,1,attribute,2
+330,gisg,1,cluster computing,2
+331,attribute,1,grid node,2
+332,cluster computing,1,distribute computing,2
+333,grid node,1,grid system,2
+334,distribute computing,1,grid programming model,2
+335,service-oriented grid computing,1,grid security infrastructure,2
+336,digital money,1,"climate change impacts, adaptation, and vulnerabilities (via)",1
+337,grid bank,1,parallel,1
+338,visualization,1,grid domain,1
+339,single sign-on,1,user interface,1
+340,web,1,resource allocation,1
+341,grid system,1,attribute-based access control (abac),1
+342,grid programming model,1,attribute-based multipolicy,1
+343,grid security infrastructure,1,power system reliability and security analysis,1

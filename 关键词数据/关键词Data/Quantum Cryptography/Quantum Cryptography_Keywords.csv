@@ -1,0 +1,151 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,quantum cryptography,57,quantum cryptography,122
+1,quantum key distribution,17,quantum key distribution,33
+2,quantum,6,quantum,18
+3,single sign-on,6,single sign-on,14
+4,user authentication,6,user authentication,14
+5,quantum information,6,entanglement,14
+6,cryptography,5,cryptography,13
+7,entanglement,5,quantum information,13
+8,bb84 protocol,4,bb84 protocol,11
+9,quantum communication,4,bb84,11
+10,post-quantum cryptography,3,quantum communication,10
+11,bb84,3,03,10
+12,classical cryptography,2,classical cryptography,7
+13,quantum computer,2,quantum computer,7
+14,quantum public-key encryption,2,qkd,7
+15,quantum network,2,post-quantum cryptography,6
+16,qkd,2,pulmonary hypertension,6
+17,optical networks,2,security,6
+18,quantum optics,2,optical networks,5
+19,quantum computing,2,65,5
+20,pulmonary hypertension,2,bz,5
+21,03,2,67,5
+22,security,2,db,5
+23,quantum identification,2,quantum identification,5
+24,quantum computers,1,basis,4
+25,shor's algorithm,1,photons,4
+26,grover's,1,polarization,4
+27,quantum authentication,1,rsa,4
+28,long-term security,1,quantum encryptors,4
+29,communication,1,d-wave,4
+30,security attacks,1,quantum network,4
+31,quantum public key encryption model,1,quantum computing,4
+32,quantum trapdoor one-way function,1,802.11i,4
+33,telecom network,1,ptk,4
+34,optical fibers,1,thromboembolism,4
+35,relativistic quantum cryptography,1,endarterectomy,4
+36,big data,1,survival,4
+37,key generation,1,drug,4
+38,neural cryptography,1,theory,4
+39,basis,1,algorithms,4
+40,photons,1,experimentation,4
+41,polarization,1,quantum bit commitment,4
+42,rsa,1,reconciliation,4
+43,quantum encryptors,1,privacy amplification,4
+44,d-wave,1,renyi,4
+45,conjugate coding,1,estrogen,4
+46,delegated quantum computation,1,alklyphenol,4
+47,limited-quantum-storage,1,medaka,4
+48,ghz states,1,intersex,4
+49,counterfactual quantum communication,1,effluent,4
+50,three-stage quantum protocol,1,quantum computers,3
+51,multi-photon,1,shor's algorithm,3
+52,coding-based,1,grover's,3
+53,quantum cryptography communication,1,communication,3
+54,cryptographic algorithms,1,security attacks,3
+55,protocol,1,telecom network,3
+56,classification,1,optical fibers,3
+57,singlet states,1,big data,3
+58,sarg04 protocol,1,key generation,3
+59,arbitrated quantum signature,1,neural cryptography,3
+60,qkd protocol implementation,1,ghz states,3
+61,qubits,1,quantum public-key encryption,3
+62,quantum commitment,1,singlet states,3
+63,bounded quantum storage,1,sarg04 protocol,3
+64,access protocols,1,qkd protocol implementation,3
+65,network,1,qubits,3
+66,qubit,1,sarg04,3
+67,grover algorithm,1,optical burst switching,3
+68,determined key distribution protocol,1,quantum optics,3
+69,quantum computation,1,phase,3
+70,quantum information processing,1,quantum repeater,3
+71,quantum circuits,1,nv center,3
+72,unicity distance,1,quantum authentication,2
+73,quantum unicity distance,1,long-term security,2
+74,quantum private key,1,conjugate coding,2
+75,quantum secret sharing,1,delegated quantum computation,2
+76,quantum information theory,1,limited-quantum-storage,2
+77,hilbert space,1,counterfactual quantum communication,2
+78,modern cryptography,1,three-stage quantum protocol,2
+79,unconditional security,1,multi-photon,2
+80,photonic network,1,coding-based,2
+81,yinyang bipolar relativity,1,quantum cryptography communication,2
+82,logically definable causality,1,cryptographic algorithms,2
+83,bipolar,1,protocol,2
+84,code-based cryptography,1,classification,2
+85,sarg04,1,quantum commitment,2
+86,public-key cryptography,1,bounded quantum storage,2
+87,optical burst switching,1,access protocols,2
+88,quantum theory,1,qubit,2
+89,cryptographic protocols,1,grover algorithm,2
+90,connective tissue disease,1,quantum computation,2
+91,systemic sclerosis,1,quantum information processing,2
+92,quantum cloning,1,quantum circuits,2
+93,quantum relative entropy,1,unicity distance,2
+94,quantum divergence,1,quantum unicity distance,2
+95,802.11i,1,quantum private key,2
+96,ptk,1,quantum secret sharing,2
+97,quantum secret communication,1,quantum information theory,2
+98,w state,1,hilbert space,2
+99,thromboembolism,1,modern cryptography,2
+100,endarterectomy,1,unconditional security,2
+101,survival,1,photonic network,2
+102,drug,1,yinyang bipolar relativity,2
+103,chsh inequality,1,logically definable causality,2
+104,e91,1,bipolar,2
+105,wireless sensor networks,1,public-key cryptography,2
+106,quantum teleportation,1,quantum theory,2
+107,65,1,cryptographic protocols,2
+108,bz,1,connective tissue disease,2
+109,67,1,systemic sclerosis,2
+110,db,1,quantum cloning,2
+111,theory,1,quantum relative entropy,2
+112,algorithms,1,quantum divergence,2
+113,experimentation,1,quantum secret communication,2
+114,quantum bit commitment,1,w state,2
+115,eavesdropping,1,chsh inequality,2
+116,information security,1,e91,2
+117,optical quantum cryptography,1,wireless sensor networks,2
+118,quantum key,1,quantum teleportation,2
+119,information versus,1,eavesdropping,2
+120,quantum information science,1,information security,2
+121,secure communication,1,optical quantum cryptography,2
+122,phase,1,quantum key,2
+123,computational cryptography,1,information versus,2
+124,quantum channel,1,quantum information science,2
+125,no-key protocol,1,secure communication,2
+126,identification,1,computational cryptography,2
+127,quantum repeater,1,quantum channel,2
+128,nv center,1,no-key protocol,2
+129,reconciliation,1,identification,2
+130,privacy amplification,1,entangling probe,2
+131,renyi,1,error probability,2
+132,optical quantum-information processing,1,quantum detection theory,2
+133,entangling probe,1,photonics,2
+134,error probability,1,nonlinear optics,2
+135,quantum detection theory,1,fibers,2
+136,photonics,1,bell operator,2
+137,nonlinear optics,1,entanglement swapping,2
+138,fibers,1,wavelength division multiplexing.,2
+139,bell operator,1,quantum key verification,2
+140,entanglement swapping,1,quantum physics,2
+141,wavelength division multiplexing.,1,free space optics,2
+142,quantum key verification,1,quantum public key encryption model,1
+143,quantum physics,1,quantum trapdoor one-way function,1
+144,free space optics,1,relativistic quantum cryptography,1
+145,estrogen,1,arbitrated quantum signature,1
+146,alklyphenol,1,network,1
+147,medaka,1,determined key distribution protocol,1
+148,intersex,1,code-based cryptography,1
+149,effluent,1,optical quantum-information processing,1

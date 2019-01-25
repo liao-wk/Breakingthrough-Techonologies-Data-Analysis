@@ -1,0 +1,96 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,glycomics,19,glycomics,67
+1,carbohydrates,5,carbohydrates,19
+2,glycans,5,glycans,19
+3,bioinformatics,5,lectin,16
+4,mass spectrometry,4,bioinformatics,16
+5,glycosylation,4,mass spectrometry,15
+6,lectin,4,glycosylation,15
+7,glycobiology,3,glycan,11
+8,glycan,3,glycobiology,9
+9,databases,2,databases,8
+10,glycoinformatics,2,carbohydrate,8
+11,database,2,glycoinformatics,7
+12,glycan analysis,2,glycan analysis,7
+13,glycoproteomics,2,glycoproteomics,7
+14,biomarker,2,biomarker,7
+15,functional glycomics,2,functional glycomics,7
+16,carbohydrate,2,database,5
+17,identification,1,glycan structure,4
+18,glycan structure,1,disease,4
+19,disease,1,helminths,4
+20,helminths,1,glycan array,4
+21,glycan array,1,glycan antigen,4
+22,glycan antigen,1,cancer,4
+23,ascaris-suum,1,colorectal cancer,4
+24,n-linked glycans,1,glycome,4
+25,innovation analysis,1,n-glycomics,4
+26,mirage,1,absolute quantitation,4
+27,sample preparation,1,relative,4
+28,rice (oryza sativa),1,high-throughput,4
+29,isotopic glucose,1,derivatization,4
+30,metabolic labeling,1,integration,4
+31,quantitative,1,automation,4
+32,human proteome organization (hupo),1,biohackathon,4
+33,human disease glycomics/proteome,1,data integration,4
+34,cancer,1,glycoconjugate,4
+35,colorectal cancer,1,disease diagnosis,4
+36,glycome,1,high throughput analysis,4
+37,n-glycomics,1,glycoproteins,4
+38,glycan microarray,1,monosaccharides,4
+39,shotgun glycomics,1,nomenclature,4
+40,absolute quantitation,1,biosensors,4
+41,relative,1,cancer cells,4
+42,high-throughput,1,electrochemistry,4
+43,derivatization,1,drug discovery,4
+44,integration,1,blotglyco,4
+45,automation,1,glycoblotting,4
+46,biohackathon,1,core fucosylation,4
+47,data integration,1,knockout,4
+48,glycoconjugate,1,knockdown,4
+49,association,1,glycoarray,4
+50,chromatin signatures,1,influenza,4
+51,susceptibility,1,1918 pandemic,4
+52,dna,1,hemagglutinin,4
+53,glycoconjugates,1,receptor,4
+54,signal amplification,1,analytical methods,4
+55,disease diagnosis,1,microarrays,4
+56,high throughput analysis,1,microarray,4
+57,glycoproteins,1,glycoprotein,4
+58,lactones,1,glycolipid,4
+59,heparanorine,1,innovation analysis,3
+60,heparan minute interactore,1,mirage,3
+61,systems biology,1,sample preparation,3
+62,monosaccharides,1,rice (oryza sativa),3
+63,nomenclature,1,isotopic glucose,3
+64,biosensors,1,metabolic labeling,3
+65,cancer cells,1,quantitative,3
+66,electrochemistry,1,glycan microarray,3
+67,drug discovery,1,shotgun glycomics,3
+68,biomarkers,1,dna,3
+69,blotglyco,1,glycoconjugates,3
+70,glycoblotting,1,signal amplification,3
+71,core fucosylation,1,heparanorine,3
+72,knockout,1,heparan minute interactore,3
+73,knockdown,1,systems biology,3
+74,biomarkers in disease,1,biomarkers,3
+75,glyconutrients,1,glyconutrients,3
+76,nutritional supplement,1,nutritional supplement,3
+77,cfg,1,cfg,3
+78,glycoarray,1,glycome/glycomics,3
+79,influenza,1,glyco-catch,3
+80,1918 pandemic,1,frontal affinity,3
+81,hemagglutinin,1,saccharide primer,3
+82,receptor,1,saccharide library,3
+83,analytical methods,1,oligosaccharide,3
+84,microarrays,1,microaray,3
+85,glycome/glycomics,1,association,2
+86,glyco-catch,1,chromatin signatures,2
+87,frontal affinity,1,susceptibility,2
+88,microarray,1,biomarkers in disease,2
+89,glycoprotein,1,identification,1
+90,glycolipid,1,ascaris-suum,1
+91,saccharide primer,1,n-linked glycans,1
+92,saccharide library,1,human proteome organization (hupo),1
+93,oligosaccharide,1,human disease glycomics/proteome,1
+94,microaray,1,,
