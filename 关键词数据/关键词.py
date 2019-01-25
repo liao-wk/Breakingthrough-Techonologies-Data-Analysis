@@ -2,7 +2,7 @@
 import re, json, os
 
 os.chdir("F:\\大道之君\\Breakingthrough-Techonologies-Data-Analysis\\关键词数据\\关键词raw")
-fileName = "Microphotonics"
+fileName = "Quantum Cryptography"
 file = open(fileName+".txt")
 #  示例：Keywords = [ ['Physical layer security','secrecy rate','potent'],\
 # ['Optimization',' resonant converter'] ]
@@ -27,7 +27,11 @@ file.close()
 # 把Keywords_freq转换成一个元组，按值的大小.从大到小排序
 Keywords_freq = sorted(Keywords_freq.items(), key=lambda v: v[1], reverse=True)
 #  print(Keywords_freq)
+#  新建一个文件夹。将文件分类保存
 os.chdir("F:\\大道之君\\Breakingthrough-Techonologies-Data-Analysis\\关键词数据\\关键词Data")
+os.makedirs(fileName)
+os.chdir("F:\\大道之君\\Breakingthrough-Techonologies-Data-Analysis\\关键词数据\\关键词Data\\"+fileName)
+
 json_file = fileName + ".json"
 with open(json_file, 'w') as f_obj:
     json.dump(Keywords, f_obj)
