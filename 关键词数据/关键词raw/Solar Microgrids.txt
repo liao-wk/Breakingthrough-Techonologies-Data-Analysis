@@ -1,0 +1,557 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE Power system dispatch; Wind generator (WG); Kinetic energy (KE);
+   Photovoltaic (PV); Power sharing control (PSC)
+ID ENERGY-STORAGE SYSTEM; VSC-HVDC; SUPPORT; FARMS
+ER
+
+PT J
+DE Building microgrids; joint-operation; event-based optimization;
+   simulation-based policy improvement
+ID ENERGY MANAGEMENT; STORAGE; SYSTEM; LOAD
+ER
+
+PT J
+DE Microgrids; Microgrid networks; Multi-agent; Power trading; Transactive
+   energy
+ID ACTING DEMAND RESPONSE; MULTIENERGY MICROGRIDS; MULTIPLE MICROGRIDS;
+   ELECTRICITY MARKETS; MANAGEMENT-SYSTEM; OPTIMIZATION; OPERATION;
+   UNCERTAINTY; RENEWABLES
+ER
+
+PT J
+DE Grid parity; Microgrid; Stand-alone; Economics; LCOE; System modeling
+ID ENERGY-SYSTEMS; ELECTRICITY SYSTEMS; PV POWER; COST; TECHNOLOGIES;
+   BATTERIES; DIESEL
+ER
+
+PT J
+DE irradiance monitoring network; wireless sensor network; very short-term
+   solar forecasting; microgrids; pyranometer; lux-meter; cloud enhancement
+ID SOLAR IRRADIANCE; PREDICTION INTERVALS; ENERGY MANAGEMENT; CLOUD MOTION;
+   FORECASTS; MODEL
+ER
+
+PT J
+DE Energy policy; Rural electrification; Solar power; Decentralised
+   generation
+ID ENERGY-SYSTEMS; SOLAR POWER; INDIA; MICROGRIDS; PREFERENCE; BIOMASS;
+   ACCESS; PV
+ER
+
+PT J
+DE Microgrids; Resilience; Renewable integration; Prosumers; Distributed
+   energy
+ID ACTIVE NETWORK MANAGEMENT; FUEL-CELL TECHNOLOGIES; ENERGY-STORAGE;
+   DISTRIBUTED GENERATION; HIERARCHICAL CONTROL; DC-MICROGRIDS; POWER;
+   SYSTEMS; ELECTRIFICATION; WIND
+ER
+
+PT J
+DE Distributed generation; Newton-Raphson method; rural-electrification;
+   microgrid
+ID RURAL ELECTRIFICATION; COUNTRIES; INDIA
+ER
+
+PT J
+DE DCgrids; electric springs (ESs); photovoltaic (PV) system; power
+   electronics; smart load; storage reduction
+ID PHOTOVOLTAIC SYSTEMS; ENERGY-STORAGE; GENERATION; MANAGEMENT; CAPACITY
+ER
+
+PT J
+ER
+
+PT J
+DE Networked microgrids; distributed energy resources; alternating
+   direction method of multipliers; online learning; regret minimization
+ID ROBUST UNIT COMMITMENT; CONVEX-OPTIMIZATION; POWER
+ER
+
+PT J
+DE Dish-Stirling system; frequency control; fixed-speed induction
+   generator; solar-thermal power generation
+ID HYBRID ENERGY SYSTEM; TEMPERATURE; ENGINES
+ER
+
+PT J
+DE microgrid; rural electrification; solar power; reliability; choice
+   experiment; India
+ID CHOICE EXPERIMENT; ENERGY; ACCESS; ELECTRIFICATION; POLICY
+ER
+
+PT J
+DE maximum power point trackers; invertors; distributed power generation;
+   load flow; solar power; independent maximum power extraction technique;
+   multistring bidirectional solar inverter; BSICG; independent global
+   maximum power tracking; non-uniform irradiation; DC microgrids; direct
+   current microgrids; AC grid; alternating current grid; bidirectional
+   power flow management; irradiance intermittencies; photovoltaic solar
+   energy; voltage stabilisation; power 2; 0 kW
+ID LCL-FILTER
+ER
+
+PT B
+ID SMART; EFFICIENT; MICROGRIDS
+ER
+
+PT S
+DE renewable energy; solar photovoltaic systems; predictive modeling;
+   neural networks
+ER
+
+PT S
+DE Isolated Microgrids; Genetic Algorithms; Stochastic Optimization;
+   Dynamic Programming
+ER
+
+PT J
+DE Photovoltaics; Fluctuations; Jump-diffusion equation; Distribution grid
+ID RAMP-RATE CONTROL; SOLAR IRRADIANCE; ENERGY-STORAGE; SYSTEMS;
+   STRATEGIES; RADIATION; MODELS
+ER
+
+PT J
+ER
+
+PT J
+DE National security; Photovoltaic; Resilience; Microgrid; Defense;
+   Distributed generation
+ID CRITICAL INFRASTRUCTURE; LEARNING-CURVE; SYSTEMS; RESILIENCE; PV;
+   PERFORMANCE; PROSPECTS; BATTERY; MODEL; GAS
+ER
+
+PT J
+DE DC microgrid; Solar home system; SHS; Energy storage; Rural
+   electrification
+ER
+
+PT J
+DE Photovoltaic; Hydrogen; Battery; Experimental setup; Stand-alone power
+   system
+ID ENERGY-STORAGE TECHNOLOGIES; HYBRID POWER-SYSTEM; DISTRIBUTED
+   GENERATION; MANAGEMENT STRATEGIES; HOUSEHOLD SECTOR; OPTIMIZATION;
+   OPERATION; MEXICO
+ER
+
+PT J
+DE Clear sky irradiance (CSI); fourier basis expansion; global horizontal
+   irradiance (GHI); markov switching model (MSM); solar irradiance
+   forecasting
+ID TIME-SERIES; POWER PREDICTION; CHAIN; PERFORMANCE; RADIATION; SYSTEM
+ER
+
+PT S
+DE solar; photovoltaic; energy storage; microgrid; flow battery
+ER
+
+PT S
+DE Microgrid design; design optimization; battery storage; renewable energy
+   sources; load prioritization; forecasting; capacity shortage
+ER
+
+PT S
+DE microgrid; mini-grid; technical standards; solar; energy storage;
+   modeling
+ER
+
+PT S
+DE DC Microgrids; Power Distribution; Rural Electrification; Solar
+   Photovoltaics
+ID RESOURCES; INDIA
+ER
+
+PT S
+DE Microgrid optimal scheduling; solar energy; generation variability;
+   forecast uncertainty
+ID SYSTEMS
+ER
+
+PT B
+DE energy balance; smart microgrid; solar PV; battery capacity; Grid-lite
+ID DISTRIBUTED GENERATION; POWER-SYSTEMS
+ER
+
+PT S
+DE Microgrids; DC; Isolated Boost Converter; Solar PV
+ER
+
+PT S
+DE Active Network Management; Congestion management; Distributed Energy
+   Resources; Distribution networks; Electricity markets; Flexibility
+   Services; Microgrids; Smart Grids
+ER
+
+PT S
+DE Microgrid; monitoring system; renewable energy; smart grid; sensors
+ER
+
+PT B
+DE commercial small business solar microgrids; linear and nonlinear
+   programing; fit-in-tariff; net metering; economic analysis
+ER
+
+PT S
+DE microgrid; renewable energy; anchor customers; load factor; rural
+   electrification
+ID INDIA; ELECTRIFICATION; FEASIBILITY
+ER
+
+PT B
+DE microgrids; photovoltaic generation; battery banks; particle swarm
+   optimization
+ID PARTICLE SWARM OPTIMIZATION; ENERGY-STORAGE; DISTRIBUTION NETWORKS;
+   HYBRID SYSTEM; GENERATION; DEFINITION; PLACEMENT; ALGORITHM; DESIGN
+ER
+
+PT B
+DE Microgrid; Energy Management; Distributed Generation; Energy Storage
+   System; Demand Response
+ID SYSTEM
+ER
+
+PT B
+DE Bangladesh; solar microgrids; renewable energy; readymade garments;
+   economic development; environmental pollution; HOMER
+ER
+
+PT J
+DE battery energy storage system; DC microgrids; decentralized controller;
+   feedback linearization; fuel cell; power balance; solar photovoltaic
+   unit
+ID LEAD-ACID-BATTERIES; TRANSIENT STABILITY; DISTRIBUTED CONTROL; SYSTEMS;
+   ENERGY; MODEL
+ER
+
+PT J
+ID RURAL ELECTRIFICATION; INDIA; SYSTEMS; GRIDS
+ER
+
+PT J
+DE Microgrids; Life cycle assessment; Energy efficiency; Greenhouse gas
+   emissions; Renewable energy
+ID LIFE-CYCLE ASSESSMENT; CHINA; GENERATION; SYSTEMS; POWER; CONSUMPTION;
+   OPERATION; BENEFITS
+ER
+
+PT J
+DE Efficiency; Energy kiosk; Hybrid microgrid; Rural electrification; Solar
+   power; Wind power
+ID WIND; ENERGY; PV
+ER
+
+PT J
+DE Computer simulation; cogeneration; distributed power generation;
+   microgrids; numerical simulation; power system simulation
+ID REACTIVE POWER; PHOTOVOLTAIC GENERATORS; DISTRIBUTION-SYSTEMS;
+   OPERATION; OPTIMIZATION; NETWORKS
+ER
+
+PT S
+DE Clear Sky Irradiance (CSI); Fourier basis function; Markov Switching
+   Model (MSM); Mean Absolute Percentage Error (MAPE); Root Mean Square
+   Error (RMSE)
+ID PREDICTION
+ER
+
+PT S
+DE Distributed Generation; Solar Energy; Microgrids; Grid Resilience;
+   Reliability; SAIDI; SAIFI
+ER
+
+PT J
+DE Microgrids; Solar energy; wind energy; control engineering; desalination
+ID WATER
+ER
+
+PT B
+DE Droop control; SOC; Battery
+ID DISTRIBUTED GENERATION; ENERGY-SYSTEMS; POWER-SYSTEM; MICROGRIDS;
+   OPERATION
+ER
+
+PT B
+DE Renewable Energy; DC; MicroGrid; Solar PV; Energy; Efficient Utilization
+ER
+
+PT S
+DE Elman neural network; thermal Load; wavelet neural network; cloud model
+ER
+
+PT S
+DE Wind Energy; Solar Energy; Economic Analysis; NPW; IRR
+ER
+
+PT B
+DE PV-ESS microgrids; Hierarchical control; Coordinated control; Islanded
+   operation; PSCAD simulation
+ER
+
+PT B
+DE Prediction algorithms; regression Trees; Microgrid; Smart Grid; Smart
+   Energy Management
+ER
+
+PT S
+ID DISTRIBUTED GENERATION
+ER
+
+PT B
+DE Duck curve; grid-connected operation; microgrid; optimal scheduling;
+   solar energy
+ID SYSTEM; FLEXIBILITY
+ER
+
+PT B
+DE Distributed generation; energy from waste; microgrid; renewable energy;
+   solar energy
+ID DISTRIBUTED GENERATION; SYSTEMS; INTEGRATION
+ER
+
+PT S
+DE Microgrid; optimal scheduling; ramping; renewable energy; uncertainty;
+   utility grid support
+ID GENERATION
+ER
+
+PT B
+DE Collaborating microgrids; Peer-to-peer; Multi-agent system;
+   Coordination; Prediction
+ID DEMAND-SIDE MANAGEMENT
+ER
+
+PT S
+DE Smart load; PV system; electric springs; storage reduction; DC grids
+ID PHOTOVOLTAIC SYSTEMS; ENERGY-STORAGE; MODEL; GENERATION; MANAGEMENT
+ER
+
+PT S
+DE Energy consumption; Hybrid power systems; Microgrids; Solar energy;
+   Thermal analysis
+ER
+
+PT B
+DE Finance; Hybrid power systems; Microgrids; Photovoltaic systems; Power
+   generation economics
+ID RURAL ELECTRIFICATION; ENERGY-SYSTEMS; MODEL; ELECTRICITY
+ER
+
+PT B
+DE Rural; Sustainable; Income Generation; Energy Efficiency; Solar
+   Microgrids
+ER
+
+PT J
+ID SPATIAL-DISTRIBUTION NETWORKS; COMPLEX NETWORKS; INTERDEPENDENT
+   NETWORKS; FAILURES; CASCADE; FLOW
+ER
+
+PT J
+DE Adaptive microgrids; microgrid boundaries; renewable resource modeling;
+   self-adequacy
+ID DISTRIBUTION-SYSTEMS; DISTRIBUTED GENERATION; OPTIMAL ALLOCATION;
+   DISTRIBUTION NETWORKS; POWER; RELIABILITY
+ER
+
+PT J
+DE small modular reactor (SMR); distributed energy resources (DER);
+   microgrid (MG); photovoltaic (PV)
+ER
+
+PT J
+DE Rural electrification with renewable energies; Microgrids; Resource
+   assessment; Case study
+ID DEVELOPING-COUNTRIES; RURAL ELECTRIFICATION; POWER-SYSTEM; DESIGN;
+   OPTIMIZATION; PV
+ER
+
+PT J
+DE Occupancy-based zone-climate control; Energy efficiency; Thermal
+   comfort; Energy management system; Grid-connected microgrids
+ID MODEL-PREDICTIVE CONTROL; BUILDING CLIMATE CONTROL; NONLINEAR-SYSTEMS;
+   OPTIMIZATION; PERFORMANCE; SIMULATION; STORAGE; INFORMATION;
+   ENVIRONMENT; VALIDATION
+ER
+
+PT J
+ID SPEED WIND GENERATOR; MULTIAGENT SYSTEM; ISLANDED MICROGRIDS; CONTROL
+   STRATEGIES; OPERATION; STABILITY; DRIVEN
+ER
+
+PT B
+DE Dc microgrids; energy access; Power management Unit
+ER
+
+PT B
+DE Reliability Evaluation; Microgrids; Distributed Generation; Renewable
+   Energy; Storage Systems
+ER
+
+PT B
+DE DC microgrid; microconverter; pv; pv string
+ER
+
+PT B
+DE Economic Factors; levelised cost of electricity; microgrids; rural
+   electrification; technical challenges
+ID RENEWABLE ENERGY-SOURCES; DEVELOPING-COUNTRIES; POWER-GENERATION; WIND
+   POWER; ELECTRIFICATION; ELECTRICITY; INVERTERS; PROJECT; SENEGAL; PLANTS
+ER
+
+PT S
+DE Series resonant converter; pulse width modulation; topology morphing
+ER
+
+PT S
+DE Photo-voltaic; Hybrid Energy Storage System; Super-capacitor; State of
+   charge; Power Intermittency
+ID BATTERY
+ER
+
+PT B
+DE inverter; agent; microgrid; control; PV systems
+ID MULTIAGENT; MANAGEMENT; ENERGY
+ER
+
+PT S
+DE forecasting; microgrid; prediction; solar energy
+ID SMART GRIDS
+ER
+
+PT B
+DE alternative energy; autonomous systems; bank of batteries; DC-DC
+   converter; microgrids
+ID MICROGRIDS
+ER
+
+PT J
+DE microgrid; demand response; solar energy; hybrid; cost of energy;
+   off-grid
+ER
+
+PT B
+DE Microgrid testbed; smart grid; Hybrid microgrid; smart pricing;
+   microgrid economics
+ID SYSTEMS
+ER
+
+PT J
+DE Rural electrification projects; Wind energy; Solar energy; Hybrid
+   systems; Microgrids; Heuristic algorithm
+ID HYBRID POWER-SYSTEM; RURAL ELECTRIFICATION; DEVELOPING-COUNTRIES;
+   MICRO-GRIDS; OPTIMIZATION; SIMULATION; COMMUNITIES
+ER
+
+PT J
+DE Rural electrification; Off-grid generation; Renewable energy; Wind
+   resource assessment; Microgrids; Cape Verde
+ID OFF-GRID ELECTRIFICATION; SYSTEMS; OPTIMIZATION; DESIGN
+ER
+
+PT S
+DE Game theory; microgrids; optimization; real-time pricing; smart grids
+ER
+
+PT S
+DE Microgrids; Rural Electrification; Solar; Energy Modeling
+ER
+
+PT S
+DE microgrid; battery energy storage; sizing optimal design; modified
+   particle swarm optimization
+ER
+
+PT S
+DE Scenario generation; daily pattern; clustering; energy storage system
+   design; stand-alone microgrid
+ER
+
+PT S
+DE Closed-loop droop control; hierarchical power management strategy;
+   roadway microgrid; solar generation; wind generation
+ID GENERATION; INVERTERS; OPERATION
+ER
+
+PT B
+DE Renewable generation; distributed generation; microgrids; photovoltaic
+   system; power distribution
+ER
+
+PT J
+ER
+
+PT B
+DE Double-fed induction generator (DFIG); dynamic behaviour; frequency
+   stability; mini-hydro power plant; microgrid; rate of change of
+   frequency (ROCOF); solar-photovoltaic (PV)
+ID DISTRIBUTED GENERATION; AUTONOMOUS OPERATION; PERFORMANCE; MANAGEMENT;
+   RESOURCES; SYSTEMS
+ER
+
+PT S
+DE load flow control; networks; network operating systems; power
+   distribution control; power distribution reliability; power system
+   modeling; power system monitoring; software packages; solar power
+   generation; wind power generation; distributed decision-making
+ID STRATEGY
+ER
+
+PT B
+DE Availability; distributed power generation; energy storage; Markov
+   processes; microgrids; solar power generation
+ER
+
+PT S
+DE solar neighborhood; solar home system; bi-directional DC/DC converter;
+   microgrid
+ER
+
+PT S
+DE Microgrids; reliability assessment; capacity factor; renewable energy
+ID WIND; TAIWAN
+ER
+
+PT S
+DE load flow control; networks; network operating systems; power
+   distribution control; power distribution reliability; power system
+   modeling; power system monitoring; software packages; solar power
+   generation; wind power generation; distributed decision-making
+ID STRATEGY
+ER
+
+PT S
+DE Geographic Information Systems; BIPV; Urban Energy Consumption;
+   Microgrids; Distributed Generation; BEP
+ER
+
+PT J
+DE Scheduling; Microgrids; Renewable energy; Optimization; MILP
+ID DISTRIBUTED ENERGY-RESOURCES; OPTIMAL OPERATION; POWER-GENERATION;
+   SYSTEMS; OPTIMIZATION; UNCERTAINTY; MULTIGENERATION; BUILDINGS; MODEL
+ER
+
+PT S
+DE renewable energy; optimal control; power microgrids; storage system; LQG
+   control
+ER
+
+PT S
+DE load flow control; networks; network operating systems; power
+   distribution control; power distribution reliability; power system
+   modeling; power system monitoring; software packages; solar power
+   generation; wind power generation
+ER
+
+PT B
+DE Microgrids; Renewable Energy Technologies; Distributed Generation;
+   Energy Management and Control; Combined Heat and Power; Rural
+   Electrification
+ER
+
+PT B
+DE microgrid; multi-microgrids; ancillary services; primary frequency
+   control; distributed generation
+ER
+
+EF

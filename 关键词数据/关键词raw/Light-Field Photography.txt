@@ -1,0 +1,746 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE light-field; polarization; reflectance separation; single-shot
+ID COMPONENTS
+ER
+
+PT J
+ID PLENOPTIC CAMERA; ALGORITHM
+ER
+
+PT J
+DE Auto-refocusing; Detection-based focusing; Blurriness measure;
+   Light-field photography
+ID IMAGE QUALITY ASSESSMENT; AUTOFOCUS ALGORITHM; FOCUS; SHAPE;
+   IMPLEMENTATION; DOMAIN; MODEL
+ER
+
+PT J
+DE Image coding; Lossless compression; Light field coding
+ID COMPRESSION
+ER
+
+PT J
+DE light field; three-dimensional display; plenoptic
+ID INTEGRAL PHOTOGRAPHY
+ER
+
+PT J
+DE light-field microscopy; light-field display; three-dimensional
+   microscopy; three-dimensional display; computational imaging;
+   computational display
+ID DEPTH; PHOTOGRAPHY; ENDOSCOPY; PICKUP
+ER
+
+PT J
+ER
+
+PT J
+DE Light field; super-resolution; convolutional neural network
+ID SUPERRESOLUTION; CAMERA
+ER
+
+PT J
+DE Light field; Image rendering; Spatial frequency response; Patch size
+   optimization
+ID LENS; PHOTOGRAPHY; CAMERA
+ER
+
+PT J
+ID INTEGRAL IMAGING MICROSCOPE; DEPTH-OF-FIELD; LENS ARRAY;
+   AUTOSTEREOSCOPIC DISPLAY; PLENOPTIC CAMERA; ENHANCED DEPTH; PHOTOGRAPHY;
+   FOCUS
+ER
+
+PT J
+DE light-field; plenoptic; photography; lytro (R)
+ID PERFORMANCE
+ER
+
+PT S
+DE lenslet light field; panorama creation; multi-perspective; stiching
+ER
+
+PT S
+DE Computational photography; light field; microlens array; perspective
+   views; image resolution
+ID DEPTH
+ER
+
+PT S
+ID INVERSE PROBLEMS; SPARSE; ALGORITHM; CAMERA
+ER
+
+PT J
+DE image; video editing; image processing; computational photography; image
+   and video processing; Computing methodologiesScene understanding;
+   Computer vision problems; Reflectance modeling
+ID RETINEX; VIDEO
+ER
+
+PT J
+DE Computational optics; light-field imaging
+ID PLENOPTIC CAMERA
+ER
+
+PT J
+DE computer generated holography; light field; computational photography;
+   vergence-accommodation conflict
+ID 3-DIMENSIONAL SURFACE OBJECTS; GENERATED HOLOGRAMS; WIGNER DISTRIBUTION;
+   DISPLAY SYSTEM; IMAGE; ALGORITHM; PHASE; STEREOGRAM; DIFFRACTION;
+   PROJECTION
+ER
+
+PT J
+ID SUPERRESOLUTION
+ER
+
+PT J
+DE Light field display; Integral imaging; Viewing resolution
+ID ARRAY; LENS; PHOTOGRAPHY; VIDEOGRAPHY; LIMITATION; DESIGN
+ER
+
+PT J
+DE Light field imaging
+ID HEAD-MOUNTED DISPLAYS; AUTOMULTISCOPIC DISPLAYS; AUTOSTEREOSCOPIC
+   DISPLAY; CAMERA ARRAYS; MICROSCOPY; COMPRESSION; SYSTEM; STEREO; VIDEO;
+   SUPERRESOLUTION
+ER
+
+PT J
+DE Dimensionality reduction; learning; light-fields; super-resolution
+ID SUPERRESOLUTION
+ER
+
+PT J
+DE Editing interfaces; editing workflow; light fields; user study
+ID OPTIMAL MATCHING METHODS; SKETCHING INTERFACE; TIME-SERIES; DESIGN;
+   APPEARANCE; SEQUENCES; IMAGES
+ER
+
+PT J
+DE Light field imaging; Plenoptic function; Imaging model; Calibration;
+   Reconstruction
+ID CAMERA; MICROSCOPY; MEDIA
+ER
+
+PT J
+ER
+
+PT J
+ID CONE-BEAM CT; IMAGE-RECONSTRUCTION; PHOTOGRAPHY; CAMERA; DEPTH; SCENE;
+   LINES
+ER
+
+PT J
+ID FOURIER HOLOGRAM; PHOTOGRAPHY; ARRAYS; IMAGES
+ER
+
+PT J
+DE Continuous parallax; holographic imaging; light-field imaging; multiview
+   imaging; point image array
+ID SUPER MULTIVIEW DISPLAY; INTEGRAL PHOTOGRAPHY; 3D DISPLAY; ELECTRONIC
+   HOLOGRAPHY; PARALLAX-BARRIER; VIEWING ZONES; SYSTEM; IMAGES;
+   VISUALIZATION; MODULATORS
+ER
+
+PT J
+ID PHOTOGRAPHY; CAMERAS
+ER
+
+PT J
+DE Computational photography and camera; calibration; plenoptic; light
+   field cameras
+ID PLENOPTIC CAMERA; STEREO
+ER
+
+PT S
+DE Light Field; Reflection; Epipolar Images
+ER
+
+PT S
+DE Ultraviolet light field; Ultraviolet images; Optic simulation model;
+   Variational inference
+ID UV-PHOTOGRAPHY; CAMERA
+ER
+
+PT S
+DE PCA; light field; coded aperture
+ID CAMERA ARRAYS
+ER
+
+PT S
+DE Light Field; Coded-Aperture; Angular Resolution; Sparse representation
+ER
+
+PT S
+DE Light-field compression; lossless compression; colour space transforms
+ID IMAGE COMPRESSION
+ER
+
+PT S
+DE extending depth of field; light field; image fusion; all-in-focus
+ID CAMERA
+ER
+
+PT B
+DE plenoptic; light field; digital refocusing; multiperspective; comparison
+ID CAMERA
+ER
+
+PT S
+ER
+
+PT S
+DE light field photography; THz; refocusing rendering; synthetic aperture;
+   camera array
+ER
+
+PT B
+DE light field camera; depth map; refraction
+ID ORIENTATION; TEXTURE
+ER
+
+PT S
+DE Light-field; photogrammetry; additive manufacturing
+ID PHOTOGRAPHY
+ER
+
+PT S
+DE Light field imaging; digital refocusing; depth of focus; light field
+   camera; pinhole imaging; synthetic aperture; engineering education;
+   innovation ability
+ER
+
+PT S
+DE Fresnel zone plate; light field; plenoptic; spectral imaging; photon
+   sieve; wave optics
+ID LENSES
+ER
+
+PT S
+DE light field imaging; grating; novel optical system; multiple images;
+   ZEMAX
+ER
+
+PT J
+ID WAVE-FRONT RECONSTRUCTION; COMPUTER-GENERATED HOLOGRAMS; HIDDEN-SURFACE
+   REMOVAL; PHASE-ADDED STEREOGRAM; RAY-SAMPLING PLANE; INTEGRAL
+   PHOTOGRAPHY; FULL-PARALLAX; WHITE-LIGHT; AUTOSTEREOSCOPIC DISPLAY;
+   RESOLUTION LIMITATION
+ER
+
+PT J
+DE Crosstalk-free; diaphragm; integral photography; 360 degree viewable
+   display
+ID INTEGRAL IMAGING-SYSTEM; VIEWING-ANGLE; VISUALIZATION
+ER
+
+PT J
+ID PHOTOGRAPHY; CAMERA; REGISTRATION; INTENSITY; ARRAYS
+ER
+
+PT J
+DE light field photography; compressive sensing; coded mask; DCT
+ID CAMERA; ARRAY
+ER
+
+PT J
+ID CAMERA; PHOTOGRAPHY
+ER
+
+PT J
+ID AUTHENTICATION; ALGORITHM; PHOTOGRAPHY; SECURITY; DOMAIN
+ER
+
+PT J
+DE Computational photography; Low-rank tensor factorization; Low-rank and
+   sparse decomposition; Compressive sensing
+ID VISUAL DATA; APPROXIMATION; ARRAYS
+ER
+
+PT J
+ID 3-DIMENSIONAL VIDEO; PRINTER; SYSTEM
+ER
+
+PT S
+ID PHOTOGRAPHY
+ER
+
+PT S
+ID IMAGE; PHOTOGRAPHY; NOISY
+ER
+
+PT B
+DE Diminished Relity; Light Field Rendering; Computational Photography;
+   Multiple Views
+ER
+
+PT S
+ID PERFORMANCE; MICROSCOPE
+ER
+
+PT B
+DE light field; upsampling; epipolar plane image (EPI)
+ID PHOTOGRAPHY
+ER
+
+PT S
+DE light field; creative photography; image processing
+ER
+
+PT B
+DE Terms compressive sensing; light field; projection; structured
+   dictionary; collaborative
+ER
+
+PT S
+ER
+
+PT S
+DE computational photography; light fields reconstruction; compressive
+   sensing; sensing kernel learning; circulant matrix
+ER
+
+PT S
+ER
+
+PT S
+ID DETERMINISTIC PHASE RETRIEVAL; INTEGRAL PHOTOGRAPHY; SPECKLE FIELD;
+   CAMERA; ALGORITHMS; TRANSPORT; MEDIA
+ER
+
+PT S
+DE Light field photography; RGB-D sensor; people counting
+ER
+
+PT J
+ID PSEUDOSCOPIC PROBLEM; SYSTEM; PHOTOGRAPHY; DISPLAY; OBJECTS; IMAGES;
+   TECHNOLOGIES; MICROSCOPY; RESOLUTION
+ER
+
+PT J
+DE Light field; Augmented reality; Mobile; Guidance
+ER
+
+PT J
+ID PHOTOGRAPHY; CAMERAS; MIRROR
+ER
+
+PT J
+DE Depth estimation; light fields; sparse linear systems
+ID ENERGY MINIMIZATION
+ER
+
+PT J
+DE light field; camera array; calibration; rectification; digital
+   refocusing
+ID RECTIFICATION
+ER
+
+PT J
+DE light field; camera; sampling; imaging; noise; misalignment;
+   irregularity; aberration; computational photography
+ID PERFORMANCE; MICROSCOPE; IMAGE
+ER
+
+PT J
+DE 4-D filtering; Light fields; Video imaging and surveillance; Plenoptic;
+   Digital architecture
+ID IMAGE; FAN
+ER
+
+PT J
+DE Depth-velocity filters; multidimensional filtering; light field videos;
+   plenoptic videos; plenoptic function; spectral analysis;
+   linear-trajectory signals
+ID PLENOPTIC VIDEO; CAMERA; MOTION; BANK; PHOTOGRAPHY; TRACKING; DESIGN
+ER
+
+PT J
+DE Algorithms; Theory; Design; Light field filtering; digital refocusing;
+   plenoptic cameras; computational photography; Fourier analysis
+ID OVERCOMPLETE DICTIONARIES; PHOTOGRAPHY; DEPTH; ALGORITHM; MOTION;
+   SPARSE; SVD
+ER
+
+PT J
+DE Algorithms; Theory; Light field camera; light transport analysis;
+   superresolution
+ID HIGH-RESOLUTION IMAGE; RECONSTRUCTION; SUPERRESOLUTION; SYSTEM
+ER
+
+PT B
+DE Light field; Cylindrical Panorama
+ER
+
+PT B
+DE light field image; digital refocusing; Wavelet Transformation; Random
+   Field model; 3D reconstruction
+ER
+
+PT B
+ID CODED-APERTURE; PHOTOGRAPHY
+ER
+
+PT S
+ER
+
+PT S
+DE Lens array imaging; integral imaging; light field imaging; incoherent
+   digital holography; holographic fluorescence microscopy
+ID DIGITAL HOLOGRAPHY; MICROSCOPY; RECONSTRUCTION; OBJECTS
+ER
+
+PT B
+DE integral imaging; black zone; pixel mapping
+ID REAL; DISPLAY; PHOTOGRAPHY; IMAGES
+ER
+
+PT B
+ID PERFORMANCE; ARRAYS
+ER
+
+PT S
+DE light field photography; compressive sensing; coded mask; DCT
+ID CAMERA; ARRAY
+ER
+
+PT S
+DE light field camera; plenoptic camera; super-resolution image synthesis
+ID PHOTOGRAPHY
+ER
+
+PT S
+ID BASE-HEIGHT; CAMERAS; IMAGERY
+ER
+
+PT S
+DE 3D imaging; light field imaging; light field microscopy
+ER
+
+PT S
+DE light-field; precision; accuracy; frustum; high-accurate; avaluation;
+   optimal; setup
+ID PLANE-IMAGE-ANALYSIS
+ER
+
+PT S
+DE Distributed compressive sensing; Light Field; Joint sparsity signal
+   models
+ID SIMULTANEOUS SPARSE APPROXIMATION; RECOVERY; PURSUIT
+ER
+
+PT J
+DE Computational photography; Light transport; Fluid imaging; Shape from x
+ID SURFACE; RECONSTRUCTION; TRANSPARENT; OBJECTS
+ER
+
+PT J
+DE Algorithms; Theory; Light fields; computational photography; Fourier
+   transform; sparse FFT; continuous spectrum
+ID PHOTOGRAPHY; CAMERA
+ER
+
+PT J
+DE 3D light fields; Computational photography; Disparity estimation;
+   Digital refocusing
+ID VIDEO STABILIZATION
+ER
+
+PT J
+ID LENS-ARRAY; CAENORHABDITIS-ELEGANS; MICROLENS ARRAYS; PHOTOGRAPHY;
+   DISPLAY; RESOLUTION; IMAGES; DEPTH; TV
+ER
+
+PT S
+ID PHOTOGRAPHY
+ER
+
+PT S
+DE light field; compressive; lens array; coded mask
+ER
+
+PT S
+DE Computational Photography; Light field; Zoom
+ER
+
+PT S
+DE Light field photography; camera calibration; super-resolution; error
+   analysis
+ER
+
+PT S
+DE Calibration; plenoptic; light-field cameras
+ID PLENOPTIC CAMERA; PHOTOGRAPHY
+ER
+
+PT S
+DE Carbon nanotube; Infrared; Light field sensing; Single pixel camera
+ID EFFECT TRANSISTORS
+ER
+
+PT S
+DE Physical Based Rendering Tracing; PBRT; Light field; Ray tracing; Image
+   processing
+ER
+
+PT S
+DE super-resolution; light field camera; depth estimation
+ER
+
+PT S
+ER
+
+PT S
+DE Scale-space analysis; light fields; plenoptic cameras; 3D keypoint
+   detection
+ID STEREO
+ER
+
+PT S
+DE Spatial frequency response; Modulation transfer function; Plenoptic
+   cameras; Light field; Computational photography
+ER
+
+PT B
+DE Computational Photography; Light Field Camera; Coded Aperture
+ER
+
+PT J
+ID HIGH-RESOLUTION IMAGE; EXTENDED DEPTH; OF-VIEW; RECONSTRUCTION;
+   INFORMATION; SYSTEMS; PROJECTION; EXTENSION; OPTICS; MASKS
+ER
+
+PT J
+DE image-based lighting; surface light field; light field representation;
+   realistic lighting
+ID PHOTO COLLECTIONS; WORLD; PROBE
+ER
+
+PT J
+DE catadioptric; fabrication; light field recording; mirror design; 2012
+   Computing Methodologies; Artificial Intelligence; Computer Vision; Image
+   and Video Acquisition; Computational Photography; I; 4; 1 Image
+   Processing and Computer Vision; Digitization and Image Capture; Imaging
+   geometry
+ID PHOTOGRAPHY; CAMERAS; ANGLE; REAL
+ER
+
+PT J
+ID PHOTOGRAPHY
+ER
+
+PT J
+DE camera; digital; focusing; light-field; plenoptic; depth of field
+ER
+
+PT J
+DE computational photography; computational optics
+ID PHOTOGRAPHY; ACQUISITION; RESOLUTION; CAPTURE; SYSTEM
+ER
+
+PT J
+DE computational photography; compressive sensing
+ID CAMERA; IMAGE; SPARSE
+ER
+
+PT J
+DE Light field; omni-directional imaging; ultra-high resolution; video
+   record system
+ER
+
+PT J
+DE I; 4; 1 [Image Processing and Computer Vision]: Digitization and Image
+   Capture; I; 3; 3 [Computer Graphics]: Picture; Image Generation; I; 3; 3
+   [Computer Graphics]: Picture; Image GenerationDisplay algorithms
+ID IMAGE; MOSAICS
+ER
+
+PT J
+DE Experimentation; Performance; Theory; Verification; Extended depth of
+   field; defocus and motion deblurring; depth- and motion-invariant
+   photography
+ID PHOTOGRAPHY; SHUTTER; IMAGES; CAMERA
+ER
+
+PT J
+DE Physics; Issue 73; Mechanical Engineering; Fluid Mechanics; Engineering;
+   synthetic aperture imaging; light field; camera array; particle image
+   velocimetry; three dimensional; vector fields; image processing; auto
+   calibration; vocal chords; bubbles; flow; fluids
+ER
+
+PT B
+DE Computational photography; light field; blurred observations;
+   programmable coded aperture camera
+ER
+
+PT S
+DE image simulation; digital refocusing; light field photography; optical
+   design
+ER
+
+PT S
+ID OVERCOMPLETE DICTIONARIES; PHOTOGRAPHY; SPARSE; SVD
+ER
+
+PT B
+ER
+
+PT J
+DE Computational photography; Optical multiplexing; Plenoptic function;
+   Light fields
+ID HIGH DYNAMIC-RANGE; CAMERA; RESOLUTION; FIELD; PHOTOGRAPHY; ARRAYS;
+   SYSTEM
+ER
+
+PT J
+DE Bayesian methods; coded aperture; compressive sensing; computational
+   photography; image reconstruction; light fields
+ID UNCERTAINTY PRINCIPLES; ARRAYS; RECONSTRUCTION; PHOTOGRAPHY; NOISE
+ER
+
+PT J
+ER
+
+PT B
+DE light fields; computational photography; panorama
+ER
+
+PT B
+ER
+
+PT S
+DE Light Field; Plenoptic Camera; Zernike Polynomials; Compression;
+   Computational Photography
+ID EXPANSION COEFFICIENTS; PUPIL SIZES
+ER
+
+PT J
+DE Defocus blur; image formation; light field; light transport analysis;
+   perspective transformation; vignetting
+ID SIGNAL-PROCESSING FRAMEWORK; PHOTOGRAPHY
+ER
+
+PT S
+DE light field photography; depth of field; system performance; MTF; ISO
+   12233
+ID CAMERA
+ER
+
+PT J
+DE Catadioptric Imaging; Computational Photography; Wide-Angle Light
+   Fields; Digital Refocusing; Spherical Mirrors
+ER
+
+PT J
+DE light field; 3D reconstruction; microscopy
+ID FLUORESCENCE MICROSCOPY; SYNCHROTRON-RADIATION; IMAGE; ARCHITECTURE;
+   PHOTOGRAPHY
+ER
+
+PT S
+DE Light field; pinhole array mask; digital refocusing
+ER
+
+PT S
+DE Light field; pinhole array mask; depth estimation
+ER
+
+PT J
+DE Illumination; light field; light field microscope; microlens array;
+   plenoptic function; synthetic aperture imaging; spatial light modulator;
+   spherical aberration; Shack-Hartmann sensor
+ID PHASE MICROSCOPY; ABERRATION CORRECTION; ADAPTIVE OPTICS; SCATTERING;
+   MODULATOR; DISPLAY; MIRROR; SYSTEM; CAMERA
+ER
+
+PT B
+DE Compressive sensing; light-fields; coded aperture imaging; computational
+   photography; Bayesian methods
+ER
+
+PT S
+ER
+
+PT S
+DE Light field camera; music emotion recognition
+ER
+
+PT J
+DE Computational Photography; Light Fields; Coded Aperture Imaging; Visual
+   Hull; Cast Shadows; Light Transport
+ID PHOTOGRAPHY; CAMERA; SHADOWS; ARRAYS
+ER
+
+PT J
+DE passive reflectance field display; image-based relighting with natural
+   light
+ID LIGHT-FIELD; PHOTOGRAPHY
+ER
+
+PT J
+ID ENERGY MINIMIZATION; CAMERA
+ER
+
+PT S
+ID CODED-APERTURE; CAMERA; PHOTOGRAPHY
+ER
+
+PT S
+DE image-based rendering; integral photography; variable-focus lens;
+   programmable imaging
+ER
+
+PT J
+ID ARRAYS; SYSTEM; DEPTH
+ER
+
+PT S
+DE light field; focusing; depth detection; image-based rendering
+ID CAMERA
+ER
+
+PT S
+DE light field; digital refocusing; computational photography
+ER
+
+PT B
+ER
+
+PT S
+DE image coding; data compression; rendering (computer graphics);
+   prediction methods
+ER
+
+PT S
+ER
+
+PT J
+DE digital photography; Fourier transform; projection-slice theorem;
+   digital refocusing; plenoptic camera
+ID INTEGRAL PHOTOGRAPHY; PARALLAX; CAMERA; LENS
+ER
+
+PT J
+DE appearance-based object recognition; face recognition; light-fields;
+   eigen light-fields; face recognition across pose
+ID FRAMEWORK; VISION
+ER
+
+PT S
+ER
+
+PT B
+ID METAMORPHOSIS
+ER
+
+PT J
+DE linage-based rendering; texture mapping; compression algorithms;
+   rendering hardware
+ID COMPRESSION
+ER
+
+EF

@@ -1,0 +1,2005 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE Transistor linearity; graded channel AlGaN; PolFET; polarization-graded
+   field-effect transistor; two-tone linearity
+ER
+
+PT J
+DE In-Ga-Zn-O (IGZO); thin-film device; synapse element; neural network;
+   conductance change; modified Hebbian learning
+ID FLOATING-GATE; TRANSISTORS; MEMORY; ARCHITECTURE; CHIP; LSI
+ER
+
+PT J
+DE Organic field-effect transistor; Polycyclic aromatic compounds;
+   Thienoacene
+ID FIELD-EFFECT TRANSISTORS; ORGANIC SEMICONDUCTORS; MOLECULES;
+   HETEROARENES; DERIVATIVES; DITHIOPHENE
+ER
+
+PT J
+DE FinFETs; hybrid 3-D floorplanner; monolithic 3-D integrated circuits
+   (3-D ICs); T*-tree representation
+ID INTEGRATED-CIRCUITS; DESIGN; OPTIMIZATION; METHODOLOGY; ALGORITHM;
+   SYSTEM; LAYOUT; FUTURE
+ER
+
+PT J
+DE Heteroacenes; Arch-shaped; Organic field-effect transistors; Organic
+   semiconductors; Dibenzothienopyrrole
+ID FIELD-EFFECT TRANSISTORS; THIN-FILM TRANSISTORS; N-TYPE; ORGANIC
+   SEMICONDUCTORS; FUSED HETEROACENES; HIGH-MOBILITY; IN-SILICO; P-TYPE;
+   PENTACENE; RINGS
+ER
+
+PT J
+DE Imaging; receivers; tomography
+ID COMPUTED-TOMOGRAPHY; IMAGING APPLICATIONS; TECHNOLOGY; CMOS
+ER
+
+PT J
+DE Read scheme; sensing margin; sneak current; vertical resistive
+   random-access memory (V-ReRAM)
+ER
+
+PT J
+ID FIELD-EFFECT TRANSISTORS; THIN-FILM TRANSISTORS; POLYMER SOLAR-CELLS;
+   CONJUGATED POLYMERS; SEMICONDUCTING POLYMERS; ELECTRON-DONOR; GAP
+   POLYMERS; SIDE-CHAIN; PERFORMANCE; BITHIAZOLE
+ER
+
+PT J
+DE addition-elimination reaction; benzodithienothiophene; fluorescence;
+   organic field-effect transistor; benzodithienofuran
+ID FIELD-EFFECT TRANSISTORS; DERIVATIVES; SEMICONDUCTORS; THIOPHENE;
+   PHOSPHORESCENCE; PERFORMANCE; THIENOACENE; SYSTEMS; OXYGEN
+ER
+
+PT J
+DE N-channel organic thin-film transistors (OTFTs); ultra-thin; flexible;
+   conformal
+ID FIELD-EFFECT TRANSISTORS; THIN-FILM TRANSISTORS; ORGANIC SEMICONDUCTORS;
+   STABILITY; PERFORMANCE
+ER
+
+PT J
+DE Silicon nanowire; nanowire array; reconfigurable logic; CMOS; RFET;
+   functionality enhanced devices; polarity control; SBFET; tunneling;
+   Schottky barrier; vertical; TCAD
+ID TRANSISTORS; TECHNOLOGY; CIRCUITS; DESIGN
+ER
+
+PT J
+DE Organic field-effect transistors; Electron mobility; Organic
+   photovoltaics; Organic photodetectors; Non-fullerene acceptor; ITIC
+ID POLYMER SOLAR-CELLS; NON-FULLERENE ACCEPTORS; HIGH-EFFICIENCY
+ER
+
+PT J
+ID SEMICONDUCTING POLYMERS; CONJUGATED POLYMERS; BUILDING-BLOCK;
+   SOLAR-CELLS; AMORPHOUS-SILICON; MOBILITY; COPOLYMERS; PERFORMANCE;
+   PENTACENE
+ER
+
+PT J
+DE UFM system; Sub-ns characterization; 3-D I-V; Parameter extraction
+ER
+
+PT J
+DE bending stability; biomedical applications; C-reactive protein (CRP)
+   sensors; organic transistors; ultraflexibility
+ID THIN-FILM TRANSISTORS; FIELD-EFFECT TRANSISTORS; PERFORMANCE; DEVICES;
+   STABILITY; CIRCUITS; AIR
+ER
+
+PT J
+DE 2; 6-diphenyl anthracene (DPA); AFM; Fractal analysis; Surface
+   topography
+ID ROUGH MEMBRANE-SURFACE; ORGANIC SEMICONDUCTOR; INTERFACIAL INTERACTIONS;
+   CRYSTAL-STRUCTURE; BIOREACTOR; MORPHOLOGY; PARAMETERS; EPILAYERS; LAYER
+ER
+
+PT J
+DE Junctionless field-effect transistor (JLFET); substrate bias;
+   subthreshold current; subthreshold swing (SS); trigate (TG)
+ID THRESHOLD VOLTAGE; SOI MOSFETS; NANOWIRE TRANSISTORS; TRIGATE MOSFETS;
+   OPERATION; REGIME; IMPACT; SLOPE
+ER
+
+PT J
+DE Silicon nanowire field effect transistor (SiN-WFET); hybrid process;
+   deep reactive ion etching (DRIE); HNA; immunoglobulin G (IgG)
+ID LABEL-FREE DETECTION; PROTEIN INTERACTIONS; NUCLEIC-ACIDS; TRANSISTOR;
+   NANOSENSORS
+ER
+
+PT J
+DE V-ce(sat) - E-off tradeoff; insulated gate bipolar transistor (IGBT);
+   clustered IGBT (CIGBT); power semiconductor device; scaling rule;
+   self-clamping feature; short-circuit capability
+ID GATE BIPOLAR-TRANSISTOR; TCIGBT
+ER
+
+PT J
+DE organic transistors; charge-transfer complex; ambipolar transistor;
+   mixed stack; single-crystal transistors
+ID FIELD-EFFECT TRANSISTORS; DONOR-ACCEPTOR COMPLEXES; THIN-FILM
+   TRANSISTORS; N-TYPE; TRANSPORT-PROPERTIES; AMBIPOLAR TRANSPORT;
+   HIGH-PERFORMANCE; SEMICONDUCTING POLYMERS; ORGANIC SEMICONDUCTORS;
+   BENZOTHIENOBENZOTHIOPHENE
+ER
+
+PT J
+DE optical images; optical memory transistors; organic semiconductors;
+   structural inhomogeneity
+ID THIN-FILM TRANSISTORS; FIELD-EFFECT TRANSISTORS; CHARGE-TRANSPORT;
+   PHOTOTRANSISTORS; DEVICES; PENTACENE; INTERFACE; NANOWIRES; SENSOR;
+   LAYER
+ER
+
+PT J
+DE Coupled electron and phonon Monte Carlo (MC) simulation; fin-shaped
+   transistor
+ID THERMAL-CONDUCTIVITY; DISLOCATIONS; TRANSPORT
+ER
+
+PT J
+DE High power insulated-gate bipolar transistors (IGBTs); short-circuit
+   failure mode; three-dimensional short-circuit safe operating area
+   (3D-SCSOA); self-heating; temperature dependence
+ID HIGH-VOLTAGE IGBTS; FIELD-STOP IGBTS; COLLECTOR DESIGN; TURN-OFF;
+   RUGGEDNESS; AVALANCHE; DEVICES; LIMITATION; BEHAVIOR
+ER
+
+PT J
+DE Thin-film transistor (TFT); gate-all-around (GAA); Nanosheet (NS);
+   stacked structure
+ER
+
+PT S
+DE IGZO; film-profile-engineered; Thin film transistors; inverters;
+   transconductance; voltage gain; long-term stability
+ID TRANSISTORS; PERFORMANCE
+ER
+
+PT J
+DE InP HBT; terahertz band; 3D EM simulation; transistor model
+ID EQUIVALENT-CIRCUIT; TECHNOLOGIES
+ER
+
+PT J
+DE Heterogeneous integration; monolithic 3D; sequential 3D; layer transfer;
+   wafer bonding; epitaxial lift-off; III-V-OI; GOI; thin film PD; mid-IR
+   photonics; microLED
+ID EPITAXIAL LIFT-OFF; SI SUBSTRATE; MIDINFRARED PHOTONICS; SILICON;
+   FABRICATION; TECHNOLOGY
+ER
+
+PT J
+DE Oxide semiconductor; thermal stability; mobility; BEOL transistor;
+   double heterochannel
+ER
+
+PT J
+DE Dithieno[3,2-b:2 ',3 '-d] pyridine core; donor-acceptor; organic
+   electronics
+ID THIN-FILM TRANSISTORS; DPP COPOLYMER; DONOR; PERFORMANCE;
+   SEMICONDUCTORS; THIOPHENE; POLYMERS
+ER
+
+PT J
+DE Band-to-band (BTB) generation rate; core-shell; deformation potential
+   theory; heterojunction; strain; tunneling field-effect transistor (TFET)
+ID DEPOSITION
+ER
+
+PT J
+DE Organic thin film transistors; inkjet printing; displays; organic
+   light-emitting diodes; organic semiconductors
+ID FABRICATION
+ER
+
+PT J
+DE Organic thin-film transistors; Organic semiconductor; dithieno[3,2-b: 2
+   ',3 '-d]thiophene; Self-assembled monolayer; Complementary-like inverter
+ID FIELD-EFFECT TRANSISTORS; CM(2) V-1 S(-1); CHARGE-TRANSPORT PROPERTIES;
+   HIGH-PERFORMANCE; N-CHANNEL; AMBIPOLAR TRANSISTORS; CARRIER TRANSPORT;
+   SINGLE-CRYSTALS; SMALL MOLECULES; DITHIENOTHIOPHENE
+ER
+
+PT J
+DE Electrostatic discharge (ESD); ultra-high voltage (UHV); human body
+   model (HBM); silicon-controlled rectifier (SCR); technology computer
+   aided design (TCAD); current filamentation
+ID LDMOS
+ER
+
+PT J
+DE 3-DTFT architecture; amorphous silicon; dual-gate thin-film transistor
+   (TFT); photoconductive gain; photosensitive TFT
+ER
+
+PT J
+DE 3-D transistor; electrothermal behavior; FinFET; International
+   Technology Roadmap for Semiconductors (ITRS); self-heating effect (SE)
+ID DEGRADATION; TRANSISTORS; TRANSPORT
+ER
+
+PT J
+DE 3-D photoconductor; hydrogenated amorphous silicon; infrared
+   photodetector; thin-film transistor; zinc oxide nanowire
+ID SCHOTTKY JUNCTION; SOLAR-CELLS; ULTRAVIOLET; DEVICES
+ER
+
+PT J
+DE Static Random Access Memory (SRAM); Linear Energy Transfer (LET) value;
+   Time of the upset and recovery; Single-Event Effect (SEE)
+ID SINGLE-EVENT UPSET; DEEP-N-WELL; CHARGE COLLECTION; CMOS TECHNOLOGY;
+   SUBMICRON CMOS; DESIGN
+ER
+
+PT J
+DE 3-D electrothermal simulation; Power multifinger HEMT; Metallization
+   layout; TCAD modeling
+ID ELECTRONICS; TRANSISTORS; ALGAN/GAN; TRANSIENT; DESIGN; GAN
+ER
+
+PT J
+DE 3D magnetic field sensor; Hall magnetic field sensor; MEMS technology;
+   silicon magnetic sensitive transistor
+ID SILICON HALL SENSOR; FABRICATION-TECHNOLOGY; SENSITIVE TRANSISTOR
+ER
+
+PT J
+DE 3-D IC; NBTI; Hardware Trojan
+ID CIRCUITS; DEGRADATION; PREDICTION; DEPENDENCE; TOLERANCE; EFFICIENT; BTI
+ER
+
+PT J
+DE Drain-induced barrier lowering (DIBL); junctionless field-effect
+   transistor (JLFET); substrate bias; threshold voltage; tri-gate (TG)
+ID NANOWIRE TRANSISTORS; SOI MOSFETS
+ER
+
+PT J
+DE 3-D IC; 3-D stack; 3-D technology; bulk silicon; CMOS; FinFET;
+   multiple-gate; nanoelectronic; nanowire (NW); semiconductor;
+   silicon-on-insulator (SOI); technology; total ionizing dose (TID);
+   triple-gate; ultrathin SOI (UTSOI)
+ID BIAS DEPENDENCE; BULK FINFETS; FIN-WIDTH; RADIATION; IRRADIATION;
+   MOSFETS; DEGRADATION; GEOMETRY; TRIGATE; DEVICES
+ER
+
+PT J
+DE Graded AlGaN; constant f(T); gain linearity; GaN; graded AlGaN;
+   high-electron-mobility transistor (HEMT); polarization-doped
+   field-effect transistor (PolFET)
+ID ELECTRON-MOBILITY TRANSISTORS; FIELD-EFFECT TRANSISTORS; MOLECULAR-BEAM
+   EPITAXY; OHMIC CONTACTS; HEMTS; GAN; F(T); GHZ; HETEROJUNCTION; ALLOYS
+ER
+
+PT J
+DE 3-D monolithic; back bias; fully depleted - silicon on insulator
+   (FD-SOI); read assist; static random access memory (SRAM)
+ID CMOS
+ER
+
+PT J
+DE 3D connectivity; 3D designs; fine-grained 3D integration; routability;
+   Skybridge-3D-CMOS
+ER
+
+PT J
+DE AlGaAs/InGaAs/GaAs based pHEMTs; 3-D MMICs; Multilayer fabrication;
+   Characterisation; Thermal influence
+ID MMIC TECHNOLOGY
+ER
+
+PT J
+DE 3-D integrated circuits; flexible printed circuits; organic thin-film
+   transistors; solution process
+ID FIELD-EFFECT TRANSISTORS; THIN-FILM TRANSISTORS; ELECTRONICS; CIRCUITS;
+   MOBILITY
+ER
+
+PT J
+ID FIELD-EFFECT TRANSISTORS; THIN-FILM TRANSISTORS; SELF-ASSEMBLED
+   MONOLAYERS; BLEND; THRESHOLD
+ER
+
+PT J
+ER
+
+PT J
+DE atomic layer deposition; transistors; numerical simulation;
+   computational fluid dynamics
+ID GE; DEPOSITION; AL2O3
+ER
+
+PT J
+DE Equivalent circuit parameters (ECPs); large-signals parameters;
+   multibias; multilayer 3-D monolithic microwave integrated circuits
+   (MMICs); temperature
+ID EQUIVALENT-CIRCUIT; MICROWAVE APPLICATIONS; TEMPERATURE; HEMTS; GAN; DC
+ER
+
+PT J
+DE Monte-Carlo; Nanoscale; MOS devices; Phonon transport; Boltzmann
+   equation
+ID HEAT-CONDUCTION; THERMAL-CONDUCTIVITY; MOS DEVICES; THIN-FILMS; MODEL;
+   GENERATION; POLARIZATION; TRANSISTORS; DISPERSION
+ER
+
+PT J
+ID FIELD-EFFECT TRANSISTORS; GATE INSULATOR; THRESHOLD VOLTAGE;
+   HIGH-MOBILITY; PENTACENE; PERFORMANCE; SURFACE; DIELECTRICS
+ER
+
+PT J
+DE Nano-Scaled Transistor; NiSi2 Migration; Poly-Silicon Channel;
+   Density-of-States
+ID THIN-FILM TRANSISTORS; INDUCED LATERAL CRYSTALLIZATION; SOLID-PHASE
+   CRYSTALLIZATION; HIGH-PERFORMANCE; ELECTRICAL-PROPERTIES
+ER
+
+PT J
+DE Hysteresis; thin-film transistor (TFT); metal oxide; nonvolatile memory
+   (NVM)
+ID FLUORINATED ZINC-OXIDE; ROOM-TEMPERATURE; SEMICONDUCTOR; MOBILITY
+ER
+
+PT J
+DE Gate all around (GAA); nanowires; Poisson's equation; subthreshold swing
+   (SS); tunnel FETs (TFETs); work function engineering
+ID TUNNEL FETS; THRESHOLD VOLTAGE; TRANSISTORS; MOSFETS; PERFORMANCE
+ER
+
+PT S
+DE monolayer MoS2; phonon scattering; strain engineering; Monte Carlo
+   device simulation
+ID DEVICE SIMULATIONS; OPERATION; BILAYER
+ER
+
+PT B
+DE SF-FinFET; SD-FinFET; SCEs; Analog; RF and Digital FOMs
+ID MOSFETS; IMPACT
+ER
+
+PT S
+DE Stacked Horizontal Nanowire; 3-D Integrated Circuits; 3-D CMOS;
+   Fine-Grained 3-D; SN3D; SN3D SRAM; 3-D SRAM; 3-D Manufacturing
+ID FIELD-EFFECT TRANSISTORS; SILICON NANOWIRES; INTEGRATION; TECHNOLOGY;
+   CHALLENGES; GROWTH
+ER
+
+PT B
+DE Design Of Experiments (DOE); finite-element method (FEM); heterojunction
+   bipolar transistor (HBT); thermal resistance
+ID HETEROJUNCTION BIPOLAR-TRANSISTORS; RESISTANCE; DESIGN
+ER
+
+PT B
+ER
+
+PT B
+DE Tunnel Field Effect Transistor(TFET); Graded Channel; Front Gate Stack;
+   Tri-Gate; Band-to-Band Tunneling (BTBT); Dual Metal (DM); Silicon On
+   Nothing(SON); Effective Oxide Thickness(EOT)
+ID TUNNEL-FETS; DRAIN
+ER
+
+PT S
+ID FIELD-EFFECT TRANSISTORS; FIBER
+ER
+
+PT J
+ID FIELD-EFFECT TRANSISTORS; GROUND-STATE; HIGH-PERFORMANCE; HYDROCARBONS;
+   OLIGOTHIOPHENES; SEMICONDUCTOR; DIRADICALS; MOLECULES; RADICALS; DESIGN
+ER
+
+PT J
+ID THIN-FILM TRANSISTORS; 25TH ANNIVERSARY ARTICLE; HIGH-PERFORMANCE;
+   DERIVATIVES; PHENACENE; MOLECULES
+ER
+
+PT J
+DE 3-D electrothermal simulation; metallization layout; power multifinger
+   high-electron mobility transistor (HEMT)
+ER
+
+PT J
+DE carbon nanotubes; 3-D structure; fin field-effect transistor (FinFET);
+   wafer-scale; high packing density
+ID HIGH-PERFORMANCE ELECTRONICS; FIELD-EFFECT TRANSISTORS; ARRAYS; GATE;
+   INTEGRATION; DEVICES
+ER
+
+PT J
+DE 3-D ICs; gate-all-around (GAA); junctionless (JL); nanowire (NW);
+   polycrystalline-Si (poly-Si) thin-film transistors
+ID MOSFETS
+ER
+
+PT J
+DE thiophene; oligothiophenes; double annulations; tetraiodothiophene;
+   semiconductors
+ID FIELD-EFFECT TRANSISTORS; STACKED ORGANIC SEMICONDUCTOR; CATALYZED C-S;
+   FUSED THIOPHENES; HIGH-PERFORMANCE; SOLAR-CELLS; 7 RINGS; DERIVATIVES;
+   PHOTOVOLTAICS; MONO
+ER
+
+PT J
+DE Active-matrix organic light-emitting diode (AMOLED); low-temperature
+   polycrystalline silicon (LTPS); thin-film transistor (TFT)
+ID DEGRADATION; SCHEME
+ER
+
+PT J
+DE 3-D NAND flash memory; channel stacked 3-D NAND flash memory; tied bit
+   line and ground select transistor; layer selection method
+ER
+
+PT J
+DE Nonequilibrium Green's function (NEGF); steep slope; transition metal
+   dichalcogenides; tunnel FET (TFET)
+ID LOW-POWER ELECTRONICS; INTERFACE TRAPS; FETS; MOSFETS; METALS; DIODES
+ER
+
+PT J
+DE 3-D Poisson's equation; analytical model; junctionless triple-gate
+   MOSFETs
+ID THRESHOLD VOLTAGE MODEL; NANOWIRE TRANSISTORS; SUBTHRESHOLD CURRENT;
+   FIELD
+ER
+
+PT J
+DE 3-D integration; amorphous-indium-gallium-zinc-oxide (a-IGZO); high-k
+   dielectric; power management IC (PMIC); thin-film transistor (TFT)
+ID ATOMIC LAYER DEPOSITION; FILMS
+ER
+
+PT J
+DE Organic thin-film transistors; Organic semiconductor;
+   Benzothienothiophene; Self-assembled monolayer
+ID FIELD-EFFECT TRANSISTORS; SELF-ASSEMBLED MONOLAYERS; MOBILITY; DESIGN;
+   HOLE
+ER
+
+PT J
+ID FIELD-EFFECT TRANSISTORS; THIN-FILM TRANSISTORS; HIGH-PERFORMANCE;
+   ORGANIC SEMICONDUCTORS; DERIVATIVES; SUBSTRUCTURE; THIENOACENES;
+   PENTACENE; STABILITY; POLYMERS
+ER
+
+PT J
+DE Film profile engineering (FPE); InGaZnO (IGZO); inverter; logic gate;
+   metal oxide (MO); thin-film transistors (TFTs); voltage gain
+ID A-IGZO INVERTER; OXIDE SEMICONDUCTOR; TRANSISTOR-CIRCUITS; ZNO;
+   FABRICATION
+ER
+
+PT J
+DE FinFET; monolithic 3-D integration; noise margin; process variation;
+   SRAM; TCAD
+ID CAPACITANCE EXTRACTION; CIRCUITS; DESIGN; CELLS; INTEGRATION; CMOS
+ER
+
+PT J
+DE 3-D integrated circuit (3-D IC); coupling; monolithic 3-D IC (M3IC);
+   parasitic extraction
+ID SOI MOSFETS; INTEGRATION; TECHNOLOGY
+ER
+
+PT J
+DE 3-D compact model; Triple-gate JLT; Nanowire JLT; SCE; Fin height
+   capacitance; Threshold voltage
+ID DRAIN CURRENT; MOSFETS; SIMULATION
+ER
+
+PT J
+DE Three dimensional; Non-Fourier; Nanoscale heat transfer; MOSFET; FinFET;
+   Tri-Gate
+ID FINITE-DIFFERENCE SCHEME; HEAT-TRANSPORT EQUATION; PHASE-LAG MODEL;
+   FIELD-EFFECT TRANSISTORS; JUMP BOUNDARY-CONDITION; TEMPERATURE-JUMP;
+   THIN-FILM; NANOSCALE; CONDUCTION; SIMULATION
+ER
+
+PT J
+DE graphene; transistor; CMOS; hybrid; integrated; circuit
+ID HIGH-FREQUENCY; MONOLAYER GRAPHENE; TRANSISTORS; ELECTRONICS; CARBON
+ER
+
+PT J
+DE arsenic; conjugated polymers; field-effect transistors; molecular
+   electronics; semiconductors
+ID PI-CONJUGATED MATERIALS; DI-GRIGNARD REAGENTS; HIGH-MOBILITY;
+   PERFORMANCE; COPOLYMERIZATION; PHENYLACETYLENE; OXIDES
+ER
+
+PT J
+DE 2-D-2-D tunneling; band-to-band tunneling (BTBT); density of states
+   (DOS); electron-hole bilayer tunnel FET (EHBTFET); quantum mechanical
+   simulation; tunnel field-effect transistor (TFET)
+ID FIELD-EFFECT TRANSISTORS; QUANTUM CONFINEMENT; TUNNEL FET; IMPACT;
+   BEHAVIOR; ENERGY
+ER
+
+PT J
+DE Brushless doubly fed induction generator (DFIG); conduction losses;
+   convection; cooling fan; finite-element method; Insulated Gate Bipolar
+   Transistor (IGBT); rotating power electronic converter (RPEC); switching
+   losses; thermal model
+ID FED INDUCTION GENERATOR; INVERTER
+ER
+
+PT J
+DE Analytical model; Trigate SOI MOSFET; 3-D Poisson's equation; Parabolic
+   potential distribution; Subthreshold swing; Conduction path; Mobile
+   charges
+ID GATE MOSFETS; TRANSISTORS; SI
+ER
+
+PT J
+DE Through-silicon vias; Stress; Three-dimensional displays; Semiconductor
+   device reliability; Transistors; Silicon; 3D-Stacking; Through Silicon
+   Via; Wafer Thinning
+ER
+
+PT J
+DE furan; heteroacenes; organic field-effect transistors; organic
+   semiconductor
+ID HETEROJUNCTION SOLAR-CELLS; THIN-FILM TRANSISTORS; CONJUGATED POLYMERS;
+   SEMICONDUCTORS; BENZODIFURAN; OLIGOMERS; DESIGN; HETEROACENES;
+   COPOLYMERS; MOBILITY
+ER
+
+PT J
+DE 3-D CPU; 3-D IC; codesign; design space analysis; liquid cooling; memory
+   controller (MC); microfluidic (MF) cooling; multicore; stacked DRAM;
+   thermally aware floorplanning
+ID PROCESSORS; DESIGN; SYSTEMS; POWER
+ER
+
+PT J
+DE Injection experiment; microwave pulses (MWPs); nonlinear and damage;
+   silicon bipolar junction transistor (Si BJT)
+ID SUSCEPTIBILITY
+ER
+
+PT J
+DE Intrinsic capacitances; junctionless nanowire transistors (JNTs);
+   modeling; transconductances
+ID COMPACT MODEL; MOSFETS; ELECTRON
+ER
+
+PT B
+DE 3-D devices and structures; 1.5-D SIMS; scanning spreading resistance
+   microscopy (SSRM); electron halography (EH); plasma doping (PLAD)
+ER
+
+PT B
+DE 3-D NoC; Fault Tolerance; Deflection Routing Algorithm; TSV; Reliability
+ID 3D
+ER
+
+PT S
+ID THIN-FILM-TRANSISTOR; ARRAYS
+ER
+
+PT B
+ER
+
+PT S
+DE Stacked Horizontal Nanowire; 3-D Integrated Circuit; 3-D CMOS;
+   Fine-Grained 3-D; SN3D; 3-D Manufacturing
+ID OXIDATION
+ER
+
+PT J
+DE High-electron mobility transistor (HEMT); fin-shaped field-effect
+   transistor (FinFET); Gallium nitride; short channel
+ID SAPPHIRE SUBSTRATE; ALGAN/GAN HEMTS; F(T)
+ER
+
+PT J
+ID FIELD-EFFECT TRANSISTORS; ORGANIC ELECTRONICS; HIGH-MOBILITY;
+   DERIVATIVES; OLIGOMERS
+ER
+
+PT J
+ID FIELD-EFFECT TRANSISTORS; ORGANIC SOLAR-CELLS; SEMICONDUCTING POLYMERS;
+   HIGH-MOBILITY; CONJUGATED POLYMERS; AMORPHOUS-SILICON
+ER
+
+PT J
+ID HETEROJUNCTION SOLAR-CELLS; BACKBONE ORIENTATION; RATIONAL DESIGN;
+   ACCEPTOR; COPOLYMERS; GAP; BENZODITHIOPHENE; TRANSISTORS; STRATEGY
+ER
+
+PT J
+DE Dithieno[3,2-b:2 ',3 '-d]furan; Fused heterocycle; Electrophilic
+   substitution; Coupling reaction
+ID FIELD-EFFECT TRANSISTORS; SOLID-STATE; BAND-GAP; DERIVATIVES;
+   SUBSTITUTION; OLIGOMERS; POLYMERS; FACILE; DESIGN
+ER
+
+PT J
+DE 3-D; magnetic random accessible memories (MRAMs); spin torque transfer
+ID UNIVERSAL MEMORY
+ER
+
+PT J
+DE AlGaN/GaN; recessed gate; fin-type field-effect transistor (FinFET); 3-D
+   TCAD
+ID PEROXIDE OXIDATION TECHNIQUE; AL2O3/GAN MOSFET; CAP LAYER; HEMT;
+   PERFORMANCE; SUBSTRATE; VOLTAGE
+ER
+
+PT J
+DE CMOS; electrostatics; nanowire transistors (NWs); performance; quantum
+   effects; TCAD
+ID STATISTICAL VARIABILITY; INVERSION-LAYERS; GATE; CMOS; GENERATION;
+   ELECTRON; DENSITY; FINFETS; DEVICES; MOSFETS
+ER
+
+PT J
+DE SiGe HET; Single event effects; Extreme environment; Different
+   temperature; LET; 3-D simulation
+ID TECHNOLOGY; HBT
+ER
+
+PT J
+DE Emerging nonvolatile memories (eNVM); field-programmable gate arrays
+   (FPGAs); monolithic 3-D integration; More than Moore (MtM);
+   nanoelectromechanical (NEM) relays; "normally off, instantly on"
+   computing; reconfigurable computing; 3-D integrated circuits (3-D ICs)
+ID INTEGRATION; PERFORMANCE; RRAM; FABRICATION; TECHNOLOGY; DEVICES;
+   DESIGN; CMOS; MEMS; SRAM
+ER
+
+PT J
+DE 3-D IC; finite element method (FEM); static timing analysis; through
+   silicon via (TSV)
+ID TEMPERATURE-DEPENDENCE; THRESHOLD-VOLTAGE; DRAIN CURRENT; TRANSPORT;
+   SILICON; MOSFET; RELIABILITY; MOBILITY; IMPACT
+ER
+
+PT J
+DE ATLAS; double gate; dual material gate (DMG); junctionless; modeling
+ID FIELD-EFFECT TRANSISTORS; DRAIN CURRENT MODEL; SUBTHRESHOLD CURRENT;
+   ISEGAS MOSFET
+ER
+
+PT J
+DE Field-induced quantum confinement; gate normal tunneling; modulation
+   doping; parasitic tunneling; tunnel field-effect transistor (TFET); TFET
+   simulation
+ID PARAMETERS; DEVICE
+ER
+
+PT J
+DE Organic single crystal transistor; Solution process; Low voltage
+   operation
+ID FIELD-EFFECT TRANSISTORS; HIGH-PERFORMANCE; CHARGE-TRANSPORT
+ER
+
+PT J
+DE 3-D; canvas; CMOS; thermal; vertical slit field-effect transistor
+   (VeSFET)
+ID ICS; ARCHITECTURES; CIRCUITS; DESIGN; IMPACT
+ER
+
+PT J
+DE Device simulation; tunnel-FET
+ID FIELD-EFFECT TRANSISTORS; HETEROJUNCTION TUNNEL FETS; HETEROSTRUCTURES
+ER
+
+PT J
+DE 3-D electrothermal simulation; high-electron mobility transistor (HEMT)
+   equivalent circuit model; power HEMT; TCAD modeling
+ID ALGAN/GAN; GAN; TRANSISTORS; DESIGN; MODEL
+ER
+
+PT J
+DE Trench junctionless field-effect transistor (trench JL-FET); nanowires
+   (NWs); and three-dimensional (3-D)
+ID CHANNEL
+ER
+
+PT J
+DE 3-D integrated circuit (3-D IC); 3-D ring oscillator; through silicon
+   via (TSV); via-last TSV; via-middle TSV
+ER
+
+PT J
+DE 3-D simulation; bias temperature instability (BTI); defect-centric
+   model; oxide trapping; reliability; variability
+ER
+
+PT J
+ID FIELD-EFFECT TRANSISTORS; ORGANIC SOLAR-CELLS; HIGH-PERFORMANCE;
+   HIGH-MOBILITY; CONJUGATED POLYMERS; DOPED POLYDITHIENOTHIOPHENE;
+   SEMICONDUCTING POLYMERS; FUSED THIOPHENES; DITHIENOTHIOPHENE; COPOLYMERS
+ER
+
+PT S
+DE DRAM cell transistor; recess gate; saddle-fin; off margin
+   characteristics; vertical transistor; sub-channel effects; 10nm DRAM
+   Technology node
+ER
+
+PT B
+ID FIELD-EFFECT TRANSISTORS; FETS; DIODES
+ER
+
+PT B
+DE ZnO NWFET; Defect; Interface Charge Density
+ER
+
+PT B
+DE 3-D integration; Through Silicon Via; noise; FinFET; TCAD
+ER
+
+PT S
+DE 3-D electrothermal simulation; power high-electron mobility transistor
+   (HEMT); TCAD modeling
+ID DESIGN
+ER
+
+PT B
+ER
+
+PT S
+ID TRANSISTORS
+ER
+
+PT S
+DE TCAD; BTI; statistical variability; statistical compact models;
+   statistical circuit simulation; SRAM
+ID INTRINSIC PARAMETER FLUCTUATIONS; VARIABILITY; DEGRADATION; MOSFETS
+ER
+
+PT J
+DE Microprocessors; memory; simulation; modeling; Moore's law; 3D IC;
+   thermal management; thermal analysis
+ID DIAMOND FILMS; CONDUCTIVITY; TECHNOLOGY
+ER
+
+PT B
+DE FinFET; nanowire FET; vertical FET; 3-D integration; NEM relay
+ID CMOS
+ER
+
+PT J
+ID THIN-FILM TRANSISTORS; HIGH-MOBILITY; THIOPHENE DERIVATIVES;
+   ELECTRONIC-PROPERTIES; FUSED THIOPHENES; MOLECULES; TRANSPORT;
+   OLIGOTHIOPHENES; COPOLYMERS; STABILITY
+ER
+
+PT J
+DE Cross-section shapes; FinFET; Monte Carlo simulations; nonequilibrium
+   Green's functions (NEGF) simulations
+ID SCHRODINGER-EQUATION; IMPURITY SCATTERING; QUANTUM-TRANSPORT;
+   CHANNEL-LENGTH; MOSFETS; TRANSISTORS
+ER
+
+PT J
+DE 2-D ultrathin bodies (UTBs); FinFET; ultralarge-scale integration; wavy
+ER
+
+PT J
+DE FinFET; gate-all-around (GAA); six-transistor (6-T) SRAM; variation
+ID 3-D SIMULATION; MOSFETS; FLUCTUATIONS; TECHNOLOGY
+ER
+
+PT J
+DE Self-heating; SiGe-HBT modeling; temperature-dependent thermal
+   conductivity; thermal coupling
+ID DESIGN; TEMPERATURE; DEPENDENCE; RESISTANCE; EXTRACTION; MODEL
+ER
+
+PT J
+DE Nanopore Structure; Ionic Field Effect Transistor (IFET); 3-D Device
+   Simulation; Parameter Modeling; Mobility
+ID MOBILITY MODEL; ELECTRON; SILICON
+ER
+
+PT J
+DE Junctionless; fin-shaped field-effect transistor (FinFET); short-channel
+   effect (SCE); 3-D device simulation
+ID NANOWIRE TRANSISTORS; GATE; MOSFETS
+ER
+
+PT J
+DE Heterochannel MOSFETs; interlayer coupling; monolithic 3-D integration;
+   SRAM cells
+ID GERMANIUM CHANNEL MOSFETS; CIRCUITS
+ER
+
+PT J
+ID THIN-FILM TRANSISTORS; ONE-POT SYNTHESIS; SELENOPHENE-BASED
+   HETEROACENES; FIELD-EFFECT TRANSISTORS; SENSITIZED SOLAR-CELLS;
+   HIGH-PERFORMANCE; ORGANIC TRANSISTORS; RING OSCILLATORS; FUSED
+   THIOPHENES; OLIGOTHIOPHENES
+ER
+
+PT J
+DE 3-D integrated circuits (ICs); CMOS integrated circuits; integrated
+   circuit interconnections; silicon-on-insulator (SOI); wafer bonding
+ID CMOS; TEMPERATURE; TECHNOLOGY
+ER
+
+PT J
+DE Drivability; Interface; Inverter; Interconnect parasitic; Hybrid
+   SET-CMOS circuit simulation; SET-CMOS integration; Single electron
+   transistor (SET)
+ID SINGLE-ELECTRON TRANSISTOR; ROOM-TEMPERATURE; DESIGN; SIMULATION
+ER
+
+PT J
+DE 3-DTV; luminance correction; multiview image compression
+ID VIDEO
+ER
+
+PT J
+DE Fin field-effect transistor (FinFET); flash memory; nanowires (NWs);
+   nonvolatile memory (NVM); Omega-gate; 3-D; twin poly-Si
+ID THIN-FILM TRANSISTORS; NH3 PLASMA PASSIVATION; FLOATING-GATE MEMORY;
+   FLASH MEMORY; PERFORMANCE; NANOWIRES; CELL; DOT
+ER
+
+PT J
+DE 3-D integrated circuit (3-D IC); location; open; parallel resistor
+   chain; through silicon via (TSV)
+ER
+
+PT J
+ID FIELD-EFFECT TRANSISTORS; THIN-FILM TRANSISTORS; CONJUGATED POLYMERS;
+   CHARGE-TRANSPORT; ORGANIC SEMICONDUCTORS; HOLE MOBILITIES; SIDE-CHAINS;
+   COPOLYMERS; PHOTODETECTORS; PHOTOVOLTAICS
+ER
+
+PT J
+ID THIN-FILM TRANSISTORS; FIELD-EFFECT TRANSISTORS; GEL GATE DIELECTRICS;
+   LOW-BAND-GAP; SEMICONDUCTING POLYMERS; SOLAR-CELLS; PHOTOVOLTAIC
+   APPLICATIONS; PRINTED TRANSISTORS; COPOLYMERS; DIKETOPYRROLOPYRROLE
+ER
+
+PT J
+DE 3-D NAND Flash; grain boundary; grain boundary traps; poly Si thin-film
+   transistor (TFT); vertical gate (VG)
+ID POLY-SI TFTS; CHANNEL
+ER
+
+PT J
+DE Active-matrix liquid crystal displays (AMLCDs); gate driver circuit;
+   thin-film transistors (TFTs)
+ID THIN-FILM TRANSISTORS; AMORPHOUS-SILICON TFTS; LOW-POWER; DISPLAYS;
+   STRESS; DEPENDENCE; SCHEME
+ER
+
+PT J
+DE Organic transistor; Single crystal; Self-assembly monolayer; Hybrid
+   Dielectrics; Solution process
+ID FIELD-EFFECT TRANSISTORS; THIN-FILM TRANSISTORS; HIGH-MOBILITY;
+   PERFORMANCE; DIELECTRICS; SEMICONDUCTORS; TRANSPORT
+ER
+
+PT J
+DE 3-D; charge pumping (CP); doping profile; interface states; poly silicon
+   (p-Si) channel; statistical variations; tunneling FET (TFET)
+ID INTERFACE STATES; FLASH MEMORY; OXIDE CHARGE; TRAPS; TRANSISTORS;
+   DENSITY; DEGRADATION; MOSFETS
+ER
+
+PT J
+DE Junctionless transistors; maximum transconductance; substrate bias;
+   subthreshold slope; threshold voltage
+ID MODEL; RESISTANCE; MOSFETS; FETS
+ER
+
+PT J
+DE 3-D NAND; grain boundary (GB); variability; Voronoi
+ID THIN-FILM TRANSISTORS; MOSFETS
+ER
+
+PT J
+ID PENTACENE; TRANSPORT; MOBILITY; MICRORIBBONS; DERIVATIVES
+ER
+
+PT J
+DE Avalanche breakdown; bipolar transistors; power semiconductor devices;
+   simulation; ultrafast electronics
+ID PICOSECOND OPTICAL PULSES; FLIGHT LASER-RADAR; SEMICONDUCTOR-LASERS;
+   DIODE; TIME; GENERATION; OPERATION; THYRISTOR
+ER
+
+PT J
+DE Back end of line (BEOL) technology; field-effect transistor (FET); lab
+   on chip; nanosensor fabrication; nanowire semiconductive sensors
+ID ELECTRICAL DETECTION; SENSORS; NANOSENSORS
+ER
+
+PT B
+DE Gate-all-around junctionless transistors GAAJLT; drain induced barrier
+   lower (DIBL); sub-threshold slope (SS); transconductance generation
+   factor (TGF)
+ID MODEL
+ER
+
+PT S
+DE GaN; heterostructures; recessed gate; fin-shaped channel; FinFET; power
+   transistor; fin design; 3-D TCAD
+ER
+
+PT B
+ER
+
+PT S
+DE Junctionless nanowire MOSFET; analytical modeling; conformal mapping;
+   threshold voltage; DIBL; subthreshold slope
+ID TRANSISTORS
+ER
+
+PT B
+ID TRANSISTORS
+ER
+
+PT J
+ID FIELD-EFFECT TRANSISTORS; HIGH-PERFORMANCE; PHOTOVOLTAIC PERFORMANCE;
+   CHARGE-TRANSFER; EFFICIENCY; SEMICONDUCTOR; DESIGN
+ER
+
+PT J
+ID LOW-BANDGAP POLYMER; HIGH-PERFORMANCE; CONJUGATED POLYMERS; PHOTOVOLTAIC
+   PROPERTIES; DEVICES; HETEROJUNCTIONS; TRANSISTORS
+ER
+
+PT J
+ID THIN-FILM TRANSISTORS; LIGHT-EMITTING-DIODES; OLIGOTHIOPHENE
+   DERIVATIVES; HIGH-PERFORMANCE; SMALL MOLECULES; POLYMER; SEMICONDUCTORS;
+   DEVICES; DIKETOPYRROLOPYRROLE; TRIPHENYLAMINE
+ER
+
+PT J
+ER
+
+PT J
+DE 3-D integrated circuit (IC); back-gate effect; computer-aided design
+   (CAD); fully depleted silicon on insulator (FDSOI)
+ID THRESHOLD VOLTAGE; MOSFET
+ER
+
+PT J
+ID WALLED CARBON NANOTUBES; TRANSPARENT
+ER
+
+PT B
+DE Band to band tunneling; double gate (DG); Gated p plus -i-n plus diode;
+   tunnel field effect transistor (T-FET); sub-threshold swing (SS); charge
+   plasma
+ER
+
+PT S
+DE gate-all-around; junctionless transistors; gate-inside
+ER
+
+PT J
+DE Bipolar transistor (BJT); device modeling; high-frequency noise.
+ID HIERARCHICAL 2-D DD; BOLTZMANN-EQUATION; CARRIER TRANSPORT; SIGE
+   DEVICES; SHOT-NOISE; RF NOISE; BASE; MODEL; SIMULATIONS; FREQUENCY
+ER
+
+PT J
+DE Conjugated polymers; Dithieno[3,2-b:2 ',3 '-d]pyrroles; Reduced band
+   gap; Low band gap; Field-effect transistors; Organic photovoltaics
+ID BULK HETEROJUNCTION PHOTOVOLTAICS; DONOR-ACCEPTOR COPOLYMERS;
+   PI-CONJUGATED POLYMERS; THIN-FILM TRANSISTORS; BAND-GAP POLYMERS; HIGHLY
+   FLUORESCENT; SOLAR-CELLS; FUNCTIONALIZED POLYTHIOPHENES; ELECTROCHEMICAL
+   PREPARATION; DOPED POLYACETYLENE
+ER
+
+PT J
+DE 3-D integrated circuit (IC); logic design; low power; monolithic
+   integration
+ER
+
+PT J
+DE III-V compound semiconductor; FinFET; line edge roughness (LER);
+   sidewall roughness (SWR); SRAM; surface roughness (SR); trigate; UTB SOI
+ID LINE-EDGE ROUGHNESS; MOSFETS; FLUCTUATIONS; GATE
+ER
+
+PT J
+DE Device scaling; gate leakage; quantum transport simulation
+ID ELECTRON-MOBILITY; SCATTERING; MOSFETS; NANOTRANSISTORS; SYSTEMS;
+   LEAKAGE; OXIDES
+ER
+
+PT J
+ID AVALANCHE INJECTION; FAILURE; MODELS; IGBTS
+ER
+
+PT J
+DE 3-D NAND Flash memory; floating gate (FG) cell; stacked horizontal
+   channel
+ER
+
+PT J
+DE Converters; discriminator; insulated gate bipolar transistor (IGBT);
+   measurement; voltage transients.
+ID MODEL
+ER
+
+PT J
+DE GaN transistors; parasitics; point-of-load (POL) converter; thermal
+   management; 3-D integration
+ID HYBRID INTEGRATION; LOW-VOLTAGE; CONVERTER; SYSTEM
+ER
+
+PT J
+DE Subthreshold swing (S); threshold voltage (V-th); tunneling field-effect
+   transistors (TFETs); turn-on voltage (Vturn-on); work-function variation
+   (WFV)
+ID THRESHOLD-VOLTAGE VARIABILITY; GATE; FET
+ER
+
+PT J
+DE Microwave annealing (MWA); polycrystalline silicon (poly-Si); rapid
+   thermal annealing (RTA); thin-film transistor (TFT); 3-D ICs
+ID MULTIPLE NANOWIRE CHANNELS; NONVOLATILE MEMORY; LOW-TEMPERATURE; LAYER;
+   TFT
+ER
+
+PT J
+DE Graphene; semiconductors; transistor; tunneling
+ID FIELD-EFFECT TRANSISTORS; EPITAXIAL-GRAPHENE; SCHOTTKY-BARRIER; TUNABLE
+   BANDGAP; NOBEL LECTURE; ATOMIC LAYERS; BORON-NITRIDE; DEVICE; MOS2; GAP
+ER
+
+PT J
+DE 3-D trench transistor; electron holography (EH); plasma doping (PLAD)
+ID ELECTRON HOLOGRAPHY
+ER
+
+PT J
+DE Organic field-effect transistors; Single crystal microribbons; Organic
+   semiconductors; Mobility; Dithieno[3,2b:2 ',3 '-d]thiophene derivatives;
+   Long alkyl groups
+ID THIN-FILM TRANSISTORS; FUSED THIOPHENES; HIGH-PERFORMANCE;
+   HIGH-MOBILITY; SEMICONDUCTORS; PENTACENE; OLIGOMERS
+ER
+
+PT J
+DE Four gate transistor; 2-D Poisson's equation; Surface potential; Drain
+   current; Transconductance; Accumulation capacitance
+ID CHARGE-SHEET MODEL; SUBTHRESHOLD SLOPE; 4-GATE TRANSISTORS; THRESHOLD
+   VOLTAGE; MOSFETS
+ER
+
+PT J
+ID MOSFETS
+ER
+
+PT J
+DE Blocking; insulated-gate bipolar transistor (IGBT); modeling; ON state;
+   safe operating area; silicon carbide; switching
+ID INSULATED GATE TRANSISTORS; BIPOLAR-TRANSISTOR; STEADY-STATE; TRANSIENT;
+   CHANNEL; DEVICE
+ER
+
+PT J
+DE Gate-all-around (GAA); junctionless (JL); nanowire transistor;
+   sensitivity
+ID ELECTRON
+ER
+
+PT B
+DE Gated resistor; gate-inside junctionless transistor (GI-JLT);
+   gate-all-around junctionless transistor (GAA-JLT); sensitivity;
+   subthreshold swing (SS)
+ID MODEL
+ER
+
+PT B
+DE Junctionless transistor; lateral gate; thickness effect; TCAD simulation
+ID SILICON
+ER
+
+PT B
+DE thermal; self-heating; VeSFET; CMOS; 3-D IC
+ID PERFORMANCE; DESIGN; ARCHITECTURES; CIRCUITS
+ER
+
+PT S
+DE tri-gate; SoC; Reliability; High-K dielectric; breakdown; metal gate;
+   SILC; TDDB; BTI; CMOS
+ER
+
+PT J
+ER
+
+PT J
+ID THIN-FILM TRANSISTORS; HIGH HOLE MOBILITY; FUSED THIOPHENES; PENTACENE;
+   TRANSPORT; ARRAYS
+ER
+
+PT J
+DE Capacitance extraction; device simulation; process simulation; structure
+   synthesis; technology CAD
+ID 3D TCAD; SIMULATION
+ER
+
+PT J
+ID FIELD-EFFECT TRANSISTORS; SEMICONDUCTORS; DERIVATIVES; POLYMER; DESIGN
+ER
+
+PT J
+DE ATLAS-3-D; biosensor; dielectric-modulated field-effect transistor (FET)
+   (DMFET); gate-all-around (GAA) MOSFET; vacuum gate dielectric
+ID FIELD-EFFECT TRANSISTOR; STACK
+ER
+
+PT J
+DE Drain current model; junctionless nanowire transistors (JNTs);
+   short-channel effects (SCEs); temperature dependence
+ID ANALOG APPLICATIONS; SOI MOSFET; DESIGN; DEVICE
+ER
+
+PT J
+DE BiCMOS technology; charge sharing; fully depleted collector;
+   high-voltage bipolar transistors; horizontal current bipolar transistor
+   (HCBT)
+ID CMOS; SOI
+ER
+
+PT J
+DE Low temperature process; molecular bonding; solid phase epitaxy;
+   three-dimensional (3-D) integration; 3-D monolithic integration; 3-D
+   sequential integration
+ER
+
+PT J
+DE 3-D simulator; laser crystallization; polycrystalline-silicon (poly-Si);
+   thin-film transistor (TFT)
+ID MU-CZOCHRALSKI PROCESS; IRRADIATED A-SI; EXCIMER-LASER; EXPLOSIVE
+   CRYSTALLIZATION; LATERAL-CRYSTALLIZATION; PULSE DURATION; CAPPING LAYER;
+   AMORPHOUS-SI; GRAIN; TFTS
+ER
+
+PT J
+DE Diarylethene; Photochromism; Single crystal; Intramolecular excitation
+   energy transfer
+ID FIELD-EFFECT TRANSISTORS; THIN-FILM TRANSISTORS; FUSED DITHIENYLETHENE;
+   HIGH-PERFORMANCE; CIRCUITS; SWITCHES
+ER
+
+PT J
+DE High-order sources; inconsistency between RF and dc current; integration
+   path (IP) independence; table-based model; 3-D table
+ID LARGE-SIGNAL MODEL; ALGAN/GAN HEMTS; POWER-AMPLIFIER; SIC MESFETS;
+   EXTRACTION; CONSISTENT; DISTORTION; IMPACT
+ER
+
+PT J
+ID HIGH-PERFORMANCE; CHARGE-TRANSPORT; SEMICONDUCTORS; HETEROARENES;
+   DERIVATIVES; ACENES
+ER
+
+PT J
+DE dithieno[2,3-d, 2 ',3 ' d ']benzo[1,2-b, 4,5-b ']dithiophene;
+   heteroacenes; thiophene-benzene annulated acenes; organic field-effect
+   transistors (OFETs); polymeric semiconductors
+ID FIELD-EFFECT TRANSISTORS; THIN-FILM TRANSISTORS; HIGH-PERFORMANCE;
+   TRANSPORTING POLYMER; FUSED THIOPHENES; PENTACENE; MOBILITY; FIBERS;
+   LADDER
+ER
+
+PT J
+ER
+
+PT J
+DE Fin; nanoimprint; poly-Si; sensors; TFTs
+ID THIN-FILM TRANSISTORS; NONVOLATILE MEMORY; PANEL
+ER
+
+PT J
+DE Field-effect transistor (FET); InAs; modeling; nanowires (NWs); roadmap
+ID WRAP-GATE TRANSISTORS; INAS; MOSFETS; DEVICE
+ER
+
+PT J
+DE Grain boundary (GB); polysilicon (poly-Si); thin-film transistor (TFT);
+   V-th variations
+ID POLYCRYSTALLINE SILICON; SIMULATION; CIRCUIT; FLUCTUATIONS; ENHANCEMENT;
+   DEPENDENCE; DISPLAYS; STATES; TFTS; SIZE
+ER
+
+PT J
+DE Interconnects; Network-on-chips; System-on-chips; 3-D Integration
+ID INTERCONNECTION NETWORKS; ROUTER ARCHITECTURE; INTEGRATED-CIRCUITS; 3D
+   SYSTEMS; WIRE-DELAY; DESIGN; PERFORMANCE; MULTIPROCESSOR; TECHNOLOGY;
+   COMMUNICATION
+ER
+
+PT J
+DE Memory on logic; network-on-chip (NoC); vertical slit field effect
+   transistor (VeSFET); vertical slit transistor based integrated circuits
+   (VeSTICs); three-dimensional (3-D) integration; 3-D multi-core
+   processsor; 3-D NoC
+ER
+
+PT J
+ER
+
+PT J
+ID THYRISTOR; PROPAGATION; BREAKDOWN; STATE
+ER
+
+PT J
+ID FIELD-EFFECT TRANSISTORS; THIN-FILM TRANSISTORS; EFFICIENT SOLAR-CELLS;
+   LOW-BANDGAP POLYMER; HIGH-PERFORMANCE; SEMICONDUCTING POLYMERS; GAP
+   POLYMERS; COPOLYMER; ELECTRONICS; POLYTHIOPHENES
+ER
+
+PT J
+DE 3DIC; electrothermal effects; thermal management; transient analysis
+ID THERMAL-ANALYSIS; VLSI CHIPS; TEMPERATURE; SIMULATOR
+ER
+
+PT J
+DE GaN transistor; normally-off; power electronics; tri-gate
+ID ALGAN/GAN; TRANSISTORS
+ER
+
+PT J
+DE Dissipation; junctionless transistor; nanowire MOSFET; nonequilibrium
+   Green's functions (NEGF); phonon scattering; variability
+ID TRANSISTORS
+ER
+
+PT S
+ID METAL-GATE TRANSISTORS; LOGIC TECHNOLOGY; STRAINED SILICON
+ER
+
+PT B
+DE Four Gate Transistor; Potential distribution; SOI technology
+ID 4-GATE TRANSISTOR
+ER
+
+PT B
+DE Threshold voltage; Four gate transistor; Minimum length; Sensitivity
+   reduction
+ER
+
+PT B
+ER
+
+PT J
+DE Direct-conversion receiver (DCR); polyphase filter (PPF); symmetric 3-D
+   inductor; vertical-NPN (V-NPN)
+ID RF-CMOS MIXERS; FRONT-END; IMAGE REJECTION; DESIGN; TECHNOLOGY;
+   AMPLIFIER; UMTS
+ER
+
+PT J
+DE microribbon; organic electronics; field-effect transistor;
+   self-assembly; solution processing
+ID SINGLE-CRYSTAL TRANSISTORS; HIGH-PERFORMANCE; MOBILITY; SEMICONDUCTORS;
+   DIIMIDE; ANTHRADITHIOPHENE; FABRICATION; NANOWIRES; TRANSPORT; RIBBONS
+ER
+
+PT J
+DE conjugated polymers; dithienopyrrole; organic field-effect transistors;
+   organic solar cells
+ID THIN-FILM TRANSISTORS; POLYMER SOLAR-CELLS; CRYSTALLINE SEMICONDUCTING
+   POLYMERS; DONOR-ACCEPTOR COPOLYMERS; FIELD-EFFECT TRANSISTORS;
+   LIGHT-EMITTING-DIODES; BAND-GAP; PHOTOVOLTAIC PROPERTIES; CONJUGATED
+   COPOLYMERS; PERFORMANCE
+ER
+
+PT J
+DE Contact resistive RAM (CR-RAM); current bias method; high resistance
+   state (HRS); low resistance state (LRS); NVM; set/reset current
+ER
+
+PT J
+DE Analog operation; junctionless (JL) transistor; multiple gate
+   transistor; silicon on insulator
+ID ENHANCED PERFORMANCE; ACCUMULATION-MODE; CHANNEL MOSFETS; SOI MOSFETS;
+   FINFETS; CIRCUITS; WIRE
+ER
+
+PT J
+ID SUSPENDED GRAPHENE
+ER
+
+PT J
+DE Field-effect transistors; InAs; metal-oxide-semiconductor field-effect
+   transistor (MOSFET); modeling; nanowire; parasitic capacitance
+ID TRANSISTORS
+ER
+
+PT J
+DE Density-gradient; metal-oxide-semiconductor (MOS) devices; quantum
+   theory; semiconductor device modeling
+ID INTRINSIC PARAMETER FLUCTUATIONS; NANO-MOSFETS; SEMICONDUCTOR;
+   TRANSPORT; EQUATION; DEVICE; MODEL; END
+ER
+
+PT J
+DE Atomistic; full-band simulations; interface roughness scattering (IRS);
+   Si gate-all-around (GAA) nanowire (NW) transistors
+ID FIELD-EFFECT TRANSISTORS; SURFACE-ROUGHNESS; LIMITED MOBILITY; GATE;
+   SCATTERING; SIO2; DEPENDENCE; MOSFET; MASS
+ER
+
+PT J
+DE Device simulation; junctionless (JL); metaloxide-semiconductor
+   field-effect transistor (MOSFET); modeling; non-quasi-static (NQS);
+   parameter extraction; radio frequency (RF); silicon nanowire (SNW)
+ID FIELD-EFFECT TRANSISTORS; DOUBLE-GATE; FINFETS; MODEL; SOURCE/DRAIN;
+   OPTIMIZATION; CIRCUITS; DEVICES; DESIGN; BODY
+ER
+
+PT J
+DE Device; dopant; process; simulation; static random access memory (SRAM);
+   stress; technology computer-aided design (TCAD)
+ID DEVICE SIMULATION; MOBILITY MODEL; SILICON; ELECTRON; DESIGN; LAYERS
+ER
+
+PT J
+ID POLYMER SOLAR-CELLS; FIELD-EFFECT TRANSISTORS; ORGANIC SEMICONDUCTORS;
+   CONVERSION EFFICIENCY; FUSED THIOPHENES; HIGH-MOBILITY; DERIVATIVES;
+   TRANSPORT; NETWORK
+ER
+
+PT J
+DE Germanium; metal-induced crystallization (MIC); metal-induced dopant
+   activation (MIDA); metal-oxide-semiconductor field-effect transistor
+   (MOSFET); 3-D integrated circuits
+ID GE
+ER
+
+PT J
+DE High-dielectric-constant dielectric; nanowire (NW); polycrystalline
+   silicon (poly-Si); thin-film transistor (TFT)
+ID TFTS; BEHAVIOR; SILICON
+ER
+
+PT J
+DE Fin; nanoimprint; polycrystalline silicon (poly-Si); thin-film
+   transistors (TFTs)
+ID NANOWIRE CHANNELS; TRANSISTORS; WIDTH
+ER
+
+PT J
+DE Electric field; random dopant placement (RDF); surface potential; V-th
+   variations; 3-D analytical model
+ID LINE-EDGE ROUGHNESS; DOPANT FLUCTUATIONS; MOS-TRANSISTORS; NM MOSFETS;
+   SIMULATION; VARIABILITY; ELECTRONICS
+ER
+
+PT J
+DE low-dimensional structures; low temperature; quantum transport; silicon
+   nanowire transistor; tunnel-barrier field-effect transistor (FET); 3-D
+   device modeling
+ID BALLISTIC TRANSPORT; ROOM-TEMPERATURE; SILICON; SIMULATION
+ER
+
+PT J
+DE Cell transistor; charge pumping (CP); interface traps; MOSFET;
+   recessed-channel array transistor (RCAT)
+ID CHARGE-PUMPING MEASUREMENTS; MOSFETS; SILICON; DENSITY; LEAKAGE
+ER
+
+PT B
+ER
+
+PT J
+DE TFT modeling
+ID POLYCRYSTALLINE CDSE FILMS; ZNO-TFT; GLASS
+ER
+
+PT J
+DE 3-D integration; application-specific integrated circuit (ASIC); cost;
+   microprocessor
+ID 3-DIMENSIONAL INTEGRATED-CIRCUITS; 3D ICS; ON-CHIP; TEMPERATURE;
+   TECHNOLOGIES; PERFORMANCE; PLACEMENT; POWER; MRAM
+ER
+
+PT J
+DE Biaxial strain; distortion; fin-shaped field-effect transistor (FinFET);
+   silicon on insulator; single-transistor amplifier
+ID ON-INSULATOR DEVICES; MOSFETS; MOBILITY; PERFORMANCE; CIRCUITS; MODEL;
+   OTA
+ER
+
+PT J
+DE Mixed mode; nuclear and space radiation effects; radiation hardening;
+   SiGe HBT; single event effects; single event transients; 3D
+   semiconductor device modeling
+ID CHARGE COLLECTION; TRANSISTORS
+ER
+
+PT J
+ID FIELD-EFFECT TRANSISTORS; HIGH-MOBILITY; HIGH-PERFORMANCE; POLYMER
+   SEMICONDUCTORS; CONJUGATED POLYMERS; FUSED THIOPHENES; COPOLYMERS
+ER
+
+PT J
+DE Channel traps; poly-Si; single-transistor (1T) random access memory
+   (RAM); thin-film transistor (TFT)
+ID THIN-FILM TRANSISTORS; BODY
+ER
+
+PT J
+DE Ion-selective field-effect transistors (ISFETs); nanoporous; pH;
+   sensitivity
+ID POROUS SILICON; SENSORS
+ER
+
+PT J
+DE 1-D and 3-D modeling; cantilever switch; movable gate;
+   nanoelectromechanical system (NEMS); single-electron transistor (SET)
+ER
+
+PT J
+ID SIMULATION; TRANSISTORS; LIMIT; NM
+ER
+
+PT J
+DE Forward drop; negative differential resistance (NDR);
+   segment-anode-n-p-n-LIGBT (SA-NPN-LIGBT); shorted-anode lateral
+   insulated-gate bipolar transistor (SA-LIGBT); turn-OFF time; 3-D
+   n-region-controlled anode
+ID GATE BIPOLAR-TRANSISTOR; LIGBT
+ER
+
+PT J
+DE Current oscillation; low temperature; multiplegate MOSFET; nanowire;
+   numerical device modeling; 3-D simulation; 1-D quantum transport
+ID SILICON NANOWIRE TRANSISTORS; EFFECTIVE-MASS APPROXIMATION;
+   LOW-TEMPERATURE; BALLISTIC TRANSPORT; NANOTRANSISTORS; WIRE
+ER
+
+PT J
+DE Coupled Poisson-Schrodinger equations; FinFET; HEMT; transistor scaling
+ER
+
+PT J
+ID THIN-FILM TRANSISTORS; FIELD-EFFECT TRANSISTORS; LIGHT-EMITTING-DIODES;
+   BAND-GAP POLYMER; OPTOELECTRONIC DEVICES; ELECTRON-TRANSPORT; CONJUGATED
+   POLYMER; FUSED THIOPHENES; ITO ELECTRODES; CHAIN-LENGTH
+ER
+
+PT J
+DE Epitaxial growth; laser-material-processing applications;
+   silicon-on-insulator (SOI) technology; static-random-access-memory
+   (SRAM) chips; thin-film transistors (TFTs)
+ID CELL
+ER
+
+PT J
+ID FIELD-EFFECT TRANSISTORS; CHARGE-TRANSPORT PARAMETERS; THIN-FILM
+   TRANSISTORS; ORGANIC SEMICONDUCTORS; HIGH-MOBILITY; DERIVATIVES;
+   1,4-DIIODOBENZENE; FLUCTUATIONS; POLARIZATION; NAPHTHALENE
+ER
+
+PT J
+ID FIELD-EFFECT TRANSISTORS; THIN-FILM TRANSISTORS; STACKED ORGANIC
+   SEMICONDUCTOR; HIGH-PERFORMANCE; LADDER OLIGO(P-ANILINE)S;
+   FUNCTIONALIZED ACENES; CHARGE-TRANSPORT; FACILE SYNTHESIS; EFFECT
+   MOBILITY; THIOPHENE RING
+ER
+
+PT J
+DE Layout optimization; nonrectangular transistor; ring-oscillator
+   benchmarking; 3-D simulation
+ER
+
+PT J
+DE GaInP/GaAs; collector-up; heterojunction bipolar transistor; high-power
+   amplifiers; heat-dissipation via; finite element modeling
+ID POWER-AMPLIFIERS
+ER
+
+PT J
+DE CMOS image sensors (CISs); fully depleted silicon-on-insulator (FDSOI)
+   transistors; pixel miniaturization; sequential integration; 3-D
+   integration
+ID 1.5 TRANSISTOR/PIXEL; INTEGRATION
+ER
+
+PT J
+DE Metal-oxide-semiconductor field-effect transistor (MOSFET); multigate
+   FET (MuGFET); silicon carbide (SiC); 3-D gate structure
+ID OXIDE-SEMICONDUCTOR STRUCTURES; CHANNEL MOBILITY; INTERFACE PROPERTIES;
+   11(2)OVER-BAR0 FACE; OXIDATION; TECHNOLOGY; DEPENDENCE
+ER
+
+PT J
+DE Memory; nonvolatile; poly-Si TFT; 3-D
+ID ULTRA-HIGH DENSITY; LOW-POWER; POLYCRYSTALLINE SILICON; MEMORY;
+   PERFORMANCE; BIPOLAR; INTEGRATION; STORAGE; DEVICE
+ER
+
+PT J
+DE Device fabrication; device modeling; InP heterojunction bipolar
+   transistors (HBTs); microstrip components; wafer bonding
+ID BIPOLAR-TRANSISTORS; ICS
+ER
+
+PT J
+DE Carbon nanotube (CNT) transistors; field-effect transistors (FETs);
+   nanowire transistors; shot noise
+ID SILICON NANOWIRE TRANSISTORS; CARBON NANOTUBE; 3-DIMENSIONAL SIMULATION;
+   PERFORMANCE; CONDUCTORS; GEOMETRY; DEVICES; FETS
+ER
+
+PT J
+DE Discrete dopants; nanowire transistor; nonequilibrium Green's function
+   (NEGF); numerical simulation; quantum transport; variations
+ID QUANTUM TRANSPORT; MOSFETS; NANOTRANSISTORS; REAL; NEGF
+ER
+
+PT J
+ER
+
+PT J
+ID STAR-SHAPED OLIGOTHIOPHENES; ORGANIC SEMICONDUCTORS; SOLAR-CELLS;
+   TRANSISTORS; MOLECULES
+ER
+
+PT J
+ID THIN-FILM TRANSISTORS; SELENOPHENE-BASED HETEROACENES; STACKED ORGANIC
+   SEMICONDUCTOR; UV-VIS-NIR; FUSED THIOPHENES; SPECTROSCOPIC RAMAN;
+   GENERAL-SYNTHESIS; CRYSTAL-STRUCTURE; 7 RINGS; MOBILITY
+ER
+
+PT J
+DE 1-D and 3-D modeling; cantilever switch; movable gate;
+   nanoelectromechanical system (NEMS); single-electron transistor (SET)
+ER
+
+PT J
+ID THIN-FILM TRANSISTORS; FIELD-EFFECT TRANSISTORS; PI-CONJUGATED
+   MATERIALS; ORGANIC SEMICONDUCTORS; CHEMICAL SENSORS; BUILDING-BLOCK;
+   SOLAR-CELLS; ELECTRON; LUMINESCENT; THIOPHENE
+ER
+
+PT J
+ID THIN-FILM TRANSISTORS; ELECTROCHEMICAL PROPERTIES; PENTACENE; MOBILITY;
+   ANTHRADITHIOPHENES; OLIGOTHIOPHENES; HETEROACENES; THIOPHENE; TRANSPORT;
+   ACENES
+ER
+
+PT B
+ER
+
+PT J
+DE Channel resistance; heat dissipation; mobility; ruggedness; silicon on
+   metal (SOM); thermal stress; unclamped inductive switching (UIS);
+   vertical metal-oxide-semiconductor field-effect transistor (UMOSFET)
+ER
+
+PT S
+ID RESONANT-TUNNELING-DIODE; INTERFACE ROUGHNESS SCATTERING; GENERALIZED
+   EIGENVALUE PROBLEM; OPTICAL PHONON-SCATTERING; FIELD-EFFECT TRANSISTORS;
+   NEMO 3-D; ATOMISTIC SIMULATION; SINGLE; NANOWIRES; SYSTEMS
+ER
+
+PT J
+ID ELECTRONICS; MOBILITY
+ER
+
+PT J
+DE Active matrix liquid crystal display; electrical erasable PROM (EEPROM);
+   nanowires (NWs); poly-Si thin-film transistors (TFTs); system-on-panel;
+   trigate; 3-D
+ER
+
+PT J
+DE defect; device simulation; graphene field-effect transistor; graphene
+   nanoribbon; impurity; nonequilibrium Green's function (NEGF); quantum
+   transport
+ID FIELD-EFFECT TRANSISTORS; CARBON; SIMULATION; NANOELECTRONICS;
+   ELECTRONICS; DEVICE
+ER
+
+PT J
+DE MOSFET; Nanowire; Dispersion; Tight binding; Ballistic transport;
+   Self-consistency; sp(3)d(5)s*
+ER
+
+PT J
+DE gate-all-around (GAA); nanowire; poly-Si; thin-film transistors (TFTs);
+   three-dimensional (3-D) device
+ID THIN-FILM TRANSISTORS; NH3 PLASMA PASSIVATION; MOSFETS; DESIGN; WIDTH
+ER
+
+PT J
+ID PORTAL IMAGING DEVICE; EPID DOSIMETRY; VERIFICATION; IMRT; DETECTORS;
+   MODEL; HEAD
+ER
+
+PT J
+DE base resistance; bipolar transistors; HICUM; high-frequency circuit
+   design; transistor modeling
+ID BIPOLAR-TRANSISTORS
+ER
+
+PT J
+DE Gallium-Indium-Zinc-Oxide (GIZO); thin film; transistor (TFT);
+   three-dimensional (3-D) stacking memory
+ID BARRIER; TECHNOLOGY; DIODE
+ER
+
+PT J
+DE focused ion beam (FIB); micromachining; 3-D; nanostructure; MEMS
+ID WHISKERS
+ER
+
+PT J
+DE 3-D stacked; CMOS inverter; vertical integration; HfO2; Pt gate; poly-Si
+   technology
+ID TECHNOLOGY
+ER
+
+PT S
+ID FET; TRANSISTORS; SENSOR
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT B
+ID HETEROJUNCTION BIPOLAR-TRANSISTORS; POWER-AMPLIFIERS; CELLULAR PHONES
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT J
+ID THIN-FILM TRANSISTORS; POLYMER SOLAR-CELLS; HIGH-MOBILITY; PHOTOVOLTAIC
+   PROPERTIES; CONJUGATED BRIDGES; CHARGE-TRANSPORT; FUSED THIOPHENES;
+   SEMICONDUCTORS; POLYTHIOPHENES; CHAINS
+ER
+
+PT B
+DE 3-D stresss simulation; MOS transistor; Mobility; Oxidation;
+   Silicidation; Piezo resistance model
+ER
+
+PT J
+DE 3-D architecture; bus; carbon nanotube (CNT); nano-electromechanical
+   systems (NEMS); network-on-chip (NoC); on-chip network
+ID NANORELAY
+ER
+
+PT J
+DE nanowire MOSFET; nonequilibrium green function (NEGF); stray charges;
+   surface roughness
+ID QUANTUM TRANSPORT; SURFACE-ROUGHNESS; TRANSISTORS; NANOTRANSISTORS;
+   FLUCTUATIONS
+ER
+
+PT J
+DE atomistic tight-binding Hamiltonian; graphene; nanoribbon;
+   nonequilibriurn Green's function formalism (NEGF); 3-D Poisson
+ID PERFORMANCE
+ER
+
+PT J
+DE avalanche multiplication; base current reversal (BCR); breakdown voltage
+   (BV); Common-base (CB) operation; impact ionization; mixed-signal
+   circuits; operating-voltage constraints; safe operating area (SOA); SiGe
+   heterojunction bipolar transistors (HBTs)
+ID BASE CURRENT REVERSAL; BIPOLAR-TRANSISTORS; AVALANCHE MULTIPLICATION;
+   HBTS; BREAKDOWN; MODEL
+ER
+
+PT J
+DE CMOSFET circuits; silicon; metal-insulator-semiconductor (MIS) devices
+ID DENSITY KRYPTON PLASMA; LOW-TEMPERATURE; OXIDE; NOISE
+ER
+
+PT J
+DE beam-channel transistor; plasma doping; silicon-on-insulator; source and
+   drain
+ER
+
+PT J
+DE CMOSFET; integrated circuit fabrication; laser annealing; low-pressure
+   chemical vapor deposition (LPCVD)
+ID SILICON; CRYSTALLINE
+ER
+
+PT J
+ER
+
+PT J
+DE analytical modeling; metal-oxide-semiconductor field effect transistor
+   (MOSFET); movable gate; nanoelectromechanical system (NEMS);
+   single-electron transistor (SET); 3-D modeling
+ID DEVICES
+ER
+
+PT J
+DE field-programmable gate arrays (FPGAs); monolithically stacked;
+   performance; three-dimensional (3-D)
+ID ARCHITECTURE
+ER
+
+PT S
+ER
+
+PT B
+ID MODEL
+ER
+
+PT B
+DE ni-silicide; silicide whisker; 3-D transistor; beam-channel transistor;
+   SOI
+ER
+
+PT B
+DE AlGaN/GaN MODFET; small geometry; short channel effects;
+   three-dimensional (3-D) modeling; threshold voltage
+ID HEMTS
+ER
+
+PT B
+ER
+
+PT J
+DE bipolar gain; double-gate transistor; FinFET transistor; GAA transistor;
+   MOSFET
+ID SOI TECHNOLOGIES; BIPOLAR AMPLIFICATION; SEU; SENSITIVITY; MOSFETS; BULK
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE bipolar amplification; gate-all-around transistor; heavy ions; MOSFET;
+   simulation
+ID DEPLETED SOI TECHNOLOGIES; NUMERICAL-SIMULATION; CHARGE COLLECTION; SEU;
+   IRRADIATIONS
+ER
+
+PT J
+ID FIELD-EFFECT TRANSISTORS; HIGH-PERFORMANCE; DISPLAYS; ELECTRONICS;
+   DRIVEN
+ER
+
+PT J
+DE analytical model; fin field-effect transistor (FinFET); subthreshold
+   current; threshold voltage
+ID SOI MOSFETS; DESIGN; NM
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT S
+DE silicon photonics; microcavity; nanophotonics; monolithic integration;
+   opto-elelctronics
+ID FILTER RESPONSE; SILICON; IMPLANTATION; MODULATOR; LASER
+ER
+
+PT B
+ID DEVICES
+ER
+
+PT S
+ID TECHNOLOGY; SIMULATION
+ER
+
+PT J
+ID THIN-FILM TRANSISTORS; PHOTOELECTRON-SPECTROSCOPY;
+   AROMATIC-HYDROCARBONS; ELECTRONIC-STRUCTURE; MOLECULAR-STRUCTURE;
+   INTERFACE FORMATION; HIGH-MOBILITY; PENTACENE; CRYSTAL; RING
+ER
+
+PT J
+DE coupling; crosstalk; ground plane; isolation technology; mixed-signal
+   circuits; radio frequency (RF) isolation; system-on-chip (SoC)
+   integration; three-dimensional (3-D) ICs; 3-D integration
+ID 3-DIMENSIONAL INTEGRATION; GIGASCALE INTEGRATION; TECHNOLOGY; NOISE;
+   SUPPRESSION; CMOS; SOI
+ER
+
+PT J
+DE Poisson/Schrodinger; silicon-on-insulator (SOI) technology; single
+   electron transistors (SETs); split gates; three-dimensional (3-D) solver
+ID CONDUCTION; DEVICES; ENERGY
+ER
+
+PT J
+DE plasma doping; impurity-enhanced oxidation; three-dimensional structure;
+   beam-channel transistor; SOI
+ID OXIDATION; SILICON
+ER
+
+PT B
+ER
+
+PT B
+ID CIRCUITS
+ER
+
+PT B
+ER
+
+PT B
+ID LAYER
+ER
+
+PT J
+DE organic semiconductor; organic field-effect transistor;
+   vacuum-evaporated film
+ID THIN-FILM TRANSISTORS; OPTICAL-PROPERTIES; SEMICONDUCTORS; PERFORMANCE
+ER
+
+PT J
+DE 3-D MOSFET; Si micro-fluidic channel; Schwartz-Christoffel
+   transformation; charge sensor
+ID SENSOR
+ER
+
+PT J
+DE TMAH; Orientation-dependent etching; {110} silicon substrate;
+   three-dimensional structure; corrugated-channel transistor
+ID CAPACITOR CELL CCC; TECHNOLOGY
+ER
+
+PT J
+DE electromagnetic (EM) analysis; linear circuits; method of moments (MoM);
+   millimeter-wave field-effect transistors (FETs); monolithic microwave
+   integrated circuits (MMICs)
+ID FET
+ER
+
+PT J
+DE diffusion; drift; Medici; SEU; SOI; SPICE
+ID SOI TECHNOLOGIES; COLLECTION; ION
+ER
+
+PT S
+ER
+
+PT B
+ID OXIDATION; SILICON
+ER
+
+PT B
+ID PERFORMANCE
+ER
+
+PT J
+DE fluctuations; MOSFET; numerical simulation
+ID MOS-TRANSISTORS; MOBILITY MODEL; FLUCTUATIONS; ELECTRON
+ER
+
+PT J
+DE 3-dimensional structure; convex corner; micro-fluidic channel; 3-D
+   MOSFET
+ER
+
+PT J
+DE CMOSFET logic devices; CMOSFETs; MOS devices; MOSFET logic devices;
+   MOSFETs
+ER
+
+PT J
+DE TMAH; orientation-dependent etching; {110} surface; three-dimensional
+   structure; gate oxide thinning; corrugate-channel transistor;
+   multi-beam; drivability
+ER
+
+PT J
+DE CMOS integrated circuits; crosstalk; mixed-signal integrated circuits;
+   noise coupling; self-heating; silicon-on-insulator (SOI) technology;
+   system-on-chip integration; three-dimensional integration
+ID PERFORMANCE; SYSTEMS
+ER
+
+PT J
+DE BiCMOS; lateral solid phase epitaxy (LSPE); selective epitaxial growth
+   (SEG); three-dimensional (3-D) integrated circuits; VLSI circuits
+ID PERFORMANCE; INTEGRATION; SILICON
+ER
+
+PT J
+DE heavy ion; parasitic bipolar transistor; SOI transistor; transient
+   current measurement
+ID DEVICES; SEMICONDUCTORS; CIRCUITS; SILICON; DIODES
+ER
+
+PT J
+ER
+
+PT J
+DE BiCMOS; epitaxial growth; LSPE; SEG; three-dimensional (3-D); ULSI; VLSI
+ER
+
+PT J
+ID THIN-FILM TRANSISTORS; 2,2'-BITHIOPHENES; FLUOROPHORES; DERIVATIVES;
+   CRYSTAL
+ER
+
+PT S
+DE TFT; thin-film transistor; polysilicon; polycrystalline silicon;
+   amorphous silicon; plastic; organic semiconductor; deformation; rolling;
+   printing
+ID HYDROGENATED AMORPHOUS-SILICON; THIN-FILM TRANSISTORS;
+   INTEGRATED-CIRCUITS; OPTICAL-ABSORPTION; DYE DIFFUSION
+ER
+
+PT J
+DE 2-D noise; CMOS; CMOS RF; four noise parameters; high frequency noise;
+   quasi-3-D noise model; RF design; transformation matrix
+ID THERMAL NOISE; SEMICONDUCTOR-DEVICES; MOSFETS; CMOS
+ER
+
+PT J
+DE metal-induced lateral crystallization; SOI; thin film transistors; 3-D
+   integrated circuits
+ID PERFORMANCE
+ER
+
+PT J
+DE bipolar transistors; breakdown voltage; impact ionization
+ID BASE SPREADING RESISTANCE; SILICON; DEPENDENCE; SIMULATION; CIRCUIT;
+   MODELS
+ER
+
+PT J
+DE metal induced lateral crystallization; SOI; thin-film transistors; 3-D
+   integrated circuits
+ER
+
+PT J
+DE pseudo-lattice; dynamic; 3-D; liquid-crystal; director; simulation
+ID DISPLAYS
+ER
+
+PT J
+DE BJT; dielectric isolation; self-heating; thermal resistance
+ER
+
+PT J
+DE DRAM's; inverse-narrow-channel effect; metallic shield-embedded-STI;
+   neighboring storage-node E-field penetration; effect; shallow trench
+   isolation
+ID THRESHOLD-VOLTAGE; MOSFETS
+ER
+
+PT J
+DE design automation; electromagnetic modeling; electron microscopy;
+   geometric modeling; microwave power amplifiers; SPICE
+ID INDUCTANCE; MICROWAVE
+ER
+
+PT J
+DE IGBT; model; on-state voltage; two-dimensional effects
+ER
+
+EF

@@ -1,0 +1,1614 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+ID DFT
+ER
+
+PT J
+DE RF filter; sparse Fourier transform; lithium niobate;
+   microelectromechanical systems; piezoelectricity; lateral overtone bulk
+   acoustic resonator
+ID TO-INFORMATION CONVERTER; LITHIUM-NIOBATE; ACOUSTIC RESONATORS; MEMS
+   FILTERS; THIN-FILM; FABRICATION; DESIGN; RADIOS; FBAR
+ER
+
+PT J
+DE Partial Fourier transform; Fast Fourier transform; FFT; Discrete Fourier
+   transform; Fractional-phase Fourier transform; Convolution; Implicit
+   dealiasing
+ID ALGORITHM; CONVOLUTION; COMPUTATION
+ER
+
+PT J
+DE Fast Fourier transform; graph signal processing; greedy algorithms;
+   Jacobi eigenvalues algorithm; sensor networks
+ID MATRIX; COMPUTATION
+ER
+
+PT J
+DE fast Fourier transforms; compact FFT architectures; high-throughput FFT
+   architectures; fast Fourier transform; combined Good-Thomas and Winograd
+   Fourier transform algorithms; twiddle factor multiplication elimination;
+   hardware architectures; fully-pipelined architecture; multidimensional
+   Chinese remainder theorem; time-multiplexed architecture; folding
+   transformation; short-length Winograd Fourier transforms; synthesisable
+   Verilog descriptions; Xilinx field-programmable gate array; long-term
+   evolution wireless standard
+ID FOURIER-TRANSFORMS; PRIME
+ER
+
+PT J
+DE Exponential Radon transform; Fast Laplace transform; Incomplete data
+ID FAST FOURIER-TRANSFORM; INVERSION-FORMULA; RECONSTRUCTION; 180-DEGREES;
+   SPECT
+ER
+
+PT J
+DE fast Fourier transform; opal-CT; binary systems; bidisperse arrangement;
+   Ethiopian opal; vicinal planes; scanning electron microscopy; SEM
+ID 2 DIFFERENT SIZES; CLOSE-PACKED STRUCTURES; SPHERES; ARRANGEMENTS
+ER
+
+PT J
+DE signal processing; fast Fourier transforms; conjugate gradient methods;
+   inverse transforms; type-4 nonuniform FFT method; type-5 nonuniform FFT
+   method; type-4 nonuniform fast Fourier transform method; type-5
+   nonuniform fast Fourier transform method; finite-length signals; time
+   grid; frequency grid; inversion problem; fast multipole method; FM
+   method; iterative conjugate gradient method; iterative CG method;
+   Lagrange formula structure
+ID FAST FOURIER-TRANSFORMS; NONEQUISPACED DATA; INTERPOLATION
+ER
+
+PT B
+ID COMPLEX PERMITTIVITY
+ER
+
+PT S
+DE Fast Fourier transform; quadratic phase; fast physical optics; sampling
+   effort
+ER
+
+PT J
+DE fast Fourier transform; nonequispaced; low rank matrices; Chebyshev
+ID INTERPOLATION; COMPUTATION; ALGORITHM
+ER
+
+PT J
+ID SUBSURFACE RADAR; WALL; CONCRETE; ANTENNAS; SYSTEM
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE Correlation option; stochastic interest rate; regime-switching; forward
+   measure; fast Fourier transform (FFT)
+ID FAST FOURIER-TRANSFORM; TERM-STRUCTURE
+ER
+
+PT J
+ER
+
+PT J
+DE Sparse fast Fourier transform (sFFT); Clifford Fourier transform (CFT);
+   Sparse fast Clifford Fourier transform (SFCFT); Clifford algebra
+ID ALGEBRA; FIELDS
+ER
+
+PT J
+ID RADON-FOURIER TRANSFORM; MOTION PARAMETERS ESTIMATION; PERFORMANCE
+   PREDICTION; DETECTION ALGORITHM; KEYSTONE TRANSFORM; MOVING TARGETS;
+   RADAR; OPTIMALITY
+ER
+
+PT J
+DE Nonuniform fourier transform; fractional Fourier transform; discrete
+   Fourier transform; 2D imaging; 3D imaging; polar coordinates; spherical
+   coordinates; hybrid grid; conjugate gradient method; block Toeplitz
+   matrix
+ID NONEQUISPACED DATA; IMAGE REGISTRATION; RADON-TRANSFORM; TOMOGRAPHY;
+   RECONSTRUCTION; ALGORITHM; FRAMEWORK; FFT
+ER
+
+PT J
+ER
+
+PT J
+DE GPE; Fourier series evaluation; Time-splitting; NFFT
+ID GROSS-PITAEVSKII EQUATIONS; TURBULENCE
+ER
+
+PT J
+DE Fourier transform; Signal processing; Image processing; FFTW3; INTEL
+   IPP; Numutils; Kiss-fft
+ID FACTOR FFT ALGORITHM; IMPLEMENTATION
+ER
+
+PT J
+DE Graph signal processing; Vertex-frequency analysis; Windowed graph
+   Fourier transform; Graph S-transform
+ID S-TRANSFORM; SPECTRUM
+ER
+
+PT B
+DE Fast Fourier transform (FFT); Discrete Fourier transform (DFT); DIT;
+   Radix-2; VHDL; FPGA
+ER
+
+PT S
+DE OFDM; PAPR reduction; complex Hadamard matrix; Hadamard transform
+ER
+
+PT B
+DE Hilbert-Huang Transform; Spontaneous Pupillary Oscillation;
+   TimeFrequency analysis; Non-stationary and nonlineal signal analysis
+ID TIME-SERIES ANALYSIS; FREQUENCY-ANALYSIS; WAVES; SPECTRUM; SYSTEM
+ER
+
+PT J
+DE trigonometric approximation; nonharmonic Fourier series; fast Fourier
+   transform; integral transforms; hierarchical matrices
+ID SPARSE FOURIER-TRANSFORM; BUTTERFLY ALGORITHM; APPROXIMATION; MATRICES
+ER
+
+PT J
+DE convolution; fast Fourier transform; Fourier extension; Fredholm
+   convolution integral; Toeplitz matrix; Volterra convolution integral
+ID APPROXIMATION; CONTINUATION
+ER
+
+PT S
+DE nonuniform FFT; adaptive FMMs; constant Q transforms; periodization;
+   nonuniform sampling
+ID FAST FOURIER-TRANSFORMS
+ER
+
+PT J
+DE Antenna array; nonuniform fast fourier transform (NU-FFT); sampling
+   methods
+ID OPTICAL COHERENCE TOMOGRAPHY; TRUNCATION ERROR; ANTENNA MEASUREMENTS;
+   SWEPT-SOURCE; HIGH-SPEED; SERIES
+ER
+
+PT S
+DE Computer-generated hologram; spherical harmonic transform; 3D display;
+   fast calculation; diffraction integral; spherical surface; Fourier
+   transform
+ID DIFFRACTION; SPECTRUM
+ER
+
+PT S
+DE FFT; asynchronous; Null Convention Logic; NCL
+ID PROCESSOR
+ER
+
+PT S
+DE Common subexpression elimination (CSE); Cyclotomic fast fourier
+   transforms (CFFTs); Multiple constant multiplication (MCM)
+ER
+
+PT J
+ER
+
+PT J
+DE discrete Legendre transform; Legendre polynomials; Chebyshev
+   polynomials; fast Fourier transform
+ID FAST FOURIER-TRANSFORMS; GEGENBAUER POLYNOMIALS; NONEQUISPACED DATA;
+   FAST ALGORITHMS; COMPUTATION; EXPANSIONS; QUADRATURE; NODES
+ER
+
+PT J
+DE Micromagnetics simulation; Fast Fourier transform (FFT); Hybrid
+   parallelization; Large-scale simulation; All-to-all communication
+ID PARALLEL IMPLEMENTATION
+ER
+
+PT J
+DE Feedforward; fast Fourier transform (FFT); pipelined architecture;
+   short-time Fourier transform (STFT)
+ID HARDWARE; PLATFORMS; RECEIVERS; EFFICIENT
+ER
+
+PT J
+ID CLINICAL-TRIAL; PANCREATITIS; THERAPIES; CANCER; DRUGS
+ER
+
+PT J
+DE fast Fourier transforms; microprocessor chips; processor scheduling;
+   two-parallel pipelined fast Fourier transform processors; real-valued
+   signals; discrete Fourier transform computation; real-valued fast
+   Fourier transform; data path real; partial real data paths; RFFT design;
+   feedback-based scheduling structures
+ID FFT ARCHITECTURES; OFDM SYSTEMS
+ER
+
+PT J
+DE Quantum Fourier transform; Fast Fourier transform; Symmetric group;
+   Representation theory; Non-abelian group
+ID ALGORITHM; CIRCUITS; DECOMPOSITION
+ER
+
+PT J
+DE vector finite element method; three-dimensional modeling; Fourier
+   transform; pulsed electromagnetic soundings
+ID MIXED FINITE-ELEMENTS
+ER
+
+PT B
+DE fast Fourier transform; butterfly of Cooley-Tukey algorithm
+ER
+
+PT B
+ER
+
+PT S
+DE Graphs signal processing; Fast Fourier Transform; matrix factorization
+ER
+
+PT B
+ER
+
+PT J
+ID FOURIER-TRANSFORM; ROBUST INVERSION; RADON-TRANSFORM; VELOCITY-STACK;
+   LEAST-SQUARES; BLENDED DATA; INTERPOLATION; RECOVERY
+ER
+
+PT J
+DE computational displays; computational illumination
+ID NONNEGATIVE MATRIX FACTORIZATION
+ER
+
+PT J
+DE Long Term Evolution; channel estimation; iterative methods; OFDM
+   modulation; discrete Fourier transforms; fast Fourier transforms;
+   inverse transforms; interpolation; iterative channel estimation method;
+   Long-Term Evolution downlink transmission; LTE standard; orthogonal
+   frequency division multiplexing; DL data transmission; OFDM DL
+   transmission; mobile devices; inverse fast Fourier transform; fast
+   Fourier transform pair; decision feedback; two-dimensional interpolation
+   methods; discrete Fourier transform-based estimation method; LTE DL
+   transmission; high signal-to-noise ratio; single estimation method
+ID OFDM SYSTEMS; LEAKAGE SUPPRESSION; INTERPOLATION
+ER
+
+PT J
+DE Compressed sensing; Reduced dimensionality; Non uniform sampling; Fast
+   NMR
+ID REDUCED DIMENSIONALITY; RESONANCE ASSIGNMENT; PARAMETER-ESTIMATION;
+   MAXIMUM-ENTROPY; SPECTROSCOPY; RECONSTRUCTION; FREQUENCY; SPECTRA; APSY
+ER
+
+PT J
+ID BARYONS; MESON; MODEL; DISTRIBUTIONS; CHARMONIUM; COLLISIONS; HADRONS
+ER
+
+PT J
+DE Optical chirp z-transform (OCZT); optical discrete Fourier transform
+   (ODFT); optical signal processing
+ID FOURIER-TRANSFORM; WAVE-GUIDES; TRANSMISSION; INTEGRATOR; ALGORITHM;
+   RECEPTION; BANDWIDTH; GRATINGS; FILTERS; AWG
+ER
+
+PT J
+DE 3D; conformal Fourier transform; discontinuous functions; nonuniform
+   fast Fourier transform
+ID LARGE-EDDY SIMULATION; ALGORITHM
+ER
+
+PT J
+DE decode and forward communication; relay networks (telecommunication);
+   optimal power allocation; broadcast phases; multiple access phases; data
+   rate fairness; two-way decode-and-forward relay systems; fairness-aware
+   power allocation
+ID NETWORKS
+ER
+
+PT B
+DE IEEE 754 Single Precision format; Complex addition; Complex
+   multiplication; Fast Fourier Transform; Inverse Fast Fourier Transform;
+   Normalization
+ER
+
+PT B
+DE Fast Fourier transform (FFT); Inverse fast Fourier transform (IFFT);
+   parallel processing; pipelining; radix-2; switching circuit; VLSI
+ER
+
+PT B
+DE Continuous flow; Fast Fourier transform (FFT); Memory-addressing scheme;
+   Real fast Fourier transform (RFFT); Real in-place fast Fourier transform
+   (RIFFT)
+ER
+
+PT B
+DE Common sub expression elimination (CSE); cyclotomic fast Fourier
+   transforms (CFFTs); Multiple Constant Multiplication (MCM); Galois field
+   (GF)
+ID POLYNOMIALS; ROOTS
+ER
+
+PT B
+DE fast fourier transform; parallel computations; general purpose GPU
+   computations
+ER
+
+PT B
+DE Cyclotomic decomposition Fourier Transform; Galois Field (Finite Field);
+   Primitive polynomial
+ID POLYNOMIALS; ROOTS
+ER
+
+PT B
+DE application specific integrated circuit; complex number multiplication;
+   digital signal processing; Discrete Fourier Transform; Fast Fourier
+   Transform; fixed-point arithmetic; Radix-2 FFT
+ER
+
+PT S
+DE winding deformation; impulse frequency response analysis; Fast Fourier
+   Transform; Short Time Fourier Transform
+ID ONLINE
+ER
+
+PT S
+DE Optical character recognition; Skew angle; Discrete Wavelet Transform;
+   Fast Fourier Transform
+ID HOUGH TRANSFORM
+ER
+
+PT J
+DE Hankel transform; Bessel functions; asymptotic expansions; fast Fourier
+   transform
+ID SPHERICAL HARMONIC EXPANSIONS; FOURIER-BESSEL TRANSFORM; FAST
+   ALGORITHMS; COMPUTATION; ORDER
+ER
+
+PT J
+DE fast Fourier transform; inverse semigroup; rook monoid; wreath product;
+   Mobius transform
+ID SPECTRAL-ANALYSIS; RANKED DATA; TRANSFORMS; COMPUTATION
+ER
+
+PT B
+DE Wireless; Vital Signs; Breathing; Smart Homes; Seeing Through Walls;
+   Well-being
+ER
+
+PT J
+DE Algorithms; Theory; Light fields; computational photography; Fourier
+   transform; sparse FFT; continuous spectrum
+ID PHOTOGRAPHY; CAMERA
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ID DEPENDENT SCHRODINGER-EQUATION; FREDHOLM INTEGRAL-EQUATIONS; HYPERBOLIC
+   CROSS; COMPLEXITY; WAVELETS
+ER
+
+PT J
+ID ALGORITHMS
+ER
+
+PT J
+DE ultrasonic guided wave (UGW); wave mode identification; sampling rate
+   conversion (SRC); two-dimensional fast Fourier transform (2D-FFT)
+ID LONG-RANGE INSPECTION; LAMB WAVES; DISPERSION-CURVES; SIGNALS; MODE
+ER
+
+PT S
+ID FAST FOURIER-TRANSFORMS
+ER
+
+PT S
+ID SIGNALS; RECONSTRUCTION
+ER
+
+PT S
+ER
+
+PT S
+DE Phase difference; Fast Fourier transform; Measurement accuracy
+ER
+
+PT J
+DE Fast Fourier transform (FFT); Nonuniform fast Fourier transform (NUFFT);
+   Gaussian quadrature; Discontinuous functions; Non-orthogonal grid
+ID DISCONTINUOUS FUNCTIONS; ACCURATE ALGORITHM; FFT ALGORITHM;
+   ELECTROMAGNETICS
+ER
+
+PT B
+DE Fourier Transform; Galois field; cyclotomic decomposition
+ID POLYNOMIALS; ROOTS
+ER
+
+PT S
+DE Discrete Fourier Transform; Fast Fourier Transform; parallel computing;
+   Message Passing Interface; OpenMP
+ID FFTS; MEMORY
+ER
+
+PT J
+ER
+
+PT J
+ID DIFFRACTION
+ER
+
+PT J
+DE RFID; Localization; SAR; DTW
+ER
+
+PT J
+DE Seeing Through Walls; Wireless; MIMO; Gesture-Based User Interface
+ER
+
+PT J
+DE Continuous flow; fast Fourier transform (FFT); Hermitian symmetric;
+   in-place; memory-addressing scheme; real fast Fourier transform (RFFT);
+   real in-place fast Fourier transform (RIFFT)
+ID PROCESSOR
+ER
+
+PT J
+DE Discrete Fourier transform (DFT); fast Fourier transform (FFT); general
+   split radix; radix 6
+ID FFT ALGORITHM
+ER
+
+PT J
+DE Wavelets; Lattices; Multivariate fast Fourier transform; Periodic
+   multiresolution analysis; Dirichlet wavelets; Shift invariant space
+ID COOLEY-TUKEY ALGORITHMS; CURVELETS
+ER
+
+PT J
+DE Non-stationary sinusoid synthesis; sampling and interpolation;
+   short-time Fourier transform; spectral modelling synthesis
+ID FREQUENCY-MODULATION; FOURIER-TRANSFORM; SPEECH
+ER
+
+PT J
+DE Gegenbauer polynomials; Spectral methods; Fourier series; Gegenbauer
+   reconstruction
+ID FOURIER-JACOBI SERIES; GIBBS PHENOMENON; UNIFORM-CONVERGENCE;
+   RESOLUTION; ERROR
+ER
+
+PT J
+DE Fourier analysis; Numerical differentiation and integration;
+   Finite-difference methods
+ID IMPROVED ACCURACY; ALGORITHM; INTEGRALS; FFT
+ER
+
+PT S
+DE Discrete Fourier transform; Inverse discrete Gabor transform; Filterbank
+ER
+
+PT S
+ID STABILIZATION; OPTIMIZATION; POLYNOMIALS; SYSTEMS
+ER
+
+PT S
+DE Dyadic-valued coefficient; fast Fourier transform (FFT); fast Hartley
+   transform (FHT); lifting structure
+ID WIENER FILTER; IMAGE
+ER
+
+PT J
+DE Levy process; Bermudan option; early exercise boundary; optimal
+   stopping; Fourier transform; Hilbert transform; sinc methods; fast
+   Fourier transform; analytic characteristic function
+ID JUMP-DIFFUSION MODEL; AMERICAN OPTIONS; ASSET RETURNS; TRANSFORM;
+   VALUATION
+ER
+
+PT S
+DE phase retrieval; Wigner distribution; numerical simulation
+ID IMAGE
+ER
+
+PT S
+DE optical modeling; Hankel transform; hybrid computational procedure;
+   Bessel function; electromagnetic field propagation; fast Fourier
+   transform; transform algorithm
+ER
+
+PT S
+DE coherent optical Fourier transform; quantum Fourier transform; discrete
+   optical Fourier transform; fast Fourier transform
+ID COMPUTATION; ALGORITHM
+ER
+
+PT S
+ER
+
+PT B
+DE Fast Fourier Transform; asymmetric digital subscriber lines (ADSL);
+   discrete multi tone(DMT); sinc function
+ID DATA-TRANSMISSION
+ER
+
+PT B
+DE Fast Fourier Transform; asymmetric digital subscriber lines (ADSL);
+   discrete multi tone(DMT); sinc function
+ID DATA-TRANSMISSION
+ER
+
+PT S
+DE Audio signal; Compressed Sensing; Sparse Fast Fourier Transform
+ID ORTHOGONAL MATCHING PURSUIT; SIGNAL RECOVERY
+ER
+
+PT J
+ID LIMITED-DIFFRACTION BEAMS; RECONSTRUCTION; TOMOGRAPHY; DOMAIN; FFT;
+   INTERPOLATION; ALGORITHM; SYSTEM; SPEED
+ER
+
+PT J
+DE Algorithms; Design; Performance; Backscatter; REID; Wireless;
+   Compressive Sensing
+ER
+
+PT J
+DE Discrete Fourier transform (DFT); Kronecker; sparse matrix; Walsh
+   Hadamad transform (WHT)
+ID WALSH-HADAMARD; MATRIX FACTORIZATION; OFDM; PERFORMANCE; CDMA
+ER
+
+PT J
+DE Lower triangular Toeplitz matrices; Fast sine transform; Fast cosine
+   transform; Fast Fourier transform
+ID TRANSFORM; SYSTEMS
+ER
+
+PT J
+DE fast Fourier transforms; physics education; rubidium
+ID LIGHT; SYSTEMS; PHYSICS; PROBE; SPIN
+ER
+
+PT J
+DE fast algorithm; multiresolution discrete Fourier transforms; Fast
+   Fourier Transform; matrix notation
+ER
+
+PT J
+DE fractional Fourier transform; fast Fourier transform; quadrature;
+   Hermite polynomials
+ID ORDER; DIFFRACTION; COMPUTATION
+ER
+
+PT B
+DE GPS; Synchronization; Sparse Fourier Transform
+ER
+
+PT S
+DE gene identification; fourier transform; lifting wavelet transform;
+   signal-to-noise
+ID PREDICTION; SEQUENCES
+ER
+
+PT B
+DE Fast Fourier Transform (FFT); Android; Mobile device
+ER
+
+PT J
+DE Algorithms; Design; Performance; Security; Full-duplex; Implanted
+   Medical Devices; Wireless
+ER
+
+PT J
+DE Linear canonical transform; Fractional Fourier transform; Quadrature;
+   Hermite polynomials; Fractional discrete Fourier transform
+ID FOURIER-TRANSFORM; DISCRETIZATION; SIGNALS
+ER
+
+PT J
+DE Analytical convolution; conformal Fourier transform (CFT); Green's
+   function; integral equation
+ID DISCONTINUOUS FUNCTIONS; ACCURATE ALGORITHM
+ER
+
+PT S
+ER
+
+PT J
+DE Signal processing algorithms; Sparse matrices; Approximation methods;
+   Approximation algorithms; Noise; Graphical models; Algorithm design and
+   analysis
+ID HIDDEN MARKOV-MODELS; BELIEF PROPAGATION
+ER
+
+PT J
+DE Quantum computing; Quantum Fourier Transform; Quantum circuit design
+ID X-RAY-SCATTERING; IMPROVEMENTS; LIQUIDS; SERIES
+ER
+
+PT J
+DE Algorithms; Design; Performance
+ID USER COOPERATION DIVERSITY; PERFORMANCE; CAPACITY; SYSTEM
+ER
+
+PT J
+DE Fast Fourier transform; Representation theory; Inverse semigroup; Rook
+   monoid; Mobius transform
+ID COMPUTATION
+ER
+
+PT J
+DE chirp transform; Fresnel diffraction; Wigner distribution function;
+   fractional Fourier transform
+ID FRACTIONAL FOURIER-TRANSFORM; FIELD
+ER
+
+PT J
+ID PLACEBO-CONTROLLED TRIAL; DOUBLE-BLIND; ACTIVITY SCORE;
+   LUPUS-ERYTHEMATOSUS; RITUXIMAB TREATMENT; LYMPHOMA; REGRESSION;
+   VASCULITIS; AGREEMENT; COHORT
+ER
+
+PT J
+DE Compressive sensing; expanders; sparse matrices; sparse recovery;
+   streaming algorithms
+ID SIGNAL RECOVERY; STREAMS
+ER
+
+PT J
+DE Reinsurance; catastrophe bonds; risk neutral valuation; securitisation;
+   Fast Fourier Transform; Fractional Fast Fourier Transform
+ER
+
+PT J
+DE Fast; Transform; Algorithm; Matrix; Fourier-Bessel; Special functions
+ID SPHERICAL HARMONIC EXPANSIONS
+ER
+
+PT J
+ID CARBON-DIOXIDE; SOLUBILITY; CAPTURE; GAS
+ER
+
+PT B
+DE frequency estimation; interpolated fast Fourier transform; phase
+   estimation; least squares
+ER
+
+PT S
+DE FFT; scaled discrete Fourier transform; scaled discrete convolution;
+   fast discrete Fresnel transform; fast discrete Rayleigh-Sommerfeld
+   transform
+ID PRACTICAL FOURIER-ANALYSIS; X-RAY-SCATTERING; TRANSFORM; IMPROVEMENTS;
+   DISCRETE; LIQUIDS; OPTICS
+ER
+
+PT S
+DE Computational Methods; Fourier Transform; sparsity; nonlinear
+   approximation
+ER
+
+PT S
+DE Linear canonical transform; fast Fourier transform; Fresnel transform
+ID DIGITAL HOLOGRAMS; RECONSTRUCTION; COMPUTATION; FRESNEL; OPTICS
+ER
+
+PT S
+DE Computer generated hologram; fast calculation; Pre-calculated object
+   light
+ID SPECIAL-PURPOSE COMPUTER
+ER
+
+PT B
+ID CODES
+ER
+
+PT B
+ID COMMUNICATION COMPLEXITY; SUPERIMPOSED CODES
+ER
+
+PT J
+DE Fourier Transform; Magnetic Vector Potential; Winding Inductances;
+   Induction Motor
+ID 3-PHASE INDUCTION-MOTOR; MACHINES; ECCENTRICITY; HARMONICS; FIELD; SLOT
+ER
+
+PT J
+DE Rotation group; Spherical Fourier transform; Generalized spherical
+   harmonics; Fourier synthesis; Wigner-D functions; Wigner-d functions;
+   Fast discrete transforms; Fast Fourier transform at nonequispaced nodes
+ID SPHERICAL-HARMONICS; CONVOLUTIONS; FFTS
+ER
+
+PT J
+DE Algorithms; Design; Performance; Theory; Interference Alignment;
+   Interference Cancellation
+ER
+
+PT J
+ID ENDOTHELIAL GROWTH-FACTOR; RADIAL OPTIC NEUROTOMY; BEAVER DAM EYE;
+   VASCULAR-PERMEABILITY; DIABETIC-RETINOPATHY; VISUAL-ACUITY;
+   GLUCOCORTICOID-RECEPTOR; STERILE ENDOPHTHALMITIS; NATURAL-HISTORY;
+   UP-REGULATION
+ER
+
+PT J
+ID ENDOTHELIAL GROWTH-FACTOR; CHORIORETINAL VENOUS ANASTOMOSIS; BEAVER DAM
+   EYE; VASCULAR-PERMEABILITY; DIABETIC-RETINOPATHY; VISUAL-ACUITY;
+   GLUCOCORTICOID-RECEPTOR; STERILE ENDOPHTHALMITIS; UP-REGULATION;
+   ACETONIDE
+ER
+
+PT J
+DE Algorithms; Documentation; Theory; Fast Fourier transforms;
+   approximative algorithms
+ID DISCRETE POLYNOMIAL-TRANSFORMS; TRIGONOMETRIC POLYNOMIALS; FAST
+   ALGORITHMS; FAST SUMMATION; GRIDDING RECONSTRUCTION; SCATTERED DATA;
+   SPARSE GRIDS; INTERPOLATION; SPHERE; CONVOLUTION
+ER
+
+PT J
+DE fast algorithm for chirp transform; chirp Z-transform; Fresnel
+   transform; fractional Fourier transform
+ID FRACTIONAL-FOURIER-TRANSFORM; WIGNER DISTRIBUTION FUNCTION; FRESNEL
+   DIFFRACTION; OPTICAL IMPLEMENTATION; BEAMS; SYSTEM; DOMAIN; LENS
+ER
+
+PT J
+ID MULTICOMPONENT THERAPEUTICS; NETWORK; SYSTEMS; ROBUSTNESS; DISCOVERY;
+   THERAPY; CELLS; MODEL; YEAST; CATECHOLAMINES
+ER
+
+PT J
+DE fast Fourier transforms; Fourier transform spectra; high-speed optical
+   techniques; lithium compounds; magnesium; optical pumping; wavelet
+   transforms
+ID LITHIUM-NIOBATE CRYSTAL; WAVE-FORM SYNTHESIS; COHERENT CONTROL; OPTICAL
+   RECTIFICATION; GENERATION; PULSES; RADIATION
+ER
+
+PT B
+DE Fourier transforms; Discrete Fourier transforms; Algorithms; Signal
+   Processing
+ER
+
+PT B
+ER
+
+PT B
+DE permutation factor circulant matrices; fast Fourier transform(FFT);
+   complexity
+ID POSITIVE-DEFINITE SOLUTIONS; EQUATION; ITERATION
+ER
+
+PT B
+DE permutation factor circulant matrices; fast Fourier transform(FFT);
+   complexity
+ID POSITIVE-DEFINITE SOLUTIONS; EQUATION; ITERATION
+ER
+
+PT J
+DE electromagnetic scattering; rough surface; multilevel fast multipole
+   algorithm; fast Fourier transform
+ID ELECTROMAGNETIC SCATTERING; APPROXIMATION; VALIDITY; SPECTRUM
+ER
+
+PT S
+ER
+
+PT B
+DE partial discharge; Fast Fourier Transform; discrete wavelet transform;
+   denosing
+ER
+
+PT J
+DE Accuracy factor; fast Fourier transform (FFT); microstrip line;
+   nonuniform sampling
+ER
+
+PT J
+DE Fast algorithms; fast Fourier transform (FFT)
+ID FAST FOURIER-TRANSFORM; BIT-REVERSAL; MATRIX; PRODUCT; SERIES
+ER
+
+PT S
+DE Discrete Fourier transform; Weil representation; Canonical eigenvectors;
+   Oscillator transform; Fast oscillator transform
+ID EIGENVECTORS
+ER
+
+PT J
+ID FAST FOURIER-TRANSFORMS; FASTER
+ER
+
+PT J
+DE Fast Fourier transform; Nonequispaced data; Nonequispaced FFT; Numerical
+   stability; Roundoff error; Approximation error; Sampling of
+   trigonometric polynomials
+ID ROUNDOFF ERROR ANALYSIS; TRIGONOMETRIC POLYNOMIALS; TOMOGRAPHY
+ER
+
+PT J
+DE Chebyshev interpolation; fast Fourier transform for discontinuous
+   functions (DIFFT); Fourier transform; scaled fast Fourier transform
+   (ScFFT)
+ID FFT
+ER
+
+PT J
+DE algorithms; design; performance; theory; wireless; hidden terminals;
+   interference cancellation
+ER
+
+PT J
+DE algorithms; design; performance; theory
+ER
+
+PT J
+ER
+
+PT J
+DE split-step Fourier; cyclic convolution; discrete Fourier transform
+ID NONLINEAR EVOLUTION-EQUATIONS; NUMERICAL ASPECTS; FFT ALGORITHM; RADIX
+   FFT; TRANSFORM; COMPUTERS; MACHINE; VECTOR
+ER
+
+PT J
+DE finite Fourier transform; FFT; Laplace transform; spectral theory; SVD;
+   regularized inverse
+ID NUMERICAL INVERSION; OPERATORS
+ER
+
+PT J
+DE Boltzmann equation; numerical methods; non-uniform grids
+ID HARD-SPHERE MOLECULES; FOURIER INTEGRAL-OPERATORS; DISCRETE-VELOCITY
+   MODEL; COMPACTNESS; TRANSFORM
+ER
+
+PT J
+DE algorithms; design; network coding; performance; theory; wireless
+   networks
+ID AD HOC NETWORKS; INFORMATION-FLOW
+ER
+
+PT J
+DE Byzantine adversaries; distributed network error-correcting codes;
+   eavesdroppers; information-theoretically optimal; list decoding;
+   polynomial-time algorithms
+ER
+
+PT J
+DE diffraction integrals; fractional Fourier transform (FRT); linear
+   canonical transform (LCT); time-frequency analysis; Wigner distributions
+ID FRACTIONAL-FOURIER-TRANSFORM; WIGNER DISTRIBUTION FUNCTION; FINITE
+   SYSTEMS; OPTICAL IMPLEMENTATION; FRESNEL TRANSFORM; SERIES EXPANSION;
+   FAST ALGORITHMS; PHASE-SPACE; REPRESENTATIONS; EXTENSION
+ER
+
+PT J
+DE fast multipole method; particle dynamics; spherical harmonics; fast
+   Fourier transform; automatic code generation
+ID FAST FOURIER-TRANSFORMS; PARTICLE SIMULATIONS; ALGORITHM;
+   IMPLEMENTATION; DYNAMICS
+ER
+
+PT J
+DE Chinese remainder theorem; discrete Fourier transform (DFT); discrete
+   cosine transform (DCT); discrete sine transform (DST); fast Fourier
+   transform (FFT); polynomial algebra; representation theory
+ID DISCRETE COSINE TRANSFORM; FAST COMPUTATIONAL ALGORITHM;
+   FOURIER-TRANSFORM; MULTIPLICATIVE COMPLEXITY; SINUSOIDAL TRANSFORMS;
+   SINE TRANSFORMS; W-TRANSFORM; DFT; GENERATION; COMPUTE
+ER
+
+PT J
+ER
+
+PT J
+ID SIGNAL RECOVERY; TRANSFORM
+ER
+
+PT B
+DE Fast Fourier transform; Instrumentation; Microcontroller
+ER
+
+PT S
+ER
+
+PT J
+DE nonuniform fast Fourier transform; reconstruction of uneven seismic
+   data; least squares inversion
+ID TRACE INTERPOLATION
+ER
+
+PT J
+ER
+
+PT J
+DE Discrete Fourier transform (DFT); fast Fourier transform (FFT);
+   transform decomposition (TD)
+ID FFT ALGORITHM
+ER
+
+PT B
+ID ALGORITHMS
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT J
+DE LIBOR model; stochastic volatility; square-root process; swaptions; fast
+   Fourier transform (FFT)
+ID TERM STRUCTURE; STOCHASTIC VOLATILITY; INTEREST-RATES
+ER
+
+PT J
+DE discrete Fourier transform; integer transforms; paired transform
+ID ALGORITHM; 2-D
+ER
+
+PT J
+DE algorithms; design; performance; network coding; wireless networks
+ER
+
+PT J
+DE algorithms; design; performance; theory; network coding; wireless
+   networks; cooperative transmission
+ID EFFICIENT PROTOCOLS
+ER
+
+PT J
+ID SPHEROIDAL WAVE-FUNCTIONS; FOURIER-ANALYSIS; DIFFRACTION TOMOGRAPHY;
+   UNCERTAINTY; FFT
+ER
+
+PT J
+DE fast Fourier transform; multiresolution Fourier transform;
+   time-frequency analysis
+ER
+
+PT J
+DE electrical engineering education; Fourier transform; discrete Fourier
+   transform; fast Fourier transform; aliasing; spectral leakage;
+   convolution; numerical simulation
+ER
+
+PT J
+ID COMPUTER-GENERATED HOLOGRAMS; FRACTIONAL-FOURIER-TRANSFORM; TILTED
+   PLANES; ALGORITHM; OBJECTS; CREATION; DISPLAY
+ER
+
+PT J
+DE algorithms; complexity theory; discrete Fourier transforms
+ID RADIX FFT
+ER
+
+PT J
+DE five-step fast Fourier transform; computational complexity
+ID MEMORY
+ER
+
+PT J
+DE nonequispaced FFT; polar Fourier transform; polar grid; linogram grid;
+   FFT; NFFT; USFFT
+ID FAST FOURIER-TRANSFORMS
+ER
+
+PT J
+ID CHIP
+ER
+
+PT B
+DE Orthogonal frequency division multiplexing (OFDM); Discrete Fourier
+   transform (DFT); Fast Fourier transform (FFT)
+ER
+
+PT S
+ER
+
+PT S
+DE moments; discrete Fourier transforms; multiplierless; systolic array
+ID ALGORITHM
+ER
+
+PT J
+DE Fast Fourier transform; discrete Fourier transform; fast convolution
+ID NUMBER
+ER
+
+PT J
+ID PHASE-SPACE; DIFFRACTION; FORMULATION; GRATINGS; OBJECTS
+ER
+
+PT J
+DE algorithms; design; performance; theory; network coding; wireless
+   networks
+ER
+
+PT J
+DE discrete Fourier transforms (DFTs); eigenvalue decomposition; fast
+   Fourier transforms (FFTs); fractional Fourier transforms
+ID FRACTIONAL FOURIER-TRANSFORM; DISCRETE COSINE TRANSFORM; ALGORITHM;
+   COMPLEX
+ER
+
+PT J
+DE discrete cosine transform (DCT); inverse discrete cosine transform
+   (IDCT); fast transforms; odd-DFT
+ID DISCRETE COSINE TRANSFORM; FAST ALGORITHM; SINE
+ER
+
+PT J
+DE multivariate Fourier transform; simplex and super-simplex; multivariate
+   sine and cosine functions; eigen-decomposition for Laplacian-like
+   operator; multivariate fast Fourier transform
+ID PARTITION; SERIES
+ER
+
+PT J
+DE algorithms; theory; sketching; dimensionality reduction; embeddings;
+   data streams; norms
+ER
+
+PT J
+DE digital signal processing; fast Fourier transform (FFT); interpolated
+   fast Fourier transform (IFFT); uncertainty
+ID MULTIFREQUENCY SIGNAL; FOURIER-TRANSFORM; UNCERTAINTY; ALGORITHMS;
+   ACCURACY
+ER
+
+PT J
+DE trigonometric approximation; hyperbolic cross; sparse grids; fast
+   Fourier transform for nonequispaced knots; NFFT; FFT
+ID FAST FOURIER-TRANSFORMS; SPARSE GRIDS
+ER
+
+PT J
+DE fast Fourier transform; harmonic amplitude; periodic signal; Fourier
+   series
+ER
+
+PT S
+DE fast Fourier transform; power quality; S-Transform; short time Fourier
+   transform; time-varying waveform distortions; wavelet transform
+ID S-TRANSFORM; HARMONICS; NETWORKS; SYSTEM
+ER
+
+PT S
+ID DOMAIN; ALGORITHM
+ER
+
+PT B
+DE fast Fourier transform; Hilbert-Huang transform; data analysis
+ID EXPERIMENTALISTS
+ER
+
+PT S
+ER
+
+PT S
+ID LEECH LATTICE; GOLAY CODE
+ER
+
+PT S
+DE random phase screen; polar Fourier series; fast Fourier transform;
+   Zernike polynomial; structure function; atmospheric simulation; optical
+   turbulence
+ER
+
+PT J
+DE nonuniform Fourier transform; fast Fourier transform (FFT);
+   approximation
+ER
+
+PT J
+DE fractional fast Fourier transform (FFT); image registration;
+   pseudo-log-polar
+ER
+
+PT S
+DE fast Fourier transform; recursive format; arithmetical complexity
+ID FFT ALGORITHM; NUMBER; MULTIPLICATIONS; OPERATIONS; COMPUTE; DFT
+ER
+
+PT S
+DE far-field; discrete Fourier transform; fast Fourier transform
+ER
+
+PT J
+DE Boltzmann equation; spectral methods; fast Fourier transform; fast
+   algorithms
+ID DISCRETE VELOCITY MODELS; PLANCK-LANDAU EQUATION; FAST
+   FOURIER-TRANSFORM; FAST SPECTRAL METHODS; DETERMINISTIC METHOD;
+   NUMERICAL-SOLUTION; DIFFERENCE SCHEME; APPROXIMATION; STABILITY;
+   EXISTENCE
+ER
+
+PT J
+DE two-dimensional and three-dimensional curvelet transforms; fast Fourier
+   transforms; unequally spaced fast Fourier transforms; smooth
+   partitioning; interpolation; digital shear; filtering; wrapping
+ID FAST FOURIER-TRANSFORMS; MULTISCALE TRANSFORMS; COMPOSITE DILATIONS;
+   WAVELET TRANSFORMS; NONEQUISPACED DATA; REPRESENTATIONS; SINGULARITIES;
+   ALGORITHMS; SPARSE; FRAMES
+ER
+
+PT J
+ID FRACTIONAL FOURIER-TRANSFORM; FAST ALGORITHMS
+ER
+
+PT S
+DE private approximations; secure multiparty computation; nearest neighbor;
+   communication complexity
+ER
+
+PT J
+DE TeXCP; traffic engineering; responsive; online; distributed; stable
+ER
+
+PT J
+DE expander graphs; Forney's error exponent; iterative decoding;
+   linear-time algorithms; MDS codes; Singleton bound; Zyablov bound
+ID ERROR-CORRECTING CODES; EXPANDER CODES; CONCATENATED CODES;
+   CONSTRUCTION; EXPONENTS; GRAPHS
+ER
+
+PT J
+DE cells; ischemia; myocardial infarction; catheters
+ID ACUTE MYOCARDIAL-INFARCTION; GENE-THERAPY; DRUG-DELIVERY; MYOBLAST
+   TRANSPLANTATION; PROGENITOR CELLS; ARTERY-DISEASE; HEART-FAILURE;
+   TOPCARE-AMI; STEM-CELLS; ANGIOGENESIS
+ER
+
+PT J
+DE discrete cosine transform (DCT); discrete Fourier transform (DFT); fast
+   cosine transform; fast Fourier transform (FFT); transform domain
+   conversion
+ID DISCRETE COSINE TRANSFORM; FOURIER-TRANSFORM; FAST ALGORITHMS;
+   COMPUTATION
+ER
+
+PT J
+DE race/ethnicity; health disparities; cultural competence
+ID MEDICAL-STUDENTS; PHYSICIANS; PROGRAM; RACE; PERCEPTIONS; SENSITIVITY;
+   DISPARITIES; ATTITUDES; AWARENESS; CLIENTS
+ER
+
+PT J
+ID CARDIAC RYANODINE RECEPTOR; VENTRICULAR MYOCYTES; SER(16)
+   PHOSPHORYLATION; DILATED CARDIOMYOPATHY; DEPENDENT FACILITATION;
+   CALCIUM-CHANNELS; ANGIOTENSIN-II; CA2+ CURRENT; EXCITATION; FAILURE
+ER
+
+PT J
+ID ALGORITHM
+ER
+
+PT J
+DE Gauss transform; unequally spaced Fourier transforms; fast algorithms;
+   chirped Gaussian
+ER
+
+PT B
+ID ALGORITHM; NUMBER; FFT; OPERATIONS; COMPUTE; DFT
+ER
+
+PT B
+ID FRACTIONAL FOURIER-TRANSFORM; FREQUENCY
+ER
+
+PT B
+DE Reed-Solomon codes; fast Fourier transforms; codes on graphs
+ER
+
+PT J
+DE computational electromagnetics; electromagnetic scattering; fast Fourier
+   transform (FFT)
+ER
+
+PT S
+DE digital signal processing; simulation of optical sysyems; linear
+   canonical transform
+ID FRACTIONAL-FOURIER-TRANSFORM; NUMERICAL-CALCULATION; PROPAGATION;
+   COMPUTATION; PATTERNS; SYSTEMS; SIGNALS
+ER
+
+PT B
+DE fast Fourier transform; hexagonal lattice; image
+ER
+
+PT J
+DE benchmark; bit-reversal; data scrambling; fast algorithm
+ID TRANSFORMS
+ER
+
+PT J
+DE fast Fourier transform (FFT); Gabor multipliers; Gabor transform; matrix
+   approximation; time-variant filtering
+ID TIME-FREQUENCY LOCALIZATION; FILTER BANKS; SPACE
+ER
+
+PT J
+DE boundary element method; fast multipole method; fast Fourier transforms;
+   fast Fourier transform on multipoles
+ID BOUNDARY-ELEMENT MATRICES; PARTICLE-PARTICLE; HAAR WAVELET; CREATION;
+   SYSTEMS; MESH
+ER
+
+PT J
+DE generalized inverse; drazin inverse; discrete Fourier transform;
+   multi-variable polynomial matrix
+ID GENERALIZED INVERSE; COMPUTATION; ALGORITHM; MAPLE
+ER
+
+PT J
+ID OPTICAL IMPLEMENTATION; DIFFRACTION; TOMOGRAPHY; CHIRP
+ER
+
+PT J
+DE digital signal processing (DSP); fast Fourier transform (FFT); frequency
+   domain; harmonic interference; uncertainty evaluation
+ID FOURIER-TRANSFORM; ALGORITHMS; ACCURACY; WINDOWS
+ER
+
+PT J
+ID TRANSFORM
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE discontinuous fast Fourier transform (DFFT); algorithm; discontinuous
+   function; fast Fourier transform (FFT); Fourier transform;
+   interpolation; nonuniform FFT (NUFFT); spectral method
+ID ALGORITHM
+ER
+
+PT B
+DE Fractional Fourier transform; interpolation method
+ER
+
+PT B
+DE fast Fourier transform; discrete Fourier transform; sampling;
+   Gel'fand-Tsetlin bases
+ID FAST FOURIER-TRANSFORM; EFFICIENT COMPUTATION; DISCRETE LOGARITHMS;
+   ALGORITHM; CONVOLUTIONS; PRIME; POWER
+ER
+
+PT J
+DE fast approximate subspace tracking (FAST) algorithm; Fourier transform;
+   subspace tracking; singular value decomposition (SVD)
+ID SINGULAR VALUE DECOMPOSITION
+ER
+
+PT S
+DE fast algorithm; linear canonical transform; fractional Fourier
+   transform; numerical methods
+ER
+
+PT J
+DE spherical Fourier transform; spherical harmonics; associated Legendre
+   functions; fast discrete transforms; fast Fourier transform at
+   nonequispaced knots
+ID TRANSFORMS; INTERPOLATION; CONVOLUTIONS; MATRICES; COSINE
+ER
+
+PT J
+DE wind waves; wave simulation; wave analysis; fast Hartley transform; fast
+   Fourier transform; Hilbert transform; wave envelope
+ID DISCRETE HILBERT TRANSFORM; FAST FOURIER; ALGORITHM; SEQUENCES; SERIES
+ER
+
+PT J
+ER
+
+PT J
+ID CANCER-THERAPY; DRUG DISCOVERY; PENTAMIDINE; CELLS; CHLORPROMAZINE;
+   INHIBITORS; MECHANISMS; CALMODULIN; BINDING; TUMOR
+ER
+
+PT J
+DE data stream analysis; approximate query processing; data structures and
+   algorithms; data reduction
+ID ALGORITHMS
+ER
+
+PT J
+DE algorithm; aliasing; analysis; analytical; approximation; boundary;
+   convolution; deconvolution; derivation; discrete; discrete Fourier
+   transform (DFT); fast; fast Fourier transform (FFT); Fourier;
+   integration; interpolation; numerical; Nyquist; spectrum; splines
+ER
+
+PT J
+DE genetic algorithm (GA); fast Fourier transform (FFT); antenna array
+ER
+
+PT J
+ER
+
+PT B
+DE genetic algorithm (GA); fast fourier transform (FFT); array failure
+   correction
+ER
+
+PT S
+ID COMPLEX
+ER
+
+PT S
+ID COMPLEXITY
+ER
+
+PT J
+DE Hartley transform; Fourier transform; ocean engineering; separation of
+   waves; PIV
+ID PARTICLE IMAGE VELOCIMETRY; ALGORITHMS; REAL
+ER
+
+PT J
+DE spherical filter; spherical Fourier transform; spherical harmonics;
+   associated Legendre functions; fast discrete transforms; fast Fourier
+   transform at nonequispaced knots; wavelets; fast discrete summation
+ID FAST FOURIER-TRANSFORMS
+ER
+
+PT J
+DE audio processing; filter banks; lapped transforms; modulated filter
+   banks; transforms
+ER
+
+PT S
+ER
+
+PT J
+ER
+
+PT S
+ER
+
+PT S
+DE phase retrieval; DOE; Hankel transform; FFT
+ID HANKEL TRANSFORM; NUMERICAL EVALUATION; COMPUTATION
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT B
+DE factor graph; finite field Fourier; transformation; reed Solomon codes
+ER
+
+PT J
+DE statistics; data streams; sliding windows; approximation algorithms
+ER
+
+PT J
+ER
+
+PT J
+DE Fourier integral; fast Fourier transform; FFT; numerical integration
+ID TRANSFORMS
+ER
+
+PT J
+DE congestion control; high-speed networks; large bandwidth-delay product
+ID AVOIDANCE
+ER
+
+PT J
+DE bearing estimation; discrete Fourier transform; fast Fourier transform
+ID LIKELIHOOD
+ER
+
+PT J
+DE discrete transforms; fast Fourier transforms; spectral transformation;
+   two-dimensional filters
+ID 2-DIMENSIONAL DIGITAL-FILTERS; BILINEAR TRANSFORMATION; MULTIVARIABLE
+   POLYNOMIALS; MATRICES; ALGORITHM
+ER
+
+PT J
+DE fast algorithms; Fourier; Hartley transforms; multidimensional Radon;
+   Nussbaumer transform
+ID FOURIER-TRANSFORM; RADON-TRANSFORM; TRAVEL TIMES; TAU METHOD; INVERSION;
+   COMPUTE
+ER
+
+PT S
+ID CIRCUITS; COMPUTER
+ER
+
+PT J
+DE Hadamard matrix; Reverse Jacket matrix; fast Fourier transform; fast
+   Reverse Jacket transform
+ID WEIGHTED HADAMARD-TRANSFORM
+ER
+
+PT J
+DE correlator; optical design; digital design; image recognition
+ID SYNTHETIC DISCRIMINANT FUNCTION; JOINT TRANSFORM CORRELATOR; SPATIAL
+   LIGHT-MODULATOR; WIENER FILTER
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT J
+DE inverse eigenvalue problem; nonnegative matrix; circulant matrix; fast
+   Fourier transform; persymmetric matrix
+ID EIGENVALUE
+ER
+
+PT J
+ER
+
+PT J
+DE fast Fourier transform for nonequispaced data; Radon transform;
+   computerized tomography; gridding; linogram; chirp-z transform
+ID FAST FOURIER-TRANSFORMS; IMAGE-RECONSTRUCTION; INVERSION
+ER
+
+PT J
+ID AXISYMMETRICAL INHOMOGENEOUS-MEDIA; CG-FFHT; ALGORITHM; APPROXIMATION;
+   BOREHOLE
+ER
+
+PT J
+DE P-glycoprotein; ethnicity; single nucleotide polymorphism; MDR1
+ID MULTIDRUG-RESISTANCE GENE; BLOOD-BRAIN-BARRIER; HIV-1 PROTEASE
+   INHIBITORS; PRODUCT P-GLYCOPROTEIN; METHYLTRANSFERASE PHARMACOGENETICS;
+   EXPRESSION; ALLELE; TRANSPORTER; INDIVIDUALS; CARCINOMA
+ER
+
+PT J
+ER
+
+PT J
+DE data mining; association rules; similarity metric; min hashing; locality
+   sensitive hashing
+ER
+
+PT J
+ER
+
+PT J
+DE signal processing; wavelet transform; short-time Fourier transform
+ID FREQUENCY
+ER
+
+PT J
+DE fast Fourier transform
+ID TOTAL ENERGY
+ER
+
+PT J
+DE fast solver; integral equation; nonuniform FFT (NUFFT); numerical
+   methods; time domain analysis
+ID K-SPACE FORMULATION; DEPENDENT PSTD ALGORITHM; FAST FOURIER-TRANSFORMS;
+   TIME-DOMAIN; SCATTERING PROBLEM; DISPERSIVE MEDIA; SIMULATIONS; WAVES
+ER
+
+PT J
+DE cepstrum; complex FIR filters; fast Fourier transform; low-delay filters
+ER
+
+PT J
+ID FRACTIONAL FOURIER-TRANSFORMS; OPTICAL INTERCONNECTIONS; FRESNEL
+   DIFFRACTION; ORDER; IMPLEMENTATION; PROPAGATION; SYSTEMS; DOMAIN; BEAMS;
+   LENS
+ER
+
+PT J
+ID RADON-TRANSFORM; RECONSTRUCTION
+ER
+
+PT J
+DE FFT; multi-dimension; radix-2; RISC; vector super computer
+ID FAST FOURIER-TRANSFORMS; ALGORITHM
+ER
+
+PT J
+DE microphthalmia; c-Kit; steel factor; MAPK; p90 Rsk; ubiquitin
+ID MICROPHTHALMIA GENE-PRODUCT; RIBOSOMAL S6 KINASE; UBIQUITIN-PROTEASOME
+   PATHWAY; RECEPTOR TYROSINE KINASE; STEM-CELL FACTOR; KAPPA-B-ALPHA;
+   TRANSCRIPTION FACTOR; WAARDENBURG-SYNDROME; PROTEIN-KINASE;
+   GROWTH-FACTOR
+ER
+
+PT J
+DE fast cosine transform; fast Fourier transform; numerical stability;
+   roundoff error analysis; worst case study; matrix factorization
+ER
+
+PT J
+ID APPROXIMATION
+ER
+
+PT J
+DE domestication; domestic animals; captivity; behavioral development;
+   feral; reintroduction
+ID SALMON ONCORHYNCHUS-KISUTCH; RING-NECKED PHEASANTS; MICE MUS-MUSCULUS;
+   NORWAY RATS; SOCIAL-BEHAVIOR; COHO SALMON; REPRODUCTIVE-PERFORMANCE;
+   REDUCED AGGRESSIVENESS; INDIVIDUAL-DIFFERENCES; AGONISTIC BEHAVIOR
+ER
+
+PT J
+DE discrete Fourier transforms; filters; Fourier series; Fourier
+   transforms; interpolation
+ER
+
+PT J
+ID FAST FOURIER-TRANSFORMS
+ER
+
+PT J
+DE polar ice; Mesozoic; glacial conditions
+ID GENERAL-CIRCULATION MODEL; STABLE ISOTOPIC EVIDENCE; LATE CRETACEOUS
+   CLIMATE; SOUTHERN HIGH-LATITUDES; GLOBAL CYCLE CHART; JAMES-ROSS-ISLAND;
+   SEA-LEVEL CHANGES; NEW-ZEALAND; SEDIMENTARY RECORD; PALEOTEMPERATURE
+   VARIATION
+ER
+
+PT J
+ER
+
+PT J
+DE two-dimensional Laplace transform; numerical inversion method; fast
+   Fourier transform; fast Hartley transform
+ID FOURIER-TRANSFORM; ALGORITHM
+ER
+
+PT J
+DE Fresnel integral calculation; discrete Fourier Transform; fast Fourier
+   Transform; fractional Fourier transform
+ID FRACTIONAL-FOURIER-TRANSFORM; OPTICAL IMPLEMENTATION; FRESNEL
+   DIFFRACTION
+ER
+
+PT J
+ER
+
+PT J
+DE diameter; shortest paths; matrix multiplication
+ID ALGORITHMS
+ER
+
+PT J
+DE characters of groups; convolution; discrete Fourier transform (DFT);
+   fast Fourier transform (FFT); fast transforms; filter banks; Hartley;
+   Haar; Walsh; Paley transforms; multiplicity problem; multirate systems;
+   wavelet packets; wavelets
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+EF
