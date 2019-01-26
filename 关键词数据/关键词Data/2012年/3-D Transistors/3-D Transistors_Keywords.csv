@@ -1,0 +1,740 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,finfet,12,finfet,42
+1,3-d,10,3-d,34
+2,cmos,7,cmos,30
+3,organic,6,3-d ic,19
+4,organic field-effect transistors,5,mosfet,16
+5,gate-all-around (gaa),5,modeling,16
+6,3-d ic,5,organic,15
+7,3-d integration,5,3-d integration,15
+8,mosfet,5,simulation,14
+9,3-d electrothermal simulation,4,poly-si,14
+10,graphene,4,gate-all-around (gaa),13
+11,modeling,4,graphene,13
+12,device simulation,4,memory,13
+13,poly-si,4,organic field-effect transistors,12
+14,thin-film transistor (tft),3,hybrid,12
+15,mobility,3,thermal,11
+16,organic semiconductor,3,soi,11
+17,fin field-effect transistor (finfet),3,mobility,10
+18,junctionless (jl),3,nanowire,10
+19,analytical model,3,gan,9
+20,3-d integrated circuit (3-d ic),3,reliability,9
+21,hybrid,3,device simulation,9
+22,conjugated polymers,3,self-heating,9
+23,memory,3,graded algan,8
+24,thermal,3,transistor,8
+25,simulation,3,recessed gate,8
+26,self-heating,3,four gate transistor,8
+27,bipolar transistors,3,tri-gate,8
+28,four gate transistor,3,bicmos,8
+29,nanowire,3,thin-film transistor (tft),7
+30,soi,3,mos devices,7
+31,organic field-effect transistor,2,junctionless (jl),7
+32,heteroacenes,2,analytical model,7
+33,substrate bias,2,inverter,7
+34,insulated gate bipolar transistor (igbt),2,3-d integrated circuit (3-d ic),7
+35,thin film transistors,2,integrated,7
+36,organic thin-film transistors,2,conjugated polymers,7
+37,3-d transistor,2,tcad,7
+38,static random access memory (sram),2,charge pumping (cp),7
+39,graded algan,2,bipolar transistors,7
+40,gan,2,fin,7
+41,3-d integrated circuits,2,nanoimprint,7
+42,transistors,2,epitaxial growth,7
+43,numerical simulation,2,heteroacenes,6
+44,mos devices,2,thin film transistors,6
+45,nanowires,2,3-d transistor,6
+46,stacked horizontal nanowire,2,3-d electrothermal simulation,6
+47,3-d cmos,2,fin field-effect transistor (finfet),6
+48,nanowire (nw),2,coupling,6
+49,3-d nand flash memory,2,hemt,6
+50,3-d poisson's equation,2,quantum,6
+51,inverter,2,junctionless,6
+52,semiconductor,2,nonequilibrium,6
+53,monolithic 3-d integration,2,nanowires (nws),6
+54,coupling,2,single crystal,6
+55,transistor,2,field-effect transistor (fet),6
+56,integrated,2,surface potential,6
+57,field-effect transistors,2,junctionless transistor,6
+58,junctionless nanowire transistors (jnts),2,inas,6
+59,reliability,2,low temperature,6
+60,high-electron mobility transistor (hemt),2,beam-channel transistor,6
+61,recessed gate,2,crosstalk,6
+62,hemt,2,lspe,6
+63,quantum,2,seg,6
+64,junctionless,2,three-dimensional (3-d),6
+65,defect,2,ulsi,6
+66,tcad,2,vlsi,6
+67,nonequilibrium,2,static random access memory (sram),5
+68,fin-shaped field-effect transistor (finfet),2,3-d stack,5
+69,cmos integrated circuits,2,3-d technology,5
+70,nanowires (nws),2,bulk silicon,5
+71,single crystal,2,nanowire (nw),5
+72,charge pumping (cp),2,3-d poisson's equation,5
+73,junctionless transistors,2,semiconductor,5
+74,grain boundary (gb),2,monolithic 3-d integration,5
+75,field-effect transistor (fet),2,circuit,5
+76,analytical modeling,2,field-effect transistors,5
+77,3-d integrated circuit (ic),2,3-d cpu,5
+78,device modeling,2,codesign,5
+79,polycrystalline silicon (poly-si),2,design space analysis,5
+80,surface potential,2,liquid cooling,5
+81,nanowire transistor,2,defect,5
+82,junctionless transistor,2,microprocessors,5
+83,tri-gate,2,moore's law,5
+84,fin,2,3d ic,5
+85,nanoimprint,2,grain boundary (gb),5
+86,inas,2,heterostructures,5
+87,nanowire mosfet,2,fin-shaped channel,5
+88,low temperature,2,power,5
+89,silicon,2,3-d integrated circuit (ic),5
+90,1-d and 3-d modeling,2,polycrystalline silicon (poly-si),5
+91,cantilever switch,2,soc,5
+92,movable gate,2,high-k dielectric,5
+93,epitaxial growth,2,breakdown,5
+94,breakdown voltage,2,metal gate,5
+95,beam-channel transistor,2,nanowire mosfet,5
+96,plasma doping,2,silicon,5
+97,crosstalk,2,3-d stacked,5
+98,tmah,2,cmos inverter,5
+99,orientation-dependent etching,2,vertical integration,5
+100,bicmos,2,hfo2,5
+101,transistor linearity,1,pt gate,5
+102,graded channel algan,1,plasma doping,5
+103,polfet,1,tmah,5
+104,polarization-graded,1,orientation-dependent etching,5
+105,in-ga-zn-o (igzo),1,diffusion,5
+106,thin-film device,1,drift,5
+107,synapse element,1,medici,5
+108,neural network,1,seu,5
+109,polycyclic aromatic compounds,1,spice,5
+110,finfets,1,pseudo-lattice,5
+111,hybrid 3-d floorplanner,1,dynamic,5
+112,monolithic 3-d integrated circuits,1,liquid-crystal,5
+113,arch-shaped,1,director,5
+114,imaging,1,silicon nanowire,4
+115,receivers,1,nanowire array,4
+116,tomography,1,reconfigurable logic,4
+117,read scheme,1,rfet,4
+118,sensing margin,1,2,4
+119,sneak current,1,6-diphenyl anthracene (dpa),4
+120,vertical resistive,1,afm,4
+121,addition-elimination reaction,1,fractal analysis,4
+122,benzodithienothiophene,1,surface,4
+123,fluorescence,1,organic semiconductor,4
+124,n-channel organic thin-film transistors (otfts),1,constant f(t),4
+125,ultra-thin,1,gain linearity,4
+126,flexible,1,3-d integrated circuits,4
+127,silicon nanowire,1,transistors,4
+128,nanowire array,1,numerical simulation,4
+129,reconfigurable logic,1,monte-carlo,4
+130,rfet,1,nanoscale,4
+131,electron mobility,1,phonon transport,4
+132,ufm system,1,boltzmann,4
+133,sub-ns characterization,1,nanowires,4
+134,3-d i-v,1,sf-finfet,4
+135,parameter extraction,1,sd-finfet,4
+136,bending stability,1,sces,4
+137,biomedical applications,1,analog,4
+138,c-reactive protein (crp),1,rf and digital foms,4
+139,2,1,stacked horizontal nanowire,4
+140,6-diphenyl anthracene (dpa),1,3-d cmos,4
+141,afm,1,3-d nand flash memory,4
+142,fractal analysis,1,3-d compact model,4
+143,surface,1,triple-gate jlt,4
+144,junctionless field-effect transistor (jlfet),1,nanowire jlt,4
+145,silicon nanowire field effect transistor (sin-wfet),1,sce,4
+146,hybrid process,1,fin height,4
+147,v-ce(sat) - e-off tradeoff,1,three dimensional,4
+148,organic transistors,1,non-fourier,4
+149,charge-transfer complex,1,nanoscale heat transfer,4
+150,ambipolar transistor,1,3-d noc,4
+151,optical images,1,fault tolerance,4
+152,optical memory transistors,1,deflection routing algorithm,4
+153,organic semiconductors,1,tsv,4
+154,coupled electron and phonon monte carlo (mc) simulation,1,electrostatics,4
+155,fin-shaped,1,nanowire transistors (nws),4
+156,high power insulated-gate bipolar transistors (igbts),1,performance,4
+157,short-circuit,1,atlas,4
+158,nanosheet (ns),1,double gate,4
+159,igzo,1,dual material gate (dmg),4
+160,film-profile-engineered,1,canvas,4
+161,inverters,1,vertical slit field-effect transistor,4
+162,inp hbt,1,through silicon via,4
+163,terahertz band,1,noise,4
+164,3d em simulation,1,nanowire fet,4
+165,transistor model,1,vertical fet,4
+166,heterogeneous integration,1,nem relay,4
+167,monolithic 3d,1,fin-shaped field-effect transistor (finfet),4
+168,sequential 3d,1,cmos integrated circuits,4
+169,layer transfer,1,drivability,4
+170,oxide semiconductor,1,interface,4
+171,thermal stability,1,interconnect parasitic,4
+172,beol transistor,1,doping profile,4
+173,"dithieno[3,2-b:2 ',3 '-d] pyridine core",1,interface states,4
+174,donor-acceptor,1,poly silicon,4
+175,band-to-band (btb) generation rate,1,junctionless transistors,4
+176,core-shell,1,device modeling,4
+177,deformation potential,1,nanowire transistor,4
+178,organic thin film transistors,1,vesfet,4
+179,inkjet printing,1,sensors,4
+180,displays,1,tfts,4
+181,"dithieno[3,2-b: 2",1,roadmap,4
+182,electrostatic discharge (esd),1,device,4
+183,ultra-high voltage (uhv),1,dopant,4
+184,human body,1,process,4
+185,3-dtft architecture,1,1-d and 3-d modeling,4
+186,amorphous silicon,1,cantilever switch,4
+187,dual-gate thin-film transistor,1,movable gate,4
+188,electrothermal behavior,1,channel resistance,4
+189,international,1,heat dissipation,4
+190,3-d photoconductor,1,ruggedness,4
+191,hydrogenated amorphous silicon,1,silicon on,4
+192,infrared,1,dispersion,4
+193,linear energy transfer (let) value,1,tight binding,4
+194,power multifinger hemt,1,ballistic transport,4
+195,metallization,1,focused ion beam (fib),4
+196,3d magnetic field sensor,1,micromachining,4
+197,hall magnetic field sensor,1,nanostructure,4
+198,mems technology,1,mems,4
+199,nbti,1,breakdown voltage,4
+200,hardware trojan,1,ground plane,4
+201,drain-induced barrier lowering (dibl),1,isolation technology,4
+202,junctionless field-effect,1,mixed-signal,4
+203,3-d stack,1,2-d noise,4
+204,3-d technology,1,cmos rf,4
+205,bulk silicon,1,four noise parameters,4
+206,constant f(t),1,high frequency noise,4
+207,gain linearity,1,transistor linearity,3
+208,3-d monolithic,1,graded channel algan,3
+209,back bias,1,polfet,3
+210,fully depleted - silicon on insulator,1,polarization-graded,3
+211,3d connectivity,1,in-ga-zn-o (igzo),3
+212,3d designs,1,thin-film device,3
+213,fine-grained 3d integration,1,synapse element,3
+214,routability,1,neural network,3
+215,algaas/ingaas/gaas based phemts,1,arch-shaped,3
+216,3-d mmics,1,read scheme,3
+217,multilayer fabrication,1,sensing margin,3
+218,flexible printed circuits,1,sneak current,3
+219,organic thin-film,1,vertical resistive,3
+220,atomic layer deposition,1,ufm system,3
+221,equivalent circuit parameters (ecps),1,sub-ns characterization,3
+222,large-signals parameters,1,3-d i-v,3
+223,monte-carlo,1,parameter extraction,3
+224,nanoscale,1,substrate bias,3
+225,phonon transport,1,insulated gate bipolar transistor (igbt),3
+226,boltzmann,1,igzo,3
+227,nano-scaled transistor,1,film-profile-engineered,3
+228,nisi2 migration,1,inverters,3
+229,poly-silicon channel,1,inp hbt,3
+230,hysteresis,1,terahertz band,3
+231,metal oxide,1,3d em simulation,3
+232,nonvolatile memory,1,transistor model,3
+233,gate all around (gaa),1,heterogeneous integration,3
+234,poisson's equation,1,monolithic 3d,3
+235,subthreshold swing,1,sequential 3d,3
+236,monolayer mos2,1,layer transfer,3
+237,phonon scattering,1,oxide semiconductor,3
+238,strain engineering,1,thermal stability,3
+239,monte carlo,1,beol transistor,3
+240,sf-finfet,1,organic thin film transistors,3
+241,sd-finfet,1,inkjet printing,3
+242,sces,1,displays,3
+243,analog,1,organic thin-film transistors,3
+244,rf and digital foms,1,electrothermal behavior,3
+245,design of experiments (doe),1,international,3
+246,finite-element method (fem),1,3d connectivity,3
+247,heterojunction,1,3d designs,3
+248,tunnel field effect transistor(tfet),1,fine-grained 3d integration,3
+249,graded channel,1,routability,3
+250,front gate stack,1,hysteresis,3
+251,metallization layout,1,metal oxide,3
+252,power multifinger,1,nonvolatile memory,3
+253,carbon nanotubes,1,gate all around (gaa),3
+254,3-d structure,1,poisson's equation,3
+255,3-d ics,1,subthreshold swing,3
+256,thiophene,1,monolayer mos2,3
+257,oligothiophenes,1,phonon scattering,3
+258,double annulations,1,strain engineering,3
+259,tetraiodothiophene,1,monte carlo,3
+260,active-matrix organic light-emitting diode (amoled),1,3-d ics,3
+261,low-temperature,1,thiophene,3
+262,channel stacked 3-d nand flash memory,1,oligothiophenes,3
+263,tied bit,1,double annulations,3
+264,nonequilibrium green's function (negf),1,tetraiodothiophene,3
+265,steep slope,1,film profile engineering (fpe),3
+266,transition metal,1,ingazno (igzo),3
+267,junctionless triple-gate,1,logic gate,3
+268,amorphous-indium-gallium-zinc-oxide (a-igzo),1,noise margin,3
+269,high-k,1,process variation,3
+270,film profile engineering (fpe),1,arsenic,3
+271,ingazno (igzo),1,molecular,3
+272,logic gate,1,trigate soi mosfet,3
+273,transistor-circuits,1,parabolic,3
+274,zno,1,through-silicon vias,3
+275,noise margin,1,stress,3
+276,process variation,1,three-dimensional displays,3
+277,monolithic 3-d ic (m3ic),1,furan,3
+278,3-d compact model,1,algan/gan,3
+279,triple-gate jlt,1,fin-type field-effect transistor (finfet),3
+280,nanowire jlt,1,oxidation technique,3
+281,sce,1,al2o3/gan mosfet,3
+282,fin height,1,cap layer,3
+283,three dimensional,1,sige het,3
+284,non-fourier,1,single event effects,3
+285,nanoscale heat transfer,1,extreme environment,3
+286,circuit,1,different,3
+287,arsenic,1,finite element method (fem),3
+288,molecular,1,static timing analysis,3
+289,2-d-2-d tunneling,1,through,3
+290,band-to-band tunneling (btbt),1,dram cell transistor,3
+291,density of states,1,recess gate,3
+292,brushless doubly fed induction generator (dfig),1,saddle-fin,3
+293,conduction losses,1,off margin,3
+294,trigate soi mosfet,1,bti,3
+295,parabolic,1,statistical variability,3
+296,through-silicon vias,1,statistical compact models,3
+297,stress,1,cross-section shapes,3
+298,three-dimensional displays,1,monte carlo simulations,3
+299,furan,1,2-d ultrathin bodies (utbs),3
+300,3-d cpu,1,ultralarge-scale integration,3
+301,codesign,1,wavy,3
+302,design space analysis,1,six-transistor (6-t) sram,3
+303,liquid cooling,1,variation,3
+304,injection experiment,1,location,3
+305,microwave pulses (mwps),1,open,3
+306,nonlinear and damage,1,parallel resistor,3
+307,intrinsic capacitances,1,3-d nand flash,3
+308,3-d devices and structures,1,grain boundary,3
+309,1.5-d sims,1,grain boundary traps,3
+310,scanning spreading resistance,1,poly si thin-film,3
+311,3-d noc,1,organic transistor,3
+312,fault tolerance,1,self-assembly monolayer,3
+313,deflection routing algorithm,1,3-d nand,3
+314,tsv,1,variability,3
+315,3-d integrated circuit,1,voronoi,3
+316,fin-shaped field-effect,1,analytical modeling,3
+317,"dithieno[3,2-b:2 ',3 '-d]furan",1,logic design,3
+318,fused heterocycle,1,low power,3
+319,electrophilic,1,monolithic,3
+320,magnetic random accessible memories (mrams),1,gan transistors,3
+321,spin torque transfer,1,parasitics,3
+322,algan/gan,1,point-of-load (pol) converter,3
+323,fin-type field-effect transistor (finfet),1,semiconductors,3
+324,oxidation technique,1,tunneling,3
+325,al2o3/gan mosfet,1,2-d poisson's equation,3
+326,cap layer,1,drain,3
+327,electrostatics,1,blocking,3
+328,nanowire transistors (nws),1,insulated-gate bipolar transistor (igbt),3
+329,performance,1,on state,3
+330,sige het,1,lateral gate,3
+331,single event effects,1,thickness effect,3
+332,extreme environment,1,tcad simulation,3
+333,different,1,capacitance extraction,3
+334,emerging nonvolatile memories (envm),1,process simulation,3
+335,field-programmable gate arrays,1,structure,3
+336,finite element method (fem),1,diarylethene,3
+337,static timing analysis,1,photochromism,3
+338,through,1,intramolecular excitation,3
+339,atlas,1,interconnects,3
+340,double gate,1,network-on-chips,3
+341,dual material gate (dmg),1,system-on-chips,3
+342,field-induced quantum confinement,1,3dic,3
+343,gate normal tunneling,1,electrothermal effects,3
+344,modulation,1,thermal management,3
+345,organic single crystal transistor,1,transient analysis,3
+346,solution process,1,gan transistor,3
+347,low voltage,1,normally-off,3
+348,canvas,1,power electronics,3
+349,vertical slit field-effect transistor,1,dissipation,3
+350,tunnel-fet,1,threshold voltage,3
+351,trench junctionless field-effect transistor (trench jl-fet),1,minimum length,3
+352,3-d ring oscillator,1,sensitivity,3
+353,through silicon,1,thin-film,3
+354,3-d simulation,1,electric field,3
+355,bias temperature instability (bti),1,random dopant placement (rdf),3
+356,defect-centric,1,v-th,3
+357,dram cell transistor,1,low-dimensional structures,3
+358,recess gate,1,quantum transport,3
+359,saddle-fin,1,cell transistor,3
+360,off margin,1,interface traps,3
+361,zno nwfet,1,current oscillation,3
+362,interface charge density,1,multiplegate mosfet,3
+363,through silicon via,1,coupled poisson-schrodinger equations,3
+364,noise,1,transistor scaling,3
+365,power high-electron mobility transistor,1,gainp/gaas,3
+366,bti,1,collector-up,3
+367,statistical variability,1,heterojunction bipolar transistor,3
+368,statistical compact models,1,high-power,3
+369,microprocessors,1,nonvolatile,3
+370,moore's law,1,poly-si tft,3
+371,3d ic,1,graphene field-effect transistor,3
+372,nanowire fet,1,thin-film transistors (tfts),3
+373,vertical fet,1,base resistance,3
+374,nem relay,1,hicum,3
+375,cross-section shapes,1,high-frequency circuit,3
+376,monte carlo simulations,1,3-d stresss simulation,3
+377,2-d ultrathin bodies (utbs),1,mos transistor,3
+378,ultralarge-scale integration,1,oxidation,3
+379,wavy,1,3-d architecture,3
+380,six-transistor (6-t) sram,1,bus,3
+381,variation,1,carbon nanotube (cnt),3
+382,sige-hbt modeling,1,nano-electromechanical,3
+383,temperature-dependent thermal,1,silicon-on-insulator,3
+384,nanopore structure,1,source and,3
+385,ionic field effect transistor (ifet),1,cmosfet,3
+386,3-d device,1,integrated circuit fabrication,3
+387,short-channel,1,laser annealing,3
+388,heterochannel mosfets,1,low-pressure,3
+389,interlayer coupling,1,ni-silicide,3
+390,3-d integrated circuits (ics),1,silicide whisker,3
+391,drivability,1,bipolar gain,3
+392,interface,1,double-gate transistor,3
+393,interconnect parasitic,1,finfet transistor,3
+394,3-dtv,1,gaa transistor,3
+395,luminance correction,1,bipolar amplification,3
+396,multiview image compression,1,gate-all-around transistor,3
+397,flash memory,1,heavy ions,3
+398,location,1,silicon photonics,3
+399,open,1,microcavity,3
+400,parallel resistor,1,nanophotonics,3
+401,3-d nand flash,1,monolithic integration,3
+402,grain boundary,1,3-dimensional structure,3
+403,grain boundary traps,1,convex corner,3
+404,poly si thin-film,1,micro-fluidic channel,3
+405,active-matrix liquid crystal displays (amlcds),1,cmosfet logic devices,3
+406,gate driver circuit,1,cmosfets,3
+407,organic transistor,1,mosfet logic devices,3
+408,self-assembly monolayer,1,{110} surface,3
+409,doping profile,1,three-dimensional,3
+410,interface states,1,heavy ion,3
+411,poly silicon,1,parasitic bipolar transistor,3
+412,charge,1,soi transistor,3
+413,traps,1,transient,3
+414,maximum transconductance,1,tft,3
+415,3-d nand,1,thin-film transistor,3
+416,variability,1,polysilicon,3
+417,voronoi,1,polycrystalline silicon,3
+418,avalanche breakdown,1,metal-induced lateral crystallization,3
+419,power semiconductor devices,1,metal induced lateral crystallization,3
+420,back end of line (beol) technology,1,thin-film transistors,3
+421,lab,1,bjt,3
+422,gate-all-around junctionless transistors gaajlt,1,dielectric isolation,3
+423,drain induced barrier,1,thermal resistance,3
+424,heterostructures,1,igbt,3
+425,fin-shaped channel,1,model,3
+426,power,1,on-state voltage,3
+427,junctionless nanowire mosfet,1,two-dimensional effects,3
+428,conformal mapping,1,organic field-effect transistor,2
+429,back-gate effect,1,finfets,2
+430,computer-aided design,1,hybrid 3-d floorplanner,2
+431,band to band tunneling,1,monolithic 3-d integrated circuits,2
+432,double gate (dg),1,imaging,2
+433,gated p plus -i-n plus diode,1,receivers,2
+434,gate-all-around,1,tomography,2
+435,gate-inside,1,addition-elimination reaction,2
+436,bipolar transistor (bjt),1,benzodithienothiophene,2
+437,high-frequency noise.,1,fluorescence,2
+438,"dithieno[3,2-b:2 ',3 '-d]pyrroles",1,n-channel organic thin-film transistors (otfts),2
+439,reduced band,1,ultra-thin,2
+440,logic design,1,flexible,2
+441,low power,1,electron mobility,2
+442,monolithic,1,bending stability,2
+443,iii-v compound semiconductor,1,biomedical applications,2
+444,line edge roughness (ler),1,c-reactive protein (crp),2
+445,device scaling,1,organic transistors,2
+446,gate leakage,1,charge-transfer complex,2
+447,quantum transport simulation,1,ambipolar transistor,2
+448,floating gate (fg) cell,1,optical images,2
+449,stacked horizontal,1,optical memory transistors,2
+450,converters,1,organic semiconductors,2
+451,discriminator,1,nanosheet (ns),2
+452,gan transistors,1,"dithieno[3,2-b:2 ',3 '-d] pyridine core",2
+453,parasitics,1,donor-acceptor,2
+454,point-of-load (pol) converter,1,band-to-band (btb) generation rate,2
+455,subthreshold swing (s),1,core-shell,2
+456,threshold voltage (v-th),1,deformation potential,2
+457,tunneling field-effect,1,"dithieno[3,2-b: 2",2
+458,microwave annealing (mwa),1,electrostatic discharge (esd),2
+459,rapid,1,ultra-high voltage (uhv),2
+460,semiconductors,1,human body,2
+461,tunneling,1,3-dtft architecture,2
+462,3-d trench transistor,1,amorphous silicon,2
+463,electron holography (eh),1,dual-gate thin-film transistor,2
+464,plasma doping (plad),1,3-d photoconductor,2
+465,single crystal microribbons,1,hydrogenated amorphous silicon,2
+466,2-d poisson's equation,1,infrared,2
+467,drain,1,power multifinger hemt,2
+468,blocking,1,metallization,2
+469,insulated-gate bipolar transistor (igbt),1,3d magnetic field sensor,2
+470,on state,1,hall magnetic field sensor,2
+471,gated resistor,1,mems technology,2
+472,gate-inside junctionless transistor (gi-jlt),1,nbti,2
+473,lateral gate,1,hardware trojan,2
+474,thickness effect,1,3-d monolithic,2
+475,tcad simulation,1,back bias,2
+476,vesfet,1,fully depleted - silicon on insulator,2
+477,soc,1,algaas/ingaas/gaas based phemts,2
+478,high-k dielectric,1,3-d mmics,2
+479,breakdown,1,multilayer fabrication,2
+480,metal gate,1,flexible printed circuits,2
+481,capacitance extraction,1,organic thin-film,2
+482,process simulation,1,atomic layer deposition,2
+483,structure,1,nano-scaled transistor,2
+484,atlas-3-d,1,nisi2 migration,2
+485,biosensor,1,poly-silicon channel,2
+486,dielectric-modulated field-effect transistor (fet),1,design of experiments (doe),2
+487,drain current model,1,finite-element method (fem),2
+488,bicmos technology,1,heterojunction,2
+489,charge sharing,1,tunnel field effect transistor(tfet),2
+490,fully depleted collector,1,graded channel,2
+491,low temperature process,1,front gate stack,2
+492,molecular bonding,1,metallization layout,2
+493,solid phase epitaxy,1,power multifinger,2
+494,3-d simulator,1,carbon nanotubes,2
+495,laser crystallization,1,3-d structure,2
+496,polycrystalline-silicon (poly-si),1,channel stacked 3-d nand flash memory,2
+497,diarylethene,1,tied bit,2
+498,photochromism,1,nonequilibrium green's function (negf),2
+499,intramolecular excitation,1,steep slope,2
+500,high-order sources,1,transition metal,2
+501,inconsistency between rf and dc current,1,junctionless triple-gate,2
+502,integration,1,amorphous-indium-gallium-zinc-oxide (a-igzo),2
+503,"dithieno[2,3-d, 2 ',3 ' d ']benzo[1,2-b, 4,5-b ']dithiophene",1,high-k,2
+504,sensors,1,transistor-circuits,2
+505,tfts,1,zno,2
+506,roadmap,1,monolithic 3-d ic (m3ic),2
+507,polysilicon (poly-si),1,2-d-2-d tunneling,2
+508,interconnects,1,band-to-band tunneling (btbt),2
+509,network-on-chips,1,density of states,2
+510,system-on-chips,1,injection experiment,2
+511,memory on logic,1,microwave pulses (mwps),2
+512,network-on-chip (noc),1,nonlinear and damage,2
+513,vertical slit field effect,1,junctionless nanowire transistors (jnts),2
+514,3dic,1,3-d devices and structures,2
+515,electrothermal effects,1,1.5-d sims,2
+516,thermal management,1,scanning spreading resistance,2
+517,transient analysis,1,3-d integrated circuit,2
+518,gan transistor,1,high-electron mobility transistor (hemt),2
+519,normally-off,1,"dithieno[3,2-b:2 ',3 '-d]furan",2
+520,power electronics,1,fused heterocycle,2
+521,dissipation,1,electrophilic,2
+522,potential distribution,1,magnetic random accessible memories (mrams),2
+523,soi technology,1,spin torque transfer,2
+524,threshold voltage,1,field-induced quantum confinement,2
+525,minimum length,1,gate normal tunneling,2
+526,sensitivity,1,modulation,2
+527,direct-conversion receiver (dcr),1,organic single crystal transistor,2
+528,polyphase filter (ppf),1,solution process,2
+529,symmetric 3-d,1,low voltage,2
+530,microribbon,1,3-d ring oscillator,2
+531,organic electronics,1,through silicon,2
+532,field-effect transistor,1,3-d simulation,2
+533,dithienopyrrole,1,bias temperature instability (bti),2
+534,contact resistive ram (cr-ram),1,defect-centric,2
+535,current bias method,1,zno nwfet,2
+536,high resistance,1,interface charge density,2
+537,analog operation,1,sige-hbt modeling,2
+538,junctionless (jl) transistor,1,temperature-dependent thermal,2
+539,multiple gate,1,nanopore structure,2
+540,metal-oxide-semiconductor field-effect,1,ionic field effect transistor (ifet),2
+541,density-gradient,1,3-d device,2
+542,metal-oxide-semiconductor (mos) devices,1,short-channel,2
+543,atomistic,1,heterochannel mosfets,2
+544,full-band simulations,1,interlayer coupling,2
+545,interface roughness scattering (irs),1,3-d integrated circuits (ics),2
+546,metaloxide-semiconductor,1,3-dtv,2
+547,device,1,luminance correction,2
+548,dopant,1,multiview image compression,2
+549,process,1,flash memory,2
+550,germanium,1,charge,2
+551,metal-induced crystallization (mic),1,traps,2
+552,metal-induced dopant,1,maximum transconductance,2
+553,high-dielectric-constant dielectric,1,avalanche breakdown,2
+554,polycrystalline,1,power semiconductor devices,2
+555,thin-film,1,back end of line (beol) technology,2
+556,electric field,1,lab,2
+557,random dopant placement (rdf),1,junctionless nanowire mosfet,2
+558,v-th,1,conformal mapping,2
+559,low-dimensional structures,1,back-gate effect,2
+560,quantum transport,1,computer-aided design,2
+561,cell transistor,1,band to band tunneling,2
+562,interface traps,1,double gate (dg),2
+563,tft modeling,1,gated p plus -i-n plus diode,2
+564,application-specific integrated circuit (asic),1,gate-all-around,2
+565,cost,1,gate-inside,2
+566,biaxial strain,1,bipolar transistor (bjt),2
+567,distortion,1,high-frequency noise.,2
+568,mixed mode,1,"dithieno[3,2-b:2 ',3 '-d]pyrroles",2
+569,nuclear and space radiation effects,1,reduced band,2
+570,radiation hardening,1,iii-v compound semiconductor,2
+571,channel traps,1,line edge roughness (ler),2
+572,single-transistor (1t) random access memory,1,device scaling,2
+573,ion-selective field-effect transistors (isfets),1,gate leakage,2
+574,nanoporous,1,quantum transport simulation,2
+575,ph,1,floating gate (fg) cell,2
+576,forward drop,1,stacked horizontal,2
+577,negative differential resistance (ndr),1,converters,2
+578,current oscillation,1,discriminator,2
+579,multiplegate mosfet,1,subthreshold swing (s),2
+580,coupled poisson-schrodinger equations,1,threshold voltage (v-th),2
+581,transistor scaling,1,tunneling field-effect,2
+582,laser-material-processing applications,1,microwave annealing (mwa),2
+583,layout optimization,1,rapid,2
+584,nonrectangular transistor,1,3-d trench transistor,2
+585,ring-oscillator,1,electron holography (eh),2
+586,gainp/gaas,1,plasma doping (plad),2
+587,collector-up,1,single crystal microribbons,2
+588,heterojunction bipolar transistor,1,atlas-3-d,2
+589,high-power,1,biosensor,2
+590,cmos image sensors (ciss),1,dielectric-modulated field-effect transistor (fet),2
+591,fully depleted silicon-on-insulator (fdsoi),1,bicmos technology,2
+592,metal-oxide-semiconductor field-effect transistor (mosfet),1,charge sharing,2
+593,multigate,1,fully depleted collector,2
+594,nonvolatile,1,low temperature process,2
+595,poly-si tft,1,molecular bonding,2
+596,device fabrication,1,solid phase epitaxy,2
+597,inp heterojunction bipolar,1,3-d simulator,2
+598,carbon nanotube (cnt) transistors,1,laser crystallization,2
+599,field-effect transistors (fets),1,polycrystalline-silicon (poly-si),2
+600,discrete dopants,1,high-order sources,2
+601,nonequilibrium green's function,1,inconsistency between rf and dc current,2
+602,channel resistance,1,integration,2
+603,heat dissipation,1,polysilicon (poly-si),2
+604,ruggedness,1,memory on logic,2
+605,silicon on,1,network-on-chip (noc),2
+606,active matrix liquid crystal display,1,vertical slit field effect,2
+607,electrical erasable prom (eeprom),1,potential distribution,2
+608,graphene field-effect transistor,1,soi technology,2
+609,dispersion,1,direct-conversion receiver (dcr),2
+610,tight binding,1,polyphase filter (ppf),2
+611,ballistic transport,1,symmetric 3-d,2
+612,thin-film transistors (tfts),1,microribbon,2
+613,base resistance,1,organic electronics,2
+614,hicum,1,field-effect transistor,2
+615,high-frequency circuit,1,dithienopyrrole,2
+616,gallium-indium-zinc-oxide (gizo),1,contact resistive ram (cr-ram),2
+617,thin film,1,current bias method,2
+618,transistor (tft),1,high resistance,2
+619,focused ion beam (fib),1,analog operation,2
+620,micromachining,1,junctionless (jl) transistor,2
+621,nanostructure,1,multiple gate,2
+622,mems,1,metal-oxide-semiconductor field-effect,2
+623,3-d stacked,1,density-gradient,2
+624,cmos inverter,1,metal-oxide-semiconductor (mos) devices,2
+625,vertical integration,1,atomistic,2
+626,hfo2,1,full-band simulations,2
+627,pt gate,1,interface roughness scattering (irs),2
+628,3-d stresss simulation,1,metaloxide-semiconductor,2
+629,mos transistor,1,germanium,2
+630,oxidation,1,metal-induced crystallization (mic),2
+631,3-d architecture,1,metal-induced dopant,2
+632,bus,1,high-dielectric-constant dielectric,2
+633,carbon nanotube (cnt),1,polycrystalline,2
+634,nano-electromechanical,1,application-specific integrated circuit (asic),2
+635,nonequilibrium green function (negf),1,cost,2
+636,stray charges,1,biaxial strain,2
+637,atomistic tight-binding hamiltonian,1,distortion,2
+638,nanoribbon,1,mixed mode,2
+639,avalanche multiplication,1,nuclear and space radiation effects,2
+640,base current reversal (bcr),1,radiation hardening,2
+641,cmosfet circuits,1,channel traps,2
+642,metal-insulator-semiconductor (mis) devices,1,single-transistor (1t) random access memory,2
+643,silicon-on-insulator,1,ion-selective field-effect transistors (isfets),2
+644,source and,1,nanoporous,2
+645,cmosfet,1,ph,2
+646,integrated circuit fabrication,1,layout optimization,2
+647,laser annealing,1,nonrectangular transistor,2
+648,low-pressure,1,ring-oscillator,2
+649,metal-oxide-semiconductor field effect transistor,1,device fabrication,2
+650,field-programmable gate arrays (fpgas),1,inp heterojunction bipolar,2
+651,monolithically stacked,1,discrete dopants,2
+652,ni-silicide,1,nonequilibrium green's function,2
+653,silicide whisker,1,gallium-indium-zinc-oxide (gizo),2
+654,algan/gan modfet,1,thin film,2
+655,small geometry,1,transistor (tft),2
+656,short channel effects,1,nonequilibrium green function (negf),2
+657,bipolar gain,1,stray charges,2
+658,double-gate transistor,1,atomistic tight-binding hamiltonian,2
+659,finfet transistor,1,nanoribbon,2
+660,gaa transistor,1,avalanche multiplication,2
+661,bipolar amplification,1,base current reversal (bcr),2
+662,gate-all-around transistor,1,cmosfet circuits,2
+663,heavy ions,1,metal-insulator-semiconductor (mis) devices,2
+664,subthreshold,1,algan/gan modfet,2
+665,silicon photonics,1,small geometry,2
+666,microcavity,1,short channel effects,2
+667,nanophotonics,1,subthreshold,2
+668,monolithic integration,1,poisson/schrodinger,2
+669,ground plane,1,silicon-on-insulator (soi) technology,2
+670,isolation technology,1,single,2
+671,mixed-signal,1,impurity-enhanced oxidation,2
+672,poisson/schrodinger,1,three-dimensional structure,2
+673,silicon-on-insulator (soi) technology,1,3-d mosfet,2
+674,single,1,si micro-fluidic channel,2
+675,impurity-enhanced oxidation,1,schwartz-christoffel,2
+676,three-dimensional structure,1,{110} silicon substrate,2
+677,3-d mosfet,1,electromagnetic (em) analysis,2
+678,si micro-fluidic channel,1,linear circuits,2
+679,schwartz-christoffel,1,method of moments (mom),2
+680,{110} silicon substrate,1,fluctuations,2
+681,electromagnetic (em) analysis,1,mixed-signal integrated circuits,2
+682,linear circuits,1,lateral solid phase epitaxy (lspe),2
+683,method of moments (mom),1,selective epitaxial growth,2
+684,diffusion,1,impact ionization,2
+685,drift,1,dram's,2
+686,medici,1,inverse-narrow-channel effect,2
+687,seu,1,metallic shield-embedded-sti,2
+688,spice,1,design automation,2
+689,fluctuations,1,electromagnetic modeling,2
+690,3-dimensional structure,1,electron microscopy,2
+691,convex corner,1,polycyclic aromatic compounds,1
+692,micro-fluidic channel,1,junctionless field-effect transistor (jlfet),1
+693,cmosfet logic devices,1,silicon nanowire field effect transistor (sin-wfet),1
+694,cmosfets,1,hybrid process,1
+695,mosfet logic devices,1,v-ce(sat) - e-off tradeoff,1
+696,{110} surface,1,coupled electron and phonon monte carlo (mc) simulation,1
+697,three-dimensional,1,fin-shaped,1
+698,mixed-signal integrated circuits,1,high power insulated-gate bipolar transistors (igbts),1
+699,lateral solid phase epitaxy (lspe),1,short-circuit,1
+700,selective epitaxial growth,1,linear energy transfer (let) value,1
+701,heavy ion,1,drain-induced barrier lowering (dibl),1
+702,parasitic bipolar transistor,1,junctionless field-effect,1
+703,soi transistor,1,equivalent circuit parameters (ecps),1
+704,transient,1,large-signals parameters,1
+705,lspe,1,active-matrix organic light-emitting diode (amoled),1
+706,seg,1,low-temperature,1
+707,three-dimensional (3-d),1,brushless doubly fed induction generator (dfig),1
+708,ulsi,1,conduction losses,1
+709,vlsi,1,intrinsic capacitances,1
+710,tft,1,fin-shaped field-effect,1
+711,thin-film transistor,1,emerging nonvolatile memories (envm),1
+712,polysilicon,1,field-programmable gate arrays,1
+713,polycrystalline silicon,1,tunnel-fet,1
+714,2-d noise,1,trench junctionless field-effect transistor (trench jl-fet),1
+715,cmos rf,1,power high-electron mobility transistor,1
+716,four noise parameters,1,active-matrix liquid crystal displays (amlcds),1
+717,high frequency noise,1,gate driver circuit,1
+718,metal-induced lateral crystallization,1,gate-all-around junctionless transistors gaajlt,1
+719,impact ionization,1,drain induced barrier,1
+720,metal induced lateral crystallization,1,gated resistor,1
+721,thin-film transistors,1,gate-inside junctionless transistor (gi-jlt),1
+722,pseudo-lattice,1,drain current model,1
+723,dynamic,1,forward drop,1
+724,liquid-crystal,1,negative differential resistance (ndr),1
+725,director,1,laser-material-processing applications,1
+726,bjt,1,cmos image sensors (ciss),1
+727,dielectric isolation,1,fully depleted silicon-on-insulator (fdsoi),1
+728,thermal resistance,1,metal-oxide-semiconductor field-effect transistor (mosfet),1
+729,dram's,1,multigate,1
+730,inverse-narrow-channel effect,1,carbon nanotube (cnt) transistors,1
+731,metallic shield-embedded-sti,1,field-effect transistors (fets),1
+732,design automation,1,active matrix liquid crystal display,1
+733,electromagnetic modeling,1,electrical erasable prom (eeprom),1
+734,electron microscopy,1,metal-oxide-semiconductor field effect transistor,1
+735,igbt,1,field-programmable gate arrays (fpgas),1
+736,model,1,monolithically stacked,1
+737,on-state voltage,1,,
+738,two-dimensional effects,1,,

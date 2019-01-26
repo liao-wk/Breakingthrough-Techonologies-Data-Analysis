@@ -1,0 +1,246 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,microgrids,18,microgrid,68
+1,microgrid,18,microgrids,58
+2,renewable energy,12,renewable energy,42
+3,solar energy,8,solar energy,26
+4,distributed generation,7,solar,22
+5,rural electrification,6,rural electrification,20
+6,solar,6,distributed generation,19
+7,power,5,energy storage,18
+8,energy storage,5,power,16
+9,photovoltaic,4,photovoltaic,15
+10,rural,4,rural,15
+11,distributed power generation,3,solar pv,12
+12,dc microgrids,3,smart grid,11
+13,solar pv,3,wind energy,11
+14,smart grid,3,energy efficiency,9
+15,energy efficiency,3,load flow control,9
+16,wind energy,3,networks,9
+17,load flow control,3,network operating systems,9
+18,networks,3,resilience,8
+19,network operating systems,3,dc,8
+20,solar power,2,optimization,8
+21,resilience,2,solar power,7
+22,dc microgrid,2,distributed power generation,7
+23,solar home system,2,dc microgrid,7
+24,battery,2,dc microgrids,7
+25,clear sky irradiance (csi),2,hybrid microgrid,7
+26,dc,2,optimal scheduling,7
+27,hybrid microgrid,2,hybrid power systems,7
+28,optimal scheduling,2,hybrid,7
+29,hybrid power systems,2,solar home system,6
+30,hybrid,2,battery,6
+31,optimization,2,grid parity,5
+32,power system dispatch,1,stand-alone,5
+33,wind generator (wg),1,economics,5
+34,kinetic energy (ke),1,lcoe,5
+35,building microgrids,1,system modeling,5
+36,joint-operation,1,energy,5
+37,event-based optimization,1,efficient utilization,5
+38,microgrid networks,1,microgrid networks,4
+39,multi-agent,1,multi-agent,4
+40,power trading,1,power trading,4
+41,transactive,1,transactive,4
+42,grid parity,1,renewable integration,4
+43,stand-alone,1,prosumers,4
+44,economics,1,distributed,4
+45,lcoe,1,reliability,4
+46,system modeling,1,choice,4
+47,irradiance monitoring network,1,national security,4
+48,wireless sensor network,1,defense,4
+49,very short-term,1,shs,4
+50,energy policy,1,hydrogen,4
+51,decentralised,1,experimental setup,4
+52,renewable integration,1,stand-alone power,4
+53,prosumers,1,clear sky irradiance (csi),4
+54,distributed,1,flow battery,4
+55,newton-raphson method,1,mini-grid,4
+56,rural-electrification,1,technical standards,4
+57,dcgrids,1,energy balance,4
+58,electric springs (ess),1,smart microgrid,4
+59,photovoltaic (pv) system,1,battery capacity,4
+60,networked microgrids,1,grid-lite,4
+61,distributed energy resources,1,monitoring system,4
+62,alternating,1,sensors,4
+63,dish-stirling system,1,anchor customers,4
+64,frequency control,1,load factor,4
+65,fixed-speed induction,1,efficiency,4
+66,reliability,1,energy kiosk,4
+67,choice,1,control engineering,4
+68,maximum power point trackers,1,desalination,4
+69,invertors,1,economic analysis,4
+70,solar photovoltaic systems,1,npw,4
+71,predictive modeling,1,irr,4
+72,isolated microgrids,1,prediction algorithms,4
+73,genetic algorithms,1,regression trees,4
+74,stochastic optimization,1,smart,4
+75,photovoltaics,1,ramping,4
+76,fluctuations,1,uncertainty,4
+77,jump-diffusion equation,1,smart load,4
+78,distribution grid,1,pv system,4
+79,national security,1,electric springs,4
+80,defense,1,storage reduction,4
+81,shs,1,dc grids,4
+82,hydrogen,1,finance,4
+83,experimental setup,1,photovoltaic systems,4
+84,stand-alone power,1,sustainable,4
+85,fourier basis expansion,1,income generation,4
+86,global horizontal,1,inverter,4
+87,flow battery,1,agent,4
+88,microgrid design,1,control,4
+89,design optimization,1,pv systems,4
+90,battery storage,1,demand response,4
+91,mini-grid,1,cost of energy,4
+92,technical standards,1,game theory,4
+93,power distribution,1,real-time pricing,4
+94,microgrid optimal scheduling,1,smart grids,4
+95,generation variability,1,scheduling,4
+96,energy balance,1,milp,4
+97,smart microgrid,1,optimal control,4
+98,battery capacity,1,power microgrids,4
+99,grid-lite,1,storage system,4
+100,isolated boost converter,1,lqg,4
+101,active network management,1,energy policy,3
+102,congestion management,1,decentralised,3
+103,distributed energy,1,dcgrids,3
+104,monitoring system,1,electric springs (ess),3
+105,sensors,1,photovoltaic (pv) system,3
+106,commercial small business solar microgrids,1,photovoltaics,3
+107,linear and nonlinear,1,fluctuations,3
+108,anchor customers,1,jump-diffusion equation,3
+109,load factor,1,distribution grid,3
+110,photovoltaic generation,1,microgrid design,3
+111,battery banks,1,design optimization,3
+112,particle swarm,1,battery storage,3
+113,energy management,1,power distribution,3
+114,bangladesh,1,isolated boost converter,3
+115,solar microgrids,1,photovoltaic generation,3
+116,readymade garments,1,battery banks,3
+117,battery energy storage system,1,particle swarm,3
+118,decentralized controller,1,energy management,3
+119,life cycle assessment,1,bangladesh,3
+120,greenhouse gas,1,solar microgrids,3
+121,efficiency,1,readymade garments,3
+122,energy kiosk,1,life cycle assessment,3
+123,computer simulation,1,greenhouse gas,3
+124,cogeneration,1,grid resilience,3
+125,fourier basis function,1,elman neural network,3
+126,markov switching,1,thermal load,3
+127,grid resilience,1,wavelet neural network,3
+128,control engineering,1,cloud model,3
+129,desalination,1,pv-ess microgrids,3
+130,droop control,1,hierarchical control,3
+131,soc,1,coordinated control,3
+132,energy,1,islanded,3
+133,efficient utilization,1,duck curve,3
+134,elman neural network,1,grid-connected operation,3
+135,thermal load,1,energy from waste,3
+136,wavelet neural network,1,energy consumption,3
+137,cloud model,1,reliability evaluation,3
+138,economic analysis,1,renewable,3
+139,npw,1,microconverter,3
+140,irr,1,pv,3
+141,pv-ess microgrids,1,pv string,3
+142,hierarchical control,1,economic factors,3
+143,coordinated control,1,levelised cost of electricity,3
+144,islanded,1,photo-voltaic,3
+145,prediction algorithms,1,hybrid energy storage system,3
+146,regression trees,1,super-capacitor,3
+147,smart,1,state of,3
+148,duck curve,1,forecasting,3
+149,grid-connected operation,1,prediction,3
+150,energy from waste,1,alternative energy,3
+151,ramping,1,autonomous systems,3
+152,uncertainty,1,bank of batteries,3
+153,collaborating microgrids,1,dc-dc,3
+154,peer-to-peer,1,microgrid testbed,3
+155,multi-agent system,1,smart pricing,3
+156,management,1,rural electrification projects,3
+157,smart load,1,off-grid generation,3
+158,pv system,1,wind,3
+159,electric springs,1,energy modeling,3
+160,storage reduction,1,battery energy storage,3
+161,dc grids,1,sizing optimal design,3
+162,energy consumption,1,modified,3
+163,finance,1,scenario generation,3
+164,photovoltaic systems,1,daily pattern,3
+165,sustainable,1,clustering,3
+166,income generation,1,energy storage system,3
+167,adaptive microgrids,1,renewable generation,3
+168,microgrid boundaries,1,availability,3
+169,renewable resource modeling,1,markov,3
+170,small modular reactor (smr),1,reliability assessment,3
+171,distributed energy resources (der),1,capacity factor,3
+172,rural electrification with renewable energies,1,multi-microgrids,3
+173,resource,1,ancillary services,3
+174,occupancy-based zone-climate control,1,primary frequency,3
+175,thermal,1,power system dispatch,2
+176,energy access,1,wind generator (wg),2
+177,power management unit,1,kinetic energy (ke),2
+178,reliability evaluation,1,building microgrids,2
+179,renewable,1,joint-operation,2
+180,microconverter,1,event-based optimization,2
+181,pv,1,irradiance monitoring network,2
+182,pv string,1,wireless sensor network,2
+183,economic factors,1,very short-term,2
+184,levelised cost of electricity,1,newton-raphson method,2
+185,series resonant converter,1,rural-electrification,2
+186,pulse width modulation,1,networked microgrids,2
+187,topology morphing,1,distributed energy resources,2
+188,photo-voltaic,1,alternating,2
+189,hybrid energy storage system,1,dish-stirling system,2
+190,super-capacitor,1,frequency control,2
+191,state of,1,fixed-speed induction,2
+192,inverter,1,maximum power point trackers,2
+193,agent,1,invertors,2
+194,control,1,solar photovoltaic systems,2
+195,pv systems,1,predictive modeling,2
+196,forecasting,1,isolated microgrids,2
+197,prediction,1,genetic algorithms,2
+198,alternative energy,1,stochastic optimization,2
+199,autonomous systems,1,fourier basis expansion,2
+200,bank of batteries,1,global horizontal,2
+201,dc-dc,1,microgrid optimal scheduling,2
+202,demand response,1,generation variability,2
+203,cost of energy,1,active network management,2
+204,microgrid testbed,1,congestion management,2
+205,smart pricing,1,distributed energy,2
+206,rural electrification projects,1,battery energy storage system,2
+207,off-grid generation,1,decentralized controller,2
+208,wind,1,computer simulation,2
+209,game theory,1,cogeneration,2
+210,real-time pricing,1,fourier basis function,2
+211,smart grids,1,markov switching,2
+212,energy modeling,1,droop control,2
+213,battery energy storage,1,soc,2
+214,sizing optimal design,1,collaborating microgrids,2
+215,modified,1,peer-to-peer,2
+216,scenario generation,1,multi-agent system,2
+217,daily pattern,1,adaptive microgrids,2
+218,clustering,1,microgrid boundaries,2
+219,energy storage system,1,renewable resource modeling,2
+220,closed-loop droop control,1,rural electrification with renewable energies,2
+221,hierarchical power management strategy,1,resource,2
+222,renewable generation,1,occupancy-based zone-climate control,2
+223,double-fed induction generator (dfig),1,thermal,2
+224,dynamic behaviour,1,energy access,2
+225,frequency,1,power management unit,2
+226,availability,1,series resonant converter,2
+227,markov,1,pulse width modulation,2
+228,solar neighborhood,1,topology morphing,2
+229,bi-directional dc/dc converter,1,double-fed induction generator (dfig),2
+230,reliability assessment,1,dynamic behaviour,2
+231,capacity factor,1,frequency,2
+232,geographic information systems,1,solar neighborhood,2
+233,bipv,1,bi-directional dc/dc converter,2
+234,urban energy consumption,1,geographic information systems,2
+235,scheduling,1,bipv,2
+236,milp,1,urban energy consumption,2
+237,optimal control,1,renewable energy technologies,2
+238,power microgrids,1,commercial small business solar microgrids,1
+239,storage system,1,linear and nonlinear,1
+240,lqg,1,small modular reactor (smr),1
+241,renewable energy technologies,1,distributed energy resources (der),1
+242,multi-microgrids,1,closed-loop droop control,1
+243,ancillary services,1,hierarchical power management strategy,1
+244,primary frequency,1,,

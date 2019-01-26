@@ -1,0 +1,492 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,fast fourier transform,38,fast fourier transform,84
+1,fast fourier transform (fft),19,algorithms,59
+2,algorithms,15,design,43
+3,fast,13,performance,43
+4,discrete fourier transform,11,fast,39
+5,design,10,theory,38
+6,performance,10,fast fourier transform (fft),34
+7,fast fourier transforms,9,wireless,32
+8,theory,9,fft,22
+9,fourier transform,8,discrete fourier transform,22
+10,fft,7,fast fourier transforms,19
+11,discrete fourier transform (dft),7,fourier transform,19
+12,wireless,7,network coding,19
+13,fast fourier,6,fourier,15
+14,fourier,5,discrete fourier transform (dft),14
+15,fractional fourier transform,4,fast fourier,12
+16,discrete fourier transforms,4,algorithm,12
+17,network coding,4,discrete fourier transforms,11
+18,discrete fourier,3,signal processing,8
+19,signal processing,3,hankel transform,8
+20,sampling,3,matrix,8
+21,discrete,3,sampling,7
+22,quantum fourier transform,3,fractional fourier transform,7
+23,hankel transform,3,seeing through walls,7
+24,fast algorithm,3,fast algorithm,7
+25,linear canonical transform,3,spherical harmonics,7
+26,algorithm,3,discrete fourier,6
+27,spherical fourier transform,3,discrete,6
+28,fast algorithms,3,ofdm,6
+29,spherical harmonics,3,quantum fourier transform,6
+30,sparse fourier transform,2,inverse semigroup,6
+31,graph signal processing,2,spectral methods,6
+32,chebyshev,2,fourier series,6
+33,nonuniform fourier transform,2,linear canonical transform,6
+34,ofdm,2,spherical fourier transform,6
+35,hilbert-huang transform,2,fast algorithms,6
+36,trigonometric approximation,2,nonequispaced fft,6
+37,convolution,2,numerical,6
+38,antenna array,2,chebyshev,5
+39,cyclotomic fast fourier,2,trigonometric approximation,5
+40,compressed sensing,2,convolution,5
+41,continuous flow,2,compressed sensing,5
+42,discrete wavelet transform,2,phase retrieval,5
+43,inverse semigroup,2,backscatter,5
+44,seeing through walls,2,reid,5
+45,spectral methods,2,security,5
+46,fourier series,2,full-duplex,5
+47,phase retrieval,2,implanted,5
+48,asymmetric digital subscriber lines (adsl),2,sparse matrices,5
+49,quadrature,2,transform,5
+50,sparse matrices,2,fourier-bessel,5
+51,matrix,2,special functions,5
+52,permutation factor circulant matrices,2,hidden terminals,5
+53,fast fourier transform(fft),2,boltzmann equation,5
+54,electromagnetic scattering,2,fast multipole method,5
+55,nonequispaced fft,2,texcp,5
+56,numerical,2,traffic engineering,5
+57,boltzmann equation,2,responsive,5
+58,linear,2,online,5
+59,fast multipole method,2,distributed,5
+60,discrete cosine transform (dct),2,stable,5
+61,digital signal processing,2,aliasing,5
+62,genetic algorithm (ga),2,analysis,5
+63,rf filter,1,analytical,5
+64,lithium niobate,1,approximation,5
+65,partial fourier transform,1,boundary,5
+66,greedy algorithms,1,microphthalmia,5
+67,compact fft architectures,1,c-kit,5
+68,high-throughput fft,1,steel factor,5
+69,exponential radon transform,1,mapk,5
+70,fast laplace transform,1,p90 rsk,5
+71,incomplete data,1,ubiquitin,5
+72,opal-ct,1,sparse fourier transform,4
+73,binary systems,1,graph signal processing,4
+74,bidisperse arrangement,1,image processing,4
+75,conjugate gradient methods,1,fftw3,4
+76,quadratic phase,1,intel,4
+77,fast physical optics,1,antenna array,4
+78,nonequispaced,1,continuous flow,4
+79,low rank matrices,1,discrete wavelet transform,4
+80,correlation option,1,vital signs,4
+81,stochastic interest rate,1,breathing,4
+82,regime-switching,1,smart homes,4
+83,forward,1,light fields,4
+84,sparse fast fourier transform (sfft),1,computational photography,4
+85,clifford fourier transform (cft),1,quadrature,4
+86,gpe,1,interference alignment,4
+87,fourier series evaluation,1,electromagnetic scattering,4
+88,time-splitting,1,finite fourier transform,4
+89,nfft,1,laplace transform,4
+90,image processing,1,spectral theory,4
+91,fftw3,1,svd,4
+92,intel,1,linear,4
+93,vertex-frequency analysis,1,libor model,4
+94,windowed graph,1,stochastic volatility,4
+95,dit,1,square-root process,4
+96,papr reduction,1,swaptions,4
+97,complex hadamard matrix,1,wireless networks,4
+98,hadamard transform,1,sketching,4
+99,spontaneous pupillary oscillation,1,dimensionality reduction,4
+100,nonharmonic fourier series,1,embeddings,4
+101,fourier extension,1,digital signal processing,4
+102,fredholm,1,wind waves,4
+103,nonuniform fft,1,wave simulation,4
+104,adaptive fmms,1,wave analysis,4
+105,constant q transforms,1,fast hartley transform,4
+106,periodization,1,genetic algorithm (ga),4
+107,nonuniform fast fourier transform (nu-fft),1,data mining,4
+108,computer-generated hologram,1,association rules,4
+109,spherical harmonic transform,1,similarity metric,4
+110,3d display,1,min hashing,4
+111,asynchronous,1,locality,4
+112,null convention logic,1,multi-dimension,4
+113,ncl,1,radix-2,4
+114,common subexpression elimination (cse),1,risc,4
+115,discrete legendre transform,1,vector super computer,4
+116,legendre polynomials,1,partial fourier transform,3
+117,micromagnetics simulation,1,opal-ct,3
+118,hybrid,1,binary systems,3
+119,feedforward,1,bidisperse arrangement,3
+120,pipelined architecture,1,quadratic phase,3
+121,microprocessor chips,1,fast physical optics,3
+122,processor scheduling,1,nonequispaced,3
+123,symmetric group,1,low rank matrices,3
+124,vector finite element method,1,correlation option,3
+125,three-dimensional modeling,1,stochastic interest rate,3
+126,butterfly of cooley-tukey algorithm,1,regime-switching,3
+127,graphs signal processing,1,forward,3
+128,matrix factorization,1,nonuniform fourier transform,3
+129,computational displays,1,gpe,3
+130,computational illumination,1,fourier series evaluation,3
+131,long term evolution,1,time-splitting,3
+132,channel estimation,1,nfft,3
+133,iterative methods,1,papr reduction,3
+134,reduced dimensionality,1,complex hadamard matrix,3
+135,non uniform sampling,1,hadamard transform,3
+136,optical chirp z-transform (oczt),1,hilbert-huang transform,3
+137,optical discrete fourier transform,1,fourier extension,3
+138,3d,1,fredholm,3
+139,conformal fourier transform,1,nonuniform fft,3
+140,discontinuous functions,1,adaptive fmms,3
+141,nonuniform,1,constant q transforms,3
+142,decode and forward communication,1,periodization,3
+143,relay networks (telecommunication),1,asynchronous,3
+144,ieee 754 single precision format,1,null convention logic,3
+145,complex addition,1,ncl,3
+146,complex,1,long term evolution,3
+147,inverse fast fourier transform (ifft),1,channel estimation,3
+148,memory-addressing scheme,1,iterative methods,3
+149,common sub expression elimination (cse),1,reduced dimensionality,3
+150,parallel computations,1,non uniform sampling,3
+151,general purpose gpu,1,3d,3
+152,cyclotomic decomposition fourier transform,1,conformal fourier transform,3
+153,galois field (finite field),1,discontinuous functions,3
+154,application specific integrated circuit,1,nonuniform,3
+155,complex number multiplication,1,bessel functions,3
+156,winding deformation,1,asymptotic expansions,3
+157,impulse frequency response analysis,1,rook monoid,3
+158,optical character recognition,1,wreath product,3
+159,skew angle,1,rfid,3
+160,bessel functions,1,localization,3
+161,asymptotic expansions,1,sar,3
+162,rook monoid,1,dtw,3
+163,wreath product,1,mimo,3
+164,vital signs,1,gesture-based user interface,3
+165,breathing,1,wavelets,3
+166,smart homes,1,lattices,3
+167,light fields,1,multivariate fast fourier transform,3
+168,computational photography,1,periodic,3
+169,ultrasonic guided wave (ugw),1,gegenbauer polynomials,3
+170,wave mode identification,1,gegenbauer,3
+171,sampling rate,1,levy process,3
+172,phase difference,1,bermudan option,3
+173,measurement accuracy,1,early exercise boundary,3
+174,nonuniform fast fourier transform (nufft),1,optimal,3
+175,galois field,1,kronecker,3
+176,cyclotomic decomposition,1,sparse matrix,3
+177,parallel computing,1,walsh,3
+178,rfid,1,representation theory,3
+179,localization,1,rook,3
+180,sar,1,compressive sensing,3
+181,dtw,1,expanders,3
+182,mimo,1,sparse recovery,3
+183,gesture-based user interface,1,reinsurance,3
+184,hermitian symmetric,1,catastrophe bonds,3
+185,general,1,risk neutral valuation,3
+186,wavelets,1,securitisation,3
+187,lattices,1,computational methods,3
+188,multivariate fast fourier transform,1,sparsity,3
+189,periodic,1,nonlinear,3
+190,non-stationary sinusoid synthesis,1,documentation,3
+191,sampling and interpolation,1,fourier transforms,3
+192,gegenbauer polynomials,1,signal,3
+193,gegenbauer,1,nonequispaced data,3
+194,fourier analysis,1,particle dynamics,3
+195,numerical differentiation and integration,1,polar fourier transform,3
+196,inverse discrete gabor transform,1,polar grid,3
+197,filterbank,1,linogram grid,3
+198,dyadic-valued coefficient,1,moments,3
+199,fast hartley,1,multiplierless,3
+200,levy process,1,systolic array,3
+201,bermudan option,1,discrete cosine transform (dct),3
+202,early exercise boundary,1,hyperbolic cross,3
+203,optimal,1,sparse grids,3
+204,wigner distribution,1,harmonic amplitude,3
+205,numerical simulation,1,periodic signal,3
+206,optical modeling,1,power quality,3
+207,hybrid computational procedure,1,s-transform,3
+208,coherent optical fourier transform,1,short time fourier,3
+209,audio signal,1,cells,3
+210,sparse fast fourier transform,1,ischemia,3
+211,backscatter,1,myocardial infarction,3
+212,reid,1,catheters,3
+213,kronecker,1,benchmark,3
+214,sparse matrix,1,bit-reversal,3
+215,walsh,1,data scrambling,3
+216,lower triangular toeplitz matrices,1,gabor multipliers,3
+217,fast sine transform,1,gabor transform,3
+218,fast cosine,1,hartley transform,3
+219,physics education,1,ocean engineering,3
+220,rubidium,1,separation of,3
+221,multiresolution discrete fourier transforms,1,audio processing,3
+222,gps,1,filter banks,3
+223,synchronization,1,lapped transforms,3
+224,gene identification,1,modulated filter,3
+225,lifting wavelet transform,1,doe,3
+226,android,1,factor graph,3
+227,mobile device,1,finite field fourier,3
+228,security,1,transformation,3
+229,full-duplex,1,reed solomon codes,3
+230,implanted,1,statistics,3
+231,analytical convolution,1,data streams,3
+232,conformal fourier transform (cft),1,sliding windows,3
+233,green's,1,approximation algorithms,3
+234,signal processing algorithms,1,fourier integral,3
+235,approximation methods,1,numerical integration,3
+236,quantum computing,1,hartley transforms,3
+237,quantum circuit design,1,multidimensional radon,3
+238,representation theory,1,hadamard matrix,3
+239,rook,1,reverse jacket matrix,3
+240,chirp transform,1,correlator,3
+241,fresnel diffraction,1,optical design,3
+242,wigner distribution function,1,digital design,3
+243,compressive sensing,1,image recognition,3
+244,expanders,1,inverse eigenvalue problem,3
+245,sparse recovery,1,nonnegative matrix,3
+246,reinsurance,1,circulant matrix,3
+247,catastrophe bonds,1,p-glycoprotein,3
+248,risk neutral valuation,1,ethnicity,3
+249,securitisation,1,single nucleotide polymorphism,3
+250,transform,1,mdr1,3
+251,fourier-bessel,1,fast solver,3
+252,special functions,1,integral equation,3
+253,frequency estimation,1,nonuniform fft (nufft),3
+254,interpolated fast fourier transform,1,cepstrum,3
+255,phase,1,complex fir filters,3
+256,scaled discrete fourier transform,1,low-delay filters,3
+257,scaled discrete convolution,1,domestication,3
+258,computational methods,1,domestic animals,3
+259,sparsity,1,captivity,3
+260,nonlinear,1,behavioral development,3
+261,fresnel transform,1,filters,3
+262,computer generated hologram,1,rf filter,2
+263,fast calculation,1,lithium niobate,2
+264,pre-calculated object,1,greedy algorithms,2
+265,magnetic vector potential,1,compact fft architectures,2
+266,winding inductances,1,high-throughput fft,2
+267,rotation group,1,exponential radon transform,2
+268,generalized spherical,1,fast laplace transform,2
+269,interference alignment,1,incomplete data,2
+270,documentation,1,conjugate gradient methods,2
+271,fast algorithm for chirp transform,1,vertex-frequency analysis,2
+272,chirp z-transform,1,windowed graph,2
+273,fresnel,1,dit,2
+274,fourier transform spectra,1,nonharmonic fourier series,2
+275,high-speed optical,1,nonuniform fast fourier transform (nu-fft),2
+276,fourier transforms,1,computer-generated hologram,2
+277,signal,1,spherical harmonic transform,2
+278,rough surface,1,3d display,2
+279,multilevel fast multipole,1,cyclotomic fast fourier,2
+280,partial discharge,1,discrete legendre transform,2
+281,accuracy factor,1,legendre polynomials,2
+282,microstrip line,1,micromagnetics simulation,2
+283,weil representation,1,hybrid,2
+284,canonical eigenvectors,1,feedforward,2
+285,nonequispaced data,1,pipelined architecture,2
+286,chebyshev interpolation,1,microprocessor chips,2
+287,fast fourier transform for discontinuous,1,processor scheduling,2
+288,hidden terminals,1,symmetric group,2
+289,split-step fourier,1,vector finite element method,2
+290,cyclic convolution,1,three-dimensional modeling,2
+291,finite fourier transform,1,graphs signal processing,2
+292,laplace transform,1,matrix factorization,2
+293,spectral theory,1,ieee 754 single precision format,2
+294,svd,1,complex addition,2
+295,numerical methods,1,complex,2
+296,non-uniform grids,1,memory-addressing scheme,2
+297,byzantine adversaries,1,parallel computations,2
+298,distributed network error-correcting codes,1,general purpose gpu,2
+299,diffraction integrals,1,winding deformation,2
+300,fractional fourier transform (frt),1,impulse frequency response analysis,2
+301,particle dynamics,1,optical character recognition,2
+302,chinese remainder theorem,1,skew angle,2
+303,instrumentation,1,ultrasonic guided wave (ugw),2
+304,microcontroller,1,wave mode identification,2
+305,nonuniform fast fourier transform,1,sampling rate,2
+306,reconstruction of uneven seismic,1,phase difference,2
+307,libor model,1,measurement accuracy,2
+308,stochastic volatility,1,galois field,2
+309,square-root process,1,cyclotomic decomposition,2
+310,swaptions,1,parallel computing,2
+311,integer transforms,1,hermitian symmetric,2
+312,paired transform,1,general,2
+313,wireless networks,1,inverse discrete gabor transform,2
+314,multiresolution fourier transform,1,filterbank,2
+315,electrical engineering education,1,dyadic-valued coefficient,2
+316,complexity theory,1,fast hartley,2
+317,five-step fast fourier transform,1,wigner distribution,2
+318,computational complexity,1,numerical simulation,2
+319,polar fourier transform,1,optical modeling,2
+320,polar grid,1,hybrid computational procedure,2
+321,linogram grid,1,coherent optical fourier transform,2
+322,orthogonal frequency division multiplexing (ofdm),1,asymmetric digital subscriber lines (adsl),2
+323,moments,1,audio signal,2
+324,multiplierless,1,sparse fast fourier transform,2
+325,systolic array,1,lower triangular toeplitz matrices,2
+326,fast convolution,1,fast sine transform,2
+327,discrete fourier transforms (dfts),1,fast cosine,2
+328,eigenvalue decomposition,1,physics education,2
+329,inverse discrete cosine transform,1,rubidium,2
+330,multivariate fourier transform,1,multiresolution discrete fourier transforms,2
+331,simplex and super-simplex,1,gps,2
+332,multivariate,1,synchronization,2
+333,sketching,1,gene identification,2
+334,dimensionality reduction,1,lifting wavelet transform,2
+335,embeddings,1,android,2
+336,interpolated,1,mobile device,2
+337,hyperbolic cross,1,analytical convolution,2
+338,sparse grids,1,conformal fourier transform (cft),2
+339,harmonic amplitude,1,green's,2
+340,periodic signal,1,signal processing algorithms,2
+341,power quality,1,approximation methods,2
+342,s-transform,1,quantum computing,2
+343,short time fourier,1,quantum circuit design,2
+344,data analysis,1,chirp transform,2
+345,random phase screen,1,fresnel diffraction,2
+346,polar fourier series,1,wigner distribution function,2
+347,fractional fast fourier transform (fft),1,frequency estimation,2
+348,image registration,1,interpolated fast fourier transform,2
+349,recursive format,1,phase,2
+350,arithmetical complexity,1,scaled discrete fourier transform,2
+351,far-field,1,scaled discrete convolution,2
+352,two-dimensional and three-dimensional curvelet transforms,1,fresnel transform,2
+353,private approximations,1,computer generated hologram,2
+354,secure multiparty computation,1,fast calculation,2
+355,nearest neighbor,1,pre-calculated object,2
+356,texcp,1,magnetic vector potential,2
+357,traffic engineering,1,winding inductances,2
+358,responsive,1,rotation group,2
+359,online,1,generalized spherical,2
+360,distributed,1,fast algorithm for chirp transform,2
+361,stable,1,chirp z-transform,2
+362,expander graphs,1,fresnel,2
+363,forney's error exponent,1,fourier transform spectra,2
+364,iterative decoding,1,high-speed optical,2
+365,cells,1,permutation factor circulant matrices,2
+366,ischemia,1,fast fourier transform(fft),2
+367,myocardial infarction,1,rough surface,2
+368,catheters,1,multilevel fast multipole,2
+369,race/ethnicity,1,partial discharge,2
+370,health disparities,1,accuracy factor,2
+371,cultural competence,1,microstrip line,2
+372,gauss transform,1,weil representation,2
+373,unequally spaced fourier transforms,1,canonical eigenvectors,2
+374,reed-solomon codes,1,split-step fourier,2
+375,codes on graphs,1,cyclic convolution,2
+376,computational electromagnetics,1,numerical methods,2
+377,simulation of optical sysyems,1,non-uniform grids,2
+378,hexagonal lattice,1,diffraction integrals,2
+379,image,1,fractional fourier transform (frt),2
+380,benchmark,1,chinese remainder theorem,2
+381,bit-reversal,1,instrumentation,2
+382,data scrambling,1,microcontroller,2
+383,gabor multipliers,1,integer transforms,2
+384,gabor transform,1,paired transform,2
+385,boundary element method,1,electrical engineering education,2
+386,generalized inverse,1,complexity theory,2
+387,drazin inverse,1,fast convolution,2
+388,digital signal processing (dsp),1,discrete fourier transforms (dfts),2
+389,frequency,1,eigenvalue decomposition,2
+390,discontinuous fast fourier transform (dfft),1,multivariate fourier transform,2
+391,discontinuous,1,simplex and super-simplex,2
+392,interpolation method,1,multivariate,2
+393,fast approximate subspace tracking (fast) algorithm,1,interpolated,2
+394,fractional fourier,1,data analysis,2
+395,associated legendre,1,random phase screen,2
+396,wind waves,1,polar fourier series,2
+397,wave simulation,1,recursive format,2
+398,wave analysis,1,arithmetical complexity,2
+399,fast hartley transform,1,far-field,2
+400,data stream analysis,1,private approximations,2
+401,approximate query processing,1,secure multiparty computation,2
+402,data structures and,1,nearest neighbor,2
+403,aliasing,1,expander graphs,2
+404,analysis,1,forney's error exponent,2
+405,analytical,1,iterative decoding,2
+406,approximation,1,race/ethnicity,2
+407,boundary,1,health disparities,2
+408,array failure,1,cultural competence,2
+409,hartley transform,1,gauss transform,2
+410,ocean engineering,1,unequally spaced fourier transforms,2
+411,separation of,1,reed-solomon codes,2
+412,spherical filter,1,codes on graphs,2
+413,audio processing,1,computational electromagnetics,2
+414,filter banks,1,simulation of optical sysyems,2
+415,lapped transforms,1,hexagonal lattice,2
+416,modulated filter,1,image,2
+417,doe,1,boundary element method,2
+418,factor graph,1,generalized inverse,2
+419,finite field fourier,1,drazin inverse,2
+420,transformation,1,digital signal processing (dsp),2
+421,reed solomon codes,1,frequency,2
+422,statistics,1,discontinuous fast fourier transform (dfft),2
+423,data streams,1,discontinuous,2
+424,sliding windows,1,fractional fourier,2
+425,approximation algorithms,1,associated legendre,2
+426,fourier integral,1,data stream analysis,2
+427,numerical integration,1,approximate query processing,2
+428,congestion control,1,data structures and,2
+429,high-speed networks,1,array failure,2
+430,large bandwidth-delay product,1,spherical filter,2
+431,bearing estimation,1,congestion control,2
+432,discrete transforms,1,high-speed networks,2
+433,spectral transformation,1,large bandwidth-delay product,2
+434,hartley transforms,1,bearing estimation,2
+435,multidimensional radon,1,discrete transforms,2
+436,hadamard matrix,1,spectral transformation,2
+437,reverse jacket matrix,1,wavelet transform,2
+438,correlator,1,short-time fourier transform,2
+439,optical design,1,fast cosine transform,2
+440,digital design,1,numerical stability,2
+441,image recognition,1,polar ice,2
+442,inverse eigenvalue problem,1,mesozoic,2
+443,nonnegative matrix,1,glacial conditions,2
+444,circulant matrix,1,two-dimensional laplace transform,2
+445,fast fourier transform for nonequispaced data,1,numerical inversion method,2
+446,radon transform,1,fresnel integral calculation,2
+447,p-glycoprotein,1,diameter,2
+448,ethnicity,1,shortest paths,2
+449,single nucleotide polymorphism,1,matrix multiplication,2
+450,mdr1,1,characters of groups,2
+451,data mining,1,sparse fast fourier transform (sfft),1
+452,association rules,1,clifford fourier transform (cft),1
+453,similarity metric,1,spontaneous pupillary oscillation,1
+454,min hashing,1,common subexpression elimination (cse),1
+455,locality,1,butterfly of cooley-tukey algorithm,1
+456,wavelet transform,1,computational displays,1
+457,short-time fourier transform,1,computational illumination,1
+458,fast solver,1,optical chirp z-transform (oczt),1
+459,integral equation,1,optical discrete fourier transform,1
+460,nonuniform fft (nufft),1,decode and forward communication,1
+461,cepstrum,1,relay networks (telecommunication),1
+462,complex fir filters,1,inverse fast fourier transform (ifft),1
+463,low-delay filters,1,common sub expression elimination (cse),1
+464,multi-dimension,1,cyclotomic decomposition fourier transform,1
+465,radix-2,1,galois field (finite field),1
+466,risc,1,application specific integrated circuit,1
+467,vector super computer,1,complex number multiplication,1
+468,microphthalmia,1,nonuniform fast fourier transform (nufft),1
+469,c-kit,1,non-stationary sinusoid synthesis,1
+470,steel factor,1,sampling and interpolation,1
+471,mapk,1,fourier analysis,1
+472,p90 rsk,1,numerical differentiation and integration,1
+473,ubiquitin,1,chebyshev interpolation,1
+474,fast cosine transform,1,fast fourier transform for discontinuous,1
+475,numerical stability,1,byzantine adversaries,1
+476,domestication,1,distributed network error-correcting codes,1
+477,domestic animals,1,nonuniform fast fourier transform,1
+478,captivity,1,reconstruction of uneven seismic,1
+479,behavioral development,1,multiresolution fourier transform,1
+480,filters,1,five-step fast fourier transform,1
+481,polar ice,1,computational complexity,1
+482,mesozoic,1,orthogonal frequency division multiplexing (ofdm),1
+483,glacial conditions,1,inverse discrete cosine transform,1
+484,two-dimensional laplace transform,1,fractional fast fourier transform (fft),1
+485,numerical inversion method,1,image registration,1
+486,fresnel integral calculation,1,two-dimensional and three-dimensional curvelet transforms,1
+487,diameter,1,interpolation method,1
+488,shortest paths,1,fast approximate subspace tracking (fast) algorithm,1
+489,matrix multiplication,1,fast fourier transform for nonequispaced data,1
+490,characters of groups,1,radon transform,1

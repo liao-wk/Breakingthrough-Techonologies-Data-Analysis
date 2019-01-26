@@ -1,0 +1,239 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,light field,33,light field,89
+1,computational photography,19,computational photography,43
+2,plenoptic,9,plenoptic,28
+3,light fields,7,digital refocusing,21
+4,digital refocusing,7,light field photography,21
+5,light field photography,7,light fields,20
+6,light field imaging,6,light-field,18
+7,light field camera,6,theory,15
+8,light-field,5,light field imaging,14
+9,compressive sensing,5,compressive sensing,13
+10,super-resolution,4,image,12
+11,calibration,4,calibration,12
+12,theory,4,light field camera,12
+13,image,3,algorithms,11
+14,integral imaging,3,super-resolution,10
+15,light-fields,3,camera,10
+16,coded aperture,3,coded mask,9
+17,coded mask,3,digital,9
+18,depth estimation,3,depth of field,9
+19,algorithms,3,light-fields,8
+20,image coding,2,focusing,8
+21,lossless compression,2,integral imaging,7
+22,spatial frequency response,2,coded aperture,7
+23,microlens array,2,microlens array,6
+24,image processing,2,image processing,6
+25,computational optics,2,dct,6
+26,light-field imaging,2,depth estimation,6
+27,plenoptic function,2,light transport analysis,6
+28,integral photography,2,computational,6
+29,dct,2,coded aperture imaging,6
+30,compressive,2,spatial frequency response,5
+31,digital,2,plenoptic function,5
+32,camera,2,integral photography,5
+33,light transport analysis,2,compressive,5
+34,plenoptic camera,2,sampling,5
+35,focusing,2,imaging,5
+36,depth of field,2,noise,5
+37,computational,2,misalignment,5
+38,pinhole array mask,2,plenoptic camera,5
+39,coded aperture imaging,2,precision,5
+40,image-based rendering,2,accuracy,5
+41,polarization,1,frustum,5
+42,reflectance separation,1,high-accurate,5
+43,single-shot,1,avaluation,5
+44,auto-refocusing,1,image-based rendering,5
+45,detection-based focusing,1,image coding,4
+46,blurriness measure,1,lossless compression,4
+47,light field coding,1,video editing,4
+48,three-dimensional display,1,light-field imaging,4
+49,light-field microscopy,1,multiperspective,4
+50,light-field display,1,comparison,4
+51,three-dimensional,1,fresnel zone plate,4
+52,convolutional neural network,1,spectral imaging,4
+53,image rendering,1,photon,4
+54,patch size,1,camera array,4
+55,photography,1,rectification,4
+56,lytro (r),1,design,4
+57,lenslet light field,1,light field filtering,4
+58,panorama creation,1,fourier,4
+59,multi-perspective,1,physical based rendering tracing,4
+60,stiching,1,pbrt,4
+61,perspective,1,ray tracing,4
+62,video editing,1,catadioptric,4
+63,computer generated holography,1,fabrication,4
+64,light field display,1,light field recording,4
+65,viewing resolution,1,mirror design,4
+66,dimensionality reduction,1,2012,4
+67,learning,1,experimentation,4
+68,editing interfaces,1,performance,4
+69,editing workflow,1,verification,4
+70,user study,1,extended depth of,4
+71,imaging model,1,physics,4
+72,continuous parallax,1,issue 73,4
+73,holographic imaging,1,mechanical engineering,4
+74,multiview,1,fluid mechanics,4
+75,computational photography and camera,1,engineering,4
+76,light,1,system performance,4
+77,reflection,1,mtf,4
+78,epipolar images,1,iso,4
+79,ultraviolet light field,1,pinhole array mask,4
+80,ultraviolet images,1,polarization,3
+81,optic simulation model,1,reflectance separation,3
+82,pca,1,single-shot,3
+83,coded-aperture,1,image rendering,3
+84,angular resolution,1,patch size,3
+85,sparse representation,1,photography,3
+86,light-field compression,1,lytro (r),3
+87,colour space transforms,1,lenslet light field,3
+88,extending depth of field,1,panorama creation,3
+89,image fusion,1,multi-perspective,3
+90,all-in-focus,1,stiching,3
+91,multiperspective,1,perspective,3
+92,comparison,1,dimensionality reduction,3
+93,thz,1,learning,3
+94,refocusing rendering,1,editing interfaces,3
+95,synthetic aperture,1,editing workflow,3
+96,depth map,1,user study,3
+97,refraction,1,imaging model,3
+98,photogrammetry,1,continuous parallax,3
+99,additive manufacturing,1,holographic imaging,3
+100,depth of focus,1,multiview,3
+101,fresnel zone plate,1,computational photography and camera,3
+102,spectral imaging,1,light,3
+103,photon,1,coded-aperture,3
+104,grating,1,angular resolution,3
+105,novel optical system,1,sparse representation,3
+106,multiple images,1,extending depth of field,3
+107,crosstalk-free,1,image fusion,3
+108,diaphragm,1,all-in-focus,3
+109,360 degree viewable,1,thz,3
+110,low-rank tensor factorization,1,refocusing rendering,3
+111,low-rank and,1,synthetic aperture,3
+112,diminished relity,1,depth of focus,3
+113,light field rendering,1,grating,3
+114,upsampling,1,novel optical system,3
+115,epipolar plane image (epi),1,multiple images,3
+116,creative photography,1,crosstalk-free,3
+117,terms compressive sensing,1,diaphragm,3
+118,projection,1,360 degree viewable,3
+119,structured,1,terms compressive sensing,3
+120,light fields reconstruction,1,projection,3
+121,rgb-d sensor,1,structured,3
+122,people counting,1,augmented reality,3
+123,augmented reality,1,mobile,3
+124,mobile,1,guidance,3
+125,guidance,1,4-d filtering,3
+126,sparse linear systems,1,video imaging and surveillance,3
+127,camera array,1,light field image,3
+128,rectification,1,wavelet transformation,3
+129,sampling,1,random,3
+130,imaging,1,lens array imaging,3
+131,noise,1,incoherent,3
+132,misalignment,1,light transport,3
+133,4-d filtering,1,fluid imaging,3
+134,video imaging and surveillance,1,shape from x,3
+135,depth-velocity filters,1,lens array,3
+136,multidimensional filtering,1,camera calibration,3
+137,light field videos,1,error,3
+138,design,1,carbon nanotube,3
+139,light field filtering,1,infrared,3
+140,cylindrical panorama,1,light field sensing,3
+141,light field image,1,single pixel camera,3
+142,wavelet transformation,1,scale-space analysis,3
+143,random,1,plenoptic cameras,3
+144,lens array imaging,1,3d keypoint,3
+145,incoherent,1,omni-directional imaging,3
+146,black zone,1,ultra-high resolution,3
+147,pixel mapping,1,video,3
+148,super-resolution image synthesis,1,image simulation,3
+149,3d imaging,1,optical,3
+150,light field microscopy,1,bayesian methods,3
+151,precision,1,zernike polynomials,3
+152,accuracy,1,compression,3
+153,frustum,1,defocus blur,3
+154,high-accurate,1,image formation,3
+155,avaluation,1,illumination,3
+156,distributed compressive sensing,1,light field microscope,3
+157,joint sparsity signal,1,visual,3
+158,light transport,1,depth detection,3
+159,fluid imaging,1,auto-refocusing,2
+160,shape from x,1,detection-based focusing,2
+161,fourier,1,blurriness measure,2
+162,3d light fields,1,light field coding,2
+163,disparity estimation,1,three-dimensional display,2
+164,lens array,1,light-field microscopy,2
+165,zoom,1,light-field display,2
+166,camera calibration,1,three-dimensional,2
+167,error,1,convolutional neural network,2
+168,light-field cameras,1,computational optics,2
+169,carbon nanotube,1,computer generated holography,2
+170,infrared,1,light field display,2
+171,light field sensing,1,viewing resolution,2
+172,single pixel camera,1,reflection,2
+173,physical based rendering tracing,1,epipolar images,2
+174,pbrt,1,ultraviolet light field,2
+175,ray tracing,1,ultraviolet images,2
+176,scale-space analysis,1,optic simulation model,2
+177,plenoptic cameras,1,pca,2
+178,3d keypoint,1,light-field compression,2
+179,modulation transfer function,1,colour space transforms,2
+180,image-based lighting,1,depth map,2
+181,surface light field,1,refraction,2
+182,light field representation,1,photogrammetry,2
+183,catadioptric,1,additive manufacturing,2
+184,fabrication,1,low-rank tensor factorization,2
+185,light field recording,1,low-rank and,2
+186,mirror design,1,diminished relity,2
+187,2012,1,light field rendering,2
+188,omni-directional imaging,1,upsampling,2
+189,ultra-high resolution,1,epipolar plane image (epi),2
+190,video,1,creative photography,2
+191,i,1,light fields reconstruction,2
+192,4,1,rgb-d sensor,2
+193,1 [image processing and computer vision]: digitization and image,1,people counting,2
+194,experimentation,1,sparse linear systems,2
+195,performance,1,depth-velocity filters,2
+196,verification,1,multidimensional filtering,2
+197,extended depth of,1,light field videos,2
+198,physics,1,black zone,2
+199,issue 73,1,pixel mapping,2
+200,mechanical engineering,1,super-resolution image synthesis,2
+201,fluid mechanics,1,3d imaging,2
+202,engineering,1,light field microscopy,2
+203,blurred observations,1,distributed compressive sensing,2
+204,image simulation,1,joint sparsity signal,2
+205,optical,1,3d light fields,2
+206,optical multiplexing,1,disparity estimation,2
+207,bayesian methods,1,zoom,2
+208,panorama,1,light-field cameras,2
+209,zernike polynomials,1,modulation transfer function,2
+210,compression,1,image-based lighting,2
+211,defocus blur,1,surface light field,2
+212,image formation,1,light field representation,2
+213,system performance,1,i,2
+214,mtf,1,4,2
+215,iso,1,1 [image processing and computer vision]: digitization and image,2
+216,catadioptric imaging,1,blurred observations,2
+217,wide-angle light,1,optical multiplexing,2
+218,3d reconstruction,1,panorama,2
+219,microscopy,1,catadioptric imaging,2
+220,illumination,1,wide-angle light,2
+221,light field microscope,1,3d reconstruction,2
+222,music emotion recognition,1,microscopy,2
+223,visual,1,variable-focus lens,2
+224,passive reflectance field display,1,data compression,2
+225,image-based relighting with natural,1,rendering (computer graphics),2
+226,variable-focus lens,1,digital photography,2
+227,depth detection,1,fourier transform,2
+228,data compression,1,projection-slice theorem,2
+229,rendering (computer graphics),1,appearance-based object recognition,2
+230,digital photography,1,face recognition,2
+231,fourier transform,1,linage-based rendering,2
+232,projection-slice theorem,1,texture mapping,2
+233,appearance-based object recognition,1,compression algorithms,2
+234,face recognition,1,cylindrical panorama,1
+235,linage-based rendering,1,music emotion recognition,1
+236,texture mapping,1,passive reflectance field display,1
+237,compression algorithms,1,image-based relighting with natural,1

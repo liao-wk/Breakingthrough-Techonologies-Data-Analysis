@@ -1,0 +1,49 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,thermo-tunneling,3,thermo-tunneling,11
+1,ultra-efficient,3,ultra-efficient,11
+2,light-emitting diodes,2,resonant,8
+3,photovoltaics,2,thermionic,8
+4,quantum well,2,tunneling,8
+5,solar cell,2,light-emitting diodes,6
+6,resonant,2,quantum well,6
+7,thermionic,2,solar cell,6
+8,tunneling,2,photovoltaics,5
+9,multiple exciton generation,1,composite,4
+10,quantum efficiency,1,data center,4
+11,threshold energy,1,gan,4
+12,luminescence efficiency,1,zcs,4
+13,composite,1,dc-dc,4
+14,data center,1,solarevolution,4
+15,gan,1,renewables,4
+16,zcs,1,design science,4
+17,dc-dc,1,more with less,4
+18,artificial photosynthesis,1,disruptive,4
+19,solar fuel,1,photosynthesis,4
+20,water splitting,1,algae,4
+21,surface,1,photonics,4
+22,co2 reduction,1,solar energy,4
+23,electrochemistry,1,artificial photosynthesis,3
+24,molecular electrochemistry,1,solar fuel,3
+25,solarevolution,1,water splitting,3
+26,renewables,1,surface,3
+27,design science,1,optoelectronics,3
+28,more with less,1,thin n/p junctions,3
+29,disruptive,1,phototransducers,3
+30,optoelectronics,1,organic photodetectors,3
+31,thin n/p junctions,1,printed electronics,3
+32,phototransducers,1,screen-printing,3
+33,organic photodetectors,1,low dark,3
+34,printed electronics,1,escape,3
+35,screen-printing,1,dilute nitride,3
+36,low dark,1,multiple exciton generation,2
+37,dc-dc power converters,1,quantum efficiency,2
+38,maximum power point trackers,1,threshold energy,2
+39,nanocrystals,1,luminescence efficiency,2
+40,sensitized solar-cells,1,co2 reduction,2
+41,upconverting,1,electrochemistry,2
+42,escape,1,molecular electrochemistry,2
+43,dilute nitride,1,nanocrystals,2
+44,photosynthesis,1,sensitized solar-cells,2
+45,algae,1,upconverting,2
+46,photonics,1,dc-dc power converters,1
+47,solar energy,1,maximum power point trackers,1

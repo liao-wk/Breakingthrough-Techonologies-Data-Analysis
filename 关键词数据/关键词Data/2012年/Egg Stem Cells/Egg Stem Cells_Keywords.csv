@@ -1,0 +1,135 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,apoptosis,9,apoptosis,40
+1,oocyte,7,oocyte,33
+2,oogenesis,5,oogenesis,22
+3,aging,4,ovary,19
+4,ovary,4,cell death,17
+5,stem cells,3,caspase,17
+6,embryonic stem cells,3,bax,16
+7,stem cell research,3,aging,15
+8,egg donation,3,stem cell research,13
+9,bax,3,stem cells,12
+10,cell death,3,embryonic stem cells,10
+11,caspase,3,egg donation,10
+12,differentiation,2,drosophila,10
+13,reprogramming,2,differentiation,9
+14,sphingolipids,2,reprogramming,8
+15,bovine,2,sphingolipids,8
+16,stem cell,2,ethics,8
+17,germ cells,2,bovine,7
+18,altruism,2,stem cell,7
+19,ethics,2,germ cells,7
+20,dna damage,2,altruism,7
+21,drosophila,2,dna damage,7
+22,nuclear transfer,2,nuclear transfer,7
+23,wnt,1,germ cell,7
+24,follicle cell,1,bcl-2,7
+25,escort cell,1,dpp,6
+26,cap cell,1,fecundity,6
+27,chicken egg-white extract,1,germline stem cell,6
+28,ingredients,1,niche,6
+29,cell proliferation,1,atm,6
+30,cell,1,wnt,5
+31,double ph-sensitive,1,follicle cell,5
+32,cd44 receptor targeting,1,escort cell,5
+33,nano-eggs,1,cap cell,5
+34,co-delivery,1,uk,5
+35,heterochromatin,1,gamete donation,5
+36,methylation,1,lvf,5
+37,epigenetics,1,feminism,5
+38,cells,1,human eggs,5
+39,oocytes,1,tissue growth,5
+40,transcription,1,chico,5
+41,fetal cells,1,nutrition,5
+42,"""extract egg""",1,heterochromatin,4
+43,fetal bovine serum,1,methylation,4
+44,caprine,1,epigenetics,4
+45,polar cell,1,cells,4
+46,polar stalk precursor,1,oocytes,4
+47,germarium,1,transcription,4
+48,nsc,1,fetal cells,4
+49,egg extract,1,"""extract egg""",4
+50,neural stem cells markers,1,fetal bovine serum,4
+51,ceramide,1,caprine,4
+52,cert,1,ceramide,4
+53,oocyte aging,1,cert,4
+54,mitochondrial structure,1,oocyte aging,4
+55,female germ cells,1,mitochondrial structure,4
+56,ionizing radiation,1,female germ cells,4
+57,mouse,1,ionizing radiation,4
+58,moral compromise,1,mouse,4
+59,stem cell policy,1,moral compromise,4
+60,embryo,1,stem cell policy,4
+61,moral,1,embryo,4
+62,informed consent,1,moral,4
+63,fertilization in vitro,1,gender,4
+64,oocyte donation,1,biomedical research,4
+65,histones,1,cloning,4
+66,induced pluripotent stem cells,1,ethics committees,4
+67,chromatin remodeling,1,health policy,4
+68,embryoid body,1,research,4
+69,magnetic separation,1,embryonic stem cell,4
+70,gender,1,parthenogenesis,4
+71,biomedical research,1,polscope,4
+72,cloning,1,scnt,4
+73,ethics committees,1,sheep oocyte,4
+74,health policy,1,p19 ec stem cell,4
+75,research,1,comparison,4
+76,mice,1,hanging drop,4
+77,parthenogenetic embryonic stem cell,1,zebrafish,4
+78,patriotism,1,mitochondria,4
+79,embryonic stem cell,1,genetic modifiers,4
+80,parthenogenesis,1,doxorubicin,4
+81,polscope,1,gene expression,4
+82,scnt,1,assisted reproduction,4
+83,sheep oocyte,1,egg-sharing,4
+84,anti-mullerian hormone,1,myb,4
+85,antral follicle count,1,stonewall,4
+86,follicle waves,1,dna cleavage,4
+87,p19 ec stem cell,1,chicken egg-white extract,3
+88,comparison,1,ingredients,3
+89,hanging drop,1,cell proliferation,3
+90,zebrafish,1,cell,3
+91,dpp,1,double ph-sensitive,3
+92,fecundity,1,cd44 receptor targeting,3
+93,germline stem cell,1,nano-eggs,3
+94,niche,1,co-delivery,3
+95,uk,1,informed consent,3
+96,gamete donation,1,fertilization in vitro,3
+97,lvf,1,oocyte donation,3
+98,feminism,1,embryoid body,3
+99,human eggs,1,magnetic separation,3
+100,menopause,1,mice,3
+101,mitochondria,1,parthenogenetic embryonic stem cell,3
+102,genetic modifiers,1,patriotism,3
+103,compensation,1,anti-mullerian hormone,3
+104,in vitro fertilization,1,antral follicle count,3
+105,risk mitigation,1,follicle waves,3
+106,doxorubicin,1,menopause,3
+107,gene expression,1,compensation,3
+108,degenerative diseases,1,in vitro fertilization,3
+109,follicular renewal,1,risk mitigation,3
+110,immune system,1,degenerative diseases,3
+111,developmental plasticity,1,follicular renewal,3
+112,germ cell transplantation,1,immune system,3
+113,sexual bipotency,1,es cells,3
+114,assisted reproduction,1,serial nuclear transfer,3
+115,egg-sharing,1,aggregation,3
+116,es cells,1,follicle,3
+117,serial nuclear transfer,1,granulosa cells,3
+118,aggregation,1,ovum,3
+119,myb,1,totipotency,3
+120,stonewall,1,embryonal stem cells,3
+121,atm,1,embryonal germ cells,3
+122,tissue growth,1,polar cell,2
+123,chico,1,polar stalk precursor,2
+124,nutrition,1,germarium,2
+125,follicle,1,nsc,2
+126,granulosa cells,1,egg extract,2
+127,ovum,1,neural stem cells markers,2
+128,totipotency,1,histones,2
+129,embryonal stem cells,1,induced pluripotent stem cells,2
+130,embryonal germ cells,1,chromatin remodeling,2
+131,germ cell,1,developmental plasticity,2
+132,bcl-2,1,germ cell transplantation,2
+133,dna cleavage,1,sexual bipotency,2

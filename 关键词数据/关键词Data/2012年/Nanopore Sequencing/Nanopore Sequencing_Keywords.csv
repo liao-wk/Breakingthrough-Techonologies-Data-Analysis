@@ -1,0 +1,379 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,nanopore,52,nanopore,183
+1,dna sequencing,35,dna sequencing,109
+2,molecules,34,nanopore sequencing,64
+3,nanopore sequencing,21,dna,63
+4,nanopores,19,molecules,54
+5,dna,18,sequencing,52
+6,solid-state nanopore,12,nanopores,48
+7,sequencing,12,alpha-hemolysin,35
+8,alpha-hemolysin,12,solid-state nanopore,30
+9,resolution,10,minion,26
+10,graphene,7,graphene,22
+11,protein nanopore,7,single-molecule,20
+12,minion,6,oxford nanopore,16
+13,single-molecule,6,protein nanopore,16
+14,graphene nanopore,6,metagenomics,15
+15,oxford nanopore,5,translocation,15
+16,metagenomics,4,graphene nanopore,14
+17,next-generation sequencing,4,mspa,12
+18,membrane channel,4,protein,11
+19,translocation,4,resolution,11
+20,next generation sequencing,3,molecular dynamics,11
+21,polymorphisms,3,sensor,11
+22,nanopore fabrication,3,bioinformatics,10
+23,dna translocation,3,ngs,10
+24,bioinformatics,3,assembly,10
+25,fabrication,3,biosensors,10
+26,discrimination,3,next-generation sequencing,10
+27,genomics,3,next,9
+28,protein,3,dft,9
+29,biological nanopore,3,phage,8
+30,mspa,3,nanopore fabrication,8
+31,molecular dynamics,3,diagnostics,8
+32,biosensors,3,fabrication,8
+33,single,3,sensing,8
+34,sensor,3,ionic current,8
+35,genome sequencing,2,membrane channel,8
+36,genome assembly,2,next generation sequencing,7
+37,oxford nanopore technologies,2,dna translocation,7
+38,phage,2,solid-state,7
+39,solid-state,2,discrimination,7
+40,long-read sequencing,2,genomics,7
+41,transcriptome,2,brownian,7
+42,biosensing,2,simulation,7
+43,diagnostics,2,pore,7
+44,resistive pulse,2,bioelectric phenomena,7
+45,nanopore technology,2,solid state,7
+46,single-molecule sensing,2,nanoelectrodes,7
+47,conical nanopore,2,genome assembly,6
+48,dielectric breakdown,2,oxford nanopore technologies,6
+49,base calling,2,polymorphisms,6
+50,ngs,2,long-read sequencing,6
+51,assembly,2,transcriptome,6
+52,dna-protein interactions,2,conical nanopore,6
+53,sensing,2,dielectric breakdown,6
+54,next,2,dna-protein interactions,6
+55,polymerase,2,polymerase,6
+56,molecular dynamics simulation,2,venom gland,6
+57,polymer translocation,2,cdna,6
+58,ionic current,2,viper,6
+59,single-molecule sequencing,2,echis,6
+60,fabricated nanopores,2,transcriptomics,6
+61,brownian,2,single,6
+62,phi29,2,mos2,6
+63,bionanotechnology,2,electronic detection,6
+64,solid-state nanopores,2,md,6
+65,single molecule,2,blockage,6
+66,simulation,2,alpha-hl,6
+67,synthetic,2,nanofabrication,6
+68,dft,2,genome sequencing,5
+69,pore,2,biosensing,5
+70,nanopore sensing,2,resistive pulse,5
+71,single molecules,2,base calling,5
+72,bioelectric phenomena,2,ffpe,5
+73,nanofabrication,2,hairy cell leukemia,5
+74,solid state,2,braf,5
+75,nanoelectrodes,2,technology,5
+76,oxford nanopore minion,1,shotgun,5
+77,secondary,1,signal processing,5
+78,illumina,1,svm,5
+79,wgs,1,adaboost,5
+80,antibiotic resistance,1,molecular dynamics simulation,5
+81,antimicrobial resistance,1,single-molecule sequencing,5
+82,forensic,1,biological nanopore,5
+83,snp,1,evolution,5
+84,tandem repeat loci,1,genome,5
+85,identification,1,minion (tm),5
+86,antibody,1,amplicon,5
+87,next-generation dna sequencing,1,pathogen,5
+88,nanopore devices,1,solid-state nanopores,5
+89,varicella zoster virus,1,single molecule,5
+90,full-length,1,nanopore sensing,5
+91,rapid preimplantation genetic screening,1,single molecules,5
+92,handheld nanopore sequencer,1,adjustable,5
+93,crispr-cas9,1,coulter,5
+94,ambiguities,1,ratchet,5
+95,hla,1,stochastic,5
+96,phasing,1,prosthetic joint infection,4
+97,prosthetic joint infection,1,real-time,4
+98,real-time,1,clinical,4
+99,clinical,1,nanopore technology,4
+100,human cytomegalovirus,1,single-molecule sensing,4
+101,oxford nanopore technology,1,portable,4
+102,basecaller,1,dna barcoding,4
+103,vibrionaceae,1,biodiversity,4
+104,genome taxonomy,1,field-based,4
+105,single solid nanopore/nanochannel,1,nanoribbon,4
+106,ion current,1,fet,4
+107,toxic molecules,1,homopolymer,4
+108,electrohydrodynamics,1,indel,4
+109,biomolecule,1,dwell time,4
+110,aneuploidy detection,1,environmental sciences,4
+111,minion nanopore sequencing,1,issue 130,4
+112,multiplex,1,brca1,4
+113,small dna,1,splicing,4
+114,portable,1,full-length transcript,4
+115,dna barcoding,1,carbon nanotubes,4
+116,biodiversity,1,diamond,4
+117,field-based,1,density functional theory,4
+118,deoxyribonucleic acid (dna) sequencing,1,hexagonal,4
+119,low-input sequencing,1,current signatures,4
+120,applications,1,dna probes,4
+121,nanoribbon,1,quantification,4
+122,fet,1,chronic lymphocytic leukemia,4
+123,ffpe,1,tp53,4
+124,hairy cell leukemia,1,electrolytic cell,4
+125,braf,1,exonuclease,4
+126,homopolymer,1,nanopore sensors,4
+127,indel,1,microelectronics,4
+128,dwell time,1,cmos,4
+129,mitochondrion,1,nanopore arrays,4
+130,bivalvia,1,helicase,4
+131,perna canaliculus,1,kinetics,4
+132,environmental sciences,1,force spectroscopy,4
+133,issue 130,1,comparative genomics,4
+134,nanochannel,1,genomic distance,4
+135,single-molecule detection,1,alignment,4
+136,electrochemical analysis,1,molecular translocation,4
+137,brca1,1,model,4
+138,splicing,1,series resistance,4
+139,full-length transcript,1,nucleic acid,4
+140,resequencing,1,nanotechnology,4
+141,third generation sequencing,1,gene sequencing,4
+142,metabolic engineering,1,nanomaterial,4
+143,gluconobacter oxydans,1,fabricated nanopores,4
+144,minion(center dot),1,nanoplasmonics,4
+145,polyelectrolyte brush,1,plasmonic,4
+146,electrophoresis,1,phi29,4
+147,soft nanopore,1,influenza,4
+148,technology,1,virus,4
+149,targeted capture,1,whole genome sequencing,4
+150,gene enrichment,1,bionanotechnology,4
+151,transcription,1,phi29 connector,4
+152,carbon nanotubes,1,synthetic,4
+153,diamond,1,near-field optics,4
+154,mode wave-guides,1,nano-photonics,4
+155,salt-gradient,1,ultraviolet light,4
+156,statistical modeling,1,rna sequencing,4
+157,sequence read simulation,1,cyclodextrin,4
+158,human identification,1,base,4
+159,assay,1,gromacs,4
+160,de novo assembly,1,error rates,4
+161,minion device,1,nucleic acids,4
+162,shotgun,1,thermophoresis,4
+163,signal processing,1,temperature,4
+164,svm,1,nanobioscience,4
+165,adaboost,1,pulse,4
+166,density functional theory,1,peptides,4
+167,hexagonal,1,proteins,4
+168,si3n4 nanopore,1,single-molecule analysis,4
+169,double layers nanopore,1,deoxyribonucleic acid (dna),4
+170,third-generation sequencing,1,oxford nanopore minion,3
+171,long-read alignment,1,secondary,3
+172,error,1,illumina,3
+173,emulsion pcr,1,wgs,3
+174,pyrosequencing,1,antibiotic resistance,3
+175,reversible terminator sequencing,1,antimicrobial resistance,3
+176,ligation,1,forensic,3
+177,pyrophosphate,1,snp,3
+178,ionic current blockade,1,antibody,3
+179,membrane drilling techniques,1,next-generation dna sequencing,3
+180,current signatures,1,nanopore devices,3
+181,dna probes,1,varicella zoster virus,3
+182,quantification,1,full-length,3
+183,protein design,1,crispr-cas9,3
+184,polymer-tagged nucleotides,1,ambiguities,3
+185,chronic lymphocytic leukemia,1,hla,3
+186,tp53,1,phasing,3
+187,electrolytic cell,1,human cytomegalovirus,3
+188,exonuclease,1,aneuploidy detection,3
+189,nanopore sensors,1,minion nanopore sequencing,3
+190,microelectronics,1,multiplex,3
+191,cmos,1,small dna,3
+192,nanopore arrays,1,mitochondrion,3
+193,rolling circle amplification,1,bivalvia,3
+194,barcode sequencing,1,perna canaliculus,3
+195,helicase,1,polyelectrolyte brush,3
+196,kinetics,1,electrophoresis,3
+197,force spectroscopy,1,soft nanopore,3
+198,comparative genomics,1,targeted capture,3
+199,genomic distance,1,gene enrichment,3
+200,alignment,1,transcription,3
+201,hexagonal boron nitride,1,de novo assembly,3
+202,ssdna sequencing,1,minion device,3
+203,molecular translocation,1,third-generation sequencing,3
+204,model,1,long-read alignment,3
+205,series resistance,1,error,3
+206,dna sequencing by synthesis,1,emulsion pcr,3
+207,phi29 dna-polymerase,1,pyrosequencing,3
+208,mycobacterium-smegmatis,1,reversible terminator sequencing,3
+209,blockade current,1,ligation,3
+210,nucleic,1,pyrophosphate,3
+211,base-pair mismatch,1,polymer translocation,3
+212,electronics,1,blockade current,3
+213,nucleic acid,1,nucleic,3
+214,nanotechnology,1,ion-channel measurements,3
+215,gene sequencing,1,3rd generation sequencing,3
+216,nanomaterial,1,cancer diagnostics,3
+217,ion-channel measurements,1,deletions,3
+218,evolution,1,cytogenetics,3
+219,genome,1,noise cancellation technique,3
+220,origami nanopores,1,semi-digital,3
+221,computer-simulations,1,scaffolding,3
+222,3rd generation sequencing,1,next-generation,3
+223,cancer diagnostics,1,glass capillary,3
+224,deletions,1,single molecule detection,3
+225,cytogenetics,1,nitride nanopores,3
+226,nanopore sequencing technology,1,ionic,3
+227,electric-driven translocation,1,minion (r) device,3
+228,venom gland,1,de novo genome,3
+229,cdna,1,multi-scale model,3
+230,viper,1,graphene membrane,3
+231,echis,1,biological nanopores,3
+232,transcriptomics,1,strand sequencing,3
+233,nanoplasmonics,1,au nanogap-nanopore devices,3
+234,plasmonic,1,nems technology,3
+235,droplet interface bilayer,1,fib,3
+236,noise cancellation technique,1,suspended sandwich,3
+237,semi-digital,1,translocation speed,3
+238,influenza,1,trans location,3
+239,virus,1,stranded-dna,3
+240,whole genome sequencing,1,human genome sequencing,3
+241,scaffolding,1,membrane protein,3
+242,next-generation,1,calculation,3
+243,glass capillary,1,noise,3
+244,single molecule detection,1,cross-correlation,3
+245,nitride nanopores,1,tunneling conductance,3
+246,ionic,1,electronic,3
+247,minion (r) device,1,hydrogen bonds,3
+248,de novo genome,1,molecular recognition,3
+249,multi-scale model,1,ion channels,3
+250,graphene membrane,1,membrane proteins,3
+251,minion (tm),1,phosphorylase,3
+252,amplicon,1,escherichia-coli,3
+253,pathogen,1,semiconductor,3
+254,breakdown,1,rna sequencing modified bases,3
+255,dependence,1,array,3
+256,degradation,1,nucleobase recognition,3
+257,wave-guides,1,resistive-pulse sensing,3
+258,phi29 connector,1,protein ion channel,3
+259,biological nanopores,1,nanopore-based sensing,3
+260,protein nanopores,1,coulter counter,3
+261,translocation regulation,1,nanopore theory,3
+262,strand sequencing,1,al2o3,3
+263,au nanogap-nanopore devices,1,au nanopore,3
+264,nems technology,1,plasmonic hot spot,3
+265,fib,1,electron beam exposure,3
+266,suspended sandwich,1,surface,3
+267,translocation speed,1,graphene nanoribbons,3
+268,direct force,1,first-principles quantum,3
+269,trans location,1,tunneling gap,3
+270,stranded-dna,1,label-free detection,3
+271,human genome sequencing,1,translocation time,3
+272,membrane protein,1,current,3
+273,calculation,1,electrochemical,3
+274,translocation dynamics,1,negf,3
+275,mos2,1,transport properties,3
+276,electronic detection,1,biological techniques,3
+277,md,1,electrodes,3
+278,narrowing nanopore,1,optical detection,3
+279,single-stranded dna,1,circular dna,3
+280,slowing dna translocation,1,human genome,3
+281,noise,1,hymolysin protein,3
+282,cross-correlation,1,macromolecule identification,3
+283,tunneling conductance,1,review,3
+284,electronic,1,protein engineering,3
+285,hydrogen bonds,1,single-molecule studies,3
+286,molecular recognition,1,gold nanoparticles,3
+287,near-field optics,1,nuclic acid sequencing,3
+288,nano-photonics,1,tandem repeat loci,2
+289,ultraviolet light,1,identification,2
+290,computer modeling,1,oxford nanopore technology,2
+291,ion channels,1,basecaller,2
+292,membrane proteins,1,vibrionaceae,2
+293,rna sequencing,1,genome taxonomy,2
+294,cyclodextrin,1,single solid nanopore/nanochannel,2
+295,base,1,ion current,2
+296,phosphorylase,1,toxic molecules,2
+297,escherichia-coli,1,electrohydrodynamics,2
+298,single molecule sensor,1,biomolecule,2
+299,gromacs,1,deoxyribonucleic acid (dna) sequencing,2
+300,error rates,1,low-input sequencing,2
+301,nucleic acids,1,applications,2
+302,thermophoresis,1,nanochannel,2
+303,blockage,1,single-molecule detection,2
+304,alpha-hl,1,electrochemical analysis,2
+305,nanopoe/nanochannel,1,resequencing,2
+306,nanopore analytical chemistry,1,third generation sequencing,2
+307,dna-polymerase,1,metabolic engineering,2
+308,semiconductor,1,gluconobacter oxydans,2
+309,temperature,1,minion(center dot),2
+310,force,1,salt-gradient,2
+311,water,1,statistical modeling,2
+312,rna sequencing modified bases,1,sequence read simulation,2
+313,array,1,human identification,2
+314,nucleobase recognition,1,assay,2
+315,resistive-pulse sensing,1,si3n4 nanopore,2
+316,dna nanopore sequencing,1,double layers nanopore,2
+317,dna sequencing technologies,1,ionic current blockade,2
+318,protein ion channel,1,membrane drilling techniques,2
+319,nanopore-based sensing,1,protein design,2
+320,coulter counter,1,polymer-tagged nucleotides,2
+321,nanopore theory,1,rolling circle amplification,2
+322,nanobioscience,1,barcode sequencing,2
+323,pulse,1,hexagonal boron nitride,2
+324,al2o3,1,ssdna sequencing,2
+325,au nanopore,1,dna sequencing by synthesis,2
+326,plasmonic hot spot,1,phi29 dna-polymerase,2
+327,electron beam exposure,1,mycobacterium-smegmatis,2
+328,surface,1,base-pair mismatch,2
+329,graphene nanoribbons,1,electronics,2
+330,first-principles quantum,1,origami nanopores,2
+331,electronic control,1,computer-simulations,2
+332,membrane,1,droplet interface bilayer,2
+333,synthetic nanopore,1,breakdown,2
+334,tunneling gap,1,dependence,2
+335,label-free detection,1,degradation,2
+336,electrochemistry,1,protein nanopores,2
+337,nanopore/electrode devices,1,translocation regulation,2
+338,solid-nanopore,1,translocation dynamics,2
+339,theoretical calculations,1,narrowing nanopore,2
+340,capacitance testing,1,single-stranded dna,2
+341,translocation time,1,slowing dna translocation,2
+342,current,1,computer modeling,2
+343,electrochemical,1,single molecule sensor,2
+344,negf,1,nanopoe/nanochannel,2
+345,transport properties,1,nanopore analytical chemistry,2
+346,peptides,1,force,2
+347,proteins,1,water,2
+348,single-molecule analysis,1,dna nanopore sequencing,2
+349,biological techniques,1,dna sequencing technologies,2
+350,electrodes,1,electronic control,2
+351,optical detection,1,membrane,2
+352,circular dna,1,synthetic nanopore,2
+353,deoxyribonucleic acid (dna),1,electrochemistry,2
+354,human genome,1,nanopore/electrode devices,2
+355,hydrodynamic modeling,1,solid-nanopore,2
+356,hymolysin protein,1,theoretical calculations,2
+357,macromolecule identification,1,capacitance testing,2
+358,review,1,hydrodynamic modeling,2
+359,temperature control,1,temperature control,2
+360,open pore current,1,open pore current,2
+361,protein engineering,1,nucleotide resolution,2
+362,single-molecule studies,1,stochastic detection,2
+363,nucleotide resolution,1,ion-channel,2
+364,stochastic detection,1,fabricated,2
+365,adjustable,1,polynucleotide,2
+366,coulter,1,dna and rna translocation,2
+367,ratchet,1,transmembrane pore,2
+368,stochastic,1,channel,2
+369,ion-channel,1,rapid preimplantation genetic screening,1
+370,fabricated,1,handheld nanopore sequencer,1
+371,gold nanoparticles,1,mode wave-guides,1
+372,polynucleotide,1,nanopore sequencing technology,1
+373,dna and rna translocation,1,electric-driven translocation,1
+374,dna sequencing single molecule detection,1,wave-guides,1
+375,transmembrane pore,1,direct force,1
+376,nuclic acid sequencing,1,dna-polymerase,1
+377,channel,1,dna sequencing single molecule detection,1

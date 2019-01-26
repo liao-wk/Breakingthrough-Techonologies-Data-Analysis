@@ -1,0 +1,357 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,materials,29,materials,36
+1,material,17,lithium-ion battery,29
+2,lithium-ion battery,10,material,26
+3,lithium-ion batteries,7,batteries,18
+4,cathode materials,7,lithium-ion batteries,16
+5,batteries,6,graphene,15
+6,graphene,6,performance,15
+7,lithium-sulfur batteries,5,cathode materials,15
+8,performance,5,li-ion,13
+9,electrochemical,5,li-ion batteries,13
+10,energy storage,4,anode,13
+11,li-ion,4,lithium-sulfur batteries,11
+12,electrode materials,4,lithium batteries,11
+13,lithium batteries,4,nanostructure,11
+14,li-ion batteries,4,energy storage,10
+15,lithium ion batteries,4,lithium ion batteries,10
+16,nanostructure,4,electrode,10
+17,anode,4,electrode materials,9
+18,electrode,4,cathode,9
+19,manganese oxide,3,cathode material,9
+20,carbon nanotubes,3,lead-acid batteries,9
+21,lithium,3,porous carbon,8
+22,cathode,3,electrochemical,8
+23,lifepo4,3,manganese oxide,7
+24,lithium ion battery,3,carbon nanotubes,7
+25,cathode material,3,lifepo4,7
+26,lead-acid batteries,3,lithium ion battery,7
+27,lithium battery materials,2,li-ion battery,7
+28,high-throughput,2,flexible,6
+29,porous carbon,2,lithium,6
+30,flexible,2,battery,6
+31,polysulfide,2,electrochemistry,6
+32,energy storage and conversion,2,layered compounds,6
+33,electrochemical performance,2,passivation,6
+34,supercapacitors,2,polysulfide,5
+35,ion batteries,2,supercapacitors,5
+36,thin-films,2,graphite,5
+37,battery,2,high power,5
+38,graphite,2,lithium battery materials,4
+39,electrochemistry,2,high-throughput,4
+40,li-ion battery,2,sol-gels,4
+41,charge/discharge,2,tin oxide aerogels,4
+42,electrochemical properties,2,anode materials,4
+43,layered compounds,2,ferroin,4
+44,high power,2,neutral red,4
+45,passivation,2,redox flow battery,4
+46,electrostatic spray deposition,1,redox indicator,4
+47,electrospray-deposition,1,redox pair,4
+48,nico2o4,1,energy storage and conversion,4
+49,microwave-enhanced synthesis,1,gas sensor,4
+50,lithium ion,1,carbon,4
+51,heterostructure,1,thin-films,4
+52,sulfur host materials,1,olivine,4
+53,materials genome initiative,1,nanoparticles,4
+54,sol-gels,1,mgmnsio4,4
+55,tin oxide aerogels,1,mgcosio4,4
+56,anode materials,1,magnesium-ion battery,4
+57,covalent organic frameworks,1,ginkgo leave,4
+58,manganese sulfide,1,abundant,4
+59,nanostructures,1,reversible capacity,4
+60,gamma-mns,1,promising,4
+61,high energy and power densities,1,tungsten oxide,4
+62,g-fe2o3,1,carbona,4
+63,cusbs2 nanowires,1,nano-array,4
+64,grain growth,1,high energy density,4
+65,electron microscopy,1,high,4
+66,fluorophosphate,1,charge/discharge,4
+67,solution-combustion,1,electrochemical properties,4
+68,nanometric particles,1,dissolution,4
+69,capacity,1,nimh,4
+70,sodium-ion battery,1,hev,4
+71,centrifugal spinning,1,characterization,4
+72,antimony tin alloy,1,ni-mh,4
+73,porous,1,polymer electrolyte,4
+74,chemical vapor deposition,1,fuel cells,4
+75,shuttle effect,1,active,4
+76,sulfur hosts,1,bafeo4,4
+77,enriched mesoporous,1,super-iron,4
+78,ferroin,1,fe(vi) cathode,4
+79,neutral red,1,ferrate,4
+80,redox flow battery,1,alkaline battery,4
+81,redox indicator,1,nico2o4,3
+82,redox pair,1,microwave-enhanced synthesis,3
+83,fe2o3,1,lithium ion,3
+84,ordered mesoporous carbon,1,manganese sulfide,3
+85,self-assembly,1,nanostructures,3
+86,nanowire,1,cusbs2 nanowires,3
+87,li-s batteries,1,grain growth,3
+88,mno2 nanosheets,1,electron microscopy,3
+89,cnts,1,fluorophosphate,3
+90,fractal morphology,1,solution-combustion,3
+91,fractional calculus,1,nanometric particles,3
+92,parameter,1,capacity,3
+93,nanocomposite,1,sodium-ion battery,3
+94,sodium storage,1,centrifugal spinning,3
+95,ruthenium based materials,1,antimony tin alloy,3
+96,licoo2,1,porous,3
+97,gas sensor,1,fe2o3,3
+98,carbon,1,ordered mesoporous carbon,3
+99,flexible rechargeable batteries,1,self-assembly,3
+100,lithium metal anodes,1,li-s batteries,3
+101,extreme fast charging,1,mno2 nanosheets,3
+102,developmental needs,1,cnts,3
+103,supercapacitor,1,fractal morphology,3
+104,rechargeable battery,1,fractional calculus,3
+105,all-manganese-based electrodes,1,parameter,3
+106,binder-free,1,electrochemical performance,3
+107,chemical bonding,1,ion batteries,3
+108,electrode surface modification,1,supercapacitor,3
+109,energy conversion,1,rechargeable battery,3
+110,nanowires,1,all-manganese-based electrodes,3
+111,highly,1,binder-free,3
+112,characterization methods,1,chemical bonding,3
+113,olivine,1,li-s,3
+114,nanoparticles,1,structure,3
+115,mgmnsio4,1,asymmetric supercapacitor,3
+116,mgcosio4,1,lifepo4 cathode,3
+117,magnesium-ion battery,1,carbon layer,3
+118,alkali-metals,1,edta,3
+119,li-s,1,biomass,3
+120,structure,1,high specific surface area,3
+121,liquid electrolyte,1,cycling,3
+122,composite cathodes,1,carbon materials,3
+123,graphene oxide composite,1,microstructure,3
+124,transition-metal oxide,1,hierarchical,3
+125,asymmetric supercapacitor,1,case study,3
+126,lifepo4 cathode,1,cost-benefit analysis,3
+127,carbon layer,1,industrial ecology,3
+128,edta,1,material flow,3
+129,biomass,1,bulk electrode,3
+130,high specific surface area,1,energy density,3
+131,cycling,1,rapid manufacturing,3
+132,carbon materials,1,high-capacity anodes,3
+133,microstructure,1,reduced,3
+134,hierarchical,1,intercalation,3
+135,case study,1,oxide,3
+136,cost-benefit analysis,1,mn(v),3
+137,industrial ecology,1,decomposition,3
+138,material flow,1,physical characterization,3
+139,nanotechnology,1,graphite anodes,3
+140,battery materials,1,polyoxometalates,3
+141,preparations and applications,1,electrical energy storage,3
+142,reduced graphene oxides,1,fire safety,3
+143,one-dimensional structure,1,thermal runaway,3
+144,sulfur-contained,1,copper slug,3
+145,encapsulated sulfur,1,two-dimensional materials,3
+146,bulk electrode,1,nanosheets,3
+147,energy density,1,high rate,3
+148,electrical conductivity,1,energy-storage,3
+149,phosphates,1,microspheres,3
+150,texture,1,nanomaterials,3
+151,rapid manufacturing,1,all-solid-state battery,3
+152,high-capacity anodes,1,amorphous si film,3
+153,reduced,1,high rate capability,3
+154,silicon,1,cells,3
+155,non-aqueous lithium-oxygen battery,1,composites,3
+156,carbon-base,1,18650 lithium-ion batteries,3
+157,intercalation,1,water,3
+158,oxide,1,voltage curves,3
+159,c nanocomposite anodes,1,self-discharging,3
+160,oxygen,1,lithium-sulfur battery,3
+161,ginkgo leave,1,modeling battery,3
+162,abundant,1,simulations,3
+163,reversible capacity,1,open-circuit voltage,3
+164,promising,1,relaxation model,3
+165,aqueous rechargeable battery,1,time,3
+166,zn negative electrode,1,storage properties,3
+167,long-life,1,oxide composites,3
+168,mn(v),1,laser structuring,3
+169,decomposition,1,microstructures,3
+170,membrane,1,free-surface impact,3
+171,3d current collectors,1,air entraining,3
+172,facile,1,supercavitating,3
+173,physical characterization,1,cavity formation,3
+174,graphite anodes,1,numbers,3
+175,high-throughput calculations,1,cavity dynamics,3
+176,density,1,free-surface,3
+177,microwave assisted hydrothermal route,1,spherical,3
+178,organic compound,1,atomic force microscopy,3
+179,polyoxometalates,1,high-speed afm,3
+180,electrical energy storage,1,surface analysis,3
+181,fire safety,1,afm,3
+182,thermal runaway,1,radical polymer,3
+183,copper slug,1,polymer battery,3
+184,in situ transmission electron microscopy,1,secondary battery,3
+185,in situ transport,1,rechargeable batteries,3
+186,photoluminescence,1,nickel-hydroxide,3
+187,two-dimensional materials,1,mh,3
+188,nanosheets,1,high capacity,3
+189,high rate,1,high stability,3
+190,ultrafast-charge,1,lithium manganese oxide,3
+191,anode material,1,new energy automotive,3
+192,fluorinated graphene nanosheets,1,battery membrane material,3
+193,two-dimensional nanostructure,1,service,3
+194,three-dimensional structure,1,core/shell,3
+195,energy-storage,1,hollow carbon spheres,3
+196,microspheres,1,tin oxide,3
+197,nanomaterials,1,acetate precursors,3
+198,iron pyrophosphate,1,microwave method,3
+199,high-capacity,1,layered oxides,3
+200,all-solid-state battery,1,doping,3
+201,amorphous si film,1,electrodes,3
+202,high rate capability,1,molecular electronics,3
+203,cells,1,organic,3
+204,composites,1,carbon cluster,3
+205,tungsten oxide,1,li ion battery,3
+206,carbona,1,electrode material,3
+207,18650 lithium-ion batteries,1,microwave synthesis,3
+208,water,1,li4ti5o12,3
+209,voltage curves,1,negative electrode,3
+210,self-discharging,1,sn-co-c,3
+211,lithium-sulfur battery,1,oxides,3
+212,modeling battery,1,chemical synthesis,3
+213,simulations,1,graphene nanosheets,3
+214,nano-array,1,cycle performance,3
+215,high energy density,1,carbon electrode,3
+216,high,1,load leveling,3
+217,multiwalled carbon nanotubes,1,snsb alloys,3
+218,open-circuit voltage,1,limn2o4,3
+219,relaxation model,1,molten salt synthesis,3
+220,time,1,powder synthesis,3
+221,hollow spheres,1,lithium storage,3
+222,storage,1,positive electrode,3
+223,storage properties,1,mechano-chemical,3
+224,oxide composites,1,petroleum coke,3
+225,tio2,1,activated carbon,3
+226,laser structuring,1,nanometer sized carbide,3
+227,microstructures,1,composite,3
+228,free-surface impact,1,sodium manganese oxide,3
+229,air entraining,1,lithium battery,3
+230,supercavitating,1,rapid,3
+231,cavity formation,1,coup de fouet,3
+232,numbers,1,dynel fibres,3
+233,cavity dynamics,1,lead-acid cell,3
+234,free-surface,1,rapid-thermally-activated,3
+235,spherical,1,acetylene black,3
+236,hierarchical porous structure,1,sonochemistry,3
+237,cobalt oxide,1,composite material,3
+238,nanoscale materials,1,aluminum,3
+239,nanoscience,1,solid electrolyte,3
+240,atomic force microscopy,1,glass,3
+241,high-speed afm,1,rapid quenching,3
+242,surface analysis,1,mechanical milling,3
+243,afm,1,active material structure,3
+244,radical polymer,1,charging regime,3
+245,polymer battery,1,cycle,3
+246,secondary battery,1,boric acid,3
+247,density functional method,1,dry-charged batteries,3
+248,dissolution,1,battery grids,3
+249,nimh,1,corrosion,3
+250,hev,1,lead-calcium alloys,3
+251,characterization,1,electrostatic spray deposition,2
+252,rechargeable batteries,1,heterostructure,2
+253,nickel-hydroxide,1,sulfur host materials,2
+254,mh,1,materials genome initiative,2
+255,high capacity,1,covalent organic frameworks,2
+256,high stability,1,gamma-mns,2
+257,large reversible capacity,1,high energy and power densities,2
+258,lithium manganese oxide,1,g-fe2o3,2
+259,new energy automotive,1,chemical vapor deposition,2
+260,battery membrane material,1,shuttle effect,2
+261,service,1,sulfur hosts,2
+262,laser-induced breakdown spectroscopy (libs),1,nanocomposite,2
+263,multi-elemental analysis,1,sodium storage,2
+264,core/shell,1,ruthenium based materials,2
+265,hollow carbon spheres,1,flexible rechargeable batteries,2
+266,tin oxide,1,lithium metal anodes,2
+267,acetate precursors,1,extreme fast charging,2
+268,microwave method,1,developmental needs,2
+269,layered oxides,1,electrode surface modification,2
+270,doping,1,energy conversion,2
+271,electrodes,1,characterization methods,2
+272,molecular electronics,1,liquid electrolyte,2
+273,organic,1,composite cathodes,2
+274,carbon cluster,1,graphene oxide composite,2
+275,li ion battery,1,transition-metal oxide,2
+276,electrode material,1,nanotechnology,2
+277,microwave synthesis,1,battery materials,2
+278,li4ti5o12,1,preparations and applications,2
+279,nanowall,1,reduced graphene oxides,2
+280,negative electrode,1,one-dimensional structure,2
+281,sn-co-c,1,sulfur-contained,2
+282,urine biomarkers,1,encapsulated sulfur,2
+283,uromodulin,1,electrical conductivity,2
+284,zp domain,1,phosphates,2
+285,room-temperature,1,texture,2
+286,ionic,1,silicon,2
+287,oxides,1,non-aqueous lithium-oxygen battery,2
+288,chemical synthesis,1,carbon-base,2
+289,graphene nanosheets,1,aqueous rechargeable battery,2
+290,cycle performance,1,zn negative electrode,2
+291,carbon electrode,1,long-life,2
+292,load leveling,1,high-throughput calculations,2
+293,snsb alloys,1,density,2
+294,rapid charge,1,organic compound,2
+295,manganate lithium ion rechargeable batteries,1,photoluminescence,2
+296,limn2o4,1,ultrafast-charge,2
+297,molten salt synthesis,1,anode material,2
+298,powder synthesis,1,three-dimensional structure,2
+299,lithium storage,1,high-capacity,2
+300,positive electrode,1,hollow spheres,2
+301,mechano-chemical,1,storage,2
+302,temperature,1,tio2,2
+303,petroleum coke,1,hierarchical porous structure,2
+304,activated carbon,1,cobalt oxide,2
+305,nanometer sized carbide,1,nanoscale materials,2
+306,composite,1,nanoscience,2
+307,nickel-metal hydride battery,1,density functional method,2
+308,rare earth oxides,1,large reversible capacity,2
+309,charge efficiency,1,urine biomarkers,2
+310,review,1,uromodulin,2
+311,thin film and lithium battery materials,1,zp domain,2
+312,combinatorial electrochemistry,1,room-temperature,2
+313,combinatorial thin film sputter,1,rapid charge,2
+314,radical molecules,1,manganate lithium ion rechargeable batteries,2
+315,lithium secondary batteries,1,temperature,2
+316,sodium manganese oxide,1,nickel-metal hydride battery,2
+317,lithium battery,1,rare earth oxides,2
+318,rapid,1,charge efficiency,2
+319,coup de fouet,1,radical molecules,2
+320,dynel fibres,1,lithium secondary batteries,2
+321,lead-acid cell,1,technique,2
+322,rapid-thermally-activated,1,spinel limn2o4,2
+323,acetylene black,1,fuel-cells,2
+324,sonochemistry,1,metal hydride electrodes,2
+325,composite material,1,walled carbon nanotubes,2
+326,aluminum,1,electrospray-deposition,1
+327,technique,1,enriched mesoporous,1
+328,spinel limn2o4,1,nanowire,1
+329,ni-mh,1,licoo2,1
+330,polymer electrolyte,1,nanowires,1
+331,fuel cells,1,highly,1
+332,active,1,alkali-metals,1
+333,bafeo4,1,c nanocomposite anodes,1
+334,super-iron,1,oxygen,1
+335,fe(vi) cathode,1,membrane,1
+336,ferrate,1,3d current collectors,1
+337,alkaline battery,1,facile,1
+338,solid electrolyte,1,microwave assisted hydrothermal route,1
+339,glass,1,in situ transmission electron microscopy,1
+340,rapid quenching,1,in situ transport,1
+341,mechanical milling,1,fluorinated graphene nanosheets,1
+342,fuel-cells,1,two-dimensional nanostructure,1
+343,metal hydride electrodes,1,iron pyrophosphate,1
+344,walled carbon nanotubes,1,multiwalled carbon nanotubes,1
+345,alkaline,1,laser-induced breakdown spectroscopy (libs),1
+346,active material structure,1,multi-elemental analysis,1
+347,charging regime,1,ionic,1
+348,cycle,1,review,1
+349,boric acid,1,thin film and lithium battery materials,1
+350,dry-charged batteries,1,combinatorial electrochemistry,1
+351,battery grids,1,combinatorial thin film sputter,1
+352,corrosion,1,alkaline,1
+353,lead-calcium alloys,1,combinatorial chemistry,1
+354,combinatorial chemistry,1,split-and-mix and parallel synthesis,1
+355,split-and-mix and parallel synthesis,1,,
