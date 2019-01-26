@@ -9,7 +9,7 @@ import pandas as pd
 
 MG = nx.MultiGraph()
 plt.figure(figsize=(15, 15))
-fileName = "Quantum Cryptography"
+fileName = "Light-Field Photography"
 os.chdir("F:\\大道之君\\Breakingthrough-Techonologies-Data-Analysis\\关键词数据\\关键词Data\\"+fileName)
 filename = fileName + '.json'
 file = open(filename)
