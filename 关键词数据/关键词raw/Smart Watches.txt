@@ -1,0 +1,491 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE Authentic contexts; EFL learning; Health; Positive emotions; Wearable
+   device
+ID PHYSICAL-ACTIVITY; TECHNOLOGIES; ACHIEVEMENT; PROFICIENCY; ACCEPTANCE;
+   EMOTIONS; BENEFITS; STUDENTS; MODEL
+ER
+
+PT J
+DE Telecare; Smart watch; Wireless biosensor; Peer-to-peer communication;
+   Publisher; subscriber architecture
+ER
+
+PT J
+ID WAVE-GUIDE TECHNOLOGY; TEXTILE ANTENNA; WIRELESS POWER; ENERGY
+   HARVESTER; SOLAR-CELLS; RFID TAG; BODY; SYSTEM; HEALTH; DEVICES
+ER
+
+PT J
+DE Toddler; Electronic media; Smart device; Exposure
+ID SEDENTARY BEHAVIORS; TELEVISION EXPOSURE; PRESCHOOL-CHILDREN; HEALTH
+   OUTCOMES; SCREEN-TIME; ASSOCIATIONS; PARENTS; ADULTS
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE Stroke; Physical activity; Technology; Goal setting; Feedback
+ID MONTREAL COGNITIVE ASSESSMENT; WALKING; RECOVERY; VERSION; CHINA
+ER
+
+PT J
+ER
+
+PT J
+DE QFD; HoQ diagram
+ER
+
+PT B
+DE Smart Grid; Stream Reasoning; Monitoring; SCADA; Grid Operations
+ID SMART; COMMUNICATION; INTERNET
+ER
+
+PT B
+DE EBG; AMC; wearable antenna; smart-watch
+ID MONOPOLE
+ER
+
+PT B
+DE accelerometer; hand gesture; hand movement; robotic arm; smart phone;
+   smart watch; wireless protocol
+ER
+
+PT B
+ER
+
+PT J
+ID VALUE-FOCUSED THINKING; MOBILE TECHNOLOGY; ACCEPTANCE MODEL; USER
+   ACCEPTANCE; INFORMATION; USAGE; SMARTGLASSES; SMARTWATCHES; COMPUTERS;
+   SERVICES
+ER
+
+PT J
+DE chronic obstructive pulmonary disease; long-acting beta 2-agonist;
+   long-acting muscarinic antagonist; physical activity; smart watch
+ID COPD; REHABILITATION; HOSPITALIZATION; INDACATEROL; MULTICENTER;
+   MANAGEMENT; INACTIVITY; SEVERITY; HEALTH
+ER
+
+PT J
+ER
+
+PT J
+DE Multimodal interaction; Voice input; Touch input; Smart watch input
+ID TAP-N-DRAG; MOBILE; INTERFACES; USABILITY; SYSTEMS
+ER
+
+PT J
+ER
+
+PT S
+DE activity recognition; decision tree; smart watch; ubiquitous computing
+ER
+
+PT S
+DE Smart watch; Smartwatch; Consumer health; Health behavior; Usability
+ID PHYSICAL-ACTIVITY; MENTAL-HEALTH; CARE; TECHNOLOGIES; DISEASE; HIV;
+   SMARTWATCHES; INTENTION; VALIDITY; ADOPTION
+ER
+
+PT B
+DE wearable device; data extraction; data transfusion; risk assessment
+ER
+
+PT S
+ER
+
+PT B
+DE wearable devices; smart wristband; bluetooth low energy; security;
+   privacy
+ER
+
+PT S
+DE Assessments; Crowdsourcing; Internet of Things; QTI; MQTT; Sensor
+   Context; Smartwatch; Wearables
+ID INTERNET; THINGS
+ER
+
+PT B
+DE Emotion-recognition; accelerometer; supervised learning
+ID FILMS
+ER
+
+PT B
+DE Wearable technology; quantified self; health informatics; heart rate;
+   cardio disease; self-health; smart watch; heart rate; preventive
+   medicine
+ER
+
+PT B
+DE Atrial fibrillation; arrhythmia; smartphone; smart watch; monitoring;
+   usability
+ID ATRIAL-FIBRILLATION
+ER
+
+PT S
+DE notification; numerical computation; smart-watch; android devise
+ER
+
+PT B
+DE User Authentication; Smart Phone; Smart watch; Skin Temperature;
+   Galvanic Skin Respond (GSR)
+ER
+
+PT S
+DE transparent antenna; invisible antenna; WiFi antenna; dual-band antenna;
+   smart watch applications
+ER
+
+PT S
+DE smart watch; sign language; dynamic time warping
+ER
+
+PT B
+DE Telecare System; Wireless Bio-sensor; Wristwatch-type Device; Smart
+   Watch; Peer-to-peer; Tactile Interface
+ER
+
+PT S
+ER
+
+PT S
+DE smartphone; smart watch; synchronization databases; data exchange;
+   mobile applications
+ER
+
+PT B
+ER
+
+PT B
+DE Wi-Fi; Blue-Tooth; smart watch; WLAN mimo; GPS
+ER
+
+PT B
+DE smart-watch antennas; multiband antennas; IFA antenna
+ID LTE/WWAN TABLET DEVICE
+ER
+
+PT B
+DE wearable device; power management; DMIPS; task offloading; Bluetooth
+ER
+
+PT J
+ID PEDESTRIAN NAVIGATION; PERFORMANCE; DEVICES; ANIMATION; COMPUTERS;
+   RESPONSES; CONTEXT; MOTION
+ER
+
+PT S
+DE Google glass; GPS; Smartwatch; Virtual reality image
+ER
+
+PT B
+DE Flight attendants; situation awareness; collaboration; Crew Resource
+   Management (CRM)
+ER
+
+PT J
+DE Smart watch; Smartwatch; Health intervention; Translational research;
+   Systematic review
+ID INFORMATICS; BEHAVIOR
+ER
+
+PT J
+DE COPD - management; Physical activity; Exercise
+ER
+
+PT J
+ID RECHARGEABLE LI-O-2 BATTERIES; HIGH-ENERGY DENSITY; FLEXIBLE
+   SUPERCAPACITORS; ELECTRODE MATERIALS; ASYMMETRIC SUPERCAPACITORS;
+   WEARABLE ELECTRONICS; CARBON-FIBERS; GRAPHENE; PERFORMANCE; OXIDE
+ER
+
+PT J
+DE Smart-watch; Smartwatch; Atrial fibrillation detection;
+   Photoplethysmography
+ID ATRIAL-FIBRILLATION; AUTOMATIC DETECTION; ALGORITHM; SENSOR
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT B
+ER
+
+PT S
+DE elderly people; heart rate; Kingdom of Saudi Arabia; knowledge-based
+   system
+ID FAILURE
+ER
+
+PT B
+DE Curved film antenna; Dual band; Smart watch; Cellular communication
+ER
+
+PT S
+DE MIMO antenna; dipole antenna; Wi-Fi
+ER
+
+PT S
+DE Ultra-low power; Smart watch; Context recognition; Machine learning;
+   Sensor fusion; Energy neutral; Feature selection
+ER
+
+PT S
+ID ELECTRONIC DEVICES
+ER
+
+PT B
+DE PIC Microcontroller; TMP 75 sensor; OPT 101 Transimpedance Amplifier;
+   Calorie; Real time clock
+ER
+
+PT B
+DE Wearables; fashion; smart watches; outfit; watch face; design
+   triangulation
+ER
+
+PT S
+DE User experience; Smart watch; Longitudinal study; Usability
+ER
+
+PT S
+DE Kansei Engineering; Smart watch; Quantification theory type I
+ER
+
+PT S
+DE Android; Smart Watches; Data Security; Point of View; General Framework
+ER
+
+PT S
+DE Usability evaluation; Eye movement tracking; Smart watch; Interface
+   design
+ID MOVEMENTS; INFORMATION
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT J
+DE Other clinical informatics applications; Interfaces and usability;
+   Healthcare; Wearable device; Smart watch
+ID PARKINSONS-DISEASE; WEARABLE DEVICES; KINECT; STATEMENT; ACCURACY;
+   MOVEMENT; TRACKING
+ER
+
+PT B
+DE Emergency; Crisis; Mobile Application; Smart Watch
+ID DISASTER MANAGEMENT
+ER
+
+PT B
+DE smart-watch; SAR; numerical computation; exposure; human-body model;
+   flat phatnom
+ER
+
+PT B
+ER
+
+PT B
+DE Wearable computing; mobile text input; smart watches; dynamic time
+   warping (DTW)
+ER
+
+PT J
+DE Activity type recognition; fall detection; smart watch; ambient assisted
+   living; accelerometer; motion data; streaming data
+ID PHYSICAL-ACTIVITY; ACTIVITY RECOGNITION; TRIAXIAL ACCELEROMETER;
+   CLASSIFICATION; MOTION; INTENSITY; SENSORS; MEN
+ER
+
+PT J
+DE Wearable device; Smart watch; Smart bracelet; Multitasking; Uses and
+   gratifications
+ID INFORMATION-TECHNOLOGY; MULTITASKING; MEDIA; GRATIFICATIONS
+ER
+
+PT J
+DE analytical hierarchy process; product recommendation; Naive Bayes
+   classifier; correspondence analysis; product positioning
+ID CUSTOMER LIFETIME VALUE; DESIGN; CONFIGURATION; METHODOLOGY; PREFERENCE
+ER
+
+PT B
+DE Accessory; Modular; Real time; Bluetooth; GSM; GPS; Low-Power
+ER
+
+PT B
+DE Smartwatch; Samsung Gear 2 Neo smart watch; LG G smart watch; Wearable
+   devices; Mobile forensics; Smart watch forensics; Android forensics;
+   Tizen forensics
+ER
+
+PT B
+DE Eye tracking; smart watches; small devices; small displays; pursuits;
+   gaze interaction; gaze input; wearable computing
+ER
+
+PT B
+DE cellular antenna; wearable devices; SAR; body loss
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT S
+DE Wi-Fi; WLAN; Blue-Tooth; smart watch; IFA; MIMO antennas
+ID COMPACT
+ER
+
+PT S
+DE smart helmet; smart watch; power scene; safety monitoring
+ER
+
+PT B
+ID ELECTRONIC DEVICES
+ER
+
+PT S
+ER
+
+PT S
+DE Internet of Things; Smart Home; Security; Intrusion detection;
+   Semi-automatic; Neighborhood watch
+ER
+
+PT S
+DE Android; Google; Smart watch; Voice input; Wearable
+ER
+
+PT S
+DE Touch screen; Proprioception; Smart watch
+ER
+
+PT B
+DE Embedded Linux; E-paper; Pedometer; Smart Watch
+ER
+
+PT S
+DE classroom response system; smart watch; user attention management;
+   multitasking
+ER
+
+PT J
+DE Integrated acceptance model; Smart watch; Wearable technology
+ID USER ACCEPTANCE; INFORMATION-TECHNOLOGY; INTEGRATED MODEL; FIT INDEXES;
+   SERVICES; DETERMINANTS; SMARTPHONES; UTILITARIAN; PERCEPTIONS; DIFFUSION
+ER
+
+PT J
+ER
+
+PT S
+DE component; Kansei Engineering; Smart Watch; Form design
+ER
+
+PT S
+DE Smart Watches; Medication Adherence; Self-management
+ID SYSTEM
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE Tremor; Parkinson's disease; Essential tremor; Accelerometry
+ID PARKINSONS-DISEASE
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT S
+ER
+
+PT S
+DE SmartWatch2; Smart Extension APIs; Android; password protectio; wearable
+ER
+
+PT J
+ER
+
+PT S
+DE Smart TV; wearable devices; smart watch; remote control
+ER
+
+PT B
+DE vibration; watch; visually impaired people
+ER
+
+PT S
+DE component; healthcare; system healthcare; heart rate; data collecting
+ID ACUTE MYOCARDIAL-INFARCTION
+ER
+
+PT S
+DE wearable smart textiles; piezoresistive sensors; smart watch; training
+   shoe; analog front end
+ID YARNS
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE decisional DNA; digital TV; Extensible Markup Language (XML); knowledge
+   representation; set of experience knowledge structure
+ID KNOWLEDGE STRUCTURE; SET
+ER
+
+PT J
+ID SENSOR NETWORKS; AD HOC; PRIVACY
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+EF

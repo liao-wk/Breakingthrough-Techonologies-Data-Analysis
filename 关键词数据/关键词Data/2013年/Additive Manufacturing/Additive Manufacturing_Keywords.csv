@@ -1,0 +1,364 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,additive manufacturing,95,additive manufacturing,252
+1,3d printing,30,3d printing,84
+2,additive,8,additive,24
+3,selective laser melting,8,selective laser melting,18
+4,manufacturing,6,rapid prototyping,17
+5,rapid prototyping,6,manufacturing,15
+6,materials,6,microstructure,12
+7,additive manufacturing (am),5,rapid manufacturing,12
+8,rapid manufacturing,5,bioprinting,10
+9,microstructure,4,business model,9
+10,business model,3,additive layer manufacturing,9
+11,powder bed fusion,3,metal,9
+12,additive layer manufacturing,3,additive manufacturing (am),9
+13,metal,3,fused deposition modeling,9
+14,bioprinting,3,powder bed fusion,8
+15,metal additive manufacturing,3,batteries,8
+16,electron beam melting,3,additive manufacture,8
+17,fused deposition modeling,3,sustainability,8
+18,material,3,electrolyte,8
+19,additive manufacture,3,metal additive manufacturing,7
+20,design for additive manufacturing,3,electron beam melting,7
+21,sustainability,3,materials,7
+22,machining,2,review,7
+23,laser beam melting,2,design for additive manufacturing,7
+24,fused deposition,2,laser beam melting,6
+25,metals,2,metals,6
+26,anisotropy,2,thermal,6
+27,laser additive manufacturing,2,antenna feeds,6
+28,selective laser,2,titanium,6
+29,batteries,2,porosity,6
+30,thermal,2,process control,6
+31,three dimensional printing,2,3d,6
+32,topology optimization,2,cloud,6
+33,laser,2,anisotropy,5
+34,antenna feeds,2,selective laser,5
+35,life cycle assessment,2,topology optimization,5
+36,additive technologies,2,laser,5
+37,metrology,2,life cycle assessment,5
+38,titanium,2,metrology,5
+39,porosity,2,energy consumption,5
+40,review,2,fatigue,5
+41,process control,2,heat,5
+42,3d,2,material,5
+43,cloud,2,machining,4
+44,energy consumption,2,buildings,4
+45,fatigue,2,aerospace,4
+46,direct laser deposition (dld),2,biomaterials,4
+47,heat,2,innovation,4
+48,electrolyte,2,small firms,4
+49,additive fabrication,2,crowd,4
+50,bistable structures,1,fused deposition,4
+51,residual stress,1,microct,4
+52,tri-dexel model,1,x-ray,4
+53,additive-subtractive manufacturing,1,tomography,4
+54,flexure hinges,1,non-destructive,4
+55,stiffness,1,laser additive manufacturing,4
+56,titanium-based matrix composites,1,alsi10mg,4
+57,selective,1,computed tomography,4
+58,hybrid manufacturing,1,defects,4
+59,residual stresses,1,flaw,4
+60,manufacturing management,1,fuel cells,4
+61,optimization,1,solar cells,4
+62,control,1,three dimensional printing,4
+63,electrochemistry,1,delphi,4
+64,hydrogen evolution reaction,1,forecasting,4
+65,oxygen,1,scenario,4
+66,buildings,1,biomedical,4
+67,aerospace,1,ceramic,4
+68,biomaterials,1,digital hybrid am,4
+69,hybrid additive-subtractive manufacturing,1,additive technologies,4
+70,multi-axis additive,1,rapid,4
+71,literature review,1,lasers,4
+72,innovation,1,distributed additive manufacturing,4
+73,small firms,1,process format,4
+74,crowd,1,jt,4
+75,fused filament fabrication,1,iso 14306,4
+76,additive manufacturing/3d printing,1,web,4
+77,bioceramics,1,electrodes,4
+78,metallic biomaterials,1,carbonyls,4
+79,actuators,1,organic electronic,4
+80,liquid crystal elastomers,1,polymeric,4
+81,shape morphing,1,fdm,4
+82,mechanical properties and,1,bead spreading,4
+83,directed energy,1,liquefier dynamics,4
+84,cold spray,1,melt,4
+85,adhesion,1,lithium ion battery,4
+86,impact,1,high voltage,4
+87,finite element methods,1,cathode,4
+88,topology design,1,sodium ion batteries,4
+89,structures,1,negative electrode,4
+90,heterogeneity,1,hard carbon,4
+91,scan strategy,1,fec,4
+92,molten,1,biofabrication,4
+93,carbon fibers,1,hydrogels,4
+94,polymer-matrix composites (pmcs),1,tissue,4
+95,mechanical testing,1,additive fabrication,4
+96,reliability,1,flexure hinges,3
+97,availability,1,stiffness,3
+98,microct,1,manufacturing management,3
+99,x-ray,1,optimization,3
+100,tomography,1,control,3
+101,non-destructive,1,electrochemistry,3
+102,flexibility,1,hydrogen evolution reaction,3
+103,advanced manufacturing technology,1,oxygen,3
+104,manufacturing smes,1,literature review,3
+105,technological,1,actuators,3
+106,electric drive,1,liquid crystal elastomers,3
+107,slm,1,shape morphing,3
+108,corrosion,1,directed energy,3
+109,alsi10mg,1,cold spray,3
+110,computed tomography,1,adhesion,3
+111,defects,1,impact,3
+112,flaw,1,finite element methods,3
+113,micro-/nano-scale 3d printing,1,topology design,3
+114,4d,1,structures,3
+115,co-cr,1,heterogeneity,3
+116,fatigue behavior,1,scan strategy,3
+117,porous biomaterial,1,molten,3
+118,grain growth,1,reliability,3
+119,direct digital manufacturing,1,availability,3
+120,fuel cells,1,electric drive,3
+121,solar cells,1,slm,3
+122,3-d printing,1,corrosion,3
+123,global supply,1,micro-/nano-scale 3d printing,3
+124,build orientation optimization,1,4d,3
+125,multi-part production,1,co-cr,3
+126,am feature,1,fatigue behavior,3
+127,controlled-release,1,porous biomaterial,3
+128,laser manufacturing,1,3-d printing,3
+129,selective laser sintering,1,global supply,3
+130,intermediate objects,1,intermediate objects,3
+131,creative design,1,creative design,3
+132,creativity,1,creativity,3
+133,manufacturing technology,1,plastic composites,3
+134,development status,1,fiber-reinforcement,3
+135,electron beam melting (ebm),1,fiber,3
+136,delphi,1,satellite communications,3
+137,forecasting,1,3d manufacturing,3
+138,scenario,1,life cycle analysis,3
+139,laser and electron-beam melting processes,1,visualization,3
+140,fused deposition modelling,1,tissue engineering and,3
+141,laser metal,1,industrial sustainability,3
+142,plastic composites,1,resource,3
+143,fiber-reinforcement,1,properties,3
+144,fiber,1,food design,3
+145,production,1,material properties,3
+146,additive manufacturing technologies,1,uam,3
+147,unmanned aerial vehicle,1,dissimilar metal weld,3
+148,time and,1,ebsd,3
+149,satellite communications,1,texture,3
+150,3d manufacturing,1,process monitoring,3
+151,wire and arc additive manufacturing,1,quality assurance,3
+152,shape deposition control,1,defect,3
+153,life cycle analysis,1,implant,3
+154,visualization,1,prosthetics,3
+155,biomedical,1,hybrid layered,3
+156,ceramic,1,bone scaffold,3
+157,digital hybrid am,1,porous,3
+158,tissue engineering and,1,skeletal stem cell,3
+159,microfluidic device,1,osteogenesis,3
+160,industrial sustainability,1,angiogenesis,3
+161,resource,1,tissue regeneration,3
+162,lightweight aircraft,1,process mechanisms,3
+163,nondestructive testing,1,modelling,3
+164,fault,1,electrospinning,3
+165,product development,1,carbon nanofiber,3
+166,design method,1,battery,3
+167,surface texture,1,energy storage,3
+168,properties,1,social manufacturing,3
+169,optical design and fabrication,1,consumer products,3
+170,supply chain,1,risk,3
+171,food design,1,satellite communication,3
+172,material properties,1,waveguide components,3
+173,uam,1,3d metal print,3
+174,dissimilar metal weld,1,economics,3
+175,ebsd,1,intellectual property,3
+176,texture,1,legal,3
+177,process monitoring,1,rescource virtualization,3
+178,quality assurance,1,self-managment,3
+179,defect,1,metrics,3
+180,rapid,1,measure,3
+181,lasers,1,sustainable manufacturing,3
+182,implant,1,variations,3
+183,prosthetics,1,correlations,3
+184,hybrid layered,1,mechanical properties,3
+185,bone scaffold,1,fracture,3
+186,porous,1,dental materials,3
+187,skeletal stem cell,1,layered,3
+188,osteogenesis,1,business models,3
+189,angiogenesis,1,digital,3
+190,tissue regeneration,1,global manufacturing,3
+191,process mechanisms,1,e-manufacturing,3
+192,modelling,1,maker movement,3
+193,electrospinning,1,topology,3
+194,carbon nanofiber,1,wire,3
+195,battery,1,metal component,3
+196,energy storage,1,direct laser deposition (dld),3
+197,metal fluorides,1,market structure,3
+198,anode,1,flexible,3
+199,design,1,selective electron beam melting,3
+200,manufacturing process,1,pores,3
+201,concurrent engineering,1,316l stainless steel,3
+202,social manufacturing,1,direct slicing,3
+203,consumer products,1,layered manufacturing,3
+204,risk,1,stl,3
+205,satellite communication,1,threats,3
+206,waveguide components,1,risks,3
+207,3d metal print,1,value chain,3
+208,economics,1,micro manufacturing,3
+209,intellectual property,1,design of,3
+210,legal,1,surface roughness,3
+211,rescource virtualization,1,distortion,3
+212,self-managment,1,ti6al4v,3
+213,geometrical accuracy,1,lattice structures,3
+214,additive-subtractive,1,metal deposition,3
+215,metrics,1,element activation,3
+216,measure,1,numerical chain,3
+217,sustainable manufacturing,1,dfam,3
+218,variations,1,manufacturing path,3
+219,correlations,1,robot,3
+220,distributed additive manufacturing,1,gmaw,3
+221,process format,1,electromagnetism,3
+222,jt,1,environmental impact,3
+223,iso 14306,1,supply,3
+224,web,1,cybernetics,3
+225,mechanical properties,1,tissue engineering,3
+226,fracture,1,bioelectronics,3
+227,alloy,1,cyborg organs,3
+228,beam melting ebm,1,nanotechnology,3
+229,design for additive manufacturing (dfam),1,nanocomposite,3
+230,manufacturing execution system,1,anode materials,3
+231,advanced manufacturing,1,hollow microspheres,3
+232,additive manufacturing review,1,iron oxides,3
+233,ground structure method,1,lithium-ion,3
+234,density-based topology,1,dmls,3
+235,dental materials,1,direct,3
+236,layered,1,multilayer,3
+237,business models,1,element birth and death,3
+238,digital,1,additives,3
+239,global manufacturing,1,electrochemical electrodes,3
+240,e-manufacturing,1,electrolytes,3
+241,additive manufacturing process,1,fourier transform,3
+242,scaffolds,1,bistable structures,2
+243,maker movement,1,residual stress,2
+244,topology,1,tri-dexel model,2
+245,wire,1,additive-subtractive manufacturing,2
+246,metal component,1,titanium-based matrix composites,2
+247,electrodes,1,selective,2
+248,carbonyls,1,hybrid manufacturing,2
+249,organic electronic,1,residual stresses,2
+250,polymeric,1,fused filament fabrication,2
+251,anode-active,1,additive manufacturing/3d printing,2
+252,high-capacity,1,bioceramics,2
+253,market structure,1,metallic biomaterials,2
+254,flexible,1,mechanical properties and,2
+255,selective electron beam melting,1,carbon fibers,2
+256,pores,1,polymer-matrix composites (pmcs),2
+257,fused deposition modeling (fdm),1,mechanical testing,2
+258,experimental design,1,flexibility,2
+259,titanium alloy,1,advanced manufacturing technology,2
+260,phase transformation,1,manufacturing smes,2
+261,316l stainless steel,1,technological,2
+262,process principles,1,grain growth,2
+263,comparative study,1,direct digital manufacturing,2
+264,desing optimization,1,build orientation optimization,2
+265,design for x,1,multi-part production,2
+266,direct slicing,1,am feature,2
+267,layered manufacturing,1,controlled-release,2
+268,stl,1,laser manufacturing,2
+269,threats,1,selective laser sintering,2
+270,risks,1,manufacturing technology,2
+271,value chain,1,development status,2
+272,design for x (dfx),1,electron beam melting (ebm),2
+273,collaborative design,1,fused deposition modelling,2
+274,micro manufacturing,1,laser metal,2
+275,design of,1,production,2
+276,capp,1,additive manufacturing technologies,2
+277,surface roughness,1,unmanned aerial vehicle,2
+278,distortion,1,time and,2
+279,ti6al4v,1,wire and arc additive manufacturing,2
+280,lattice structures,1,shape deposition control,2
+281,radio-frequency passive sensors,1,microfluidic device,2
+282,3d inductors,1,lightweight aircraft,2
+283,metal deposition,1,nondestructive testing,2
+284,element activation,1,fault,2
+285,numerical chain,1,product development,2
+286,dfam,1,design method,2
+287,manufacturing path,1,surface texture,2
+288,fabricated metal,1,optical design and fabrication,2
+289,modeling processes,1,supply chain,2
+290,powder metallurgy,1,metal fluorides,2
+291,technology implementation,1,anode,2
+292,environmental sustainability,1,design,2
+293,additive laser,1,manufacturing process,2
+294,material removal,1,concurrent engineering,2
+295,turbomachinery,1,geometrical accuracy,2
+296,fdm,1,additive-subtractive,2
+297,bead spreading,1,advanced manufacturing,2
+298,liquefier dynamics,1,additive manufacturing review,2
+299,melt,1,ground structure method,2
+300,modeling technology,1,density-based topology,2
+301,robot,1,additive manufacturing process,2
+302,gmaw,1,scaffolds,2
+303,electromagnetism,1,fused deposition modeling (fdm),2
+304,spare parts supply chain,1,experimental design,2
+305,distributed,1,titanium alloy,2
+306,lithium ion battery,1,phase transformation,2
+307,high voltage,1,process principles,2
+308,cathode,1,comparative study,2
+309,improved cycling,1,desing optimization,2
+310,sulfone-based electrolytes,1,design for x,2
+311,environmental impact,1,design for x (dfx),2
+312,supply,1,collaborative design,2
+313,direct writing (dw),1,capp,2
+314,microelectromechanical,1,radio-frequency passive sensors,2
+315,cybernetics,1,3d inductors,2
+316,tissue engineering,1,fabricated metal,2
+317,bioelectronics,1,modeling processes,2
+318,cyborg organs,1,powder metallurgy,2
+319,high-performance,1,technology implementation,2
+320,sodium ion batteries,1,environmental sustainability,2
+321,negative electrode,1,additive laser,2
+322,hard carbon,1,material removal,2
+323,fec,1,turbomachinery,2
+324,additive manufacturing technology,1,modeling technology,2
+325,application prospect,1,spare parts supply chain,2
+326,nanotechnology,1,distributed,2
+327,nanocomposite,1,direct writing (dw),2
+328,gas permeable material,1,microelectromechanical,2
+329,injection molding,1,additive manufacturing technology,2
+330,anode materials,1,application prospect,2
+331,hollow microspheres,1,gas permeable material,2
+332,iron oxides,1,injection molding,2
+333,lithium-ion,1,cellular lattice,2
+334,cellular lattice,1,warm mix asphalt,2
+335,dmls,1,pavement,2
+336,biofabrication,1,cleaner production,2
+337,hydrogels,1,non-ferrous metals and alloys,2
+338,tissue,1,scanning electron microscopy,2
+339,direct,1,stereolithography,2
+340,warm mix asphalt,1,rapid prototypes,2
+341,pavement,1,manufacturing systems,2
+342,cleaner production,1,3d structural electronics,2
+343,non-ferrous metals and alloys,1,lino3 modified electrolyte,2
+344,scanning electron microscopy,1,protective film on lithium,2
+345,stereolithography,1,lithium sulfur,2
+346,rapid prototypes,1,laser melting,2
+347,manufacturing systems,1,net shaping,2
+348,3d structural electronics,1,self-replicating machine,2
+349,lino3 modified electrolyte,1,hybrid additive-subtractive manufacturing,1
+350,protective film on lithium,1,multi-axis additive,1
+351,lithium sulfur,1,laser and electron-beam melting processes,1
+352,laser melting,1,alloy,1
+353,net shaping,1,beam melting ebm,1
+354,additive layered manufacturing,1,design for additive manufacturing (dfam),1
+355,customised product,1,manufacturing execution system,1
+356,self-replicating machine,1,anode-active,1
+357,multilayer,1,high-capacity,1
+358,element birth and death,1,improved cycling,1
+359,additives,1,sulfone-based electrolytes,1
+360,electrochemical electrodes,1,high-performance,1
+361,electrolytes,1,additive layered manufacturing,1
+362,fourier transform,1,customised product,1

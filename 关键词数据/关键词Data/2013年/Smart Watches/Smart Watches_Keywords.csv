@@ -1,0 +1,221 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,smart watch,27,smart watch,83
+1,smartwatch,5,smart watches,18
+2,smart watches,5,wearable,15
+3,wearable,4,smartwatch,15
+4,smart-watch,4,gps,13
+5,wearable device,3,smart-watch,12
+6,wearable devices,3,android,12
+7,heart rate,3,wearable device,11
+8,wi-fi,3,wi-fi,11
+9,gps,3,heart rate,10
+10,android,3,bluetooth,10
+11,technology,2,wearable devices,9
+12,exposure,2,blue-tooth,9
+13,physical activity,2,monitoring,8
+14,monitoring,2,internet of things,8
+15,accelerometer,2,technology,7
+16,smart phone,2,exposure,7
+17,voice input,2,smart phone,7
+18,usability,2,voice input,7
+19,security,2,usability,7
+20,internet of things,2,smartphone,7
+21,wearable technology,2,numerical computation,7
+22,smartphone,2,sar,7
+23,numerical computation,2,component,7
+24,blue-tooth,2,physical activity,6
+25,bluetooth,2,accelerometer,6
+26,kansei engineering,2,security,6
+27,sar,2,accessory,6
+28,component,2,modular,6
+29,authentic contexts,1,real time,6
+30,efl learning,1,gsm,6
+31,health,1,low-power,6
+32,positive emotions,1,assessments,5
+33,telecare,1,crowdsourcing,5
+34,wireless biosensor,1,qti,5
+35,peer-to-peer communication,1,mqtt,5
+36,textile antenna,1,sensor,5
+37,wireless power,1,wearable technology,5
+38,energy,1,wearables,5
+39,toddler,1,fashion,5
+40,electronic media,1,outfit,5
+41,smart device,1,watch face,5
+42,stroke,1,design,5
+43,goal setting,1,kansei engineering,5
+44,feedback,1,wlan,5
+45,qfd,1,ifa,5
+46,hoq diagram,1,mimo antennas,5
+47,smart grid,1,authentic contexts,4
+48,stream reasoning,1,efl learning,4
+49,scada,1,health,4
+50,grid operations,1,positive emotions,4
+51,ebg,1,stroke,4
+52,amc,1,goal setting,4
+53,wearable antenna,1,feedback,4
+54,hand gesture,1,smart grid,4
+55,hand movement,1,stream reasoning,4
+56,robotic arm,1,scada,4
+57,chronic obstructive pulmonary disease,1,grid operations,4
+58,long-acting beta 2-agonist,1,hand gesture,4
+59,multimodal interaction,1,hand movement,4
+60,touch input,1,robotic arm,4
+61,smart watch input,1,consumer health,4
+62,activity recognition,1,health behavior,4
+63,decision tree,1,atrial fibrillation,4
+64,ubiquitous computing,1,arrhythmia,4
+65,consumer health,1,wlan mimo,4
+66,health behavior,1,power management,4
+67,data extraction,1,dmips,4
+68,data transfusion,1,task offloading,4
+69,risk assessment,1,data security,4
+70,smart wristband,1,point of view,4
+71,bluetooth low energy,1,general framework,4
+72,assessments,1,human-body model,4
+73,crowdsourcing,1,smart bracelet,4
+74,qti,1,multitasking,4
+75,mqtt,1,uses and,4
+76,sensor,1,eye tracking,4
+77,emotion-recognition,1,small devices,4
+78,supervised learning,1,small displays,4
+79,quantified self,1,pursuits,4
+80,health informatics,1,google,4
+81,atrial fibrillation,1,smartwatch2,4
+82,arrhythmia,1,smart extension apis,4
+83,notification,1,password protectio,4
+84,android devise,1,healthcare,4
+85,user authentication,1,system healthcare,4
+86,skin temperature,1,data collecting,4
+87,transparent antenna,1,telecare,3
+88,invisible antenna,1,wireless biosensor,3
+89,wifi antenna,1,peer-to-peer communication,3
+90,dual-band antenna,1,textile antenna,3
+91,sign language,1,wireless power,3
+92,dynamic time warping,1,energy,3
+93,telecare system,1,toddler,3
+94,wireless bio-sensor,1,electronic media,3
+95,wristwatch-type device,1,smart device,3
+96,smart,1,ebg,3
+97,synchronization databases,1,amc,3
+98,data exchange,1,wearable antenna,3
+99,wlan mimo,1,multimodal interaction,3
+100,smart-watch antennas,1,touch input,3
+101,multiband antennas,1,smart watch input,3
+102,ifa antenna,1,activity recognition,3
+103,power management,1,decision tree,3
+104,dmips,1,ubiquitous computing,3
+105,task offloading,1,data extraction,3
+106,google glass,1,data transfusion,3
+107,virtual reality image,1,risk assessment,3
+108,flight attendants,1,smart wristband,3
+109,situation awareness,1,bluetooth low energy,3
+110,collaboration,1,quantified self,3
+111,crew resource,1,health informatics,3
+112,health intervention,1,notification,3
+113,translational research,1,android devise,3
+114,copd - management,1,user authentication,3
+115,exercise,1,skin temperature,3
+116,materials,1,transparent antenna,3
+117,asymmetric supercapacitors,1,invisible antenna,3
+118,atrial fibrillation detection,1,wifi antenna,3
+119,elderly people,1,dual-band antenna,3
+120,kingdom of saudi arabia,1,telecare system,3
+121,knowledge-based,1,wireless bio-sensor,3
+122,curved film antenna,1,wristwatch-type device,3
+123,dual band,1,smart,3
+124,cellular communication,1,synchronization databases,3
+125,mimo antenna,1,data exchange,3
+126,dipole antenna,1,google glass,3
+127,ultra-low power,1,virtual reality image,3
+128,context recognition,1,flight attendants,3
+129,machine learning,1,situation awareness,3
+130,pic microcontroller,1,collaboration,3
+131,tmp 75 sensor,1,crew resource,3
+132,opt 101 transimpedance amplifier,1,health intervention,3
+133,wearables,1,translational research,3
+134,fashion,1,elderly people,3
+135,outfit,1,kingdom of saudi arabia,3
+136,watch face,1,knowledge-based,3
+137,design,1,curved film antenna,3
+138,user experience,1,dual band,3
+139,longitudinal study,1,cellular communication,3
+140,quantification theory type i,1,ultra-low power,3
+141,data security,1,context recognition,3
+142,point of view,1,machine learning,3
+143,general framework,1,user experience,3
+144,usability evaluation,1,longitudinal study,3
+145,eye movement tracking,1,usability evaluation,3
+146,interface,1,eye movement tracking,3
+147,other clinical informatics applications,1,interface,3
+148,interfaces and usability,1,emergency,3
+149,emergency,1,crisis,3
+150,crisis,1,mobile application,3
+151,mobile application,1,wearable computing,3
+152,human-body model,1,mobile text input,3
+153,wearable computing,1,dynamic time,3
+154,mobile text input,1,activity type recognition,3
+155,dynamic time,1,fall detection,3
+156,activity type recognition,1,ambient assisted,3
+157,fall detection,1,samsung gear 2 neo smart watch,3
+158,ambient assisted,1,lg g smart watch,3
+159,smart bracelet,1,cellular antenna,3
+160,multitasking,1,body loss,3
+161,uses and,1,smart helmet,3
+162,analytical hierarchy process,1,power scene,3
+163,product recommendation,1,safety monitoring,3
+164,naive bayes,1,smart home,3
+165,accessory,1,intrusion detection,3
+166,modular,1,embedded linux,3
+167,real time,1,e-paper,3
+168,gsm,1,pedometer,3
+169,low-power,1,form design,3
+170,samsung gear 2 neo smart watch,1,tremor,3
+171,lg g smart watch,1,parkinson's disease,3
+172,eye tracking,1,essential tremor,3
+173,small devices,1,accelerometry,3
+174,small displays,1,smart tv,3
+175,pursuits,1,remote control,3
+176,cellular antenna,1,wearable smart textiles,3
+177,body loss,1,piezoresistive sensors,3
+178,wlan,1,training,3
+179,ifa,1,decisional dna,3
+180,mimo antennas,1,digital tv,3
+181,smart helmet,1,extensible markup language (xml),3
+182,power scene,1,knowledge,3
+183,safety monitoring,1,emotion-recognition,2
+184,smart home,1,supervised learning,2
+185,intrusion detection,1,sign language,2
+186,google,1,dynamic time warping,2
+187,touch screen,1,smart-watch antennas,2
+188,proprioception,1,multiband antennas,2
+189,embedded linux,1,ifa antenna,2
+190,e-paper,1,copd - management,2
+191,pedometer,1,exercise,2
+192,classroom response system,1,atrial fibrillation detection,2
+193,user attention management,1,mimo antenna,2
+194,integrated acceptance model,1,dipole antenna,2
+195,form design,1,pic microcontroller,2
+196,medication adherence,1,tmp 75 sensor,2
+197,self-management,1,opt 101 transimpedance amplifier,2
+198,tremor,1,quantification theory type i,2
+199,parkinson's disease,1,analytical hierarchy process,2
+200,essential tremor,1,product recommendation,2
+201,accelerometry,1,naive bayes,2
+202,smartwatch2,1,touch screen,2
+203,smart extension apis,1,proprioception,2
+204,password protectio,1,classroom response system,2
+205,smart tv,1,user attention management,2
+206,remote control,1,integrated acceptance model,2
+207,vibration,1,medication adherence,2
+208,watch,1,self-management,2
+209,visually impaired people,1,vibration,2
+210,healthcare,1,watch,2
+211,system healthcare,1,visually impaired people,2
+212,data collecting,1,qfd,1
+213,wearable smart textiles,1,hoq diagram,1
+214,piezoresistive sensors,1,chronic obstructive pulmonary disease,1
+215,training,1,long-acting beta 2-agonist,1
+216,decisional dna,1,materials,1
+217,digital tv,1,asymmetric supercapacitors,1
+218,extensible markup language (xml),1,other clinical informatics applications,1
+219,knowledge,1,interfaces and usability,1

@@ -1,0 +1,1053 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE Ti-Ni shape memory alloy; Wire electro-discharge machining; Topography;
+   Finite element analysis; Shape recovery; Dynamic compression plate
+ID EDM
+ER
+
+PT J
+DE Distance to singularity; Matrix pencils; Gap distance
+ID QUASI-KRONECKER FORM; LINEAR RELATIONS
+ER
+
+PT J
+DE Stiffness memory; 3D-TIPS; 3D printing; Phase separation; Polyurethane
+   nanohybrid; Soft implants
+ID CELL-MIGRATION; MATRIX STIFFNESS; IN-VITRO; TISSUE; BIOMATERIALS;
+   FABRICATION; BIOCOMPATIBILITY; POLYURETHANES; ORGANIZATION; COMPLEXITY
+ER
+
+PT J
+DE cochlear implants; language development; working memory
+ER
+
+PT J
+DE Children; Cochlear implant; Farsi; Working memory; Grammar
+ID SHORT-TERM-MEMORY; SPOKEN LANGUAGE-DEVELOPMENT; PROFOUNDLY
+   DEAF-CHILDREN; SENTENCE COMPREHENSION; NONWORD REPETITION; PRELINGUALLY
+   DEAF; EPISODIC BUFFER; HEARING-LOSS; SPEECH; IMPAIRMENT
+ER
+
+PT J
+ID WORKING-MEMORY; SPEECH RECOGNITION; PROCESSING-SPEED; SHORT-TERM;
+   IMPAIRED CHILDREN; IMMEDIATE MEMORY; VOCODED SPEECH; SPECTRAL CUES;
+   OLDER-ADULTS; NOISE
+ER
+
+PT J
+DE Cochlear implants; phonological short-term memory; phonological; verbal
+   short-term memory; post-implant age; rapid naming; receptive vocabulary
+ID WORKING-MEMORY; NONWORD REPETITION; DEAF-CHILDREN; LANGUAGE IMPAIRMENT;
+   PHONOLOGICAL MEMORY; SPEAKING CHILDREN; SPEECH; REHEARSAL; SIGNERS;
+   ACQUISITION
+ER
+
+PT J
+DE depression; anxiety; comorbidity; transdiagnostic; tailored; internet
+   intervention; randomized controlled trial; guided self-help
+ID COGNITIVE-BEHAVIORAL THERAPY; QUALITY-OF-LIFE; 16-ITEM QUICK INVENTORY;
+   SELF-REPORT INSTRUMENT; PSYCHOMETRIC PROPERTIES; GLOBAL BURDEN;
+   SYSTEMATIC ANALYSIS; MENTAL-HEALTH; PSYCHIATRIC-DISORDERS; DIAGNOSED
+   DEPRESSION
+ER
+
+PT J
+ER
+
+PT J
+DE attitudes; depression; iCBT; Internet intervention; randomized
+   controlled trial
+ID PSYCHOLOGICAL TREATMENTS; PSYCHOTHERAPY; METAANALYSIS; REGRESSION;
+   SEVERITY; VALIDITY; ANXIETY; PHQ-9; HELP; CARE
+ER
+
+PT J
+DE Black phosphorus; Near-infrared light; Photothermal effect;
+   Biodegradability; Two-dimensional materials
+ID GUIDED PHOTOTHERMAL THERAPY; POTENTIAL BIOMEDICAL APPLICATIONS;
+   POLYMERS; LIGHT; NANOSHEETS; NANOPARTICLES; HYDROGELS; OXIDE;
+   EXFOLIATION; COMPOSITES
+ER
+
+PT J
+DE Single side deafness; Bone-anchored hearing implant; Memory; Speech
+   perception; Normal hearing
+ID BACKGROUND-NOISE; ATTRACT SYSTEM; OLDER-ADULTS; SPEECH; RECOGNITION;
+   PERCEPTION; AGE
+ER
+
+PT J
+DE Deafness; learning; memory; working memory; speech perception; cochlear
+   implant
+ID WORKING-MEMORY; INDIVIDUAL-DIFFERENCES; SHORT-TERM; SPEECH; RECOGNITION;
+   PRESTO; SKILLS; USERS
+ER
+
+PT J
+DE cannabis; mental disorders; adherence; social presence; mobile health;
+   cognitive behavioral therapy
+ID SUBSTANCE USE; USE DISORDERS; COCAINE; SCALE; INTERVENTION;
+   METAANALYSIS; VALIDATION; DEPENDENCE; INTERNET; EFFICACY
+ER
+
+PT J
+DE fructose; diet; liver; steatosis; fat; lipocalin 2; NAFLD
+ID DE-NOVO LIPOGENESIS; INSULIN-RESISTANCE; EXPRESSION; RECEPTOR; MICE;
+   PROTEINS; OBESITY; NAFLD; LCN2
+ER
+
+PT J
+DE 3D printing; bioinks; memory-shape implants; patient-specific; silk
+   fibroin; tissue engineering
+ID TISSUE ENGINEERING APPLICATIONS; SCAFFOLDS; MENISCUS; HYDROGELS;
+   REGENERATION; CARTILAGE
+ER
+
+PT J
+ER
+
+PT J
+ID SHORT-TERM-MEMORY; PHONOLOGICAL AWARENESS; DEAF-CHILDREN; HEARING-LOSS;
+   SPEECH RECOGNITION; LANGUAGE-SKILLS; READING-ABILITY; SERIAL-RECALL;
+   POOR READERS; INTELLIGIBILITY
+ER
+
+PT J
+DE disorders of memory content; electrical brain stimulation; fear memory;
+   memory erasure; memory trace; reconsolidation blockade
+ID POSTTRAUMATIC-STRESS; STIMULATION; RECONSOLIDATION; DISORDERS; FEAR;
+   MODULATION
+ER
+
+PT J
+ER
+
+PT J
+DE Cochlear implants; sensorineural hearing loss; speech perception;
+   inhibition-concentration; verbal working memory
+ID NORMAL-HEARING LISTENERS; SPEECH RECOGNITION; SEMANTIC CONTEXT; WORD
+   RECOGNITION; CHILDREN; AID; INTELLIGIBILITY; NOISE; SPAN; AGE
+ER
+
+PT J
+DE Galactic cosmic radiation; Mars; GEANT4; Monte-Carlo; Particle flux;
+   Radiation exposure
+ID ASSESSMENT DETECTOR; MARTIAN SURFACE; MSL/RAD; MODEL
+ER
+
+PT J
+ID CORROSION-RESISTANCE; NICKEL-TITANIUM; STRESS
+ER
+
+PT J
+DE Shape memory effect; Polylactide; Activation energy; 3D-printing;
+   Scaffold; Programming temperature
+ID MESENCHYMAL STEM-CELLS; POLYMER NANOCOMPOSITES; POROUS SCAFFOLDS; BONE
+   DEFECTS; BEHAVIOR; COMPOSITES; CRYSTALLIZATION; ACTIVATION; TRANSITION;
+   POLY(L-LACTIDE)
+ER
+
+PT J
+DE Multiple sclerosis; disease-modifying therapy; discontinuation; relapse;
+   progression; prognosis
+ID INTERFERON-BETA THERAPY; GLATIRAMER ACETATE; CONTROLLED PHASE-3;
+   FOLLOW-UP; TRIAL; MS; MULTICENTER; NATALIZUMAB; ALEMTUZUMAB; RISK
+ER
+
+PT J
+DE Differential-algebraic systems; Descriptor systems; Disturbance
+   decoupling; Behavioral feedback; Wong sequences; Zero dynamics
+ID DISCRETE-TIME-SYSTEMS; QUASI-KRONECKER FORM; DESCRIPTOR SYSTEMS; MATRIX
+   PENCILS; INTERCONNECTED SYSTEMS; INVARIANT SUBSPACES; SINGULAR PENCIL;
+   CANONICAL FORM; REGULARIZATION; CONTROLLABILITY
+ER
+
+PT J
+DE Implants; NiTi; Orbital floor fractures; Orbital reconstruction;
+   Shapememory alloys
+ID TRANSCONJUNCTIVAL APPROACH; RETROSPECTIVE ANALYSIS; RECONSTRUCTION;
+   ALLOY
+ER
+
+PT J
+DE myelin oligodendrocyte glycoprotein; demyelination; autoantibodies;
+   inflammation; MOG
+ID EXPERIMENTAL AUTOIMMUNE ENCEPHALOMYELITIS; CENTRAL-NERVOUS-SYSTEM;
+   EXPERIMENTAL ALLERGIC ENCEPHALOMYELITIS; EXTENSIVE TRANSVERSE MYELITIS;
+   ANTI-MOG ANTIBODIES; OPTICA SPECTRUM DISORDERS; ENCEPHALITOGENIC
+   T-CELLS; TRANSGENIC MOUSE MODEL; MULTIPLE-SCLEROSIS;
+   NEUROMYELITIS-OPTICA
+ER
+
+PT J
+ID GAS
+ER
+
+PT J
+ID HEARING-AID; SHORT-TERM; INDIVIDUAL-DIFFERENCES; COGNITIVE DECLINE;
+   ELDERLY LISTENERS; WORD RECOGNITION; SERIAL-RECALL; OLDER-ADULTS;
+   CHILDREN; PERCEPTION
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE auditory feedback; cochlear implants; memory; production effect; study
+   modality
+ID WORKING-MEMORY; DEAF-CHILDREN; DISTINCTIVENESS ACCOUNT;
+   LANGUAGE-DEVELOPMENT; SPEECH-PERCEPTION; LISTENING EFFORT; BENEFITS;
+   SUPERIORITY; ABILITIES; SPAN
+ER
+
+PT J
+DE Multiple sclerosis; physiotherapy; rhythmic-cued motor imagery; walking;
+   fatigue; quality of life
+ID IMPACT SCALE MSIS-29; FUNCTIONAL COMPOSITE; OUTCOME MEASURE; MENTAL
+   PRACTICE; REHABILITATION; RESPONSIVENESS; PERFORMANCE; ABILITY; STROKE;
+   GAIT
+ER
+
+PT S
+ID INTERNATIONAL-SPACE-STATION; RADIATION; DOSIMETRY; ASTRONAUTS; PHANTOM
+ER
+
+PT J
+DE shape memory alloy; SMA; smart material; MEMS; microelectromechanical
+   systems; stent; surgical staple; COMSOL
+ID NITINOL; ANGIOPLASTY; SIMULATION; STAINLESS; MODEL
+ER
+
+PT J
+ID FIXED PARTIAL DENTURES; COMPLICATIONS; PROSTHESES
+ER
+
+PT J
+DE Cochlear implant; Adolescents; Reading; Memory; Outcome
+ID DEAF-CHILDREN; WORKING-MEMORY; OUTCOMES; SCHOOL; SKILLS; SPAN; AGE
+ER
+
+PT J
+ID SPECTRUM
+ER
+
+PT J
+DE Cochlear implantation; Children; Lexicon; Morphosyntax; Auditory skills;
+   Verbal memory skills
+ID SHORT-TERM-MEMORY; PROFOUNDLY DEAF-CHILDREN; GENERAL FLUID INTELLIGENCE;
+   WORKING-MEMORY; SPEECH-PERCEPTION; GRAMMATICAL DEVELOPMENT; SENTENCE
+   COMPREHENSION; NONWORD REPETITION; HEARING IMPAIRMENT; LONG-TERM
+ER
+
+PT J
+ER
+
+PT J
+DE acquisition; digit span; language; language age; short-term auditory
+   memory
+ER
+
+PT J
+DE Neuromyelitis optica; Multiple sclerosis; Rituximab; B-cells; Clonal
+   expansion
+ID REMITTING MULTIPLE-SCLEROSIS; NEUROMYELITIS-OPTICA; CEREBROSPINAL-FLUID;
+   RHEUMATOID-ARTHRITIS; PERIPHERAL-BLOOD; OPEN-LABEL; FOLLOW-UP;
+   ANTIBODIES; THERAPY; BAFF
+ER
+
+PT B
+DE DRAM Cell transistor; Peripheral transistor; implant and anneal process;
+   hardware requirement
+ER
+
+PT S
+ER
+
+PT B
+DE Nano memory; electrical pulse; CNT
+ER
+
+PT S
+DE NiTi; orbital floor fracture; orbital reconstruction; patient-specific
+   implants; shape memory alloys
+ID TRANSCONJUNCTIVAL APPROACH
+ER
+
+PT J
+DE Auditory digit span; Short-term memory; Working memory
+ID CHILDREN; STORAGE
+ER
+
+PT J
+ER
+
+PT J
+DE Children; Cochlear implants; Working memory; Short-term memory; Reading;
+   Modality
+ID NORMAL-HEARING; DEAF-CHILDREN; LANGUAGE; SKILLS; COMPREHENSION
+ER
+
+PT J
+ID MARTENSITIC-TRANSFORMATION; CORROSION-RESISTANCE; URETERAL OBSTRUCTION;
+   DEGRADATION BEHAVIOR; BONE IMPLANT; NI; STENTS; TI; BIOCOMPATIBILITY;
+   MANAGEMENT
+ER
+
+PT J
+ER
+
+PT J
+DE Macaque; Parietal cortex; Frontal cortex; Subarachnoid space; Muscimol
+ID DRUG-DELIVERY; MUSCIMOL; MONKEYS; RAT
+ER
+
+PT J
+DE blood-meningeal barrier; memory T-cells; meningeal tumor; viral therapy;
+   VSV
+ID CENTRAL-NERVOUS-SYSTEM; INDUCED IMMUNE SUPPRESSION; BREAST-CANCER
+   PATIENTS; PROGNOSTIC-FACTORS; METASTASIS; MACROPHAGES; MICROENVIRONMENT;
+   TRAFFICKING; DISEASE; CROSS
+ER
+
+PT J
+DE CD8(+) T cells; chemotherapy; chemoimmunotherapy; cyclophosphamide; drug
+   scheduling; GL261 glioma; glioblastoma; immune memory; metronomic
+   chemotherapy; NK cells
+ID NATURAL-KILLER-CELLS; TUMOR-REGRESSION; BRAIN-TUMORS; DOSE CHEMOTHERAPY;
+   INNATE IMMUNITY; GENE-THERAPY; CANCER; IMMUNOTHERAPY; MECHANISMS;
+   EFFICACY
+ER
+
+PT J
+DE passive networks; network redesign; matrix pencils; root locus;
+   interlacing property; robustness
+ID POLYNOMIALS; COMPUTATION; SYSTEMS; ZEROS; GCD
+ER
+
+PT J
+DE phase change material; ion implantation; crystallization temperature;
+   data retention
+ID RESISTANCE; STORAGE; MEDIA
+ER
+
+PT J
+DE Shape memory alloy (SMA); Shape memory effect (SME); Nickel titanium
+   (NiTi); Induction heating; Fracture healing; Rat model; Femur; Nail
+   dynamisation
+ID TISSUE DIFFERENTIATION; INFLAMMATORY RESPONSE; FIXATION STABILITY; SHAFT
+   FRACTURES; DYNAMIZATION; TRAUMA; ALLOY; BONE; VASCULARIZATION; NONUNION
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ID AUGMENTATION; OUTCOMES
+ER
+
+PT J
+DE Multiple sclerosis; immunology
+ID T-LYMPHOCYTES; ALLOGRAFT-REJECTION; NERVOUS-SYSTEM; EXPRESSION;
+   ENCEPHALOMYELITIS; AUTOIMMUNE; APOPTOSIS; TARGET; CELLS; MICE
+ER
+
+PT J
+ID EARLY OSTEONECROSIS; OSTEOTOMY; MODEL
+ER
+
+PT J
+ID SHORT-TERM-MEMORY; OF-THE-LITERATURE; DEAF-CHILDREN; CLINICAL
+   EFFECTIVENESS; LANGUAGE-DEVELOPMENT; NORMAL-HEARING; DIGIT SPAN;
+   RECOGNITION; PERFORMANCE; PERCEPTION
+ER
+
+PT J
+DE endothelialization; pathology; shape memory polymer; aneurysm;
+   embolization
+ID UNRUPTURED CEREBRAL ANEURYSMS; GUGLIELMI DETACHABLE COILS; INTRACRANIAL
+   ANEURYSMS; SUBARACHNOID HEMORRHAGE; ENDOVASCULAR COILING; SACCULAR
+   ANEURYSMS; NATURAL-HISTORY; FOLLOW-UP; EMBOLIZATION; MANAGEMENT
+ER
+
+PT J
+DE Cochlear implant; Working memory; Development; Farsi-speaking children;
+   Age at implantation
+ID HEARING-IMPAIRED CHILDREN; PROFOUNDLY DEAF-CHILDREN; NONWORD REPETITION;
+   LANGUAGE IMPAIRMENT; SPEECH; IMITATION; SKILLS; SPAN
+ER
+
+PT J
+DE Ion implantation; NiTi shape memory alloy; Micro-, nano-indentation
+ID MEDICAL APPLICATIONS; NANOINDENTATION; DEFORMATION; BEHAVIOR
+ER
+
+PT J
+DE Cochlear implant; prosody; discrimination of F0; duration and intensity;
+   auditory working memory; musical activities
+ID COCHLEAR IMPLANTS; WORD SEGMENTATION; SPEECH PROSODY; HEARING; PITCH;
+   INFANTS; STRESS; DISCRIMINATION; ACQUISITION; INTONATION
+ER
+
+PT S
+DE Medical radar; microwave imaging; vital signs; UWB; switched array
+ER
+
+PT J
+DE Hearing; Cognition; Working memory; Development; Cochlear implants;
+   Children
+ID SHORT-TERM-MEMORY; PRELINGUALLY DEAFENED CHILDREN; SPEECH-PERCEPTION;
+   PHONOLOGICAL AWARENESS; INDIVIDUAL-DIFFERENCES; SERIAL-RECALL;
+   SOCIOECONOMIC-STATUS; LANGUAGE-DEVELOPMENT; READING-ABILITY; COGNITIVE
+   LOAD
+ER
+
+PT J
+DE acetylcholine; auditory cortex; brain stimulation; neurophysiology;
+   nucleus basalis
+ID PRIMARY AUDITORY-CORTEX; RECEPTIVE-FIELD PLASTICITY; NUCLEUS BASALIS
+   STIMULATION; PRIMARY VISUAL-CORTEX; ASSOCIATIVE MEMORY; CHOLINERGIC
+   MODULATION; HARNESSING PLASTICITY; FOREBRAIN STIMULATION;
+   REPRESENTATIONAL AREA; CEREBRAL-CORTEX
+ER
+
+PT J
+ID FREQUENCY OSCILLATORY VENTILATION; BIRTH-WEIGHT INFANTS; CONVENTIONAL
+   MECHANICAL VENTILATION; RESPIRATORY-DISTRESS SYNDROME; PRETERM INFANTS;
+   CARBON-DIOXIDE; PERIVENTRICULAR LEUKOMALACIA; BRONCHOPULMONARY
+   DYSPLASIA; HYPOCAPNIA; FAILURE
+ER
+
+PT J
+DE cochlear implants; memory; language; executive functions
+ID DEAF-CHILDREN; SAS PROCEDURE; HEARING; TRAJECTORIES; IMPAIRMENT; SKILLS
+ER
+
+PT J
+ER
+
+PT J
+ID CHILDREN; SPEECH
+ER
+
+PT J
+ID PROFOUND HEARING-LOSS; WORKING-MEMORY; SPAN
+ER
+
+PT J
+ID SCANNING-CAPACITANCE-MICROSCOPY
+ER
+
+PT J
+DE shape memory polymer; fluorinated polymer; waterborne polyurethane urea;
+   crosslinking; hydrogen bonding
+ID CORONARY-ARTERY DISEASE; BALLOON ANGIOPLASTY; POLY(URETHANE UREA);
+   POLYMER NETWORKS; TEMPERATURE; SURFACE
+ER
+
+PT S
+DE NiTi-based shape memory alloys; superelastic alloys; X-ray powder
+   diffraction
+ID X-RAY-DIFFRACTION
+ER
+
+PT J
+ID CURRENT ELECTRON-BEAM; V-AL ALLOY; CALCIUM AND/OR PHOSPHORUS;
+   NEAR-SURFACE LAYERS; NI-TI ALLOY; CORROSION-RESISTANCE; TRIBOLOGICAL
+   PROPERTIES; MECHANICAL-PROPERTIES; MEDICAL APPLICATIONS; PULSED-ELECTRON
+ER
+
+PT S
+DE implant; bone; stiffness; NiTi; Nitinol; SMA; SME; shape memory; laser
+ID MACHINING CHARACTERISTICS; ALLOYS; NICKEL; FRACTURES; LOCKING; NITINOL;
+   DESIGN; BONE
+ER
+
+PT J
+DE auditory learning; auditory perception; auditory training; cochlear
+   implant; digit span; hearing loss; memory training; music perception;
+   rehabilitation; speech recognition
+ID HEARING-IMPAIRED CHILDREN; WORKING-MEMORY; SPEECH RECOGNITION; DISTORTED
+   SPEECH; DEAF-CHILDREN; NOISE; PERCEPTION; LISTENERS; PROGRAM; SYSTEM
+ER
+
+PT J
+DE Induction heating; Shape memory alloy (SMA); NiTi; Nitinol; Implant;
+   Stiffness
+ID ALLOY; NICKEL; NITINOL; BIOCOMPATIBILITY; SCOLIOSIS; POLYMERS; SURFACE
+ER
+
+PT J
+DE nickel alloys; titanium alloys; shape memory effect; ion implantation;
+   oxidation; corrosion resistance
+ID IMMERSION ION-IMPLANTATION; MODIFIED NITI ALLOY; TINI ALLOY; TITANIUM;
+   WEAR; ANTICORROSION; NITROGEN; FILMS
+ER
+
+PT J
+DE Social anxiety disorder; Internet-based self-help; structured diagnostic
+   interview; randomized controlled trial
+ID COMORBIDITY SURVEY REPLICATION; COGNITIVE-BEHAVIORAL THERAPY; PANIC
+   DISORDER; PSYCHOLOGICAL TREATMENTS; FOLLOW-UP; PHOBIA; DEPRESSION;
+   PROGRAM; METAANALYSIS; STRATEGIES
+ER
+
+PT J
+ER
+
+PT J
+DE Nickel-titanium; Shape memory alloy; Ion implantation; Nano-hardness;
+   Wear; Pseudoelasticity
+ID IMMERSION ION-IMPLANTATION; NICKEL-TITANIUM ALLOYS; ORTHODONTIC WIRES;
+   TINI ALLOY; BEHAVIOR; RELEASE; BIOCOMPATIBILITY; MECHANISMS; TANTALUM
+ER
+
+PT J
+ID LONG-TERM RETENTION; EVENT PLAUSIBILITY; CHILDHOOD MEMORIES;
+   AUTOBIOGRAPHICAL MEMORY; SUGGESTIBILITY; INFORMATION; BELIEFS;
+   PREVALENCE; DETAILS
+ER
+
+PT J
+DE NiTi; Ion implantation; Electrochemical test; Thin films; Corrosion
+ID RESISTANCE; IMPROVEMENT; OXIDATION
+ER
+
+PT J
+DE Children; False memory; Compliance; Memory
+ID AUTOBIOGRAPHICAL MEMORY; SUGGESTIBILITY; TRUE; EVENT; MISINFORMATION;
+   INFORMATION; BELIEFS; PLAUSIBILITY; VALIDITY; CRITERIA
+ER
+
+PT J
+DE internet; online health information; electronic mail; frequently asked
+   questions; travel medicine
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE limit of viability; ethical decision-making; provisional intensive care;
+   redirection of care
+ID EXTREMELY PRETERM BIRTH; EXTREMELY PREMATURE-INFANTS; ANTENATAL
+   CORTICOSTEROIDS; CESAREAN-SECTION; INTENSIVE-CARE;
+   DEVELOPMENTAL-DISABILITY; DELIVERY ROOM; AGE; SURVIVAL; RESUSCITATION
+ER
+
+PT J
+ER
+
+PT J
+DE cochlear implants; deafness; memory; language
+ID SHORT-TERM-MEMORY; LANGUAGE IMPAIRMENT; DEAF-CHILDREN; NONWORD
+   REPETITION; HYPOTHESIS; MARKERS; RECALL
+ER
+
+PT J
+DE Plasticity; Amygdala; Thalamus; Dorso-ventral; Outcome; Predictor
+ID POSTERIOR PARIETAL CORTEX; CROSS-MODAL PLASTICITY; INTELLIGIBLE SPEECH;
+   AUDITORY-CORTEX; TEMPORAL-LOBE; BRAIN; ORGANIZATION; CONNECTIONS;
+   PERCEPTION; IMAGERY
+ER
+
+PT J
+ID OSTEOGENESIS
+ER
+
+PT J
+DE Charge-trapping Flash (CTF); HfON; ion implant; nonvolatile memory (NVM)
+ID SPEED
+ER
+
+PT J
+DE Acetylcholine; Association; Behavioral state; Nucleus basalis
+ID RECEPTIVE-FIELD PLASTICITY; BASAL FOREBRAIN NEURONS; PRIMARY
+   AUDITORY-CORTEX; NUCLEUS BASALIS; CEREBRAL-CORTEX;
+   CONDITIONED-RESPONSES; PHYSIOLOGICAL MEMORY; ASSOCIATIVE MEMORY;
+   GUINEA-PIG; STIMULATION
+ER
+
+PT J
+DE melatonin; pinealectomy; Morris water maze; memory
+ID HAMSTER PHODOPUS-SUNGORUS; SIBERIAN HAMSTERS; TESTICULAR DEVELOPMENT;
+   ALZHEIMERS-DISEASE; PASSIVE-AVOIDANCE; DURATION MODELS; DIURNAL RHYTHM;
+   BRAIN; INFUSIONS; COINCIDENCE
+ER
+
+PT J
+DE Cochlear implant; memory; meta-memory; children
+ID WORKING-MEMORY; DEAF-CHILDREN; WORD RECOGNITION; PERFORMANCE; ADULTS;
+   COMPREHENSION; METAMEMORY; RECALL; TALKER; LISTS
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ID POSTERIOR CAPSULE OPACIFICATION; INTRAOCULAR LENSES; POLYMER NETWORKS;
+   BIOCOMPATIBILITY; PROLIFERATION; CENTRATION
+ER
+
+PT J
+DE Porous NiTi shape memory alloy; SHS; Implant material; Compressive
+   strength
+ID HIGH-TEMPERATURE SYNTHESIS; PHASE-TRANSFORMATION BEHAVIOR; ELEMENTAL
+   POWDERS; POROSITY; DEFORMATION; MECHANISM; AGENT
+ER
+
+PT B
+DE shape memory alloy; cochlear implants; automated insertion tool
+ER
+
+PT J
+ID BREAST-CANCER DETECTION; PRESSURE; DIAMETER; TIME
+ER
+
+PT J
+ID MESENCHYMAL STEM-CELLS; MECHANICAL-PROPERTIES; BEHAVIOR; REPLICATION;
+   COMBUSTION; POROSITY
+ER
+
+PT J
+ER
+
+PT J
+DE Al2O3; AlO- ion implantation; deep trap; nonvolatile-memory (NVM)
+ER
+
+PT J
+DE Shape memory; Stent; Polyurethane; Polycaprolactone; Cell culture
+ID MESENCHYMAL STEM-CELLS; MELTING BEHAVIOR; IN-VITRO; BIOCOMPATIBILITY;
+   MISCIBILITY; CRYSTALLIZATION; POLYMERS; PCL; POLYCAPROLACTONE;
+   POLYURETHANE
+ER
+
+PT J
+DE NiTi; Plasma Immersion Ion Implantation; Surface Morphology and
+   Roughness; Pulsing Frequency; Surface Free Energy
+ID IMMERSION ION-IMPLANTATION; IN-VITRO; MEDICAL APPLICATIONS; PROTEIN
+   ADSORPTION; POLYMER SURFACES; MODEL SURFACES; CELL-ADHESION; TITANIUM;
+   BIOCOMPATIBILITY; DEPOSITION
+ER
+
+PT J
+DE abutment; dental implants; microleakage; nitinol; peri-implantitis;
+   shape memory alloy
+ID IN-VITRO EVALUATION; INTERFACE; LEAKAGE
+ER
+
+PT J
+ER
+
+PT J
+DE Shape memory NiTi alloy; Ion implantation; Wear; Surface
+   characterization
+ER
+
+PT J
+ID GELATINASE-ASSOCIATED LIPOCALIN; HUMAN NEUTROPHIL GELATINASE;
+   COLONY-STIMULATING FACTOR; CHRONIC MYELOID-LEUKEMIA; BLOOD-STREAM
+   INFECTIONS; ACUTE-PHASE PROTEIN; NF-KAPPA-B; PNEUMONIAE INFECTION;
+   ESCHERICHIA-COLI; EXPRESSION
+ER
+
+PT S
+DE simulations; modular implants; humerus; Nitinol
+ER
+
+PT B
+ID PRESSURE; ALLOYS; CARBON
+ER
+
+PT J
+DE Ion implanted polymers; Organic field-effect devices;
+   Polymethylmethacrylate (PMMA)
+ID POLYMERIC GATE ELECTRET; EFFECT TRANSISTORS; POLYMETHYLMETHACRYLATE;
+   ELEMENT; CHARGE
+ER
+
+PT J
+ER
+
+PT J
+ID RESISTANCE; OXIDE
+ER
+
+PT B
+ER
+
+PT S
+DE numerical simulations; modularity; orthopedic implants; Nitinol
+ER
+
+PT J
+ID INCOME; LABOR
+ER
+
+PT B
+ID INTERVERTEBRAL FUSION; SCOLIOSIS; WIRE
+ER
+
+PT J
+DE ion implantation; corrosion resistance; hemo-compatibility; biomedical
+   alloy; TiNi shape memory alloy
+ID TITANIUM
+ER
+
+PT J
+ER
+
+PT J
+ID HEARING-IMPAIRED CHILDREN; PRELINGUALLY DEAF; LANGUAGE-DEVELOPMENT;
+   SPOKEN LANGUAGE; SKILLS; PREDICTORS; PERFORMANCE; OUTCOMES; SPEECH; AGE
+ER
+
+PT J
+DE nickel-titanium shape memory alloy; plasma immersion ion implantation;
+   shape recovery; surface barrier layer
+ID IMMERSION ION-IMPLANTATION; SURFACE MODIFICATION; TITANIUM; TEMPERATURE;
+   BEHAVIOR; GEL
+ER
+
+PT J
+ID SI3N4
+ER
+
+PT J
+DE ion implantation; shape memory effect; differential scanning calorimetry
+   (DSC); NiTi alloy; indentation test
+ER
+
+PT J
+DE plasma immersion ion implantation; corrosion resistance; NiTi;
+   bioactivity
+ID IMMERSION ION-IMPLANTATION; INCREASED OSTEOBLAST FUNCTIONS; COATINGS;
+   NITROGEN; ANTICORROSION; BIOACTIVITY; DEPOSITION; ADHESION; BEHAVIOR;
+   TI6AL4V
+ER
+
+PT J
+DE cochlear implant, children; mismatch negativity; working memory;
+   auditory sensory memory
+ID EVENT-RELATED POTENTIALS; PROFOUNDLY DEAF-CHILDREN; MISMATCH NEGATIVITY
+   MMN; SPEECH-PERCEPTION; LANGUAGE-ACQUISITION; IMPAIRED CHILDREN;
+   MATURATION; STIMULI; DISCRIMINATION; REPRESENTATION
+ER
+
+PT J
+ER
+
+PT J
+DE holistic medicine and health; clinical holistic medicine; CAM;
+   psychodynamic therapy; symbolic incest; energetic incest; implanted
+   memories; implanted philosophy; holistic sexology; bodywork; vaginal
+   acupressure
+ID QUALITY-OF-LIFE; MENTAL-DISORDERS; CHRONIC PAIN; BODYWORK; MINDFUL;
+   DISEASES; ABILITY; ILLNESS; HEALTH
+ER
+
+PT J
+DE titanium dioxide; nanoporous electrode; charge transfer reductive
+   doping; photoelectrochemical water oxidation; electron accumulation
+ID SEMICONDUCTOR ELECTRODES; AQUEOUS-SOLUTION; SURFACE-STATES; HYDROGEN;
+   ANATASE; ACCUMULATION
+ER
+
+PT J
+DE porous nickel-titanium; shape memory alloys; plasma immersion ion
+   implantation; biocompatibility
+ID IMMERSION ION-IMPLANTATION; NITI ALLOY; AUXILIARY ELECTRODE; CORROSION
+   BEHAVIOR; BONE; BIOCOMPATIBILITY; HYDROXYAPATITE; FABRICATION;
+   APPOSITION; BEARINGS
+ER
+
+PT J
+DE binary-symmetric Markov source; critical distortion; lossy source
+   coding; Markov source; progressive transmission; rate-distortion
+   function; scalable coding; successive refinement
+ID INFORMATION; BOUNDS; RATES
+ER
+
+PT J
+DE shape memory alloys; TiNi; surface properties
+ID TRIBOLOGICAL PROPERTIES; NI ALLOY; IMMERSION; TITANIUM; WEAR; BEHAVIOR
+ER
+
+PT B
+ER
+
+PT J
+DE ion implantation; nanocrystal; germanium; TEM; RBS; memory; retention
+ID ION-IMPLANTATION; COULOMB-BLOCKADE; SILICON; NANOCRYSTALS; THIN
+ER
+
+PT J
+DE Alzheimer's disease; amyloid beta (AP); implanted cannula; Y-maze test;
+   spontaneous alternation behavior
+ID AMYLOID PRECURSOR PROTEIN; FAMILIAL ALZHEIMERS-DISEASE; BETA-PROTEIN;
+   CHOLINERGIC DYSFUNCTION; TRANSGENIC MICE; IN-VITRO; DEFICITS; RAT;
+   MUTATION; GENE
+ER
+
+PT J
+DE charge transfer; EPR spectroscopy; oxygen; TiO2 nanocrystals; UV-induced
+   charge separation
+ID GAS-PHASE PHOTOOXIDATION; REDUCED TITANIUM-DIOXIDE; NANOSTRUCTURED TIO2;
+   HETEROGENEOUS PHOTOCATALYSIS; SPIN-RESONANCE; OXIDE SURFACES; RUTILE
+   SURFACES; HYDROXYL-GROUPS; COLLOIDAL TIO2; UV IRRADIATION
+ER
+
+PT J
+DE acoustic simulations; auditory memory; cochlear implants; deafness;
+   digit span
+ID SHORT-TERM-MEMORY; WORKING-MEMORY; SPEECH RECOGNITION; NONWORD
+   REPETITION; IMPAIRED CHILDREN; SERIAL-RECALL; DEAF-CHILDREN;
+   WORD-LENGTH; SPAN; ELECTRODES
+ER
+
+PT J
+ER
+
+PT J
+DE biodegradable shape-memory polymers; polymer systems; stimuli-sensitive
+   implant materials; smart suture
+ID OLIGO(EPSILON-CAPROLACTONE) SEGMENTS; BIOMEDICAL APPLICATIONS; IN-VITRO;
+   ANGIOGENESIS; NETWORKS; STERILIZATION
+ER
+
+PT S
+DE NiTi shape memory alloys; plasma immersion ion implantation; corrosion
+   resistance
+ID SURFACE
+ER
+
+PT J
+DE novel word learning; working memory; non-word repetition; cochlear
+   implant; congenitally deaf children
+ID NON-WORD REPETITION; SHORT-TERM-MEMORY; LANGUAGE IMPAIRMENT;
+   PHONOLOGICAL MEMORY; SPEECH-PERCEPTION; HEARING IMPAIRMENT; CAPACITY;
+   SCHOOL; INTELLIGIBILITY; COMMUNICATION
+ER
+
+PT J
+DE cortex; dendrite; hyperpolarization-activated cationic current; neuronal
+   integration; rat; somatosensory sodium current
+ID PERSISTENT NA+ CURRENT; H-CHANNELS; ACTION-POTENTIALS; I-H; NEOCORTICAL
+   NEURONS; CORTICAL-NEURONS; SPIKE INITIATION; APICAL DENDRITE; SODIUM
+   CURRENT; EXCITABILITY
+ER
+
+PT J
+DE bioactive NiTi alloy; hydroxyapatite layer; implants; bone bonding;
+   interface
+ID COATED TITANIUM; APATITE LAYER; RESPONSES; SURFACE
+ER
+
+PT J
+DE ion irradiation; SiO2; photoluminescence; nanoclusters
+ID SIO2-FILMS; LUMINESCENCE; NANOCRYSTALS; EMISSION
+ER
+
+PT J
+ID AMORPHOUS THIN-FILMS; TELLURIDE GLASSES; NONVOLATILE; TRANSITION;
+   SEMICONDUCTORS; GE20TE80-XBIX
+ER
+
+PT J
+DE porous shape memory alloy; combustion synthesis; NiTi
+ID TINI INTERMETALLIC COMPOUNDS
+ER
+
+PT B
+DE routing; Flexible Manufacturing Systems; simulation; stigmergy; NetLogo
+ER
+
+PT B
+DE nitinol; interbody fusion; minimal access surgery; spinal surgery;
+   biomechanics; orthopaedics
+ID LUMBAR SPINE; TRIAL
+ER
+
+PT B
+DE block copolymers; elastomers; polymer networks; shape memory polymers;
+   biocompatibility; biodegradation; resorbable implants
+ID BIOMEDICAL APPLICATIONS; ANGIOGENESIS; NETWORKS
+ER
+
+PT J
+DE Si; nanocrystals; ion implantation; memory
+ID SINGLE-ELECTRON
+ER
+
+PT J
+DE TiNi shape memory alloy; N+ ion implantation; TiN
+ER
+
+PT J
+DE antibodies; biological availability; blood; interferon-beta; multiple
+   sclerosis; neutralization test
+ID MULTIPLE-SCLEROSIS PATIENTS; PLACEBO-CONTROLLED TRIAL; RANDOMIZED-TRIAL;
+   DOUBLE-BLIND; MS PATIENTS; MULTICENTER; BIOAVAILABILITY; IFN-BETA-1B
+ER
+
+PT J
+ID MAGNESIUM-OXIDE; REACTIVITY; VACANCIES
+ER
+
+PT S
+ID CHARGE STORAGE; TRAP MEMORY; NANOCRYSTALS
+ER
+
+PT S
+DE shape memory alloy; Ti-Ni; Ca ion implantation; surface properties;
+   biomaterials
+ID TITANIUM
+ER
+
+PT J
+DE ion implantation; nanoclusters; non-volatile memory
+ID SILICON NANOCRYSTALS; ION-IMPLANTATION; SINGLE-ELECTRON; THIN
+   SIO2-FILMS; CHARGE STORAGE; FLOATING-GATE; THERMAL SIO2; 2-D ARRAYS;
+   SIMULATION; TRANSPORT
+ER
+
+PT J
+DE NiTi alloy; GIXRD; amorphization; elastic recovery; hardness
+ID MEDICAL APPLICATIONS; IRRADIATION; HARDNESS
+ER
+
+PT J
+DE sequential, short-term memory; auditory temporal sequencing; receptive
+   language; cochlear implants; nonverbal intelligence; children
+ID DEAF-CHILDREN; VOCABULARY DEVELOPMENT; SPEECH-PERCEPTION; HEARING-LOSS;
+   PERFORMANCE; REHEARSAL; ADULTS
+ER
+
+PT J
+DE Si; implantation; nanocrystals; memory; single electron tunneling;
+   charge storage
+ID SILICON NANOCRYSTALS; ION-IMPLANTATION; THERMAL SIO2; 2-D ARRAYS; STATES
+ER
+
+PT J
+DE NiTi alloy; phosphorus; plasma-based implantation (PBII); corrosion
+ID STENT; PREVENTION; RESTENOSIS
+ER
+
+PT J
+DE attention; child; cochlear implant; cognition; hearing aid; language;
+   memory; speech perception; vocabulary
+ID SPEECH-PERCEPTION; HEARING-LOSS; AUDITION; DEAF; AGE
+ER
+
+PT J
+ER
+
+PT S
+ID NANO-CRYSTAL MEMORY; CHARGE STORAGE; NANOCRYSTALS
+ER
+
+PT S
+DE osseointegration; trans-femoral implant; SMA; FEA; overload protection
+ER
+
+PT B
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE nanocrystal; ion implantation; non-volatile memory
+ID RETENTION; CHARGE
+ER
+
+PT J
+ID PRELINGUALLY DEAF-CHILDREN; SHORT-TERM-MEMORY; SPEECH-PERCEPTION;
+   DEVELOPMENTAL DIFFERENCES; LANGUAGE; AGE; PREDICTORS; SIGNERS;
+   RECOGNITION; PERFORMANCE
+ER
+
+PT J
+ID DATA-STORAGE; UP-CONVERSION; LUMINESCENCE; PROPOSAL; FILMS; LASER;
+   LIMIT; BLUE
+ER
+
+PT S
+DE hemocompatibiliy; microstructure; phosphorus ion implantation; TiNi
+   alloy
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ID PRELINGUALLY DEAFENED CHILDREN; PROCESSING SYSTEM; PERFORMANCE;
+   RECOGNITION; ATTENTION; LANGUAGE; DEVICE; AGE
+ER
+
+PT J
+ID SPEECH-PERCEPTION; DEAF-CHILDREN; HEARING; PERFORMANCE; LANGUAGE; PBK
+ER
+
+PT J
+DE NiTi; biocompatibility; bone healing; corrosion; trace metals
+ID QUANTITATIVE COMPUTED-TOMOGRAPHY; IN-VITRO; BIOCOMPATIBILITY; ALLOY;
+   TISSUE; SCREWS; IONS; NI
+ER
+
+PT J
+DE multi-channel; acute slice; fEPSP; LTP
+ID LONG-TERM POTENTIATION; NEURONS; STIMULATION
+ER
+
+PT J
+ID FALSE MEMORIES; SEXUAL ABUSE; CHILDRENS MEMORY; CREDIBILITY; STATEMENTS;
+   CREATION; SUGGESTIBILITY; PSYCHOTHERAPY; EXPERIENCES; PERSPECTIVE
+ER
+
+PT J
+DE GABA; hippocampal neuron; inhibitory post-synaptic current; lubricant;
+   seizure; whole-cell patch clamp
+ID CULTURED HIPPOCAMPAL-NEURONS; ESTER TURBINE LUBRICANTS; POSTSYNAPTIC
+   CURRENTS; NEUROTOXIN FORMATION; PYRAMIDAL CELLS; GABA RELEASE; RAT;
+   RECEPTOR; BRAIN; ORGANOPHOSPHATES
+ER
+
+PT J
+DE nonstationary nonlinear modeling; Volterra models; time-varying
+   artificial neural network; dentate gyrus; potentiation; hippocampus
+ID NONLINEAR-SYSTEMS; NEURAL-NETWORK
+ER
+
+PT J
+ID LONG-TERM POTENTIATION; MOSSY-FIBER SYNAPSES; DEPENDENT LATE-PHASE; RAT
+   HIPPOCAMPUS; PYRAMIDAL NEURONS; SYNAPTIC TRANSMISSION; KAINATE
+   RECEPTORS; ACTIVATION; INDUCTION; CHANNELS
+ER
+
+PT J
+ID HIPPOCAMPAL-NEURONS; MICROELECTRODE ARRAY; SYNAPTIC POTENTIALS;
+   ELECTRODES; MEMBRANE; CELL; FLUORESCENCE; SURVIVAL; NETWORKS; DYES
+ER
+
+EF

@@ -1,0 +1,182 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,circuit breaker,8,circuit breaker,23
+1,simulation,3,simulation,9
+2,supergrid,3,arc hazards,8
+3,renewable energy,3,burns,8
+4,hvdc transmission,2,high-power testing,8
+5,interconnections,2,personal,8
+6,risk assessment,2,interconnections,7
+7,wind energy,2,risk assessment,7
+8,testing,2,supergrid,7
+9,power,2,renewable energy,7
+10,igct,2,wind energy,7
+11,arc hazards,2,power,7
+12,burns,2,igct,7
+13,high-power testing,2,hvdc transmission,6
+14,personal,2,testing,6
+15,mems circuit breaker,2,hvdc circuit breaker,4
+16,mems,2,power system transients,4
+17,fuzzy logic,1,pscad,4
+18,global grid,1,test circuit,4
+19,interpretive structural modelling,1,test,4
+20,micmac,1,mtdc networks,4
+21,hot spots,1,supergrids,4
+22,superconducting fault current limiter,1,scopf,4
+23,65 k,1,outage management,4
+24,ac/dc,1,restoration,4
+25,multiterminal mtdc,1,trading electricity,4
+26,power flow analysis,1,renewables,4
+27,hvdc systems,1,risk,4
+28,mtdc grids,1,srm,4
+29,control and operation,1,direct power control,4
+30,integration of,1,wireless communications,4
+31,quantitative risk analysis,1,ldpc,4
+32,trading,1,hvdc,4
+33,hvdc grid,1,hvdc circuit breakers,4
+34,renewable energies,1,fault current,4
+35,offshore wind power,1,pulsed plasma,4
+36,european overlay,1,pulsed power,4
+37,hvdc circuit breaker,1,supercritical fluid,4
+38,power system transients,1,solid-state circuit breaker,4
+39,pscad,1,hybrid breaker,4
+40,test circuit,1,igbt,4
+41,test,1,high-power,4
+42,shunt reactor,1,high-speed videography,4
+43,current chopping,1,mems circuit breaker,4
+44,chopping overvoltage,1,mems,4
+45,re-ignition,1,high speed videography,4
+46,hybrid ac/dc transmission line,1,copper-tungsten,4
+47,integrated approach,1,reignition,4
+48,actuator,1,welding,4
+49,optimization algorithm,1,powder metal,4
+50,thomson coil actuator,1,microstructure,4
+51,mtdc networks,1,fuzzy logic,3
+52,supergrids,1,global grid,3
+53,scopf,1,interpretive structural modelling,3
+54,outage management,1,micmac,3
+55,restoration,1,hot spots,3
+56,sustainability,1,superconducting fault current limiter,3
+57,scaling,1,65 k,3
+58,transformation of energy,1,ac/dc,3
+59,offshore grid,1,multiterminal mtdc,3
+60,marine regionalization,1,power flow analysis,3
+61,europe,1,hvdc systems,3
+62,trading electricity,1,mtdc grids,3
+63,renewables,1,control and operation,3
+64,risk,1,integration of,3
+65,srm,1,quantitative risk analysis,3
+66,direct power control,1,trading,3
+67,wireless communications,1,hvdc grid,3
+68,ldpc,1,renewable energies,3
+69,bridge rectifier,1,offshore wind power,3
+70,fault current limiters (fcls),1,european overlay,3
+71,high-power faults,1,shunt reactor,3
+72,hv sf6 circuit breaker,1,current chopping,3
+73,breakdown voltage,1,chopping overvoltage,3
+74,capacitive current breaking,1,re-ignition,3
+75,hvdc,1,actuator,3
+76,hvdc circuit breakers,1,optimization algorithm,3
+77,fault current,1,thomson coil actuator,3
+78,reignition current,1,sustainability,3
+79,high-power test,1,scaling,3
+80,synthetic test,1,transformation of energy,3
+81,infrastructure planning,1,offshore grid,3
+82,risk & probability analysis,1,marine regionalization,3
+83,pulsed plasma,1,europe,3
+84,pulsed power,1,reignition current,3
+85,supercritical fluid,1,high-power test,3
+86,arcing,1,synthetic test,3
+87,microwave tube,1,arcing,3
+88,gyrotron,1,microwave tube,3
+89,crowbar etc.,1,gyrotron,3
+90,wire-burn test,1,crowbar etc.,3
+91,crowbar,1,wire-burn test,3
+92,high voltage dc power supplies,1,crowbar,3
+93,solid state,1,high voltage dc power supplies,3
+94,control design,1,solid state,3
+95,offshore wind farms,1,control design,3
+96,optimization,1,offshore wind farms,3
+97,intermittency,1,optimization,3
+98,solid-state circuit breaker,1,solid-state disconnect,3
+99,hybrid breaker,1,depletion-mode jfet,3
+100,igbt,1,surge,3
+101,high-power,1,multiterminal hvdc,3
+102,hydraulic operating mechanism,1,multilevel converters,3
+103,self-defense function,1,power transmission,3
+104,flexible ac transmission systems,1,voltage,3
+105,load flow control,1,doubly-fed induction generator,3
+106,reactive power,1,smart grid,3
+107,solid-state disconnect,1,deadbeat,3
+108,depletion-mode jfet,1,synchronous machine,3
+109,surge,1,field discharge,3
+110,solid state circuit breakers (sscbs),1,energy storage,3
+111,power semiconductors,1,ultracapacitor,3
+112,multiterminal hvdc,1,secondary electron,3
+113,multilevel converters,1,charging,3
+114,power transmission,1,insulator,3
+115,voltage,1,alumina,3
+116,doubly-fed induction generator,1,computational model,3
+117,smart grid,1,application,3
+118,deadbeat,1,measurements,3
+119,synchronous machine,1,dynamic runtime,3
+120,field discharge,1,controlled switching,3
+121,energy storage,1,fault interruption,3
+122,ultracapacitor,1,high voltage,3
+123,dc circuit breakers,1,cogeneration,3
+124,dc power systems,1,dispersed storage and generation,3
+125,high voltage dc transmission,1,power quality,3
+126,secondary electron,1,ohte,3
+127,charging,1,hscb,3
+128,insulator,1,fibre optic cable,3
+129,alumina,1,switches,3
+130,integrated gate controlled thyristor,1,reliability,3
+131,facts,1,failure modes,3
+132,hybrid circuit breaker,1,are voltage,3
+133,computational model,1,digitized measuring system,3
+134,application,1,development,3
+135,measurements,1,improvement,3
+136,dynamic runtime,1,circuit breaker testing,3
+137,countercurrent commutation principle,1,circuit breakers,3
+138,inverse current commutation with,1,current measurement,3
+139,controlled switching,1,data,3
+140,fault interruption,1,hybrid ac/dc transmission line,2
+141,high voltage,1,integrated approach,2
+142,cogeneration,1,bridge rectifier,2
+143,dispersed storage and generation,1,fault current limiters (fcls),2
+144,power quality,1,high-power faults,2
+145,decision tree,1,hv sf6 circuit breaker,2
+146,c4.5 algorithm,1,breakdown voltage,2
+147,direct current circuit breaker,1,capacitive current breaking,2
+148,insulator recovery time,1,infrastructure planning,2
+149,commutating,1,risk & probability analysis,2
+150,transfer principle,1,intermittency,2
+151,force commutation technology,1,hydraulic operating mechanism,2
+152,commutation circuits,1,self-defense function,2
+153,high-speed videography,1,flexible ac transmission systems,2
+154,integrated power distribution systems,1,load flow control,2
+155,power distribution,1,reactive power,2
+156,ohte,1,solid state circuit breakers (sscbs),2
+157,hscb,1,power semiconductors,2
+158,fibre optic cable,1,dc circuit breakers,2
+159,high speed videography,1,dc power systems,2
+160,thermal puffer type gas circuit breakers,1,high voltage dc transmission,2
+161,nozzle ablation,1,integrated gate controlled thyristor,2
+162,radiative,1,facts,2
+163,switches,1,hybrid circuit breaker,2
+164,reliability,1,decision tree,2
+165,failure modes,1,c4.5 algorithm,2
+166,copper-tungsten,1,direct current circuit breaker,2
+167,reignition,1,insulator recovery time,2
+168,welding,1,commutating,2
+169,powder metal,1,transfer principle,2
+170,microstructure,1,force commutation technology,2
+171,synchronous generators,1,commutation circuits,2
+172,short circuit generators,1,integrated power distribution systems,2
+173,are voltage,1,power distribution,2
+174,digitized measuring system,1,thermal puffer type gas circuit breakers,2
+175,development,1,nozzle ablation,2
+176,improvement,1,radiative,2
+177,circuit breaker testing,1,synchronous generators,2
+178,circuit breakers,1,short circuit generators,2
+179,current measurement,1,countercurrent commutation principle,1
+180,data,1,inverse current commutation with,1

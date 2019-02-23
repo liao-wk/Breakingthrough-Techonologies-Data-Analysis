@@ -1,0 +1,336 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,multiple sclerosis,14,multiple sclerosis,39
+1,dendritic cells,6,dendritic cells,19
+2,autoantibodies,4,implant,12
+3,myelin oligodendrocyte glycoprotein,4,niti,12
+4,surfaces,4,nitinol,12
+5,myelin oligodendrocyte,3,children,11
+6,internet-based treatment,3,cerebrospinal fluid,11
+7,depression,3,neuromyelitis optica,9
+8,children,3,statins,9
+9,neuromyelitis optica,3,autoantibodies,8
+10,nanostructures,3,myelin oligodendrocyte glycoprotein,8
+11,cerebrospinal fluid,3,depression,8
+12,clinically isolated syndrome,3,bone,8
+13,immunotherapy,3,stiffness,8
+14,demyelination,2,sma,8
+15,cnt,2,sme,8
+16,working memory,2,shape memory,8
+17,guided self-help,2,laser,8
+18,ion implantation,2,immunotherapy,8
+19,acetylcholine,2,nanostructures,7
+20,implant,2,epr spectroscopy,7
+21,niti,2,surfaces,7
+22,nitinol,2,demyelination,6
+23,social anxiety disorder,2,internet-based treatment,6
+24,integrated modeling,2,cnt,6
+25,statins,2,working memory,6
+26,epr spectroscopy,2,acetylcholine,6
+27,antibodies,2,clinically isolated syndrome,6
+28,information,2,antibodies,6
+29,closed system,2,closed system,6
+30,cell factories (tm),2,cell factories (tm),6
+31,autoimmunity,2,myelin oligodendrocyte,5
+32,disorders of memory content,1,barrel cortex,5
+33,electrical brain stimulation,1,can channels,5
+34,fear memory,1,m1,5
+35,atypical demyelination,1,patch-clamp,5
+36,iron rim,1,trpc channels,5
+37,phase,1,v1,5
+38,7 t mri,1,integrated modeling,5
+39,swi,1,amyloid beta,5
+40,cognitive behavioral treatment,1,apolipoprotein,5
+41,dark matter simulations,1,dementia,5
+42,dark matter experiments,1,lipid,5
+43,acquisition,1,oxysterols,5
+44,digit span,1,autoimmunity,5
+45,language,1,flow cytometry,5
+46,language age,1,spermatozoa,5
+47,short-term auditory,1,viability,5
+48,dram cell transistor,1,mitochondria,5
+49,peripheral transistor,1,rat,5
+50,implant and anneal process,1,fluorescent,5
+51,nano memory,1,iron rim,4
+52,electrical pulse,1,phase,4
+53,internet intervention,1,7 t mri,4
+54,cognitive behaviour therapy,1,swi,4
+55,internet interventions,1,acquisition,4
+56,icbt,1,digit span,4
+57,attitudes,1,language,4
+58,questionnaire,1,language age,4
+59,cochlear implants,1,short-term auditory,4
+60,short-term memory,1,internet interventions,4
+61,reading,1,icbt,4
+62,integrated crop-livestock-forestry systems,1,attitudes,4
+63,agricultural,1,questionnaire,4
+64,"heating, chromospheric",1,cochlear implants,4
+65,"heating, coronal",1,short-term memory,4
+66,"chromosphere, models",1,reading,4
+67,anxiety disorders,1,guided self-help,4
+68,niti shape memory alloy,1,ion implantation,4
+69,"micro-, nano-indentation",1,jc virus,4
+70,borderline personality disorder,1,natalizumab,4
+71,motive-oriented therapeutic,1,stratify-jcv,4
+72,cognitive endophenotypes,1,anti-jcv,4
+73,dimensional approaches,1,subclinical depression,4
+74,cognitive processing,1,major depression,4
+75,ethiopia,1,prevention,4
+76,adoption and diffusion,1,treatment,4
+77,smallholder agriculture,1,online,4
+78,conservation,1,mog antibodies,4
+79,jc virus,1,optic neuritis,4
+80,natalizumab,1,aqp-4,4
+81,stratify-jcv,1,activity dependent,4
+82,anti-jcv,1,columnar organization,4
+83,subclinical depression,1,development,4
+84,major depression,1,in vivo,4
+85,prevention,1,newborn,4
+86,treatment,1,lithium-sulfur,4
+87,online,1,binder free,4
+88,auditory cortex,1,high sulfur load,4
+89,brain stimulation,1,costs calculation,4
+90,neurophysiology,1,induction heating,4
+91,mog antibodies,1,shape memory alloy (sma),4
+92,optic neuritis,1,social anxiety disorder,4
+93,aqp-4,1,advanced melanoma,4
+94,activity dependent,1,dentric cells,4
+95,columnar organization,1,dtic,4
+96,development,1,first-line therapy,4
+97,in vivo,1,melanoma,4
+98,newborn,1,charge transfer,4
+99,lithium-sulfur,1,oxygen,4
+100,binder free,1,tio2 nanocrystals,4
+101,high sulfur load,1,uv-induced,4
+102,costs calculation,1,technology,4
+103,bone,1,computer,4
+104,stiffness,1,psychotherapy,4
+105,sma,1,training,4
+106,sme,1,supervision,4
+107,shape memory,1,atherosclerosis,4
+108,laser,1,inflammation,4
+109,induction heating,1,immunology,4
+110,shape memory alloy (sma),1,antibody,4
+111,internet-based,1,myelin,4
+112,web-based,1,neurological,4
+113,attention bias modification training,1,hypoxia,4
+114,social,1,canine,4
+115,internet-based self-help,1,vaccination,4
+116,structured diagnostic,1,cd4(+) t cells,4
+117,electrochemistry,1,t helper cells,4
+118,heterogeneous catalysis,1,tumor,4
+119,cyclic voltammetry,1,tnf-alpha,4
+120,electron traps,1,whole blood culture,4
+121,space radiation,1,pbmc culture,4
+122,dosimetry,1,rt-pcr,4
+123,passive radiation detectors,1,anticoagulants,4
+124,interferon-beta,1,ethiopia,3
+125,neutralizing antibodies,1,adoption and diffusion,3
+126,false memory,1,smallholder agriculture,3
+127,compliance,1,conservation,3
+128,memory,1,auditory cortex,3
+129,barrel cortex,1,brain stimulation,3
+130,can channels,1,neurophysiology,3
+131,m1,1,internet-based,3
+132,patch-clamp,1,web-based,3
+133,trpc channels,1,attention bias modification training,3
+134,v1,1,social,3
+135,impact assessment,1,false memory,3
+136,land use cover change,1,compliance,3
+137,aquaporin-4,1,memory,3
+138,clinical,1,aquaporin-4,3
+139,internet treatment,1,clinical,3
+140,acute disseminated encephalomyelitis,1,charge-trapping flash (ctf),3
+141,charge-trapping flash (ctf),1,hfon,3
+142,hfon,1,ion implant,3
+143,ion implant,1,nonvolatile memory (nvm),3
+144,nonvolatile memory (nvm),1,association,3
+145,association,1,behavioral state,3
+146,behavioral state,1,nucleus basalis,3
+147,nucleus basalis,1,al2o3,3
+148,feature models,1,alo- ion implantation,3
+149,feature similarity,1,deep trap,3
+150,variability modeling,1,nonvolatile-memory (nvm),3
+151,amyloid beta,1,randomized trials,3
+152,apolipoprotein,1,monoclonal,3
+153,dementia,1,charge trapping,3
+154,lipid,1,luminescence,3
+155,oxysterols,1,agent-based modeling,3
+156,social phobia,1,agriculture,3
+157,randomized controlled trial,1,mp-mas,3
+158,al2o3,1,pathophysiology,3
+159,alo- ion implantation,1,biomarkers,3
+160,deep trap,1,apoptosis,3
+161,nonvolatile-memory (nvm),1,granulocytes,3
+162,ion implanted polymers,1,heart transplantation,3
+163,organic field-effect devices,1,ischemia and,3
+164,sun: prominences,1,prognosis,3
+165,sun: uv radiation,1,antimyelin,3
+166,techniques: spectroscopic,1,heterogeneity,3
+167,randomized trials,1,biological markers,3
+168,monoclonal,1,nabilone,3
+169,disease progression,1,synthetic cannabinoid,3
+170,sun : granulation,1,spasticity,3
+171,sun : magnetic fields,1,central pain,3
+172,techniques : polarimetric,1,assr,3
+173,charge trapping,1,auditory steady-state response,3
+174,luminescence,1,cochlear delay time,3
+175,nanotubes,1,hearing,3
+176,toll-like receptors,1,oxygen vacancy,3
+177,interleukins,1,photocatalysis,3
+178,agent-based modeling,1,transformation,3
+179,agriculture,1,24p3,3
+180,mp-mas,1,bacteriostatic,3
+181,pathophysiology,1,kidney ischemia-reperfusion injury,3
+182,biomarkers,1,ngal,3
+183,apoptosis,1,sperm,3
+184,granulocytes,1,sperm capacitation,3
+185,heart transplantation,1,lipid rafts,3
+186,ischemia and,1,detergent resistant membranes,3
+187,prognosis,1,channel capacity,3
+188,antimyelin,1,feedback,3
+189,"cochlear implant, children",1,markov channel,3
+190,mismatch negativity,1,typicality,3
+191,holistic medicine and health,1,cell culture,3
+192,clinical holistic medicine,1,bk channels,3
+193,cam,1,density,3
+194,common sampling frame,1,immunohistochemistry,3
+195,generation of statistically consistent agent,1,neocortical pyramidal,3
+196,titanium dioxide,1,immunodeficiency,3
+197,nanoporous electrode,1,t lymphocytes,3
+198,charge transfer reductive,1,b lymphocytes,3
+199,heterogeneity,1,ceo problem,3
+200,biological markers,1,contra-polymatroid,3
+201,nabilone,1,decentralized estimation,3
+202,synthetic cannabinoid,1,gaussian,3
+203,spasticity,1,bioactive niti alloy,3
+204,central pain,1,hydroxyapatite layer,3
+205,assr,1,implants,3
+206,auditory steady-state response,1,bone bonding,3
+207,cochlear delay time,1,ilt,3
+208,hearing,1,plasmacytoid dendritic cells,3
+209,autoantibody,1,cpg-dna,3
+210,epitopes,1,cd59,3
+211,oxygen vacancy,1,cytotoxic t-cell response,3
+212,photocatalysis,1,c9neo antigen,3
+213,transformation,1,granzyme b,3
+214,diversity of constraints to agricultural development,1,activation time map,3
+215,empirical,1,atrium,3
+216,advanced melanoma,1,electrocardiographic (ecg) mapping,3
+217,dentric cells,1,human,3
+218,dtic,1,paraoxonase,3
+219,first-line therapy,1,transgenic mice,3
+220,melanoma,1,lipid peroxidation,3
+221,shape memory alloys,1,lecithin : cholesterol,3
+222,tini,1,cd4(+)cd25(+) t cells,3
+223,surface properties,1,regulatory t cells,3
+224,24p3,1,immune tolerance,3
+225,bacteriostatic,1,anergy,3
+226,kidney ischemia-reperfusion injury,1,disorders of memory content,2
+227,ngal,1,electrical brain stimulation,2
+228,sperm,1,fear memory,2
+229,sperm capacitation,1,atypical demyelination,2
+230,lipid rafts,1,cognitive behavioral treatment,2
+231,detergent resistant membranes,1,dram cell transistor,2
+232,charge transfer,1,peripheral transistor,2
+233,oxygen,1,implant and anneal process,2
+234,tio2 nanocrystals,1,nano memory,2
+235,uv-induced,1,electrical pulse,2
+236,rutile,1,internet intervention,2
+237,soluble platelet endothelial cell adhesion,1,cognitive behaviour therapy,2
+238,biventricular pacing,1,"heating, chromospheric",2
+239,ventricular repolarization,1,"heating, coronal",2
+240,congestive heart,1,"chromosphere, models",2
+241,visible-light,1,anxiety disorders,2
+242,paramagnetic-resonance,1,niti shape memory alloy,2
+243,channel capacity,1,"micro-, nano-indentation",2
+244,feedback,1,cognitive endophenotypes,2
+245,markov channel,1,dimensional approaches,2
+246,typicality,1,cognitive processing,2
+247,cell culture,1,internet-based self-help,2
+248,bk channels,1,structured diagnostic,2
+249,density,1,electrochemistry,2
+250,immunohistochemistry,1,heterogeneous catalysis,2
+251,neocortical pyramidal,1,cyclic voltammetry,2
+252,biodegradable shape-memory polymers,1,electron traps,2
+253,polymer systems,1,space radiation,2
+254,stimuli-sensitive,1,dosimetry,2
+255,immunodeficiency,1,passive radiation detectors,2
+256,t lymphocytes,1,interferon-beta,2
+257,b lymphocytes,1,neutralizing antibodies,2
+258,consensus,1,impact assessment,2
+259,ceo problem,1,land use cover change,2
+260,contra-polymatroid,1,internet treatment,2
+261,decentralized estimation,1,feature models,2
+262,gaussian,1,feature similarity,2
+263,decoder,1,variability modeling,2
+264,channels,1,social phobia,2
+265,bioactive niti alloy,1,randomized controlled trial,2
+266,hydroxyapatite layer,1,sun: prominences,2
+267,implants,1,sun: uv radiation,2
+268,bone bonding,1,techniques: spectroscopic,2
+269,ilt,1,disease progression,2
+270,plasmacytoid dendritic cells,1,sun : granulation,2
+271,cpg-dna,1,sun : magnetic fields,2
+272,technology,1,techniques : polarimetric,2
+273,computer,1,toll-like receptors,2
+274,psychotherapy,1,interleukins,2
+275,training,1,"cochlear implant, children",2
+276,supervision,1,mismatch negativity,2
+277,atherosclerosis,1,holistic medicine and health,2
+278,inflammation,1,clinical holistic medicine,2
+279,immunology,1,cam,2
+280,antibody,1,titanium dioxide,2
+281,myelin,1,nanoporous electrode,2
+282,neurological,1,charge transfer reductive,2
+283,active ms lesions,1,autoantibody,2
+284,contrast-enhanced mri,1,epitopes,2
+285,mr spectroscopic imaging,1,shape memory alloys,2
+286,cd59,1,tini,2
+287,cytotoxic t-cell response,1,surface properties,2
+288,c9neo antigen,1,biventricular pacing,2
+289,granzyme b,1,ventricular repolarization,2
+290,activation time imaging,1,congestive heart,2
+291,noninvasive electrocardiography,1,visible-light,2
+292,inverse,1,paramagnetic-resonance,2
+293,hypoxia,1,biodegradable shape-memory polymers,2
+294,canine,1,polymer systems,2
+295,tini shape memory alloy,1,stimuli-sensitive,2
+296,n+ ion implantation,1,consensus,2
+297,tin,1,information,2
+298,activation time map,1,decoder,2
+299,atrium,1,channels,2
+300,electrocardiographic (ecg) mapping,1,active ms lesions,2
+301,human,1,contrast-enhanced mri,2
+302,vaccination,1,mr spectroscopic imaging,2
+303,cd4(+) t cells,1,activation time imaging,2
+304,t helper cells,1,noninvasive electrocardiography,2
+305,tumor,1,inverse,2
+306,paraoxonase,1,tini shape memory alloy,2
+307,transgenic mice,1,n+ ion implantation,2
+308,lipid peroxidation,1,tin,2
+309,lecithin : cholesterol,1,nanocrystal,2
+310,nanocrystal,1,non-volatile memory,2
+311,non-volatile memory,1,apolipoprotein d (apod),2
+312,apolipoprotein d (apod),1,multiple sclerosis (ms),2
+313,multiple sclerosis (ms),1,neurological diseases,2
+314,neurological diseases,1,diffusion of innovations,2
+315,diffusion of innovations,1,inter-household linkages,2
+316,inter-household linkages,1,policy analysis,2
+317,policy analysis,1,dark matter simulations,1
+318,cd4(+)cd25(+) t cells,1,dark matter experiments,1
+319,regulatory t cells,1,integrated crop-livestock-forestry systems,1
+320,immune tolerance,1,agricultural,1
+321,anergy,1,borderline personality disorder,1
+322,flow cytometry,1,motive-oriented therapeutic,1
+323,spermatozoa,1,acute disseminated encephalomyelitis,1
+324,viability,1,ion implanted polymers,1
+325,mitochondria,1,organic field-effect devices,1
+326,rat,1,nanotubes,1
+327,fluorescent,1,common sampling frame,1
+328,experimental autoimmune encephalitis,1,generation of statistically consistent agent,1
+329,tnf-alpha,1,diversity of constraints to agricultural development,1
+330,whole blood culture,1,empirical,1
+331,pbmc culture,1,rutile,1
+332,rt-pcr,1,soluble platelet endothelial cell adhesion,1
+333,anticoagulants,1,experimental autoimmune encephalitis,1
+334,3'-phosphodiesterase,1,,

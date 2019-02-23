@@ -1,0 +1,108 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE social media; mobile; fan identification; second screen; Snapchat
+ID GRATIFICATIONS; SCREEN
+ER
+
+PT J
+DE sport; media; networked media sport; experience; memory; television
+ER
+
+PT J
+DE college athletics; facebook; new media; social media; twitter
+ER
+
+PT J
+ID TWITTER; GRATIFICATIONS; ONLINE
+ER
+
+PT J
+DE temporary organisation; project management; communication; social media;
+   strategic management; decisions making
+ER
+
+PT J
+ID SYSTEM JUSTIFICATION; CONSTRUCT ACCESSIBILITY; TELEVISION-NEWS;
+   MECHANICAL TURK; REALITY; QUALITY; CRIME; CONSEQUENCES; PERSONALITY;
+   PERSPECTIVE
+ER
+
+PT J
+ID ONLINE NEWS; TELEVISION; AUDIENCE; MOTIVATIONS; INFORMATION; PREDICTORS;
+   INTERNET; FACEBOOK; APPEAL; WEB
+ER
+
+PT J
+DE Communication; Project communication management; Call centres; Principal
+   agency theory; Project performance
+ID ORGANIZATIONS; MODEL
+ER
+
+PT J
+ID TEAM IDENTIFICATION; IN-GROUP; FOOTBALL; BEHAVIOR; MEDIA; FIELD;
+   DISCRIMINATION; PARTICIPATION; PSYCHOLOGY; MODEL
+ER
+
+PT J
+ER
+
+PT J
+DE Social media; Uses and gratifications; Dynamic reinforcement; Solitude;
+   Social support; Experience sampling
+ID PANEL-DATA; COMMUNICATION; INTERNET; NETWORKS; BEHAVIOR; WEB-2.0;
+   MODELS; SELF
+ER
+
+PT J
+DE Crowdsourcing; Online research; Mechanical turk
+ID SAMPLE SELECTION BIAS; DATA-COLLECTION; ONLINE PANELS; INTERNET;
+   COOPERATION; INCENTIVES; PSYCHOLOGY; QUALITY; MARKET
+ER
+
+PT J
+DE Uses and gratifications; Social network sites; Facebook; Communication
+   technology
+ID COLLEGE-STUDENTS; INTERNET; MEDIA; TELEVISION; PLAY; MASS
+ER
+
+PT J
+DE Information; Communication; Projects; Innovation; Temporary systems;
+   Permanent systems; Temporary continuity
+ID COMPETITIVE ADVANTAGE; STRATEGIC MANAGEMENT; CAPABILITIES; FIRM; CHAINS
+ER
+
+PT J
+DE Effectuation; Social media; Twitter
+ID WORD-OF-MOUTH; ENTREPRENEURS; FIRM; UNCERTAINTY; INFORMATION; NETWORKS
+ER
+
+PT J
+DE Amazon Mechanical Turk; Internet; online; web; data collection; research
+   methods
+ER
+
+PT J
+DE Networks; Innovation; Communication channels; Ties; Alliances; Product
+   development; Networks
+ID PRODUCT DEVELOPMENT; STRATEGIC ALLIANCES; MEDIA RICHNESS; INTERFIRM
+   COLLABORATION; ORGANIZATIONAL-BEHAVIOR; COVARIANCE-STRUCTURES;
+   INFORMATION-SYSTEMS; MANUFACTURING FIRMS; MARKETING CHANNELS;
+   SOCIAL-STRUCTURE
+ER
+
+PT J
+DE media theory; media capabilities; media richness; collaboration
+   technology; communication; conveyance; convergence
+ID FACE-TO-FACE; GROUP SUPPORT-SYSTEMS; ELECTRONIC MAIL; DECISION-MAKING;
+   VIRTUAL TEAM; INFORMATION ACQUISITION; GROUP-PERFORMANCE;
+   IDEA-GENERATION; SOCIAL PRESENCE; RICHNESS THEORY
+ER
+
+PT J
+DE coordination; roles; temporary organizations
+ID LABOR-MARKET; CONTINGENT WORKERS; NEGOTIATED ORDER; INDUSTRY; CAREERS;
+   TRANSFORMATION; CONSTRUCTION; FLEXIBILITY; CONTRACTORS; HOLLYWOOD
+ER
+
+EF

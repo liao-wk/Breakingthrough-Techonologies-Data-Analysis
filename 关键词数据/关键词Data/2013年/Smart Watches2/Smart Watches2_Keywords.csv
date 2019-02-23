@@ -1,0 +1,848 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,smart watch,40,smart watch,128
+1,smart tv,12,smart tv,44
+2,activity recognition,11,smart,43
+3,internet of things,11,internet of things,40
+4,smart,11,activity recognition,35
+5,wearable,10,wearable,34
+6,iot,9,iot,31
+7,smartwatch,8,sensor,29
+8,heart rate,7,heart rate,27
+9,wearables,7,smartwatch,23
+10,wearable devices,7,smart phone,23
+11,sensor,6,wearables,22
+12,wearable device,6,mobile,21
+13,smart watches,6,wearable devices,21
+14,accelerometer,5,smart watches,21
+15,monitoring,5,wearable device,20
+16,mobile,5,monitoring,19
+17,smart phone,5,android,18
+18,android,5,tv,17
+19,smart home,4,bluetooth,17
+20,smart device,4,interface,17
+21,user interface,4,accelerometer,15
+22,smart-watch,4,gps,15
+23,gps,4,sar,15
+24,tv,4,security,14
+25,smart devices,4,cloud computing,14
+26,bluetooth,4,data,13
+27,security,4,health,12
+28,sar,4,smart device,12
+29,wearable computing,4,user interface,12
+30,interface,4,smart grid,12
+31,health,3,smart-watch,12
+32,authentication,3,smart devices,12
+33,technology,3,privacy,12
+34,mobile sensing,3,wearable computing,12
+35,exposure,3,technology,11
+36,physical activity,3,smart home,11
+37,smart grid,3,exposure,11
+38,edge computing,3,edge computing,11
+39,automatic classification,3,smartphones,11
+40,unconstrained,3,wi-fi,11
+41,fog computing,3,watch,10
+42,watch,3,smartphone,10
+43,smartphones,3,microsoft kinect,10
+44,wearable technology,3,authentication,9
+45,smartphone,3,mobile sensing,9
+46,assistive technology,3,physical activity,9
+47,wi-fi,3,ppg,9
+48,cloud computing,3,automatic classification,9
+49,machine learning,3,unconstrained,9
+50,google glass,3,assistive technology,9
+51,privacy,3,blue-tooth,9
+52,microsoft kinect,3,machine learning,9
+53,data,3,google glass,9
+54,decisional dna,3,medical,9
+55,wireless power transfer,2,content,9
+56,gaze tracking,2,gaze tracking,8
+57,recommendation,2,atrial fibrillation,8
+58,atrial fibrillation,2,coap,8
+59,supervised learning,2,smart homes,8
+60,mobility,2,fog computing,8
+61,coap,2,wearable technology,8
+62,ppg,2,ict,8
+63,ebg,2,linear tv,8
+64,wearable antenna,2,cell phone,8
+65,safety,2,big data,8
+66,haptic feedback,2,decisional dna,8
+67,wearable sensors,2,recommendation,7
+68,smart homes,2,mobility,7
+69,voice input,2,ebg,7
+70,inertial sensors,2,wearable antenna,7
+71,autism,2,voice input,7
+72,usability,2,autism,7
+73,user authentication,2,usability,7
+74,photoplethysmography,2,numerical computation,7
+75,numerical computation,2,compliance,7
+76,parkinson's disease,2,xml,7
+77,blue-tooth,2,user,7
+78,face recognition,2,component,7
+79,collaboration,2,panorama,7
+80,compliance,2,sns,7
+81,mobile devices,2,live,7
+82,xml,2,ugc,7
+83,medical,2,home automation,7
+84,acting order,2,safety,6
+85,cueing individually,2,wearable sensors,6
+86,ict,2,inertial sensors,6
+87,kansei engineering,2,photoplethysmography,6
+88,user,2,parkinson's disease,6
+89,linear tv,2,face recognition,6
+90,content,2,collaboration,6
+91,fall detection,2,cross-platform,6
+92,cell phone,2,applications,6
+93,big data,2,exchange,6
+94,component,2,acting order,6
+95,augmented broadcasting,2,cueing individually,6
+96,prevention,2,accessory,6
+97,pervasive computing,2,modular,6
+98,home automation,2,real time,6
+99,digital tv,2,gsm,6
+100,knowledge,2,low-power,6
+101,set of experience knowledge structure,2,nfc,6
+102,smart spaces,2,implant,6
+103,online claw machine,1,tag,6
+104,delay,1,mixed-signal,6
+105,interactive,1,augmented broadcasting,6
+106,real-time streaming system,1,prevention,6
+107,coil array,1,pervasive computing,6
+108,magnetic field,1,digital tv,6
+109,authentic contexts,1,wireless power transfer,5
+110,efl learning,1,supervised learning,5
+111,positive emotions,1,testbed,5
+112,framework,1,measurements,5
+113,mobile applications,1,arduino,5
+114,service computing,1,text reading,5
+115,self-adaptive systems,1,rsvp,5
+116,telecare,1,user authentication,5
+117,wireless biosensor,1,assessments,5
+118,peer-to-peer communication,1,crowdsourcing,5
+119,blind code,1,qti,5
+120,real-time video,1,mqtt,5
+121,p2p multimedia,1,e-health,5
+122,video index,1,software defined networks,5
+123,brain wave,1,sdn,5
+124,eeg,1,mec,5
+125,drowsiness,1,smart mobile device,5
+126,driving habit,1,tablet,5
+127,device pairing,1,stylus,5
+128,handshake detection,1,app,5
+129,key extraction,1,interpreting,5
+130,disc model,1,translation,5
+131,personalized recommendation,1,mobile devices,5
+132,resource reasoning,1,fashion,5
+133,recommender,1,outfit,5
+134,smart mobile devices,1,watch face,5
+135,head motions,1,design,5
+136,tap-based authentication,1,kansei engineering,5
+137,rhythm-based authentication,1,fall detection,5
+138,diabetes,1,data synchronization,5
+139,glucose sensor,1,wireless,5
+140,smart watches and bracelets,1,wlan,5
+141,e-coaching,1,ifa,5
+142,textile antenna,1,mimo antennas,5
+143,wireless power,1,smart items,5
+144,energy,1,health care,5
+145,power consumption,1,bpmn,5
+146,arrhythmias,1,sensors,5
+147,accuracy,1,cloud security,5
+148,emotion recognition,1,malware,5
+149,psychology,1,grayware,5
+150,validation,1,device,5
+151,electromyography(emg),1,management,5
+152,gesture recognition,1,knowledge,5
+153,human computer interaction,1,set of experience knowledge structure,5
+154,instant video,1,cognitive deficiency,5
+155,efficiency,1,reminder,5
+156,received signal strength,1,autonomy,5
+157,wifi signal,1,ethics,5
+158,digital forensic investigation,1,smart spaces,5
+159,smart ce forensics,1,authentic contexts,4
+160,elastic fiber,1,efl learning,4
+161,supercapacitors,1,positive emotions,4
+162,wearable energy storage,1,e-coaching,4
+163,visual attention,1,arrhythmias,4
+164,active reading,1,accuracy,4
+165,interaction design,1,validation,4
+166,computer supported collaborative work,1,stroke,4
+167,groupwork,1,goal setting,4
+168,secondary displays,1,feedback,4
+169,toddler,1,stream reasoning,4
+170,electronic media,1,scada,4
+171,hybrid nanogenerator,1,grid operations,4
+172,human locomotion,1,hand gesture,4
+173,wrist-watch,1,hand movement,4
+174,bluetooth low energy (ble),1,robotic arm,4
+175,seamless connectivity,1,supermarket,4
+176,secure,1,indoor navigation,4
+177,stroke,1,5g,4
+178,goal setting,1,high gain,4
+179,feedback,1,mimo,4
+180,qfd,1,haptic feedback,4
+181,hoq diagram,1,blood oxygen saturation,4
+182,mobility management,1,pulsatile,4
+183,clustering,1,photosensors,4
+184,testbed,1,compliance ratio,4
+185,measurements,1,smart cities,4
+186,arduino,1,smart towns,4
+187,smart lighting control,1,contact,4
+188,oblivious mobile sensors,1,urticaria,4
+189,internet-of-things,1,apple,4
+190,text reading,1,fitness trackers,4
+191,rsvp,1,physiologic,4
+192,robot interaction,1,motor activity,4
+193,lighter-than-air (lta),1,activities of,4
+194,stream reasoning,1,assisstive technology,4
+195,scada,1,mobile system,4
+196,grid operations,1,multimedia,4
+197,amc,1,experimental,4
+198,assistive-technology,1,consumer health,4
+199,instant feedback,1,health behavior,4
+200,teaching,1,android vulnerabilities,4
+201,user-study,1,owasp,4
+202,hand gesture,1,android things,4
+203,hand movement,1,osvdb,4
+204,robotic arm,1,android security,4
+205,supermarket,1,evaluation,4
+206,indoor navigation,1,immersion,4
+207,e-healthcare,1,google cardboard,4
+208,hiring doctors,1,user comfort,4
+209,budget,1,arrhythmia,4
+210,truthful,1,multi-parameter,4
+211,5g,1,electrocardiography,4
+212,high gain,1,blood,4
+213,mimo,1,deep learning,4
+214,database,1,classification,4
+215,video chat,1,human behavior,4
+216,virtual space sharing,1,wlan mimo,4
+217,drama,1,power management,4
+218,historical information,1,dmips,4
+219,smart sport equipment feedback system,1,task offloading,4
+220,watersports,1,cloud service,4
+221,clothing,1,video-on-demand,4
+222,preference,1,hdfs,4
+223,consumer,1,electromagnetic radiation,4
+224,mosquito,1,socio-technical analysis,4
+225,wearable sensing,1,bundling,4
+226,mobile computing,1,n-screen,4
+227,task outsourcing,1,activity of daily living,4
+228,ambient intelligence,1,botnets,4
+229,smart workplace,1,mobile botnets,4
+230,smart technologies,1,android botnets,4
+231,blood oxygen saturation,1,static technique,4
+232,pulsatile,1,detection,4
+233,photosensors,1,public open spaces,4
+234,compliance ratio,1,cyberpark,4
+235,chronic obstructive pulmonary disease,1,mediated spaces,4
+236,long-acting beta 2-agonist,1,urban and landscape,4
+237,smart cities,1,cryptography,4
+238,smart towns,1,constrained devices,4
+239,all-solid-state battery,1,internet,4
+240,flexible battery,1,data security,4
+241,piezo-electrolyte,1,point of view,4
+242,multimodal interaction,1,general framework,4
+243,touch input,1,iot (internet of things),4
+244,smart watch input,1,connectivity,4
+245,ultraviolet (uv) measurement,1,controller,4
+246,contact,1,recommenders,4
+247,urticaria,1,collaborative filtering,4
+248,apple,1,werable device,4
+249,choice,1,watch antenna,4
+250,engineering ethics,1,loop antenna,4
+251,empirical ethics,1,human-body model,4
+252,health technology,1,content recommenders,4
+253,portable navigation,1,data mining,4
+254,heading misalignment angle estimation,1,smart bracelet,4
+255,seamless screen switching,1,multitasking,4
+256,n-screen services,1,uses and,4
+257,context awareness,1,body,4
+258,fitness trackers,1,electronic games,4
+259,physiologic,1,video history,4
+260,motor activity,1,exergames,4
+261,activities of,1,leisure,4
+262,adolescents,1,texting,4
+263,physical and psychosocial outcomes,1,game,4
+264,assisstive technology,1,inattention,4
+265,mobile system,1,laboratory experiment,4
+266,multimedia,1,eye tracking,4
+267,experimental,1,small devices,4
+268,organic optical data storage,1,small displays,4
+269,multi-wavelength led light,1,pursuits,4
+270,excimer laser,1,ontology,4
+271,decision tree,1,video,4
+272,ubiquitous computing,1,recommendation system,4
+273,dysarthria,1,neural network,4
+274,k-means clustering,1,perceived exertion,4
+275,consumer health,1,borg-rpe-scale,4
+276,health behavior,1,android wear,4
+277,data extraction,1,input,4
+278,data transfusion,1,smart metering,4
+279,risk assessment,1,game theory,4
+280,home security,1,google,4
+281,pir sensor,1,wristwatch,4
+282,raspberry pi,1,watchmaking,4
+283,bioelectrical signals,1,ethical gold,4
+284,discrete wavelet transform,1,brand heritage,4
+285,fitness bands,1,complexity,4
+286,cardiovascular diseases,1,smartwatch2,4
+287,public health,1,smart extension apis,4
+288,android vulnerabilities,1,password protectio,4
+289,owasp,1,human dynamics,4
+290,android things,1,human behaviours,4
+291,osvdb,1,smart city,4
+292,android security,1,power quality,4
+293,evaluation,1,healthcare,4
+294,immersion,1,system healthcare,4
+295,google cardboard,1,data collecting,4
+296,user comfort,1,second screen,4
+297,intel genuino 101,1,robot,4
+298,lm35 temp sensor,1,smart lighting,4
+299,pulse sensor,1,led,4
+300,tv-viewing recognition,1,energy saving,4
+301,video on demand,1,lighting,4
+302,in-network service system,1,cbcl,4
+303,smart router,1,development,4
+304,edge device,1,kindergarten,4
+305,fabrication,1,language,4
+306,3d printing,1,smart kids,4
+307,rapid prototyping,1,wrist watch,4
+308,smart objects,1,domotics,4
+309,electric potential sensors,1,interactive tv,4
+310,electrocardiogram,1,iptv,4
+311,heart,1,program recommendation,4
+312,smart wristband,1,watermarking,4
+313,bluetooth low energy,1,mpeg-4,4
+314,assessments,1,ipmp,4
+315,crowdsourcing,1,video fruition,4
+316,qti,1,smart card certification,4
+317,mqtt,1,multicast delivery,4
+318,smart merter,1,pay-per-view,4
+319,monitoring system,1,pay-as-you-watch,4
+320,aged person,1,micropayments,4
+321,emotion-recognition,1,online claw machine,3
+322,quantified self,1,delay,3
+323,health informatics,1,interactive,3
+324,mobile health (mhealth),1,real-time streaming system,3
+325,wireless health systems,1,framework,3
+326,ecological momentary,1,mobile applications,3
+327,arrhythmia,1,service computing,3
+328,gesture input,1,self-adaptive systems,3
+329,microgesture,1,telecare,3
+330,human-computer interaction,1,wireless biosensor,3
+331,multi-parameter,1,peer-to-peer communication,3
+332,electrocardiography,1,blind code,3
+333,blood,1,real-time video,3
+334,e-health,1,p2p multimedia,3
+335,software defined networks,1,video index,3
+336,sdn,1,brain wave,3
+337,mec,1,eeg,3
+338,trajectory,1,drowsiness,3
+339,trajectory compressing,1,driving habit,3
+340,survey,1,disc model,3
+341,tv boxes,1,personalized recommendation,3
+342,home entertainment,1,resource reasoning,3
+343,notification,1,recommender,3
+344,android devise,1,smart mobile devices,3
+345,deep learning,1,head motions,3
+346,classification,1,textile antenna,3
+347,human behavior,1,wireless power,3
+348,skin temperature,1,energy,3
+349,transparent antenna,1,power consumption,3
+350,invisible antenna,1,emotion recognition,3
+351,wifi antenna,1,psychology,3
+352,dual-band antenna,1,visual attention,3
+353,augmented input,1,active reading,3
+354,everyday technology,1,interaction design,3
+355,electric vehicles,1,toddler,3
+356,design optimisation,1,electronic media,3
+357,coil,1,hybrid nanogenerator,3
+358,sign language,1,human locomotion,3
+359,dynamic time warping,1,wrist-watch,3
+360,anomaly detection,1,bluetooth low energy (ble),3
+361,people activity recognition,1,seamless connectivity,3
+362,telecare system,1,secure,3
+363,wireless bio-sensor,1,mobility management,3
+364,wristwatch-type device,1,clustering,3
+365,synchronization databases,1,amc,3
+366,data exchange,1,assistive-technology,3
+367,smart wearables,1,instant feedback,3
+368,smart clothing,1,teaching,3
+369,wlan mimo,1,user-study,3
+370,smart-watch antennas,1,e-healthcare,3
+371,multiband antennas,1,hiring doctors,3
+372,ifa antenna,1,budget,3
+373,power management,1,truthful,3
+374,dmips,1,drama,3
+375,task offloading,1,historical information,3
+376,cloud service,1,clothing,3
+377,video-on-demand,1,preference,3
+378,hdfs,1,consumer,3
+379,h.5.2 [information interfaces]: information interfaces,1,mosquito,3
+380,and,1,wearable sensing,3
+381,behavior intervention,1,mobile computing,3
+382,eating activity detection,1,task outsourcing,3
+383,lifestyle,1,multimodal interaction,3
+384,smart glass,1,touch input,3
+385,first-person view (fpv),1,smart watch input,3
+386,synchronized fpv video,1,choice,3
+387,ambient-assisted living (aal),1,engineering ethics,3
+388,indoor positioning,1,empirical ethics,3
+389,rehabilitation,1,health technology,3
+390,virtual reality image,1,decision tree,3
+391,flight attendants,1,ubiquitous computing,3
+392,situation awareness,1,dysarthria,3
+393,crew resource,1,k-means clustering,3
+394,electroluminescence,1,data extraction,3
+395,electroluminescent devices,1,data transfusion,3
+396,e-textiles,1,risk assessment,3
+397,printed,1,home security,3
+398,smart mobile device,1,pir sensor,3
+399,tablet,1,raspberry pi,3
+400,stylus,1,fitness bands,3
+401,app,1,cardiovascular diseases,3
+402,interpreting,1,public health,3
+403,translation,1,intel genuino 101,3
+404,electromagnetic radiation,1,lm35 temp sensor,3
+405,health intervention,1,pulse sensor,3
+406,translational research,1,tv-viewing recognition,3
+407,rgb-d,1,video on demand,3
+408,hierarchical structure,1,in-network service system,3
+409,heart rate (hr),1,smart router,3
+410,photoplethysmography (ppg),1,edge device,3
+411,motion artifacts (ma),1,fabrication,3
+412,respiratory rate,1,3d printing,3
+413,adaptive iir notch filter,1,rapid prototyping,3
+414,copd - management,1,smart objects,3
+415,exercise,1,electric potential sensors,3
+416,materials,1,electrocardiogram,3
+417,asymmetric supercapacitors,1,heart,3
+418,socio-technical analysis,1,smart wristband,3
+419,bundling,1,bluetooth low energy,3
+420,n-screen,1,quantified self,3
+421,atrial fibrillation detection,1,health informatics,3
+422,security and privacy,1,tv boxes,3
+423,resource-sharing,1,home entertainment,3
+424,internet of,1,notification,3
+425,user data sharing,1,android devise,3
+426,personal data management,1,skin temperature,3
+427,inference attacks,1,transparent antenna,3
+428,elderly people,1,invisible antenna,3
+429,kingdom of saudi arabia,1,wifi antenna,3
+430,knowledge-based,1,dual-band antenna,3
+431,3d anisotropic material,1,augmented input,3
+432,conformal antenna,1,everyday technology,3
+433,connected objects,1,electric vehicles,3
+434,smart education,1,design optimisation,3
+435,selective activity tracking,1,coil,3
+436,gesture,1,telecare system,3
+437,random keypad generator,1,wireless bio-sensor,3
+438,vibration sensor,1,wristwatch-type device,3
+439,video streaming,1,synchronization databases,3
+440,object tracking,1,data exchange,3
+441,curved film antenna,1,smart wearables,3
+442,dual band,1,smart clothing,3
+443,cellular communication,1,rehabilitation,3
+444,channel,1,virtual reality image,3
+445,signal transmission,1,flight attendants,3
+446,human body communication,1,situation awareness,3
+447,heart-rate,1,crew resource,3
+448,activity of daily living,1,electroluminescence,3
+449,mimo antenna,1,electroluminescent devices,3
+450,dipole antenna,1,e-textiles,3
+451,user-friendliness,1,printed,3
+452,acceptance,1,health intervention,3
+453,assembly systems,1,translational research,3
+454,ultra-low power,1,rgb-d,3
+455,context recognition,1,hierarchical structure,3
+456,cross-platform,1,security and privacy,3
+457,applications,1,resource-sharing,3
+458,exchange,1,internet of,3
+459,maneuverability,1,user data sharing,3
+460,miniature microscope,1,personal data management,3
+461,thimble,1,inference attacks,3
+462,gyroscope,1,elderly people,3
+463,amount of exercise,1,kingdom of saudi arabia,3
+464,botnets,1,knowledge-based,3
+465,mobile botnets,1,3d anisotropic material,3
+466,android botnets,1,conformal antenna,3
+467,static technique,1,connected objects,3
+468,detection,1,smart education,3
+469,theatrical performance,1,selective activity tracking,3
+470,public open spaces,1,gesture,3
+471,cyberpark,1,curved film antenna,3
+472,mediated spaces,1,dual band,3
+473,urban and landscape,1,cellular communication,3
+474,cryptography,1,channel,3
+475,constrained devices,1,signal transmission,3
+476,internet,1,human body communication,3
+477,smart fabric,1,heart-rate,3
+478,posture controlled clothing,1,user-friendliness,3
+479,bluetooth low energy beacon (ble),1,acceptance,3
+480,ambient intelligence (ami),1,assembly systems,3
+481,patient privacy,1,ultra-low power,3
+482,human motion tracking,1,context recognition,3
+483,pic microcontroller,1,maneuverability,3
+484,tmp 75 sensor,1,miniature microscope,3
+485,opt 101 transimpedance amplifier,1,thimble,3
+486,fashion,1,gyroscope,3
+487,outfit,1,amount of exercise,3
+488,watch face,1,theatrical performance,3
+489,design,1,patient privacy,3
+490,user experience,1,human motion tracking,3
+491,longitudinal study,1,user experience,3
+492,nursing homes,1,longitudinal study,3
+493,quantification theory type i,1,usability evaluation,3
+494,ip multimedia system,1,eye movement tracking,3
+495,inter-destination multimedia synchronization,1,multiagent systems,3
+496,data security,1,hybrid architecture,3
+497,point of view,1,communicating,3
+498,general framework,1,theatrical performanc,3
+499,mobile medical application,1,calibration,3
+500,transfer function,1,projector,3
+501,desired result,1,virtual reality unexpected contour,3
+502,usability evaluation,1,motion sensing,3
+503,eye movement tracking,1,wrist-worn devices,3
+504,iot (internet of things),1,e-textile,3
+505,connectivity,1,smart textiles,3
+506,controller,1,smart wearable system,3
+507,multiagent systems,1,emergency,3
+508,hybrid architecture,1,crisis,3
+509,communicating,1,mobile application,3
+510,theatrical performanc,1,mgovernment,3
+511,calibration,1,automated document renewal,3
+512,projector,1,mobile text input,3
+513,virtual reality unexpected contour,1,dynamic time,3
+514,other clinical informatics applications,1,behaviour recognition,3
+515,interfaces and usability,1,activity segmentation,3
+516,recommenders,1,hidden markov model,3
+517,collaborative filtering,1,activity type recognition,3
+518,motion sensing,1,ambient assisted,3
+519,wrist-worn devices,1,peripheral vision,3
+520,e-textile,1,display,3
+521,smart textiles,1,information,3
+522,smart wearable system,1,eye-wear computing,3
+523,transmisison power control (tpc) mechanisms,1,human motion detection,3
+524,smart wearable systems,1,depth camera,3
+525,emergency,1,lighting control,3
+526,crisis,1,human motion,3
+527,mobile application,1,human genomics,3
+528,mgovernment,1,individual information,3
+529,automated document renewal,1,personalized medicine,3
+530,werable device,1,cyber-physical network,3
+531,watch antenna,1,information diffusion,3
+532,loop antenna,1,relationship,3
+533,human-body model,1,dominating,3
+534,content recommenders,1,sensor fusion,3
+535,data mining,1,kalman filters,3
+536,mobile text input,1,quaternions,3
+537,dynamic time,1,simulation,3
+538,behaviour recognition,1,tv shopping,3
+539,activity segmentation,1,spatio-temporal information,3
+540,hidden markov model,1,multimedia content,3
+541,activity type recognition,1,industry 4.0,3
+542,ambient assisted,1,cyber physical systems,3
+543,peripheral vision,1,lean automation,3
+544,display,1,lean production,3
+545,information,1,motion sensor,3
+546,eye-wear computing,1,pressure sensor,3
+547,cyber-physical environment,1,activity detection,3
+548,dominate set,1,drinking supplement,3
+549,minimum duration links,1,egocentric video,3
+550,human motion detection,1,samsung gear 2 neo smart watch,3
+551,depth camera,1,lg g smart watch,3
+552,lighting control,1,user study,3
+553,human motion,1,disability,3
+554,human genomics,1,cognitive impairment,3
+555,individual information,1,cellular antenna,3
+556,personalized medicine,1,body loss,3
+557,cyber-physical network,1,smartwatches,3
+558,information diffusion,1,ambient assisted living (aal),3
+559,relationship,1,assistance,3
+560,dominating,1,adaptive ui,3
+561,sensor fusion,1,personalization,3
+562,kalman filters,1,gesture behavior pattern,3
+563,quaternions,1,small screen,3
+564,simulation,1,electronic health,3
+565,smart bracelet,1,wireless communication,3
+566,multitasking,1,smart alert,3
+567,uses and,1,take medicine,3
+568,analytical hierarchy process,1,smart helmet,3
+569,product recommendation,1,power scene,3
+570,naive bayes,1,safety monitoring,3
+571,tv shopping,1,hands-free learning,3
+572,spatio-temporal information,1,mobile learning,3
+573,multimedia content,1,intrusion detection,3
+574,body,1,embedded linux,3
+575,electronic games,1,e-paper,3
+576,video history,1,pedometer,3
+577,exergames,1,form design,3
+578,leisure,1,handwriting recognition,3
+579,texting,1,inertial sensor,3
+580,game,1,tremor,3
+581,inattention,1,essential tremor,3
+582,laboratory experiment,1,accelerometry,3
+583,industry 4.0,1,measurement and modeling,3
+584,cyber physical systems,1,mobile video,3
+585,lean automation,1,viewing source,3
+586,lean production,1,video quality,3
+587,motion sensor,1,mode of motion,3
+588,pressure sensor,1,walking,3
+589,activity detection,1,watch platform,3
+590,drinking supplement,1,self-organizing service,3
+591,accessory,1,photonic displays,3
+592,modular,1,smart fashion,3
+593,real time,1,embedded electronics,3
+594,gsm,1,remote control,3
+595,low-power,1,wellbeing,3
+596,interruption overload,1,smart health systems,3
+597,interruptibility,1,smart video surveillance,3
+598,m2m communications,1,intelligence,3
+599,m2m charging factors,1,unexpected motions,3
+600,m2m charging models,1,wearable smart textiles,3
+601,egocentric video,1,piezoresistive sensors,3
+602,samsung gear 2 neo smart watch,1,training,3
+603,lg g smart watch,1,multi-modal,3
+604,eye tracking,1,nonvisual,3
+605,small devices,1,autoconfiguration,3
+606,small displays,1,home device,3
+607,pursuits,1,internet service,3
+608,user study,1,tv personalization,3
+609,disability,1,sequential pattern mining,3
+610,cognitive impairment,1,pressure ulcer,3
+611,cellular antenna,1,deep tissue injury,3
+612,body loss,1,smart textile,3
+613,smartwatches,1,home appliance controlling,3
+614,ambient assisted living (aal),1,screen-mirroing,3
+615,assistance,1,http-streaming,3
+616,iot networking environment,1,mobile surveillance service,3
+617,internet of everything,1,mobile client,3
+618,hybrid transmission,1,extensible markup language (xml),3
+619,ontology,1,illumination model,3
+620,video,1,led luminary,3
+621,recommendation system,1,solid state lighting,3
+622,neural network,1,wireless sensor,3
+623,location tag,1,communication terminal,3
+624,secret sharing,1,3i,3
+625,data synchronization,1,ulearning,3
+626,wireless,1,intelligent campus,3
+627,product assurance framework,1,context-aware mobile application,3
+628,product assurance technologies,1,media player,3
+629,electronic,1,ffmpeg,3
+630,mobile health monitoring,1,sdl,3
+631,elderly health care system,1,tactical environment,3
+632,perceived exertion,1,biometrics,3
+633,borg-rpe-scale,1,identification,3
+634,android wear,1,trusted computing,3
+635,input,1,software security testing,3
+636,wlan,1,fuzz framework,3
+637,ifa,1,fault,3
+638,mimo antennas,1,application initiation,3
+639,adaptive ui,1,stress,3
+640,personalization,1,health smart home,3
+641,gesture behavior pattern,1,elderly people watching,3
+642,small screen,1,telemedicine,3
+643,electronic health,1,multi-sensors,3
+644,wireless communication,1,coil array,2
+645,smart alert,1,magnetic field,2
+646,take medicine,1,device pairing,2
+647,smart items,1,handshake detection,2
+648,health care,1,key extraction,2
+649,bpmn,1,tap-based authentication,2
+650,sensors,1,rhythm-based authentication,2
+651,cloud security,1,diabetes,2
+652,smart helmet,1,glucose sensor,2
+653,power scene,1,smart watches and bracelets,2
+654,safety monitoring,1,electromyography(emg),2
+655,nfc,1,gesture recognition,2
+656,implant,1,human computer interaction,2
+657,tag,1,instant video,2
+658,mixed-signal,1,efficiency,2
+659,smart metering,1,received signal strength,2
+660,game theory,1,wifi signal,2
+661,hands-free learning,1,digital forensic investigation,2
+662,mobile learning,1,smart ce forensics,2
+663,intrusion detection,1,elastic fiber,2
+664,google,1,supercapacitors,2
+665,touch screen,1,wearable energy storage,2
+666,proprioception,1,computer supported collaborative work,2
+667,embedded linux,1,groupwork,2
+668,e-paper,1,secondary displays,2
+669,pedometer,1,smart lighting control,2
+670,classroom response system,1,oblivious mobile sensors,2
+671,user attention management,1,internet-of-things,2
+672,wristwatch,1,robot interaction,2
+673,watchmaking,1,lighter-than-air (lta),2
+674,ethical gold,1,database,2
+675,brand heritage,1,video chat,2
+676,complexity,1,virtual space sharing,2
+677,integrated acceptance model,1,smart sport equipment feedback system,2
+678,form design,1,watersports,2
+679,handwriting recognition,1,ambient intelligence,2
+680,inertial sensor,1,smart workplace,2
+681,wearable technologies,1,smart technologies,2
+682,medical applications,1,all-solid-state battery,2
+683,threats and solutions,1,flexible battery,2
+684,medication adherence,1,piezo-electrolyte,2
+685,self-management,1,ultraviolet (uv) measurement,2
+686,television audience measurement,1,portable navigation,2
+687,audio matching,1,heading misalignment angle estimation,2
+688,spectral coherence,1,seamless screen switching,2
+689,panorama,1,n-screen services,2
+690,sns,1,context awareness,2
+691,live,1,adolescents,2
+692,ugc,1,physical and psychosocial outcomes,2
+693,augmented reality,1,organic optical data storage,2
+694,hybrid contents,1,multi-wavelength led light,2
+695,zone-aware service system,1,excimer laser,2
+696,smart home service,1,bioelectrical signals,2
+697,context-aware service,1,discrete wavelet transform,2
+698,tremor,1,smart merter,2
+699,essential tremor,1,monitoring system,2
+700,accelerometry,1,aged person,2
+701,605 myopia,1,emotion-recognition,2
+702,676 refraction,1,mobile health (mhealth),2
+703,677 refractive error development,1,wireless health systems,2
+704,measurement and modeling,1,ecological momentary,2
+705,mobile video,1,gesture input,2
+706,viewing source,1,microgesture,2
+707,video quality,1,human-computer interaction,2
+708,mode of motion,1,trajectory,2
+709,walking,1,trajectory compressing,2
+710,gesture detection,1,survey,2
+711,watch platform,1,sign language,2
+712,self-organizing service,1,dynamic time warping,2
+713,smartwatch2,1,anomaly detection,2
+714,smart extension apis,1,people activity recognition,2
+715,password protectio,1,smart-watch antennas,2
+716,cognitive smart tv,1,multiband antennas,2
+717,emotion recognition based smart tv,1,ifa antenna,2
+718,usability in,1,behavior intervention,2
+719,human dynamics,1,eating activity detection,2
+720,human behaviours,1,lifestyle,2
+721,semantic sns,1,smart glass,2
+722,sns smart tv,1,first-person view (fpv),2
+723,ssns,1,synchronized fpv video,2
+724,arousal,1,ambient-assisted living (aal),2
+725,skin conductance,1,indoor positioning,2
+726,heart rate variability,1,heart rate (hr),2
+727,smart city,1,photoplethysmography (ppg),2
+728,power quality,1,motion artifacts (ma),2
+729,photonic displays,1,respiratory rate,2
+730,smart fashion,1,adaptive iir notch filter,2
+731,embedded electronics,1,copd - management,2
+732,skin deformation,1,exercise,2
+733,wearable display,1,atrial fibrillation detection,2
+734,photo reflectivity,1,random keypad generator,2
+735,tv program recommendation,1,vibration sensor,2
+736,bayesian network,1,video streaming,2
+737,analytic hierarchy process,1,object tracking,2
+738,malware,1,mimo antenna,2
+739,grayware,1,dipole antenna,2
+740,radio frequency identification (rfid),1,smart fabric,2
+741,learning supply chain (lsc),1,posture controlled clothing,2
+742,remote control,1,bluetooth low energy beacon (ble),2
+743,wellbeing,1,ambient intelligence (ami),2
+744,smart health systems,1,pic microcontroller,2
+745,vibration,1,tmp 75 sensor,2
+746,visually impaired people,1,opt 101 transimpedance amplifier,2
+747,healthcare,1,nursing homes,2
+748,system healthcare,1,quantification theory type i,2
+749,data collecting,1,mobile medical application,2
+750,smart video surveillance,1,transfer function,2
+751,intelligence,1,desired result,2
+752,unexpected motions,1,cyber-physical environment,2
+753,second screen,1,dominate set,2
+754,robot,1,minimum duration links,2
+755,wearable smart textiles,1,analytical hierarchy process,2
+756,piezoresistive sensors,1,product recommendation,2
+757,training,1,naive bayes,2
+758,multi-modal,1,interruption overload,2
+759,nonvisual,1,interruptibility,2
+760,cloud-based,1,m2m communications,2
+761,three screen tv,1,m2m charging factors,2
+762,autoconfiguration,1,m2m charging models,2
+763,home device,1,iot networking environment,2
+764,internet service,1,internet of everything,2
+765,tv personalization,1,hybrid transmission,2
+766,sequential pattern mining,1,location tag,2
+767,pressure ulcer,1,secret sharing,2
+768,deep tissue injury,1,product assurance framework,2
+769,smart textile,1,product assurance technologies,2
+770,home appliance controlling,1,electronic,2
+771,screen-mirroing,1,mobile health monitoring,2
+772,device,1,elderly health care system,2
+773,management,1,touch screen,2
+774,smart lighting,1,proprioception,2
+775,led,1,classroom response system,2
+776,energy saving,1,user attention management,2
+777,lighting,1,integrated acceptance model,2
+778,http-streaming,1,wearable technologies,2
+779,mobile surveillance service,1,medical applications,2
+780,mobile client,1,threats and solutions,2
+781,cbcl,1,medication adherence,2
+782,development,1,self-management,2
+783,kindergarten,1,television audience measurement,2
+784,language,1,audio matching,2
+785,smart kids,1,spectral coherence,2
+786,wrist watch,1,augmented reality,2
+787,domotics,1,hybrid contents,2
+788,extensible markup language (xml),1,zone-aware service system,2
+789,cognitive deficiency,1,smart home service,2
+790,reminder,1,context-aware service,2
+791,autonomy,1,605 myopia,2
+792,ethics,1,676 refraction,2
+793,illumination model,1,677 refractive error development,2
+794,led luminary,1,gesture detection,2
+795,solid state lighting,1,cognitive smart tv,2
+796,wireless sensor,1,emotion recognition based smart tv,2
+797,object recognition,1,usability in,2
+798,information provision,1,semantic sns,2
+799,provision system,1,sns smart tv,2
+800,communication terminal,1,ssns,2
+801,3i,1,arousal,2
+802,ulearning,1,skin conductance,2
+803,intelligent campus,1,heart rate variability,2
+804,context-aware mobile application,1,skin deformation,2
+805,media player,1,wearable display,2
+806,ffmpeg,1,photo reflectivity,2
+807,sdl,1,tv program recommendation,2
+808,cinema multiplex,1,bayesian network,2
+809,rfid smart card,1,analytic hierarchy process,2
+810,rfid reader,1,vibration,2
+811,tactical environment,1,visually impaired people,2
+812,biometrics,1,cloud-based,2
+813,identification,1,three screen tv,2
+814,task-oriented computing,1,object recognition,2
+815,task recommendation,1,information provision,2
+816,smart flats for elderly people,1,provision system,2
+817,pervasive watching systems,1,cinema multiplex,2
+818,actimetry,1,rfid smart card,2
+819,interactive tv,1,rfid reader,2
+820,iptv,1,task-oriented computing,2
+821,program recommendation,1,task recommendation,2
+822,probing attack,1,smart flats for elderly people,2
+823,aes,1,pervasive watching systems,2
+824,smart card,1,actimetry,2
+825,trusted computing,1,probing attack,2
+826,software security testing,1,aes,2
+827,fuzz framework,1,smart card,2
+828,fault,1,ethernet,2
+829,application initiation,1,fieldbus,2
+830,stress,1,datalogger,2
+831,health smart home,1,qfd,1
+832,elderly people watching,1,hoq diagram,1
+833,telemedicine,1,chronic obstructive pulmonary disease,1
+834,multi-sensors,1,long-acting beta 2-agonist,1
+835,watermarking,1,h.5.2 [information interfaces]: information interfaces,1
+836,mpeg-4,1,and,1
+837,ipmp,1,materials,1
+838,video fruition,1,asymmetric supercapacitors,1
+839,smart card certification,1,ip multimedia system,1
+840,ethernet,1,inter-destination multimedia synchronization,1
+841,fieldbus,1,other clinical informatics applications,1
+842,datalogger,1,interfaces and usability,1
+843,multicast delivery,1,transmisison power control (tpc) mechanisms,1
+844,pay-per-view,1,smart wearable systems,1
+845,pay-as-you-watch,1,radio frequency identification (rfid),1
+846,micropayments,1,learning supply chain (lsc),1

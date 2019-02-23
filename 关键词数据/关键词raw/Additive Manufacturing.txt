@@ -1,0 +1,1196 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE additive manufacturing; bistable structures; residual stress
+ID COMPOSITE; DESIGN; SHAPES
+ER
+
+PT J
+DE Tri-dexel model; Additive-subtractive manufacturing; Machining
+   simulation; 5-axis machining
+ID VIRTUAL PROTOTYPING SYSTEM
+ER
+
+PT J
+DE flexure hinges; laser beam melting; additive manufacturing; stiffness;
+   manufacturing error; 316L
+ID LASER; DESIGN; TEXTURE
+ER
+
+PT J
+DE Additive manufacturing; Titanium-based matrix composites; Selective
+   laser melting; Laser engineered net shaping; Laser deposition; Selective
+   laser sintering
+ID COMMERCIALLY PURE TITANIUM; DIRECT LASER DEPOSITION; TI-TIB COMPOSITES;
+   LOAD-BEARING IMPLANTS; POROUS TI-10MO ALLOY; IN-SITU;
+   MECHANICAL-PROPERTIES; BIOMEDICAL APPLICATIONS; TI-6AL-4V ALLOY; WEAR
+   PROPERTIES
+ER
+
+PT J
+DE Hybrid manufacturing; Residual stresses; Additive manufacturing;
+   Subtractive manufacturing; Electrochemical corrosion
+ID 316L STAINLESS-STEEL; SUBTRACTIVE PROCESSES; TITANIUM-ALLOY; DEPOSITION;
+   TECHNOLOGIES; COMPONENTS; BEHAVIOR; MICROSTRUCTURE; ALGORITHM
+ER
+
+PT J
+ER
+
+PT J
+DE Manufacturing management; optimization; additive manufacturing; control
+   architectures; case study; sustainable manufacturing
+ID ENERGY-CONSUMPTION; LASER; IMPLEMENTATION; TECHNOLOGY; CHALLENGES;
+   PRODUCT
+ER
+
+PT J
+DE 3D printing; electrochemistry; hydrogen evolution reaction; oxygen
+   evolution reaction; water splitting
+ID EVOLUTION REACTION; ALKALINE ELECTROLYTES; IRIDIUM OXIDE; ELECTRODES;
+   CHEMISTRY; INKS
+ER
+
+PT J
+DE Additive manufacturing; 3D printing; Buildings; Aerospace; Biomaterials;
+   protective structures; Concrete; Composites; Ceramics; Metal alloys
+ID HYDROGEN STORAGE PROPERTIES; ALGORITHM-BASED PROCEDURE;
+   MECHANICAL-PROPERTIES; CARBON-FIBER; MATRIX COMPOSITES;
+   ENERGY-ABSORPTION; SANDWICH PANELS; DRUG-RELEASE; CEMENTITIOUS
+   MATERIALS; METAL-DEPOSITION
+ER
+
+PT J
+DE Hybrid additive-subtractive manufacturing; Multi-axis additive
+   manufacturing; Surface quality; Additive manufacturing; Staircase error
+ID SURFACE QUALITY; FABRICATION; DEPOSITION; LASER; TECHNOLOGIES; PARTS
+ER
+
+PT J
+DE 3D printing; additive manufacturing; business model; literature review
+ID 3D PRINTING TECHNOLOGY; SUPPLY CHAIN MANAGEMENT; GLOBAL VALUE CHAINS;
+   EMERGING TECHNOLOGIES; INDUSTRIAL-REVOLUTION; RESEARCH AGENDA;
+   CO-CREATION; INNOVATION; IMPACT; OPTIMIZATION
+ER
+
+PT J
+DE innovation; additive manufacturing; 3D printing; small firms; crowd
+   funding; entrepreneurial finance
+ID TECHNOLOGY; BUSINESS; ENTREPRENEURSHIP; DIRECTIONS; PRODUCT; POLICY
+ER
+
+PT J
+DE Additive manufacturing; Fused filament fabrication; Fused deposition
+   modeling; Extrusion deposition; Polymer composite materials
+ID CARBON-FIBER; PROCESSING CONDITIONS; PLA COMPOSITES; DEPOSITION;
+   ORIENTATION; BEHAVIOR; MODEL; PART; FLOW
+ER
+
+PT J
+ID TOTAL KNEE ARTHROPLASTY; PEDICLE SCREW PLACEMENT; TOTAL
+   HIP-ARTHROPLASTY; MECHANICAL-PROPERTIES; STEREOLITHOGRAPHY;
+   RECONSTRUCTION; SCAFFOLDS; TEMPLATE; IMPLANTS; SURGERY
+ER
+
+PT J
+DE Additive manufacturing/3D printing; Bioceramics; Metallic biomaterials;
+   Biopolymers; Drug delivery; Tissue engineering
+ID SOLID FREEFORM FABRICATION; TRICALCIUM PHOSPHATE SCAFFOLDS; TISSUE
+   ENGINEERING SCAFFOLDS; IN-VIVO OSTEOGENESIS; BIOACTIVE GLASS SCAFFOLDS;
+   MICRO-STEREOLITHOGRAPHY TECHNOLOGY; CALCIUM POLYPHOSPHATE STRUCTURES;
+   3-DIMENSIONAL FIBER-DEPOSITION; BONE SUBSTITUTE APPLICATIONS;
+   COMMERCIALLY PURE TITANIUM
+ER
+
+PT J
+DE 3D printing; actuators; liquid crystal elastomers; shape morphing
+ID PHOTOMOBILE POLYMER MATERIALS; SHEAR-FLOW; SOFT; LOCOMOTION; STRAIN;
+   MUSCLE
+ER
+
+PT J
+DE Additive manufacturing; 3D printing; Mechanical properties and
+   standards; Polymer; Polymer nanocomposites; Post-processing
+ID 3D PRINTED POLYMERS; LASER-SINTERED NYLON-12; STEREOLITHOGRAPHY RESIN;
+   PART STRENGTH; COMPRESSIVE STRENGTH; PLASTIC COMPONENTS; MANUFACTURED
+   PARTS; TENSILE-STRENGTH; FABRICATION; SCAFFOLDS
+ER
+
+PT J
+DE Additive manufacturing; 3D printing; Powder bed fusion; Directed energy
+   deposition; Laser deposition; Printability
+ID POWDER-BED FUSION; NICKEL-BASED SUPERALLOY; 304L STAINLESS-STEEL; LASER
+   MELTING MICROSTRUCTURE; ALLOYING ELEMENT VAPORIZATION; FUNCTIONALLY
+   GRADED MATERIAL; X-RAY-DIFFRACTION; H13 TOOL STEEL; SUBSTRATE
+   CRYSTALLOGRAPHIC ORIENTATIONS; FREEFORM FABRICATION PROCESSES
+ER
+
+PT J
+DE Cold spray; Adhesion; Additive manufacturing; Impact
+ID COLD SPRAY COATINGS; LIQUID-DROP IMPACT; DEPOSITION; MECHANISM;
+   PENETRATION; PARTICLES; BEHAVIOR; CARBON
+ER
+
+PT J
+DE finite element methods; topology design; structures; additive
+   manufacturing
+ID LINKAGE MECHANISMS; BLOCK MODEL; GENERATION; DESIGN
+ER
+
+PT J
+DE Additive manufacturing; Metals; Anisotropy; Heterogeneity;
+   Microstructure; Properties
+ID BEAM-MELTED TI-6AL-4V; CR-MO ALLOY; FUNCTIONALLY GRADED MATERIALS; LASER
+   POWDER DEPOSITION; FATIGUE-CRACK GROWTH; INCONEL 718; CRYSTALLOGRAPHIC
+   TEXTURE; FRACTURE-TOUGHNESS; TENSILE PROPERTIES; GRAIN-STRUCTURE
+ER
+
+PT J
+DE Additive manufacturing; Selective laser melting; Scan strategy; Molten
+   pool boundary; Tensile behavior
+ID 316L STAINLESS-STEEL; MECHANICAL-PROPERTIES; ALSI10MG ALLOY;
+   HEAT-TREATMENT; EVOLUTION; BEHAVIOR; COMPOSITES; PARAMETERS; TEXTURE;
+   POWDER
+ER
+
+PT J
+DE Carbon fibers; Polymer-matrix composites (PMCs); Mechanical testing;
+   Microstructural analysis; 3-D printing; Additive manufacturing
+ID COMPOSITE-MATERIALS; PLASTIC PARTS; 3D PRINTER; POLYMER; PERFORMANCE;
+   BEHAVIOR
+ER
+
+PT S
+DE Additive Layer Manufacturing; Reliability; Availability; Manufacturing;
+   Technologies
+ER
+
+PT J
+DE 3D printing; additive manufacturing; metal
+ER
+
+PT J
+DE Additive manufacturing; MicroCT; X-ray; Tomography; Non-destructive
+   testing; Powder; Particle; Characterization
+ID TOMOGRAPHY
+ER
+
+PT J
+DE Additive manufacturing; laser additive manufacturing; selective laser
+   melting; selective laser sintering; Materials characterization
+ID DEPOSITED TITANIUM-ALLOY; FLOW-RATE; PROPERTY; POWER
+ER
+
+PT J
+DE Flexibility; Additive manufacturing; Advanced manufacturing technology;
+   Manufacturing flexibility; Management of technology
+ID OF-THE-ART; OPERATIONS MANAGEMENT; IN-SITU; MACHINE FLEXIBILITY;
+   PERFORMANCE; CHAIN; BEHAVIOR; PARTS; MICROSTRUCTURE; DEFINITION
+ER
+
+PT S
+DE Additive Manufacturing (AM); manufacturing SMEs; technological
+   innovation; strategic direction
+ID SUPPLY CHAINS; INNOVATION; IMPACT
+ER
+
+PT B
+DE Electric Drive; Additive Manufacturing; SLM; Laser Beam Melting
+ER
+
+PT J
+DE Corrosion; additive manufacturing; 3D printing; microstructure
+ID DUPLEX STAINLESS-STEEL; LOCALIZED CORROSION; PITTING CORROSION;
+   HEAT-TREATMENT; MICROSTRUCTURE; STRAIN; SUSCEPTIBILITY; METALS; ALLOYS
+ER
+
+PT B
+ER
+
+PT J
+DE AlSi10Mg; Computed tomography; Additive manufacturing; Defects; Flaw
+   tolerance; Fatigue life assessment
+ID HIGH-CYCLE FATIGUE; CRACK PROPAGATION; COMPUTED-TOMOGRAPHY; MELTED
+   PARTS; BEHAVIOR; GROWTH; THRESHOLD; TI-6AL-4V; NOTCHES; POWDER
+ER
+
+PT J
+DE additive manufacturing; micro-/nano-scale 3D printing; bioprinting; 4D
+   printing; conductive materials; biomaterials; smart materials
+ID ELECTROHYDRODYNAMIC INKJET; FLEXIBLE ELECTRONICS; 3D; SCAFFOLDS; INKS;
+   FABRICATION; HYDROGELS; DEVICES; MICROSTRUCTURES; ARCHITECTURES
+ER
+
+PT J
+ID CERAMIC PARTS; POLYMERS; PERSPECTIVE; METROLOGY; DESIGN
+ER
+
+PT J
+DE Co-Cr; Additive manufacturing; Fatigue behavior; Porous biomaterial
+ID CELL POROUS BIOMATERIALS; CORTICAL BONE DEFECTS; MECHANICAL-PROPERTIES;
+   BIOLOGICAL-PROPERTIES; LIFE PREDICTION; UNIT CELLS; SCAFFOLD DESIGN;
+   TITANIUM; BEHAVIOR; IMPLANTS
+ER
+
+PT J
+DE Metal additive manufacturing; Selective laser melting; Grain growth;
+   Solidification; Numerical simulation; Cellular automata; Evolution of
+   grain structure
+ID GRAIN-STRUCTURE; SOLIDIFICATION MICROSTRUCTURES; MECHANICAL-PROPERTIES;
+   NUMERICAL-SIMULATION; CELLULAR-AUTOMATA; MELTED TI-6AL-4V; MELTING
+   PROCESS; STEEL POWDERS; LASER; GROWTH
+ER
+
+PT J
+DE Additive Manufacturing; Direct Digital Manufacturing; Manufacturing
+   systems
+ID DESIGNING CIM SYSTEMS; PARTS SUPPLY CHAIN; METHODOLOGIES; FRAMEWORK;
+   LASER; FLEXIBILITY; FABRICATION
+ER
+
+PT J
+ER
+
+PT J
+DE additive manufacturing; batteries; fuel cells; solar cells; thermal
+   energy
+ID MICROBIAL FUEL-CELL; 3D PRINTING TECHNOLOGY; REDOX FLOW BATTERIES;
+   BIPOLAR PLATES; MICROFLUIDIC DEVICES; HEAT-TRANSFER; IN-SITU;
+   ENVIRONMENTAL APPLICATIONS; ELECTRICAL-CONDUCTIVITY; 2-PHOTON
+   POLYMERIZATION
+ER
+
+PT J
+ID MECHANICAL-PROPERTIES; GRAIN-REFINEMENT; SOLIDIFICATION; MICROSTRUCTURE;
+   TRANSITION; AIRCRAFT; COLUMNAR; GROWTH; STATE
+ER
+
+PT J
+DE 3-D printing; Additive manufacturing; Rapid prototyping; Global supply
+   chain; Mass customization
+ER
+
+PT J
+ID TISSUE-ENGINEERING APPLICATIONS; DYNAMIC-MECHANICAL PROPERTIES;
+   DRUG-DELIVERY DEVICES; THIN-FILM TRANSISTORS; ELECTROLYTE-GATED
+   TRANSISTORS; LASER SINTERING PROCESS; HYDROXYAPATITE NANOCOMPOSITE
+   MICROSPHERES; RAPID PROTOTYPING TECHNOLOGIES; FRAGMENTATION CHAIN
+   TRANSFER; LIQUID INTERFACE PRODUCTION
+ER
+
+PT J
+ID CRYSTAL PLASTICITY; MICROSTRUCTURAL EVOLUTION; POLYCRYSTALLINE
+   MATERIALS; CRYSTALLOGRAPHIC TEXTURE; STAINLESS-STEEL; FCC METALS;
+   SOLIDIFICATION; SIMULATION; POWDER; DEPOSITION
+ER
+
+PT J
+DE Build orientation optimization; Multi-part production; AM Feature;
+   Many-objective optimization; Additive manufacturing
+ID RAPID PROTOTYPING PROCESSES; MULTIOBJECTIVE OPTIMIZATION;
+   DECISION-MAKING; DIRECTION; SYSTEM
+ER
+
+PT J
+DE Three dimensional printing; Controlled-release; Fused deposition
+   modeling; Paracetamol; Acetaminophen; Additive manufacturing;
+   Personalized medicines; Additive manufacture; Rapid prototyping
+ID HOT-MELT EXTRUSION; DRUG-RELEASE; DOSAGE FORMS; 3-DIMENSIONAL
+   PRINTING(TM); FABRICATION; DELIVERY; PHYSIOLOGY; BEHAVIOR; DEVICES
+ER
+
+PT J
+DE Laser manufacturing; Additive manufacturing; Selective laser sintering;
+   Selective laser melting; Direct metal laser sintering
+ID DIRECT METAL-DEPOSITION; SOLID-STATE LASERS; ND-YAG LASER; OF-THE-ART;
+   HIGH-TEMPERATURE; INFRARED-LASER; FUTURE PERSPECTIVES; RESEARCH
+   DATABASES; POWDER MATERIALS; EXCIMER-LASER
+ER
+
+PT J
+DE Additive manufacturing; Anisotropy; Topology optimization
+ID LEVEL-SET METHOD; MECHANICAL-PROPERTIES; HOMOGENIZATION METHOD;
+   TI-6AL-4V; MICROSTRUCTURE; BEHAVIOR; DESIGN; COMPOSITES; STRENGTH; SHAPE
+ER
+
+PT J
+DE additive manufacturing; selective laser melting; electron beam melting
+ID COMMERCIALLY PURE TITANIUM; MECHANICAL-PROPERTIES; TENSILE PROPERTIES;
+   SHAPE DISTORTIONS; MICROSTRUCTURE EVOLUTION; RESIDUAL-STRESS; WEAR
+   PROPERTIES; HEAT-TREATMENT; ALLOY; PARTS
+ER
+
+PT J
+ID TISSUE-ENGINEERED CARTILAGE; EXTRACELLULAR-MATRIX; PRIMORDIAL FOLLICLES;
+   PREANTRAL FOLLICLES; MAMMALIAN OVARY; HYDROGELS; GELATIN; MOUSE;
+   FERTILITY; FABRICATION
+ER
+
+PT J
+DE Intermediate objects; Creative design; Creativity; Additive
+   manufacturing; Design for additive manufacturing
+ID TECHNOLOGICAL INNOVATION; FREEFORM FABRICATION; DESIGN; COLLABORATION;
+   ENVIRONMENT; INTEGRATION
+ER
+
+PT J
+DE powder bed fusion; additive manufacturing; selective laser melting;
+   electron beam melting; in situ sensing; in-process monitoring; process
+   signature
+ID LASER MELTING PROCESS; MECHANICAL-PROPERTIES; STAINLESS-STEEL;
+   RESIDUAL-STRESSES; QUALITY-CONTROL; HIGH-SPEED; BEHAVIOR; TI-6AL-4V;
+   ALLOY; PARTS
+ER
+
+PT J
+DE Additive manufacturing; Manufacturing technology; Development status;
+   Process; Development trend
+ID PART STRENGTH; STEREOLITHOGRAPHY; CHALLENGES; ECONOMICS; SCAFFOLDS;
+   MODEL
+ER
+
+PT J
+DE 3D printing; additive manufacturing (AM); electron beam melting (EBM);
+   fused deposition modeling (FDM); material jetting; power-bed fusion;
+   selective laser melting (SLM); stereolitography (SL); vat
+   photo-polymerization
+ID 316L STAINLESS-STEEL; BEAM MELTING EBM; MECHANICAL-PROPERTIES;
+   DIMENSIONAL ACCURACY; INCONEL 718; STEREOLITHOGRAPHIC MODELS;
+   COMPUTED-TOMOGRAPHY; SURFACE-ROUGHNESS; LASER; DEPOSITION
+ER
+
+PT J
+DE Additive manufacturing; 3D printing; Delphi; Forecasting; Scenario
+   development
+ID EMERGING TECHNOLOGIES; SCENARIO DEVELOPMENT; REAL-TIME; FORESIGHT;
+   MANAGEMENT; INFORMATION; PERSPECTIVE; REVOLUTION; STRATEGY; POLICY
+ER
+
+PT J
+ID REDUCED GRAPHENE OXIDE; SECONDARY BATTERY ANODES; LITHIUM-ION BATTERIES;
+   MICRO-SUPERCAPACITORS; ELECTROCHEMICAL CAPACITORS; POLYMER
+   NANOCOMPOSITES; HIGH-TEMPERATURE; ELECTRODES; FABRICATION; STORAGE
+ER
+
+PT J
+ID MODEL-PREDICTIVE CONTROL; ADAPTIVE-CONTROL; VEHICLE; STABILIZATION;
+   MANIPULATORS; OPTIMIZATION; CONSTRAINTS
+ER
+
+PT S
+ID ALLOYS
+ER
+
+PT S
+ER
+
+PT J
+DE Additive manufacturing; laser and electron-beam melting processes;
+   Direct Laser Deposition; Electron beam welding; laser melting process;
+   residual stress reduction
+ER
+
+PT J
+DE additive manufacturing; fused deposition modelling; laser metal
+   deposition; selective laser melting; selective laser sintering
+ID DEPOSITED TI6AL4V/TIC COMPOSITE; LASER POWER
+ER
+
+PT S
+DE Additive Manufacturing; Plastic Composites; Fiber-reinforcement; Fiber
+   placement
+ID CARBON-FIBER; COMPOSITES; STEREOLITHOGRAPHY
+ER
+
+PT J
+DE Additive manufacturing; Laser; Production
+ID DIRECT METAL-DEPOSITION; 316L STAINLESS-STEEL; OF-THE-ART;
+   MECHANICAL-PROPERTIES; HEAT-TREATMENT; MELTING MICROSTRUCTURE; PROCESS
+   PARAMETERS; SURFACE-ROUGHNESS; SINTERING PROCESS; SUPPORT STRUCTURES
+ER
+
+PT B
+DE additive manufacturing technologies; unmanned aerial vehicle; time and
+   value expenditures
+ER
+
+PT S
+DE Satellite communications; antenna feeds; 3D manufacturing; additive
+   manufacturing; waveguide components; waveguide filters
+ER
+
+PT J
+DE Wire and arc additive manufacturing; shape deposition control; thermal
+   boundary condition; interpass temperature; heat input; equivalent heat
+   dissipation; layer appearance; layer size
+ER
+
+PT S
+DE Life Cycle Assessment; Life Cycle Analysis; 3D printing; Additive
+   Manufacturing
+ER
+
+PT J
+DE RAPID prototyping; 3D printing; Additive manufacturing; Visualization
+ID FREE-FORM FABRICATION; COCITATION ANALYSIS; CERAMIC SCAFFOLDS;
+   TECHNOLOGIES; SYSTEMS; LASER; STEREOLITHOGRAPHY; MEDICINE; TISSUES;
+   DESIGN
+ER
+
+PT J
+DE Additive manufacturing; Biomedical; Ceramic; Digital hybrid AM; Metal;
+   Polymer
+ID NET SHAPING LENS(TM); FUSED DEPOSITION; BIOMEDICAL APPLICATIONS;
+   PROCESSING METHODS; PORE-SIZE; FABRICATION; SCAFFOLDS; TITANIUM; POWDER;
+   IMPLANTS
+ER
+
+PT J
+DE Additive manufacturing; 3D printing; Bioprinting; Tissue engineering and
+   regenerative medicine; Poly(lactic acids); Computer-aided design;
+   Computer-aided engineering; Computer-aided manufacturing
+ID TISSUE ENGINEERING SCAFFOLDS; LOW-TEMPERATURE DEPOSITION;
+   COMPUTER-AIDED-DESIGN; POLY-L-LACTIDE; POLY(LACTIC ACID); BONE
+   REGENERATION; POLYCAPROLACTONE SCAFFOLDS; BREAST RECONSTRUCTION;
+   MECHANICAL-PROPERTIES; THERMAL-DEGRADATION
+ER
+
+PT J
+DE Additive Manufacturing; microfluidic device; three dimensional printing
+ID CHIP
+ER
+
+PT J
+ID HIERARCHICAL STIFFENED SHELLS; INTEGRATED LAYOUT DESIGN; SHAPE-MEMORY
+   ALLOYS; LEVEL-SET METHODS; ESO TYPE METHODS; HOMOGENIZATION METHOD;
+   MULTICOMPONENT SYSTEMS; COMPLIANT MECHANISMS; VARIATIONAL-PROBLEMS;
+   SENSITIVITY-ANALYSIS
+ER
+
+PT J
+DE Additive manufacturing; 3D printing; Industrial sustainability; Resource
+   efficiency; Product life cycle; Value chain reconfiguration
+ID LIFE-CYCLE ASSESSMENT; ENERGY-CONSUMPTION; ENVIRONMENTAL IMPACTS;
+   FRAMEWORK; TECHNOLOGIES; ECONOMICS; MODEL
+ER
+
+PT J
+DE Additive manufacturing; Life cycle assessment; Lightweight aircraft;
+   Energy saving; Greenhouse gas emissions
+ID ENVIRONMENTAL-IMPACT; EFFICIENCY; CONSUMPTION
+ER
+
+PT J
+DE additive technologies; nondestructive testing; fault
+ID MECHANICAL-PROPERTIES; STEEL PARTS; SEGMENTATION; COMPONENTS
+ER
+
+PT J
+DE Product development; Design method; Additive manufacturing
+ID SURFACE-ROUGHNESS
+ER
+
+PT J
+DE Metal additive manufacturing; Surface texture; Metrology
+ID MECHANICAL-PROPERTIES; COMPUTED-TOMOGRAPHY; TOP SURFACE; LASER;
+   ROUGHNESS; PARTS; TI-6AL-4V; DEPOSITION; POWDER; STEEL
+ER
+
+PT J
+ID STRUCTURAL ELECTRONICS; FABRICATION; STEREOLITHOGRAPHY; TECHNOLOGIES;
+   BATTERIES; DEVICES; MULTIMATERIAL; LASER
+ER
+
+PT J
+DE Additive manufacturing; Metals; Microstructure; Properties
+ID 316L STAINLESS-STEEL; LASER MELTING SLM; COMMERCIALLY PURE TITANIUM; H13
+   TOOL STEEL; MECHANICAL-PROPERTIES; HEAT-TREATMENT; MICROSTRUCTURAL
+   EVOLUTION; PROCESS OPTIMIZATION; COMPUTED-TOMOGRAPHY; TENSILE PROPERTIES
+ER
+
+PT J
+DE additive manufacturing; materials; optical design and fabrication;
+   polymers
+ER
+
+PT J
+ER
+
+PT J
+DE Additive manufacturing; Manufacturing; Supply chain
+ID LASER; PARTS; MODEL
+ER
+
+PT J
+ER
+
+PT J
+DE 3D printing; Additive manufacturing; Food design; Material properties;
+   Printability; 3D-food construct
+ID SUGAR-RICH FOODS; GLASS-TRANSITION; PARTICLES; RELEVANCE; BEHAVIOR;
+   GELATION; POLYMER; LASER
+ER
+
+PT J
+DE UAM; Dissimilar metal weld; EBSD; Texture
+ID PROCESS PARAMETERS; AL-ALLOY; CONSOLIDATION; RECRYSTALLIZATION
+ER
+
+PT J
+DE Process monitoring; Additive manufacturing; Quality assurance; Defect
+   detection
+ID LASER CONSOLIDATION PROCESS; SPEED VIDEO CAMERA; POWDER DEPOSITION;
+   STAINLESS-STEEL; MELTING PROCESS; QUALITY-CONTROL; OPTICAL-SYSTEM;
+   TECHNOLOGIES; BEHAVIOR; DESIGN
+ER
+
+PT J
+DE Additive manufacturing; Electron beam melting; Titanium; Porosity;
+   Properties
+ER
+
+PT J
+DE Additive; Rapid; Manufacturing; Lasers; Review
+ID PARTS; TECHNOLOGIES; INJECTION; FRAMEWORK; RESOURCE; INDUSTRY; MACHINE;
+   SYSTEMS; DESIGN; IMPACT
+ER
+
+PT J
+DE additive manufacturing; implant; prosthetics; hybrid layered
+   manufacturing; surgery; innovative product; TRIZ
+ID PARTS; ARCHITECTURE; COMPONENTS; IMPLANTS
+ER
+
+PT J
+DE Additive manufacturing; Topology optimization; Bone scaffold; Porous
+   metals; Orthopaedic implants; Biomaterials
+ID EVOLUTIONARY STRUCTURAL OPTIMIZATION; SHAPE-MEMORY ALLOYS; LASER MELTING
+   PROCESS; LEVEL SET METHOD; MECHANICAL-PROPERTIES; IN-VIVO; TITANIUM
+   IMPLANTS; SURFACE MODIFICATION; MAGNESIUM SCAFFOLDS; POWDER-METALLURGY
+ER
+
+PT J
+DE Skeletal stem cell; Osteogenesis; Angiogenesis; Tissue regeneration;
+   Bone tissue engineering; Biofabrication
+ID MESENCHYMAL STEM-CELLS; ENDOTHELIAL PROGENITOR CELLS; GROWTH-FACTOR
+   DELIVERY; MARROW STROMAL CELLS; ENGINEERING CURRENT STRATEGIES; IN-VIVO;
+   MORPHOGENETIC PROTEIN-2; PORE-SIZE; OSTEOGENIC DIFFERENTIATION; HYDROGEL
+   SCAFFOLDS
+ER
+
+PT J
+DE Additive manufacturing; Process control; Process mechanisms; Modelling
+   methods
+ID FINITE-ELEMENT-ANALYSIS; LASER SINTERING PROCESS; INITIAL LINEAR
+   SHRINKAGE; LATTICE BOLTZMANN METHOD; METAL-POWDER LAYER; FUSED
+   DEPOSITION; STEREOLITHOGRAPHY PROCESS; NUMERICAL-SIMULATION; SURFACE
+   FINISH; BUILD-TIME
+ER
+
+PT J
+ER
+
+PT J
+DE additive manufacturing; 3D printing; rapid prototyping; selective laser
+   melting; electron beam melting
+ID FUNCTIONALLY GRADED MATERIALS; 316L STAINLESS-STEEL; RAPID PROTOTYPING
+   TECHNIQUES; C18400 COPPER ALLOY; MECHANICAL-PROPERTIES; TITANIUM
+   IMPLANTS; MELTING PROCESS; INTERFACIAL CHARACTERIZATION; SURFACE
+   MODIFICATIONS; TRABECULAR TITANIUM
+ER
+
+PT J
+DE Electrospinning; Carbon nanofiber; Battery; Energy storage
+ID LITHIUM-ION BATTERIES; HIGH-PERFORMANCE SUPERCAPACITORS; ENHANCED
+   ELECTRICAL CAPACITANCE; RECHARGEABLE LI-O-2 BATTERIES; DOUBLE-LAYER
+   CAPACITOR; ULTRALONG CYCLE LIFE; HIGH-RATE CAPABILITY; BINDER-FREE
+   ANODES; COMPOSITE NANOFIBERS; SULFUR BATTERIES
+ER
+
+PT J
+ID THERMAL-CONDUCTIVITY; PACKED-BEDS; SURFACE; POROSITY; ALLOYS; WATER;
+   GAS; MICROSTRUCTURE; SEGREGATION; PENETRATION
+ER
+
+PT J
+ID RECHARGEABLE LI BATTERIES; ION BATTERIES; IRREVERSIBLE CAPACITY;
+   ELECTROCHEMICAL LITHIATION; ELECTRODE MATERIALS; METAL FLUORIDES; ANODE
+   MATERIAL; DECOMPOSITION; CHALLENGES; OXIDES
+ER
+
+PT J
+DE Design; Manufacturing; Additive Manufacturing
+ID CONFORMAL COOLING CHANNELS; STRUCTURAL TOPOLOGY OPTIMIZATION;
+   POSTDEPOSITION HEAT-TREATMENT; OPTIMAL PART ORIENTATION; LAYER
+   COLD-WORKING; FREEFORM FABRICATION; POROUS STRUCTURES; DEPLOYABLE
+   STRUCTURES; LATTICE STRUCTURES; GENETIC ALGORITHM
+ER
+
+PT J
+DE Manufacturing process; Concurrent engineering; Additive manufacturing
+ID ENGINEERING DESIGN; METHODOLOGY; DISTORTION; MICRO; STEP
+ER
+
+PT B
+DE Additive Manufacturing; Social Manufacturing; Consumer Products; Risk
+   Analysis
+ER
+
+PT S
+DE Satellite communication; antenna feeds; waveguide components; 3D
+   manufacturing; additive layer manufacturing; orthomode transducer
+ER
+
+PT J
+DE Additive Manufacturing; 3D metal print; powder bed fusion; economics;
+   complexity for free
+ER
+
+PT S
+DE Additive manufacturing; 3D printing; intellectual property; legal
+   aspects
+ER
+
+PT B
+DE 3D printing; Additive Manufacturing
+ER
+
+PT B
+DE additive manufacturing; rescource virtualization; self-managment; cloud
+   manufacturing
+ER
+
+PT S
+DE Additive manufacturing; Fused Deposition Modeling; geometrical accuracy;
+   methodical procedure; geometrical deviations; dimensional tolerances
+ID ACCURACY; DESIGN
+ER
+
+PT S
+DE Energy consumption; additive manufacturing; additive-subtractive
+   manufacturing
+ID SUSTAINABILITY; FABRICATION; FOOTPRINT
+ER
+
+PT S
+DE Additive manufacturing; Metrics; Measure; Sustainable manufacturing
+ER
+
+PT S
+DE Additive layer manufacturing; Variations; Process control; Correlations
+ID LASER; PARTS; DENSITY; POWDER
+ER
+
+PT B
+DE Distributed Additive Manufacturing; Process Format; JT; ISO 14306; Web
+   Service
+ER
+
+PT S
+DE metal additive manufacturing; mechanical properties; fracture; fatigue;
+   toughness; tensile
+ID LASER-DEPOSITED TI-6AL-4V; TITANIUM ALUMINIDE ALLOY; BEAM MELTING EBM;
+   SOLUTION HEAT-TREATMENT; CRACK GROWTH-BEHAVIOR; 316L STAINLESS-STEEL;
+   HIGH-ENTROPY ALLOYS; MELTED TI-6AL-4V; PROCESS PARAMETERS;
+   MICROSTRUCTURAL EVOLUTION
+ER
+
+PT S
+DE Design for additive manufacturing (DFAM); Manufacturing Execution System
+   (MES); Additive manufacturing; Information systems; Monitoring systems
+ID MACHINE
+ER
+
+PT J
+ID CARBONATE-BASED ELECTROLYTES; REDOX SHUTTLE ADDITIVES; ATOMIC-FORCE
+   MICROSCOPY; THIN-FILM ELECTRODE; REVERSIBLE OVERCHARGE PROTECTION;
+   SOLVENT-CONTAINING ELECTROLYTES; RAY PHOTOELECTRON-SPECTROSCOPY;
+   GRAPHITE NEGATIVE ELECTRODE; LOW-TEMPERATURE PERFORMANCE;
+   FLAME-RETARDANT ADDITIVES
+ER
+
+PT J
+DE Advanced manufacturing; Additive manufacturing review; 3D printing;
+   Metallurgy
+ID LASER MELTING SLM; 316L STAINLESS-STEEL; NET SHAPING LENS; OF-THE-ART;
+   MECHANICAL-PROPERTIES; INCONEL 718; RESIDUAL-STRESSES; MELTED TI-6AL-4V;
+   HEAT-TREATMENT; ULTRASONIC CONSOLIDATION
+ER
+
+PT J
+DE Additive manufacturing; Ground structure method; Density-based topology
+   optimization; Three-dimensional optimal structures; Structural
+   manufacturing
+ID POPULAR BENCHMARK PROBLEMS; WEIGHT TRUSS LAYOUTS; TRAPEZOIDAL DOMAINS;
+   MICHELL LAYOUTS; DESIGN; COMBINATIONS; ALGORITHM; GEOMETRY; FILTERS;
+   WRITTEN
+ER
+
+PT J
+DE 3D printing; Additive manufacturing; Dental materials; Layered
+   materials; Photopolymer; Prepolymer; Rapid prototyping; Thermoplastic
+ID ADDITIVE MANUFACTURING PROCESSES; MECHANICAL-PROPERTIES;
+   COMPUTED-TOMOGRAPHY; LASER; TECHNOLOGIES; SCAFFOLDS; MELT;
+   STEREOLITHOGRAPHY; PERSPECTIVE; FABRICATION
+ER
+
+PT J
+ID TRANSMISSION ELECTRON-MICROSCOPY; GRAPHITE PHASE-TRANSITION;
+   DOUBLE-LAYER CAPACITORS; ULTRA-DISPERSE DIAMOND; LITHIUM-ION BATTERIES;
+   NANO-ONIONS; SUPERCAPACITOR ELECTRODES; DETONATION NANODIAMOND;
+   ULTRADISPERSE-DIAMOND; ARC-DISCHARGE
+ER
+
+PT J
+DE Additive manufacturing; Rapid manufacturing; Rapid prototyping; 3D
+   printing; Digital fabrication; Production cost; Productivity; Economies
+   of scale
+ID LASER
+ER
+
+PT J
+DE 3D printing; Additive manufacturing; Business models; Digital
+   fabrication; Glocalized production; Rapid manufacturing; Rapid
+   prototyping; Supply chains
+ID GLOBAL PRODUCTION NETWORKS; MASS CUSTOMIZATION; RESEARCH DIRECTIONS;
+   PRODUCT-INNOVATION; FUTURE-RESEARCH; TECHNOLOGIES; FIRMS; PERSPECTIVE;
+   PERFORMANCE; MANAGEMENT
+ER
+
+PT J
+ID MICROSCALE TRUSS STRUCTURES; WAVE-GUIDES; AMORPHOUS CERAMICS; OXIDATION;
+   BEHAVIOR; SICO; CRISTOBALITE; FABRICATION; SYSTEM; RANGE
+ER
+
+PT J
+ID FINITE-ELEMENT-ANALYSIS; SINGLE-TRACK FORMATION; HEAT-TRANSFER;
+   FEEDBACK-CONTROL; STAINLESS-STEEL; MELTING PROCESS; SIMULATION;
+   TEMPERATURE; RADIATION; VAPORIZATION
+ER
+
+PT J
+DE Global manufacturing; additive manufacturing; e-manufacturing; Cloud
+   manufacturing paradigm; computer-integrated manufacturing
+ID DECISION-SUPPORT-SYSTEM; PRODUCT DATA; MODULAR PLATFORM; PATH
+   GENERATION; STEP STANDARD; DESIGN; MODELS; ONTOLOGY; CAD; CNC
+ER
+
+PT J
+DE Additive Technologies; Additive Manufacturing Process; Scaffolds;
+   Anatomically Shaped Lattice Scaffold; Applicability; Criterial Matrix;
+   Calculator
+ER
+
+PT J
+DE Additive manufacturing; 3D printing; Maker Movement; Topology
+   optimization; Open-source machine; Intellectual property
+ID DEPTH-NORMAL IMAGES; SOLID FREEFORM FABRICATION; LASER DIRECT
+   DEPOSITION; DISCRETE BAR AREAS; INK-JET PRINTER; TOPOLOGY OPTIMIZATION;
+   FUSED DEPOSITION; LOM PROCESS; CERAMIC STEREOLITHOGRAPHY; ULTRASONIC
+   CONSOLIDATION
+ER
+
+PT J
+ID CARBON-FIBER; FABRIC COMPOSITES; NONWOVEN FABRICS; DEPOSITION;
+   MICROSTRUCTURE; NANOCOMPOSITES; COMPONENTS; BEHAVIOR; DESIGN
+ER
+
+PT J
+DE Additive manufacturing; Wire; Metal component; Review
+ID POWER DIODE-LASER; MECHANICAL-PROPERTIES; FREEFORM FABRICATION; TITANIUM
+   ALUMINIDES; THERMAL-STRESSES; PART II; DEPOSITION; POWDER; TI-6AL-4V;
+   MICROSTRUCTURE
+ER
+
+PT J
+DE Direct Laser Deposition (DLD); Additive manufacturing (AM);
+   Microstructure; Fatigue behavior; Process control
+ER
+
+PT J
+DE Direct Laser Deposition (DLD); Additive manufacturing (AM); Heat
+   transfer; Thermal monitoring; Melt pool
+ER
+
+PT J
+ID LI-S BATTERIES; SOLID-ELECTROLYTE INTERPHASE; GEL POLYMER ELECTROLYTE;
+   IONIC LIQUID ELECTROLYTES; ELECTROSTATIC SHIELD MECHANISM; ETHER-BASED
+   ELECTROLYTES; HIGH SPECIFIC ENERGY; ELECTROCHEMICAL PERFORMANCE;
+   SECONDARY BATTERIES; COMPOSITE ELECTRODE
+ER
+
+PT J
+DE batteries; electrodes; carbonyls; organic electronic; polymeric
+   materials
+ID LITHIUM-ION BATTERIES; POSITIVE-ELECTRODE MATERIAL; ANODE-ACTIVE
+   MATERIALS; HIGH-ENERGY DENSITY; CATHODE MATERIAL; HIGH-CAPACITY;
+   ELECTROCHEMICAL PERFORMANCE; RECHARGEABLE BATTERIES;
+   NONYLBENZO-HEXAQUINONE; ULTRAFAST-CHARGE
+ER
+
+PT J
+DE 3D printing; Additive manufacturing; Market structure; Flexible
+   manufacturing; Economic modeling
+ID MASS CUSTOMIZATION; COMPETITION; DESIGN; FLEXIBILITY; TECHNOLOGY;
+   EVOLUTION; INDUSTRY; PRODUCTIVITY; DETERRENCE; REVOLUTION
+ER
+
+PT J
+ER
+
+PT J
+DE Titanium; Additive Manufacture; Selective Electron Beam Melting; Pores;
+   X-ray Computed Tomography (XCT)
+ID DIRECT METAL-DEPOSITION; MECHANICAL-PROPERTIES; TITANIUM;
+   MICROSTRUCTURE; EBM; POROSITY; TEXTURE; DENSITY; POWDERS; SIZE
+ER
+
+PT J
+ID POLYMERIZATION; ARCHITECTURES; ULTRALIGHT; SCAFFOLDS; DEVICE
+ER
+
+PT J
+DE Fused deposition modeling (FDM); Experimental design; Additive
+   manufacturing; Process parameters; Mechanical properties; Part quality
+ID TAGUCHI METHOD; DIMENSIONAL ACCURACY; PROTOTYPES; DESIGN; PARTS; ABS
+ER
+
+PT J
+DE Titanium alloy; Selective laser melting; Phase transformation;
+   Microstructure; Mechanical properties
+ID SEVERE PLASTIC-DEFORMATION; MECHANICAL-PROPERTIES;
+   PHASE-TRANSFORMATIONS; ALLOY TI-6AL-4V; TITANIUM-ALLOY; MICROSTRUCTURAL
+   EVOLUTION; BEHAVIOR; METALS; BUILDS; PARTS
+ER
+
+PT J
+DE Additive manufacture; Microstructure; 316L Stainless steel; Porosity;
+   Laser energy; Selective laser melting
+ID CARBON-STEEL; POWDER; DENSIFICATION; BEHAVIOR
+ER
+
+PT J
+ID FABRICATION
+ER
+
+PT B
+DE Additive manufacturing; Process principles; Comparative study
+ER
+
+PT S
+DE Design for additive manufacturing; desing optimization; additive
+   manufacturing; redesign
+ID DESIGN
+ER
+
+PT S
+DE Design for Additive Manufacturing; Additive Manufacturing; Design for X;
+   Design Strategy; Selection Criteria
+ER
+
+PT B
+DE Direct Slicing; Layered Manufacturing; Additive Manufacturing; STL
+ER
+
+PT S
+DE Additive manufacturing; 3D printing; threats; risks
+ID DEPOSITION; IMPACT
+ER
+
+PT S
+DE Additive manufacturing; 3D printing; Sustainability
+ER
+
+PT S
+DE Additive manufacturing; Value chain; Business model; Sustainability;
+   Glocalization; Distributed manufacturing; Co-production
+ID MANAGEMENT
+ER
+
+PT S
+DE Design for X (DfX); Collaborative design; Additive Manufacturing
+ER
+
+PT S
+DE Additive manufacturing; micro manufacturing; metrology; design of
+   experiments; requirements; decomposition
+ER
+
+PT J
+DE CAPP; Machining; Additive Manufacturing
+ER
+
+PT J
+DE Surface roughness; Distortion; Fused deposition modeling; Material
+   properties; Fused filament fabrication; Melt extrusion manufacturing
+ID FUSED DEPOSITION MATERIALS; MECHANICAL CHARACTERIZATION; TAGUCHI METHOD;
+   CERAMICS FDC; QUALITY; BEHAVIOR; ABS; DEFORMATION; PERFORMANCE;
+   PROTOTYPES
+ER
+
+PT J
+DE Selective laser melting; Ti6Al4V; Lattice structures; Microstructure;
+   Mechanical properties
+ER
+
+PT J
+DE additive manufacturing; radio-frequency passive sensors; 3D inductors
+   and capacitors; three-dimensional printing; wireless sensing
+ER
+
+PT J
+ID LASER CONSOLIDATION PROCESS; POWDER DEPOSITION PROCESS; COATED
+   MOLYBDENUM POWDER; SPEED VIDEO CAMERA; POWER DIODE-LASER; ULTRASONIC
+   CONSOLIDATION; THERMAL-BEHAVIOR; CLADDING PROCESS; NUMERICAL-SIMULATION;
+   TEMPERATURE CONTROL
+ER
+
+PT J
+DE Additive manufacturing; Metal deposition; Element activation; Heat
+   transfer
+ID SOLID FREEFORM FABRICATION; RESIDUAL-STRESS; LASER; SIMULATION;
+   TEMPERATURE; MICROSTRUCTURE; COMPONENTS; FIELDS
+ER
+
+PT J
+DE Additive manufacturing; Numerical chain; DFAM; Manufacturing path;
+   Numerical modelling; Additive Laser Manufacturing (ALM)
+ID POWDER DEPOSITION PROCESS; CLADDING PROCESS; TEMPERATURE
+ER
+
+PT J
+DE fabricated metal; modeling processes; powder metallurgy
+ID MICROSTRUCTURAL EVOLUTION; SMALL COMPANY; LASER; DEPOSITION; ALGORITHM
+ER
+
+PT J
+DE Additive manufacturing; Rapid manufacturing; Technology implementation;
+   Case study
+ID COST ESTIMATION; TECHNOLOGY; LASER; MANAGEMENT; COMPONENTS; DIFFUSION;
+   DESIGN
+ER
+
+PT S
+DE additive manufacturing; 3D printing; business model; sustainability
+ER
+
+PT S
+DE Additive Manufacturing; Environmental sustainability; Additive laser
+   manufacturing; Design for sustainable additive manufacturing
+ER
+
+PT J
+DE Manufacturing; Material Removal; Turbomachinery
+ID BEAM MELTING EBM; SURFACE INTEGRITY; WIRE-EDM; MECHANICAL-PROPERTIES;
+   MACHINING CHARACTERISTICS; ROUGHING STRATEGIES; GRADED COMPOSITION; SEAL
+   SLOTS; LASER; TITANIUM
+ER
+
+PT B
+ER
+
+PT J
+DE FDM; Fused deposition modeling; Bead spreading; Liquefier dynamics; Melt
+   extrusion manufacturing; Process modeling
+ID FUSED DEPOSITION; POLYSTYRENE MELT; FLOW BEHAVIOR; CERAMICS FDC; DIE
+   ANGLE; PROPERTY; RHEOLOGY; POLYMERS; QUALITY
+ER
+
+PT S
+DE Additive Manufacturing; 3D Printing; Modeling Technology
+ER
+
+PT S
+DE Robot; Additive manufacturing; GMAW; Electromagnetism
+ER
+
+PT B
+ID DESIGN
+ER
+
+PT J
+DE Additive manufacturing; Spare parts supply chain; Distributed
+   production; Aerospace industry
+ID OF-THE-ART; DECENTRALIZATION; PERFORMANCE; LOGISTICS; DEMAND
+ER
+
+PT J
+ID CELL-MATERIALS INTERACTIONS; HIGH-DENSITY POLYETHYLENE; DRUG-RELEASE
+   MATRICES; IN-VIVO; COMPOSITE SCAFFOLDS; CERAMIC SCAFFOLDS; PROJECTION
+   STEREOLITHOGRAPHY; MICRO-STEREOLITHOGRAPHY; BIOLOGICAL-PROPERTIES;
+   BIOCERAMIC IMPLANTS
+ER
+
+PT J
+DE Lithium ion battery; High voltage; Cathode; Electrolyte; Additive
+ID SOL-GEL METHOD; LINI0.5MN1.5O4 CATHODE MATERIALS; IMPROVED CYCLING
+   PERFORMANCE; POSITIVE-ELECTRODE MATERIALS; SULFONE-BASED ELECTROLYTES;
+   LI3V2(PO4)(3)/CARBON COMPOSITE-MATERIAL; IMPROVED ELECTROCHEMICAL
+   PERFORMANCES; RECHARGEABLE LI BATTERIES; SURFACE-FILM FORMATION;
+   X-RAY-DIFFRACTION
+ER
+
+PT J
+DE Additive manufacturing; Environmental impact; Energy consumption; Supply
+   chain; Health and wellbeing
+ID FABRICATION; DESIGN; TECHNOLOGIES; STEREOLITHOGRAPHY
+ER
+
+PT J
+DE Additive manufacturing (AM); Direct writing (DW); Microelectromechanical
+   systems (MEMS); Rapid micromanufacturing
+ID CHEMICAL-VAPOR-DEPOSITION; DYNAMIC MASK-GENERATOR; PHOTONIC
+   CRYSTAL-STRUCTURES; BEAM INSULATOR DEPOSITION; HARD-TISSUE SCAFFOLDS;
+   OPTICAL-DATA STORAGE; SMALL-SIZE OBJECTS; 2-PHOTON POLYMERIZATION;
+   FREEFORM FABRICATION; 3-DIMENSIONAL MICROFABRICATION
+ER
+
+PT J
+DE Cybernetics; tissue engineering; bioelectronics; cyborg organs;
+   electronic implants; additive manufacturing
+ID FREEFORM FABRICATION; CELL-CULTURE; IN-VIVO; TISSUE; CARTILAGE;
+   SCAFFOLDS; TRANSPLANTATION; RECONSTRUCTION; CHONDROCYTES; HYDROGELS
+ER
+
+PT J
+ER
+
+PT J
+ID ION BATTERIES; HOLLOW MICROSPHERES; CATHODE MATERIALS; HIGH-PERFORMANCE;
+   MICROSTRUCTURES; INTERCALATION
+ER
+
+PT J
+DE Sodium ion batteries; Negative electrode; Hard carbon; Electrolyte; FEC
+   additive
+ID LITHIUM INTERCALATION; INSERTION; PERFORMANCE
+ER
+
+PT S
+DE additive manufacturing technology; 3D printing; application prospect
+ER
+
+PT J
+DE Additive manufacturing; 3D printing; Nanotechnology; Nanocomposite;
+   Additives; Printing industry
+ID CARBON NANOTUBES; QUANTUM DOTS; GOLD NANOPARTICLES; FREEFORM
+   FABRICATION; SILVER NANOPARTICLES; DIFFERENT SHAPES; NANOCRYSTALS;
+   CATALYSIS; POLYMERS; NANOCOMPOSITE
+ER
+
+PT S
+DE Laser Additive Manufacturing; Gas Permeable Material; Injection Molding
+ER
+
+PT J
+DE anode materials; hollow microspheres; iron oxides; lithium-ion
+   batteries; self-assembly
+ID LITHIUM-ION BATTERIES; TEMPLATE-FREE SYNTHESIS; ELECTRODE MATERIALS;
+   STORAGE PROPERTIES; SPHERES; NANOSTRUCTURES; PARTICLES; FABRICATION;
+   CONVERSION; NANOWIRES
+ER
+
+PT J
+ID MELTING SLM
+ER
+
+PT J
+DE Additive manufacture; Selective laser melting; Cellular lattice
+   structures
+ER
+
+PT J
+DE Additive manufacturing; DMLS; Design for additive manufacturing; Metal
+   parts; Cost analysis
+ID COST ESTIMATION; DESIGN; COMPONENTS
+ER
+
+PT J
+DE Additive manufacturing; Bioprinting; Biofabrication; Hydrogels; Tissue
+   engineering
+ID RAPID PROTOTYPING TECHNIQUES; CELL SHEET DETACHMENT; OF-THE-ART;
+   ENGINEERING SCAFFOLDS; REGENERATIVE MEDICINE; HYALURONIC-ACID; IN-VITRO;
+   MECHANICAL-PROPERTIES; BIODEGRADABLE SCAFFOLDS; PEG HYDROGELS
+ER
+
+PT J
+ER
+
+PT J
+DE Additive manufacturing; Rapid prototyping; Rapid manufacturing; Direct
+   metal laser sintering; Selective laser melting; Direct metal deposition;
+   Laser engineered net shaping; Metals; Alloys; Metal matrix composites;
+   Microstructure; Mechanical property; Review
+ID HIGH-SPEED STEEL; DRY SLIDING WEAR; SOLID FREEFORM FABRICATION; CLAD
+   NI70AL20CR7HF3 ALLOYS; NET SHAPING LENS; H13 TOOL STEEL; MATRIX
+   COMPOSITES; MICROSTRUCTURAL EVOLUTION; STAINLESS-STEEL; WC-CO
+ER
+
+PT J
+DE Warm mix asphalt; Pavement; Cleaner production
+ID WAX
+ER
+
+PT J
+DE Non-ferrous metals and alloys; Fatigue; Scanning electron microscopy
+ID CASTING ALLOYS; POROSITY
+ER
+
+PT B
+DE additive fabrication; rapid manufacturing; stereolithography;
+   mechatronics
+ER
+
+PT J
+DE Rapid prototypes; Manufacturing systems; 3D structural electronics;
+   Integrated additive manufacturing; Direct write; Multiple materials
+ID DIRECT-WRITE; INKS
+ER
+
+PT J
+DE Selective laser melting; Electron beam melting; Additive manufacturing;
+   Microstructures; Microstructural architecture
+ID STAINLESS-STEEL; MICROSTRUCTURAL EVOLUTION; BIOMEDICAL APPLICATIONS;
+   MECHANICAL-BEHAVIOR; TI-6AL-4V
+ER
+
+PT J
+DE LiNO3 modified electrolyte; Protective film on lithium; Lithium sulfur
+   battery
+ID LIQUID ELECTROLYTE; COMPOSITE CATHODE; CYCLEABILITY; DENSITY; ANODE;
+   FILM; CELL
+ER
+
+PT S
+DE Laser Melting; Rapid Manufacturing; Net Shaping
+ER
+
+PT J
+DE additive layered manufacturing; customised product
+ID FABRICATION; STEREOLITHOGRAPHY; MOLD
+ER
+
+PT J
+DE Self-replicating machine; Rapid prototyping; Additive fabrication;
+   Biomimetics; Mutualism; Open-source; Free software; Fused-filament
+   fabrication
+ID MATHEMATICAL-THEORY; COMMUNICATION
+ER
+
+PT J
+DE Multilayer; Additive layer manufacturing; Element birth and death; Laser
+   melting
+ID TITANIUM POWDER; SINTERED LAYERS; PREDICTION; TOP
+ER
+
+PT J
+DE additives; electrochemical electrodes; electrolytes; Fourier transform
+   spectra; infrared spectra; lithium compounds; organic compounds;
+   secondary cells; solvent effects; spectrochemical analysis; surface
+   chemistry; X-ray photoelectron spectra
+ID RAY PHOTOELECTRON-SPECTROSCOPY; 1,3-DIOXOLANE-LICLO4 SOLUTIONS;
+   ELECTROCHEMICAL-BEHAVIOR; POLYMER ELECTROLYTES; ORGANIC ELECTROLYTE;
+   LITHIUM ELECTRODE; CELLS; XPS; PERFORMANCE; CHEMISTRY
+ER
+
+EF

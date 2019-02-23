@@ -1,0 +1,406 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,deep learning,140,deep learning,371
+1,machine learning,26,machine learning,73
+2,feature learning,11,feature learning,32
+3,neural network,9,neural network,27
+4,convolutional neural network,9,deep,25
+5,deep,9,convolutional neural network,23
+6,dictionary learning,7,big data,20
+7,big data,7,convolutional neural networks,16
+8,convolutional neural networks,6,deep belief networks,16
+9,deep belief networks,6,dictionary learning,15
+10,artificial intelligence,5,artificial intelligence,14
+11,deep reinforcement learning,5,neural networks,13
+12,classification,4,data,12
+13,reinforcement learning,4,deep reinforcement learning,12
+14,data,4,fault diagnosis,12
+15,feature representation,4,deep neural network,11
+16,neural networks,4,computer vision,11
+17,deep neural network,4,bioinformatics,11
+18,fault diagnosis,4,classification,10
+19,convolutional neural,3,reinforcement learning,10
+20,autoencoder,3,deep neural networks,10
+21,deep belief network,3,convolutional,9
+22,recommender systems,3,unsupervised,9
+23,computer vision,3,feature representation,8
+24,deep neural networks,3,deep belief network,8
+25,feature extraction,3,feature extraction,8
+26,bioinformatics,3,developments,8
+27,convolutional,3,applications,8
+28,unsupervised,3,trends,8
+29,unsupervised feature learning,3,deep architectures,8
+30,object tracking,3,metric learning,7
+31,deep architectures,3,regression,7
+32,image classification,2,genomics,7
+33,image retrieval,2,convolutional neural,7
+34,metric learning,2,autoencoder,7
+35,regression,2,neural,7
+36,convolution neural network,2,natural language,6
+37,face recognition,2,survey,6
+38,natural language,2,learning,6
+39,artificial neural networks,2,multimodal,6
+40,genomics,2,medical imaging,6
+41,survey,2,remote sensing,6
+42,learning,2,super-resolution,6
+43,hyperspectral image classification,2,q learning,6
+44,convolutional neural network (cnn),2,unsupervised feature learning,6
+45,deep convolutional,2,object tracking,6
+46,tensorflow,2,image classification,5
+47,multimedia,2,image retrieval,5
+48,multimodal,2,face recognition,5
+49,medical imaging,2,artificial neural networks,5
+50,remote sensing,2,tensorflow,5
+51,neural,2,recommender systems,5
+52,super-resolution,2,embedded system,5
+53,q learning,2,gpu,5
+54,developments,2,googlenet,5
+55,applications,2,caffe,5
+56,trends,2,tensorrt,5
+57,unsupervised learning,2,unsupervised learning,5
+58,machine,2,machine,5
+59,deep convolutional neural network,2,robotic grasping,5
+60,deep learning (dl),2,rgb-d multi-modal data,5
+61,deep neural network (dnn),2,baxter,5
+62,deep belief network (dbn),2,pr2,5
+63,object recognition,2,3d,5
+64,sparse sampling,1,ai,4
+65,wavelet transform,1,radiology,4
+66,ai,1,congestion detection,4
+67,radiology,1,crowd,4
+68,analog computing,1,convolution neural network,4
+69,neuromorphic computing,1,cybersecurity,4
+70,object,1,internet of things,4
+71,adversarial attacks,1,fog networks,4
+72,sdn,1,smart,4
+73,ids,1,holography,4
+74,hyperspectral,1,phase,4
+75,deep supervised hashing,1,hyperspectral image classification,4
+76,myocardial perfusion,1,convolutional neural network (cnn),4
+77,deep generative models,1,deep convolutional,4
+78,simultaneous recurrent network (srn),1,multimedia,4
+79,directed,1,deep leaning,4
+80,handwritten digits recognition,1,mdps,4
+81,deep-ranked metric learning,1,observable,4
+82,online models updating,1,fcn,4
+83,single-target,1,obia,4
+84,congestion detection,1,uas,4
+85,crowd,1,omics,4
+86,deep metric learning,1,satellite images,4
+87,local metric learning,1,rbm,4
+88,k-auto-encoders,1,transcriptomics,4
+89,visual,1,deep learning (dl),4
+90,conductive heat transfer,1,deep neural network (dnn),4
+91,topology optimization,1,deep belief network (dbn),4
+92,simp,1,object recognition,4
+93,back-propagation strategy,1,cheminformatics,4
+94,big data feature learning,1,drug design,4
+95,canonical polyadic,1,machine-learning,4
+96,gabor cnns,1,hadoop,4
+97,gabor filters,1,fpga,4
+98,orientation,1,map-reduce,4
+99,deep computation model (dcm),1,analog computing,3
+100,internet of,1,neuromorphic computing,3
+101,smart manufacturing,1,object,3
+102,computational intelligence,1,adversarial attacks,3
+103,speaker recognition,1,sdn,3
+104,data mining,1,ids,3
+105,physiological signals,1,hyperspectral,3
+106,electrocardiogram,1,deep metric learning,3
+107,protein subcellular localization,1,local metric learning,3
+108,stacked auto-encoders,1,k-auto-encoders,3
+109,anti-jamming,1,visual,3
+110,deep q-network,1,conductive heat transfer,3
+111,cybersecurity,1,topology optimization,3
+112,internet of things,1,simp,3
+113,fog networks,1,gabor cnns,3
+114,smart,1,gabor filters,3
+115,robotics,1,orientation,3
+116,robotic vision,1,deep computation model (dcm),3
+117,precision medicine,1,internet of,3
+118,molecular imaging,1,smart manufacturing,3
+119,agriculture,1,computational intelligence,3
+120,automatic target recognition (atr),1,speaker recognition,3
+121,learning from,1,data mining,3
+122,age estimation,1,stacked auto-encoders,3
+123,cnn,1,robotics,3
+124,gender differences,1,robotic vision,3
+125,degree satisfaction,1,precision medicine,3
+126,deep ritz method,1,molecular imaging,3
+127,variational problems,1,agriculture,3
+128,pde,1,age estimation,3
+129,eigenvalue problems,1,cnn,3
+130,monitoring,1,gender differences,3
+131,strategy use,1,degree satisfaction,3
+132,metacognition,1,deep ritz method,3
+133,self-regulated learning,1,variational problems,3
+134,holography,1,pde,3
+135,phase,1,eigenvalue problems,3
+136,3-d deep learning,1,monitoring,3
+137,spectral-spatial,1,strategy use,3
+138,deep hashing neural networks (dhnns),1,metacognition,3
+139,large-scale remote sensing image,1,self-regulated learning,3
+140,long short-term memory,1,deep unfolding,3
+141,deeplearning,1,topic model,3
+142,age-related macular degeneration,1,variational inference,3
+143,malware detection,1,shielding failure,3
+144,heterogeneous deep learning framework,1,back striking,3
+145,deep unfolding,1,demand-side platform,3
+146,topic model,1,real-time bidding,3
+147,variational inference,1,display advertising,3
+148,shielding failure,1,multi-modal deep learning,3
+149,back striking,1,temporal,3
+150,geometric deep learning,1,document classification,3
+151,manifolds,1,human-centered smart systems,3
+152,demand-side platform,1,platform,3
+153,real-time bidding,1,action recognition,3
+154,display advertising,1,recurrent neural network,3
+155,deep learning-based recommender,1,stacked autoencoder,3
+156,multi-modal deep learning,1,alzheimer's disease,3
+157,temporal,1,deep polynomial networks,3
+158,incremental learning,1,big data modeling,3
+159,learning model,1,broad learning system (bls),3
+160,document classification,1,intelligent vehicles,3
+161,deep leaning,1,binary codes,3
+162,mdps,1,supervised hashing,3
+163,observable,1,video saliency,3
+164,vehicle re-identification,1,synthetic video data,3
+165,similarity learning,1,salient object,3
+166,human-centered smart systems,1,text characteristic,3
+167,platform,1,distance metric learning (dml),3
+168,fcn,1,image ranking,3
+169,obia,1,recommender system,3
+170,uas,1,youtube,3
+171,action recognition,1,deep autoencoder,3
+172,recurrent neural network,1,maximum,3
+173,stacked autoencoder,1,sar target recognition,3
+174,alzheimer's disease,1,deep cnns,3
+175,deep polynomial networks,1,transfer learning,3
+176,big data modeling,1,stacked,3
+177,broad learning system (bls),1,cryptography,3
+178,intelligent vehicles,1,fully homomorphic encryption,3
+179,binary codes,1,cloud,3
+180,supervised hashing,1,image denoising,3
+181,video saliency,1,residual learning,3
+182,synthetic video data,1,batch,3
+183,salient object,1,molecular modeling,3
+184,text characteristic,1,quantitative,3
+185,distance metric learning (dml),1,traffic flows,3
+186,image ranking,1,trend filtering,3
+187,recommender system,1,sparse linear models,3
+188,youtube,1,building cooling load,3
+189,machine translation,1,building energy prediction,3
+190,deep and shallow networks,1,deep belief,3
+191,deep autoencoder,1,convolution,3
+192,maximum,1,denoising autoencoders,3
+193,massive-training artificial,1,deep feature fusion,3
+194,sar target recognition,1,feature enhancement,3
+195,deep cnns,1,rotating,3
+196,transfer learning,1,deep learning challenges,3
+197,stacked,1,active shape model,3
+198,omics,1,facial emotion recognition,3
+199,statistical physics,1,object detection,3
+200,cryptography,1,framework design,3
+201,fully homomorphic encryption,1,model analysis,3
+202,cloud,1,autonomous cars,3
+203,image denoising,1,traffic jam,3
+204,residual learning,1,edge detection,3
+205,batch,1,multi-scale,3
+206,molecular modeling,1,mobile traffic forecasting,3
+207,quantitative,1,multitask learning,3
+208,traffic flows,1,feature fusion,3
+209,trend filtering,1,shared memory,3
+210,sparse linear models,1,distributed machine,3
+211,building cooling load,1,social network analysis,3
+212,building energy prediction,1,parallel,3
+213,hyperspectral image (hsi) classification,1,machine intelligence,3
+214,limited,1,artificial neural network,3
+215,image sharing,1,learning approaches,3
+216,privacy setting recommendation,1,motivation,3
+217,object-privacy alignment,1,time spent,3
+218,deep belief,1,performance,3
+219,deep convolutional neural network (dcnn),1,health informatics,3
+220,high-resolution,1,channel state information (csi),3
+221,large-scale visual recognition,1,fingerprinting,3
+222,hierarchical deep multi-task learning,1,indoor,3
+223,convolution,1,deep q-networks,3
+224,denoising autoencoders,1,coreference resolution,3
+225,field-programmable gate array (fpga),1,guide mention pair,3
+226,hardware,1,multi-pass sieve,3
+227,deep feature fusion,1,mention,3
+228,feature enhancement,1,crop diseases,3
+229,rotating,1,digital epidemiology,3
+230,deep learning challenges,1,developmental learning,3
+231,fuzzy system,1,deep representation,3
+232,black-box modeling,1,levels of,3
+233,active shape model,1,cellular imaging,3
+234,facial emotion recognition,1,computational biology,3
+235,object detection,1,deep learning dnn,3
+236,framework design,1,predictor,3
+237,model analysis,1,drug repurposing drug discovery,3
+238,greedy learning,1,confusion,3
+239,transform learning,1,cosaliency detection,3
+240,saliency detection,1,prior transfer,3
+241,hand-crafted features,1,stacked denoising,3
+242,satellite images,1,deep convolutional neural network,3
+243,autonomous cars,1,face alignment,3
+244,traffic jam,1,face landmark detection,3
+245,edge detection,1,sarsa learning,3
+246,multi-scale,1,experience replay,3
+247,mobile traffic forecasting,1,deep reinforcement,3
+248,multitask learning,1,tomographic imaging,3
+249,feature fusion,1,data acquisition,3
+250,ad classification,1,image,3
+251,deep reinforcement learning (drl),1,fault prognostic,3
+252,adaptive dynamic,1,restricted boltzmann machine,3
+253,embedded system,1,analog circuits,3
+254,gpu,1,undergraduate,3
+255,googlenet,1,network-based learning,3
+256,caffe,1,learning strategy,3
+257,tensorrt,1,non-convex,3
+258,deep learning etc.,1,image change detection,3
+259,shared memory,1,synthetic,3
+260,distributed machine,1,human pose recovery,3
+261,gradient based learning algorithms,1,multi-modal learning,3
+262,recommendation,1,hypergraph,3
+263,social network analysis,1,text recognition,3
+264,parallel,1,bioacoustics,3
+265,spmv,1,segmentation,3
+266,sparse matrix storage format,1,deep boltzmann machines,3
+267,machine intelligence,1,graphical,3
+268,artificial neural network,1,neural nets,3
+269,deep dreaming,1,protein structure prediction,3
+270,collage,1,supervised learning,3
+271,medical image analysis,1,reinforcement,3
+272,supervised and unsupervised algorithm,1,multitask learning (mtl),3
+273,semi-supervised,1,task grouping,3
+274,learning approaches,1,traffic flow,3
+275,motivation,1,autoencoder (ae),3
+276,time spent,1,hyperspectral data,3
+277,performance,1,eeg,3
+278,health informatics,1,convolutional deep belief networks,3
+279,channel state information (csi),1,representation learning,3
+280,fingerprinting,1,sparse sampling,2
+281,indoor,1,wavelet transform,2
+282,multi-feature learning,1,deep supervised hashing,2
+283,single image super-resolution (sr),1,myocardial perfusion,2
+284,deep q-networks,1,deep generative models,2
+285,distributed environment,1,simultaneous recurrent network (srn),2
+286,image processing,1,directed,2
+287,coreference resolution,1,handwritten digits recognition,2
+288,guide mention pair,1,deep-ranked metric learning,2
+289,multi-pass sieve,1,online models updating,2
+290,mention,1,single-target,2
+291,distributed training,1,back-propagation strategy,2
+292,nonlinear system modeling,1,big data feature learning,2
+293,randomized algorithms,1,canonical polyadic,2
+294,crop diseases,1,physiological signals,2
+295,digital epidemiology,1,electrocardiogram,2
+296,deep auto-encoders (dae),1,protein subcellular localization,2
+297,hyperspectral image (hsi),1,anti-jamming,2
+298,developmental learning,1,deep q-network,2
+299,deep representation,1,automatic target recognition (atr),2
+300,levels of,1,learning from,2
+301,balanced local discriminant embedding (blde),1,3-d deep learning,2
+302,cellular imaging,1,spectral-spatial,2
+303,computational biology,1,long short-term memory,2
+304,deep learning dnn,1,deeplearning,2
+305,predictor,1,age-related macular degeneration,2
+306,drug repurposing drug discovery,1,malware detection,2
+307,confusion,1,heterogeneous deep learning framework,2
+308,cosaliency detection,1,geometric deep learning,2
+309,prior transfer,1,manifolds,2
+310,stacked denoising,1,deep learning-based recommender,2
+311,rbm,1,incremental learning,2
+312,transcriptomics,1,learning model,2
+313,person re-identification,1,vehicle re-identification,2
+314,learning to,1,similarity learning,2
+315,face alignment,1,deep and shallow networks,2
+316,face landmark detection,1,massive-training artificial,2
+317,extreme learning machine,1,statistical physics,2
+318,deep convolutional neural networks,1,hyperspectral image (hsi) classification,2
+319,sparse coding,1,limited,2
+320,mode recognition,1,image sharing,2
+321,road vehicle detection,1,privacy setting recommendation,2
+322,sarsa learning,1,object-privacy alignment,2
+323,experience replay,1,deep convolutional neural network (dcnn),2
+324,deep reinforcement,1,high-resolution,2
+325,tomographic imaging,1,field-programmable gate array (fpga),2
+326,data acquisition,1,hardware,2
+327,image,1,fuzzy system,2
+328,fault prognostic,1,black-box modeling,2
+329,restricted boltzmann machine,1,greedy learning,2
+330,analog circuits,1,transform learning,2
+331,undergraduate,1,saliency detection,2
+332,network-based learning,1,hand-crafted features,2
+333,learning strategy,1,ad classification,2
+334,knmiledge management,1,deep reinforcement learning (drl),2
+335,wise learning,1,adaptive dynamic,2
+336,information commons,1,gradient based learning algorithms,2
+337,model,1,recommendation,2
+338,image recognition,1,spmv,2
+339,non-convex,1,sparse matrix storage format,2
+340,cheminformatics,1,deep dreaming,2
+341,drug design,1,collage,2
+342,machine-learning,1,medical image analysis,2
+343,human activity,1,supervised and unsupervised algorithm,2
+344,convolutional neural networks (cnns),1,semi-supervised,2
+345,feature,1,multi-feature learning,2
+346,image change detection,1,single image super-resolution (sr),2
+347,synthetic,1,distributed environment,2
+348,human pose recovery,1,image processing,2
+349,multi-modal learning,1,distributed training,2
+350,hypergraph,1,nonlinear system modeling,2
+351,support vector classification,1,randomized algorithms,2
+352,multimodal homologous,1,deep auto-encoders (dae),2
+353,rote memorisation,1,hyperspectral image (hsi),2
+354,learning with understanding,1,person re-identification,2
+355,academic performance,1,learning to,2
+356,hyperspectral image denoising,1,extreme learning machine,2
+357,feature extraction (fe),1,deep convolutional neural networks,2
+358,image quality assessment (iqa),1,sparse coding,2
+359,natural scene statistics,1,mode recognition,2
+360,robotic grasping,1,road vehicle detection,2
+361,rgb-d multi-modal data,1,knmiledge management,2
+362,baxter,1,wise learning,2
+363,pr2,1,information commons,2
+364,3d,1,model,2
+365,stacked autoencoders (saes),1,human activity,2
+366,traffic flow prediction,1,convolutional neural networks (cnns),2
+367,facet learning,1,feature,2
+368,text recognition,1,support vector classification,2
+369,architecture hyperparameter search,1,multimodal homologous,2
+370,hadoop,1,rote memorisation,2
+371,fpga,1,learning with understanding,2
+372,map-reduce,1,academic performance,2
+373,convolutional deep belief network,1,hyperspectral image denoising,2
+374,classify introduction,1,feature extraction (fe),2
+375,bioacoustics,1,image quality assessment (iqa),2
+376,segmentation,1,natural scene statistics,2
+377,deep boltzmann machines,1,stacked autoencoders (saes),2
+378,graphical,1,traffic flow prediction,2
+379,neural nets,1,architecture hyperparameter search,2
+380,protein structure prediction,1,convolutional deep belief network,2
+381,supervised learning,1,classify introduction,2
+382,reinforcement,1,time-series,2
+383,multitask learning (mtl),1,learning algorithm,2
+384,task grouping,1,classifier design and evaluation,2
+385,traffic flow,1,unsupervised pre-training,2
+386,autoencoder (ae),1,approaches to learning,2
+387,hyperspectral data,1,student-centred learning environment,2
+388,time-series,1,higher,2
+389,gender recognition,1,project-based learning,2
+390,convolutional restricted boltzmann machine,1,deep approach,2
+391,learning algorithm,1,spq,2
+392,classifier design and evaluation,1,deep hashing neural networks (dhnns),1
+393,eeg,1,large-scale remote sensing image,1
+394,convolutional deep belief networks,1,machine translation,1
+395,representation learning,1,large-scale visual recognition,1
+396,unsupervised pre-training,1,hierarchical deep multi-task learning,1
+397,discriminative deep belief networks (ddbn),1,deep learning etc.,1
+398,semi-supervised learning,1,balanced local discriminant embedding (blde),1
+399,approaches to learning,1,image recognition,1
+400,student-centred learning environment,1,facet learning,1
+401,higher,1,gender recognition,1
+402,project-based learning,1,convolutional restricted boltzmann machine,1
+403,deep approach,1,discriminative deep belief networks (ddbn),1
+404,spq,1,semi-supervised learning,1

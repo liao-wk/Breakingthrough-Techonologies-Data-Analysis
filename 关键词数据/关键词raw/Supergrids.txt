@@ -1,0 +1,338 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE Fuzzy logic; Global grid; Interpretive structural modelling; MICMAC;
+   PEST; Photovoltaic; Supergrid
+ID SCALE PV SYSTEMS; TYPE-2 FUZZY ONTOLOGY; SITE SELECTION; INTERVAL
+   TYPE-2; DELPHI METHOD; MISSING DATA; MINUS 2; VLS-PV; MODEL; CAPACITY
+ER
+
+PT J
+DE Hot spots; simulation; superconducting fault current limiter; 65 K
+   subcooled nitrogen
+ER
+
+PT J
+DE AC/DC; HVDC transmission; multiterminal MTDC; power flow analysis;
+   Voltage Source Converter (VSC)
+ID HVDC
+ER
+
+PT J
+DE HVDC systems; MTDC grids; Control and operation; Integration of
+   renewable energies; Supergrid
+ID VOLTAGE-DROOP STRATEGY; OFFSHORE WIND FARMS; VSC-HVDC; POWER
+   TRANSMISSION; INTEGRATION; NETWORKS; SYSTEMS; FLOW
+ER
+
+PT J
+DE Interconnections; Risk assessment; Quantitative risk analysis; Trading
+   electricity; Supergrid; Whole life appraisal
+ID HVDC TRANSMISSION; SYSTEMS; INTERCONNECTION; ISSUES
+ER
+
+PT J
+DE HVDC grid; Renewable energies; Offshore wind power; European overlay
+   network; HVDC Grid Codes
+ID POWER-SYSTEM STABILITY; VSC-HVDC; TRANSMISSION-SYSTEM; RENEWABLE ENERGY;
+   FAULT-DETECTION; WIND FARM; INTEGRATION; TECHNOLOGIES; CURTAILMENT;
+   STATE
+ER
+
+PT J
+DE HVDC circuit breaker; power system transients; PSCAD; test circuit; test
+   facilities; testing
+ID CURRENT INTERRUPTION; TRANSMISSION; CONVERSION; NETWORKS; INTERTIE;
+   SYSTEM
+ER
+
+PT B
+DE Shunt reactor; current chopping; chopping overvoltage; re-ignition
+   overvoltage
+ER
+
+PT B
+DE hybrid ac/dc transmission line; integrated approach; supergrid
+ID LINES; HVDC; CONVERSION; CAPACITY
+ER
+
+PT J
+DE Actuator; Circuit breaker; Optimization algorithm; Thomson coil actuator
+ID PERMANENT-MAGNET ACTUATOR; CIRCUIT-BREAKER; SIMULATION
+ER
+
+PT J
+DE MTDC networks; supergrids; SCOPF; outage management; restoration
+   algorithms
+ID EMERGENCY RESPONSE LOGISTICS; SECURITY; HVDC; ALGORITHMS; FLOW;
+   RESTORATION; MODELS; GRIDS
+ER
+
+PT J
+ER
+
+PT S
+ID MAGNETIC-FIELD; RANDOM-WALK; ARC; MOTION; DYNAMICS
+ER
+
+PT J
+DE Renewable energy; Sustainability; Scaling; Transformation of energy
+   systems; Socio-technical complexity
+ID SOLAR POWER; EUROPE; INTEGRATION; EXTENSIONS; STORAGE; NEEDS; WIND
+ER
+
+PT J
+DE Offshore grid; Supergrid; Marine regionalization; Europe
+ID ELECTROMAGNETIC-FIELDS; WIND FARM; ENERGY; GOVERNANCE; BARRIERS; EUROPE;
+   CABLES; SEAS; INTEGRATION; CONNECTION
+ER
+
+PT J
+DE interconnections; risk assessment; trading electricity; renewables; risk
+   identification; risk semi-quantification
+ID TRANSMISSION; SYSTEMS
+ER
+
+PT J
+DE SRM; direct power control; wind energy; wireless communications; LDPC
+ID IRREGULAR LDPC CODES; DESIGN
+ER
+
+PT J
+DE Bridge rectifier; fault current limiters (FCLs); high-power faults
+ID POWER-SYSTEM
+ER
+
+PT B
+DE HV SF6 circuit breaker; breakdown voltage; capacitive current breaking;
+   CFD (Computational fluid dynamics); numerical calculations
+ER
+
+PT B
+DE HVDC; HVDC circuit breakers; testing; fault current; simulation
+ER
+
+PT B
+DE reignition current; circuit breaker; high-power test; synthetic test
+ER
+
+PT J
+DE infrastructure planning; renewable energy; risk & probability analysis
+ID RENEWABLE ENERGY-SOURCES; POWER; FUTURE; GENERATION; EUROPE; SCENARIOS;
+   SYSTEM; SECTOR
+ER
+
+PT S
+DE Pulsed plasma; pulsed power; supercritical fluid; circuit breaker; power
+   switch; voltage recovery; supercritical plasma
+ER
+
+PT S
+DE Arcing; Microwave Tube; Gyrotron; Crowbar etc.
+ID CROWBAR
+ER
+
+PT J
+DE Wire-burn test; Crowbar; High voltage DC power supplies; Solid state
+   crowbar
+ER
+
+PT J
+DE Control design; HVDC transmission; offshore wind farms; optimization
+   algorithms
+ID TRANSMISSION-SYSTEM; DC SYSTEMS; HVDC; CONVERTER; FARMS; DROOP;
+   INVERTERS
+ER
+
+PT J
+ER
+
+PT J
+DE Supergrid; Renewable energy; Intermittency
+ER
+
+PT S
+ER
+
+PT B
+DE Solid-state circuit breaker; hybrid breaker; IGBT; IGCT; high-power
+   direction
+ER
+
+PT B
+DE circuit breaker; hydraulic operating mechanism; self-defense function
+ER
+
+PT J
+DE Flexible ac transmission systems; load flow control; reactive power
+   control; transmission lines; voltage control
+ID BULK POWER; DISTANCE
+ER
+
+PT S
+DE Solid-State Disconnect; Circuit Breaker; Depletion-Mode JFET; Surge
+   Current Protection
+ER
+
+PT S
+DE Solid State Circuit Breakers (SSCBs); Simulation; Power Semiconductors;
+   Gate Turn-Off; Thyristor (GTO); Integrated Gate Commutated Thyristor
+   (IGCT)
+ER
+
+PT S
+DE Multiterminal HVDC; Multilevel converters; Power transmission; Voltage
+   Source converter (VSC)
+ID VSC-HVDC
+ER
+
+PT S
+DE Doubly-fed induction generator; wind energy; smart grid; deadbeat
+   control; AWGN channel; Flat Fading channel
+ID CODES
+ER
+
+PT S
+DE Synchronous Machine; Field Discharge; Energy Storage; UltraCapacitor
+ER
+
+PT S
+DE DC Circuit breakers; DC power systems; High Voltage DC transmission;
+   DC-DC power conversion
+ID CONVERTER; PROTECTION
+ER
+
+PT J
+DE Secondary electron; Charging; Insulator; Alumina
+ID SECONDARY-ELECTRON EMISSION; MONTE-CARLO-SIMULATION; INSULATING TARGET;
+   BEAM
+ER
+
+PT S
+DE Integrated gate controlled thyristor; FACTS; hybrid circuit breaker;
+   medium voltage drive; power semiconductors
+ID CIRCUIT-BREAKER
+ER
+
+PT S
+DE computational model; application; measurements; dynamic runtime;
+   sensors; grids
+ID APPLICATION SIMULATIONS
+ER
+
+PT J
+DE Countercurrent commutation principle; Inverse Current Commutation with
+   Semiconductor devices (ICCOS); opening switch;
+   parallel-capacitor-current commutation principle; thyristor circuit
+   breaker
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT B
+DE controlled switching; circuit breaker; fault interruption; high voltage;
+   high power testing
+ER
+
+PT B
+DE cogeneration; dispersed storage and generation; power quality; power
+   system economics
+ER
+
+PT B
+DE circuit breaker; decision tree; C4.5 algorithm
+ER
+
+PT B
+ER
+
+PT J
+DE direct current circuit breaker; insulator recovery time; commutating
+   current; contact
+ER
+
+PT B
+DE transfer principle; force commutation technology; commutation circuits;
+   reliability analysis; parameters optimize; DC thyristor breaker
+ER
+
+PT J
+DE arc hazards; burns; high-power testing; high-speed videography; personal
+   protective equipment
+ID ARCS; AIR
+ER
+
+PT B
+ER
+
+PT B
+DE MEMS circuit breaker; MEMS; integrated power distribution systems
+ER
+
+PT B
+DE MEMS circuit breaker; MEMS; power distribution
+ER
+
+PT B
+DE IGCT; OHTE; HSCB; fibre optic cable
+ER
+
+PT S
+DE arc hazards; burns; high-power testing; high speed videography; personal
+   protective equipment
+ER
+
+PT B
+DE thermal puffer type gas circuit breakers; nozzle ablation; radiative
+   energy transfer
+ER
+
+PT B
+DE circuit breaker; switches; reliability; failure modes
+ID SYSTEMS
+ER
+
+PT B
+DE copper-tungsten; reignition; welding; powder metal; microstructure;
+   oxidation; transverse rupture strength
+ID COMPOSITE-MATERIALS
+ER
+
+PT J
+ID DIELECTRIC-BARRIER DISCHARGES; EXCIMER UV SOURCES; SILENT-DISCHARGE;
+   RADIATION; GENERATION; CO2-LASER; EMISSION; PLASMAS
+ER
+
+PT B
+DE synchronous generators; short circuit generators; testing
+ER
+
+PT B
+DE are voltage; digitized measuring system; development; improvement
+ER
+
+PT B
+DE circuit breaker testing; circuit breakers; current measurement; data
+   acquisition; electrical equipment industry; short circuit currents;
+   transient analysis; power transmission; testing; high-voltage techniques
+ER
+
+PT S
+ER
+
+PT J
+ID STICK-SLIP FRICTION; SIMULATION; SYSTEMS
+ER
+
+PT J
+ID ELECTRICAL TRANSIENTS
+ER
+
+PT J
+ER
+
+EF

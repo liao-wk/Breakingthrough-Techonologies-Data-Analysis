@@ -1,0 +1,1325 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE deep learning; sparse sampling; wavelet transform
+ID ITERATIVE RECONSTRUCTION; DOSE REDUCTION; DENOISING AUTOENCODERS; CT;
+   NETWORK
+ER
+
+PT J
+DE Deep learning; Artificial intelligence; AI; Neural network; Radiology;
+   Review
+ID CONVOLUTIONAL NEURAL-NETWORK; ARTIFICIAL-INTELLIGENCE; CHEST
+   RADIOGRAPHY; ALGORITHM; REPRESENTATIONS; CLASSIFICATION; DIAGNOSIS;
+   ACCURACY; SOFTWARE; WORKLOAD
+ER
+
+PT J
+ER
+
+PT J
+DE Analog computing; deep learning; neural network; neuromorphic computing;
+   nonvolatile memory; synapse
+ID NEURAL-NETWORKS; DEVICES
+ER
+
+PT J
+DE deep learning; feature learning; Image classification; object
+   recognition; width and depth of deep architectures
+ID NONLINEAR DIMENSIONALITY REDUCTION; NEURAL-NETWORKS;
+   DISCRIMINANT-ANALYSIS; COMPONENT ANALYSIS; REPRESENTATION;
+   CLASSIFICATION; EIGENMAPS; MANIFOLDS; FRAMEWORK
+ER
+
+PT S
+DE Adversarial attacks; SDN; Deep learning; IDS
+ER
+
+PT J
+DE Classification; deep learning; dictionary learning; hyperspectral
+   imaging; supervised learning
+ID NEURAL-NETWORKS
+ER
+
+PT J
+DE Image retrieval; deep learning; deep supervised hashing
+ID IMAGE RETRIEVAL; QUANTIZATION; CODES
+ER
+
+PT J
+DE convolutional neural network; deep learning; myocardial perfusion
+   imaging; obstructive coronary artery disease; single-photon emission
+   computed tomography
+ER
+
+PT J
+DE Deep generative models; Simultaneous recurrent network (SRN); Directed
+   graphical models; Variational inference; Representational learning
+ID BELIEF NETWORKS; RECOGNITION; GRADIENT
+ER
+
+PT J
+DE Handwritten digits recognition; Deep learning; Reinforcement learning;
+   Adaptive Q-learning deep belief network; Adaptive deep auto-encoder
+ID RESTRICTED BOLTZMANN MACHINES; NEURAL-NETWORKS; DECISION-MAKING; BELIEF
+   NETWORKS; DIMENSIONALITY REDUCTION; IMAGE RECOGNITION; EFFICIENT; SEARCH
+ER
+
+PT J
+DE Deep-ranked metric learning; Online models updating; Single-target
+   localization
+ID TRACKING; NETWORKS
+ER
+
+PT J
+DE Deep learning; metric learning; regression; congestion detection; crowd
+   counting
+ID PERSON REIDENTIFICATION; IMAGE RECOGNITION; DISTANCE; CLASSIFICATION;
+   RETRIEVAL; WILD
+ER
+
+PT J
+DE Deep metric learning; local metric learning; K-auto-encoders; visual
+   recognition
+ID PERSON REIDENTIFICATION; FACE VERIFICATION; SCENE CLASSIFICATION;
+   RECOGNITION; FEATURES; WILD; DESCRIPTOR
+ER
+
+PT J
+DE Deep Learning; Convolution Neural Network; Face Recognition
+ID RECOGNITION; CLASSIFICATION; NETWORKS
+ER
+
+PT J
+DE Conductive heat transfer; Deep learning; Topology optimization; SIMP
+ID DESIGN
+ER
+
+PT J
+DE Back-propagation strategy; big data feature learning; canonical polyadic
+   decomposition (CP-DCM); deep computation model
+ID BIG DATA; SYSTEMS
+ER
+
+PT J
+ER
+
+PT J
+DE Gabor CNNs; Gabor filters; convolutional neural networks; orientation;
+   kernel modulation
+ID SALIENCY DETECTION; RECOGNITION; FILTER
+ER
+
+PT J
+DE Big data; deep computation model (DCM); feature learning; Internet of
+   Things; privacy-preserving
+ID C-MEANS ALGORITHMS; NETWORKS; SENSOR
+ER
+
+PT J
+DE Smart manufacturing; Deep learning; Computational intelligence; Data
+   analytics
+ID NEURAL-NETWORK; FAULT-DIAGNOSIS; PREDICTIVE ANALYTICS; BIG DATA;
+   PROGNOSIS; SYSTEMS; DESIGN; FUTURE; CHALLENGES; ALGORITHM
+ER
+
+PT J
+ER
+
+PT J
+DE Deep learning; face recognition; speaker recognition; feature learning;
+   convolutional neural networks; deep belief nets; autoencoders
+ID NEURAL-NETWORKS; RECOGNIZING GAITS; FACE RECOGNITION; AGE; IMAGE
+ER
+
+PT J
+DE data mining; deep learning; machine learning; natural language
+   processing; neural network; opinion mining; sentiment analysis; survey
+ID NEURAL-NETWORKS; CLASSIFICATION
+ER
+
+PT J
+DE Deep learning; Physiological signals; Electrocardiogram;
+   Electroencephalogram; Electromyogram; Electrooculogram
+ID CONVOLUTIONAL NEURAL-NETWORK; SEIZURE-PREDICTION METHODS; BRAIN-COMPUTER
+   INTERFACE; CORONARY-ARTERY-DISEASE; AUTOMATED DETECTION;
+   MYOCARDIAL-INFARCTION; CLASSIFICATION; ARTIFACTS; COMMUNICATION;
+   COMPETITION
+ER
+
+PT J
+DE Protein subcellular localization; Feature representation; Deep learning
+ID SUPPORT VECTOR MACHINES; AMINO-ACID-COMPOSITION; WEB SERVER; DNA;
+   SEQUENCE; IDENTIFICATION; RECOGNITION; LOCATIONS; NETWORKS; RNA
+ER
+
+PT J
+DE Deep learning; Big data; Stacked auto-encoders; Deep belief networks;
+   Convolutional neural networks; Recurrent neural networks
+ID CONVOLUTIONAL NEURAL-NETWORKS; BELIEF NETWORKS; SPEECH RECOGNITION;
+   CLASSIFICATION; PERSPECTIVES; CHALLENGES; PREDICTION; STACKING; LSTM
+ER
+
+PT J
+ID CLASSIFICATION DECISIONS; CHEMICAL SPACE; POTENTIALS; ENERGIES
+ER
+
+PT J
+ID FREE-ENERGY LANDSCAPES; NONLINEAR DIMENSIONALITY REDUCTION; MARKOV STATE
+   MODEL; NEURAL-NETWORKS; DYNAMICS SIMULATIONS; HIGH-THROUGHPUT;
+   VARIATIONAL APPROACH; SYSTEMS; MAP; SEPARATION
+ER
+
+PT J
+ID RECURRENT NEURAL-NETWORKS; COMPUTATIONAL CHEMISTRY; PREDICTION;
+   GENERATION; DATABASE; ARCHITECTURES; SEGMENTATION; MOLECULES; DIAGNOSIS;
+   DOCKING
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE Anti-jamming; deep Q-network; deep reinforcement learning
+ID COGNITIVE RADIO NETWORKS; GAME
+ER
+
+PT J
+DE artificial intelligence; artificial neural networks; big data; deep
+   learning; drug discovery
+ID BIOLOGICAL-ACTIVITY PREDICTIONS; NEURAL-NETWORKS; RECEPTIVE FIELDS;
+   RANDOM FOREST; QSAR; GRADIENT; MOLECULES; NETS; TOOL; ARCHITECTURES
+ER
+
+PT J
+DE Cybersecurity; Deep learning; Internet of Things; Fog networks; Smart
+   cities
+ID CODE
+ER
+
+PT J
+DE Robotics; deep learning; machine learning; robotic vision
+ID NEURAL-NETWORKS; OBJECT; SIMULATION
+ER
+
+PT J
+DE deep learning; genomics; precision medicine; machine learning
+ID CONVOLUTIONAL NEURAL-NETWORKS; ELECTRONIC HEALTH RECORDS;
+   PROTEIN-PROTEIN INTERACTION; SECONDARY STRUCTURE PREDICTION;
+   COMPUTER-AIDED DETECTION; HIGH-THROUGHPUT; GENE-EXPRESSION; DRUG
+   DISCOVERY; CRYO-EM; DIABETIC-RETINOPATHY
+ER
+
+PT J
+DE Deep learning; Molecular imaging; Machine learning; Convolutional neural
+   network; Precision medicine
+ID CONVOLUTIONAL NEURAL-NETWORKS; BRAIN-TUMOR SEGMENTATION; IMAGES; CANCER;
+   MRI; VOLUME; PET/CT; MODEL
+ER
+
+PT J
+DE Deep learning; Agriculture; Survey; Convolutional Neural Networks;
+   Recurrent Neural Networks; Smart fanning; Food systems
+ID CONVOLUTIONAL NEURAL-NETWORKS; IRRIGATED AGRICULTURE; CLASSIFICATION
+ER
+
+PT J
+DE Automatic target recognition (ATR); convolutional neural networks; deep
+   learning; multiview; synthetic aperture radar (SAR)
+ID SYNTHETIC-APERTURE RADAR; NEURAL-NETWORKS; SPARSE REPRESENTATION; POSE
+   ESTIMATION; ATR; CRITERION; IMAGERY; MODELS
+ER
+
+PT J
+DE Deep learning; Convolutional neural networks; Learning from
+   demonstrations; Reinforcement learning; Active learning; 3D navigation;
+   Benchmarking
+ER
+
+PT J
+DE Age estimation; Deep learning; CNN; Regression
+ID REGRESSION; CLASSIFICATION; RECOGNITION; MANIFOLD; DATABASE; GENDER
+ER
+
+PT J
+ID CORONARY-HEART-DISEASE; DIABETIC-RETINOPATHY; ATHEROSCLEROSIS RISK;
+   SCORE INVESTIGATORS; FRACTAL DIMENSION; VASCULAR CALIBER; VESSEL
+   CALIBER; MORTALITY; STROKE; ABNORMALITIES
+ER
+
+PT J
+ID SOCIAL NETWORKS; GAME
+ER
+
+PT J
+DE gender differences; deep learning; degree satisfaction; learning
+   approach; surface learning
+ID HIGHER-EDUCATION; ACADEMIC-PERFORMANCE; PROCESS QUESTIONNAIRE; DISTANCE
+   EDUCATION; REVISED 2-FACTOR; MATURE STUDENTS; HONG-KONG; MOTIVATION;
+   STYLES; TRANSITION
+ER
+
+PT J
+DE Deep Ritz Method; Variational problems; PDE; Eigenvalue problems
+ER
+
+PT J
+DE monitoring; strategy use; metacognition; self-regulated learning;
+   think-aloud protocol
+ID HIGH-SCHOOL-STUDENTS; SELF-REGULATION; HYPERMEDIA; METACOGNITION;
+   ACHIEVEMENT; DIRECTIONS; ACCOUNT; CONTEXT; DEEP
+ER
+
+PT J
+DE deep learning; holography; machine learning; neural networks; phase
+   recovery
+ID LIGHT-EMITTING-DIODES; MOLECULAR-BEAM EPITAXY; PIEZOELECTRIC
+   POLARIZATION; EXTRACTION EFFICIENCY; TUNNEL-JUNCTIONS; FREESTANDING GAN;
+   GALLIUM-NITRIDE; HETEROSTRUCTURES; FIELD; ALN
+ER
+
+PT J
+DE 3-D deep learning; hyperspectral image classification; spectral-spatial
+   feature extraction; spectral-spatial residual network (SSRN)
+ER
+
+PT J
+DE Deep hashing neural networks (DHNNs); large-scale remote sensing image
+   retrieval remote sensing big data (RSBD) mining; supervised learning
+   from scratch; transfer learning
+ID BIG DATA; CLASSIFICATION; FEATURES; SCENE; TEXTURE
+ER
+
+PT J
+DE Big data; convolutional neural network (CNN); deep convolutional
+   computation model (DCCM); high-order backpropagation (HBP) algorithm;
+   Internet of Things (IoT); tensor computation
+ER
+
+PT J
+DE Deep learning; Convolution neural network; Long short-term memory;
+   Unsafe actions; Safety; Video surveillance
+ID ACTION RECOGNITION; CONSTRUCTION WORKERS; DENSE TRAJECTORIES; SAFETY;
+   MANAGEMENT; DESCRIPTORS; FRAMEWORK
+ER
+
+PT J
+DE Deeplearning; Age-related macular degeneration; Deep convolutional
+   neural network; Optical coherencetomography; Machine learning
+ID DIABETIC-RETINOPATHY; CLASSIFICATION; SEGMENTATION; IMAGES; AMD
+ER
+
+PT J
+DE Malware detection; Heterogeneous deep learning framework; AutoEncoder;
+   Restricted Boltzmann machines; Associative memory
+ID NEURAL-NETWORKS; ALGORITHM
+ER
+
+PT J
+DE Deep unfolding; topic model; variational inference; deep neural network;
+   unsupervised/supervised learning
+ER
+
+PT B
+DE Deep Learning; TensorFlow; Multimedia
+ER
+
+PT S
+DE deep learning; Deep Belief Network; shielding failure; back striking
+ER
+
+PT B
+DE deep learning; geometric deep learning; manifolds
+ID RECOGNITION
+ER
+
+PT B
+DE Demand-Side Platform; Real-Time Bidding; Display Advertising; Learning
+   with Partial Labels; Deep Learning
+ER
+
+PT J
+DE Deep learning; recommender systems; deep learning-based recommender
+   systems; machine learning; terminology
+ID NETWORK
+ER
+
+PT S
+DE Deep Learning; Computer Vision; Multi-Modal Deep Learning; Temporal
+   Networks
+ER
+
+PT S
+DE Incremental learning; Learning model; Machine learning
+ER
+
+PT B
+DE Deep Learning; Machine Learning; document classification; data
+   representation; data processing architectures
+ER
+
+PT S
+DE Reinforcement learning; Deep leaning; Neural networks; MDPs; Observable
+   MDPs
+ID RECOGNITION; REPRESENTATIONS; NETWORK; MEMORY; AGENTS
+ER
+
+PT J
+DE Vehicle re-identification; feature representation; similarity learning;
+   deep learning
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT S
+DE Deep Learning; Deep Neural Networks; Machine Learning; Classification;
+   Regression; Optimization
+ID ALGORITHM; NETWORKS
+ER
+
+PT J
+DE Human-centered smart systems; deep learning; platform; neural networks;
+   emergent applications; Internet of Things; cyber-physical systems;
+   survey; networking; security
+ID NEURAL-NETWORKS; SENSOR DATA; INTERNET; THINGS; CLASSIFICATION;
+   RECOGNITION; ALGORITHM; SYSTEMS; GAME; GO
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE FCN; deep learning; convolutional neural network; OBIA; UAS
+ID REMOTE-SENSING IMAGERY; SPATIAL-RESOLUTION IMAGERY; AERIAL VEHICLE;
+   SPECIES CLASSIFICATION; FEATURE REPRESENTATION; ECOSYSTEM SERVICES;
+   LAND-COVER; LIDAR DATA; RECOGNITION; EXTRACTION
+ER
+
+PT J
+DE Action recognition; deep learning; recurrent neural network; deep
+   bidirectional long short-term memory; convolution neural network
+ID RECURRENT NEURAL-NETWORKS; SHORT-TERM-MEMORY; TRAJECTORIES
+ER
+
+PT J
+DE Neural Network; Deep Learning; Deep Neural Network; Stacked Autoencoder;
+   Convolution Neural Network; Recurrent Neural Network
+ER
+
+PT J
+DE Alzheimer's disease; deep learning; deep polynomial networks; multimodal
+   stacked deep polynomial networks; multimodal neuroimaging
+ID NEURAL-NETWORKS; FEATURE REPRESENTATION; CLASSIFICATION; BIOMARKERS;
+   FUSION; MODEL; SEGMENTATION; ALGORITHM
+ER
+
+PT J
+DE Big data; big data modeling; broad learning system (BLS); deep learning;
+   incremental learning; random vector functional-link neural networks
+   (RVFLNN); single layer feedforward neural networks (SLFN); singular
+   value decomposition (SVD)
+ID FUNCTIONAL-LINK NET; NEURAL-NETWORKS; ALGORITHM; SELECTION;
+   REPRESENTATION; APPROXIMATION; REGRESSION; SHRINKAGE
+ER
+
+PT J
+DE Intelligent vehicles; binary codes; supervised hashing; image retrieval;
+   deep learning
+ID IMAGE RETRIEVAL; SIMILARITY; REPRESENTATION; QUANTIZATION
+ER
+
+PT J
+DE Video saliency; deep learning; synthetic video data; salient object
+   detection; fully convolutional network
+ID REGION DETECTION; DEEP; SEGMENTATION; OPTIMIZATION; ATTENTION
+ER
+
+PT J
+DE Deep learning; Feature extraction; Text characteristic; Natural language
+   processing; Text mining
+ID FEATURE-SELECTION; DIMENSION REDUCTION; NEURAL-NETWORK; CLASSIFICATION;
+   RECOGNITION; ALGORITHM
+ER
+
+PT J
+DE Deep learning; distance metric learning (DML); image ranking; multimodal
+ID SEARCH; RETRIEVAL; REPRESENTATION; INFORMATION; GRAPH
+ER
+
+PT J
+DE Recommender system; deep learning; neural network; YouTube
+   recommendation
+ER
+
+PT J
+DE Deep learning; Convolutional neural networks; Medical imaging; Survey
+ID CONVOLUTIONAL NEURAL-NETWORKS; COMPUTER-AIDED DETECTION; DIGITAL BREAST
+   TOMOSYNTHESIS; SCLEROSIS LESION SEGMENTATION; ANATOMICAL LANDMARK
+   DETECTION; BRAIN-TUMOR SEGMENTATION; CANCER HISTOLOGY IMAGES; AUTOMATED
+   DETECTION; LEFT-VENTRICLE; MULTIPLE-SCLEROSIS
+ER
+
+PT J
+ID MEDICAL IMAGE-ANALYSIS; NEURAL-NETWORKS; CLASSIFICATION; OPTIMIZATION;
+   RECOGNITION; ALGORITHMS; FUSION; VIDEO
+ER
+
+PT J
+DE Machine translation; Deep learning
+ER
+
+PT J
+DE Machine learning; neural networks; deep and shallow networks;
+   convolutional neural networks; function approximation; deep learning
+ID NEURAL-NETWORKS; APPROXIMATION; RECOGNITION
+ER
+
+PT J
+DE Deep autoencoder; Feature learning; Fault diagnosis; Maximum
+   correntropy; Artificial fish swarm algorithm
+ID NEURAL-NETWORKS; ROLLER-BEARINGS; CLASSIFICATION; CORRENTROPY; EEMD
+ER
+
+PT J
+ID NEURAL-NETWORKS; PHASE
+ER
+
+PT J
+DE Deep learning; Convolutional neural network; Massive-training artificial
+   neural network; Computer-aided diagnosis; Medical image analysis;
+   Classification
+ID ARTIFICIAL NEURAL-NETWORK; COMPUTER-AIDED DETECTION; FALSE-POSITIVE
+   REDUCTION; LUNG NODULE DETECTION; RESEARCH-AND-DEVELOPMENT;
+   MASSIVE-TRAINING ANNS; LOW-DOSE CT; CHEST RADIOGRAPHS; CLUSTERED
+   MICROCALCIFICATIONS; DIGITAL MAMMOGRAMS
+ER
+
+PT J
+DE SAR target recognition; deep CNNs; transfer learning; stacked
+   convolutional auto-encoders
+ID JOINT SPARSE REPRESENTATION; MONOGENIC SIGNAL; RECOGNITION; FEATURES;
+   IMAGES
+ER
+
+PT J
+DE deep learning; neural network; machine learning; bioinformatics; omics;
+   biomedical imaging; biomedical signal processing
+ID SECONDARY STRUCTURE PREDICTION; RECURRENT NEURAL-NETWORKS; CONVOLUTIONAL
+   NETWORKS; EEG; CLASSIFICATION; RECOGNITION; ALGORITHM; SEQUENCE;
+   BINDING; MODEL
+ER
+
+PT J
+DE reinforcement learning; deep learning; deep reinforcement learning;
+   profit sharing; deep Q-network
+ID ENVIRONMENT
+ER
+
+PT J
+DE Artificial neural networks; Deep learning; Statistical physics
+ID LOSING INFORMATION
+ER
+
+PT J
+ID LEARNING ALGORITHM; FACE VERIFICATION; RECEPTIVE FIELDS; GRADIENT
+   DESCENT; RECOGNITION; REPRESENTATION; MODEL; TERM; DIMENSIONALITY;
+   REGULARIZATION
+ER
+
+PT J
+DE Cryptography; Machine learning; Fully homomorphic encryption; Cloud
+   computing
+ID ADOPTION FRAMEWORK; NEURAL-NETWORKS; CLASSIFICATION; SECURITY
+ER
+
+PT J
+DE Artificial intelligence; Machine learning; Deep learning; Convolutional
+   neural network
+ID NETWORKS
+ER
+
+PT J
+DE Artificial intelligence; Machine learning; Convolutional neural network;
+   Recurrent Neural Network; Computer-aided; Precision medicine; Radiology
+ID SCLEROSIS LESION SEGMENTATION; CONVOLUTIONAL ENCODER NETWORKS; SUPPORT
+   VECTOR REGRESSION; COMPUTER-AIDED DETECTION; NEURAL-NETWORK; SPEECH
+   RECOGNITION; FEATURE REPRESENTATION; SCREENING MAMMOGRAPHY; IMAGES;
+   CLASSIFICATION
+ER
+
+PT J
+DE Image denoising; convolutional neural networks; residual learning; batch
+   normalization
+ID SPARSE; RESTORATION
+ER
+
+PT J
+DE deep learning; machine learning; molecular modeling; quantitative
+   structure activity relationship; quantum chemistry; materials genome;
+   toxicology; protein structure prediction; cheminformatics; artificial
+   intelligence
+ID PROTEIN-STRUCTURE PREDICTION; RESIDUE-RESIDUE CONTACTS; SECONDARY
+   STRUCTURE PREDICTION; DATABASE SEARCH PROGRAMS; SUPPORT VECTOR MACHINES;
+   ACCESSIBLE SURFACE-AREA; DRUG-LIKE MOLECULES; NEURAL-NETWORKS; MEDIATED
+   METABOLISM; PHYSICAL-PROPERTIES
+ER
+
+PT J
+ID RECOGNITION; MACHINES
+ER
+
+PT J
+DE Traffic Flows; Deep Learning; Trend filtering; Sparse linear models
+ID TRAVEL-TIME PREDICTION; NEURAL-NETWORK; SERIES MODELS; SPACE;
+   ALGORITHMS; DROPOUT; MEMORY; LASSO
+ER
+
+PT J
+DE Building cooling load; Building energy prediction; Deep learning; Data
+   mining; Big data
+ID ARTIFICIAL NEURAL-NETWORKS; ENERGY-CONSUMPTION; BOX MODEL; SYSTEM;
+   OPTIMIZATION; COMBINATION; SIMULATION; DIAGNOSIS; STRATEGY
+ER
+
+PT J
+DE Deep learning; hyperspectral image (HSI) classification; limited
+   samples; rolling guidance filter (RGF) and vertex component analysis
+   network (R-VCANet)
+ID SPECTRAL-SPATIAL CLASSIFICATION; FEATURE-EXTRACTION; PROFILES; NETWORKS
+ER
+
+PT J
+DE Image sharing; privacy setting recommendation; object-privacy alignment;
+   image privacy protection; privacysensitive object classes; deep
+   multi-task learning; tree classifier for hierarchical object detection
+ER
+
+PT J
+DE Autoencoder; Convolutional neural network; Deep learning; Deep belief
+   network; Restricted Boltzmann machine
+ID NONLINEAR STOCHASTIC-SYSTEMS; SPEECH RECOGNITION; CONTRASTIVE
+   DIVERGENCE; DENOISING AUTOENCODERS; MISSING MEASUREMENTS; BOLTZMANN
+   MACHINES; STATE ESTIMATION; ACOUSTIC MODELS; CLASSIFICATION; ALGORITHM
+ER
+
+PT J
+DE Deep convolutional neural network (DCNN); deep learning; high-resolution
+   remote sensing imagery; land-cover classification; transfer learning
+   (TL)
+ID SCENE CLASSIFICATION; RECOGNITION
+ER
+
+PT J
+DE Large-scale visual recognition; hierarchical deep multi-task learning
+   (HD-MTL); group-specific deep representations; incremental deep
+   learning; tree classifier; soft prediction
+ID IMAGE CLASSIFICATION; EFFICIENT; REPRESENTATION; CATEGORIZATION;
+   FEATURES; TREES
+ER
+
+PT J
+DE Convolution; deep learning; denoising autoencoders; unsupervised
+   learning
+ID SCENE RECOGNITION; NEURAL-NETWORKS; LEARNING DEEP; AUTOENCODERS; MODEL
+ER
+
+PT J
+ER
+
+PT J
+DE Deep learning; field-programmable gate array (FPGA); hardware
+   accelerator; neural network
+ER
+
+PT J
+DE Deep feature fusion; Feature enhancement; Fault diagnosis; Rotating
+   machinery; Locality preserving projection
+ID SUPPORT VECTOR MACHINE; MULTIPLE DATA SETS; ROLLER-BEARINGS; STATISTICAL
+   COMPARISONS; NEURAL-NETWORKS; CLASSIFICATION; CLASSIFIERS; ENTROPY;
+   OPERATOR; PACKET
+ER
+
+PT J
+DE Convolutional neural network (CNN); deep learning; feature extraction;
+   hyperspectral imagery; pattern classification
+ID SUPPORT VECTOR MACHINES; REMOTE-SENSING IMAGES;
+   COLLABORATIVE-REPRESENTATION; SCENE CLASSIFICATION; TARGET DETECTION;
+   SUBSPACE
+ER
+
+PT J
+ID EXACT EXCHANGE; DENSITY; APPROXIMATIONS; CHEMISTRY; SPACE
+ER
+
+PT S
+DE Big Data; Deep learning; Deep Learning Challenges; Machine Learning;
+   Deep Learning Methods; Big Data Challenges
+ID CHALLENGES; OPPORTUNITIES; INTELLIGENCE; STRATEGY; CLOUD
+ER
+
+PT B
+ER
+
+PT B
+DE remote sensing; deep learning; image classification
+ID SPECTRAL-SPATIAL CLASSIFICATION; AUTOENCODER
+ER
+
+PT S
+DE Fuzzy system; Black-box modeling; Deep learning
+ID NEURAL-NETWORKS; IDENTIFICATION; ALGORITHMS; SYSTEM
+ER
+
+PT S
+DE Deep Learning; Active Shape Model; Facial emotion recognition; Neural
+   network; Expression classification and Recognition
+ID EXPRESSION ANALYSIS
+ER
+
+PT S
+DE Machine learning; Deep learning; Deep neural network; Convolutional
+   neural network; Recurrent neural network
+ID NEURAL-NETWORKS; IMAGES; CLASSIFICATION; PROTEINS; BRAIN; MODEL
+ER
+
+PT B
+DE object detection; deep learning; framework design; model analysis;
+   performance analysis
+ID GENERALIZED HOUGH TRANSFORM; SEMANTIC SEGMENTATION; NEURAL-NETWORKS; CNN
+ER
+
+PT S
+DE deep learning; greedy learning; transform learning
+ID SPARSE REPRESENTATION; K-SVD; DICTIONARIES; RECOGNITION; ALGORITHM
+ER
+
+PT S
+DE Saliency detection; Deep learning; Hand-crafted features
+ID REGION DETECTION; ATTENTION
+ER
+
+PT B
+DE Deep learning; Super-resolution; Satellite Images; Remote Sensing; Deep
+   Network Cascade; Sparse Coding Network
+ID DICTIONARY; ALGORITHM
+ER
+
+PT S
+DE autonomous cars; Q learning; deep reinforcement learning; traffic jam;
+   computer simulation
+ER
+
+PT B
+DE Edge detection; Metric learning; Deep learning; Multi-scale
+ER
+
+PT B
+DE Deep learning; mobile traffic forecasting; multitask learning; big data
+ID PREDICTION
+ER
+
+PT S
+DE deep learning; feature learning; feature fusion; convolutional neural
+   network; deep stacked neural network
+ER
+
+PT S
+DE deep learning; computer vision; developments; applications; trends;
+   challenges
+ER
+
+PT B
+ER
+
+PT S
+DE dictionary learning; deep learning; AD classification
+ER
+
+PT S
+DE Deep Learning; deep reinforcement learning (DRL); adaptive dynamic
+   programming (ADP); experience replay; computational intelligence; Markov
+   decision process
+ID TIME NONLINEAR-SYSTEMS; EXPERIENCE REPLAY; NEURAL-NETWORK; GAME
+ER
+
+PT B
+DE Deep Learning; Embedded System; GPU; GoogLeNet; Caffe; TensorRT
+ER
+
+PT B
+DE Machine learning; Deep learning etc.
+ER
+
+PT S
+DE Machine learning; deep learning; shared memory; distributed machine
+   learning
+ER
+
+PT B
+DE Deep Learning; Recommender Systems
+ER
+
+PT B
+DE recommender systems; deep learning; gradient based learning algorithms;
+   ADAM; Keras
+ER
+
+PT B
+DE Dictionary Learning; Deep Learning; Unsupervised Learning
+ID ALGORITHM
+ER
+
+PT S
+DE Deep learning; Recommendation; Neural network
+ID SYSTEMS
+ER
+
+PT S
+ER
+
+PT S
+DE Social network analysis; machine learning; deep learning; parallel
+   computing
+ER
+
+PT S
+DE SpMV; sparse matrix storage format; deep learning
+ER
+
+PT J
+DE Machine learning; machine intelligence; artificial neural network; deep
+   learning; deep belief system; network traffic control; routing
+ID WIRELESS SENSOR NETWORKS; RESTRICTED BOLTZMANN MACHINE; SUPPORT VECTOR
+   MACHINE; SELF-ORGANIZING MAPS; NEURAL-NETWORKS; SPARSE REPRESENTATION;
+   SPEECH RECOGNITION; ROUTING ALGORITHM; OUTLIER DETECTION; LANGUAGE MODEL
+ER
+
+PT J
+DE Deep dreaming; deep learning; collage
+ER
+
+PT S
+DE medical image analysis; deep learning; unsupervised feature learning
+ID CONVOLUTIONAL NEURAL-NETWORKS; MR BRAIN IMAGES; AUTOMATIC SEGMENTATION;
+   DEFORMABLE REGISTRATION; TUMOR SEGMENTATION; NEONATAL BRAIN; LEVEL SETS;
+   CLASSIFICATION; CT; ALGORITHMS
+ER
+
+PT B
+ER
+
+PT S
+DE Deep learning; Supervised and unsupervised algorithm; Semi-supervised
+   and self-taught algorithm; Gene expression data
+ER
+
+PT J
+DE Learning approaches; motivation; time spent; performance
+ID ACHIEVEMENT-MOTIVATION; HIGHER-EDUCATION; STUDENTS; QUALITY;
+   PERCEPTIONS; CONTEXT; WEB
+ER
+
+PT J
+DE Bioinformatics; deep learning; health informatics; machine learning;
+   medical imaging; public health; wearable devices
+ID CONVOLUTIONAL NEURAL-NETWORKS; BIG DATA; RECOGNITION; ARCHITECTURE;
+   SEGMENTATION; MODEL; BIOINFORMATICS; CLASSIFICATION; DIAGNOSIS;
+   FRAMEWORK
+ER
+
+PT J
+DE Channel state information (CSI); deep learning; fingerprinting; indoor
+   localization; WiFi
+ID NETWORKS; SYSTEMS
+ER
+
+PT J
+DE Multi-feature learning; Hyperspectral image classification; Deep
+   learning; Remote sensing
+ID MORPHOLOGICAL PROFILES; FEATURE-EXTRACTION; FOREST
+ER
+
+PT J
+DE Autoencoder; deep learning; single image super-resolution (SR)
+ID SPARSE REPRESENTATION; SUPER RESOLUTION; DICTIONARY; RECONSTRUCTION;
+   REGRESSION; FRAMEWORK; OPERATOR; COLOR
+ER
+
+PT B
+DE Deep Reinforcement Learning; TensorFlow; Deep Q-Networks; Deep
+   Q-Learning; Artificial Generalized Intelligence
+ER
+
+PT B
+ER
+
+PT B
+DE Deep learning; Distributed Environment; Image Processing
+ER
+
+PT J
+DE Coreference resolution; Guide mention pair; Multi-pass sieve; Mention
+   pair; Deep learning
+ER
+
+PT J
+DE Multimedia; deep learning; distributed training
+ER
+
+PT J
+ID NEURAL-NETWORKS; DEEP; STATISTICS
+ER
+
+PT J
+DE Deep learning; Nonlinear system modeling; Randomized algorithms
+ID NEURAL-NETWORKS; PARAMETERS; WEIGHTS
+ER
+
+PT J
+DE crop diseases; machine learning; deep learning; digital epidemiology
+ID GLOBAL FOOD SECURITY; FEATURES; THREAT
+ER
+
+PT J
+DE Deep auto-encoders (DAE); feature learning; hyperspectral image (HSI);
+   supervised classification
+ID SUPPORT VECTOR MACHINES; ATTRIBUTE PROFILES; FEATURE-EXTRACTION;
+   MORPHOLOGICAL PROFILES; FRAMEWORK; KERNEL; REPRESENTATION; SVM;
+   ALGORITHMS; SELECTION
+ER
+
+PT J
+DE deep learning; developmental learning; deep representation; levels of
+   abstraction
+ID NEURAL-NETWORKS; VISUAL-CORTEX; RECOGNITION; INFANCY
+ER
+
+PT J
+DE Balanced local discriminant embedding (BLDE); convolutional neural
+   network (CNN); deep learning (DL); dimension reduction (DR); feature
+   extraction
+ID CONVOLUTIONAL NEURAL-NETWORKS; REPRESENTATIONS; MULTISCALE; PROFILES
+ER
+
+PT J
+DE cellular imaging; computational biology; deep learning; machine
+   learning; regulatory genomics
+ID GENE-EXPRESSION VARIATION; NEURAL-NETWORKS; RNA; PERCEPTRON; PREDICTION;
+   ALGORITHM; DNA
+ER
+
+PT J
+DE deep learning DNN; predictor; drug repurposing drug discovery; confusion
+   matrix; deep neural networks
+ID SIGNALING PATHWAY ACTIVATION; GENE-EXPRESSION; NEURAL-NETWORKS;
+   CLASSIFICATION; MOLECULES; TARGETS
+ER
+
+PT J
+DE Cosaliency detection; deep learning; prior transfer; stacked denoising
+   autoencoder (SDAE)
+ID SALIENT OBJECT DETECTION; REMOTE-SENSING IMAGES; REGION DETECTION;
+   REPRESENTATIONS; AUTOENCODERS; SEGMENTATION; EFFICIENT
+ER
+
+PT J
+DE deep learning; deep neural networks; RBM; genomics; transcriptomics;
+   artificial intelligence; biomarker development
+ID NEURAL-NETWORKS; EXPRESSION; FEATURES; CANCER; PREDICTION; BIOMARKERS;
+   PROTEINS; GENOMICS
+ER
+
+PT J
+DE Person re-identification; deep convolutional neural network; learning to
+   rank
+ID CAMERA NETWORKS; DIMENSIONALITY REDUCTION; VERIFICATION
+ER
+
+PT J
+DE Face Alignment; face landmark detection; deep learning; convolutional
+   network
+ID RECOGNITION; REGRESSION; MODELS; WILD
+ER
+
+PT J
+DE Deep learning; Computer vision; Developments; Applications; Trends;
+   Challenges
+ID NEURAL-NETWORKS; REPRESENTATIONS
+ER
+
+PT J
+DE Deep learning (DL); deep neural network (DNN); extreme learning machine
+   (ELM); multilayer perceptron (MLP); random feature mapping
+ID FEEDFORWARD NETWORKS; HIDDEN NODES; RECOGNITION; ALGORITHM;
+   REPRESENTATION
+ER
+
+PT J
+DE Super-resolution; deep convolutional neural networks; sparse coding
+ID QUALITY ASSESSMENT; STRUCTURAL SIMILARITY; SPARSE REPRESENTATION
+ER
+
+PT S
+ID LEARNING ALGORITHM
+ER
+
+PT S
+DE Mode recognition; Road vehicle detection; Deep neural network;
+   Classification
+ID CLASSIFIERS
+ER
+
+PT B
+DE SARSA learning; Q learning; experience replay; deep reinforcement
+   learning; deep learning
+ER
+
+PT J
+DE Deep learning; dictionary learning; feature representation
+ID KERNEL SPARSE REPRESENTATION; FACE RECOGNITION; K-SVD; IMAGE
+   CLASSIFICATION; RANDOM PROJECTIONS; ALGORITHM
+ER
+
+PT J
+DE Tomographic imaging; medical imaging; data acquisition; image
+   reconstruction; image analysis; big data; machine learning; deep
+   learning
+ID TOMOGRAPHIC RECONSTRUCTION; COMPUTED-TOMOGRAPHY; CT; ALGORITHM; NETWORKS
+ER
+
+PT S
+DE Deep Learning; Deep Neural Network (DNN); Deep Belief Network (DBN);
+   Convolution Neural Network (CNN)
+ER
+
+PT S
+DE deep learning; fault diagnosis; fault prognostic; deep belief network
+ID RESTRICTED BOLTZMANN MACHINES; NEURAL-NETWORKS; BELIEF NETWORKS;
+   ROTATING MACHINERY; FAILURE DIAGNOSIS; CLASSIFICATION; MODEL
+ER
+
+PT J
+DE Deep learning; Deep belief networks; feature learning; unsupervised
+   learning; Boltzmann Machine; neural nets
+ID NEURAL-NETWORKS; ALGORITHM
+ER
+
+PT B
+DE Deep learning; object recognition; object tracking
+ER
+
+PT B
+DE Deep Neural Networks; Deep Learning; Restricted Boltzmann Machine; Data
+   Visualization; Machine Learning; Cross-entropy
+ER
+
+PT B
+DE deep learning; machine learning; neural network
+ID BELIEF NETWORK; RECOGNITION
+ER
+
+PT S
+DE Deep learning; analog circuits; fault diagnosis; neural network
+ID NETWORKS
+ER
+
+PT S
+DE Undergraduate; Deep learning; Network-based learning; Learning strategy
+ER
+
+PT S
+DE Knmiledge Management; Deep Learning; Wise Learning
+ER
+
+PT S
+DE information commons; deep learning; model
+ER
+
+PT S
+DE Image Recognition; Deep Learning
+ER
+
+PT S
+DE Reinforcement Learning; Deep Learning; Deep Reinforcement Learning;
+   Policy control; Prioritized sampling
+ER
+
+PT S
+DE Deep learning; Dictionary learning; Classification
+ER
+
+PT B
+DE Deep architectures; Deep belief networks; Machine learning; non-convex
+   optimization; Silent Sound Technology(SST); stacked auto-encoders;
+   unsupervised pre-training
+ER
+
+PT B
+DE Deep learning; object recognition; object tracking
+ID NEURAL-NETWORKS
+ER
+
+PT J
+DE bioinformatics; cheminformatics; drug design; machine-learning; neural
+   network; virtual screening
+ID ARTIFICIAL NEURAL-NETWORKS; ACTIVITY-RELATIONSHIP MODELS; SUPPORT VECTOR
+   MACHINE; BIG DATA; APPLICABILITY DOMAIN; STRUCTURE PREDICTION; MEDICINAL
+   CHEMISTRY; SECONDARY STRUCTURE; OBJECT RECOGNITION; PROTEIN-STRUCTURE
+ER
+
+PT J
+DE Convolutional neural network; deep learning; human activity
+   classification; human detection; micro-Doppler
+ID RADAR
+ER
+
+PT J
+DE Convolutional neural networks (CNNs); deep learning (DL); feature
+   extraction; land-use classification; pretrained network; remote sensing
+   (RS)
+ID SCENE CLASSIFICATION
+ER
+
+PT B
+DE Deep Learning; Dictionary Learning; Classification
+ER
+
+PT J
+DE Deep learning; image change detection; neural network; synthetic
+   aperture radar (SAR)
+ID MULTITEMPORAL SAR IMAGES; UNSUPERVISED CHANGE DETECTION; RECOGNITION;
+   ALGORITHM; MODEL; NETS
+ER
+
+PT J
+DE Human pose recovery; deep learning; multi-modal learning; hypergraph;
+   back propagation
+ID 3D HUMAN POSE; SHAPE CONTEXTS; RECOGNITION; TRACKING; POINTS; IMAGES;
+   PARTS
+ER
+
+PT J
+DE Deep learning; Support vector classification; Multimodal homologous
+   feature; Gearbox; Fault diagnosis
+ID ROLLING ELEMENT BEARING; BOLTZMANN MACHINES; NEURAL-NETWORKS; VIBRATION
+   SIGNALS; BELIEF NETWORKS; DEMODULATION; TRANSFORM; ENGINES; ENERGY;
+   MODEL
+ER
+
+PT J
+DE Rote memorisation; learning with understanding; academic performance;
+   gender; graduates' employability
+ER
+
+PT J
+DE dictionary learning; deep learning; hyperspectral image denoising;
+   fine-tuning
+ER
+
+PT J
+DE Deep belief network (DBN); deep learning; feature extraction (FE);
+   hyperspectral data classification; logistic regression (LR); restricted
+   Boltzmann machine (RBM); support vector machine (SVM)
+ID SUPPORT VECTOR MACHINES; REMOTE-SENSING IMAGES; DIMENSIONALITY
+   REDUCTION; UNIVERSAL APPROXIMATORS; MORPHOLOGICAL PROFILES; SPARSE
+   REPRESENTATION; FEATURE-SELECTION; ALGORITHM; RECOGNITION; URBAN
+ER
+
+PT J
+DE Deep learning; image quality assessment (IQA); natural scene statistics
+   (NSS); no reference
+ID NATURAL SCENE STATISTICS; NEURAL-NETWORK; DOMAIN; REPRESENTATION;
+   INFORMATION; FRAMEWORK
+ER
+
+PT J
+ID NEURAL-NETWORKS; RECOGNITION; ALGORITHM; MODELS; IMAGES; CORTEX; NETS
+ER
+
+PT J
+DE Robotic grasping; deep learning; RGB-D multi-modal data; Baxter; PR2; 3D
+   feature learning
+ID OBJECTS
+ER
+
+PT J
+DE Deep learning; stacked autoencoders (SAEs); traffic flow prediction
+ID NEURAL-NETWORK APPROACH; MODELS; MULTIVARIATE; VOLUME; REGRESSION;
+   ALGORITHM
+ER
+
+PT B
+DE facet learning; deep convolutional neural network
+ER
+
+PT B
+DE Text recognition; feature learning; deep learning; deep architectures;
+   stretching
+ID SUPPORT VECTOR MACHINES; DIMENSIONALITY REDUCTION; NEURAL-NETWORKS
+ER
+
+PT S
+ER
+
+PT B
+DE Deep learning; Artificial intelligence; Convolutional Neural Network;
+   Deep Belief Network; Handwritten Character recognition
+ER
+
+PT B
+DE Architecture hyperparameter search; convolutional neural network; deep
+   learning; artificial neural network; machine learning
+ER
+
+PT B
+DE deep learning; convolutional neural network; Hadoop; FPGA; map-reduce
+ER
+
+PT B
+ER
+
+PT B
+DE deep learning; object tracking; convolutional deep belief network
+ID NETWORKS; IMAGES; OBJECT
+ER
+
+PT B
+DE Deep learning; Deep Belief Network; classify Introduction
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+DE Deep learning; Feature learning; Bioacoustics; Segmentation
+ER
+
+PT S
+ID KNOWLEDGE TRANSFER; NETS
+ER
+
+PT S
+DE deep learning; deep belief networks; deep Boltzmann machines; graphical
+   models
+ID NEURAL-NETWORKS; BOLTZMANN MACHINES; RECOGNITION
+ER
+
+PT J
+DE Machine learning; neural nets; protein structure prediction; deep
+   learning
+ID SUPPORT VECTOR MACHINES; NEURAL-NETWORKS; FOLD RECOGNITION; SERVER;
+   SEQUENCE; PROFILES; GENERATION; ACCURACY; DISORDER; CONTACTS
+ER
+
+PT J
+DE Deep learning; Supervised learning; Unsupervised learning; Reinforcement
+   learning; Evolutionary computation
+ID SHORT-TERM-MEMORY; PRINCIPAL COMPONENT ANALYSIS; INFERIOR TEMPORAL
+   CORTEX; HIGH-DIMENSIONAL DATA; SLOW FEATURE ANALYSIS; RESTRICTED
+   BOLTZMANN MACHINES; GENERALIZED CROSS-VALIDATION; NONLINEAR
+   DYNAMICAL-SYSTEMS; TRAINED RECURRENT NETWORKS; CONTACT MAP PREDICTION
+ER
+
+PT J
+DE Deep learning; multitask learning (MTL); task grouping; traffic flow
+   prediction
+ID INTELLIGENT TRANSPORTATION SYSTEMS; NEURAL-NETWORKS
+ER
+
+PT J
+DE Autoencoder (AE); deep learning; feature extraction; hyperspectral data
+   classification; logistic regression; stacked autoencoder (SAE); support
+   vector machine (SVM)
+ID SUPPORT VECTOR MACHINES; REMOTE-SENSING IMAGES; DIMENSIONALITY
+   REDUCTION; UNIVERSAL APPROXIMATORS; SPATIAL CLASSIFICATION;
+   FEATURE-SELECTION; BELIEF NETWORKS; REPRESENTATION; ALGORITHM
+ER
+
+PT J
+DE Time-series; Unsupervised feature learning; Deep learning
+ID DELAY NEURAL-NETWORKS; ELECTRONIC NOSE SYSTEM; BOLTZMANN MACHINES;
+   PREDICTION; CLASSIFICATION; IDENTIFICATION; RECOGNITION; OLFACTION;
+   QUALITY; SPEECH
+ER
+
+PT S
+DE gender recognition; convolutional restricted Boltzmann machine;
+   electro-optical; deep learning; unsupervised feature learning; MNIST;
+   SWAG
+ER
+
+PT B
+DE Deep learning; learning algorithm; machine learning
+ER
+
+PT J
+DE Classifier design and evaluation; feature representation; machine
+   learning; neural nets models; parallel processing
+ER
+
+PT S
+DE deep learning; EEG; convolutional deep belief networks; feature learning
+ID CLASSIFICATION
+ER
+
+PT J
+DE Deep learning; representation learning; feature learning; unsupervised
+   learning; Boltzmann machine; autoencoder; neural nets
+ID NONLINEAR DIMENSIONALITY REDUCTION; ORGANIZING NEURAL NETWORK; COMPLEX
+   CELL PROPERTIES; SLOW FEATURE ANALYSIS; OBJECT RECOGNITION; COMPONENT
+   ANALYSIS; DENOISING AUTOENCODERS; NATURAL IMAGES; CORTEX; DECOMPOSITION
+ER
+
+PT J
+ID NETWORKS
+ER
+
+PT J
+DE deep learning; unsupervised feature learning; deep belief networks;
+   autoencoders; denoising
+ID NEURAL-NETWORKS; CONTRASTIVE DIVERGENCE; NOISE; EQUIVALENT
+ER
+
+PT J
+ID NEURAL-NETWORK MODEL; OBJECT RECOGNITION; VISUAL-CORTEX; FACE DETECTION;
+   NEOCOGNITRON; ARCHITECTURE
+ER
+
+PT J
+DE deep architectures; unsupervised pre-training; deep belief networks;
+   stacked denoising auto-encoders; non-convex optimization
+ID NEURAL-NETWORKS; CONTRASTIVE DIVERGENCE; DIMENSIONALITY
+ER
+
+PT S
+DE Discriminative Deep Belief Networks (DDBN); semi-supervised learning;
+   image classification; deep learning
+ID ALGORITHM; EM
+ER
+
+PT J
+DE Approaches to learning; Student-centred learning environment; Higher
+   education
+ID ACADEMIC-ACHIEVEMENT; COURSE EXPERIENCE; MEDICAL-STUDENTS;
+   HIGHER-EDUCATION; ASSESSMENT PREFERENCES; PROCESS QUESTIONNAIRE;
+   CULTURAL SPECIFICITY; SELF-EFFICACY; HONG-KONG; PERCEPTIONS
+ER
+
+PT B
+DE project-based learning; deep approach; SPQ
+ER
+
+EF

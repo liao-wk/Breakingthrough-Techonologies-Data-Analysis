@@ -1,0 +1,457 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,human mobility,26,malaria,90
+1,malaria,25,human mobility,78
+2,epidemiology,17,epidemiology,58
+3,mobile phone data,12,big data,33
+4,big data,9,mobile phone data,30
+5,mobile phones,7,migration,28
+6,migration,7,mobile phones,25
+7,plasmodium falciparum,7,transmission,21
+8,dengue,5,plasmodium falciparum,21
+9,transmission,5,dengue,20
+10,surveillance,5,surveillance,19
+11,elimination,5,elimination,17
+12,mobility,4,mobility,15
+13,machine learning,4,ebola,14
+14,plasmodium vivax,4,network,14
+15,call detail records,4,gis,13
+16,infectious diseases,3,climate change,13
+17,mobile,3,machine learning,13
+18,vector-borne disease,3,travel,12
+19,malaria elimination,3,kenya,12
+20,technology,3,plasmodium vivax,12
+21,gis,3,mobile,11
+22,climate change,3,technology,11
+23,travel,3,infectious disease,11
+24,infectious disease,3,vector-borne disease,9
+25,ebola,3,gps,9
+26,kenya,3,call detail records,9
+27,malaria transmission,3,serology,9
+28,network,3,infectious diseases,8
+29,vaccination,2,urban,8
+30,human behavior,2,malaria elimination,8
+31,complex networks,2,malaria transmission,8
+32,data,2,amazon,8
+33,cellular networks,2,importation,8
+34,big data analysis,2,africa,8
+35,data mining,2,vaccination,7
+36,biodiversity,2,human behavior,7
+37,mapping,2,complex networks,7
+38,urban,2,mapping,7
+39,computational social science,2,population,7
+40,big data analytics,2,mobile data,7
+41,crowdsourcing,2,risk mapping,7
+42,population,2,data analysis,7
+43,mobile phone,2,epidemic model,7
+44,mobile data,2,network analysis,7
+45,gps,2,mobile populations,7
+46,risk mapping,2,imported malaria,7
+47,spatial,2,community,7
+48,data analysis,2,metapopulation,7
+49,epidemic model,2,environment,7
+50,network analysis,2,data,6
+51,mobile populations,2,cellular networks,6
+52,imported malaria,2,big data analysis,6
+53,community,2,data mining,6
+54,metapopulation,2,big data analytics,6
+55,forensic analysis,2,crowdsourcing,6
+56,environment,2,spatial,6
+57,amazon,2,forensic analysis,6
+58,importation,2,plasmodium,6
+59,africa,2,biodiversity,5
+60,serology,2,virus,5
+61,plasmodium,2,geography,5
+62,multi sensor data fusion,1,evolution,5
+63,regression analysis sensor data,1,phylogenetics,5
+64,multivariable,1,caribbean,5
+65,human-mediated spread,1,inclusive development,5
+66,invasive alien species,1,social media,5
+67,location based services,1,computational social science,5
+68,congestion,1,mobile phone,5
+69,road networks,1,adaptation,5
+70,mobile traffic analysis,1,disaster,5
+71,call detail,1,bangladesh,5
+72,filariasis,1,polio,5
+73,mosquito-borne pathogen transmission,1,activity space,5
+74,accessibility,1,contact,5
+75,environmental health,1,infection,5
+76,exposure assessment,1,movement,5
+77,population distribution,1,global health,5
+78,phone calls,1,cell phones,5
+79,census,1,digital,5
+80,remote,1,malaria epidemiology,5
+81,mobile phone datasets,1,highlands,5
+82,social networks,1,rdt,5
+83,social media data,1,pcr,5
+84,city dynamics,1,contact network,5
+85,tick-borne disease,1,infectious,5
+86,dilution effect,1,internet,5
+87,theory,1,data scraping,5
+88,mobile phone sensing,1,university,5
+89,cross-space sensing and mining,1,college,5
+90,pakistan,1,sports,5
+91,virulence,1,location based services,4
+92,kin selection,1,congestion,4
+93,parasite,1,road networks,4
+94,host movement,1,population distribution,4
+95,resistance,1,phone calls,4
+96,taxi gps data,1,census,4
+97,network properties,1,remote,4
+98,community detection,1,pakistan,4
+99,virus,1,virulence,4
+100,geography,1,kin selection,4
+101,evolution,1,parasite,4
+102,phylogenetics,1,host movement,4
+103,integrated modelling,1,resistance,4
+104,environmental sensors,1,bayesian belief networks,4
+105,population health,1,children,4
+106,caribbean,1,disease,4
+107,inclusive development,1,modelling,4
+108,social media,1,tracking technologies,4
+109,malaria eradication,1,time geography,4
+110,backwards bifurcation,1,geography's future,4
+111,research,1,risk,4
+112,plasmodium falciparum malaria,1,complex adaptive systems,4
+113,diversity,1,behavior,4
+114,dengue fever,1,digital disease,4
+115,risk assessment,1,detection,4
+116,cellphone tracking data,1,communication,4
+117,urban area,1,crowdsource,4
+118,bayesian belief networks,1,ethics,4
+119,children,1,development,4
+120,big data architecture,1,human rights,4
+121,socio-economic status,1,rubella,4
+122,adaptation,1,population mobility,4
+123,disaster,1,seasonality,4
+124,bangladesh,1,host-vector,4
+125,parasite importation,1,control,4
+126,era of big data,1,demography,4
+127,mobile phone location data,1,eradication,4
+128,disease,1,entomology,4
+129,modelling,1,anopheles darlingi,4
+130,tracking technologies,1,sporozoite rate,4
+131,time geography,1,landsat tm,4
+132,geography's future,1,jers-1 sar,4
+133,mobile crowd sensing,1,neural network,4
+134,social sensors,1,texture,4
+135,social sensing,1,settlement mapping,4
+136,crime,1,complexity,4
+137,predictive analytics,1,social indicators,4
+138,disaster risk management,1,nowcasting,4
+139,geospatial information technology,1,sustainable,4
+140,risk,1,operational planning,4
+141,complex adaptive systems,1,health policy,4
+142,behavior,1,land use change,4
+143,participatory gis,1,health,4
+144,multi-criteria decision,1,framework,4
+145,urban traffic,1,migrants,4
+146,taxi trajectory,1,cambodia,4
+147,exponential,1,artemisinin,4
+148,digital disease,1,south america,4
+149,detection,1,neotropical,4
+150,communication,1,search query,4
+151,crowdsource,1,thailand,4
+152,heterogeneous transmission,1,vector control,4
+153,schistosomiasis,1,longitudinal,4
+154,macroparasitic model,1,intervention,4
+155,ethics,1,hotspots,4
+156,development,1,heterogeneity,4
+157,human rights,1,urban water services,4
+158,mobile phone call data,1,corruption,4
+159,cholera epidemics,1,mobile money,4
+160,spatially explicit,1,tanzania,4
+161,frequency-dependent transmission,1,vaccine,4
+162,chikungunya virus,1,cluster randomized trial,4
+163,national surveillance,1,epidemic control,4
+164,public health,1,transport,4
+165,polio,1,urbanisation,4
+166,mobile communication,1,archive,4
+167,data collection,1,variability and change,4
+168,spatial epidemiology,1,model,4
+169,spatial join,1,human movement,4
+170,parallel computing,1,aedes aegypti,4
+171,spark,1,aggregation bias,4
+172,performance,1,arbovirus,4
+173,entropy,1,chikungunya,4
+174,urban geography,1,colombia,4
+175,rubella,1,health metrics,4
+176,population mobility,1,disease incidence,4
+177,seasonality,1,epidemic diffusion,4
+178,contrast sensitivity,1,spatial regression,4
+179,adaptive testing,1,taiwan,4
+180,telemonitoring,1,census data,4
+181,commuting patterns,1,dielmo/ndiop,4
+182,ecohealth calendar,1,senegal,4
+183,vector-borne diseases,1,genomic surveillance,4
+184,social-ecological system,1,molecular barcode,4
+185,predictive models,1,telehealth,4
+186,geolocalized data,1,mobile health,4
+187,software architecture,1,mhealth,4
+188,workflows,1,healthcare applications,4
+189,remote sensing,1,wearable,4
+190,early warning,1,mobile network big data,4
+191,bias,1,cdr,4
+192,social influence,1,mobile traffic analysis,3
+193,transport mode choice,1,call detail,3
+194,mobile phone data analysis,1,filariasis,3
+195,socio-economic,1,mosquito-borne pathogen transmission,3
+196,multilayer network model,1,accessibility,3
+197,spatially explicit model,1,environmental health,3
+198,ecohydrology,1,exposure assessment,3
+199,credit scoring,1,mobile phone datasets,3
+200,social network analysis,1,social networks,3
+201,profit measure,1,social media data,3
+202,infectious disease transmission,1,city dynamics,3
+203,communicable disease,1,tick-borne disease,3
+204,ontology,1,dilution effect,3
+205,spatial data,1,taxi gps data,3
+206,human activity recognition,1,network properties,3
+207,knowledge management,1,community detection,3
+208,spatial interaction,1,research,3
+209,foursquare,1,dengue fever,3
+210,complex network,1,risk assessment,3
+211,geosocial networking,1,cellphone tracking data,3
+212,infrastructure development,1,urban area,3
+213,border malaria,1,big data architecture,3
+214,international development,1,parasite importation,3
+215,governmentality,1,crime,3
+216,knowledge,1,predictive analytics,3
+217,mathematical modeling,1,participatory gis,3
+218,dynamics,1,multi-criteria decision,3
+219,pattern formation,1,urban traffic,3
+220,host-vector,1,taxi trajectory,3
+221,control,1,exponential,3
+222,demography,1,chikungunya virus,3
+223,patched model,1,national surveillance,3
+224,monotone systems,1,public health,3
+225,basic,1,mobile communication,3
+226,monsoon flooding,1,data collection,3
+227,diarrheal disease,1,spatial epidemiology,3
+228,rotavirus transmission,1,spatial join,3
+229,eradication,1,parallel computing,3
+230,urban structure,1,spark,3
+231,daily and hourly activity pattern,1,performance,3
+232,activity spaces,1,commuting patterns,3
+233,kullback-leibler (kl) divergence,1,predictive models,3
+234,global positioning,1,geolocalized data,3
+235,mobile phone metadata,1,software architecture,3
+236,data-driven development,1,workflows,3
+237,change of residence,1,remote sensing,3
+238,internal migration,1,early warning,3
+239,mobile positioning,1,bias,3
+240,digital forensics,1,socio-economic,3
+241,relative importance,1,credit scoring,3
+242,entomology,1,social network analysis,3
+243,anopheles darlingi,1,profit measure,3
+244,sporozoite rate,1,ontology,3
+245,landsat tm,1,spatial data,3
+246,jers-1 sar,1,human activity recognition,3
+247,neural network,1,knowledge management,3
+248,texture,1,spatial interaction,3
+249,settlement mapping,1,foursquare,3
+250,complexity,1,complex network,3
+251,social indicators,1,border malaria,3
+252,nowcasting,1,international development,3
+253,sustainable,1,governmentality,3
+254,"""spatial turn""",1,knowledge,3
+255,geographical health research,1,mathematical modeling,3
+256,geographic information,1,dynamics,3
+257,operational planning,1,pattern formation,3
+258,health policy,1,patched model,3
+259,activity space,1,monotone systems,3
+260,contact,1,basic,3
+261,infection,1,digital forensics,3
+262,movement,1,relative importance,3
+263,forensic investigation,1,forensic investigation,3
+264,digital forensic,1,digital forensic,3
+265,criminal,1,criminal,3
+266,land use change,1,population genetics,3
+267,health,1,epidemic modelling,3
+268,human mobility and migration,1,urban malaria,3
+269,the proportion odds,1,rurality,3
+270,population genetics,1,multiple correspondence analysis,3
+271,epidemic modelling,1,disease importation,3
+272,behavioral anomaly detection,1,travelers,3
+273,emergency events,1,socio-demographic conditions,3
+274,framework,1,time lag,3
+275,migrants,1,spatial transmission,3
+276,cambodia,1,cluster analysis,3
+277,artemisinin,1,women,3
+278,south america,1,urban spatial structure,3
+279,neotropical,1,smart card transactions,3
+280,urban malaria,1,taxi,3
+281,rurality,1,markovian model,3
+282,multiple correspondence analysis,1,epidemic spreading,3
+283,disease importation,1,malaria parasite,3
+284,travelers,1,drug resistance,3
+285,socio-demographic conditions,1,malaria control,3
+286,time lag,1,low transmission,3
+287,scaling law,1,earth observation satellites,3
+288,memory-based random walk,1,air,3
+289,spatial transmission,1,malaria surveillance,3
+290,cluster analysis,1,reactive case detection,3
+291,women,1,spatial networks,3
+292,urban spatial structure,1,epidemic spread,3
+293,smart card transactions,1,data for development,3
+294,taxi,1,ethnic interactions,3
+295,google trends,1,complex,3
+296,humanitarian assistance,1,agent-based model,3
+297,hotspots of exposure,1,diffusion process,3
+298,human population modeling,1,spreading process,3
+299,random forest regression,1,stochastic,3
+300,dasymetric mapping,1,imported cases,3
+301,search query,1,spatiotemporal analysis,3
+302,thailand,1,anopheles arabiensis,3
+303,mobility pattern prediction,1,anopheles gambiae,3
+304,location-based social,1,stochastic sir process,3
+305,vector control,1,configuration model,3
+306,longitudinal,1,multilayer network,3
+307,intervention,1,law of,3
+308,markovian model,1,asymptomatic malaria,3
+309,epidemic spreading,1,iran,3
+310,hotspots,1,falciparum,3
+311,heterogeneity,1,dihydroartemisinin-piperaquine,3
+312,malaria risk,1,zambia,3
+313,residual transmission,1,mobile crowdsensing,3
+314,household environmental resources,1,path planning,3
+315,malaria parasite,1,mechanism design,3
+316,drug resistance,1,truthfulness,3
+317,malaria control,1,parasite genomics,3
+318,low transmission,1,spatial modeling,3
+319,urban water services,1,epidemic propagation,3
+320,corruption,1,network inference,3
+321,mobile money,1,intracity,3
+322,tanzania,1,motifs,3
+323,earth observation satellites,1,shanghai,3
+324,air,1,lusaka district,3
+325,trajectory privacy,1,malaria importation,3
+326,aggregated mobility data,1,factors,3
+327,statistic data privacy,1,disease transmission,3
+328,spatial interpolation,1,digital networks,3
+329,collective mobility patterns,1,sub-microscopic,3
+330,geotagged tweets,1,active surveillance,3
+331,malaria surveillance,1,passive surveillance,3
+332,reactive case detection,1,multi sensor data fusion,2
+333,origin-destination flow,1,regression analysis sensor data,2
+334,spatial local statistics,1,multivariable,2
+335,spatial scan,1,human-mediated spread,2
+336,spatial networks,1,invasive alien species,2
+337,epidemic spread,1,theory,2
+338,vaccine,1,mobile phone sensing,2
+339,cluster randomized trial,1,cross-space sensing and mining,2
+340,epidemic control,1,integrated modelling,2
+341,transport,1,environmental sensors,2
+342,urbanisation,1,population health,2
+343,archive,1,malaria eradication,2
+344,variability and change,1,backwards bifurcation,2
+345,model,1,plasmodium falciparum malaria,2
+346,data for development,1,diversity,2
+347,ethnic interactions,1,socio-economic status,2
+348,complex,1,era of big data,2
+349,emergency service allocation,1,mobile phone location data,2
+350,natural disaster response,1,mobile crowd sensing,2
+351,human movement,1,social sensors,2
+352,global health,1,social sensing,2
+353,cell phones,1,disaster risk management,2
+354,digital,1,geospatial information technology,2
+355,aedes aegypti,1,heterogeneous transmission,2
+356,aggregation bias,1,schistosomiasis,2
+357,arbovirus,1,macroparasitic model,2
+358,chikungunya,1,mobile phone call data,2
+359,colombia,1,cholera epidemics,2
+360,agent-based model,1,spatially explicit,2
+361,diffusion process,1,frequency-dependent transmission,2
+362,spreading process,1,entropy,2
+363,stochastic,1,urban geography,2
+364,imported cases,1,contrast sensitivity,2
+365,spatiotemporal analysis,1,adaptive testing,2
+366,health metrics,1,telemonitoring,2
+367,disease incidence,1,ecohealth calendar,2
+368,malaria epidemiology,1,vector-borne diseases,2
+369,highlands,1,social-ecological system,2
+370,rdt,1,social influence,2
+371,pcr,1,transport mode choice,2
+372,social capital,1,mobile phone data analysis,2
+373,epidemic diffusion,1,multilayer network model,2
+374,spatial regression,1,spatially explicit model,2
+375,taiwan,1,ecohydrology,2
+376,census data,1,infectious disease transmission,2
+377,anopheles arabiensis,1,communicable disease,2
+378,anopheles gambiae,1,geosocial networking,2
+379,stochastic sir process,1,infrastructure development,2
+380,configuration model,1,monsoon flooding,2
+381,multilayer network,1,diarrheal disease,2
+382,law of,1,rotavirus transmission,2
+383,malaria in pregnancy,1,urban structure,2
+384,dielmo/ndiop,1,daily and hourly activity pattern,2
+385,senegal,1,activity spaces,2
+386,genomic surveillance,1,kullback-leibler (kl) divergence,2
+387,molecular barcode,1,global positioning,2
+388,asymptomatic malaria,1,mobile phone metadata,2
+389,iran,1,data-driven development,2
+390,falciparum,1,change of residence,2
+391,dihydroartemisinin-piperaquine,1,internal migration,2
+392,zambia,1,mobile positioning,2
+393,mobile phone deployment,1,"""spatial turn""",2
+394,ill children under five,1,geographical health research,2
+395,bushenyi district,1,geographic information,2
+396,complex systems modeling,1,human mobility and migration,2
+397,data-driven computational intelligence,1,the proportion odds,2
+398,mobile crowdsensing,1,behavioral anomaly detection,2
+399,path planning,1,emergency events,2
+400,mechanism design,1,scaling law,2
+401,truthfulness,1,memory-based random walk,2
+402,parasite genomics,1,google trends,2
+403,spatial modeling,1,humanitarian assistance,2
+404,public health surveillance,1,hotspots of exposure,2
+405,epidemiological monitoring,1,human population modeling,2
+406,telehealth,1,random forest regression,2
+407,mobile health,1,dasymetric mapping,2
+408,mhealth,1,mobility pattern prediction,2
+409,healthcare applications,1,location-based social,2
+410,wearable,1,malaria risk,2
+411,transmission blocking vaccine,1,residual transmission,2
+412,premonition,1,household environmental resources,2
+413,mobility management,1,trajectory privacy,2
+414,telecommunication network,1,aggregated mobility data,2
+415,intelligent,1,statistic data privacy,2
+416,epidemic propagation,1,spatial interpolation,2
+417,network inference,1,collective mobility patterns,2
+418,intracity,1,geotagged tweets,2
+419,motifs,1,origin-destination flow,2
+420,shanghai,1,spatial local statistics,2
+421,agent based modeling,1,spatial scan,2
+422,seir,1,emergency service allocation,2
+423,contact network,1,natural disaster response,2
+424,infectious,1,social capital,2
+425,mobility prediction,1,malaria in pregnancy,2
+426,behavioral pattern,1,mobile phone deployment,2
+427,tempo-spatial information,1,ill children under five,2
+428,political networks,1,bushenyi district,2
+429,ethno-linguistic fractionalization,1,public health surveillance,2
+430,ethnic politics,1,epidemiological monitoring,2
+431,lusaka district,1,transmission blocking vaccine,2
+432,malaria importation,1,premonition,2
+433,factors,1,mobility management,2
+434,health research,1,telecommunication network,2
+435,transmission-blocking vaccine (tbv),1,intelligent,2
+436,social acceptability,1,agent based modeling,2
+437,disease transmission,1,seir,2
+438,digital networks,1,mobility prediction,2
+439,sub-microscopic,1,behavioral pattern,2
+440,mobile network big data,1,tempo-spatial information,2
+441,cdr,1,political networks,2
+442,rural-urban mobility,1,ethno-linguistic fractionalization,2
+443,urban center popularity,1,ethnic politics,2
+444,active surveillance,1,health research,2
+445,passive surveillance,1,transmission-blocking vaccine (tbv),2
+446,mnbd,1,social acceptability,2
+447,dengue propagation,1,rural-urban mobility,2
+448,wireless big data,1,urban center popularity,2
+449,mobile communication networks,1,mnbd,2
+450,traffic analysis,1,dengue propagation,2
+451,internet,1,wireless big data,2
+452,data scraping,1,mobile communication networks,2
+453,university,1,traffic analysis,2
+454,college,1,complex systems modeling,1
+455,sports,1,data-driven computational intelligence,1
