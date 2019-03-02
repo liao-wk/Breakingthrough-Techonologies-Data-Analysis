@@ -1,0 +1,327 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,apple,12,apple,40
+1,willingness to pay,10,willingness to pay,31
+2,apple pay,7,apple pay,23
+3,willingness-to-pay,6,apples,21
+4,apples,6,willingness-to-pay,19
+5,consumer,4,organic,17
+6,organic,4,consumer,14
+7,choice experiment,4,choice experiment,14
+8,contingent valuation,4,information,11
+9,mobile apps,3,contingent valuation,11
+10,mobile payment,3,mobile apps,10
+11,information,3,experimental auction,10
+12,experimental auctions,3,mobile payment,9
+13,experimental auction,3,experimental auctions,9
+14,conjoint analysis,3,fruit,9
+15,social desirability,2,conjoint analysis,9
+16,internet,2,storage,8
+17,traditional,2,food safety,8
+18,functional food,2,willingness to,7
+19,willingness to,2,organic farming,7
+20,organic farming,2,sustainability,7
+21,sustainability,2,pricing,7
+22,consumers,2,bdm,7
+23,mobile app market,2,hypothetical bias,7
+24,online distribution,2,traditional,6
+25,pricing,2,functional food,6
+26,fruit,2,consumers,6
+27,fruit quality traits,2,mobile app market,6
+28,ordered probit model,2,online distribution,6
+29,rfid,2,rfid,6
+30,biological control,2,biological control,6
+31,consumer preferences,2,consumer preferences,6
+32,bdm,2,integrated,6
+33,hypothetical bias,2,leaf,6
+34,apple varieties,2,macronutrient,6
+35,storage,2,nitrogen,6
+36,food safety,2,phosphorus,6
+37,apple leaves,1,social desirability,5
+38,carbendazim,1,internet,5
+39,dissipation kinetics,1,bird management,5
+40,quechers,1,natural,5
+41,media ecology,1,local,5
+42,circular economy,1,choice,5
+43,attention economy,1,fruit quality traits,5
+44,credit card,1,ordered probit model,5
+45,blockchain,1,jonagold,5
+46,media history,1,malus x domestica,5
+47,economic history,1,ethylene,5
+48,conspicuous consumption,1,firmness,5
+49,social status,1,respiration,5
+50,communitarian ethics,1,controlled,5
+51,corporate rights,1,apple varieties,5
+52,national security,1,antioxidant activity,5
+53,privacy,1,flavonoids,5
+54,fintech,1,cultivar,5
+55,mobile payment service,1,harvest,5
+56,samsung pay,1,credit card,4
+57,strategic,1,blockchain,4
+58,evaluation,1,media history,4
+59,hypertension,1,economic history,4
+60,smartphone,1,fintech,4
+61,food choice behavior,1,mobile payment service,4
+62,hedonic,1,samsung pay,4
+63,intensity stimuli,1,strategic,4
+64,prospect theory,1,fruit attribute,4
+65,gdp,1,producer,4
+66,corruption perceptions index/cpi,1,china,4
+67,satisfaction,1,food traceability system,4
+68,bilinear pairing,1,advertising,4
+69,certificateless signature,1,greimas,4
+70,security,1,linguistic message,4
+71,ambidextrous activities,1,semiotic matrix,4
+72,user feedback,1,slogan,4
+73,genetic resources,1,logo recall,4
+74,bdm auctions,1,logo recognition,4
+75,unobserved preference heterogeneity,1,brand exposure,4
+76,organic market,1,brand perception,4
+77,chaid analyses,1,deviance,4
+78,cluster analysis,1,team performance,4
+79,customer behavior,1,negative affect,4
+80,fruit attribute,1,bad apple,4
+81,producer,1,loafing,4
+82,elicitation methods,1,security evaluation,4
+83,blind tasting,1,secure element,4
+84,jailbreak,1,credit,4
+85,demand estimation,1,croatia,4
+86,smartphones,1,credence attributes,4
+87,app demand,1,claims,4
+88,china,1,hedonic ratings,4
+89,food traceability system,1,bdm auction,4
+90,advertising,1,iphone 5s,4
+91,greimas,1,iphone 6,4
+92,linguistic message,1,iphone 6 plus,4
+93,semiotic matrix,1,fingerprint,4
+94,slogan,1,touch id,4
+95,rosaceous fruits,1,vickrey auction,4
+96,choice experiments,1,liking,4
+97,quality,1,apple variety,4
+98,near infrared spectroscopy,1,apple snail,4
+99,isomap,1,common carp,4
+100,bp neural network,1,black carp,4
+101,grnn,1,predation,4
+102,human body communication,1,app store,4
+103,electric field type nec,1,sales-rank calibration,4
+104,electric near field,1,app downloads,4
+105,flow experience,1,pareto,4
+106,unified theory of acceptance and usage of technology,1,labelling,4
+107,logo recall,1,decision making,4
+108,logo recognition,1,sensory description,4
+109,brand exposure,1,food,4
+110,brand perception,1,grocery retail,4
+111,emv,1,retailing,4
+112,nfc,1,consumer behavior,4
+113,tokenization,1,environmentalism,4
+114,low temperature,1,cultivars,4
+115,apple rootstock,1,bioactive compounds,4
+116,photosynthetic capacity,1,phenols,4
+117,root,1,dpph,4
+118,demand function,1,cheap talk,4
+119,network value,1,familiarity,4
+120,deviance,1,quality attributes,4
+121,team performance,1,consumer preference,4
+122,negative affect,1,acceptability,4
+123,bad apple,1,produce,4
+124,loafing,1,fruits,4
+125,internet of things,1,food products,4
+126,information security,1,genetic modification,4
+127,safety threats,1,costs,4
+128,software,1,customer,4
+129,eye-tracking,1,second price auction,4
+130,nutrition information,1,experimental,4
+131,selection bias,1,experimental food,4
+132,apple farmers,1,economics,4
+133,information acquisition,1,apple leaves,3
+134,digital wallets,1,carbendazim,3
+135,illusion or financial revolution,1,dissipation kinetics,3
+136,usa and,1,quechers,3
+137,mobile payment systems,1,media ecology,3
+138,biometrics-based authentication,1,circular economy,3
+139,mobile devices,1,attention economy,3
+140,farmers' markets,1,conspicuous consumption,3
+141,electronic commerce,1,social status,3
+142,food safety certification,1,communitarian ethics,3
+143,price premium,1,corporate rights,3
+144,dividend policy,1,national security,3
+145,ex-dividend date,1,privacy,3
+146,payment date,1,evaluation,3
+147,weekday,1,hypertension,3
+148,revenue model,1,smartphone,3
+149,e-commerce,1,food choice behavior,3
+150,secure transaction,1,hedonic,3
+151,fintech payment,1,intensity stimuli,3
+152,mediation,1,prospect theory,3
+153,platform,1,gdp,3
+154,security evaluation,1,corruption perceptions index/cpi,3
+155,secure element,1,satisfaction,3
+156,credit,1,bilinear pairing,3
+157,nfc payment,1,certificateless signature,3
+158,mobile payment technology,1,security,3
+159,defect,1,genetic resources,3
+160,solutions,1,bdm auctions,3
+161,croatia,1,unobserved preference heterogeneity,3
+162,credence attributes,1,organic market,3
+163,claims,1,chaid analyses,3
+164,u.s. cider industry,1,cluster analysis,3
+165,sensory evaluation,1,customer behavior,3
+166,blind taste,1,elicitation methods,3
+167,bird management,1,blind tasting,3
+168,natural,1,jailbreak,3
+169,local,1,demand estimation,3
+170,choice,1,smartphones,3
+171,high-valued apples,1,app demand,3
+172,size,1,rosaceous fruits,3
+173,soluble solids content,1,choice experiments,3
+174,hedonic ratings,1,quality,3
+175,bdm auction,1,near infrared spectroscopy,3
+176,professors' income,1,isomap,3
+177,money attitude,1,bp neural network,3
+178,love of money,1,grnn,3
+179,pay comparison,1,emv,3
+180,q130,1,nfc,3
+181,q160,1,tokenization,3
+182,rosaceous crop,1,low temperature,3
+183,visa paywave,1,apple rootstock,3
+184,mastercard paypass,1,photosynthetic capacity,3
+185,iphone 5s,1,root,3
+186,iphone 6,1,demand function,3
+187,iphone 6 plus,1,network value,3
+188,fingerprint,1,internet of things,3
+189,touch id,1,information security,3
+190,apple cost of production,1,safety threats,3
+191,breakeven points,1,software,3
+192,sensitivity analysis,1,selection bias,3
+193,vickrey auction,1,apple farmers,3
+194,liking,1,information acquisition,3
+195,apple variety,1,digital wallets,3
+196,organic food consumption,1,illusion or financial revolution,3
+197,apple snail,1,usa and,3
+198,common carp,1,farmers' markets,3
+199,black carp,1,electronic commerce,3
+200,predation,1,food safety certification,3
+201,cellular phone,1,price premium,3
+202,medical informatics applications,1,dividend policy,3
+203,social media,1,ex-dividend date,3
+204,pesticide use reduction,1,payment date,3
+205,organic production,1,weekday,3
+206,integrated pest management,1,revenue model,3
+207,willingness to pay for food labels,1,e-commerce,3
+208,scientific,1,nfc payment,3
+209,app store,1,mobile payment technology,3
+210,sales-rank calibration,1,defect,3
+211,app downloads,1,solutions,3
+212,pareto,1,u.s. cider industry,3
+213,apple breeding,1,sensory evaluation,3
+214,rosaceae,1,blind taste,3
+215,subjective risk,1,professors' income,3
+216,internal validity,1,money attitude,3
+217,pesticide residue,1,love of money,3
+218,organic food labels,1,pay comparison,3
+219,local food,1,visa paywave,3
+220,food miles,1,mastercard paypass,3
+221,new ecological paradigm,1,cellular phone,3
+222,discrete choice experiments,1,medical informatics applications,3
+223,hand-held device,1,social media,3
+224,agricultural products safety,1,apple breeding,3
+225,becker-degroot-marschak mechanism,1,rosaceae,3
+226,field,1,subjective risk,3
+227,jonagold,1,internal validity,3
+228,malus x domestica,1,pesticide residue,3
+229,ethylene,1,organic food labels,3
+230,firmness,1,local food,3
+231,respiration,1,food miles,3
+232,controlled,1,new ecological paradigm,3
+233,experimental economics,1,hand-held device,3
+234,labels,1,agricultural products safety,3
+235,value of,1,becker-degroot-marschak mechanism,3
+236,apple purchasing behaviour,1,field,3
+237,sustainable production methods,1,experimental economics,3
+238,greenhouse,1,labels,3
+239,conjoint choice experiment,1,value of,3
+240,consumer preferences albania,1,apple attributes,3
+241,labelling,1,willingness,3
+242,decision making,1,agro-biodiversity,3
+243,sensory description,1,hedonic prices,3
+244,food,1,landraces,3
+245,grocery retail,1,fruit firmness,3
+246,apple attributes,1,malus domestica borkh.,3
+247,willingness,1,return bloom,3
+248,environmental protection,1,seed number,3
+249,fruit resistant genotypes,1,cognitive consistency,3
+250,retailing,1,instrument,3
+251,consumer behavior,1,organic apples,3
+252,environmentalism,1,product attributes,3
+253,cultivars,1,cherry,3
+254,bioactive compounds,1,flower induction,3
+255,phenols,1,histological transformation,3
+256,dpph,1,farming prices,3
+257,cheap talk,1,olericulture,3
+258,familiarity,1,fruticulture,3
+259,marketing,1,temporal series,3
+260,quality evaluation,1,marker,3
+261,agro-biodiversity,1,genetic map,3
+262,hedonic prices,1,qtl,3
+263,landraces,1,mycotoxins,3
+264,fruit firmness,1,patulin,3
+265,malus domestica borkh.,1,apple juice,3
+266,return bloom,1,hplc,3
+267,seed number,1,certifications,3
+268,cognitive consistency,1,fresh fruits,3
+269,instrument,1,fruit consumption,3
+270,organic apples,1,gm,3
+271,product attributes,1,locally grown,3
+272,floral genes,1,willingness-to-accept,3
+273,juvenile phase,1,flavanols,3
+274,cherry,1,chlorogenic acid,3
+275,flower induction,1,polyphenol oxidase,3
+276,histological transformation,1,ambidextrous activities,2
+277,farming prices,1,user feedback,2
+278,olericulture,1,human body communication,2
+279,fruticulture,1,electric field type nec,2
+280,temporal series,1,electric near field,2
+281,marker,1,eye-tracking,2
+282,genetic map,1,nutrition information,2
+283,qtl,1,mobile payment systems,2
+284,mycotoxins,1,biometrics-based authentication,2
+285,patulin,1,mobile devices,2
+286,apple juice,1,secure transaction,2
+287,hplc,1,fintech payment,2
+288,integrated,1,mediation,2
+289,leaf,1,platform,2
+290,macronutrient,1,high-valued apples,2
+291,nitrogen,1,size,2
+292,phosphorus,1,soluble solids content,2
+293,certifications,1,rosaceous crop,2
+294,fresh fruits,1,apple cost of production,2
+295,fruit consumption,1,breakeven points,2
+296,breeding,1,sensitivity analysis,2
+297,gm,1,organic food consumption,2
+298,locally grown,1,pesticide use reduction,2
+299,sooty blotch and flyspeck,1,organic production,2
+300,consumer willingness to buy,1,integrated pest management,2
+301,fruit quality,1,willingness to pay for food labels,2
+302,quality attributes,1,scientific,2
+303,consumer preference,1,discrete choice experiments,2
+304,acceptability,1,apple purchasing behaviour,2
+305,produce,1,sustainable production methods,2
+306,willingness-to-accept,1,greenhouse,2
+307,fruits,1,conjoint choice experiment,2
+308,food products,1,consumer preferences albania,2
+309,genetic modification,1,marketing,2
+310,costs,1,quality evaluation,2
+311,customer,1,floral genes,2
+312,second price auction,1,juvenile phase,2
+313,experimental,1,sooty blotch and flyspeck,2
+314,apple characteristics,1,consumer willingness to buy,2
+315,wholesalers' preference,1,fruit quality,2
+316,hedonic price function,1,apple characteristics,2
+317,experimental food,1,wholesalers' preference,2
+318,economics,1,hedonic price function,2
+319,antioxidant activity,1,flow experience,1
+320,flavonoids,1,unified theory of acceptance and usage of technology,1
+321,cultivar,1,q130,1
+322,harvest,1,q160,1
+323,flavanols,1,environmental protection,1
+324,chlorogenic acid,1,fruit resistant genotypes,1
+325,polyphenol oxidase,1,breeding,1

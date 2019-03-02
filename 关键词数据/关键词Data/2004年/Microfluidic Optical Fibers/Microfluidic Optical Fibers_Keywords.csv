@@ -1,0 +1,321 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,microfluidic,20,microfluidics,64
+1,microfluidics,19,microfluidic,58
+2,optical fiber,10,optical fiber,33
+3,microfluidic chip,9,microfluidic chip,27
+4,optofluidics,7,optofluidics,21
+5,biosensor,6,pdms,21
+6,photonic crystal fiber,5,biosensor,16
+7,surface plasmon resonance,5,optical,15
+8,optical,5,lab-on-a-chip,14
+9,pdms,5,sensor,13
+10,refractive index,4,optical fibre,13
+11,sensor,4,photonic crystal fiber,11
+12,optical fiber sensor,4,surface plasmon resonance,11
+13,lab-on-a-chip,4,refractive index,10
+14,fiber,3,microfluidic device,10
+15,microfluidic device,3,integrated optics,10
+16,optical trapping,3,fiber optics,10
+17,integrated optics,3,fabrication,10
+18,optical fibre,3,optical fiber sensor,9
+19,fiber optics,3,optical trapping,9
+20,optical tweezers,3,optical tweezers,9
+21,fabrication,3,microfluidic devices,9
+22,hollow optical fiber,2,on-line,9
+23,whispering gallery mode,2,fiber,8
+24,in-fiber integrated,2,mems,8
+25,optical waveguide,2,fiber sensor,8
+26,fiber optics sensors,2,lactate,8
+27,microresonator,2,gratings,8
+28,femtosecond laser,2,polymer,7
+29,mems,2,sers,7
+30,fiber sensor,2,dielectrophoresis,7
+31,whispering gallery modes,2,laser micromachining,7
+32,single cell analysis,2,in-fiber integrated,6
+33,microstructured fiber,2,optical waveguide,6
+34,evaporation of acetone,2,femtosecond laser,6
+35,polymer,2,optical fibers,6
+36,optical fibers,2,biophotonics,6
+37,optical fiber sensors,2,flat fibre,6
+38,sers,2,optical fibres,6
+39,biophotonics,2,fiber optic trap,6
+40,flat fibre,2,optical micromanipulation,6
+41,femtosecond laser inscription,2,optical manipulation,6
+42,optical fibres,2,transfusion,6
+43,fiber optic trap,2,poly(dimethylsiloxane) pdms,6
+44,optical micromanipulation,2,detector,6
+45,pdms microcantilever,2,droplet microfluidics,6
+46,optical manipulation,2,polymeric micromachining,6
+47,dielectrophoresis,2,lab on chip,6
+48,fiber-optic localized plasma resonance,2,hollow optical fiber,5
+49,transfusion,2,coagulation,5
+50,microfluidic devices,2,optical read out,5
+51,on-line,2,aptt,5
+52,lactate,2,single cell analysis,5
+53,laser micromachining,2,femtosecond laser inscription,5
+54,poly(dimethylsiloxane) pdms,2,pdms microcantilever,5
+55,detector,2,whispering gallery mode,4
+56,droplet microfluidics,2,fiber optics sensors,4
+57,polymeric micromachining,2,microresonator,4
+58,lab on chip,2,whispering gallery modes,4
+59,fluorescence,2,microstructured fiber,4
+60,gratings,2,evaporation of acetone,4
+61,optofluidic laser,1,raman spectroscopy,4
+62,fabry-perot etalon,1,optics,4
+63,optical biosensors,1,osteoblast cells,4
+64,aligned fibers,1,drug screening,4
+65,microfluidic spinning,1,scaffold,4
+66,in suit microreactor,1,tissue,4
+67,fluorescent,1,optical fiber sensors,4
+68,digital microfluidics,1,fiber optic,4
+69,electrowetting-on-a-dielectric,1,light induced,4
+70,on-chip sensing,1,nano-particle,4
+71,hollow core micro-fiber,1,thermofluidic,4
+72,microfluidic channel,1,fea,4
+73,3d-printed,1,mode analysis,4
+74,additive manufacturing,1,pdms chip,4
+75,particle analysis,1,liquid waveguides,4
+76,microfluidic sensor,1,ray tracing,4
+77,helical structure,1,bioluminescence detection,4
+78,refractive index measurement,1,atp,4
+79,long period fiber grating,1,micro,4
+80,mach-zehnder interferometer,1,optical fiber chemical sensor,4
+81,doped fibers,1,tripodal,4
+82,fiber bragg gratings (fbgs),1,hg(ii),4
+83,microstructured optical,1,water,4
+84,fluorescence radiation characteristics,1,fluorescence detector,4
+85,evanescent,1,led,4
+86,photonic crystal fibers,1,thin film,4
+87,polydimethylsiloxane (pdms),1,fiber-optic localized plasma resonance,4
+88,surface plasmon,1,rbc,4
+89,optical-fiber,1,agglutination,4
+90,grating,1,cross-matching,4
+91,collagen networks,1,scattering,4
+92,confocal reflection microscopy,1,optical sensor,4
+93,fiber reconstruction,1,ph,4
+94,optical readout,1,micropump,4
+95,refractive index sensing,1,microvalve,4
+96,glass,1,dual-beam,4
+97,optical sensing,1,immunoassay,4
+98,ultrafast laser,1,proximity optical fibers,4
+99,micromachining,1,microspheres,4
+100,waveguide,1,bvd,4
+101,coagulation,1,optical traps,4
+102,optical read out,1,optical stretcher,4
+103,aptt,1,cell handling,4
+104,point-of-care testing,1,cancer,4
+105,microfluidic cytometer,1,fibers,4
+106,on-chip microlens,1,lipids,4
+107,micro-fluidic-channel,1,liquid crystals,4
+108,label-free methods,1,optical microscopy,4
+109,impedance spectroscopy,1,su-8,4
+110,fabry-perot (f-p),1,online monitoring,4
+111,medical optics instrumentation,1,fluorescence,4
+112,micro gas sensor,1,particle detection,4
+113,micro fabry-perot cavity,1,bioreactor,4
+114,fiber optic sensors,1,integrated optical,4
+115,optical fiber microstructure,1,dye laser,4
+116,femtosecond laser micromachining,1,soft lithography,4
+117,microfluidic fiber sensors,1,optical fiber cavity,4
+118,microfluidic flowmeter,1,holographic gratings,4
+119,microfiber coupler,1,tunable,4
+120,gold film,1,microsystems,4
+121,optical trap,1,microparticles,4
+122,lab-on-chip,1,biochips,4
+123,stability test,1,fluidics,4
+124,raman spectroscopy,1,micropumps,4
+125,optics,1,optical-fiber devices,4
+126,trapping,1,fabry-perot etalon,3
+127,polymers,1,optical biosensors,3
+128,diamond machining,1,aligned fibers,3
+129,microstructure fabrication,1,microfluidic spinning,3
+130,integrated photonics,1,in suit microreactor,3
+131,fiber tapers,1,fluorescent,3
+132,flow cell system,1,3d-printed,3
+133,plastic optical fiber,1,additive manufacturing,3
+134,optical sensors,1,particle analysis,3
+135,surface,1,optical readout,3
+136,osteoblast cells,1,refractive index sensing,3
+137,drug screening,1,glass,3
+138,scaffold,1,ultrafast laser,3
+139,tissue,1,micromachining,3
+140,fluidic microchannels,1,waveguide,3
+141,fiber optic,1,micro gas sensor,3
+142,light induced,1,micro fabry-perot cavity,3
+143,nano-particle,1,fiber optic sensors,3
+144,escherichia coli,1,optical fiber microstructure,3
+145,laser-induced fluorescence,1,optical trap,3
+146,marine sewage,1,lab-on-chip,3
+147,circulating tumor cell,1,stability test,3
+148,micro optical,1,trapping,3
+149,phalaenopsis orchid,1,polymers,3
+150,pathogen detection,1,diamond machining,3
+151,twin-core fiber,1,microstructure fabrication,3
+152,a frustum wedge structure,1,integrated photonics,3
+153,fabry-perot,1,fiber tapers,3
+154,flowermeter,1,flow cell system,3
+155,fiber bragg grating,1,plastic optical fiber,3
+156,microfluidic flow rate,1,optical sensors,3
+157,open-cavity,1,surface,3
+158,fabry-perot interferometer,1,circulating tumor cell,3
+159,thermofluidic,1,micro optical,3
+160,fea,1,phalaenopsis orchid,3
+161,mode analysis,1,pathogen detection,3
+162,hollow-core photonic crystal fiber,1,fabry-perot,3
+163,micro structure gas sensor,1,flowermeter,3
+164,microstructure optical fibers,1,fiber bragg grating,3
+165,heat transfer,1,microfluidic flow rate,3
+166,porous structure,1,open-cavity,3
+167,photoinduced growth,1,fabry-perot interferometer,3
+168,on-chip detection,1,porous structure,3
+169,fiber-optic sensor,1,photoinduced growth,3
+170,suspended core,1,on-chip detection,3
+171,integrated,1,suspended core,3
+172,simplified hollow-core microstructural optical fiber,1,integrated,3
+173,fiber laser,1,silver,3
+174,period gratings,1,femtosecond laser ablation,3
+175,microstructured fibers,1,fiber drilling,3
+176,silver,1,waveguides,3
+177,micro-optic devices,1,photonic-crystal-fiber,3
+178,bragg gratings,1,surface-plasmon-resonance,3
+179,pdms chip,1,finite,3
+180,liquid waveguides,1,lamination,3
+181,ray tracing,1,polymer waveguides,3
+182,biosensors,1,waveguide arrays,3
+183,microstructured optical fiber,1,membrane,3
+184,bioluminescence detection,1,mercury ion,3
+185,atp,1,triacetylcellulose membrane,3
+186,micro,1,fiber optic tweezers,3
+187,sensors,1,two-photon,3
+188,femtosecond laser ablation,1,nanoparticles,3
+189,fiber drilling,1,polymeric waveguide,3
+190,waveguides,1,particle,3
+191,photonic-crystal-fiber,1,sorting,3
+192,surface-plasmon-resonance,1,optic fiber,3
+193,finite,1,digital,3
+194,integrated optical waveguide,1,spectroscopy,3
+195,multilayer pdms,1,fabry-perot cavity,3
+196,lamination,1,ltcc (low temperature co-fired ceramics),3
+197,polymer waveguides,1,absorbance,3
+198,waveguide arrays,1,cfd,3
+199,optical fiber chemical sensor,1,flow sensor,3
+200,tripodal,1,integrated optical detection,3
+201,hg(ii),1,spectrometer-on-chip,3
+202,water,1,agglutination assay,3
+203,membrane,1,aptamer,3
+204,mercury ion,1,oxytetracycline,3
+205,triacetylcellulose membrane,1,directional coupler,3
+206,fiber optic tweezers,1,photonic bandgap fiber,3
+207,two-photon,1,refractive,3
+208,fiber optic-particle plasmon resonance (fo-ppr),1,diffraction gratings,3
+209,nanoparticles,1,refractometers,3
+210,polymeric waveguide,1,microchip-based,3
+211,particle,1,flow cytometry,3
+212,sorting,1,photonic integrated waveguides,3
+213,optic fiber,1,lenses,3
+214,multiple trapping,1,ice,3
+215,all fiber bessel-like beam generator,1,light reflection,3
+216,multimode,1,light refraction,3
+217,digital,1,optical detection,3
+218,spectroscopy,1,claddings,3
+219,fabry-perot cavity,1,fibre optic sensors,3
+220,fluorescence detector,1,micro-optomechanical,3
+221,led,1,mixing on chip,3
+222,thin film,1,optaical fibre detecting,3
+223,optical resonators,1,ultrafast lasers,3
+224,optical coupling,1,fiber lasers,3
+225,ltcc (low temperature co-fired ceramics),1,microfliddic,3
+226,absorbance,1,twice exposal,3
+227,cfd,1,dna separation,3
+228,flow sensor,1,led detection,3
+229,integrated optical detection,1,light-emitting diode,3
+230,spectrometer-on-chip,1,ltcc,3
+231,agglutination assay,1,micro-structured fibers,3
+232,aptamer,1,nonlinear optics,3
+233,oxytetracycline,1,microfluidic optics,3
+234,directional coupler,1,silicon,3
+235,photonic bandgap fiber,1,optical detectors,3
+236,refractive,1,fluorescence measurement,3
+237,diffraction gratings,1,reagent lifetime,3
+238,refractometers,1,microfluidic manifold,3
+239,microchip-based,1,stopped flow,3
+240,flow cytometry,1,uv-led,3
+241,photonic integrated waveguides,1,optofluidic laser,2
+242,lenses,1,digital microfluidics,2
+243,ice,1,electrowetting-on-a-dielectric,2
+244,cell culture,1,on-chip sensing,2
+245,fiber optic sensor,1,hollow core micro-fiber,2
+246,immunoagglutination assay,1,microfluidic channel,2
+247,light reflection,1,microfluidic sensor,2
+248,light refraction,1,helical structure,2
+249,fiber-optic localized plasmon resonance,1,refractive index measurement,2
+250,rbc,1,long period fiber grating,2
+251,agglutination,1,mach-zehnder interferometer,2
+252,cross-matching,1,doped fibers,2
+253,scattering,1,fiber bragg gratings (fbgs),2
+254,compatibility test,1,microstructured optical,2
+255,spectrophotometric approach,1,fluorescence radiation characteristics,2
+256,optical sensor,1,evanescent,2
+257,ph,1,photonic crystal fibers,2
+258,optical detection,1,polydimethylsiloxane (pdms),2
+259,micropump,1,surface plasmon,2
+260,microvalve,1,optical-fiber,2
+261,dual-beam,1,grating,2
+262,claddings,1,collagen networks,2
+263,fibre optic sensors,1,confocal reflection microscopy,2
+264,micro-optomechanical,1,fiber reconstruction,2
+265,mixing on chip,1,optical sensing,2
+266,optaical fibre detecting,1,point-of-care testing,2
+267,ultrafast lasers,1,microfluidic cytometer,2
+268,fiber lasers,1,on-chip microlens,2
+269,microfliddic,1,micro-fluidic-channel,2
+270,immunoassay,1,label-free methods,2
+271,proximity optical fibers,1,impedance spectroscopy,2
+272,microspheres,1,fabry-perot (f-p),2
+273,bvd,1,medical optics instrumentation,2
+274,optical traps,1,microfluidic flowmeter,2
+275,optical stretcher,1,microfiber coupler,2
+276,cell handling,1,gold film,2
+277,cancer,1,fluidic microchannels,2
+278,twice exposal,1,escherichia coli,2
+279,dna separation,1,laser-induced fluorescence,2
+280,led detection,1,marine sewage,2
+281,light-emitting diode,1,twin-core fiber,2
+282,fibers,1,a frustum wedge structure,2
+283,lipids,1,microstructure optical fibers,2
+284,liquid crystals,1,heat transfer,2
+285,optical microscopy,1,fiber-optic sensor,2
+286,fluorescence detection system,1,period gratings,2
+287,su-8,1,microstructured fibers,2
+288,online monitoring,1,micro-optic devices,2
+289,ltcc,1,bragg gratings,2
+290,cross-talk,1,biosensors,2
+291,fibre optic coupler,1,microstructured optical fiber,2
+292,refractometric measurements,1,sensors,2
+293,particle detection,1,integrated optical waveguide,2
+294,micro-structured fibers,1,multilayer pdms,2
+295,nonlinear optics,1,fiber optic-particle plasmon resonance (fo-ppr),2
+296,microfluidic optics,1,multiple trapping,2
+297,silicon,1,all fiber bessel-like beam generator,2
+298,optical detectors,1,multimode,2
+299,fluorescence measurement,1,optical resonators,2
+300,bioreactor,1,optical coupling,2
+301,integrated optical,1,cell culture,2
+302,dye laser,1,fiber optic sensor,2
+303,soft lithography,1,immunoagglutination assay,2
+304,optical fiber cavity,1,fiber-optic localized plasmon resonance,2
+305,holographic gratings,1,compatibility test,2
+306,tunable,1,spectrophotometric approach,2
+307,reagent lifetime,1,fluorescence detection system,2
+308,microfluidic manifold,1,cross-talk,2
+309,stopped flow,1,fibre optic coupler,2
+310,uv-led,1,refractometric measurements,2
+311,microsystems,1,modes,2
+312,microparticles,1,transient grating technique,2
+313,biochips,1,isotropic elastic-moduli,2
+314,fluidics,1,femtosecond laser micromachining,1
+315,micropumps,1,microfluidic fiber sensors,1
+316,optical-fiber devices,1,hollow-core photonic crystal fiber,1
+317,modes,1,micro structure gas sensor,1
+318,transient grating technique,1,simplified hollow-core microstructural optical fiber,1
+319,isotropic elastic-moduli,1,fiber laser,1

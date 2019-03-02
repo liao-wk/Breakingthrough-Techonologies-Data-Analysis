@@ -1,0 +1,220 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,perovskites,9,perovskites,28
+1,charge,7,charge,23
+2,dye-sensitized solar cell,6,solar cells,19
+3,solar cells,5,dye-sensitized solar cell,14
+4,solar cell,4,solar cell,12
+5,organic solar cell,3,quantum dots,12
+6,solar energy,3,cds,10
+7,quantum dots,3,graphene,10
+8,electron,3,nanoparticles,10
+9,polymer solar cells,3,water splitting,9
+10,graphene,3,electron,9
+11,photovoltaic cells,3,photovoltaic cells,9
+12,nanoparticles,3,organic solar cell,8
+13,quantum dot sensitized solar cells,2,solar energy,8
+14,nanocomposite,2,solar,8
+15,nanomaterials,2,ch3nh3pbi3,8
+16,water splitting,2,pcbm,8
+17,perovskite,2,nanomaterials,7
+18,performance,2,performance,7
+19,cds,2,polymer solar cells,7
+20,charge transfer,2,layers,7
+21,organic solar cells,2,efficiency,7
+22,layers,2,nanostructures,7
+23,counter electrode,2,nanowires,7
+24,carbon nanotube,2,nanocomposite,6
+25,solar,2,carbon nanotube,6
+26,ch3nh3pbi3,2,nanostructure,6
+27,films,2,electrodes,6
+28,nanostructure,2,electron transport,6
+29,electrodes,2,perovskite,5
+30,recombination,2,cu2mos4,5
+31,efficiency,2,photocatalysis,5
+32,dye-sensitized solar cells,2,hydrogen,5
+33,pcbm,2,charge transfer,5
+34,nanostructures,2,organic solar cells,5
+35,nanowires,2,cztsse,5
+36,electron transport,2,cztgesse,5
+37,zno nano-array interlayer,1,nanocrystals,5
+38,organic tandem solar cell,1,selenization,5
+39,3d nano-ripple pattern,1,solution processing,5
+40,zno sol-gel,1,ge,5
+41,nano-particles,1,films,5
+42,plasmon resonance,1,recombination,5
+43,photovoltaic,1,nano-particles,4
+44,core-shell,1,plasmon resonance,4
+45,nano-dust,1,photovoltaic,4
+46,interplanetary coronal mass ejections,1,core-shell,4
+47,interplanetary dust,1,h-2,4
+48,thin film,1,band gap,4
+49,h-2,1,quantum efficiency,4
+50,band gap,1,mppt,4
+51,quantum efficiency,1,charge controller,4
+52,metallated conjugated polymer,1,arduino nano,4
+53,organometallic device,1,battery,4
+54,mppt,1,charge transfers,4
+55,charge controller,1,stabilities,4
+56,arduino nano,1,counter electrode,4
+57,battery,1,photoactive layer,4
+58,different tio2 nanostructures,1,carminic acid,4
+59,al2o3 scaffold,1,porphyrin,4
+60,charge transport,1,charge transfer complex,4
+61,charge transfers,1,chemisorption,4
+62,stabilities,1,dynamics,4
+63,halide perovskites,1,hybrids,4
+64,collection layer,1,morphology,4
+65,stability,1,nanorods,4
+66,thermal energy storage system (tess),1,organic,4
+67,phase change material (pcm),1,dye sensitized solar cell,4
+68,cu2mos4,1,tin oxide,4
+69,photocatalysis,1,gallium doping,4
+70,hydrogen,1,nano-cuboid,4
+71,nano-porous film,1,band,4
+72,monte-carlo method,1,dye-sensitized solar cells,4
+73,charge-carrier diffusion,1,p3ht,4
+74,nanowire,1,zno nanoparticles,4
+75,spontaneous,1,charge carrier dynamics,4
+76,piezoelectric,1,pi-ir absorption,4
+77,fill factor,1,interfacial layer,4
+78,heterojunction,1,gratings,4
+79,layer,1,oxide,4
+80,passivation,1,diffusion coefficients,4
+81,zno,1,metal oxides,4
+82,ultrasonic spray method,1,quantum dot,4
+83,p3ht: pcbm,1,sensitized solar cell,4
+84,quasi-2d perovskites,1,composite,4
+85,synchrotron based characterization,1,flexible,4
+86,nano-probe,1,carbon,4
+87,micro/nano structure,1,photochemistry,4
+88,donor/acceptor interface,1,thin films,4
+89,hollow sphere,1,tio2,4
+90,photovoltaic cell,1,zn,4
+91,quantum,1,dye-sensitized,4
+92,carrier diffusion,1,dye adsorption,4
+93,hysteresis,1,quantum dot sensitized solar cells,3
+94,charge dynamics,1,organic tandem solar cell,3
+95,hybrid solar cells,1,3d nano-ripple pattern,3
+96,zno nanorods,1,zno sol-gel,3
+97,surface modification,1,metallated conjugated polymer,3
+98,sequential,1,organometallic device,3
+99,photoactive layer,1,al2o3 scaffold,3
+100,surface ligands,1,charge transport,3
+101,bulk,1,stability,3
+102,carminic acid,1,nanowire,3
+103,porphyrin,1,spontaneous,3
+104,charge transfer complex,1,piezoelectric,3
+105,chemisorption,1,heterojunction,3
+106,nano-heterostructure,1,layer,3
+107,photocatalyst,1,passivation,3
+108,solar fuels,1,zno,3
+109,review,1,ultrasonic spray method,3
+110,comets: general,1,p3ht: pcbm,3
+111,comets: individual: 67p/churyumov-gerasimenko,1,hollow sphere,3
+112,charge separation,1,photovoltaic cell,3
+113,vibronic coupling,1,quantum,3
+114,perovskite solar cells,1,carrier diffusion,3
+115,reduced graphene oxides,1,hysteresis,3
+116,planar structures,1,charge dynamics,3
+117,cztsse,1,hybrid solar cells,3
+118,cztgesse,1,zno nanorods,3
+119,nanocrystals,1,surface modification,3
+120,selenization,1,nano-heterostructure,3
+121,solution processing,1,photocatalyst,3
+122,ge,1,solar fuels,3
+123,pcdtbt,1,review,3
+124,dynamics,1,nano-morphology,3
+125,nano-morphology,1,non-fullerene acceptors,3
+126,non-fullerene acceptors,1,ternary,3
+127,ternary,1,semiconductor,3
+128,bilayer solar cells,1,conjugated polymer,3
+129,nano-fibril morphology,1,energy conversion,3
+130,field-effect transistors,1,titanium (ti),3
+131,metal nano-particle,1,dye,3
+132,plasmon enhancement,1,nano solar cells,3
+133,photoexcitation,1,thiols,3
+134,hybrids,1,electron transfer bridges,3
+135,morphology,1,kinetically,3
+136,nanorods,1,nanoimprint lithography,3
+137,organic,1,solar pond,3
+138,semiconductor,1,low temperature energy storage system,3
+139,conjugated polymer,1,phase,3
+140,dye sensitized solar cell,1,psf,3
+141,tin oxide,1,tio2 nano powder,3
+142,gallium doping,1,zno nano powder,3
+143,nano-cuboid,1,diffused scattering of light,3
+144,band,1,sungrazing comets,3
+145,energy conversion,1,nanodust particles,3
+146,titanium (ti),1,solar wind interaction,3
+147,low-cost,1,pickup,3
+148,dye,1,self-assembled monolayer,3
+149,anodic aluminum oxide template,1,localized surface,3
+150,titanium,1,solar energy conversion,3
+151,nano solar cells,1,photovoltaics,3
+152,thiols,1,light trapping,3
+153,electron transfer bridges,1,zno nano-array interlayer,2
+154,kinetically,1,nano-dust,2
+155,titanium oxide,1,interplanetary coronal mass ejections,2
+156,thermally stimulated current,1,interplanetary dust,2
+157,p3ht,1,thin film,2
+158,zno nanoparticles,1,halide perovskites,2
+159,charge carrier dynamics,1,collection layer,2
+160,pi-ir absorption,1,nano-porous film,2
+161,nanoimprint lithography,1,monte-carlo method,2
+162,bulk-heterojunction solar cell,1,charge-carrier diffusion,2
+163,fullerene,1,fill factor,2
+164,polymer,1,quasi-2d perovskites,2
+165,solar pond,1,synchrotron based characterization,2
+166,low temperature energy storage system,1,nano-probe,2
+167,phase,1,micro/nano structure,2
+168,psf,1,donor/acceptor interface,2
+169,tio2 nano powder,1,sequential,2
+170,zno nano powder,1,charge separation,2
+171,diffused scattering of light,1,vibronic coupling,2
+172,nano-structuring,1,perovskite solar cells,2
+173,nano-structured organic-metal interface,1,reduced graphene oxides,2
+174,interfacial layer,1,planar structures,2
+175,gratings,1,pcdtbt,2
+176,oxide,1,bilayer solar cells,2
+177,sungrazing comets,1,nano-fibril morphology,2
+178,nanodust particles,1,field-effect transistors,2
+179,solar wind interaction,1,metal nano-particle,2
+180,pickup,1,plasmon enhancement,2
+181,zn oxide nanowire,1,photoexcitation,2
+182,nano-forest,1,low-cost,2
+183,diffusion coefficients,1,anodic aluminum oxide template,2
+184,metal oxides,1,titanium,2
+185,self-assembled monolayer,1,titanium oxide,2
+186,localized surface,1,thermally stimulated current,2
+187,processing additives,1,bulk-heterojunction solar cell,2
+188,chemical additives,1,fullerene,2
+189,two-phase thermosyphon,1,polymer,2
+190,solar water heater,1,zn oxide nanowire,2
+191,thermal resistance-capacitor,1,nano-forest,2
+192,solar energy conversion,1,processing additives,2
+193,photovoltaics,1,chemical additives,2
+194,light trapping,1,two-phase thermosyphon,2
+195,quantum dot,1,solar water heater,2
+196,sensitized solar cell,1,thermal resistance-capacitor,2
+197,composite,1,acceleration of particles,2
+198,flexible,1,interplanetary medium,2
+199,carbon,1,solar wind,2
+200,acceleration of particles,1,charge-carrier recombination,2
+201,interplanetary medium,1,porphyrin perylene diimide,2
+202,solar wind,1,methanofullerene,2
+203,photochemistry,1,supramolecular chemistry,2
+204,thin films,1,nano-composite solar cells,2
+205,tio2,1,kinetic charge separation,2
+206,zn,1,time-domain technique,2
+207,charge-carrier recombination,1,frequency-domain technique,2
+208,porphyrin perylene diimide,1,nano-structured tio2,2
+209,methanofullerene,1,different tio2 nanostructures,1
+210,supramolecular chemistry,1,thermal energy storage system (tess),1
+211,nano-composite solar cells,1,phase change material (pcm),1
+212,kinetic charge separation,1,surface ligands,1
+213,time-domain technique,1,bulk,1
+214,frequency-domain technique,1,comets: general,1
+215,dye-sensitized,1,comets: individual: 67p/churyumov-gerasimenko,1
+216,dye adsorption,1,nano-structuring,1
+217,nano-structured tio2,1,nano-structured organic-metal interface,1
+218,charge recombination kinetics,1,charge recombination kinetics,1

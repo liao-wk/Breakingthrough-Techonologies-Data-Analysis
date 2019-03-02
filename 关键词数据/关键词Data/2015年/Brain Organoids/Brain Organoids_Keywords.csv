@@ -1,0 +1,126 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,coupling matrix,3,cntf,12
+1,neuronal progenitor cells,3,gdnf,10
+2,cntf,3,coupling matrix,8
+3,microwave filters,2,neuronal progenitor cells,7
+4,gdnf,2,microwave filters,6
+5,neurodegenerative diseases,2,neurotrophin,6
+6,3-d printing,1,migration,6
+7,micro laser sintering process,1,parkinson,6
+8,stereolithography,1,ret,6
+9,w-band,1,stem cell,6
+10,active coupling matrix,1,cyberbullying,4
+11,amplif er,1,intervention,4
+12,resonator,1,cyber safety,4
+13,waveguide f lter,1,cyberethics,4
+14,neural development,1,cyber abuse,4
+15,organoids,1,digital learning,4
+16,in vitro,1,audit,4
+17,neural differentiation,1,evaluation,4
+18,continuous transverse stub (cts),1,learning resources,4
+19,frequency-scanned antenna (fsa),1,analytics,4
+20,concussion management,1,adolescent,4
+21,concussion symptoms,1,at-risk,4
+22,diffusion kurtosis imaging,1,harsh parenting,4
+23,cyberbullying,1,maltreatment,4
+24,intervention,1,mental health,4
+25,cyber safety,1,cerebral organoid,4
+26,cyberethics,1,neocortex,4
+27,cyber abuse,1,corticogenesis,4
+28,broadband antenna,1,single-cell rna-seq,4
+29,gap coupling,1,stem,4
+30,high isolation,1,pneumonia,4
+31,multiple-input,1,dysphagia,4
+32,all resonator structure,1,basal ganglia,4
+33,frequency multiplier,1,ischemic stroke,4
+34,planar,1,stroke-induced,4
+35,active learning,1,wnt-5a,4
+36,cognitive engagement,1,differentiation,4
+37,constructive learning,1,niemann-pick disease type c,4
+38,resonators,1,np-c,4
+39,novel dielectric,1,npc1,4
+40,data,1,haplotype,4
+41,transcription,1,genomic sequence,4
+42,promoter,1,3-d printing,3
+43,seq,1,micro laser sintering process,3
+44,bandpass filter,1,stereolithography,3
+45,butler matrix,1,w-band,3
+46,hybrid coupler,1,active coupling matrix,3
+47,microstrip,1,amplif er,3
+48,image rejection,1,resonator,3
+49,planar schottky diode,1,waveguide f lter,3
+50,subharmonic mixer,1,neural development,3
+51,waveguide,1,organoids,3
+52,digital learning,1,in vitro,3
+53,audit,1,neural differentiation,3
+54,evaluation,1,broadband antenna,3
+55,learning resources,1,gap coupling,3
+56,analytics,1,high isolation,3
+57,17-oestradiol,1,multiple-input,3
+58,androgens,1,all resonator structure,3
+59,autism spectrum conditions,1,frequency multiplier,3
+60,neurodegenerative,1,planar,3
+61,coupling matrix synthesis,1,resonators,3
+62,differential evolution (de),1,novel dielectric,3
+63,relationship commitment,1,data,3
+64,aggressive relationships,1,transcription,3
+65,satisficing,1,promoter,3
+66,adolescent,1,seq,3
+67,at-risk,1,bandpass filter,3
+68,harsh parenting,1,butler matrix,3
+69,maltreatment,1,hybrid coupler,3
+70,mental health,1,microstrip,3
+71,micromachining,1,image rejection,3
+72,su-8,1,planar schottky diode,3
+73,terahertz components,1,subharmonic mixer,3
+74,waveguide filter,1,waveguide,3
+75,filtering antenna,1,17-oestradiol,3
+76,high efficiency,1,androgens,3
+77,low sidelobe,1,autism spectrum conditions,3
+78,transducer,1,neurodegenerative,3
+79,millimeter-wave,1,micromachining,3
+80,plane,1,su-8,3
+81,ghz,1,terahertz components,3
+82,integrated lens antennas,1,waveguide filter,3
+83,imaging systems,1,filtering antenna,3
+84,submillimeter wave,1,high efficiency,3
+85,design optimization,1,low sidelobe,3
+86,design tools,1,transducer,3
+87,evolutionary computation,1,millimeter-wave,3
+88,gaussian,1,plane,3
+89,coupled resonators,1,ghz,3
+90,3-d printed filters,1,design optimization,3
+91,combline filters,1,design tools,3
+92,cerebral organoid,1,evolutionary computation,3
+93,neocortex,1,gaussian,3
+94,corticogenesis,1,neurodegenerative diseases,3
+95,single-cell rna-seq,1,concussion management,2
+96,stem,1,concussion symptoms,2
+97,dry clutch system,1,diffusion kurtosis imaging,2
+98,automated manual transmission,1,active learning,2
+99,wireless sensornodes,1,cognitive engagement,2
+100,pneumonia,1,constructive learning,2
+101,dysphagia,1,coupling matrix synthesis,2
+102,basal ganglia,1,differential evolution (de),2
+103,ischemic stroke,1,relationship commitment,2
+104,stroke-induced,1,aggressive relationships,2
+105,wnt-5a,1,satisficing,2
+106,differentiation,1,integrated lens antennas,2
+107,neurotrophin,1,imaging systems,2
+108,migration,1,submillimeter wave,2
+109,parkinson,1,coupled resonators,2
+110,ret,1,3-d printed filters,2
+111,stem cell,1,combline filters,2
+112,desmin,1,dry clutch system,2
+113,epidermolysis bullosa simplex with muscular dystrophy,1,automated manual transmission,2
+114,krabbe disease,1,wireless sensornodes,2
+115,psychosine,1,krabbe disease,2
+116,psychosine beta-galactosidase,1,psychosine,2
+117,niemann-pick disease type c,1,psychosine beta-galactosidase,2
+118,np-c,1,neurotransplantation,2
+119,npc1,1,neuronal stem cells,2
+120,haplotype,1,parkinson's disease,2
+121,genomic sequence,1,continuous transverse stub (cts),1
+122,neurotransplantation,1,frequency-scanned antenna (fsa),1
+123,neuronal stem cells,1,desmin,1
+124,parkinson's disease,1,epidermolysis bullosa simplex with muscular dystrophy,1

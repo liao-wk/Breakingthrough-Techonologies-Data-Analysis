@@ -1,0 +1,337 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,air,6,emissions,20
+1,air pollution,5,air,17
+2,emissions,5,air pollution,14
+3,air quality,4,power plant,14
+4,power plant,4,air quality,13
+5,data center,3,power generation,10
+6,power generation,3,thermal power plant,10
+7,compressed air energy storage,3,compressed air,10
+8,air-conditioning,3,wind power,9
+9,compressed air,3,data center,8
+10,energy efficiency,2,air-conditioning,8
+11,exergy,2,air gap,7
+12,triboelectric nanogenerator,2,air pollutants,7
+13,air gap,2,air-cooled condenser,7
+14,energy,2,fossil fuel,7
+15,output power,2,co,7
+16,efficiency,2,nox,7
+17,air pollutants,2,so2,7
+18,thermal power plant,2,tsp,7
+19,inlet air cooling,2,ambient,7
+20,air conditioning,2,energy efficiency,6
+21,power management,2,exergy,6
+22,air-cooled condenser,2,output power,6
+23,power consumption reduction,2,air conditioning,6
+24,air-cooled steam condenser,2,power management,6
+25,air-cooled power plant,2,compressed air energy storage,6
+26,climate change,2,power consumption reduction,6
+27,wind power,2,climate change,6
+28,air density,2,arid,6
+29,distributed generation,2,humid,6
+30,wind turbine,2,dynamics,6
+31,air space,1,meteorology,6
+32,coupled magnetic resonance,1,pressure,6
+33,magnetic field analysis,1,temperature,6
+34,steam air heater,1,wind turbine,6
+35,energy power losses,1,triboelectric nanogenerator,5
+36,avoidance behaviors,1,energy,5
+37,electricity usage,1,efficiency,5
+38,power-station,1,inlet air cooling,5
+39,demand response,1,air-cooled steam condenser,5
+40,system flexibility,1,air density,5
+41,ancillary service,1,distributed generation,5
+42,controllable,1,fuel consumption,4
+43,unit commitment,1,china,4
+44,power dispatch,1,air-borne ultrasound,4
+45,regional air quality,1,sewage sludge,4
+46,air pollutant,1,thin-layer drying,4
+47,power source,1,kinetics,4
+48,particulate matter,1,forced,4
+49,electronics cooling,1,steam condenser,4
+50,hysteresis loss,1,dry cooling,4
+51,piezoelectric fan,1,hybrid,4
+52,power,1,social costs,4
+53,air-conditioning system,1,coal mining,4
+54,thermal energy storage,1,oil and gas extraction,4
+55,wind power forecast,1,oil,4
+56,wind energy harvesting,1,dispersion,4
+57,wind contraction,1,power plants,4
+58,wind diffuser,1,air-cooled power plant,4
+59,wind tamer,1,health,4
+60,liquid desiccant dehumidification,1,health impact assessment,4
+61,photovoltaic/thermal collector,1,hia,4
+62,electrolytic capacitor-less inverter,1,biomass,4
+63,input current harmonics,1,atomizer wheel,4
+64,renewable energy storage,1,spray dryer,4
+65,waste heat,1,atomizer speed,4
+66,co2 reduction,1,differential,4
+67,thermal power,1,mcc,4
+68,air conditioning control system,1,co2 sequestration,4
+69,arduino microcontroller,1,flue gas,4
+70,fuzzy logic,1,anion exchange membrane,4
+71,energy analysis,1,ph imbalance,4
+72,exergy analysis,1,zero emission,4
+73,exergy destruction,1,road transportation,4
+74,hybrid power,1,liquid air,4
+75,containment,1,engine,4
+76,computer room air handler (crah) bypass (bp),1,corona discharge,4
+77,centrifugal force,1,dbd,4
+78,hydropower unit,1,atmospheric pressure plasma,4
+79,magnetic force,1,pin to plate,4
+80,electricity trade,1,oes,4
+81,interconnected markets,1,steam air heater,3
+82,imperfect competition,1,energy power losses,3
+83,battery-free smart-sensor module,1,avoidance behaviors,3
+84,long-range smart-sensor tag,1,electricity usage,3
+85,fuel consumption,1,power-station,3
+86,china,1,demand response,3
+87,thermoelectric (te),1,system flexibility,3
+88,thermophotovoltaic (tpv),1,ancillary service,3
+89,fuel-air equivalence,1,controllable,3
+90,compressed air engine,1,unit commitment,3
+91,air distribution,1,power dispatch,3
+92,carbon dioxide,1,regional air quality,3
+93,coal-fired power plants,1,air pollutant,3
+94,co-effects,1,power source,3
+95,energy-consumption,1,particulate matter,3
+96,climate-change,1,electronics cooling,3
+97,air quality model,1,hysteresis loss,3
+98,meteorological model,1,piezoelectric fan,3
+99,nitrogen,1,power,3
+100,air power technology,1,wind energy harvesting,3
+101,compressed air powered vehicle,1,wind contraction,3
+102,pneumatic hybrid,1,wind diffuser,3
+103,boosting combined cycle performance,1,wind tamer,3
+104,evaporative,1,renewable energy storage,3
+105,photovoltaic,1,waste heat,3
+106,direct driven,1,co2 reduction,3
+107,test,1,thermal power,3
+108,air conditioner load,1,energy analysis,3
+109,static voltage stability,1,exergy analysis,3
+110,voltage stability,1,exergy destruction,3
+111,nanogenerator,1,hybrid power,3
+112,wireless sensor network,1,centrifugal force,3
+113,air flow,1,hydropower unit,3
+114,cogeneration,1,magnetic force,3
+115,environment,1,electricity trade,3
+116,air-borne ultrasound,1,interconnected markets,3
+117,sewage sludge,1,imperfect competition,3
+118,thin-layer drying,1,compressed air engine,3
+119,kinetics,1,air distribution,3
+120,forced,1,carbon dioxide,3
+121,hydroquinone,1,coal-fired power plants,3
+122,plasma,1,co-effects,3
+123,wire-cylinder dielectric barrier discharge,1,air quality model,3
+124,combined cooling and power,1,meteorological model,3
+125,steam condenser,1,nitrogen,3
+126,dry cooling,1,photovoltaic,3
+127,hybrid,1,direct driven,3
+128,air-powered vehicle,1,test,3
+129,power system,1,nanogenerator,3
+130,hp transformer,1,wireless sensor network,3
+131,hydraulic motor,1,air flow,3
+132,solar cooling,1,air-powered vehicle,3
+133,solar air conditioning,1,power system,3
+134,solar pv cooling,1,hp transformer,3
+135,compressed air power,1,hydraulic motor,3
+136,automobile,1,compressed air power,3
+137,experimental platform,1,automobile,3
+138,speed control,1,experimental platform,3
+139,social costs,1,speed control,3
+140,coal mining,1,workload assignment,3
+141,oil and gas extraction,1,fan array,3
+142,oil,1,net power,3
+143,workload assignment,1,numerical model,3
+144,power station emissions,1,thermal power plants,3
+145,omi no2,1,eco-efficiency,3
+146,fan array,1,eastern balkan,3
+147,net power,1,cyclic blackouts,3
+148,numerical model,1,outage management,3
+149,thermal power plants,1,multi-agent systems,3
+150,eco-efficiency,1,load,3
+151,eastern balkan,1,ultrasound,3
+152,dispersion,1,hot air drying,3
+153,power plants,1,flos lonicerae,3
+154,nilm,1,drying characteristics,3
+155,load disaggregate,1,co2 capture,3
+156,smart meter,1,optimization,3
+157,air breakdown,1,air leakage,3
+158,circular aperture antenna,1,air heater,3
+159,maximum radiation power,1,boiler,3
+160,cyclic blackouts,1,energy hub,3
+161,outage management,1,energy sources,3
+162,multi-agent systems,1,blackouts,3
+163,load,1,demand side management,3
+164,economic analysis,1,supply demand,3
+165,lignite pre-drying,1,air power,3
+166,ultrasound,1,command and control,3
+167,hot air drying,1,operational level,3
+168,flos lonicerae,1,air campaign,3
+169,drying characteristics,1,work-load assignment,3
+170,co2 capture,1,power curve,3
+171,optimization,1,air humidifier,3
+172,self-powered,1,exhaust gases,3
+173,kite power estimation,1,thermal storage,3
+174,mathematical equations for kite,1,operating mode,3
+175,air leakage,1,system integration,3
+176,air heater,1,air-powered swashplate engine,3
+177,boiler,1,oil-free,3
+178,thermodynamic optimization,1,piston rings,3
+179,waste heat utilization,1,life prediction,3
+180,organic working,1,industrial compressed air,3
+181,meteorological conditions,1,solar power,3
+182,rotating speed,1,power load,3
+183,respiratory health,1,load forecasting,3
+184,exposure assessment,1,energy storage sub-system,3
+185,energy hub,1,caes power plant,3
+186,energy sources,1,performance analysis,3
+187,health,1,wind,3
+188,health impact assessment,1,fogging system,3
+189,hia,1,social cost of air pollution,3
+190,biomass,1,axial flow fan,3
+191,blackouts,1,cluster effect,3
+192,demand side management,1,cluster factor,3
+193,supply demand,1,ceramic membranes,3
+194,air power,1,oxygen separation from air,3
+195,command and control,1,co2,3
+196,operational level,1,single-chamber mfc,3
+197,air campaign,1,cellulose,3
+198,work-load assignment,1,electricity generation,3
+199,arid,1,hydrolysis,3
+200,humid,1,combined cycle,3
+201,dynamics,1,inter-cooling,3
+202,meteorology,1,low-grade waste heat,3
+203,pressure,1,electric generating units,3
+204,temperature,1,cmaq,3
+205,wind conditions,1,pollutants control,3
+206,blade installation angle,1,zero pollution,3
+207,power curve,1,air turbine,3
+208,air humidifier,1,energy conversion,3
+209,exhaust gases,1,urban heat island,3
+210,thermal storage,1,air temperature,3
+211,operating mode,1,air humidity,3
+212,system integration,1,electric power,3
+213,atomizer wheel,1,organic rankine cycle,3
+214,spray dryer,1,geothermal power,3
+215,atomizer speed,1,moderate temperature heat,3
+216,differential,1,condenser,3
+217,cchp systems,1,evaporative cooling,3
+218,renewable energy,1,energy conservation,3
+219,statistical power,1,infrared,3
+220,time-series studies,1,convective,3
+221,air pollution epidemiology,1,drying rate,3
+222,mcc,1,effective moisture diffusivity,3
+223,co2 sequestration,1,solar rankine cycle,3
+224,flue gas,1,air chimney,3
+225,anion exchange membrane,1,pneumatic tube,3
+226,ph imbalance,1,solar concentrator,3
+227,air-powered swashplate engine,1,air spikes,3
+228,oil-free,1,high power millimeter wave,3
+229,piston rings,1,high resolution,3
+230,life prediction,1,warloc,3
+231,industrial compressed air,1,hvac noise,3
+232,solar power,1,sound power measurements,3
+233,power load,1,air-conditioner noise,3
+234,load forecasting,1,flow noise,3
+235,energy storage sub-system,1,hybrid-pv systems,3
+236,caes power plant,1,pv-air-conditioning,3
+237,performance analysis,1,cost analysis,3
+238,wind,1,pv-off grid,3
+239,fogging system,1,air-drying,3
+240,social cost of air pollution,1,heat acclimatization,3
+241,energetically enhanced combustion,1,heat stress,3
+242,microwave plasma,1,individual control,3
+243,planar,1,power tools,3
+244,axial flow fan,1,bacteria,3
+245,cluster effect,1,contamination,3
+246,cluster factor,1,multistage biofuel drying system,3
+247,aperture antennas,1,power-to-heat ratio,3
+248,dielectric breakdown,1,chp,3
+249,microwave power transmission,1,integrated,3
+250,ceramic membranes,1,air space,2
+251,oxygen separation from air,1,coupled magnetic resonance,2
+252,co2,1,magnetic field analysis,2
+253,fossil fuel,1,air-conditioning system,2
+254,co,1,thermal energy storage,2
+255,nox,1,wind power forecast,2
+256,so2,1,air conditioning control system,2
+257,tsp,1,arduino microcontroller,2
+258,ambient,1,fuzzy logic,2
+259,zero emission,1,containment,2
+260,road transportation,1,computer room air handler (crah) bypass (bp),2
+261,liquid air,1,battery-free smart-sensor module,2
+262,engine,1,long-range smart-sensor tag,2
+263,single-chamber mfc,1,thermoelectric (te),2
+264,cellulose,1,thermophotovoltaic (tpv),2
+265,electricity generation,1,fuel-air equivalence,2
+266,hydrolysis,1,energy-consumption,2
+267,power cable ampacity,1,climate-change,2
+268,thermal model method,1,air power technology,2
+269,ventilation in tunnel,1,compressed air powered vehicle,2
+270,combined cycle,1,pneumatic hybrid,2
+271,inter-cooling,1,boosting combined cycle performance,2
+272,low-grade waste heat,1,evaporative,2
+273,central generation,1,air conditioner load,2
+274,air quality modeling,1,static voltage stability,2
+275,power factor,1,voltage stability,2
+276,induction motor drives,1,cogeneration,2
+277,fan,1,environment,2
+278,electric generating units,1,hydroquinone,2
+279,cmaq,1,plasma,2
+280,pollutants control,1,wire-cylinder dielectric barrier discharge,2
+281,zero pollution,1,combined cooling and power,2
+282,air turbine,1,solar cooling,2
+283,energy conversion,1,solar air conditioning,2
+284,urban heat island,1,solar pv cooling,2
+285,air temperature,1,power station emissions,2
+286,air humidity,1,omi no2,2
+287,electric power,1,nilm,2
+288,compressors,1,load disaggregate,2
+289,power stations,1,smart meter,2
+290,organic rankine cycle,1,air breakdown,2
+291,geothermal power,1,circular aperture antenna,2
+292,moderate temperature heat,1,maximum radiation power,2
+293,rremote terminal air-conditioner unit,1,economic analysis,2
+294,pic1617628a microcontroller,1,lignite pre-drying,2
+295,corona discharge,1,self-powered,2
+296,dbd,1,kite power estimation,2
+297,atmospheric pressure plasma,1,mathematical equations for kite,2
+298,pin to plate,1,thermodynamic optimization,2
+299,oes,1,waste heat utilization,2
+300,condenser,1,organic working,2
+301,evaporative cooling,1,meteorological conditions,2
+302,energy conservation,1,rotating speed,2
+303,infrared,1,respiratory health,2
+304,convective,1,exposure assessment,2
+305,drying rate,1,wind conditions,2
+306,effective moisture diffusivity,1,blade installation angle,2
+307,solar rankine cycle,1,cchp systems,2
+308,air chimney,1,renewable energy,2
+309,pneumatic tube,1,statistical power,2
+310,solar concentrator,1,time-series studies,2
+311,air spikes,1,air pollution epidemiology,2
+312,high power millimeter wave,1,energetically enhanced combustion,2
+313,high resolution,1,microwave plasma,2
+314,warloc,1,planar,2
+315,hvac noise,1,aperture antennas,2
+316,sound power measurements,1,dielectric breakdown,2
+317,air-conditioner noise,1,microwave power transmission,2
+318,flow noise,1,power cable ampacity,2
+319,hybrid-pv systems,1,thermal model method,2
+320,pv-air-conditioning,1,ventilation in tunnel,2
+321,cost analysis,1,central generation,2
+322,pv-off grid,1,air quality modeling,2
+323,ipmsm,1,power factor,2
+324,ipqc,1,induction motor drives,2
+325,air-drying,1,fan,2
+326,heat acclimatization,1,compressors,2
+327,heat stress,1,power stations,2
+328,individual control,1,ipmsm,2
+329,power tools,1,ipqc,2
+330,bacteria,1,liquid desiccant dehumidification,1
+331,contamination,1,photovoltaic/thermal collector,1
+332,multistage biofuel drying system,1,electrolytic capacitor-less inverter,1
+333,power-to-heat ratio,1,input current harmonics,1
+334,chp,1,rremote terminal air-conditioner unit,1
+335,integrated,1,pic1617628a microcontroller,1

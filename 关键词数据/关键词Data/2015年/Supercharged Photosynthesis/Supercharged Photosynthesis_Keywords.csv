@@ -1,0 +1,24 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,genetic engineering,2,genetic engineering,6
+1,crop modelling,1,chloroplast,4
+2,crop productivity,1,photosynthesis,4
+3,gecros,1,rubisco,4
+4,genetic transformation,1,rubisco activase,4
+5,arabidopsis,1,regulation,4
+6,artificial selection,1,crop modelling,3
+7,biomathematical modelling,1,crop productivity,3
+8,c-4,1,gecros,3
+9,system of rice intensification,1,genetic transformation,3
+10,c4 rice,1,arabidopsis,3
+11,low,1,artificial selection,3
+12,c-3 photosynthesis,1,biomathematical modelling,3
+13,c-4 photosynthesis,1,c-4,3
+14,co2 use efficiency,1,system of rice intensification,3
+15,chloroplast,1,c4 rice,3
+16,photosynthesis,1,low,3
+17,rubisco,1,c(4) photosynthesis,3
+18,rubisco activase,1,crop yield,3
+19,regulation,1,food security,3
+20,c(4) photosynthesis,1,c-3 photosynthesis,2
+21,crop yield,1,c-4 photosynthesis,2
+22,food security,1,co2 use efficiency,2

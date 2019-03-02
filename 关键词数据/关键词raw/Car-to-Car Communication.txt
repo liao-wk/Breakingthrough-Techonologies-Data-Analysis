@@ -1,0 +1,860 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE Broadband antenna; car-to-car communication; long term evolution;
+   shark-fin; sleeve monopole
+ER
+
+PT J
+DE Car-to-car Communications; VANET; WAVE; 802.11p; road safety; routing;
+   vehicular; data dissemination; scalable architecture
+ID STREETLIGHT SYSTEM; SMART CITIES; NETWORK; OPTIMIZATION; MANAGEMENT;
+   SENSORS; SAFETY; CITY
+ER
+
+PT J
+DE Low profile; dual-band antenna; monopolar patch antenna; wireless local
+   area network (WLAN); car-to-car (C2C)
+ID DESIGN
+ER
+
+PT S
+DE VLC; vehicle-to-vehicle communication; modulation; VLC applications;
+   car-to-car communication
+ER
+
+PT B
+DE Vehicular Networks; LTE-V2I Communications; Automotive safety services
+ER
+
+PT J
+DE car-to-car communication; coupled map; traffic jam; intelligent
+   transportation systems; car-following
+ID INTER-VEHICLE COMMUNICATION; VELOCITY DIFFERENCE MODEL;
+   DELAYED-FEEDBACK-CONTROL; REACTION-TIME DELAY; TRAFFIC FLOW;
+   NUMERICAL-SIMULATION; NONLINEAR-ANALYSIS; RELATIVE VELOCITY; MEMORY;
+   ANTICIPATION
+ER
+
+PT J
+DE Digital Forensic; Connected Car; In-Vehicle Communication; C-ITS;
+   Infortainment
+ER
+
+PT J
+DE Location-based services; location privacy; location tracking protection;
+   vehicular networks
+ID PROTECTING PRIVACY; MODEL
+ER
+
+PT J
+DE Angle of arrival (AoA); angle of departure (AoD); car-to-car (C2C);
+   dense urban street environments; Doppler frequency; visual scattering
+   channel model
+ER
+
+PT S
+DE Electric Vehicles; Routing; Backpressure Routing; Fault Detection;
+   Byzantine Generals
+ER
+
+PT B
+DE variant management; reuse; life cycle
+ER
+
+PT B
+DE Intelligent Transportation; Car-to-Car Communication; Smart City
+ER
+
+PT S
+DE automotive antenna; over-the-air; car-to-car cluster; channel emulation;
+   spatial correlation
+ER
+
+PT J
+DE Angle-of-arrival (AOA); angle-of-departure (AOD); car-to-car (C2C);
+   delay spread; diffuse component; frequency correlation function (FCF);
+   line-of-sight (LOS) component; semi-circular tunnel (SCT) scattering
+   model; time-variant transfer function (TVTF)
+ID VEHICLE COMMUNICATIONS; MOBILE CHANNELS; COMMUNICATION; PROPAGATION;
+   GHZ; PROFILES; SYSTEMS
+ER
+
+PT J
+DE Car-to-car (C2C); omnidirectional radiation pattern; shorting pins;
+   triangular patch; V-shaped slot; wireless local area network (WLAN)
+ID VEHICULAR APPLICATIONS; GROUND PLANE; LOW-PROFILE; BAND; DESIGN
+ER
+
+PT J
+DE Authentication protocol; C-ITS; C2C communications; digital signature
+   schemes; modelling; OPNET Modeler; security; throughput; traffic
+   scenarios; VANET networks
+ER
+
+PT S
+DE CoMoSeF; car to car communication; VANET; controller area network;
+   location awareness
+ER
+
+PT S
+DE Vehicular Social Network (VSN); Advertisement dissemination; incentive
+   mechanism; privacy-preserving
+ER
+
+PT S
+ER
+
+PT S
+DE antenna; array; car-to-car; over-the-air; channel emulation; measurement
+ER
+
+PT S
+DE Car-to-X communication; dielectric slab waveguide; glass roof; guided
+   wave; microwave field
+ER
+
+PT B
+ID IMPACT; DESIGN
+ER
+
+PT S
+DE intelligent transport system (ITS); illumination; light-emitting diode
+   (LED); visible light communication (VLC); interference; floor reflection
+ER
+
+PT B
+DE Car-to-Car Communication; on-Board Sensors; Camera; Sensor Fusion; ADAS;
+   Real Time
+ER
+
+PT B
+DE MIMO; C2C-VLC; Reflectors; Bit error rate; Wireless communication
+ER
+
+PT B
+DE AODV; Congestion Control; Early Detection; MOVE; NS2; SUMO; VANET
+ER
+
+PT S
+ID AUTHENTICATION
+ER
+
+PT B
+ER
+
+PT B
+DE Spiral shaped LED; strip shaped LED; UPSOOK; car to car communications;
+   visible light communications
+ER
+
+PT J
+DE Car-to-car (C2C); channel capacity; multiple-input-multiple-output
+   (MIMO); software defined radio (SDR); vehicle-to-vehicle (V2V)
+ID WIRELESS
+ER
+
+PT J
+DE Car-to-car communications; Geocast routing; Collision warning
+   application; Vehicular AdHoc Networks
+ID AD HOC NETWORKS; PROTOCOLS
+ER
+
+PT J
+DE Car-to-car communication; driver behavior dissemination; driver fatigue
+   detection; driver inattention monitoring; smartphone; wearable devices
+ID MONITORING-SYSTEM; FATIGUE DETECTION; COMPUTER VISION; DROWSINESS; REAL;
+   RECOGNITION; FUSION; MOTION; ANGLE; ROAD
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ID CHANNEL; SAFETY
+ER
+
+PT J
+DE Jamming; vehicular networks; wireless communications
+ID NETWORKS
+ER
+
+PT B
+DE antenna; propagation; measurement; Alamouti; SDR; USRP; measurement;
+   car-to-car communication; radio channel
+ER
+
+PT S
+DE Car-to-Car; antenna placement; wave propagation; numerical methods;
+   high-frequency asymptotic methods; glass roof
+ER
+
+PT B
+DE CAR2X; SDN; NFV; Internet Factory; Cyber Security; WiFi; 5G; smart cars;
+   autonomous driving
+ER
+
+PT S
+ID CHANNEL
+ER
+
+PT B
+DE Game theory; commercial ads; message survival hops; cost; benefits
+ER
+
+PT S
+ER
+
+PT B
+DE Car-to-car communications; Multi-hop broadcast; Data dissemination;
+   Rateless codes
+ER
+
+PT J
+ID DIVERSITY; WIRELESS; NETWORKS
+ER
+
+PT S
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT S
+DE C2C; V2V; MIMO; SDR; Channel Capacity
+ER
+
+PT S
+DE antenna; propagation; simulation; MIMO; car-to-car communication
+ER
+
+PT B
+DE intelligent transportation systems; vehicular communications; VANET
+   networks; cryptography; ECIES scheme; modelling; OPNET Modeler; OpenSSL
+ER
+
+PT B
+DE Bandwidth; Road side unit (RSU); Base station unit (BSU); Network
+   Attacks; Digital Signature; Registration Identity; Certification
+ID AD-HOC NETWORKS; COMMUNICATION; DESIGN
+ER
+
+PT B
+DE car-to-car communication; visible light communication; road reflection;
+   LED; bit error rate
+ER
+
+PT B
+ID POWER LEDS
+ER
+
+PT S
+ID ALGORITHM
+ER
+
+PT S
+DE C2X; V2X; cooperative driving; ADAS; CoDAS
+ER
+
+PT J
+DE VANET; vehicular network; car-to-car; ad hoc network; in-network
+   aggregation; data dissemination; survey
+ID WIRELESS SENSOR NETWORKS; SIGNATURE SCHEME; VANETS; COMMUNICATION;
+   PERFORMANCE; FRAMEWORK
+ER
+
+PT S
+DE Car-2-Car communication; Car-2-X communication; emulation;
+   IEEE802.11p/WAVE; subsystem design; VRU eSafety; localization; real
+   time; secondary surveillance radar; standardization
+ER
+
+PT S
+ID INJURY SEVERITY; VEHICLE; DRIVERS
+ER
+
+PT S
+DE 5G; air interface; FBMC; OFDM; UFMC
+ER
+
+PT S
+DE Vehicle2X-Communication; V2X; Car-to-Car Communication; C2C; Signal
+   Quality; Measurements; Test Bed; Communication Latency
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT J
+DE Adaptive traffic signal control; Clustering; VANET
+ER
+
+PT B
+DE Ad-hoc networks; broadcasting; VANET; MANET; car to-car communication;
+   mobile networking; wireless communication; intelligent transportation
+   systems (ITS); cooperative traffic condition generation; cooperative
+   driving
+ER
+
+PT S
+ID ANTENNAS
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT B
+DE eCall; eRDS; rescue data; Car-to-Car communication; ITS-G5; emergency
+   message dissemination
+ER
+
+PT S
+ER
+
+PT S
+DE Car-to-car; Communications; VANET; WAVE; 802.11p; Road safety; Routing;
+   Vehicular
+ER
+
+PT S
+ER
+
+PT S
+DE Automotive; C2C antennas; Measurements
+ER
+
+PT S
+ER
+
+PT B
+DE IPv6; C2C communication; Geo-based routing
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT B
+DE geounicast; vanets; cross layer; location service; geo-forwarding;
+   cellular-based location service; vertical handover
+ER
+
+PT B
+ID PROPAGATION
+ER
+
+PT S
+DE component; Dynamic Route Planning; Intelligent Transportation Systems
+   (ITSs); vehicle-to-vehicle communication (V2V);
+   vehicle-to-infrastructure communications (V2I); VANET; OMNET plus; SUMO;
+   Veins; 802.11p
+ER
+
+PT S
+ER
+
+PT S
+ID AD HOC NETWORKS; PROTOCOL
+ER
+
+PT S
+DE IEEE802.11p/WAVE; subsystem design; VRE eSafety; localization; real
+   time; secondary surveillance radar; standardization
+ER
+
+PT S
+ID COMMUNICATION-SYSTEMS; TECHNOLOGY; INFORMATION; DESIGN
+ER
+
+PT S
+DE intelligent transportation system; vehicular network; security;
+   authorization; digital signature scheme; computational security;
+   simulation
+ID TELEMATICS
+ER
+
+PT S
+ER
+
+PT J
+DE Commercial ad dissemination; cooperation; incentives; security;
+   vehicular ad hoc networks (VANETs)
+ID HOC NETWORKS; SENSOR NETWORKS
+ER
+
+PT J
+DE Car2Car Communication Consortium (C2C-CC); GeoNet; GeoRouting;
+   infotainment; intelligent transportation systems (ITS); intervehicle
+   communication (IVC); receiver-based routing; sender-based routing
+ID AD-HOC NETWORKS; INTER-VEHICLE COMMUNICATION; SYSTEMS; ARCHITECTURE;
+   PERFORMANCE; BROADCAST; DELIVERY; DESIGN; SAFETY
+ER
+
+PT J
+DE Cooperative relaying; vehicular communications; time diversity;
+   measurements; testbed; VANET
+ER
+
+PT J
+DE Automotive safety; cooperative awareness; beaconing; hybrid vehicular
+   networks; VANETs; 3GPP LTE; IEEE 802.11p/WAVE
+ER
+
+PT J
+DE Scattering; radar; radar cross section; mobile communications; wave
+   propagation; ray-tracing; road vehicles
+ID WAVE-PROPAGATION
+ER
+
+PT B
+DE Radio Frequecy; RFID; Microcontroller; Remote Identification;
+   Vehicle-Infrastructure Interaction
+ER
+
+PT S
+DE OFDM; Radar; Car-to-car
+ER
+
+PT B
+DE Packet connectivity probability; mathematical model; packet delay
+   analysis; reliable packet routing; transportation accident events
+ID TRAFFIC INFORMATION-SYSTEMS; AD-HOC NETWORKS; CONNECTIVITY; VANETS
+ER
+
+PT S
+DE component; Car-to-car; Vehicular communication; Optical Wireless; Light
+   emitting diode; Free Space
+ID LIGHT
+ER
+
+PT B
+ER
+
+PT B
+DE distributed wirelese network emulator; high-speed mobility; clock
+   synchronization; IEEE 1588 PTPv2
+ER
+
+PT S
+DE Energy manager; FEV range anxiety; all electric range; network
+   architecture; control; operation strategies; vehicle simulation;
+   regenerative vacuum free braking; environmental sensors; radar; video;
+   satellite navigation; safety; GPS; car-to-car; car-to-infrastructure;
+   Hybrid Electric Vehicles (HEV)
+ER
+
+PT S
+ER
+
+PT B
+DE Automotive; Presentation scheduling; Conflict resolution
+ID BRANCH
+ER
+
+PT S
+DE vehicular communication; wireless sensor networks; accident prevention;
+   post-accident investigation
+ER
+
+PT B
+DE VANETs; WAVE; IEEE 802.11p; Raptor code; Fountain code; MIMO; STBC
+ER
+
+PT B
+DE VANET; vehicular networks applications; car-to-car communications;
+   peer-to-peer media streaming
+ER
+
+PT B
+DE VANET; car-to-car communication; VANET simulation; visualization
+   framework
+ER
+
+PT S
+DE C2C; CALM; WiMAX; WiFi; VSG; RTSA
+ER
+
+PT B
+DE Sequential Quadratic Programming; design automation; multi-objective;
+   patch antenna
+ER
+
+PT S
+ER
+
+PT J
+DE Car-to-Car; MIMO; Wave Propagation; Ray-tracing; Capacity; Antenna
+   Synthesis
+ID ELECTROMAGNETIC DEGREES; CHANNELS; FREEDOM; DIVERSITY; PROPAGATION;
+   SCATTERING; WIRELESS; CAPACITY; IMPACT; MODEL
+ER
+
+PT S
+DE Geoencryption; GPS; Location based encryption; intelligent vehicular
+   networks; location authentication; vehicular ad hoc networks
+ER
+
+PT S
+DE Autonomous multi-vehicle collaboration; People and vehicle recognition
+   and tracking; Tracking and scene analysis for intelligent vehicles;
+   Car-to-car communication; Road safety; Enhancement of first aid
+   measures; First aid assistance
+ER
+
+PT J
+DE Vehicles; Roads; Gold; Driver circuits; Computer architecture; Unified
+   modeling language; Hardware
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT B
+DE IEEE802.21; Heterogeneous Network Handover; Vehicular Communication
+   Platform; Car-to-Car Communication; Vertical Handover
+ER
+
+PT S
+ER
+
+PT B
+DE traffic management; driver assistance; car-to-car communication; dynamic
+   routing
+ER
+
+PT J
+DE Adaptive System; Genetic Algorithm; Traffic Information System
+ER
+
+PT S
+ID VISIBLE-LIGHT COMMUNICATION
+ER
+
+PT B
+ER
+
+PT B
+DE Wireless Communication System; Traffic Control; Car-to-Car
+   Communication; Car-to-Infrastructure Communication and Autonomous
+   Vehicles
+ID OPTIMIZATION
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT B
+DE VANETs; IEEE802.11; ITS
+ER
+
+PT B
+DE VANETs; Car-to-car communications; Safety message; Reliable broadcasting
+ER
+
+PT B
+ER
+
+PT S
+DE Car-to-ear communications; vehicular ad-hoc networks; emergency
+   messaging; information dissemination; analytical modeling
+ID CAPACITY
+ER
+
+PT S
+DE WLAN; IEEE802.11n; Performance evaluation
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT B
+DE car-to-car communications; vehicular ad-hoc networks; periodic
+   broadcasting; analytical modeling; IEEE 802.11p
+ID PERFORMANCE
+ER
+
+PT B
+ER
+
+PT S
+DE Cooperative Vehicle Infrastructure environment; IntelliDrive;
+   Transportation Sustainability; Route Guidance System; Microscopic
+   Simulation; VISSIM
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT S
+DE Vehicle-to-vehicle network; car-to-car network; location management;
+   false alarm
+ER
+
+PT B
+DE ad hoc network; car-to-car communication; VANET; wireless; 802.11p
+ER
+
+PT J
+DE Car-to-Car Communication; Wave Propagation; Ray-tracing; SISO; SIMO;
+   MIMO
+ID MOBILE COMMUNICATIONS
+ER
+
+PT J
+DE multicast; geographic addressing and routing; VANET; C2C-CC; IPv6
+ER
+
+PT S
+DE Pervasive Adaptation; Socio-technical Systems; Smart Cars; Car Crowds;
+   Driver-Car Interaction; Vital Context
+ER
+
+PT S
+DE Vehicular ad hoc networks; Privacy; Trust; Car-to-car messages
+ID AD HOC NETWORKS; GROUP SIGNATURES; RANDOM ORACLES
+ER
+
+PT B
+DE Peer-to-Peer Networks; Overlay Networks; Traffic Information Systems;
+   Car-to-car Communication; VANET Alternatives; PeerTIS
+ER
+
+PT J
+DE Agent-based deployed applications; intelligent agents; peer-to-peer
+   networks; transportation networks
+ID SIMULATION
+ER
+
+PT J
+DE vehicle positioning; GPS; Kalman filter; car-to-car communication;
+   communication delay
+ID SENSOR NETWORKS
+ER
+
+PT J
+DE network coding; VANET; data mule; analysis
+ER
+
+PT J
+DE short-range wireless technology; car-to-car and car-to-infrastructure
+   communication; ad hoc networking; Geocast; multi-hop communication; IEEE
+   802.11; CAR-2-X communication; CAR-2-X platform; C2C-CC
+ER
+
+PT B
+ID MANETS
+ER
+
+PT B
+DE Car-to-Car communication; Inter-vehicle communication; Zigbee; WLAN;
+   Roadside Station Unit
+ER
+
+PT B
+ID INTERVEHICLE NETWORKS
+ER
+
+PT S
+ER
+
+PT S
+ID COMMUNICATION; SAFETY
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT B
+DE Info-Security; Vehicular Networks; Car Communications;
+   Tamper-resistance; Integrated Data Security Gatekeeper
+ER
+
+PT S
+ID COMMUNICATION
+ER
+
+PT B
+DE Large-scale simulation; traffic telematics; wireless networks
+ID WIRELESS NETWORKS
+ER
+
+PT B
+ER
+
+PT S
+DE 802.16e; Mobile WiMAX; C2C communications
+ER
+
+PT B
+ID SAFETY
+ER
+
+PT S
+ER
+
+PT J
+DE mobile computing; mobile applications; ubiquitous computing; distributed
+   programming; distributed systems
+ID DISTRIBUTED SYSTEMS
+ER
+
+PT J
+DE protocols; services; road vehicles; simulation; vehicular ad-hoc
+   networks; location-aware services
+ER
+
+PT S
+DE inter-vehicular communication; car-to-car safety; car-to-car
+   entertainment; fast-delivery broadcast
+ER
+
+PT B
+DE ITS; C2I/C2C; safety application; WAVE
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+DE ad-hoc networks; Ray Tracing; time variant; radar cross section; ray
+   optical; vehicles; cars; car-to-car communication
+ER
+
+PT S
+DE hybrid ad-hoc; car-to-car communication; traffic service; road weather
+ID DESIGN; SAFETY
+ER
+
+PT B
+ID TRAFFIC FLOW
+ER
+
+PT B
+DE ad-hoc networks; ray tracing; time variant; radar cross section; ray
+   optical; vehicles; cars; car-to-car communication
+ER
+
+PT B
+DE state-sharing; dependability; inter vehicle communication; dynamic
+   reconfiguration
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT B
+DE Vehicular ad hoc networks; Incentives; Security; Cooperation
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT S
+DE Automotive; Vehicles; Multimedia in Vehicles; Time Variant Scenarios;
+   Ray Tracing; Car-to-Car Communication
+ER
+
+PT B
+ER
+
+PT J
+DE dielectric lens antenna; shaped lens; bifocal lens; wide angle beam
+   steering; Abbe sine condition
+ER
+
+PT B
+DE ad-hoc networks; car-to-car networks; inter-vehicle communications;
+   wireless LAN
+ER
+
+PT B
+ER
+
+PT J
+ER
+
+PT S
+DE LED headlamp; forward lighting; high brightness; optical concept; AFS;
+   car-to-car communication
+ER
+
+PT B
+ER
+
+PT J
+DE fault-tolerant real-time systems; distributed algorithms; mobile
+   computing; wireless networks
+ID CLOCK SYNCHRONIZATION
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT S
+DE ad hoc networks; link expiration time; statistical derivation; 2-hop
+   scenario
+ER
+
+EF

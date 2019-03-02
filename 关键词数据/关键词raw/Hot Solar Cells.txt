@@ -1,0 +1,783 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE bypass diode configuration; reverse bias voltage of shaded cell; hot
+   spot; PV module
+ID SOLAR; TEMPERATURE
+ER
+
+PT J
+DE Cumulative density function (CDF) modeling; hot spots; photovoltaic
+   (PV); power loss; probability; PV defects; solar energy
+ID FAULT-DETECTION; ENERGY YIELD; PV MODULES; ENHANCEMENT; PANELS; CELL
+ER
+
+PT J
+DE Bi-based ternary halides; dynamic hot casting; lead-free perovskites;
+   perovskite solar cells
+ID PEROVSKITE SOLAR-CELLS; LEAD-FREE; CRYSTAL-STRUCTURE
+ER
+
+PT J
+DE solar cell; photovoltaic; hot carrier; hot phonon; carrier energy
+   relaxation; energy transfer
+ID QUANTUM-WELL LASERS; ENERGY RELAXATION; 3RD-GENERATION PHOTOVOLTAICS;
+   SEMICONDUCTOR-LASERS; EFFICIENCY; ABSORBERS; CONTACTS; SYSTEMS; GAAS;
+   GAN
+ER
+
+PT J
+DE PV module; Glass/cell/polymer sheet; Glass/cell/glass; IR thermography;
+   Hot solar cell; Thermal model
+ID PV MODULES; TEMPERATURE; STAGE
+ER
+
+PT J
+DE Integrated renewable system; Combined heat and power; Solar hot water
+   system; Solar-hydrogen combined heat and power; Experimental study;
+   Standalone applications
+ID SUSTAINABLE ENERGY ECONOMY; HOT-WATER SYSTEM; TECHNOECONOMIC
+   FEASIBILITY; IN-GLASS; PERFORMANCE; COLLECTORS; STORAGE; HOUSE; CELL
+ER
+
+PT J
+DE CsPbI3; Perovskite; Hot carrier cooling; Hot hole transfer; Hot phonon
+   bottleneck
+ID HYBRID SOLAR-CELLS; HALIDE PEROVSKITES; HIGH-EFFICIENCY;
+   OPTICAL-ABSORPTION; CHARGE SEPARATION; LOW-COST; ELECTRON; DYNAMICS;
+   RECOMBINATION; PERFORMANCE
+ER
+
+PT J
+DE Hot spot protection; Photovoltaic (PV) hot spotting analysis; Solar
+   cells; Thermal imaging
+ID FAULT-DETECTION ALGORITHM; CELLS; ARRAYS; PLANTS
+ER
+
+PT J
+ID PHOTOVOLTAIC MODULES; BYPASS DIODE; PERFORMANCE; SYSTEMS
+ER
+
+PT J
+ID THERMOGRAPHY; BREAKDOWN
+ER
+
+PT J
+ID EFFICIENCY
+ER
+
+PT J
+ID CONTINUOUS-WAVE PHOTOLUMINESCENCE; QUANTUM-WELL STRUCTURES; GAAS;
+   RELAXATION; EFFICIENCY; ABSORBERS; HETEROSTRUCTURES; SEMICONDUCTORS;
+   THERMALIZATION; IONIZATION
+ER
+
+PT J
+DE Hot-spot mitigation; photovoltaic (PV) hot spotting analysis; solar
+   cells; thermal imaging
+ID FAULT-DETECTION ALGORITHM; BYPASS DIODE; PLANTS; ARRAYS; VELOCITY;
+   MODULES; SYSTEMS
+ER
+
+PT S
+ID PHOTOVOLTAIC DEVICES; FABRICATION
+ER
+
+PT J
+DE hot carriers; photovoltaics; Shockley-Queisser limit;
+   photothermoelectrics; III-V nanowires
+ID EFFICIENCY; LIMIT; DEVICES; LIGHT; POWER
+ER
+
+PT J
+ID HYBRID SOLAR-CELLS; HALIDE PEROVSKITES; HIGH-EFFICIENCY; LOW-COST;
+   ELECTRON; NANOCRYSTALS; PERFORMANCE; PHASE; COLOR; STABILIZATION
+ER
+
+PT J
+DE Solar cells; Silicon heterojunction; Hot wire chemical vapor deposition;
+   Micropillar arrays
+ID CHEMICAL-VAPOR-DEPOSITION; CONVERSION EFFICIENCY; SI; ARRAYS; FILMS
+ER
+
+PT J
+ID FIBRIL WIDTH; MORPHOLOGY; PHOTOVOLTAICS; EFFICIENCY
+ER
+
+PT J
+DE Double heterostructure; kinetic transport theory; prototype hot carrier
+   solar cell; Seebeck effect
+ID EPITAXIAL-GROWTH
+ER
+
+PT J
+DE hot-spot; photovoltaic (PV) string; crystal defect; detection method
+ER
+
+PT B
+DE Infrared Thermography; Solar Cell; Hot-Spot; Prediction; Linear
+   Regression
+ER
+
+PT S
+DE Active bypass; hot spot; partial shading; Photovoltaics
+ID SURFACE RECOMBINATION VELOCITY; PV PLANTS; LIFETIME; MODULES; SYSTEM;
+   CELLS
+ER
+
+PT B
+DE PV generation system; PV modules; hot-spot
+ER
+
+PT S
+DE PV modules; hot spot; solar module mismatch; defective solar cells;
+   high-efficiency solar module
+ER
+
+PT B
+DE Solar cell; photovoltaic; hot carrier; phonon; lattice; nano-structure
+ID EFFICIENCY
+ER
+
+PT S
+DE Hot Carriers; multiple quantum wells; optical phonons; phonon
+   bottleneck; time resolved photoluminescence
+ER
+
+PT S
+DE carrier collection; energy recycling; hot carrier cells; Monte Carlo
+   simulation
+ER
+
+PT S
+DE carrier cooling; double barrier; energy selective contacts; hafnium
+   nitride; hot carrier; photovoltaic cells; solar energy; zirconium
+   nitride
+ID ULTRAFAST CARRIER; SEMICONDUCTOR; DYNAMICS; DECAY
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT J
+DE PV module; Opaque; Semitransparent; IR thermography; Hot spot
+ID PV MODULE; DEGRADATION; CELLS
+ER
+
+PT J
+DE plasmonic nanostructures; photovoltaic devices; hot carriers; electrodes
+ID SILICON SOLAR-CELLS; SILVER NANOWIRE MESHES; METAL NANOPARTICLES;
+   PHOTOCURRENT GENERATION; ORGANIC PHOTOVOLTAICS; GOLD NANOPARTICLES;
+   OPTICAL HAZE; LARGE-SCALE; TIO2 FILMS; EFFICIENCY
+ER
+
+PT J
+ID CHARGE-CARRIERS; GENERATION; PHOTOVOLTAICS; NANOCRYSTALS; EFFICIENCY;
+   ELECTRONS; DEVICE; ENERGY; NANOPARTICLES; EXTRACTION
+ER
+
+PT J
+DE hot carriers; phonon bottleneck effect; type-II band alignment
+ID ENERGY-LOSS RATES; AB-INITIO; GAAS; HETEROSTRUCTURES; EFFICIENCY;
+   PHOTOLUMINESCENCE; CONVERSION; ELECTRONS; GASB
+ER
+
+PT B
+DE hot-spot; PV string; crystal defect; detection method
+ID CELLS
+ER
+
+PT S
+DE carrier collection; hot carrier cells; Monte Carlo simulation
+ID SOLAR-CELLS; QUANTUM-WELLS
+ER
+
+PT S
+DE carbon; feedstock; hot spot testing; multi crystalline silicon;
+   photovoltaic cells; solar grade silicon
+ER
+
+PT S
+DE hot carrier solar cells; hot carrier modeling; non-equilibrium
+   generalized Planck's law; non-equilibrium electron and hole
+   distributions
+ER
+
+PT S
+DE photovoltaic cells; solar energy; aerospace testing; manufacturing
+   processes
+ER
+
+PT B
+ID ABSORPTION; LIGHT; GOLD
+ER
+
+PT S
+DE Type-II; phonons; hot carriers; photoluminescence; thermalization
+   coefficient
+ID SOLAR-CELLS; EFFICIENCY; RATES; GAAS
+ER
+
+PT B
+DE Al; Ag; Au nano particles; silicon; solar cells; surface plasma
+   resonance; hot carrier cells; multiple junction solar cell
+ER
+
+PT S
+DE hot carriers; quantum modeling; contact; quantum resonance
+ID CONTACTS
+ER
+
+PT S
+DE Hot carrier solar cell; energy selective contacts; non-isentropic
+   contact; transmission fuction; contact Seebeck coefficient
+ID EFFICIENCY
+ER
+
+PT J
+DE Solar cells; GaSb/GaAs Type-II quantum dots; Hot photoelectrons;
+   Inelastic scattering; Exciton dissociation; Hole releasing
+ID SOLAR-CELLS; WELL STRUCTURES; SINGLE
+ER
+
+PT J
+DE Hot carrier solar cell; Hafnium nitride; Phonons; Hot carriers; Carrier
+   cooling; Transient absorption spectroscopy
+ID EFFICIENCY
+ER
+
+PT J
+DE quantum thermodynamics; hot carrier solar cells; efficiency; entropy
+   production; photovoltaics; thermoelectrics
+ID ENERGY SELECTIVE CONTACTS; THERMOELECTRIC FIGURE; QUANTUM-WELLS;
+   EFFICIENCY; ENHANCEMENT; CONVERSION; ABSORBERS; MERIT; DOT
+ER
+
+PT J
+DE Hot carrier solar cell; DFPT; Hot optical phonon relaxation;
+   Thermalization power
+ID FUNCTIONAL PERTURBATION-THEORY; SOLAR-CELLS; SEMICONDUCTORS; INN; GAAS;
+   GAN
+ER
+
+PT J
+ER
+
+PT J
+DE surface plasmons; silicon; silicon nanowire; solar cell; thin film solar
+   cells; organic solar cells; optical losses; light scattering; optical
+   trapping; nanoparticles; photovoltaics; hot electron; guide mode
+ID ENHANCED PHOTON-ABSORPTION; PHOTOVOLTAIC APPLICATIONS;
+   OPTICAL-ABSORPTION; SILICON NANOWIRES; BACK REFLECTOR; SILVER CORE;
+   LIGHT; DEVICES; DESIGN; NANOPARTICLES
+ER
+
+PT J
+ID MULTIPLE EXCITON GENERATION; COLLOIDAL QUANTUM DOTS; LUMINESCENT LAYERS;
+   IMPACT IONIZATION; DOWN-CONVERSION; MULTIPLICATION; PBSE; NANOCRYSTALS;
+   PERFORMANCE; EXTRACTION
+ER
+
+PT J
+DE Hot-carriers; quantum wells; up-conversion
+ER
+
+PT S
+DE Hot-spot; Detection system; Real-time; PCS; PV solar panel; DC-DC
+   converter
+ER
+
+PT S
+DE Hafnium nitride; hot carriers; phonon; solar cells; thermalization;
+   transient absorption
+ER
+
+PT S
+DE Hot-carrier solar cell; type II band alignment; InP; InGaAsP
+ID QUANTUM-WELLS; SOLAR-CELLS; EFFICIENCY
+ER
+
+PT S
+DE hafnium nitride; hot carrier solar cells; hafnium nitride; phonon gaps
+ID INN; PHONONS; DECAY
+ER
+
+PT S
+DE carrier cooling; hafnium nitride; hot carrier absorber; photovoltaic
+   cells; zirconium nitride
+ID TRANSITION-METAL NITRIDES; SOLAR-CELLS; PHONON ANOMALIES; FLUORESCENCE;
+   DOTS
+ER
+
+PT J
+ID PV MODULE; CELLS; PERFORMANCE; SIMULATION
+ER
+
+PT S
+ER
+
+PT S
+DE phonons; carrier cooling; hot carriers; time resolved photoluminescence;
+   Klemens decay; multiple quantum wells
+ID FILMS; PHONONS; GAAS; INN
+ER
+
+PT S
+DE solar cells; hot carriers; photoluminescence; carrier relaxation
+ID AMORPHOUS-SILICON; DYNAMICS
+ER
+
+PT S
+DE Domestic hot water; Solar thermal; Solar fraction; Facade
+ID HOT-WATER CONSUMPTION
+ER
+
+PT S
+DE Hot carrier solar cell; metallic absorber
+ID SOLAR-CELLS; ELECTRON; CONTACTS; GAAS; GOLD
+ER
+
+PT J
+ID SENSITIZED SOLAR-CELLS; OPEN-CIRCUIT VOLTAGE; DEVICES; SURFACE;
+   MONOLAYERS; CARRIERS; CONTACT; PHOTODETECTION; NANOPARTICLES; TIO2
+ER
+
+PT J
+DE Hot carrier solar cell; Double heterojunction; Band offset
+ID SEMICONDUCTOR; HETEROJUNCTIONS; EFFICIENCY; LEVEL; CORE; PBSE
+ER
+
+PT J
+DE Hot-carrier solar cell (HCSC); InGaAs; InP; thermalization coefficient;
+   quantum well (QW)
+ID SOLAR-CELL ABSORBERS; ENERGY-LOSS RATES; GAAS; PHOTOLUMINESCENCE;
+   HETEROSTRUCTURES; THERMALIZATION; EFFICIENCY; ELECTRONS; CONTACTS
+ER
+
+PT J
+DE Spectroscopy; Photovoltaic (PV); Hot spot; degradation; Absorbance
+ER
+
+PT J
+ID PHOTOVOLTAIC APPLICATIONS; LIGHT; SEMICONDUCTOR; NANOTUBES; ARRAYS
+ER
+
+PT J
+ID LOCALIZED WANNIER FUNCTIONS; SOLAR-ENERGY CONVERSION; QUASI-PARTICLE;
+   ELECTRON-GAS; SEMICONDUCTORS; EFFICIENCY; CELLS; TRANSPORT
+ER
+
+PT J
+ID GAAS; PHOTOLUMINESCENCE; HETEROSTRUCTURES; EFFICIENCY; ELECTRONS; RATES
+ER
+
+PT J
+ID INDUCED CHARGE SEPARATION; VISIBLE-LIGHT; TIO2 FILMS; GOLD
+   NANOPARTICLES; SILVER NANOPARTICLES; SURFACE-PLASMONS; SOLAR-CELL;
+   PHOTOELECTROCHEMICAL PROPERTIES; PHOTOCURRENT GENERATION; METAL
+   NANOPARTICLES
+ER
+
+PT J
+DE hot carrier; tunnelling; carrier extraction; energy-selective contact
+ID QUANTUM-WELLS; SOLAR-CELLS; GAAS; EFFICIENCY; SCATTERING; CONVERSION;
+   TRANSPORT; ELECTRONS; CONTACTS
+ER
+
+PT S
+DE phonons; carrier cooling; hot carriers; time resolved photoluminescence;
+   Klemens decay; multiple quantum wells
+ID FILMS; PHONONS; GAAS; INN
+ER
+
+PT S
+DE thermography; hot-spot protection; mass production
+ID SOLAR-CELLS; TEMPERATURE
+ER
+
+PT S
+DE Hot-carrier solar cell; spectral sensitivity
+ID EFFICIENCY
+ER
+
+PT S
+DE Hot Carrier Solar Cell; Photovoltaics; Phonon; Third Generation
+ID ENERGY-CONVERSION; ELECTRONS; SYSTEMS
+ER
+
+PT J
+DE Hot carrier solar cell (HCSC); quantum well (QW)
+ID SOLAR-CELLS; GAAS; PHOTOLUMINESCENCE; HETEROSTRUCTURES; SCATTERING;
+   ELECTRONS; CONTACTS; PHONONS; RATES
+ER
+
+PT B
+DE hot carriers; photovoltaic cells
+ER
+
+PT B
+DE photovoltaic cells; hot carrier absorber; hot carrier solar cells; third
+   generation photovoltaics; hafnium nitride; zirconium nitride; carrier
+   cooling
+ID TRANSITION-METAL NITRIDES; SOLAR-CELLS; PHONON ANOMALIES; CONTACTS;
+   DECAY
+ER
+
+PT J
+ID MULTIPLE EXCITON GENERATION; PBSE QUANTUM DOTS; CARRIER-MULTIPLICATION;
+   SINGLET-FISSION; IMPACT IONIZATION; SEMICONDUCTOR NANOCRYSTALS;
+   TIME-DOMAIN; 3RD-GENERATION PHOTOVOLTAICS; MULTIEXCITON GENERATION;
+   ELECTRONIC-PROPERTIES
+ER
+
+PT J
+ID FRESNEL LENSES
+ER
+
+PT J
+ID EFFICIENCY; ELECTRODES
+ER
+
+PT J
+DE Hot-carrier; impact-ionization; intermediate band; solar cells;
+   thermodynamics
+ID PHOTOVOLTAIC ENERGY-CONVERSION; LIMITING EFFICIENCIES; MULTIPLICATION
+ER
+
+PT J
+DE hot-carrier solar cells; intermediate-band solar cells; limiting
+   efficiency; detailed balance
+ID ABSORPTION-COEFFICIENTS; EFFICIENCY; CONVERSION; GENERATION; OVERLAP;
+   SYSTEMS; GAAS
+ER
+
+PT J
+DE Modeling; nonlinear dynamical systems; photovoltaic (PV) systems; PV
+   cells; power system control; solar power generation
+ID PHOTOVOLTAIC MODULES; ARRAYS
+ER
+
+PT J
+DE Boron antimonide; Hot carrier solar cell; DFT; Phonon bottleneck
+ID INITIO MOLECULAR-DYNAMICS; GENERALIZED GRADIENT APPROXIMATION;
+   TOTAL-ENERGY CALCULATIONS; AUGMENTED-WAVE METHOD; ULTRASOFT
+   PSEUDOPOTENTIALS; BASIS-SET; SEMICONDUCTORS; EFFICIENCY; METALS; LASERS
+ER
+
+PT S
+ID SILICON SOLAR-CELLS; MODULES; DEGRADATION; MISMATCH
+ER
+
+PT S
+DE T Hot spot; shunt; solar cell reliability
+ER
+
+PT S
+DE Multi-junction; quantum well; up-conversion; intermediate band; hot
+   carrier
+ID PHOTOCHEMICAL UP-CONVERSION; SOLAR-CELLS; ENERGY-CONVERSION; EMISSION;
+   LIMIT
+ER
+
+PT S
+DE hot-wire CVD; epitaxial silicon; solar cells; impurities; DLTS
+ID GLASS
+ER
+
+PT S
+DE hot carriers; hot carrier solar cells; numerical models; numerical
+   simulation; resonant tunneling devices; photovoltaic cells
+ID QUANTUM-WELLS; NANOSTRUCTURES; SUPERLATTICE; EFFICIENCY; ABSORBERS;
+   GAAS; BULK
+ER
+
+PT S
+DE hot carrier solar cell; phonon decay; carrier cooling; hafnium nitride;
+   photovoltaics
+ID PHYSICAL-PROPERTIES; QUANTUM-WELLS; HFN; EFFICIENCY; MGO(001); GROWTH;
+   LAYERS; FILM
+ER
+
+PT S
+DE hot carrier cell device prototype; heterogeneous nano-particle array;
+   electronic and optical properties; electrical conductivity; lattice
+   thermal conductivity
+ID THERMOELECTRIC FIGURE; QUANTUM-WELLS; PHONONS; MERIT
+ER
+
+PT S
+DE Modeling; Nonlinear dynamical systems; Photovoltaic cells; Photovoltaic
+   Systems; Power system control; Solar Power Generation
+ER
+
+PT B
+ID FRESNEL LENSES; DESIGN
+ER
+
+PT J
+ID MONTE-CARLO; ELECTRON-TRANSPORT; IMPACT IONIZATION; BAND-STRUCTURE;
+   SCATTERING; SEMICONDUCTORS; EFFICIENCY; GAAS; PRINCIPLES; DIAMOND
+ER
+
+PT J
+DE Hot carriers; light trapping
+ID QUANTUM-WELL STRUCTURES; SEMICONDUCTORS; RELAXATION; EFFICIENCY; LIMIT;
+   GAAS; BULK
+ER
+
+PT J
+ID QUANTUM-WELLS; SUPERLATTICE; SPECTROSCOPY; SCATTERING; GAAS; INP
+ER
+
+PT J
+ID SOLAR-CELLS; AUGER RECOMBINATION; IMPACT IONIZATION; EFFICIENCY;
+   NANOCRYSTALS; SYSTEMS; GROWTH; DOTS
+ER
+
+PT J
+DE Comment
+ID PREBREAKDOWN SITES; SILICON; SPECTROSCOPY; BREAKDOWN
+ER
+
+PT J
+ID INN
+ER
+
+PT S
+DE photovoltaic; infrared image; fault detection; hot spot; opens circuit
+ER
+
+PT B
+DE hot phonons; hot carrier solar cells; Monte Carlo simulation
+ID QUANTUM-WELLS; ABSORBERS
+ER
+
+PT B
+DE Energy efficiency; Hot carriers; Photovoltaic cells; Sputtering;
+   Germanium carbide
+ID THIN-FILMS; GEC; SPECTROSCOPY
+ER
+
+PT S
+DE hot phonons; hot carrier solar cells; Monte Carlo simulation
+ID QUANTUM-WELLS; ELECTRON-SCATTERING; ENERGY-CONVERSION; MONTE-CARLO; GAAS
+ER
+
+PT S
+DE solar cell; high efficiency; hot carrier; quantum well
+ID GAAS; EFFICIENCY; BULK
+ER
+
+PT J
+ID TEST STANDARD
+ER
+
+PT J
+DE Auger effect; hot carriers; III-V semiconductors; impact ionisation;
+   indium compounds; solar cells; wide band gap semiconductors
+ID QUANTUM-WELLS; EFFICIENCY
+ER
+
+PT J
+ID EFFICIENCY; CONVERSION
+ER
+
+PT J
+DE Hot-carrier solar cells; Intermediate-band solar cells; Limiting
+   efficiency; Detailed balance
+ID IMPACT IONIZATION; SYSTEMS
+ER
+
+PT S
+DE solar cell; hot-spot heating; energy efficiency; reliability
+ER
+
+PT J
+DE Laser annealing; Organic solar cells; P3HT; PCBM
+ID SELF-ORGANIZATION; HEAT-TREATMENT; POLYMER; MORPHOLOGY; BLENDS
+ER
+
+PT J
+ER
+
+PT J
+DE Hot carriers; Phonons; Photovoltaics; DFT
+ID CONSISTENT BASIS-SETS; CONVERGENT BASIS-SETS; RELATIVISTIC
+   PSEUDOPOTENTIALS; PHONONS
+ER
+
+PT J
+DE Hot-spot; Infrared thermography; Transitions metals
+ER
+
+PT J
+DE Hot-carriers solar cells; Novel concepts; Electron-phonon interaction
+ID EFFICIENCY; CONVERSION; MOBILITY; INN
+ER
+
+PT S
+ER
+
+PT S
+ID SOLAR-CELLS; ENERGY-BALANCE; EQUATIONS
+ER
+
+PT S
+ER
+
+PT J
+ID IMPACT IONIZATION; RELAXATION; SCATTERING
+ER
+
+PT J
+DE Aluminum-induced crystallization (AIC); hot-wire chemical vapor
+   deposition (HWCVD); polycrystalline silicon (poly-Si)
+ID CHEMICAL-VAPOR-DEPOSITION; AMORPHOUS-SILICON; CRYSTALLIZATION; QUALITY;
+   FILMS
+ER
+
+PT J
+ID MORPHOLOGY EVOLUTION; SELF-ORGANIZATION; POLYMER; BLENDS
+ER
+
+PT J
+ID SEMICONDUCTORS; INJECTION; TRANSPORT; DYNAMICS; CARRIER
+ER
+
+PT J
+DE hot-spot; lock-in thermography; characterization
+ID SILICON SOLAR-CELLS; SHUNTS
+ER
+
+PT J
+DE Hot embossing; Moth eye; Anti-reflection; Solar cell; Quantum efficiency
+ID OPTICAL-FIBERS; POROUS SILICON; VISIBLE-LIGHT; CONCENTRATOR;
+   CALORIMETER; COLLECTION; SYSTEMS; ENERGY
+ER
+
+PT J
+ID SOLAR-CELL EFFICIENCIES; DOT INTERMEDIATE BAND; MULTIPLE EXCITON
+   GENERATION; HIGHLY MISMATCHED ALLOYS; QUANTUM DOTS; UP-CONVERSION;
+   CARRIER MULTIPLICATION; IMPACT IONIZATION; PICOSECOND RELAXATION;
+   ELECTRON RELAXATION
+ER
+
+PT J
+DE Hot carrier solar cells; Hot carriers; Impact ionization; Auger
+   recombination
+ID SOLAR-ENERGY CONVERSION; QUANTUM DOTS; EFFICIENCY; INGAAS; CELLS; BULK
+ER
+
+PT J
+DE HWCVD; a-Si:H; Solar cell; Thin film
+ID CHEMICAL-VAPOR-DEPOSITION; LOW H-CONTENT; SILICON; MICROCRYSTALLINE;
+   TEMPERATURE
+ER
+
+PT J
+DE Hot wire chemical vapor deposition; Silicon nitride; Thin film
+   semiconductor deposition; Solar cells; Flexible solar cells
+ID SOLAR-CELLS; AMORPHOUS-SILICON; MICROCRYSTALLINE SILICON; CVD;
+   TRANSISTORS; STRESS; TANDEM; LAYERS
+ER
+
+PT J
+DE hot carrier solar cells-; solar cells
+ID EFFICIENCY
+ER
+
+PT J
+DE HWCVD; solar cells; multijunction; efficiency; stability; silicon
+   nitride
+ID CHEMICAL-VAPOR-DEPOSITION; SILICON-NITRIDE
+ER
+
+PT J
+DE heterojunctions; solar cells; epitaxial growth; silicon; hot-wire
+   deposition; crystallization; efficiency; passivation
+ID CHEMICAL-VAPOR-DEPOSITION; FILMS
+ER
+
+PT J
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT S
+DE photovoltaics; solar; thermal; thermoelectric thermophotovoltaics
+ID ENERGY-CONVERSION; EFFICIENCY; CONVERTERS; CELLS
+ER
+
+PT J
+DE microcrystalline silicon; hot-wire CVD; solar cells
+ID CHEMICAL-VAPOR-DEPOSITION; SI-H; FILMS; PERFORMANCE; CIRCUIT; LAYERS;
+   HWCVD
+ER
+
+PT J
+DE solar cells; hot-wire deposition; microcrystalline silicon
+ER
+
+PT J
+DE Sun : flares; Sun : radio radiation
+ID NONLINEAR BEAM INSTABILITY; PLASMA EMISSION; CORONA; WAVES
+ER
+
+PT J
+DE tandem solar cells; amorphous silicon; microcrystalline silicon;
+   hot-wire CVD
+ER
+
+PT J
+DE hot wire CVD; amorphous silicon; microcrystalline silicon; deposition
+   site; Staebler-Wronski effect; large area deposition
+ID CHEMICAL-VAPOR-DEPOSITION; MICROCRYSTALLINE SILICON; AMORPHOUS-SILICON;
+   DEVICE-QUALITY; HIGH-RATES; FILMS; HWCVD; JAPAN; 1ST
+ER
+
+PT J
+DE hot-wire chemical vapor deposition; amorphous silicon; microcrystalline
+   silicon; solar cells
+ID CHEMICAL-VAPOR-DEPOSITION; POLYCRYSTALLINE
+ER
+
+PT J
+ID CHEMICAL-VAPOR-DEPOSITION; DEVICE-QUALITY; FILMS
+ER
+
+PT B
+ER
+
+PT B
+ID CHEMICAL-VAPOR-DEPOSITION; AMORPHOUS-SILICON; FILMS; JAPAN; HWCVD
+ER
+
+PT J
+DE photovoltaics; conversion efficiency; thermodynamics; solar cells; hot
+   electrons; efficiency limits
+ID EFFICIENCY; CELLS
+ER
+
+PT J
+DE hot electrons; quantum dots; (ultra-high photovoltaic) conversion
+   efficiency; impact ionization; efficiency limits
+ID SEMICONDUCTOR-ELECTROLYTE JUNCTIONS; HOT-CARRIER RELAXATION;
+   LIGHT-EMITTING-DIODES; MOLECULAR PHOTOVOLTAICS; IMPACT IONIZATION; CDSE
+   NANOCRYSTALS; BOX SYSTEMS; BULK GAAS; EFFICIENCY; POLYMER
+ER
+
+PT B
+ID SILICON
+ER
+
+PT B
+ER
+
+EF

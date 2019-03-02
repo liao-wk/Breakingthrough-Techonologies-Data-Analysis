@@ -1,0 +1,582 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,biomechanics,12,biomechanics,37
+1,nanoparticles,9,cell adhesion,28
+2,cell adhesion,9,hydroxyapatite,27
+3,atomic force microscopy,8,nanoparticles,25
+4,hydroxyapatite,8,afm,23
+5,afm,6,atomic force microscopy,22
+6,mechanical properties,6,nanoparticle,19
+7,cell,6,mechanical properties,19
+8,nanoparticle,5,cell,19
+9,self-assembly,5,chitosan,18
+10,carbon nanotubes,5,self-assembly,17
+11,bone,5,bone,17
+12,chitosan,5,scaffold,15
+13,adhesion,4,carbon nanotubes,15
+14,cell mechanics,4,adhesion,14
+15,scaffold,4,nanostructures,13
+16,nanostructures,4,nanocomposites,13
+17,nanocomposites,4,titanium,13
+18,titanium,4,osteoblast,12
+19,osteoblast,3,biosensor,12
+20,biomaterials,3,dna,12
+21,nanomechanics,3,collagen,11
+22,collagen,3,cell mechanics,11
+23,cell proliferation,3,biological,11
+24,biological,3,biocompatibility,11
+25,nanotechnology,3,bioactivity,11
+26,elasticity,3,biomaterials,10
+27,carbon nanotube,3,nanomechanics,10
+28,biosensor,3,elasticity,10
+29,electrospinning,3,carbon nanotube,10
+30,biocompatibility,3,nanotechnology,9
+31,nano-hydroxyapatite,3,electrospinning,9
+32,bioactivity,3,nano-hydroxyapatite,9
+33,dna,3,virus,8
+34,bmp-2,2,viscoelastic,8
+35,virus,2,cell proliferation,8
+36,viscoelastic,2,polydopamine,8
+37,differentiation,2,actin,8
+38,nonlocal,2,stiffness,8
+39,nano-indentation,2,composite,8
+40,nanomaterials,2,nonlocal,7
+41,nanofibers,2,confocal microscopy,7
+42,polydopamine,2,effective,7
+43,confocal microscopy,2,surface,7
+44,actin,2,lipid bilayer,7
+45,stiffness,2,sodium alginate,7
+46,effective,2,tio2 nanotube,7
+47,silk fibroin,2,mechanical,7
+48,indentation,2,surface modification,7
+49,surface,2,nanowire arrays,7
+50,cell membrane,2,hydrogels,7
+51,lipid bilayer,2,gecko,7
+52,bone cement,2,bmp-2,6
+53,young's modulus,2,differentiation,6
+54,sodium alginate,2,nanomaterials,6
+55,composite,2,silk fibroin,6
+56,nanostructure,2,indentation,6
+57,biomedical materials,2,cell membrane,6
+58,tio2 nanotube,2,bone cement,6
+59,mechanical,2,young's modulus,6
+60,surface modification,2,nanostructure,6
+61,nanowire arrays,2,topography,6
+62,topography,2,mechanical strength,6
+63,hydrogels,2,acoustic microscopy,6
+64,gecko,2,nano-indentation,5
+65,mechanical strength,2,nanofibers,5
+66,acoustic microscopy,2,lab-on-a-chip,5
+67,active matter,1,cell chip,5
+68,self-propelled particles,1,impedance,5
+69,numerical simulations,1,lung,5
+70,nanorobotic system,1,gold,5
+71,nano manipulation,1,albumin,5
+72,nano characterization,1,molecular dynamic,5
+73,flexural,1,gromacs,5
+74,igf-1,1,protein,5
+75,peptide aptamer,1,biomedical materials,5
+76,surfaces,1,pdms,5
+77,graded mineralization,1,morphology,5
+78,interfacial tissue engineering,1,epithelial cells,5
+79,inverse opal,1,sem,5
+80,antioxidants,1,tribocorrosion,5
+81,bacterial cellulose,1,debris,5
+82,bacterial cellulose sulfate,1,wear,5
+83,biphasic calcium phosphate,1,hip prostheses,5
+84,combined magnetic fields therapy,1,tribology,5
+85,arterial stiffening,1,corrosion,5
+86,artery,1,nanopore,5
+87,atomic force,1,injection,5
+88,elastic-perfectly plastic contact theories,1,concentration,5
+89,bioparticles,1,nanofluidics,5
+90,icosahedral,1,microfluidics,5
+91,qcmd,1,igf-1,4
+92,protein cage,1,peptide aptamer,4
+93,micro-/nano-fabrication,1,surfaces,4
+94,neural stem cells,1,arterial stiffening,4
+95,bionanomechanics,1,artery,4
+96,microparticles,1,atomic force,4
+97,human,1,icosahedral,4
+98,cell fate regulation,1,qcmd,4
+99,magnetic force,1,protein cage,4
+100,magnetic nanomaterials,1,silica particle,4
+101,biointerface,1,microparticle,4
+102,cooperative effect,1,bioadhesive,4
+103,growth factors,1,lipid tubules,4
+104,silica particle,1,size dependency,4
+105,microparticle,1,trabecular bone,4
+106,bioadhesive,1,raman,4
+107,lipid tubules,1,analysis,4
+108,size dependency,1,natural polymer,4
+109,non-specific cell adhesion,1,metal oxide,4
+110,nano indentation of a virus,1,wound dressing,4
+111,hertz effect,1,nanofiber,4
+112,finite elements,1,acdf,4
+113,linear,1,biodegradation,4
+114,cellular uptake,1,cervical cage,4
+115,physicochemical properties,1,cervical discectomy,4
+116,metal-organic frameworks,1,cervical,4
+117,titanium-dioxide,1,nano-ha,4
+118,trabecular bone,1,osteoinductivity,4
+119,raman,1,gecko adhesion,4
+120,analysis,1,peel-off force,4
+121,antimicrobial surface,1,temperature,4
+122,zif coating,1,relative humidity,4
+123,cell rupturing,1,coupled,4
+124,surface interaction,1,hela cells,4
+125,natural polymer,1,cell mitosis,4
+126,metal oxide,1,dissipation,4
+127,wound dressing,1,red blood,4
+128,nanofiber,1,in-vivo,4
+129,extracellular-matrix,1,cancer-therapy,4
+130,acdf,1,soft-tissue,4
+131,biodegradation,1,contrast,4
+132,cervical cage,1,nano-mechanics,4
+133,cervical discectomy,1,cell elasticity,4
+134,cervical,1,tumour dissemination,4
+135,nano-ha,1,polysialic,4
+136,osteoinductivity,1,3d printing,4
+137,peripheral nervous system,1,vascularized bone,4
+138,gecko adhesion,1,perfusable channel,4
+139,peel-off force,1,stem,4
+140,temperature,1,phospholipid,4
+141,relative humidity,1,molecular modeling,4
+142,coupled,1,hybrid,4
+143,afm-based manipulation,1,ag nanoparticle,4
+144,different biological environments,1,plasma treatment,4
+145,cylindrical,1,high adhesion,4
+146,bioengineering,1,wettability,4
+147,issue 122,1,antiviral therapy,4
+148,protein nano-dots,1,local field,4
+149,nanobiopatterning,1,graphene,4
+150,photothermal effect,1,mechanical responses,4
+151,bio-interface,1,bio-nano,4
+152,structure anisotropy,1,bacterial adhesion,4
+153,nanofiber yarns,1,microbiology,4
+154,textile technique,1,force-spectroscopy,4
+155,human aortic,1,spin coating,4
+156,hela cells,1,resonator,4
+157,cell mitosis,1,inverse problem,4
+158,dissipation,1,mass,4
+159,red blood,1,material identification,4
+160,cell stimulation,1,fluorescence,4
+161,magnetic nanoparticle,1,nems,4
+162,trpv2,1,viruses,4
+163,capsaicin-receptor,1,comsol,4
+164,caco-2 cells,1,bnnt,4
+165,lab-on-chip,1,forsterite,4
+166,micropores,1,glass,4
+167,nanoparticle translocation,1,sintering,4
+168,poly(methyl methacrylate) surfaces,1,peptide,4
+169,breast cancer,1,osteogenic,4
+170,nano-biomechanics,1,orthopedic implant,4
+171,principal component analysis,1,zirconia,4
+172,magnetic hyperthermia,1,macrophage,4
+173,magnetomotive nanoparticles,1,raw264.7 cells,4
+174,in-vivo,1,toxicity,4
+175,cancer-therapy,1,tnf-alpha,4
+176,soft-tissue,1,dental implant,4
+177,contrast,1,bacteria,4
+178,ecap,1,magnetotaxis,4
+179,triz,1,nano-components,4
+180,cold-rolling,1,bacterial transport,4
+181,nano-titanium,1,circulating tumor cells,4
+182,nano-mechanics,1,filopodia,4
+183,cell elasticity,1,nanoimprinting,4
+184,tumour dissemination,1,cell patterning,4
+185,polysialic,1,tissue,4
+186,nano-structures,1,chirality,4
+187,thermomechanical,1,nanocages,4
+188,electron microscopy,1,smart polymers,4
+189,compression,1,fabrication,4
+190,3d printing,1,stimuli,4
+191,vascularized bone,1,bioactive,4
+192,perfusable channel,1,nano-technology,4
+193,stem,1,bio-technology,4
+194,conducting polymers,1,fullerene,4
+195,porous alumina membranes,1,nanotube,4
+196,tissue engineering,1,nano tippe top,4
+197,phospholipid,1,nano-aquarium,4
+198,molecular modeling,1,photostructurable glass,4
+199,hybrid,1,fs laser,4
+200,ag nanoparticle,1,phormidium,4
+201,plasma treatment,1,microchip,4
+202,high adhesion,1,nanocomposite,4
+203,wettability,1,osteoclast,4
+204,antiviral therapy,1,attachment,4
+205,local field,1,vinculin,4
+206,lab-on-a-chip,1,lizards,4
+207,cell chip,1,roughness,4
+208,impedance,1,natural nano-ha,4
+209,lung,1,in-situ precipitation,4
+210,hierarchical micro/nano-structures,1,sound speed,4
+211,nitinol stents,1,atherosclerosis,4
+212,femtosecond laser,1,magmoons,4
+213,biological nanoparticles,1,brownian motion,4
+214,cylindrical contact models,1,microrheology,4
+215,manipulation,1,viscosity sensor,4
+216,dental nano-composite adhesive,1,microscopy,4
+217,bracket bonding effect,1,nanorobotic system,3
+218,graphene,1,nano manipulation,3
+219,mechanical responses,1,nano characterization,3
+220,bio-nano,1,flexural,3
+221,lacunar-canalicular network,1,elastic-perfectly plastic contact theories,3
+222,osteocyte,1,bioparticles,3
+223,perilacunar bone matrix,1,bionanomechanics,3
+224,membrane conformation,1,microparticles,3
+225,helfrich model,1,biointerface,3
+226,nano-particle adsorption,1,cooperative effect,3
+227,phase,1,growth factors,3
+228,nano-composite,1,non-specific cell adhesion,3
+229,helfrich free energy,1,nano indentation of a virus,3
+230,striated particles,1,hertz effect,3
+231,membrane,1,finite elements,3
+232,wrapping,1,linear,3
+233,nano-biocomposite,1,antimicrobial surface,3
+234,chitosan nanoparticles,1,zif coating,3
+235,plga,1,cell rupturing,3
+236,mems tweezers,1,surface interaction,3
+237,parameter detection,1,bioengineering,3
+238,sensitivity improvement,1,issue 122,3
+239,nano-structured calcium phosphate,1,protein nano-dots,3
+240,two-step sintering,1,nanobiopatterning,3
+241,nanocrystallite,1,photothermal effect,3
+242,bacterial adhesion,1,bio-interface,3
+243,microbiology,1,structure anisotropy,3
+244,force-spectroscopy,1,nanofiber yarns,3
+245,jkr,1,textile technique,3
+246,work of adhesion,1,human aortic,3
+247,atomic force microscope,1,cell stimulation,3
+248,magnetic nanoparticles,1,magnetic nanoparticle,3
+249,constant magnetic field,1,trpv2,3
+250,electromagnetic field,1,caco-2 cells,3
+251,spin coating,1,lab-on-chip,3
+252,three-dimensional porous,1,micropores,3
+253,polylactic acid,1,nanoparticle translocation,3
+254,rapid,1,ecap,3
+255,biocomposite materials,1,triz,3
+256,coarse-grained model,1,cold-rolling,3
+257,molecular,1,nano-titanium,3
+258,functionalized ligands,1,nano-structures,3
+259,surface instabilities,1,thermomechanical,3
+260,wrinkle formation,1,electron microscopy,3
+261,surface patterning,1,compression,3
+262,resonator,1,conducting polymers,3
+263,inverse problem,1,porous alumina membranes,3
+264,mass,1,tissue engineering,3
+265,material identification,1,membrane conformation,3
+266,cell-substrate interaction,1,helfrich model,3
+267,oxygen plasma etching,1,nano-particle adsorption,3
+268,gold,1,phase,3
+269,albumin,1,nano-composite,3
+270,molecular dynamic,1,helfrich free energy,3
+271,gromacs,1,striated particles,3
+272,protein,1,membrane,3
+273,implantation,1,wrapping,3
+274,tio2,1,nano-biocomposite,3
+275,oxidation,1,chitosan nanoparticles,3
+276,biodegradable polymer,1,plga,3
+277,biocomposite,1,mems tweezers,3
+278,fluorescence,1,parameter detection,3
+279,human mesenchymal stem cells,1,sensitivity improvement,3
+280,dna origami,1,jkr,3
+281,dna origami nanotube,1,work of adhesion,3
+282,nems,1,atomic force microscope,3
+283,viruses,1,three-dimensional porous,3
+284,comsol,1,polylactic acid,3
+285,bnnt,1,rapid,3
+286,forsterite,1,biocomposite materials,3
+287,glass,1,coarse-grained model,3
+288,sintering,1,molecular,3
+289,copolymer,1,functionalized ligands,3
+290,vesicles,1,cell-substrate interaction,3
+291,hemoglobin,1,oxygen plasma etching,3
+292,blood substitutes,1,implantation,3
+293,hardness,1,tio2,3
+294,elasticity modulus,1,oxidation,3
+295,bovine horn,1,human mesenchymal stem cells,3
+296,nano-mechanical property,1,dna origami,3
+297,microstructure,1,dna origami nanotube,3
+298,coupled model,1,copolymer,3
+299,dna translocation,1,vesicles,3
+300,solid-state nanopores,1,hemoglobin,3
+301,pressure gradients,1,blood substitutes,3
+302,short,1,hardness,3
+303,magnetic nanoparticle spectroscopy,1,elasticity modulus,3
+304,magnetization harmonics,1,bovine horn,3
+305,relaxation,1,nano-mechanical property,3
+306,bacterial nanocellulose,1,microstructure,3
+307,microbial nanocellulose,1,coupled model,3
+308,rubber,1,dna translocation,3
+309,biomaterial,1,solid-state nanopores,3
+310,viscoelasticity,1,pressure gradients,3
+311,biomolecular separation,1,short,3
+312,configurational entropy,1,rubber,3
+313,nanofilter array,1,biomaterial,3
+314,peptide,1,viscoelasticity,3
+315,osteogenic,1,wave propagation,3
+316,wave propagation,1,boron nitride nanotubes,3
+317,boron nitride nanotubes,1,alternating current,3
+318,alternating current,1,dental enamel,3
+319,cell injectionfinite-element modeling,1,nano-indentation test,3
+320,haptic interaction,1,orthodontic bracket,3
+321,dental enamel,1,fracture,3
+322,nano-indentation test,1,in vitro degradation,3
+323,orthodontic bracket,1,physical properties,3
+324,fracture,1,316 l stainless steel,3
+325,in vitro degradation,1,stents,3
+326,physical properties,1,in vitro cell studies,3
+327,316 l stainless steel,1,aromatic peptides,3
+328,stents,1,peptide nanotubes,3
+329,in vitro cell studies,1,nanotubes,3
+330,orthopedic implant,1,skin regeneration,3
+331,zirconia,1,keratinocytes,3
+332,aromatic peptides,1,fibroblasts,3
+333,peptide nanotubes,1,dna packaging,3
+334,nanomechanical properties,1,packaging force,3
+335,ultrafast electron microscopy,1,bone implants,3
+336,carboxylic functionalization,1,titania nanotubes,3
+337,nanotubes,1,local drug delivery,3
+338,skin regeneration,1,plasma etching,3
+339,keratinocytes,1,cell attachment,3
+340,fibroblasts,1,nanotexturing,3
+341,dna packaging,1,anodization,3
+342,packaging force,1,scanning electron microscope (sem),3
+343,bone implants,1,hs27,3
+344,titania nanotubes,1,hydrophobicity,3
+345,local drug delivery,1,polyethylene,3
+346,plasma etching,1,gold nanoparticles,3
+347,cell attachment,1,grafting,3
+348,nanotexturing,1,nano biphasic calcium phosphate,3
+349,migration,1,bone grafts,3
+350,anodization,1,alveolar bone,3
+351,scanning electron microscope (sem),1,bioglass,3
+352,hs27,1,micro/nano-particle,3
+353,macrophage,1,cell separation,3
+354,raw264.7 cells,1,enantiomorphous surfaces,3
+355,toxicity,1,self-assembled,3
+356,tnf-alpha,1,tritrichomonas foetus,3
+357,dental implant,1,superhydrophilic,3
+358,bacteria,1,vertically aligned,3
+359,magnetotaxis,1,carbon,3
+360,nano-components,1,beta-tricalcium phosphate,3
+361,bacterial transport,1,biphasic,3
+362,circulating tumor cells,1,mineralized collagen fibril,3
+363,filopodia,1,dna elasticity,3
+364,hydrophobicity,1,dna electrostatics,3
+365,nanoimprinting,1,buckling instability,3
+366,cell patterning,1,medical implants,3
+367,tissue,1,plastic deformation,3
+368,bending modulus,1,titanium oxide,3
+369,free-standing lipid bilayers,1,hydrothermal method,3
+370,polyethylene,1,hemcompatibility,3
+371,gold nanoparticles,1,fibroin,3
+372,grafting,1,nano-hap/fibroin,3
+373,nano biphasic calcium phosphate,1,compression strength,3
+374,bone grafts,1,bone regeneration,3
+375,alveolar bone,1,carboxymethyl chitosan,3
+376,bioglass,1,artificial cells,3
+377,nanophase materials,1,sol-gel processes,3
+378,sports engineering,1,nano-dynamics,3
+379,biological study,1,omtc,3
+380,micro/nano-particle,1,noise characteristics,3
+381,chirality,1,airway smooth muscle cell,3
+382,nanocages,1,nano titanium dioxide,3
+383,cell separation,1,hacat cells,3
+384,enantiomorphous surfaces,1,reactive oxygen species,3
+385,self-assembled,1,oxidative,3
+386,tritrichomonas foetus,1,heparin,3
+387,superhydrophilic,1,rare earth nano-oxides,3
+388,vertically aligned,1,anticoagulant,3
+389,carbon,1,microfabrication,3
+390,cellular mechanics,1,substrate stiffness,3
+391,molecular biomechanics,1,bio-inspired,3
+392,experimental techniques,1,foot-hair/setae,3
+393,triangular au nano-cavities,1,micro/nano-adhesive arrays,3
+394,surface-enhanced raman,1,sodium carboxymethylcellulose,3
+395,beta-tricalcium phosphate,1,dextran,3
+396,biphasic,1,dna damage,3
+397,mineralized collagen fibril,1,enzymes,3
+398,smart polymers,1,scanning probe microscopy,3
+399,fabrication,1,fibres,3
+400,stimuli,1,computational modeling,3
+401,micro-tensile bond strength,1,nanoindentation,3
+402,shear bond strength,1,nano-surface roughness,3
+403,demineralization,1,sub-micron pore,3
+404,dna elasticity,1,dynein c,3
+405,dna electrostatics,1,microtubule interaction,3
+406,buckling instability,1,biological motor,3
+407,medical implants,1,computer,3
+408,plastic deformation,1,poly (lactic acid),3
+409,titanium oxide,1,type i collagen,3
+410,hydrothermal method,1,dewetting,3
+411,hemcompatibility,1,bio-optics,3
+412,fibroin,1,single cell analysis,3
+413,nano-hap/fibroin,1,local environmenal control,3
+414,compression strength,1,nanopipette,3
+415,bone regeneration,1,bacterial,3
+416,carboxymethyl chitosan,1,muscl cell,3
+417,block copolymers,1,cardiomyocyte,3
+418,protein adhesion,1,optical tweezres,3
+419,artificial cells,1,three dimensional structure,3
+420,sol-gel processes,1,starch,3
+421,bioactive,1,montmorillonite,3
+422,nano-dynamics,1,barrier and mechanical,3
+423,omtc,1,biomimetics,3
+424,noise characteristics,1,super-hydrophobicity,3
+425,airway smooth muscle cell,1,super-hydrophilicity,3
+426,nano titanium dioxide,1,fibroblast cell,3
+427,hacat cells,1,fracture and fatigue,3
+428,reactive oxygen species,1,micromechanics,3
+429,oxidative,1,insect cuticle,3
+430,heparin,1,nano-chitin fiber,3
+431,rare earth nano-oxides,1,corkscrew structure,3
+432,anticoagulant,1,maximum,3
+433,microfabrication,1,domain dynamics,3
+434,substrate stiffness,1,lipid raft,3
+435,focal adhesion,1,nano-meter-sized domain,3
+436,nanopillar,1,neutron spin echo,3
+437,traction force,1,ferromagnetic nanowires,3
+438,nano-technology,1,segmented nanowires,3
+439,bio-technology,1,electrodeposition,3
+440,fullerene,1,biomolecules,3
+441,nanotube,1,functionalization,3
+442,nano tippe top,1,shoe cushioning system,3
+443,bio-inspired,1,impact force,3
+444,foot-hair/setae,1,porous silica grain,3
+445,micro/nano-adhesive arrays,1,biomagnetics,3
+446,sodium carboxymethylcellulose,1,drug delivery system,3
+447,dextran,1,nanomachining,3
+448,dna damage,1,rutile,3
+449,enzymes,1,apatite,3
+450,scanning probe microscopy,1,simulated body fluid,3
+451,fibres,1,rufescens shell,3
+452,computational modeling,1,aragonite sheet,3
+453,nanoindentation,1,nanometer scale,3
+454,developmental biomechanics,1,helicoidal layup,3
+455,stimulated contraction,1,cell behavior,3
+456,morphogenesis,1,nanotopography,3
+457,carbon nanotube networks,1,active matter,2
+458,biomembrane nanotube networks,1,self-propelled particles,2
+459,stable,1,numerical simulations,2
+460,nano-aquarium,1,graded mineralization,2
+461,photostructurable glass,1,interfacial tissue engineering,2
+462,fs laser,1,inverse opal,2
+463,phormidium,1,antioxidants,2
+464,microchip,1,bacterial cellulose,2
+465,force curves,1,bacterial cellulose sulfate,2
+466,molecular fracture mechanics,1,biphasic calcium phosphate,2
+467,nano-surface roughness,1,combined magnetic fields therapy,2
+468,sub-micron pore,1,micro-/nano-fabrication,2
+469,monte carlo algorithm,1,neural stem cells,2
+470,worm-like chain (wlc) model,1,cell fate regulation,2
+471,flexible hinge,1,magnetic force,2
+472,dynein c,1,magnetic nanomaterials,2
+473,microtubule interaction,1,cellular uptake,2
+474,biological motor,1,physicochemical properties,2
+475,computer,1,metal-organic frameworks,2
+476,pdms,1,titanium-dioxide,2
+477,morphology,1,extracellular-matrix,2
+478,epithelial cells,1,peripheral nervous system,2
+479,sem,1,afm-based manipulation,2
+480,tribocorrosion,1,different biological environments,2
+481,debris,1,cylindrical,2
+482,wear,1,capsaicin-receptor,2
+483,hip prostheses,1,poly(methyl methacrylate) surfaces,2
+484,tribology,1,breast cancer,2
+485,corrosion,1,nano-biomechanics,2
+486,poly (lactic acid),1,principal component analysis,2
+487,type i collagen,1,magnetic hyperthermia,2
+488,dewetting,1,magnetomotive nanoparticles,2
+489,bio-optics,1,hierarchical micro/nano-structures,2
+490,single cell analysis,1,nitinol stents,2
+491,local environmenal control,1,femtosecond laser,2
+492,nanopipette,1,biological nanoparticles,2
+493,bacterial,1,cylindrical contact models,2
+494,muscl cell,1,manipulation,2
+495,cardiomyocyte,1,dental nano-composite adhesive,2
+496,optical tweezres,1,bracket bonding effect,2
+497,three dimensional structure,1,lacunar-canalicular network,2
+498,nanocomposite,1,osteocyte,2
+499,osteoclast,1,perilacunar bone matrix,2
+500,nano aerial vehicles,1,nano-structured calcium phosphate,2
+501,flight initiation,1,two-step sintering,2
+502,takeoff directionality control,1,nanocrystallite,2
+503,starch,1,magnetic nanoparticles,2
+504,montmorillonite,1,constant magnetic field,2
+505,barrier and mechanical,1,electromagnetic field,2
+506,biomimetics,1,surface instabilities,2
+507,super-hydrophobicity,1,wrinkle formation,2
+508,super-hydrophilicity,1,surface patterning,2
+509,fibroblast cell,1,biodegradable polymer,2
+510,axon,1,biocomposite,2
+511,guidance,1,magnetic nanoparticle spectroscopy,2
+512,porous silicon,1,magnetization harmonics,2
+513,fracture and fatigue,1,relaxation,2
+514,micromechanics,1,bacterial nanocellulose,2
+515,insect cuticle,1,microbial nanocellulose,2
+516,nano-chitin fiber,1,biomolecular separation,2
+517,corkscrew structure,1,configurational entropy,2
+518,maximum,1,nanofilter array,2
+519,nano-imaging,1,cell injectionfinite-element modeling,2
+520,attachment,1,haptic interaction,2
+521,vinculin,1,carboxylic functionalization,2
+522,domain dynamics,1,bending modulus,2
+523,lipid raft,1,free-standing lipid bilayers,2
+524,nano-meter-sized domain,1,nanophase materials,2
+525,neutron spin echo,1,sports engineering,2
+526,ferromagnetic nanowires,1,biological study,2
+527,segmented nanowires,1,cellular mechanics,2
+528,electrodeposition,1,molecular biomechanics,2
+529,medical application,1,experimental techniques,2
+530,lizards,1,triangular au nano-cavities,2
+531,roughness,1,surface-enhanced raman,2
+532,biomolecules,1,micro-tensile bond strength,2
+533,functionalization,1,shear bond strength,2
+534,electroactive polymers,1,demineralization,2
+535,poly(vinylidene fluoride-trifluoroethylene),1,block copolymers,2
+536,natural nano-ha,1,protein adhesion,2
+537,in-situ precipitation,1,focal adhesion,2
+538,shoe cushioning system,1,nanopillar,2
+539,impact force,1,traction force,2
+540,porous silica grain,1,developmental biomechanics,2
+541,sound speed,1,stimulated contraction,2
+542,atherosclerosis,1,morphogenesis,2
+543,micro-mechanobiological properties,1,carbon nanotube networks,2
+544,measurement system,1,biomembrane nanotube networks,2
+545,nanomechanical protein detector,1,stable,2
+546,protein stiffness,1,force curves,2
+547,nano-gap actuator,1,molecular fracture mechanics,2
+548,biomagnetics,1,monte carlo algorithm,2
+549,drug delivery system,1,worm-like chain (wlc) model,2
+550,nanomachining,1,flexible hinge,2
+551,f-1-atpase motor,1,nano aerial vehicles,2
+552,hybrid devices,1,flight initiation,2
+553,electrochemical deposition,1,takeoff directionality control,2
+554,cushioning system,1,axon,2
+555,energy dissipation,1,guidance,2
+556,nano-shock absorption,1,porous silicon,2
+557,rutile,1,nano-imaging,2
+558,apatite,1,medical application,2
+559,simulated body fluid,1,micro-mechanobiological properties,2
+560,magmoons,1,measurement system,2
+561,brownian motion,1,nanomechanical protein detector,2
+562,microrheology,1,protein stiffness,2
+563,viscosity sensor,1,nano-gap actuator,2
+564,microscopy,1,f-1-atpase motor,2
+565,rufescens shell,1,hybrid devices,2
+566,aragonite sheet,1,electrochemical deposition,2
+567,nanometer scale,1,cushioning system,2
+568,helicoidal layup,1,energy dissipation,2
+569,remineralization,1,nano-shock absorption,2
+570,dismineralized,1,remineralization,2
+571,nanopore,1,dismineralized,2
+572,injection,1,invasive ductal carcinoma,2
+573,concentration,1,physical properties of tissue,2
+574,nanofluidics,1,electromotility,2
+575,microfluidics,1,human,1
+576,cell behavior,1,nanomechanical properties,1
+577,nanotopography,1,ultrafast electron microscopy,1
+578,invasive ductal carcinoma,1,electroactive polymers,1
+579,physical properties of tissue,1,poly(vinylidene fluoride-trifluoroethylene),1
+580,electromotility,1,,

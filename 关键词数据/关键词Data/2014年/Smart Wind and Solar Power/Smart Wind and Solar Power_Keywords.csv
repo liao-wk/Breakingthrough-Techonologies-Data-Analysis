@@ -1,0 +1,475 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,smart grid,46,smart grid,154
+1,renewable energy,28,renewable energy,90
+2,microgrid,11,wind power,35
+3,wind power,10,microgrid,35
+4,wind energy,9,solar,30
+5,energy management,9,energy management,30
+6,solar energy,9,solar energy,30
+7,energy storage,8,wind energy,29
+8,smart,7,energy storage,25
+9,renewable,7,renewable,22
+10,demand response,7,wind,22
+11,management,6,smart,20
+12,solar,6,demand response,20
+13,distributed generation,6,micro-grid,20
+14,wind,5,distributed generation,18
+15,smart grids,5,hybrid system,17
+16,hybrid system,5,management,15
+17,energy efficiency,4,battery,15
+18,forecasting,4,electric vehicle,14
+19,electric vehicle,4,power,14
+20,power,4,smart city,13
+21,micro-grid,4,energy,13
+22,smart city,4,smart grids,13
+23,energy,4,forecasting,12
+24,battery,4,solar power,12
+25,power quality,4,reliability,11
+26,solar power,4,multi agent system,11
+27,demand side management,3,power quality,11
+28,electric vehicles,3,electric vehicles,10
+29,reliability,3,solar panel,9
+30,fuzzy logic,3,fuzzy logic,9
+31,renewable energy sources,3,renewable energy sources,9
+32,multi agent system,3,facts,9
+33,control,3,hvdc,9
+34,wind turbine,2,ups,9
+35,solar panel,2,statcom,9
+36,distributed energy resources,2,apf,9
+37,smart metering,2,dvr,9
+38,photovoltaic,2,upqc,9
+39,sustainable energy,2,energy efficiency,8
+40,virtual power plant,2,photovoltaic,8
+41,wind turbines,2,wind turbines,8
+42,voltage quality,2,jade,8
+43,smart home,2,control,8
+44,load,2,cost,8
+45,energy management systems,2,wind turbine,7
+46,optimization,2,demand side management,7
+47,smart microgrid,2,voltage quality,7
+48,triboelectric nanogenerator,2,control systems,7
+49,conventional power system,2,emissions,7
+50,jade,2,simulation,7
+51,photovoltaic system,2,power distribution,7
+52,stochastic optimization,2,smart metering,6
+53,solar cells,2,virtual power plant,6
+54,storage,2,load,6
+55,control systems,2,optimization,6
+56,load shifting,2,photovoltaic system,6
+57,dynamic rating,2,stochastic optimization,6
+58,emissions,2,solar cells,6
+59,distributed,2,storage,6
+60,smart energy systems,2,load shifting,6
+61,thermal energy storage,2,dynamic rating,6
+62,frequency control,2,thermal energy storage,6
+63,simulation,2,frequency control,6
+64,power distribution,2,controllable loads,6
+65,material,2,distributed energy resources,5
+66,electrical grid,2,deg,5
+67,cost,2,power transmission,5
+68,dc smart house,2,smart home,5
+69,optimal operation,2,energy management systems,5
+70,controllable loads,2,smart microgrid,5
+71,remote labs,1,triboelectric nanogenerator,5
+72,system control,1,v2g,5
+73,synchronized measurements,1,congestions management,5
+74,pmu,1,pem,5
+75,data mining,1,ptdfs,5
+76,memory-based genetic algorithm,1,vdfs,5
+77,cuckoo search algorithm,1,arm7,5
+78,heuristic algorithms,1,8051,5
+79,generation,1,lcd,5
+80,household,1,distributed,5
+81,artificial neural network (ann),1,hydrogen,5
+82,genetic algorithm back propagation,1,electric power system,5
+83,sustainability,1,pv cell,5
+84,power system reliability,1,wave,5
+85,productive analysis,1,dc smart house,5
+86,cooperative relationship,1,optimal operation,5
+87,grid management,1,remote labs,4
+88,consumer,1,system control,4
+89,lead acid battery,1,synchronized measurements,4
+90,state of charge,1,pmu,4
+91,feature selection,1,data mining,4
+92,integration of renewable energy,1,generation,4
+93,combined heat and,1,household,4
+94,thermoelectric and hydroelectric unit,1,grid management,4
+95,smart power grid,1,consumer,4
+96,wind and solar,1,sustainable energy,4
+97,solar photovoltaic,1,ajk,4
+98,deg,1,electrical systems,4
+99,power transmission,1,ac/dc,4
+100,ajk,1,distribution networks,4
+101,electrical systems,1,load flow,4
+102,ac/dc,1,smart power grids,4
+103,renewable energy resources,1,cyber-attack,4
+104,monitoring,1,optics,4
+105,impedance,1,demand dispatch,4
+106,smart user,1,anomaly detection,4
+107,genetic algorithm,1,conventional power system,4
+108,chp operation managing,1,grid outage,4
+109,regional smart energy grid,1,robustness,4
+110,coordinated operational technology,1,software defined radio,4
+111,economic,1,cellular networks,4
+112,localized weather forecasting,1,iot,4
+113,fuel cell hybrid power source,1,autonomous,4
+114,multi-agent systems,1,smart meter,4
+115,hybrid energy system,1,blockchain,4
+116,storage battery,1,energy market,4
+117,carbon tax,1,conversion,4
+118,economics,1,island power,4
+119,social cost of co2,1,grid integration,4
+120,"smart meter, solar panel",1,economic analysis,4
+121,distribution networks,1,npw,4
+122,load flow,1,irr,4
+123,smart power grids,1,elastic load,4
+124,electric vehicle charging station,1,smart community,4
+125,optimal power flow,1,renewables,4
+126,photovoltaic (pv),1,uncertainty,4
+127,photovoltaic generation,1,photovoltaic panel,4
+128,support vector machine,1,lft,4
+129,combined,1,performance ratio,4
+130,renewable generation,1,heliostat,4
+131,demand,1,inverter,4
+132,integrated renewable energy systems,1,solar power farm,4
+133,smart materials,1,wind power farm,4
+134,tensegrity structures,1,sssc,4
+135,solar facades,1,pv energy,4
+136,wind generators,1,hybrid systems,4
+137,autoencoders,1,demand side,4
+138,epso,1,neuro-fuzzy,4
+139,evolutionary particle swarm,1,anfis,4
+140,hybrid nanogenerator,1,fuzzy ahp,4
+141,benefits and barriers,1,fuzzy mcdm,4
+142,data centers,1,future trends,4
+143,communication technologies,1,demonstration projects,4
+144,ancillary,1,policy,4
+145,cyber-attack,1,chinese,4
+146,optics,1,smart energy systems,4
+147,demand dispatch,1,homer,4
+148,anomaly detection,1,pv,4
+149,load demands,1,wind & economic,4
+150,solar systems,1,load management,4
+151,wind system,1,restoration,4
+152,distributed model predictive control,1,responsive demand,4
+153,wind and solar generation system,1,price signal,4
+154,decentralized control,1,power generation,4
+155,power system control,1,power storage,4
+156,payback period,1,fuel cells,4
+157,power output,1,electrical grid,4
+158,reflector positioning,1,plug-in electric vehicles,4
+159,effective,1,scenario,4
+160,grid outage,1,dc smart grid,4
+161,cost of energy,1,pmsg,4
+162,net present cost,1,dc distribution voltage,4
+163,robustness,1,pitch,4
+164,sensor node,1,constraints,4
+165,savonius wind turbine,1,emission,4
+166,wind enhancement device (wed),1,gridable vehicles (gvs),4
+167,microgrid simulation,1,load leveling,4
+168,pv panel,1,hybrid power systems,4
+169,software defined radio,1,matlab,4
+170,cellular networks,1,modeling,4
+171,iot,1,conserving oil,4
+172,autonomous,1,megawatt,4
+173,green power distributed generators,1,photovoltaic (pv) system,4
+174,mathematical model,1,roadway microgrid,4
+175,smart meter,1,rural development,4
+176,blockchain,1,sustainable energy policy,4
+177,energy market,1,biomass,4
+178,autonomous agent,1,sustainability,3
+179,insulated conductor,1,lead acid battery,3
+180,proximity effect,1,state of charge,3
+181,frequency domain measurements,1,feature selection,3
+182,weather logger,1,solar photovoltaic,3
+183,hybrid power generation,1,renewable energy resources,3
+184,smart boat,1,monitoring,3
+185,pollution,1,impedance,3
+186,fossil fuel,1,smart user,3
+187,homer model,1,genetic algorithm,3
+188,rural electrification,1,chp operation managing,3
+189,sustainable development,1,localized weather forecasting,3
+190,6-switched 3-level inverter,1,fuel cell hybrid power source,3
+191,hybrid power system,1,multi-agent systems,3
+192,markov decision process,1,hybrid energy system,3
+193,scheduling algorithms,1,storage battery,3
+194,conversion,1,carbon tax,3
+195,energy saving method,1,economics,3
+196,variable speed control,1,social cost of co2,3
+197,ventilation system,1,"smart meter, solar panel",3
+198,power system operation,1,optimal power flow,3
+199,planning,1,photovoltaic (pv),3
+200,electricity storage,1,photovoltaic generation,3
+201,renewable energy integration,1,support vector machine,3
+202,multi-agent technology,1,combined,3
+203,co-evolution agents,1,renewable generation,3
+204,cost-emission unit,1,demand,3
+205,district heating (dh) network,1,smart materials,3
+206,intelligent energy networks (iens),1,tensegrity structures,3
+207,challenges,1,solar facades,3
+208,china,1,wind generators,3
+209,home energy management system,1,autoencoders,3
+210,home energy storage,1,epso,3
+211,v2g,1,evolutionary particle swarm,3
+212,congestions management,1,data centers,3
+213,pem,1,communication technologies,3
+214,ptdfs,1,ancillary,3
+215,vdfs,1,load demands,3
+216,hybridized,1,solar systems,3
+217,island power,1,wind system,3
+218,grid integration,1,decentralized control,3
+219,biomass and biogas,1,power system control,3
+220,asymmetric multilevel inverter,1,payback period,3
+221,cogeneration,1,power output,3
+222,experimental analysis,1,reflector positioning,3
+223,thermal comfort optimization,1,effective,3
+224,occupancy,1,cost of energy,3
+225,hybrid renewable energy systems,1,net present cost,3
+226,resource scheduling,1,microgrid simulation,3
+227,dynamic economic dispatch,1,pv panel,3
+228,arm7,1,autonomous agent,3
+229,8051,1,weather logger,3
+230,lcd,1,hybrid power generation,3
+231,renewable energy microgrid,1,smart boat,3
+232,smartgrid,1,pollution,3
+233,hierarchical structure,1,fossil fuel,3
+234,cultural algorithm (ca),1,homer model,3
+235,energy management system (ems),1,rural electrification,3
+236,proportional,1,sustainable development,3
+237,support vector regression,1,6-switched 3-level inverter,3
+238,mean average percentage error,1,hybrid power system,3
+239,genetic,1,power system operation,3
+240,multilevel inverter,1,planning,3
+241,economic analysis,1,hybridized,3
+242,npw,1,biomass and biogas,3
+243,irr,1,asymmetric multilevel inverter,3
+244,component,1,cogeneration,3
+245,vehicle-to-grid,1,experimental analysis,3
+246,primary frequency control,1,thermal comfort optimization,3
+247,primary reserve,1,occupancy,3
+248,wind and solar power integration,1,hybrid renewable energy systems,3
+249,unit,1,resource scheduling,3
+250,elastic load,1,dynamic economic dispatch,3
+251,smart community,1,renewable energy microgrid,3
+252,renewables,1,smartgrid,3
+253,uncertainty,1,hierarchical structure,3
+254,active network management,1,multilevel inverter,3
+255,advanced metering system,1,component,3
+256,photovoltaic panel,1,vehicle-to-grid,3
+257,lft,1,primary frequency control,3
+258,performance ratio,1,primary reserve,3
+259,heliostat,1,wind and solar power integration,3
+260,electric distribution system,1,unit,3
+261,knowledge,1,electric distribution system,3
+262,inverter,1,knowledge,3
+263,solar power farm,1,solar micro-grid,3
+264,wind power farm,1,multi agent,3
+265,sssc,1,devs formalism,3
+266,solar micro-grid,1,automatic decision,3
+267,multi agent,1,dfig wind farm,3
+268,devs formalism,1,smart grid's generation technologies,3
+269,automatic decision,1,spvg,3
+270,electric vehicle charging,1,and vres,3
+271,grid capacity constrain,1,arduino due,3
+272,charging,1,grid control,3
+273,dfig wind farm,1,low voltage electric grids,3
+274,smart grid's generation technologies,1,capacity utilization factor,3
+275,spvg,1,distributed sensors,3
+276,and vres,1,smart-house,3
+277,pv energy,1,smart-building,3
+278,hybrid systems,1,small-scale wind turbine,3
+279,demand side,1,thermal unit commitment,3
+280,arduino due,1,smart houses,3
+281,grid control,1,energy system flexibility,3
+282,low voltage electric grids,1,dsm,3
+283,smart nanogrid systems,1,ancillary service,3
+284,deployable disaster devices (d-3),1,wind power integration,3
+285,distributed renewable energy generation,1,of-the-art,3
+286,grid tied hybrid power system,1,uncertainty principles,3
+287,capacity utilization factor,1,multiple renewable energy,3
+288,distributed sensors,1,on-line,3
+289,decision making,1,electrical energy,3
+290,genetic algorithm (ga),1,power grid,3
+291,prediction interval (pi),1,cuk-sepic converter,3
+292,smart-house,1,quasi z-source inverter,3
+293,smart-building,1,pid controller,3
+294,small-scale wind turbine,1,firefly algorithm,3
+295,neuro-fuzzy,1,smart load control,3
+296,anfis,1,distributed sources,3
+297,fuzzy ahp,1,grid,3
+298,fuzzy mcdm,1,energy harvesting,3
+299,hydrogen,1,wind farm planning,3
+300,electric power system,1,biomass energy,3
+301,pv cell,1,geothermal energy,3
+302,wave,1,hydropower energy,3
+303,future trends,1,marine energy,3
+304,demonstration projects,1,plug-in electric vehicle (pev),3
+305,policy,1,vehicle to grid (v2g),3
+306,chinese,1,electric vehicle (ev),3
+307,thermal unit commitment,1,advanced,3
+308,smart houses,1,context awareness,3
+309,100% renewable energy systems,1,fault tolerant systems,3
+310,energy system flexibility,1,green,3
+311,dsm,1,solar building,3
+312,ancillary service,1,system analysis,3
+313,wind power integration,1,constrained optimization,3
+314,of-the-art,1,distributed power,3
+315,continuous-time markov decision process,1,unit commitment,3
+316,uncertainty principles,1,res integration,3
+317,homer,1,wireless communication,3
+318,pv,1,smart technologies,3
+319,wind & economic,1,material,3
+320,battery energy storage,1,hydrothermal synthesis,3
+321,cost of energy storage,1,high-power,3
+322,electricity market,1,lino3 solution,3
+323,deep eutectic solvents,1,wind energy conversion,3
+324,renewable-energy,1,power electronics,3
+325,multiple renewable energy,1,sensitivity coefficient,3
+326,on-line,1,uav,3
+327,electrical energy,1,architecture,3
+328,power grid,1,intelligent control,3
+329,cuk-sepic converter,1,phev,3
+330,quasi z-source inverter,1,aplr,3
+331,pid controller,1,charging cost,3
+332,firefly algorithm,1,multi-objective particle swarm optimization,3
+333,smart load control,1,electric economy,3
+334,renewable sources,1,pumped hydro,3
+335,load shedding,1,interconnection point,3
+336,undervoltage,1,communication network,3
+337,underfrequency,1,heat,3
+338,load management,1,energy balance,3
+339,restoration,1,tidal energy conversion system,3
+340,production planning and control,1,power system modeling,3
+341,job shop scheduling,1,wireless sensor,3
+342,responsive demand,1,structural health monitoring,3
+343,price signal,1,emc,3
+344,learning tool,1,electromagnetic compatibility,3
+345,renewable resource,1,memory-based genetic algorithm,2
+346,distributed sources,1,cuckoo search algorithm,2
+347,grid,1,heuristic algorithms,2
+348,energy harvesting,1,power system reliability,2
+349,wind farm planning,1,productive analysis,2
+350,biomass energy,1,cooperative relationship,2
+351,geothermal energy,1,integration of renewable energy,2
+352,hydropower energy,1,combined heat and,2
+353,marine energy,1,thermoelectric and hydroelectric unit,2
+354,consumption,1,smart power grid,2
+355,massive energy storage,1,wind and solar,2
+356,plug-in electric vehicle (pev),1,regional smart energy grid,2
+357,vehicle to grid (v2g),1,coordinated operational technology,2
+358,electric vehicle (ev),1,economic,2
+359,advanced,1,electric vehicle charging station,2
+360,context awareness,1,integrated renewable energy systems,2
+361,fault tolerant systems,1,hybrid nanogenerator,2
+362,green,1,benefits and barriers,2
+363,appliance scheduling,1,sensor node,2
+364,household energy,1,savonius wind turbine,2
+365,machine learning,1,wind enhancement device (wed),2
+366,solar building,1,green power distributed generators,2
+367,system analysis,1,mathematical model,2
+368,institute of electrical engineers of japan (ieej),1,insulated conductor,2
+369,simulations,1,proximity effect,2
+370,household appliance,1,frequency domain measurements,2
+371,improved particle swarm optimization,1,markov decision process,2
+372,constrained optimization,1,scheduling algorithms,2
+373,distributed power,1,energy saving method,2
+374,loss of power supply probability,1,variable speed control,2
+375,unit commitment,1,ventilation system,2
+376,res integration,1,electricity storage,2
+377,three-level buck-boost converter,1,renewable energy integration,2
+378,renewable energy conversion,1,multi-agent technology,2
+379,wireless communication,1,co-evolution agents,2
+380,smart technologies,1,cost-emission unit,2
+381,bayesian approach,1,challenges,2
+382,forecasting methods,1,china,2
+383,point estimate method,1,home energy management system,2
+384,plug-in hybrid electric vehicle (phev),1,home energy storage,2
+385,quantum algorithm,1,cultural algorithm (ca),2
+386,domestic distributed generation,1,energy management system (ems),2
+387,renewable source integration,1,proportional,2
+388,hydrothermal synthesis,1,support vector regression,2
+389,high-power,1,mean average percentage error,2
+390,lino3 solution,1,genetic,2
+391,power generation,1,active network management,2
+392,power storage,1,advanced metering system,2
+393,fuel cells,1,electric vehicle charging,2
+394,distributed control,1,grid capacity constrain,2
+395,distributed energy generation,1,charging,2
+396,architectures,1,smart nanogrid systems,2
+397,wind energy conversion,1,deployable disaster devices (d-3),2
+398,power electronics,1,decision making,2
+399,battery energy storage system (bess),1,genetic algorithm (ga),2
+400,smart energy meter,1,prediction interval (pi),2
+401,sensitivity coefficient,1,100% renewable energy systems,2
+402,communication infrastructure,1,battery energy storage,2
+403,intelligent network,1,cost of energy storage,2
+404,genetic-algorithm (ga)-based optimization approach,1,electricity market,2
+405,uav,1,deep eutectic solvents,2
+406,architecture,1,renewable-energy,2
+407,intelligent control,1,renewable sources,2
+408,phev,1,load shedding,2
+409,aplr,1,undervoltage,2
+410,charging cost,1,underfrequency,2
+411,multi-objective particle swarm optimization,1,production planning and control,2
+412,building energy saving,1,job shop scheduling,2
+413,discrete event dynamic system,1,learning tool,2
+414,simulationbased,1,renewable resource,2
+415,large-scale integration of wind and,1,massive energy storage,2
+416,energy storage device,1,appliance scheduling,2
+417,linear programming,1,household energy,2
+418,electric economy,1,machine learning,2
+419,pumped hydro,1,institute of electrical engineers of japan (ieej),2
+420,materials,1,simulations,2
+421,plug-in electric vehicles,1,household appliance,2
+422,scenario,1,improved particle swarm optimization,2
+423,interconnection point,1,loss of power supply probability,2
+424,communication network,1,three-level buck-boost converter,2
+425,dc smart grid,1,renewable energy conversion,2
+426,pmsg,1,bayesian approach,2
+427,dc distribution voltage,1,forecasting methods,2
+428,pitch,1,point estimate method,2
+429,community-driven energy sharing,1,plug-in hybrid electric vehicle (phev),2
+430,new energy power station,1,quantum algorithm,2
+431,ocean currents generation,1,domestic distributed generation,2
+432,intelligent,1,renewable source integration,2
+433,smart grid management,1,distributed control,2
+434,service oriented architecture,1,distributed energy generation,2
+435,heat,1,battery energy storage system (bess),2
+436,energy balance,1,smart energy meter,2
+437,power management circuits,1,communication infrastructure,2
+438,maximum power point,1,intelligent network,2
+439,multi energy harvesters,1,building energy saving,2
+440,renewables-based energy generation systems,1,discrete event dynamic system,2
+441,water,1,simulationbased,2
+442,interconnection point power flow,1,large-scale integration of wind and,2
+443,isolated power grids,1,energy storage device,2
+444,light-emitting diodes,1,linear programming,2
+445,lighting systems,1,new energy power station,2
+446,constraints,1,ocean currents generation,2
+447,emission,1,intelligent,2
+448,gridable vehicles (gvs),1,smart grid management,2
+449,load leveling,1,service oriented architecture,2
+450,hybrid power systems,1,power management circuits,2
+451,matlab,1,maximum power point,2
+452,modeling,1,multi energy harvesters,2
+453,conserving oil,1,renewables-based energy generation systems,2
+454,megawatt,1,water,2
+455,tidal energy conversion system,1,interconnection point power flow,2
+456,power system modeling,1,isolated power grids,2
+457,photovoltaic (pv) system,1,light-emitting diodes,2
+458,roadway microgrid,1,lighting systems,2
+459,facts,1,droop characteristic,2
+460,hvdc,1,artificial neural network (ann),1
+461,ups,1,genetic algorithm back propagation,1
+462,statcom,1,distributed model predictive control,1
+463,apf,1,wind and solar generation system,1
+464,dvr,1,district heating (dh) network,1
+465,upqc,1,intelligent energy networks (iens),1
+466,droop characteristic,1,distributed renewable energy generation,1
+467,wireless sensor,1,grid tied hybrid power system,1
+468,structural health monitoring,1,continuous-time markov decision process,1
+469,emc,1,consumption,1
+470,electromagnetic compatibility,1,architectures,1
+471,rural development,1,genetic-algorithm (ga)-based optimization approach,1
+472,sustainable energy policy,1,community-driven energy sharing,1
+473,biomass,1,,

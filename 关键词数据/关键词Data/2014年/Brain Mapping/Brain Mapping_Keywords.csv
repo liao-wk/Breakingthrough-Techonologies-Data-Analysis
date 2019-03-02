@@ -1,0 +1,495 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,fmri,22,fmri,87
+1,network,21,functional connectivity,41
+2,functional connectivity,13,network,27
+3,schizophrenia,8,connectivity,27
+4,meta-analysis,7,schizophrenia,24
+5,connectivity,7,meta-analysis,23
+6,resting state,6,resting state,22
+7,association,5,brain,19
+8,cerebral cortex,5,cortex,18
+9,resting-state fmri,5,tractography,18
+10,depression,5,diffusion mri,17
+11,neuroimaging,5,neuroimaging,16
+12,brain,5,cerebral cortex,15
+13,diffusion mri,5,hippocampus,15
+14,tractography,5,depression,15
+15,hippocampus,4,dti,15
+16,quantitative susceptibility mapping,4,eeg,14
+17,connectome,4,aging,14
+18,alzheimer's disease,4,mri,14
+19,cortex,4,connectome,13
+20,diffusion tensor imaging,4,pet,13
+21,aging,4,alzheimer's disease,13
+22,mri,4,resting-state fmri,12
+23,consciousness,3,diffusion imaging,12
+24,deep learning,3,brain mapping,12
+25,white matter,3,association,11
+26,functional magnetic resonance imaging,3,white matter,11
+27,stroke,3,graph theory,11
+28,development,3,resting,11
+29,pet,3,myelin,11
+30,graph theory,3,susceptibility mapping,11
+31,eeg,3,human,11
+32,emotion,3,development,10
+33,mvpa,3,diffusion tensor imaging,10
+34,magnetic resonance imaging,3,mvpa,10
+35,structural connectivity,3,brain iron,10
+36,diffusion imaging,3,phase imaging,10
+37,resting,3,iron,10
+38,dti,3,consciousness,9
+39,brain iron,3,empathy,9
+40,myelin,3,deep learning,9
+41,phase imaging,3,stroke,9
+42,brain mapping,3,neuroanatomy,9
+43,susceptibility mapping,3,emotion,9
+44,iron,3,reward,8
+45,human,3,functional magnetic resonance imaging,8
+46,reward,2,parallel imaging,8
+47,empathy,2,database,8
+48,de-novo mutations,2,topography,8
+49,gliomas,2,magnetic resonance imaging,8
+50,skull base,2,structural connectivity,8
+51,parallel imaging,2,evolution,8
+52,prefrontal cortex,2,cognition,8
+53,classification,2,quantitative susceptibility mapping,7
+54,brain networks,2,skull base,7
+55,network neuroscience,2,prefrontal cortex,7
+56,connectomics,2,classification,7
+57,medial prefrontal cortex,2,brain networks,7
+58,database,2,connectomics,7
+59,cognitive control,2,attenuation correction,7
+60,neuroanatomy,2,brain anatomy,7
+61,topography,2,network neuroscience,6
+62,arrays,2,cognitive control,6
+63,functional magnetic resonance,2,default mode network,6
+64,image segmentation,2,brain development,6
+65,default mode network,2,altruism,5
+66,networks,2,prosocial,5
+67,brain development,2,morphometry,5
+68,resting-state,2,empathic concern,5
+69,state functional,2,moral,5
+70,evolution,2,anatomy,5
+71,graph,2,ad,5
+72,attenuation correction,2,mci,5
+73,functional connectomes,2,segmentation,5
+74,identification,2,omics,5
+75,functional,2,bioinformatics,5
+76,brain anatomy,2,databases,5
+77,cognition,2,genomics,5
+78,multivariate decoding,1,transcriptomics,5
+79,multivariate analysis,1,proteomics,5
+80,multivariate pattern,1,antidepressant,5
+81,eeg microstates,1,enantiomer,5
+82,resting state networks,1,erk,5
+83,psychiatric,1,mtor,5
+84,apathy,1,(r)-ketamine,5
+85,motivation,1,(s)-ketamine,5
+86,decision making,1,anterior cingulate,5
+87,anterior cingulate cortex,1,inflammation,5
+88,nonalcoholic fatty liver disease,1,microglia,5
+89,mitophagy,1,suicide,5
+90,bnip3,1,generative model,5
+91,sirt3,1,bayesian,5
+92,erk-creb,1,model selection,5
+93,altruism,1,model,5
+94,prosocial,1,dopamine,5
+95,morphometry,1,pet imaging,5
+96,empathic concern,1,striatum,5
+97,moral,1,model based,5
+98,affect sharing,1,model free,5
+99,prosocial motivation,1,instrumental,5
+100,lesion model,1,pavlovian,5
+101,voxel-based,1,cognitive map,5
+102,nucleus rna-seq,1,outcome,5
+103,neuronal subtypes,1,glioblastoma,5
+104,disease,1,survival,5
+105,brain waves,1,prognosis,5
+106,electroencephalography,1,radiotherapy,5
+107,motor,1,chemotherapy,5
+108,gamma knife,1,tumor,5
+109,stereotactic radiosurgery,1,functional magnetic resonance,5
+110,vestibular schwannoma,1,image segmentation,5
+111,convolutional neural networks,1,networks,5
+112,mrac,1,resting-state,5
+113,synthetic ct,1,neural decoding,5
+114,brain parcellation,1,rsa,5
+115,resting-state functional mri,1,hyperalignment,5
+116,anatomy,1,population response,5
+117,ad,1,meg/eeg,5
+118,mci,1,twins,5
+119,segmentation,1,behavior,5
+120,monkey striate cortex,1,complex,5
+121,attention,1,small world,5
+122,attentional capture,1,graph,5
+123,visual selective attention,1,erp,5
+124,priming,1,source localization,5
+125,parkinson disease,1,frequency,5
+126,noradrenaline transporter,1,functional,5
+127,c-11-mener,1,cingulate,5
+128,positron,1,cingulate cortex,5
+129,affection,1,premotor cortex,5
+130,intensity,1,decision,5
+131,omics,1,extreme capsule,5
+132,bioinformatics,1,language networks,5
+133,databases,1,arcuate fascicle,5
+134,genomics,1,extreme,5
+135,transcriptomics,1,age,5
+136,proteomics,1,plasticity,5
+137,chemical imaging,1,learning,5
+138,raman spectroscopy,1,voxel-based morphometry,5
+139,handheld microscope,1,apathy,4
+140,stuttering,1,motivation,4
+141,resting state fmri,1,decision making,4
+142,intrinsic connectivity networks,1,anterior cingulate cortex,4
+143,default,1,nonalcoholic fatty liver disease,4
+144,ld score regression,1,mitophagy,4
+145,reconstruction algorithms,1,bnip3,4
+146,dipole,1,sirt3,4
+147,context updating,1,erk-creb,4
+148,executive function,1,affect sharing,4
+149,information theory,1,prosocial motivation,4
+150,p300,1,lesion model,4
+151,task-set,1,voxel-based,4
+152,surface-based cortical registration,1,de-novo mutations,4
+153,longitudinal registration,1,context updating,4
+154,neonatal,1,executive function,4
+155,episodic autobiographical memory,1,information theory,4
+156,individual differences,1,p300,4
+157,inflammasome,1,task-set,4
+158,nlrp,1,inflammasome,4
+159,neuronal cell death,1,nlrp,4
+160,nuclear factor kappa b,1,neuronal cell death,4
+161,thrombectomy,1,nuclear factor kappa b,4
+162,blood pressure,1,gliomas,4
+163,transcranial magnetic stimulation,1,morality,4
+164,white-matter,1,criminality,4
+165,creativity,1,sociopathy,4
+166,divergent thinking,1,lesion,4
+167,morality,1,autism,4
+168,criminality,1,abide,4
+169,sociopathy,1,quantitative mri,4
+170,lesion,1,parameter mapping,4
+171,lesion analysis,1,mrf,4
+172,voxel-based lesion symptom mapping vlsm,1,svd,4
+173,vlbm,1,mtorc1,4
+174,functional network connectivity,1,muscarinic receptor,4
+175,dynamics,1,trkb,4
+176,concurrent eeg-fmri,1,chordoma,4
+177,autism,1,surgery,4
+178,abide,1,extent of resection,4
+179,meningioma,1,medial prefrontal cortex,4
+180,tuberculum sellae,1,genetic study,4
+181,planum sphenoidale,1,gene expression,4
+182,spontaneous activity,1,integrative,4
+183,sensory-evoked activity,1,spatial cognition,4
+184,rodents,1,navigation,4
+185,quantitative mri,1,place cell,4
+186,parameter mapping,1,grid cell,4
+187,mrf,1,head direction,4
+188,svd,1,arex,4
+189,quantitative susceptibility mapping (qsm),1,cest,4
+190,ultrashort echo time (ute),1,aromatic rnoe,4
+191,high resolution,1,aliphatic rnoe,4
+192,submillimeter functional magnetic resonance imaging,1,relaxation-compensated cest,4
+193,7,1,statistics,4
+194,multiple comparison correction strategies,1,false positives,4
+195,positive predictive value,1,cluster inference,4
+196,posterior cingulate cortex,1,affect,4
+197,antidepressant,1,valence,4
+198,enantiomer,1,value,4
+199,erk,1,clustering,4
+200,mtor,1,hubs,4
+201,(r)-ketamine,1,dedifferentiation,4
+202,(s)-ketamine,1,tracer,4
+203,mtorc1,1,validation,4
+204,muscarinic receptor,1,structural,4
+205,trkb,1,chronic back pain,4
+206,anterior cingulate,1,longitudinal,4
+207,inflammation,1,motor imagery,4
+208,microglia,1,motor simulation,4
+209,suicide,1,primary motor cortex,4
+210,chordoma,1,cortical folding,4
+211,surgery,1,ontogeny,4
+212,extent of resection,1,cortical,4
+213,complex networks,1,elderly,4
+214,multi-scale,1,human brain connectome,4
+215,small-world network,1,molecular imaging,4
+216,functional connectivity networks,1,ultrashort echo,4
+217,clinically isolated,1,functional connectomes,4
+218,endovascular therapy,1,identification,4
+219,probability,1,anisotropic,4
+220,tissue-type plasminogen,1,mr phase,4
+221,mild cognitive impairment,1,sharp,4
+222,microglial activation,1,neural dynamics,4
+223,dynamic functional connectivity,1,active imaging,4
+224,insula,1,axon diameter,4
+225,genetic study,1,fibre density,4
+226,gene expression,1,white,4
+227,integrative,1,exaptation,4
+228,protein-protein interaction,1,functional architecture,4
+229,thalamus,1,7 tesla,4
+230,spatial cognition,1,multislice excitation,4
+231,navigation,1,grappa,4
+232,place cell,1,action observation,4
+233,grid cell,1,imitation,4
+234,head direction,1,inferior parietal,4
+235,mind-wandering,1,mirror,4
+236,intentionality,1,open access,4
+237,cortical thickness,1,reproducibility,4
+238,ige-gtcs,1,electrocorticography,4
+239,dynamic functional network connectivity,1,sleep,4
+240,human brain,1,probabilistic atlas,4
+241,classification approach,1,eeg microstates,3
+242,generative model,1,resting state networks,3
+243,bayesian,1,psychiatric,3
+244,model selection,1,nucleus rna-seq,3
+245,model,1,neuronal subtypes,3
+246,dopamine,1,disease,3
+247,pet imaging,1,brain waves,3
+248,striatum,1,electroencephalography,3
+249,memory,1,motor,3
+250,model based,1,convolutional neural networks,3
+251,model free,1,mrac,3
+252,instrumental,1,synthetic ct,3
+253,pavlovian,1,attention,3
+254,cognitive map,1,attentional capture,3
+255,outcome,1,visual selective attention,3
+256,fractional-order systems,1,priming,3
+257,global mittag-leffler stability,1,parkinson disease,3
+258,memristive,1,noradrenaline transporter,3
+259,arex,1,c-11-mener,3
+260,cest,1,positron,3
+261,aromatic rnoe,1,stuttering,3
+262,aliphatic rnoe,1,resting state fmri,3
+263,relaxation-compensated cest,1,intrinsic connectivity networks,3
+264,statistics,1,default,3
+265,false positives,1,creativity,3
+266,cluster inference,1,divergent thinking,3
+267,cortical organization,1,meningioma,3
+268,default-mode network,1,tuberculum sellae,3
+269,glioblastoma,1,planum sphenoidale,3
+270,survival,1,spontaneous activity,3
+271,prognosis,1,sensory-evoked activity,3
+272,radiotherapy,1,rodents,3
+273,chemotherapy,1,complex networks,3
+274,tumor,1,multi-scale,3
+275,phase-iii trial,1,small-world network,3
+276,recursive partitioning analysis,1,endovascular therapy,3
+277,brain atlas,1,probability,3
+278,connectivity-based parcellation,1,tissue-type plasminogen,3
+279,familial hemiplegic migraine,1,thalamus,3
+280,single-nucleotide,1,mind-wandering,3
+281,hippocampal glutamate,1,intentionality,3
+282,dissolution,1,cortical thickness,3
+283,data processing,1,memory,3
+284,quality control,1,cortical organization,3
+285,standardization,1,default-mode network,3
+286,pattern classification,1,data processing,3
+287,biochemistry,1,quality control,3
+288,lateral resolution,1,standardization,3
+289,natural products,1,pattern classification,3
+290,spatial mapping,1,biochemistry,3
+291,affect,1,lateral resolution,3
+292,valence,1,natural products,3
+293,value,1,spatial mapping,3
+294,multiple sclerosis,1,multiple sclerosis,3
+295,demyelination,1,demyelination,3
+296,neurodegeneration,1,neurodegeneration,3
+297,cerebral veins,1,cerebral veins,3
+298,borderline personality disorder,1,cortical areas,3
+299,cortical areas,1,parcellation,3
+300,parcellation,1,neuroinformatics,3
+301,neuroinformatics,1,ontologies,3
+302,ontologies,1,heart diseases,3
+303,clustering,1,hemodynamics,3
+304,hubs,1,mind wandering,3
+305,neural coding,1,salience network,3
+306,dedifferentiation,1,antinociception,3
+307,"mri, magnetic resonance imaging",1,intracranial volume,3
+308,"swi, susceptibility weighted imaging",1,statistical parametric mapping,3
+309,heart diseases,1,spm,3
+310,hemodynamics,1,freesurfer,3
+311,data sharing,1,white matter bundles,3
+312,statistical parameter mapping (spm),1,myelination,3
+313,multi-modality data,1,magnetic resonance,3
+314,infant brain image,1,scale-free brain activity,3
+315,mind wandering,1,power-law distribution,3
+316,salience network,1,arrhythmic,3
+317,antinociception,1,scale,3
+318,altered states,1,pixe,3
+319,susceptibility weighted imaging,1,phosphorus,3
+320,old-world,1,magnetic susceptibility,3
+321,intracranial volume,1,simulations,3
+322,statistical parametric mapping,1,state functional,3
+323,spm,1,gradient hardware,3
+324,freesurfer,1,peak coordinate,3
+325,tracer,1,signed differential,3
+326,validation,1,neurite density,3
+327,white matter bundles,1,orientation dispersion,3
+328,myelination,1,microstructure,3
+329,magnetic resonance,1,psychophysiological interactions,3
+330,scale-free brain activity,1,ppi,3
+331,power-law distribution,1,major depressive disorder,3
+332,arrhythmic,1,voxel-based-morphometry,3
+333,scale,1,gray matter,3
+334,pixe,1,normal aging,3
+335,phosphorus,1,subject-driven,3
+336,magnetic susceptibility,1,somatotopy,3
+337,simulations,1,motor control,3
+338,global signal,1,prefrontal,3
+339,psychiatric illness,1,axonal connectivity,3
+340,structural,1,infant brain,3
+341,diffuse axonal injury,1,intrinsic,3
+342,neural decoding,1,white matter connections,3
+343,rsa,1,atlas,3
+344,hyperalignment,1,context,3
+345,population response,1,object recognition,3
+346,gradient hardware,1,3d brain segmentation,3
+347,chronic back pain,1,adult cognitive development,3
+348,longitudinal,1,compensation,3
+349,right anterior insula,1,cognitive,3
+350,motor imagery,1,pet/mri,3
+351,motor simulation,1,ute,3
+352,primary motor cortex,1,r2,3
+353,cortical folding,1,test-retest reliability,3
+354,ontogeny,1,intrinsic connectivity network,3
+355,cortical,1,ica,3
+356,cortical networks,1,dual,3
+357,functional mri,1,susceptibility quantification,3
+358,entorhinal cortex,1,magnetic field,3
+359,elderly,1,inverse,3
+360,amyloid-beta deposition,1,positron emission tomography,3
+361,age-related-changes,1,magnetic susceptibility mapping,3
+362,effective transverse relaxation,1,brain connectivity,3
+363,peak coordinate,1,brainmap,3
+364,signed differential,1,medial,3
+365,functional near-infrared spectroscopy,1,awake surgery,3
+366,functional near-infrared,1,direct cortical stimulation,3
+367,meg/eeg,1,language pathway,3
+368,twins,1,low-grade,3
+369,behavior,1,cytoarchitecture,3
+370,complex,1,astrocytes,3
+371,small world,1,cell fate,3
+372,neurite density,1,stem cells,3
+373,orientation dispersion,1,multivariate decoding,2
+374,microstructure,1,multivariate analysis,2
+375,psychophysiological interactions,1,multivariate pattern,2
+376,ppi,1,gamma knife,2
+377,human brain connectome,1,stereotactic radiosurgery,2
+378,erp,1,vestibular schwannoma,2
+379,source localization,1,brain parcellation,2
+380,frequency,1,resting-state functional mri,2
+381,molecular imaging,1,monkey striate cortex,2
+382,ultrashort echo,1,affection,2
+383,major depressive disorder,1,intensity,2
+384,voxel-based-morphometry,1,chemical imaging,2
+385,gray matter,1,raman spectroscopy,2
+386,binding-sites,1,handheld microscope,2
+387,protein,1,ld score regression,2
+388,normal aging,1,reconstruction algorithms,2
+389,alerting network,1,dipole,2
+390,executive network,1,surface-based cortical registration,2
+391,orienting network,1,longitudinal registration,2
+392,multivoxel pattern analysis,1,neonatal,2
+393,subject-driven,1,episodic autobiographical memory,2
+394,independent component analysis,1,individual differences,2
+395,human parietal,1,thrombectomy,2
+396,somatotopy,1,blood pressure,2
+397,motor control,1,transcranial magnetic stimulation,2
+398,prefrontal,1,white-matter,2
+399,regulatory network,1,lesion analysis,2
+400,messenger-rnas,1,voxel-based lesion symptom mapping vlsm,2
+401,electroencephalography (eeg),1,vlbm,2
+402,electrophysiological imaging,1,functional network connectivity,2
+403,obstructive sleep apnea,1,dynamics,2
+404,brain structure,1,concurrent eeg-fmri,2
+405,neurocognitive function,1,high resolution,2
+406,anisotropic,1,submillimeter functional magnetic resonance imaging,2
+407,mr phase,1,7,2
+408,sharp,1,functional connectivity networks,2
+409,axonal connectivity,1,mild cognitive impairment,2
+410,corpus-callosum,1,microglial activation,2
+411,frontotemporal connectivity,1,dynamic functional connectivity,2
+412,infant brain,1,insula,2
+413,intrinsic,1,protein-protein interaction,2
+414,small-world networks,1,ige-gtcs,2
+415,irritable bowel syndrome,1,dynamic functional network connectivity,2
+416,visceral pain,1,human brain,2
+417,white matter connections,1,classification approach,2
+418,atlas,1,fractional-order systems,2
+419,neural dynamics,1,global mittag-leffler stability,2
+420,primate,1,memristive,2
+421,microtubule associated proteins,1,phase-iii trial,2
+422,hyperphosphorylation of tau,1,recursive partitioning analysis,2
+423,context,1,brain atlas,2
+424,object recognition,1,connectivity-based parcellation,2
+425,3d brain segmentation,1,familial hemiplegic migraine,2
+426,active imaging,1,single-nucleotide,2
+427,axon diameter,1,arrays,2
+428,fibre density,1,borderline personality disorder,2
+429,white,1,neural coding,2
+430,cerebral-cortex,1,data sharing,2
+431,exaptation,1,statistical parameter mapping (spm),2
+432,functional architecture,1,multi-modality data,2
+433,adult cognitive development,1,infant brain image,2
+434,compensation,1,altered states,2
+435,cognitive,1,global signal,2
+436,state functional connectivity,1,psychiatric illness,2
+437,resting state functional mri connectivity,1,diffuse axonal injury,2
+438,pet/mri,1,right anterior insula,2
+439,ute,1,cortical networks,2
+440,r2,1,functional mri,2
+441,7 tesla,1,amyloid-beta deposition,2
+442,multislice excitation,1,age-related-changes,2
+443,grappa,1,binding-sites,2
+444,action observation,1,protein,2
+445,imitation,1,alerting network,2
+446,inferior parietal,1,executive network,2
+447,mirror,1,orienting network,2
+448,open access,1,multivoxel pattern analysis,2
+449,reproducibility,1,independent component analysis,2
+450,test-retest reliability,1,human parietal,2
+451,intrinsic connectivity network,1,regulatory network,2
+452,ica,1,messenger-rnas,2
+453,dual,1,electroencephalography (eeg),2
+454,susceptibility quantification,1,electrophysiological imaging,2
+455,magnetic field,1,obstructive sleep apnea,2
+456,inverse,1,brain structure,2
+457,positron emission tomography,1,neurocognitive function,2
+458,magnetic susceptibility mapping,1,corpus-callosum,2
+459,ventromedial prefrontal cortex,1,frontotemporal connectivity,2
+460,dorsolateral prefrontal,1,irritable bowel syndrome,2
+461,brain connectivity,1,visceral pain,2
+462,brainmap,1,state functional connectivity,2
+463,medial,1,ventromedial prefrontal cortex,2
+464,anatomical connectivity,1,dorsolateral prefrontal,2
+465,betweenness centrality,1,anatomical connectivity,2
+466,dti tractography,1,betweenness centrality,2
+467,cingulate,1,dti tractography,2
+468,bold signal fluctuations,1,near infrared spectroscopy,2
+469,cingulate cortex,1,general linear model,2
+470,premotor cortex,1,excursion statistics,2
+471,decision,1,quantitative susceptibility mapping (qsm),1
+472,near infrared spectroscopy,1,ultrashort echo time (ute),1
+473,general linear model,1,multiple comparison correction strategies,1
+474,excursion statistics,1,positive predictive value,1
+475,extreme capsule,1,posterior cingulate cortex,1
+476,language networks,1,clinically isolated,1
+477,arcuate fascicle,1,hippocampal glutamate,1
+478,extreme,1,dissolution,1
+479,electrocorticography,1,"mri, magnetic resonance imaging",1
+480,sleep,1,"swi, susceptibility weighted imaging",1
+481,awake surgery,1,susceptibility weighted imaging,1
+482,direct cortical stimulation,1,old-world,1
+483,language pathway,1,entorhinal cortex,1
+484,low-grade,1,effective transverse relaxation,1
+485,age,1,functional near-infrared spectroscopy,1
+486,plasticity,1,functional near-infrared,1
+487,learning,1,small-world networks,1
+488,voxel-based morphometry,1,primate,1
+489,cytoarchitecture,1,microtubule associated proteins,1
+490,astrocytes,1,hyperphosphorylation of tau,1
+491,cell fate,1,cerebral-cortex,1
+492,stem cells,1,resting state functional mri connectivity,1
+493,probabilistic atlas,1,bold signal fluctuations,1

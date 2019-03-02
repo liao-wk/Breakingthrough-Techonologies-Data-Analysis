@@ -1,0 +1,329 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,genome editing,43,genome editing,163
+1,crispr/cas9,20,crispr,77
+2,crispr,17,crispr/cas9,69
+3,gene editing,13,cas9,55
+4,rna,13,gene editing,49
+5,cas9,12,crispr-cas9,29
+6,homologous recombination,9,talen,27
+7,crispr-cas9,8,rna,26
+8,talen,7,homologous recombination,23
+9,genome engineering,6,genome engineering,21
+10,rice,6,rice,21
+11,gene targeting,5,dna repair,17
+12,tomato,4,crop improvement,15
+13,dna repair,4,talens,14
+14,cpf1,4,cpf1,14
+15,genetic engineering,4,guide rna,13
+16,crop improvement,4,crispr/cas,13
+17,guide rna,3,tomato,12
+18,talens,3,gene targeting,12
+19,dna,3,sgrna,11
+20,system,3,crispr-cas,11
+21,crispr/cas,3,dcas9,11
+22,crispr-cas,3,genetic engineering,10
+23,gene therapy,3,dna,10
+24,transcription,3,gene therapy,10
+25,sgrna,2,maize,9
+26,cisgenics,2,mutagenesis,9
+27,gene replacement,2,transcription,9
+28,plant breeding,2,cisgenics,8
+29,maize,2,system,8
+30,genome,2,gene knockout,8
+31,repeat proteins,2,bioenergy,7
+32,bioenergy,2,marker excision,7
+33,mutagenesis,2,synthetic biology,7
+34,excision-repair,2,endonuclease,7
+35,marker excision,2,apple,6
+36,gene knockout,2,pear,6
+37,synthetic biology,2,knock-out,6
+38,dcas9,2,pds,6
+39,metabolic engineering,2,tfl1,6
+40,targeted mutagenesis,2,gene replacement,6
+41,multiplex,2,mutation,6
+42,arabidopsis,2,indel,6
+43,endonuclease,2,double stranded,6
+44,carrot,1,metabolic engineering,6
+45,pds gene,1,targeted mutagenesis,6
+46,myb gene,1,cas9/sgrna,6
+47,apple,1,plant genome editing,6
+48,pear,1,ge crops,6
+49,knock-out,1,rgens,6
+50,pds,1,npbts,6
+51,tfl1,1,arabidopsis,6
+52,non-regulatory regions,1,carrot,5
+53,aid (auxin-inducible degron),1,pds gene,5
+54,solanum lycopersicum,1,myb gene,5
+55,natural diversity and mutants,1,theophylline,5
+56,stress,1,aptazyme,5
+57,agrobacterium mediated transformation,1,off-target effect,5
+58,nicotiana banthamiana,1,dsbs,5
+59,theophylline,1,transgenic,5
+60,aptazyme,1,fruit ripening,5
+61,off-target effect,1,fruit quality,5
+62,dsbs,1,crops,5
+63,transgenic,1,cre-loxp,5
+64,dna double-strand break,1,delitto perfetto,5
+65,knock-in,1,yeast,5
+66,target,1,plant breeding,5
+67,cellular uptake,1,oryza sativa,5
+68,nanoparticles,1,rnai,5
+69,transmission electron microscopy,1,mirna,5
+70,beta-oxidation,1,biotic and abiotic stress,5
+71,eleostearate,1,genome,5
+72,fatty acid,1,cotton,5
+73,triacylglycerol,1,deletion,5
+74,tung tree,1,insertion,5
+75,mutations,1,candida albicans,5
+76,marker free transgenics,1,gene addback,5
+77,fruit ripening,1,genetics,5
+78,fruit quality,1,cbf,5
+79,crops,1,cold tolerance,5
+80,homology-directed dna repair (hdr),1,cor,5
+81,ribozyme,1,single cbf-regulated genes,5
+82,multiplex genome editing,1,argos,5
+83,slef1 alpha promoter,1,drought tolerance,5
+84,geminiviral,1,grain,5
+85,brassica napus,1,defense system,5
+86,clavata genes,1,plant immunity,5
+87,multilocular,1,iac,5
+88,genetic mutation,1,imc,5
+89,cas9-adenosine deaminase,1,effector,5
+90,sgrna forms,1,epigenetics,5
+91,wheat,1,gene,5
+92,herbicide resistance,1,diatom,5
+93,tropical crops,1,urease,5
+94,climate change,1,golden gate,5
+95,blast,1,thalassiosira,5
+96,abiotic stress,1,multiplex,5
+97,genome-editing,1,mosquito,5
+98,climate resilient crops,1,aedes,5
+99,peanut,1,zfns,5
+100,fad2,1,plant,5
+101,oleic acid,1,dna double-strand break,4
+102,meganuclease,1,knock-in,4
+103,saccharomyces cerevisiae,1,target,4
+104,cre-loxp,1,beta-oxidation,4
+105,delitto perfetto,1,eleostearate,4
+106,yeast,1,fatty acid,4
+107,cryptococcus neoformans,1,triacylglycerol,4
+108,electroporation,1,tung tree,4
+109,biolistic transformation,1,mutations,4
+110,grape transformation,1,marker free transgenics,4
+111,molecular breeding,1,brassica napus,4
+112,combinatorial gene regulation,1,clavata genes,4
+113,circuit engineering,1,multilocular,4
+114,genome modification,1,cas9-adenosine deaminase,4
+115,off-target,1,sgrna forms,4
+116,risk analysis,1,wheat,4
+117,food safety,1,herbicide resistance,4
+118,regulatory framework,1,tropical crops,4
+119,oryza sativa,1,climate change,4
+120,rnai,1,blast,4
+121,mirna,1,peanut,4
+122,biotic and abiotic stress,1,fad2,4
+123,site-specific endonucleases,1,oleic acid,4
+124,functional,1,meganuclease,4
+125,scarless genome editing,1,saccharomyces cerevisiae,4
+126,counter-selection cassette,1,genome modification,4
+127,vqr,1,vqr,4
+128,efficiency,1,efficiency,4
+129,banana transformation,1,chlamydomonas reinhardtii,4
+130,carotenoid,1,crispr/cpf1,4
+131,embryonic cell suspension,1,rnp,4
+132,nicotiana tabacum,1,ssodn,4
+133,sucrose transporters,1,editing,4
+134,chlamydomonas reinhardtii,1,switchgrass,4
+135,crispr/cpf1,1,panicum virgatum,4
+136,rnp,1,slo2,4
+137,ssodn,1,dyw2,4
+138,editing,1,nuwa,4
+139,saccharomyces pastorianus,1,ppr,4
+140,brewing,1,rna editing,4
+141,agriculture,1,crispr effector c2c2,4
+142,plant science,1,variants of,4
+143,zinc finger nuclease,1,rnp and virus delivery,4
+144,artificial,1,agrobacterium-mediated,4
+145,crispr interference,1,grna,4
+146,gene repression,1,multiplex gene editing,4
+147,switchgrass,1,gene circuits,4
+148,panicum virgatum,1,lotus japonicus,4
+149,crispr/cas system,1,symbiosis,4
+150,nutrition improvement,1,leghemoglobin,4
+151,disease,1,plants,4
+152,genetic modifications of crops,1,bioinformatic tools,4
+153,precise genome editing,1,cisgenesis,4
+154,removal of,1,intragenesis,4
+155,rna interference (rnai),1,plant genetic resources,4
+156,trans-grafting,1,crop,4
+157,slo2,1,nickases,4
+158,dyw2,1,engineered nuclease,4
+159,nuwa,1,f3h,4
+160,ppr,1,tissue culture,4
+161,rna editing,1,transient assay,4
+162,subcellular-localization,1,metabolomics,4
+163,cotton,1,quantitative,4
+164,deletion,1,potato,4
+165,insertion,1,site directed mutagenesis,4
+166,crispr effector c2c2,1,protoplast,4
+167,variants of,1,megan,4
+168,horticultural crops,1,ssn,4
+169,abiotic and biotic stresses,1,ssr,4
+170,crispr/cas9 system,1,zfn and talen,4
+171,functional genomics,1,site-specific nuclease,4
+172,synthetic site-specific,1,targeted,4
+173,chlamydomonas,1,tal effector nuclease,4
+174,insertional mutants,1,monomeric talen,4
+175,mutant library,1,giy-yig nuclease,4
+176,flagella,1,i-tevi,4
+177,synthetic dna nucleases,1,tal effector,4
+178,rnp and virus delivery,1,stem cells,4
+179,agrobacterium-mediated,1,solanum lycopersicum,3
+180,grna,1,natural diversity and mutants,3
+181,multiplex gene editing,1,stress,3
+182,candida albicans,1,homology-directed dna repair (hdr),3
+183,gene addback,1,ribozyme,3
+184,genetics,1,multiplex genome editing,3
+185,vegetable crops,1,slef1 alpha promoter,3
+186,in vitro regeneration,1,geminiviral,3
+187,genetic,1,genetic mutation,3
+188,association analysis,1,abiotic stress,3
+189,cbf,1,genome-editing,3
+190,cold tolerance,1,climate resilient crops,3
+191,cor,1,grape transformation,3
+192,single cbf-regulated genes,1,molecular breeding,3
+193,argos,1,risk analysis,3
+194,drought tolerance,1,food safety,3
+195,grain,1,regulatory framework,3
+196,targeted genome engineering,1,site-specific endonucleases,3
+197,engineered nucleases,1,functional,3
+198,tale and talen,1,banana transformation,3
+199,senescence,1,carotenoid,3
+200,kalanchoe,1,embryonic cell suspension,3
+201,campanula,1,nicotiana tabacum,3
+202,gene circuits,1,sucrose transporters,3
+203,gene knockdown,1,saccharomyces pastorianus,3
+204,genetic transformation,1,brewing,3
+205,insertional,1,agriculture,3
+206,antiviral therapy,1,plant science,3
+207,antibacterial therapy,1,zinc finger nuclease,3
+208,regulation,1,crispr interference,3
+209,binary vector,1,gene repression,3
+210,reporter system,1,crispr/cas system,3
+211,plant transformation,1,nutrition improvement,3
+212,single,1,disease,3
+213,clustered regularly interspersed short palindromic repeats,1,chlamydomonas,3
+214,oleaginous microalgae,1,insertional mutants,3
+215,nannochloropsis spp.,1,mutant library,3
+216,clustered regularly,1,flagella,3
+217,defense system,1,vegetable crops,3
+218,plant immunity,1,in vitro regeneration,3
+219,iac,1,genetic,3
+220,imc,1,senescence,3
+221,effector,1,kalanchoe,3
+222,chloroplast transformation,1,campanula,3
+223,epigenetics,1,gene knockdown,3
+224,gene,1,genetic transformation,3
+225,transcriptional regulation,1,insertional,3
+226,diatom,1,antiviral therapy,3
+227,urease,1,antibacterial therapy,3
+228,golden gate,1,regulation,3
+229,thalassiosira,1,binary vector,3
+230,ethyl carbamate,1,reporter system,3
+231,engineered saccharomyces cerevisiae,1,plant transformation,3
+232,mutation,1,single,3
+233,indel,1,energy crops,3
+234,double stranded,1,plant-pathogen interactions,3
+235,saccharomyces-cerevisiae,1,human-cells,3
+236,lotus japonicus,1,recombinant protein,3
+237,symbiosis,1,crispr mutagenesis,3
+238,leghemoglobin,1,microhomology,3
+239,overlapping genes,1,in situ tag-insertion,3
+240,rubisco ls mutation,1,multi-locus,3
+241,organelle genome editing,1,piggybac transposon,3
+242,energy crops,1,acetolactate,3
+243,recombinases,1,dinoflagellate,3
+244,oligonucleotide-directed,1,genome rearrangement,3
+245,plant-pathogen interactions,1,heteroplasmy,3
+246,plants,1,organelle,3
+247,bioinformatic tools,1,animal,3
+248,human-cells,1,insertional rna editing,3
+249,repeat protein,1,mitochondrion,3
+250,nucleus-encoded factor,1,physarum,3
+251,nonhomologous end joining,1,non-regulatory regions,2
+252,cas9/sgrna,1,aid (auxin-inducible degron),2
+253,plant genome editing,1,cellular uptake,2
+254,ge crops,1,nanoparticles,2
+255,rgens,1,transmission electron microscopy,2
+256,npbts,1,cryptococcus neoformans,2
+257,arabidopsis-thaliana,1,electroporation,2
+258,directed mutagenesis,1,biolistic transformation,2
+259,cisgenesis,1,combinatorial gene regulation,2
+260,intragenesis,1,circuit engineering,2
+261,plant genetic resources,1,off-target,2
+262,crop,1,repeat proteins,2
+263,double-strand break,1,genetic modifications of crops,2
+264,nonhomologous end-joining,1,precise genome editing,2
+265,homology-directed,1,removal of,2
+266,oligonucleotide-directed mutagenesis,1,rna interference (rnai),2
+267,precision gene editing,1,trans-grafting,2
+268,rtds,1,horticultural crops,2
+269,designed nuclease,1,abiotic and biotic stresses,2
+270,trait stacking,1,crispr/cas9 system,2
+271,position effect,1,functional genomics,2
+272,plant gene editing,1,synthetic site-specific,2
+273,plant gene activation,1,synthetic dna nucleases,2
+274,plant gene repression,1,targeted genome engineering,2
+275,nickases,1,engineered nucleases,2
+276,recombinant protein,1,tale and talen,2
+277,engineered nuclease,1,oleaginous microalgae,2
+278,f3h,1,nannochloropsis spp.,2
+279,tissue culture,1,clustered regularly,2
+280,transient assay,1,chloroplast transformation,2
+281,metabolomics,1,ethyl carbamate,2
+282,quantitative,1,engineered saccharomyces cerevisiae,2
+283,crispr mutagenesis,1,overlapping genes,2
+284,microhomology,1,rubisco ls mutation,2
+285,in situ tag-insertion,1,organelle genome editing,2
+286,multi-locus,1,recombinases,2
+287,potato,1,oligonucleotide-directed,2
+288,site directed mutagenesis,1,nonhomologous end joining,2
+289,protoplast,1,arabidopsis-thaliana,2
+290,targeted genome editing,1,directed mutagenesis,2
+291,zinc-finger nuclease (zfn),1,double-strand break,2
+292,perennial fruit,1,nonhomologous end-joining,2
+293,mosquito,1,homology-directed,2
+294,aedes,1,oligonucleotide-directed mutagenesis,2
+295,human malaria mosquito,1,precision gene editing,2
+296,sex-ratio,1,rtds,2
+297,megan,1,designed nuclease,2
+298,ssn,1,trait stacking,2
+299,ssr,1,position effect,2
+300,zfn and talen,1,plant gene editing,2
+301,site-specific nuclease,1,plant gene activation,2
+302,targeted,1,plant gene repression,2
+303,piggybac transposon,1,targeted genome editing,2
+304,acetolactate,1,zinc-finger nuclease (zfn),2
+305,comparative developmental biology,1,perennial fruit,2
+306,model organisms,1,excision-repair,2
+307,tal effector nuclease,1,human malaria mosquito,2
+308,homologous recombination (hr),1,sex-ratio,2
+309,monomeric talen,1,comparative developmental biology,2
+310,giy-yig nuclease,1,model organisms,2
+311,i-tevi,1,homologous recombination (hr),2
+312,tal effector,1,new plant breeding techniques,2
+313,new plant breeding techniques,1,site-directed nucleases,2
+314,site-directed nucleases,1,gmo legislation,2
+315,gmo legislation,1,crisprcas,2
+316,zfns,1,agrobacterium mediated transformation,1
+317,plant,1,nicotiana banthamiana,1
+318,crisprcas,1,scarless genome editing,1
+319,stem cells,1,counter-selection cassette,1
+320,dinoflagellate,1,artificial,1
+321,genome rearrangement,1,subcellular-localization,1
+322,heteroplasmy,1,association analysis,1
+323,organelle,1,transcriptional regulation,1
+324,animal,1,saccharomyces-cerevisiae,1
+325,insertional rna editing,1,repeat protein,1
+326,mitochondrion,1,nucleus-encoded factor,1
+327,physarum,1,,

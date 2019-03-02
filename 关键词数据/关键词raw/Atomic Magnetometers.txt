@@ -1,0 +1,1353 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+ID OPERATION
+ER
+
+PT J
+DE Light shift; high-density atomic magnetometer; spin-exchange
+   relaxation-free; optical absorption
+ID D-2 LINES; PRESSURE; HE-3; N-2
+ER
+
+PT J
+ID POLARIZATION; VAPOR
+ER
+
+PT J
+ER
+
+PT J
+ID RELAXATION
+ER
+
+PT J
+ER
+
+PT J
+DE alkali-metal density ratio; hybrid optical ptunping; SERF atomic
+   magnetometer
+ER
+
+PT J
+DE Double resonance atomic magnetometers; Harmonic detection; Transverse
+   and longitudinal relaxation time; Sensitivity improvement
+ID ATOMIC MAGNETOMETERS; IMPROVEMENT; SYNCHRONIZATION; NANOPARTICLES
+ER
+
+PT J
+ER
+
+PT J
+DE Atomic magnetometer; spin precession of hyperpolarized noble gas;
+   dynamic response
+ER
+
+PT J
+ID SPIN RELAXATION
+ER
+
+PT J
+ID MEG
+ER
+
+PT J
+ID LEVEL-CROSSING RESONANCES; ZERO-FIELD; MAGNETIC-FIELDS; RELAXATION;
+   HELIUM; SCALAR; STATE
+ER
+
+PT J
+DE Electron spin resonance; Atomic magnetometer array; RF magnetic field
+   mapping; Unshielded detection; Interference rejection; Low-field
+   magnetic resonance
+ID NUCLEAR-QUADRUPOLE RESONANCE; MAGNETOCARDIOGRAPHY MEASUREMENTS;
+   MAGNETOENCEPHALOGRAPHY; FIELD; EXPLOSIVES; MRI
+ER
+
+PT J
+ER
+
+PT J
+ID PUMPED MAGNETOMETERS; SPIN PRECESSION; MAGNETOENCEPHALOGRAPHY; LIGHT
+ER
+
+PT J
+ID FREQUENCY STANDARDS; SPIN-EXCHANGE; ALKALI-METAL; RUBIDIUM; LIGHT;
+   RELAXATION; SATURATION; LINEWIDTH; CLOCK
+ER
+
+PT J
+ID MAGNETIC-FIELDS; OPERATION
+ER
+
+PT J
+DE Geometry design of microfabricated alkali vapor cells; microfabricated
+   spherical alkali vapor cells; polarization lifetime; sensitivity of
+   chip-scale atomic magnetometers
+ER
+
+PT J
+DE alkali density measurement; atomic magnetometer; magnetic resonance
+   response; phase-frequency analysis
+ID MAGNETIC INDUCTION TOMOGRAPHY; RB-87
+ER
+
+PT J
+ID MICROFABRICATED VAPOR CELL; OPTICAL MAGNETOMETRY; RESONANCE; ARRAY
+ER
+
+PT J
+DE spin-exchange relaxation free (SERF) magnetometer; linewidth; optical
+   polarization modulation
+ER
+
+PT J
+DE frequency tracking; vibration stabilization; field-programmable gate
+   array; direct digital synthesizer; proportional integral derivative
+   control
+ID TRACKING; LIGHT
+ER
+
+PT J
+DE transfer function; frequency-response; dynamics; resonance frequency;
+   magnetic linewidth
+ER
+
+PT J
+DE Chip-scale spin-exchange-relaxation-free (SERF) magnetometer; micro
+   alkali vapor cells; rubidium; sensitivity
+ID ATOMIC MAGNETOMETER
+ER
+
+PT J
+DE atomic magnetometer; SERF; 3D measurements; multifactorial design
+ID ATOMIC-MAGNETOMETER
+ER
+
+PT J
+ID MAGNETIC-FIELDS; SUPPRESSION; LASER; GYROSCOPE; LINES
+ER
+
+PT J
+DE Axion dark matter; Atomic magnetometer; Spin-exchange relaxation-free
+ID ATOMIC MAGNETOMETER; MAGNETIC-RESONANCE; POTASSIUM; ROTATION; LINES; MRI
+ER
+
+PT J
+ID DARK-MATTER; PARTICLE PHYSICS; CANDIDATES; EVOLUTION
+ER
+
+PT J
+ID MAGNETIC INDUCTION TOMOGRAPHY
+ER
+
+PT S
+DE Optically Pumped Magnetometer; Atomic Magnetometer; SQUID; Biomagnetism;
+   Magnetoencephalography; Magnetocardiography
+ID MAGNETOENCEPHALOGRAPHY; ROOM
+ER
+
+PT B
+DE magnetron sputtering; polysilicon-aluminum; heater; SERF magnetometer
+ER
+
+PT J
+DE Atomic spin polarization; optical pumping; atomic magnetometer; field
+   measurements
+ID ATOMIC-MAGNETOMETER; FIELD-MEASUREMENTS; STABILITY; GYROSCOPE; HE-3
+ER
+
+PT J
+ID MAGNETIC-RESONANCE LINES; SPIN; ARRAY
+ER
+
+PT J
+DE optically pumped magnetometers; multi-axis field measurements;
+   high-sensitivity field measurements; polarized atoms
+ID MAGNETOCARDIOGRAPHY; TEMPERATURE; CLOCK; SHIFT
+ER
+
+PT J
+ID HYPERFINE-STRUCTURE; METAL ATOMS; ZEEMAN; STATE; QUADRUPOLE;
+   MAGNETOMETER; RESOLUTION; SODIUM; RB-87
+ER
+
+PT J
+ER
+
+PT J
+DE M-X optically pumped magnetometers; Harmonic detection; Square wave duty
+   cycle; Bloch equations; Biomagnetism
+ID LASER; RESONANCE; LIGHT
+ER
+
+PT J
+DE magnetic particles; spintronic sensors; GMR; NMR; SQUID; atomic
+   magnetometer; molecular sensing
+ID IRON-OXIDE NANOPARTICLES; INDUCED REMNANT MAGNETIZATION; OPTICAL ATOMIC
+   MAGNETOMETER; QUANTUM INTERFERENCE DEVICE; CORE-SHELL NANOPARTICLES;
+   IMAGING CONTRAST AGENTS; LARGE-SCALE SYNTHESIS; SPIN-VALVE SENSORS;
+   ONE-POT SYNTHESIS; T-C SQUID
+ER
+
+PT J
+DE Atomic magnetometer; magnetic resonance; modulation
+ER
+
+PT J
+ID HIGH-RESOLUTION NMR; J-COUPLING SPECTROSCOPY; ATOMIC MAGNETOMETER;
+   SPIN-EXCHANGE; OPTICAL MAGNETOMETRY; REVERSIBLE EXCHANGE; ALKALI VAPORS;
+   PARA-HYDROGEN; DC SQUID; PARAHYDROGEN
+ER
+
+PT J
+DE atomic magnetometer; nonlinear magneto-optical rotation; sensitivity;
+   magnetic field sampling rate
+ER
+
+PT J
+ID FREQUENCY-SHIFTS; EXCHANGE; COLLISIONS; RESONANCE; RB
+ER
+
+PT J
+ID K-RB-NE-21 CO-MAGNETOMETER; MAGNETIC-RESONANCE LINES; CROSS-SECTIONS;
+   ALKALI VAPORS; COLLISIONS; POTASSIUM; ROTATION; FIELD;
+   MAGNETOENCEPHALOGRAPHY; RUBIDIUM
+ER
+
+PT J
+ID MAGNETIC INDUCTION TOMOGRAPHY; CARGO INSPECTION SYSTEM; NEUTRON ANALYSIS
+ER
+
+PT J
+DE atomic magnetometer; electro-optic modulator; spin-exchange
+   relaxation-free; magnetic field measurment
+ID EXCHANGE RELAXATION; MAGNETOENCEPHALOGRAPHY; POLARIZATION; IMPROVEMENT;
+   POTASSIUM
+ER
+
+PT J
+ID ATOMIC MAGNETOMETER; MAGNETIC-RESONANCE; MAGNETOENCEPHALOGRAPHY;
+   PERFORMANCE; ROTATION; SPIN; MRI
+ER
+
+PT J
+DE coherent population trapping; nonlinear Zeeman effect; large dynamic
+   magnetometer
+ID ATOMIC MAGNETOMETER; LINE; RESONANCES
+ER
+
+PT J
+ER
+
+PT J
+DE Atomic magnetometer; optically pumping; pump-beam modulation; spin
+   exchange
+ID MAGNETOENCEPHALOGRAPHY; MAGNETOCARDIOGRAPHY
+ER
+
+PT J
+DE Optical pumping; Polarized atoms; Antirelaxation coating; Polarization
+   lifetime
+ID MAGNETOMETER; RELAXATION; POTASSIUM; RUBIDIUM
+ER
+
+PT J
+ID SINGLE-ELECTRON SPIN; ULTRACOLD ATOMS; PROBE MICROSCOPY;
+   SUPERCONDUCTIVITY; MAGNETOMETER; SPECTROSCOPY; SENSITIVITY; TRANSPORT;
+   PHYSICS; REGIME
+ER
+
+PT J
+DE NMR; atomic magnetic resonance; magnetometer; magnetic field standard
+ID CONSTANTS; SYSTEM; ATOMS
+ER
+
+PT J
+DE atomic magnetometer; fT sensitivity; optically pumped magnetometer;
+   single-beam configuration; high-frequency operation
+ID ATOMIC MAGNETOMETER; MRI
+ER
+
+PT J
+ID ATOMS; PARAFFIN; DEPENDENCE; COLLISIONS; LIGHT
+ER
+
+PT J
+ID RUBIDIUM VAPOR; CLOCK
+ER
+
+PT J
+ID SPIN; SPECTROSCOPY
+ER
+
+PT J
+ID MAGNETIC-RESONANCE; VAPOR
+ER
+
+PT J
+ER
+
+PT J
+ID SCALE ATOMIC MAGNETOMETER
+ER
+
+PT J
+ER
+
+PT S
+DE Coherent Population Trapping (CPT) resonance; atomic magnetometer;
+   optical pumping
+ER
+
+PT S
+DE MEMS atomic vapor cells; chip-scale atomic clock (CSAC); buffer gas;
+   Cu-Cu thermocompression bonding
+ID HE; NE
+ER
+
+PT S
+DE atomic vapor magnetometer; vapor cell
+ER
+
+PT B
+DE magnetometer; scalar; chip-scale; compensation; geomagnetic
+ID M-X MAGNETOMETER; FIELD
+ER
+
+PT S
+DE photon absorption cross-section; alkali atoms; broadening
+ER
+
+PT S
+DE OTS-coated micro alkali vapor cell; chip-scale atomic magnetometers;
+   polarization lifetime; quantum devices; sensitivity
+ER
+
+PT S
+ER
+
+PT J
+DE Fabrication; Magnetic sensing; NV centres; Solid spin manipulation
+ID ATOMIC MAGNETOMETER
+ER
+
+PT S
+ER
+
+PT J
+ID LIGHT
+ER
+
+PT J
+DE MRI; Low Field; OPAM; Atomic magnetometer
+ID MAGNETIC-FIELD
+ER
+
+PT J
+ID MAGNETIC-FIELD; FLUXGATE MAGNETOMETER; CASSINI MAGNETOMETER; ENCELADUS;
+   CALLISTO; SENSORS; MISSION; EUROPA
+ER
+
+PT J
+ID FREQUENCY-SHIFTS; COLLISIONS; ATOMS; SPECTRUM; VAPORS
+ER
+
+PT J
+ID POLARIZATION SPECTROSCOPY; FREQUENCY-MODULATION; DISCHARGE
+ER
+
+PT J
+ID SENSITIVITY; POLARIZATION; DESIGN; LUNG; MRI
+ER
+
+PT J
+DE atomic magnetometers; low-frequency; high sensitivity
+ID MULTICHANNEL ATOMIC MAGNETOMETER; IMAGING APPLICATIONS;
+   MAGNETIC-RESONANCE; SPIN-EXCHANGE; MAGNETOENCEPHALOGRAPHY; FIELD; NMR;
+   MRI
+ER
+
+PT J
+DE Atomic spin magnetometer; non-orthogonal angle; saddle coil system; spin
+   exchange relaxation free (SERF) regime
+ID MRI; GRADIOMETER; IMPROVEMENT; POTASSIUM; RUBIDIUM; SIGNALS
+ER
+
+PT J
+ID FREQUENCY STABILIZATION; RUBIDIUM
+ER
+
+PT J
+DE coherent population trapping; atomic magnetometer; magneto-optic
+   rotation effect
+ID SENSITIVITY; NOISE
+ER
+
+PT J
+ID ON-SAPPHIRE CMOS; FREQUENCY STABILITY; MAGNETIC-FIELDS; VAPOR CELLS;
+   JUPITER; MISSION; HELIUM
+ER
+
+PT J
+DE Biomagnetics; magnetic field measurement; magnetometer; magnetometry;
+   optical pumping
+ER
+
+PT J
+ID COMPOUND ACTION-POTENTIALS; MAGNETOENCEPHALOGRAPHY; CURRENTS; BUNDLE;
+   MODEL
+ER
+
+PT J
+ID FETAL MAGNETOCARDIOGRAPHY; ARRAY; FIELDS
+ER
+
+PT J
+ID SPIN PRECESSION; FEEDBACK; DEVICES; QUBIT
+ER
+
+PT J
+DE all optical; atomic spin magnetometer; noise; sensitivity
+ID MAGNETOENCEPHALOGRAPHY; POLARIZATION; GRADIOMETER; POTASSIUM; RUBIDIUM
+ER
+
+PT J
+ID FETAL MAGNETOCARDIOGRAPHY; RYDBERG ATOMS; MAGNETOMETERS; ARRAY
+ER
+
+PT J
+ID SPIN; XE-129; MRI
+ER
+
+PT J
+DE spin exchange relaxation free; atomic co-magentometer; atomic spin
+   gyroscope
+ID EXCHANGE CROSS-SECTIONS; XE-129
+ER
+
+PT J
+ID TOMOGRAPHY
+ER
+
+PT J
+ID ALKALI VAPORS; MAGNETOCARDIOGRAPHY; ARRAY
+ER
+
+PT J
+DE Ultra low field NMR; Atomic magnetometry; Remote detection; J-coupling;
+   Differential measurement; Trimethyl-phosphate
+ID NUCLEAR-MAGNETIC-RESONANCE; ULTRA-LOW-FIELD; SCALAR COUPLINGS;
+   ENVIRONMENT
+ER
+
+PT J
+ID ATOMIC MAGNETOMETER; DIODE-LASER; VAPOR; RB
+ER
+
+PT J
+DE atomic magnetometer; optically pumped magnetometer; optically driven
+   spin precession; burning plasma diagnostics; magnetic turbulence
+ER
+
+PT S
+ER
+
+PT S
+DE SERF atomic magnetometer; spin-exchange collisions; slowing-down
+   precession frequency; linewidth of magnetic resonance
+ID ALKALI VAPORS
+ER
+
+PT S
+DE Optical Atomic Magnetometer; Laser Spectroscopy; Geomagnetics;
+   Magnetocardiography; Non-destructive Evaluation
+ID ATOMIC MAGNETOMETER; MAGNETOENCEPHALOGRAPHY
+ER
+
+PT S
+DE atomic magnetometer; dead zone; heading error; light shift
+ID HELIUM; LASER
+ER
+
+PT S
+DE atomic magnetometer; liquid crystal; polarization rotator; dead-zone
+   effect; magnetic field measurement; Helium-4
+ER
+
+PT S
+ID SCALE ATOMIC MAGNETOMETER; VAPOR CELL
+ER
+
+PT S
+ER
+
+PT S
+DE NQR; polarization enhancement; ammonium nitrate; PETN; atomic
+   magnetometers; coil; standoff detection
+ID N-14 NQR SIGNAL
+ER
+
+PT S
+DE magnetic sensing; magnetometers; buried explosive hazards; unexploded
+   ordnance; MEMs; geophysics
+ER
+
+PT S
+DE Optical Atomic Magnetometers; Magnetic Induction Tomography; Medical
+   Imaging
+ID ATRIAL-FIBRILLATION; TISSUES
+ER
+
+PT S
+DE Optical pumping; vapor cells quantum magnetometer; Allan variance
+ER
+
+PT J
+ER
+
+PT J
+DE Atomic devices; chemical foaming process (CFP); hot forming process;
+   microrubidium vapor cell; optically pumped atomic magnetometer;
+   ultraviolet spectrophotometer; wafer-level hermetic package
+ID MAGNETOMETER; CLOCKS
+ER
+
+PT J
+DE magnetic moment; linewidth; M-x-M-R magnetometer; sensitivity
+ID RELAXATION; ATOMS
+ER
+
+PT J
+DE Atomic magnetometer; MRI; Rb; 3D imaging
+ID VAPOR; XE-129
+ER
+
+PT J
+DE spin-exchange relaxation-free; atomic magnetometer; magnetic field
+   gradient; magnetic shield; AC-Stark shift
+ID FREE ATOMIC MAGNETOMETER; MAGNETOCARDIOGRAPHY; ARRAY
+ER
+
+PT J
+ID RUBIDIUM; FIELD
+ER
+
+PT J
+ID ELECTROMAGNETICALLY INDUCED TRANSPARENCY; LIGHT; VAPOR
+ER
+
+PT J
+ID M-X MAGNETOMETER; OPTICAL MAGNETOMETER; MAGNETIC-RESONANCE; LIGHT;
+   PERFORMANCE; NEUTRON; VAPORS; FIELDS
+ER
+
+PT J
+DE atomic magnetometer; coherent population trapping; magic frequency;
+   atomic clock; magneto-optic rotation
+ID COHERENT; MAGNETOMETER; RESONANCES; METROLOGY; CLOCKS
+ER
+
+PT J
+DE Atomic spin magnetometer; Hybrid pumping; Pump power; Molar ratio;
+   Sensitivity
+ID SENSITIVITY; MIXTURES; HE-3
+ER
+
+PT J
+DE Magnetization; Gyromagnetic ratio; Spin exchange optical pumping;
+   All-optical atomic magnetometer
+ID FIELDS; MRI
+ER
+
+PT J
+DE Optically pumped atomic magnetometer; actively shielded coil;
+   ultra-low-field magnetic resonance imaging
+ID DESIGN
+ER
+
+PT J
+ER
+
+PT B
+ER
+
+PT B
+DE water-level optical package; VCSEL; Mz magnetometer
+ER
+
+PT B
+DE SERF atomic magnetometer; system integration; Rb vapor cell; weak
+   magnetic field; glass wafer substrate
+ER
+
+PT B
+DE silicon heater; wafer level; AC electronic heating; optical absorption
+ER
+
+PT S
+ER
+
+PT S
+DE Optically pumped atomic magnetometer; alkali metal vapor cell; azide;
+   microstructure
+ER
+
+PT S
+DE digital servo system; magnetometer
+ER
+
+PT S
+DE Optical Atomic Magnetometers; Magnetic Induction Tomography;
+   Non-invasive Detection and Screening
+ID TOMOGRAPHY; SENSOR; MIT
+ER
+
+PT S
+DE All-optical atomic spin magnetometer; Weak magnetic field measurement;
+   Sensitivity
+ER
+
+PT S
+DE Semiconductor laser; Collimation; Lens; Anamorphic prisms
+ER
+
+PT S
+DE rubidium magnetometer; Faraday rotation effect; spin relaxation; buffer
+   gas pressure
+ID SPIN RELAXATION; EXCHANGE; COLLISIONS
+ER
+
+PT J
+ID DESIGN; MRI
+ER
+
+PT J
+ID ATOMIC MAGNETOMETER; CROSS SECTIONS; MAGNETOENCEPHALOGRAPHY
+ER
+
+PT J
+ID NUCLEAR-QUADRUPOLE RESONANCE; OPTICAL MAGNETOMETRY; SQUID AMPLIFIER;
+   ENVIRONMENT; MRI
+ER
+
+PT J
+ID OPTICALLY PUMPED MAGNETOMETER; SQUEEZED-LIGHT; LINE; HEXADECAPOLE;
+   REDUCTION; ATOMS; FIELD
+ER
+
+PT J
+ID RUBIDIUM ATOMIC CLOCK; LIGHT SHIFTS; LAMPS; RADIATION; MOLECULES;
+   VAPORS; RB
+ER
+
+PT J
+ID HUMAN BRAIN; MAGNETOENCEPHALOGRAPHY; VAPORS; HE-3
+ER
+
+PT J
+ID ATOMIC MAGNETOMETRY
+ER
+
+PT J
+DE magnetometer; cesium; distributed feedback laser; temperature
+ER
+
+PT J
+ID SENSOR
+ER
+
+PT J
+ID WEAK MAGNETIC-FIELDS; RESONANCE
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ID OPTICALLY PUMPED MAGNETOMETER; ATOMIC MAGNETOMETER; PERFORMANCE
+ER
+
+PT J
+ID SCALE ATOMIC MAGNETOMETER
+ER
+
+PT J
+DE high contrast atomic magnetometer; coherent population trapping
+ID DARK RESONANCES; D-1 LINE; SPIN
+ER
+
+PT J
+DE Neutron; EDM; Mercury magnetometer
+ID IMPROVED UPPER LIMIT; ULTRA-COLD NEUTRONS; CP VIOLATION;
+   ELEMENTARY-PARTICLES; SEARCH; STORAGE; RESONANCE; FIELDS; DECAY
+ER
+
+PT J
+ID M-X MAGNETOMETER; FREQUENCY
+ER
+
+PT J
+ID ATOMIC MAGNETOMETER; NMR
+ER
+
+PT S
+ER
+
+PT S
+ID MAGNETOENCEPHALOGRAPHY; PERFORMANCE; SQUID; NERVE
+ER
+
+PT B
+DE Cesium atomic magnetometer; closed-loop system; Digital Automatic
+   Frequency Tracking (DAFT)
+ER
+
+PT S
+ID SCALE ATOMIC MAGNETOMETER; INTERFEROMETRY
+ER
+
+PT B
+DE magnetometer; sensitivity; digital servo system
+ER
+
+PT B
+DE Alkali metal vapor cell; antirelaxation coating; atomic clocks; OTS;
+   spin relaxation
+ID VAPOR CELLS
+ER
+
+PT J
+ER
+
+PT J
+DE Atomic magnetometer; Ultralow field NMR; Near room temperature; Fast
+   sampling
+ID NUCLEAR-MAGNETIC-RESONANCE; GAS
+ER
+
+PT J
+ID PRECESSION SIGNAL; RESONANCE; FIELD
+ER
+
+PT J
+ID SPIN-EXCHANGE; ALKALI VAPORS; MAGNETOCARDIOGRAPHY; ARRAY; FIELD
+ER
+
+PT J
+ID ATOMIC MAGNETOMETER; ALKALI VAPORS; MAGNETOENCEPHALOGRAPHY;
+   MAGNETOCARDIOGRAPHY; ARRAY
+ER
+
+PT J
+ID MRI
+ER
+
+PT J
+ID PUMPED CESIUM MAGNETOMETERS; LASER; DISCHARGE
+ER
+
+PT J
+DE optically pumping; Zeeman effect; ODMR; magnetometer
+ER
+
+PT J
+DE Atomic magnetometer; MRI; Ultra-low field; Anatomical; Imaging; Low-cost
+ER
+
+PT J
+ER
+
+PT J
+ID MAGNETIC-FIELD; NMR; COILS; EXCHANGE; SIGNALS; CELL
+ER
+
+PT S
+ID CROSS-SECTIONS; SPIN; POTASSIUM
+ER
+
+PT S
+DE Faraday effect; lock-in amplifier; Verdet constant; atomic magnetometer
+ER
+
+PT B
+DE unshielded atomic magnetometer; spherical compensating coils; field
+   gradient method
+ID MAGNETIC-FIELD
+ER
+
+PT S
+ID NONDEMOLITION MEASUREMENTS; HEISENBERG LIMIT; MAGNETOMETER; NOISE; LIGHT
+ER
+
+PT J
+DE Atomic magnetometer; convergence criterion; laser pumping; self-test;
+   unshielded magnetic field
+ID SPIN-EXCHANGE
+ER
+
+PT J
+ID MAGNETIC-RESONANCE; DIAMOND
+ER
+
+PT J
+ID CIRCUIT QUANTUM ELECTRODYNAMICS; FLUX QUBIT; DC-SQUID; NOISE;
+   MAGNETOMETRY; DIAMOND; AMPLIFICATION; SPIN
+ER
+
+PT J
+ID MICROFABRICATED VAPOR CELL; ATOMIC MAGNETOMETRY; CONVERSION; NOISE
+ER
+
+PT J
+ID OPERATION; VAPOR
+ER
+
+PT J
+ID SEMICONDUCTOR-LASER; CLOCK
+ER
+
+PT J
+DE Biomagnetics; magnetometers; optical pumping
+ER
+
+PT J
+ID POLARIZATION SPECTROSCOPY; DIODE-LASER; LINEWIDTH; VAPOR; NOISE;
+   TRANSITION; CONVERSION; RESOLUTION; SYSTEM; CLOCK
+ER
+
+PT J
+ID EXCHANGE; HE-3
+ER
+
+PT J
+ER
+
+PT J
+ID QUANTUM COHERENCE; RADICAL PAIRS; FIELD; RECOMBINATION;
+   MAGNETORECEPTION; TEMPERATURE; RESONANCE; SYSTEMS; MODEL
+ER
+
+PT J
+ID ATOMIC MAGNETOMETER; SENSITIVITY; RESONANCE; DISCHARGE; LIGHT
+ER
+
+PT J
+ID ATOMIC MAGNETOMETER; SPIN-EXCHANGE
+ER
+
+PT J
+ID LASER FREQUENCY STABILIZATION
+ER
+
+PT J
+ID OPTICAL-LINES
+ER
+
+PT J
+ID MAGNETIC-RESONANCE LINES; MAGNETOENCEPHALOGRAPHY; DEUTERIUM; SIGNALS
+ER
+
+PT J
+ID DYNAMIC LOCALIZATION
+ER
+
+PT J
+DE coherent population trapping; atomic clock; microwave; laser
+ID FREQUENCY STABILITY; DARK RESONANCES; CONTRAST; RB-87; LINE; CPT;
+   STANDARD
+ER
+
+PT S
+DE Chip-scale atomic magnetometer; MCG; MEG; MRX; optical magnetometer
+ID MICROFABRICATED VAPOR CELL; MAGNETIC-FIELD
+ER
+
+PT J
+ID MAGNETIC-RESONANCE LINES; SPIN-EXCHANGE; ATOMIC MAGNETOMETER; ALKALI
+   VAPORS
+ER
+
+PT J
+DE Flux transformer (FT); nuclear magnetic resonance (NMR); optically
+   pumped atomic magnetometer; ultra-low field (ULF) magnetic resonance
+   imaging (MRI)
+ID THERMAL AGITATION; CONDUCTORS
+ER
+
+PT J
+DE Atomic magnetometer; biomagnetics; optical pumping; spin exchange
+ID FIELD; HE-3
+ER
+
+PT J
+ID NANOPARTICLES; RESOLUTION
+ER
+
+PT J
+ID SPIN; DIAMOND; MICROSCOPY; OPERATION
+ER
+
+PT J
+ID LINES
+ER
+
+PT J
+ER
+
+PT S
+DE atomic magnetometer; heading error; diode laser; coherence
+ER
+
+PT J
+ID RESONANCE; FIELD
+ER
+
+PT S
+ID CELLS
+ER
+
+PT S
+DE cell szie; SERF regime; high sensitivity magnetometer
+ID MAGNETIC-RESONANCE; SPIN RELAXATION; ALKALI VAPORS; EXCHANGE; ATOMS
+ER
+
+PT S
+ID LIGHT
+ER
+
+PT S
+DE Electric dipole moment; nuclear spin maser; atomic magnetometer;
+   Nonlinear magneto optical rotation
+ID XE-129; ATOMS; HE-3
+ER
+
+PT J
+ID ALKALI VAPORS; SPIN-EXCHANGE
+ER
+
+PT J
+ID POLARIZATION-MODULATED LIGHT; PUMPED HE-4 MAGNETOMETER; MAGNETIC-FIELD;
+   ISOTROPY; VAPOR
+ER
+
+PT J
+ID ELECTRONICS; NOISE; GAS
+ER
+
+PT J
+ID MAGNETORELAXOMETRY
+ER
+
+PT J
+DE Atomic magnetometer; biomagnetic field; optical pumping; phantom
+   measurement
+ID MAGNETOENCEPHALOGRAPHY
+ER
+
+PT J
+ID ATOMIC MAGNETOMETER; QUANTUM-NOISE; ORIENTATION; ALIGNMENT
+ER
+
+PT J
+ID UNSHIELDED ENVIRONMENT; OPTICAL MAGNETOMETRY; RESONANCE; SIGNALS
+ER
+
+PT J
+ID PUMPED HE-4 MAGNETOMETER; SPIN-EXCHANGE; ATOMIC MAGNETOMETERS; ALKALI
+   VAPORS; RESONANCE; LASER; STATE; FIELD; TRANSITIONS; PRINCIPLES
+ER
+
+PT J
+ID LIGHT
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ID MAGNETIC-RESONANCE; FARADAY-ROTATION; SPIN; NOISE; FIELD
+ER
+
+PT S
+DE Magnetocardiography; atomic magnetometers; magnetic gradiometers;
+   magnetic field mapping
+ID MAGNETOMETER
+ER
+
+PT S
+ID LEVEL CROSSING RESONANCES; VAPOR CELLS
+ER
+
+PT S
+DE Cs magnetometer; polarization; pumping intensity
+ID ATOMIC MAGNETOMETER
+ER
+
+PT J
+DE Low-field NMR; Optical magnetometry; Atomic magnetometry
+ID NUCLEAR-MAGNETIC-RESONANCE; QUANTUM INTERFERENCE DEVICE; ATOMIC
+   MAGNETOMETER; MRI; SIGNALS
+ER
+
+PT J
+DE atomic clocks; ground states; hyperfine structure; light coherence;
+   magnetometers; microwave oscillators; physics education; population
+   inversion; radiation pressure; rubidium; self-induced transparency;
+   semiconductor lasers; student experiments
+ID ELECTROMAGNETICALLY INDUCED TRANSPARENCY; LASER SPECTROSCOPY; SINGLE
+   PHOTONS; VAPOR; MAGNETOOPTICS; MAGNETOMETER; OPTICS; RB-85
+ER
+
+PT J
+DE Atomic magnetometer; magnetoencephallography (MEG); spin-exchange
+   relaxation-free (SERF); 3-D measurements
+ID ALKALI VAPORS; SPIN-EXCHANGE
+ER
+
+PT J
+ID LASER; LIGHT
+ER
+
+PT J
+ID MAGNETIC-RESONANCE LINES; ATOMIC MAGNETOMETER; SPIN-EXCHANGE; VAPORS
+ER
+
+PT J
+ID ATOMIC MAGNETOMETER; AMPLITUDE NOISE; RUBIDIUM VAPOR; PHASE NOISE
+ER
+
+PT J
+DE MRI; Ultra-low field; Atomic magnetometer; SQUID
+ID MICROTESLA MAGNETIC-FIELDS; NMR; RELAXATION
+ER
+
+PT J
+DE Atomic magnetometers; Zero-field NMR; Microfluidics; Scalar coupling
+ID ATOMIC MAGNETOMETER; RESONANCE; CELLS
+ER
+
+PT J
+ID ATOMIC MAGNETOMETER; RESONANCE; MAGNETOENCEPHALOGRAPHY
+ER
+
+PT J
+DE atom-photon collisions; indeterminancy; Kalman filters; magnetometers;
+   parameter estimation; particle filtering (numerical methods); stochastic
+   processes
+ID STATES; LIMIT
+ER
+
+PT J
+ID PUMPED HE-4 MAGNETOMETER; M-X MAGNETOMETER; SPIN-EXCHANGE;
+   MAGNETIC-RESONANCE; ATOMIC MAGNETOMETER; SPECTROSCOPIE HERTZIENNE;
+   RUBIDIUM MAGNETOMETER; NUCLEAR POLARIZATION; 4-QUANTUM RESONANCE; VAPOR
+   MAGNETOMETER
+ER
+
+PT J
+DE diode laser; coherent population trapping resonance; chip-size atomic
+   clock
+ID POPULATION TRAPPING RESONANCES; COHERENT; SYSTEMS; LINE
+ER
+
+PT J
+ID ROOM-TEMPERATURE; NIOBIUM; OXIDATION; DEVICES
+ER
+
+PT J
+DE atomic magnetometry; magneto-optical resonance; remote detection;
+   radio-frequency detection; low field; magnetic resonance imaging
+ID REMOTE DETECTION; MICROTESLA MRI; FIELD; NMR; SENSORS; VAPOR
+ER
+
+PT J
+DE X-ray diffraction; Atomic force microscopy; Nanomaterial; Magnetic
+   material
+ID MAGNETIC-PROPERTIES; FERRITE NANOPARTICLES; COBALT FERRITE; NICKEL
+   FERRITE; SILICA MATRIX; PARTICLES
+ER
+
+PT J
+DE atomic force microscopy; insulating thin films; magnetometers;
+   monolayers; organic compounds; rubidium; surface structure; X-ray
+   photoelectron spectra
+ID SELF-ASSEMBLED MONOLAYERS; ATOM PENETRATION; DYNAMICS; GOLD
+ER
+
+PT J
+DE ferrites; magnetic flux; magnetic noise; magnetic permeability; magnetic
+   relaxation; magnetic sensors; magnetisation; magnetometers; manganese
+   compounds; zinc compounds
+ID MAGNETIC-FIELD
+ER
+
+PT B
+DE Atomic Magnetometer; MEMS; Micro mirrors; SERF
+ER
+
+PT S
+ER
+
+PT B
+DE coherence effect; NMOE; atomic magnetometer
+ER
+
+PT B
+ID VAPOR CELLS; FREQUENCY STABILITY; MAGNETOMETRY; CLOCK
+ER
+
+PT J
+ID ELECTROMAGNETICALLY INDUCED TRANSPARENCY; ATOMIC MAGNETOMETERS; QUANTUM
+   COHERENCE; LIGHT; ENHANCEMENT; REFRACTION; INDEX; VAPOR; GAS
+ER
+
+PT J
+ID RESONANCE; STATE; LIGHT
+ER
+
+PT J
+ID RESOLUTION
+ER
+
+PT J
+ID MICROFLUIDIC SYSTEMS; MRI; NMR
+ER
+
+PT J
+ID MAGNETIC-RESONANCE LINES; ATOMIC MAGNETOMETER; ALKALI VAPORS; CESIUM
+ER
+
+PT J
+ID ATOMIC MAGNETOMETER; MAGNETIC-RESONANCE; QUANTUM; ENTANGLEMENT;
+   SPECTROSCOPY; SYSTEMS; STATES; LIGHT
+ER
+
+PT J
+DE microfluidics; signal-to-noise ratio; mass-limited sample
+ID MAGNETIC-RESONANCE; SPIN-EXCHANGE; SAMPLES; SPECTROSCOPY; RELAXATION;
+   H-1-NMR; MRI
+ER
+
+PT S
+DE magnetic; sensor; noise
+ID ROOM-TEMPERATURE; MAGNETIC SENSORS; MAGNETORESISTANCE; NOISE;
+   FLUCTUATIONS
+ER
+
+PT J
+ER
+
+PT J
+ID MAGNETIC-RESONANCE; SPIN-EXCHANGE
+ER
+
+PT J
+ID RUBIDIUM VAPOR MAGNETOMETER
+ER
+
+PT J
+ID SQUID; SUPERCONDUCTORS; MICROSCOPE; NOISE
+ER
+
+PT J
+ID RAY-ABSORPTION SPECTRA; ATOMIC-STRUCTURE; METALLIC-GLASS; BINARY ALLOYS;
+   REAL-SPACE; ORDER
+ER
+
+PT J
+ID WAVE-PACKET; SPECTROSCOPY; MOLECULES; COLLAPSE; SPIN
+ER
+
+PT J
+ID NUCLEAR-QUADRUPOLE RESONANCE; ELECTRIC-DIPOLE MOMENT; ALKALI-METAL
+   VAPOR; MAGNETIC-RESONANCE; ATOMIC MAGNETOMETER; CASSINI MAGNETOMETER;
+   SPIN RELAXATION; FIELDS; RUBIDIUM; OPERATION
+ER
+
+PT J
+ER
+
+PT J
+ID RUBIDIUM VAPOR MAGNETOMETER; CELLS
+ER
+
+PT J
+ID ATOMIC MAGNETOMETER; RESONANCE
+ER
+
+PT S
+DE atomic clocks; atomic magnetometers; coherent population trapping; CSAC;
+   CSAM; laser spectroscopy; MEMS; microfabrication; vapor cells
+ID POPULATION TRAPPING RESONANCES; FREQUENCY STABILITY; VAPOR CELLS;
+   MAGNETOMETER; CLOCKS; STABILIZATION; LINE
+ER
+
+PT S
+DE nonlinear magneto-optical rotation; magnetornetry; self-oscillation
+ER
+
+PT J
+DE coupling constants; functional imaging; magnetic resonance imaging; NMR
+   spectroscopy; SQUID
+ID QUANTUM INTERFERENCE DEVICES; LIQUID-STATE NMR; ATOMIC MAGNETOMETER;
+   MICROTESLA MRI; SPECTROSCOPY; RESOLUTION
+ER
+
+PT S
+ID MAGNETIC-RESONANCE; VAPOR CELLS
+ER
+
+PT J
+ID ATOMIC MAGNETOMETER; MAGNETIC-RESONANCE
+ER
+
+PT J
+ID ATOMIC MAGNETOMETER; VAPOR; LASER
+ER
+
+PT J
+ID SQUID
+ER
+
+PT J
+ID NONLINEAR MAGNETOOPTICAL ROTATION; ELECTRIC-DIPOLE MOMENT; LASER;
+   LIMITS; VAPOR
+ER
+
+PT J
+ID QUANTUM-NONDEMOLITION MEASUREMENTS; FREQUENCY; SPIN
+ER
+
+PT J
+ER
+
+PT J
+ID LASER; MRI; NMR; FIELDS; VAPOR
+ER
+
+PT J
+DE atomic clocks; atomic magnetometers; high-resolution spectroscopy;
+   micro-optics
+ID VAPOR CELLS
+ER
+
+PT J
+ER
+
+PT J
+ID ATOMIC MAGNETOMETER
+ER
+
+PT J
+ID THIN-FILMS; MULTILAYERS
+ER
+
+PT J
+ID VAPOR
+ER
+
+PT J
+DE atomic magnetic resonance; the earth's magnetic field; magnetometer;
+   magnetic flux density
+ID PROTON GYROMAGNETIC RATIO
+ER
+
+PT J
+DE optical magnetometer; electromagnetically induced transparency
+ID ELECTROMAGNETICALLY INDUCED TRANSPARENCY; ELECTROOPTIC MODULATOR;
+   RUBIDIUM MAGNETOMETER; PERFORMANCE; PRINCIPLES
+ER
+
+PT J
+ID RESONANCE LINES; CROSS SECTIONS
+ER
+
+PT S
+DE laser diodes; spectral characterization; laser spectroscopy; optical
+   instrumentation
+ID MAGNETOMETRY; LINEWIDTH; COMPACT
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT J
+ER
+
+PT J
+ID MAGNETIC-RESONANCE; NMR; EXCHANGE; FIELDS; GAS; MRI
+ER
+
+PT S
+DE electromagnetically induced transparency; atomic interference;
+   magnetometer
+ID ATOMIC MAGNETOMETERS; ZEEMAN SUBLEVELS; HYPERFINE STATES; LASER; SODIUM;
+   D-1; SPECTROSCOPY; VAPOR; LINE; GAS
+ER
+
+PT J
+ID SPIN-EXCHANGE; ALKALI VAPORS
+ER
+
+PT J
+ID FREQUENCY STANDARDS; SPECTROSCOPY; MICROWAVE
+ER
+
+PT J
+ID READ-OUT ELECTRONICS; BIOMAGNETIC MEASUREMENTS; HUMAN BRAIN;
+   MAGNETOENCEPHALOGRAPHY; RESOLUTION; RESONANCE; DEVICES; NOISE
+ER
+
+PT J
+ID HE-3; CESIUM; RB
+ER
+
+PT S
+DE coherent population trapping; dark resonance; optical magnetometer;
+   magnetometry; atomic clock; frequency reference; gradiometer
+ID RESONANCE RAMAN TRANSITION; COHERENT DARK RESONANCES; ATOMIC PHASE
+   COHERENCE; FREQUENCY STANDARD; POPULATION-INVERSION; MICROWAVE EMISSION;
+   MAGNETIC-FIELDS; RAMSEY FRINGES; DIODE-LASER; SPECTROSCOPY
+ER
+
+PT J
+ER
+
+PT J
+ID ATOMIC MAGNETOMETERS; MODULATED LIGHT; RESONANCE; ISOTROPY
+ER
+
+PT J
+ER
+
+PT J
+DE alternating-gradient magnetometer; resonant mechanical sensor; optical
+   detection
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ID GROUND-STATE; COLLISIONS; RESONANCE; SHIFT
+ER
+
+PT S
+DE magnetic dichroism; photoemission; interfaces; heteromagnetic
+ID CIRCULAR-DICHROISM; POLARIZATION; SURFACES; METALS; FILMS; CORE; EU
+ER
+
+EF

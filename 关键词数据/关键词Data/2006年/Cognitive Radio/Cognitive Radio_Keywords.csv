@@ -1,0 +1,250 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,cognitive radio,69,cognitive radio,187
+1,spectrum sensing,15,spectrum sensing,38
+2,cognitive radio (cr),8,spectrum,21
+3,cognitive radio network,7,cognitive radio network,18
+4,cognitive radio networks,7,cognitive radio (cr),18
+5,cooperative sensing,6,ofdm,18
+6,spectrum,6,cooperative sensing,16
+7,dynamic spectrum access,5,cognitive radio networks,15
+8,cooperative spectrum sensing,5,energy detection,15
+9,ofdm,5,dynamic spectrum access,13
+10,energy detection,5,cognitive,13
+11,cognitive,4,cooperative spectrum sensing,12
+12,cognitive radios,4,cognitive radios,11
+13,cognitive network,4,overlay,10
+14,optimization,3,cognitive network,10
+15,overlay,3,optimization,9
+16,cognitive networks,3,game theory,9
+17,game theory,3,architecture,9
+18,architecture,3,security,8
+19,wireless sensor networks,2,resource allocation,8
+20,cognitive radio sensor networks,2,wireless,8
+21,security,2,interweave,8
+22,spectrum allocation,2,mac,8
+23,channel assignment,2,capacity,8
+24,resource allocation,2,data fusion,7
+25,cognitive cycle,2,distributed,7
+26,wireless sensor network,2,radio,7
+27,cognitive radio wireless,2,leader election,6
+28,wireless,2,radio spectrum,6
+29,data fusion,2,white space,6
+30,distributed,2,cognitive networks,6
+31,leader election,2,optimal power allocation,6
+32,radio,2,performance evaluation,6
+33,radio spectrum,2,cross-layer design,6
+34,white space,2,spectrum allocation,5
+35,interweave,2,channel assignment,5
+36,antennas,2,cognitive cycle,5
+37,spectrum selection,2,network,5
+38,interference modeling,2,antennas,5
+39,software defined radio,2,spectrum selection,5
+40,optimal power allocation,2,interference modeling,5
+41,ultra wideband,2,ultra wideband,5
+42,spectrum management,2,spectrum management,5
+43,mac,2,degrees of freedom,5
+44,performance evaluation,2,side,5
+45,capacity,2,wireless sensor networks,4
+46,cross-layer design,2,cognitive radio sensor networks,4
+47,ultra-wideband (uwb),2,cognitive small cell,4
+48,satellite communications,1,ofdma,4
+49,variable duty cycle,1,power control,4
+50,opportunistic,1,sensing,4
+51,satellite-terrestrial communication,1,wireless sensor network,4
+52,cooperative,1,cognitive radio wireless,4
+53,cogntive radio,1,pd,4
+54,spectrum sesning,1,pfa,4
+55,spectrum handoff,1,pm,4
+56,radio spectrum management,1,selection,4
+57,femtocellular radio,1,multiuser ofdm,4
+58,genetic,1,scheme,4
+59,clustering,1,systems,4
+60,k-means,1,environments,4
+61,radio cognitive ad hoc networks,1,imt bands,4
+62,broadcast,1,nfap,4
+63,fbmc,1,algorithm,4
+64,filter bank,1,energy,4
+65,multicarrier,1,software radio,4
+66,cognitive small cell,1,computer architecture,4
+67,ofdma,1,reviews,4
+68,power control,1,digital,4
+69,sensing,1,software defined radio,4
+70,performance analysis,1,scheduling,4
+71,throughput,1,hf,4
+72,delay,1,ale,4
+73,nonorthogonal multiple access (noma),1,lbt,4
+74,power allocation,1,cognitive user and spectrum sensing,4
+75,primary user,1,metric,4
+76,secondary user,1,utility,4
+77,channel bonding,1,mpsoc,4
+78,link scheduling,1,design method,4
+79,wireless network,1,task transaction level,4
+80,artificial intelligence,1,evolution,4
+81,adaptive and flexible radio,1,genetic algorithm,4
+82,neighbor discovery,1,decision maker,4
+83,gossiping,1,neural,4
+84,internet-of-things (iot),1,cellular,4
+85,low power and lossy network,1,wimax,4
+86,cooperative networks,1,wireless lan,4
+87,physical layer security,1,system switching,4
+88,harq,1,ultra-wideband (uwb),4
+89,pd,1,atsc dtv,4
+90,pfa,1,vestigial sideband,4
+91,pm,1,protection ratio,4
+92,cognitive radio sensor network,1,queueing,4
+93,selection,1,phy,4
+94,multiuser ofdm,1,cross layer,4
+95,scheme,1,cogntive radio,3
+96,systems,1,spectrum sesning,3
+97,environments,1,spectrum handoff,3
+98,cognitive radio ad hoc networks,1,radio spectrum management,3
+99,design issues,1,femtocellular radio,3
+100,network,1,genetic,3
+101,primary radio (pr) user,1,clustering,3
+102,imt bands,1,k-means,3
+103,nfap,1,radio cognitive ad hoc networks,3
+104,filters,1,broadcast,3
+105,reconfigurable antennas,1,fbmc,3
+106,radio environment mapping,1,filter bank,3
+107,propagation modeling,1,multicarrier,3
+108,routing metrics,1,performance analysis,3
+109,routing metrics fusion,1,throughput,3
+110,cognitive games,1,delay,3
+111,frequency resource management,1,channel bonding,3
+112,multihop relay,1,link scheduling,3
+113,time allocation,1,wireless network,3
+114,sensor networks,1,neighbor discovery,3
+115,cognitive sensors,1,gossiping,3
+116,cognitive wireless sensor networks,1,filters,3
+117,fractal antenna,1,reconfigurable antennas,3
+118,spectrum assignment,1,multihop relay,3
+119,primary user emulation,1,time allocation,3
+120,denial of service (dos),1,fractal antenna,3
+121,incumbent emulation,1,spectrum assignment,3
+122,femtocell,1,femtocell,3
+123,energy efficiency,1,energy efficiency,3
+124,stackelberg game,1,stackelberg game,3
+125,cognitive radio testing,1,cognitive radio testing,3
+126,psychometric testing,1,psychometric testing,3
+127,item,1,item,3
+128,visual cognition,1,decision engine,3
+129,decision engine,1,ant colony optimization,3
+130,ant colony optimization,1,mutation,3
+131,mutation,1,poisson point,3
+132,poisson point,1,cognitive engine,3
+133,ultrawideband antennas,1,adaptive radio,3
+134,cognitive engine,1,beagleboard,3
+135,adaptive radio,1,spectrum aggregation,3
+136,beagleboard,1,graph,3
+137,primary user emulation attack,1,medium access control,3
+138,primary user signal,1,hybrid spectrum sharing,3
+139,algorithm,1,underlay,3
+140,energy,1,decision,3
+141,software radio,1,virutal occupancy,3
+142,computer architecture,1,intermodulation interference,3
+143,reviews,1,land,3
+144,digital,1,cognitive radio nodes,3
+145,spectrum aggregation,1,autonomic communication,3
+146,graph,1,autonomic,3
+147,medium access control,1,antenna array,3
+148,small form factor,1,blind detection,3
+149,cognitive radio networks (crns),1,generalized likelihood,3
+150,dynamic resource,1,policy based networking,3
+151,hybrid spectrum sharing,1,reasoning,3
+152,underlay,1,policy management,3
+153,decision,1,costa precoding,3
+154,platforms and standards,1,dirty-paper coding,3
+155,opportunistic spectrum access,1,interference,3
+156,cognitive relay networks,1,utilization,3
+157,outage probability,1,queuing model,3
+158,selection diversity,1,hypothesis testing,3
+159,virutal occupancy,1,multiband,3
+160,intermodulation interference,1,component,3
+161,land,1,wireless communication,3
+162,wireless networks,1,ad-hoc,3
+163,spectrum access discovery,1,cooperative diversity,3
+164,spectrum handover,1,nash equilibrium,3
+165,scheduling,1,hard,3
+166,hf,1,cooperative communications,3
+167,ale,1,nonlinear,3
+168,lbt,1,blind signal separation,3
+169,cognitive user and spectrum sensing,1,multiuser detection,3
+170,cognitive radio nodes,1,software,3
+171,autonomic communication,1,cognitive mac,3
+172,autonomic,1,open spectrum,3
+173,antenna array,1,optimal spectrum sensing,3
+174,blind detection,1,terms-cognitive radio,3
+175,generalized likelihood,1,emergency network,3
+176,policy based networking,1,quality of service,3
+177,reasoning,1,physical layer,3
+178,policy management,1,mac layer,3
+179,passive sounding,1,satellite communications,2
+180,costa precoding,1,variable duty cycle,2
+181,dirty-paper coding,1,opportunistic,2
+182,interference,1,satellite-terrestrial communication,2
+183,utilization,1,cooperative,2
+184,queuing model,1,nonorthogonal multiple access (noma),2
+185,spectrum access,1,power allocation,2
+186,cyclostationary detection,1,primary user,2
+187,matched filter detection,1,secondary user,2
+188,cyclostationarity,1,artificial intelligence,2
+189,fast fourier transform (fft),1,adaptive and flexible radio,2
+190,degrees of freedom,1,internet-of-things (iot),2
+191,side,1,low power and lossy network,2
+192,metric,1,cooperative networks,2
+193,utility,1,physical layer security,2
+194,automatic modulation classification,1,harq,2
+195,hypothesis testing,1,cognitive radio sensor network,2
+196,multiband,1,cognitive radio ad hoc networks,2
+197,decision rule,1,design issues,2
+198,cr (cognitive radio),1,primary radio (pr) user,2
+199,cognitive beamforming,1,radio environment mapping,2
+200,interference cancellation,1,propagation modeling,2
+201,component,1,routing metrics,2
+202,wireless communication,1,routing metrics fusion,2
+203,orthogonal frequency division multiplexing,1,cognitive games,2
+204,optimal polarization receiving,1,frequency resource management,2
+205,sinr,1,sensor networks,2
+206,ad-hoc,1,cognitive sensors,2
+207,double threshold,1,cognitive wireless sensor networks,2
+208,cooperative diversity,1,primary user emulation,2
+209,nash equilibrium,1,denial of service (dos),2
+210,cooperative communication,1,incumbent emulation,2
+211,smart antenna,1,ultrawideband antennas,2
+212,hard,1,primary user emulation attack,2
+213,sensing efficiency,1,primary user signal,2
+214,mpsoc,1,small form factor,2
+215,design method,1,cognitive radio networks (crns),2
+216,task transaction level,1,dynamic resource,2
+217,correlated observations,1,platforms and standards,2
+218,decentralized detection,1,opportunistic spectrum access,2
+219,cooperative communications,1,cognitive relay networks,2
+220,nonlinear,1,outage probability,2
+221,blind signal separation,1,selection diversity,2
+222,multiuser detection,1,wireless networks,2
+223,software,1,spectrum access discovery,2
+224,evolution,1,spectrum handover,2
+225,genetic algorithm,1,spectrum access,2
+226,decision maker,1,cyclostationary detection,2
+227,neural,1,matched filter detection,2
+228,cyclostationary signatures,1,cyclostationarity,2
+229,cognitive mac,1,fast fourier transform (fft),2
+230,open spectrum,1,automatic modulation classification,2
+231,optimal spectrum sensing,1,decision rule,2
+232,cellular,1,cr (cognitive radio),2
+233,wimax,1,cognitive beamforming,2
+234,wireless lan,1,interference cancellation,2
+235,system switching,1,orthogonal frequency division multiplexing,2
+236,chirp waveform (cw),1,optimal polarization receiving,2
+237,impulse series,1,sinr,2
+238,atsc dtv,1,double threshold,2
+239,vestigial sideband,1,cooperative communication,2
+240,protection ratio,1,smart antenna,2
+241,queueing,1,sensing efficiency,2
+242,phy,1,correlated observations,2
+243,cross layer,1,decentralized detection,2
+244,terms-cognitive radio,1,cyclostationary signatures,2
+245,emergency network,1,chirp waveform (cw),2
+246,quality of service,1,impulse series,2
+247,physical layer,1,visual cognition,1
+248,mac layer,1,passive sounding,1

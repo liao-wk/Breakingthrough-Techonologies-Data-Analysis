@@ -1,0 +1,215 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT S
+ER
+
+PT B
+DE virtual reality; information visualization; big data; game data analysis
+ER
+
+PT J
+DE mobile augmented reality; mine drift; mining hazards; abandoned mine;
+   site investigation; geographic information system (GIS)
+ER
+
+PT B
+DE Virtual Reality Technology; 3d Max; OpenGL; LOD algorithm
+ER
+
+PT B
+DE Virtual Reality; training; Head Mounted Display; tracker; immersion;
+   intuitive
+ER
+
+PT B
+DE Virtual Reality; Coal Mining Face; Interaction Control;
+   Three-dimensional Modeling
+ER
+
+PT B
+DE Coal mines; Emergency evacuation; Scenarios; Virtual reality platform
+ID ENVIRONMENT
+ER
+
+PT B
+DE Information Technology; RFID; radar; virtual reality; mining
+ID SYNTHETIC-APERTURE RADAR; GROUND-BASED SAR; INTERFEROMETRY
+ER
+
+PT B
+DE Data Mining; Reality Mining; Social Network Analysis
+ER
+
+PT B
+DE Mega data; Virtual reality; Multi-dimensional data
+ER
+
+PT J
+DE mining; virtual reality; artificial intelligence; fuzzy logic
+ID EXPERT-SYSTEM; ENVIRONMENT
+ER
+
+PT B
+DE Virtual reality; mine safety; device comparison; H.5.1 [Multimedia
+   Information Systems]: Artificial, augmented, and virtual realities
+ER
+
+PT S
+DE Virtual reality; mine fire prevention technology; safety training; high
+   foam extinguisher
+ER
+
+PT S
+DE 3D Virtual model; Augmented reality; Virtual reality
+ER
+
+PT B
+DE reality mining; urban space; big data
+ER
+
+PT S
+DE virtual reality; visualization; geosciences; mine
+ER
+
+PT S
+DE Reality mining; Personalization; General Bayesian Network; Mobile phone;
+   Usage pattern
+ER
+
+PT S
+DE virtual reality; mining fire; safety engineering teaching; safety train
+ER
+
+PT S
+DE Coal Mine Virtual environment; 3d visualization; The service oriented
+ER
+
+PT S
+DE Dynamic Object-oriented Model; Digital mine; Spatio-temporal
+   Object-oriented Data Model; Digital Mine Virtual Reality System
+ER
+
+PT S
+DE virtual reality; fully mechanized mining face; oaming; interaction
+ER
+
+PT S
+DE visualization; augmented reality; unmanned mining; fully mechanized
+   longwall face
+ER
+
+PT B
+DE mining engineering; virtual reality; virtual training; three-dimensional
+   modeling
+ER
+
+PT S
+DE Immersive Virtual Reality; Teleoperation; Dome; Data Glove; iPhone;
+   Sensor Networks; Data Communication
+ID DESIGN
+ER
+
+PT S
+DE Process mining; workflow mining; reality mining; ubiquitous computing;
+   Complex social systems; User modeling; social network analysis
+ER
+
+PT J
+ID SCIENCE
+ER
+
+PT S
+DE RFID; Positioning; Location-based services; Location aware computing;
+   Reality mining; business ecosystem
+ER
+
+PT B
+DE Shearer; Remote monitoring platform; Virtual reality; Virtual prototype
+ER
+
+PT B
+DE virtual reality; mining process simulation; scene modeling; stereoscopic
+   display
+ER
+
+PT B
+DE virtual reality technology; coal and gas outburst; data preparation and
+   organization; coal mine safety
+ER
+
+PT B
+DE Virtual reality; LAMP; simulation of safety behavior; behavior
+   specification; coal mine
+ER
+
+PT B
+DE virtual reality; coal mine safety; gas explosion; safety training
+ER
+
+PT B
+DE VC plus; OpenGL; VRMine
+ER
+
+PT B
+DE Virtual Reality Technology; Coal Mine Safety Engineering; Identifying
+   and Evaluating Risk; Coal Mine Safety Production
+ER
+
+PT B
+DE virtual reality; coal mine safety; coal mine disaster simulation; safety
+   training; achieving method
+ER
+
+PT B
+ER
+
+PT B
+DE digital mine; security monitor; virtual human; hermite spline; virtual
+   reality
+ER
+
+PT J
+ER
+
+PT B
+DE Virtual Reality (VR); Multi-Agent System (MAS); mine ventilation;
+   controllability & visibility
+ER
+
+PT B
+DE virtual reality; coal mine safety; underground fire; gas explosion;
+   accident investigation; safety training
+ER
+
+PT B
+DE virtual reality(VR); multi-agent system(MAS); mining ventilation;
+   intelligent virtual environment(IVE)
+ER
+
+PT J
+ER
+
+PT S
+DE virtual reality; coal mine; application; assembly
+ID SIMULATION
+ER
+
+PT B
+DE mine fire simulation; virtual reality; rescue decision-making
+ER
+
+PT B
+DE deep-sea mining; virtual reality; poly-metallic nodule; multi-body
+   system; finite element method
+ER
+
+PT B
+DE virtual reality; mine safety; major disaster research; safety education;
+   technology training
+ER
+
+PT B
+DE virtual reality; safety engineering; coal mine disaster
+ER
+
+EF

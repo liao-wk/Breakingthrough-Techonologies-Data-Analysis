@@ -1,0 +1,394 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+ID ANXIETY DISORDERS; 3D DISPLAYS; ENVIRONMENTS; QUESTIONNAIRE; THERAPY;
+   COMFORT; IMAGES; SENSE; LENS
+ER
+
+PT S
+DE VR devices; Weight; Subjective discomfort evaluation
+ER
+
+PT J
+ER
+
+PT J
+DE calibration; Kinect; mixed reality; natural image matting; real time
+ID IMAGE; FRAMEWORK; CAMERA
+ER
+
+PT J
+DE Head-mounted displays; distance perception; field-of-view
+ID VISUAL-PERCEPTION; REAL; INFORMATION; LOCOMOTION; TARGET; SCALE
+ER
+
+PT J
+ID PRESENCE QUESTIONNAIRE; ENVIRONMENTS; COPRESENCE; OWNERSHIP; AGENCY
+ER
+
+PT J
+DE distraction; fear; immunization; pain; pediatric; procedure; psychology;
+   virtual reality
+ID CHILDREN
+ER
+
+PT J
+DE Virtual Reality; Notifications; Interruptibility; Multi-Modal; Feedback;
+   Context Awareness
+ER
+
+PT J
+DE Head Mounted Displays; Stroke; Telerehabilitation; Virtual Reality
+ID VIRTUAL-REALITY; REHABILITATION
+ER
+
+PT J
+DE educational resources; electron microscopy; endocytosis; virtual reality
+ID ELECTRON-MICROSCOPY
+ER
+
+PT J
+DE Building information modeling; Virtual reality; Cloud computing;
+   Information technologies
+ID BUILDING DESIGN; CONSTRUCTION; VISUALIZATION; BIM; ENVIRONMENT;
+   MANAGEMENT; GAME; IMPLEMENTATION; ARCHITECTURE; SIMULATIONS
+ER
+
+PT B
+DE Virtual Reality; VR; Oculus Rift; Perception; Presence
+ID MOTION
+ER
+
+PT S
+DE Vergence Accommodation Conflict; virtual reality; head set
+ER
+
+PT J
+ID EMERGENCY-DEPARTMENTS; VIRTUAL-REALITY; MIXED REALITY; ULTRASOUND;
+   NAVIGATION; EDUCATION; TOOL; ANATOMY; SURGERY
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT S
+DE VR; AR; RGB-D; SLAM
+ID MANY-CORE PROCESSORS; PARALLEL FRAMEWORK; CAMERA CALIBRATION
+ER
+
+PT S
+ID USABILITY; ENVIRONMENTS; EDUCATION
+ER
+
+PT S
+DE VR/AR/Mixed Reality experiences with mobile devies in performance
+ER
+
+PT B
+DE Mixed reality; virtual reality; headset removal; facial synthesis
+ER
+
+PT J
+DE virtual reality; recognizability; virtual reality headsets
+ER
+
+PT B
+ER
+
+PT B
+DE Virtual reality; video editing
+ER
+
+PT B
+DE Virtual reality; minimally invasive surgery; real-time image processing;
+   robot control
+ID SURGICAL ROBOT; SYSTEM
+ER
+
+PT B
+DE Mixed Reality; AWSS; Augmented Reality; Virtual Reality headset; air to
+   ground firing
+ER
+
+PT S
+DE Virtual Reality; Mobile VR Headset; Oculus Rift; User experience;
+   Learning
+ID VIRTUAL ENVIRONMENTS; REALITY
+ER
+
+PT B
+ER
+
+PT B
+DE Mixed reality; computational thinking; curriculum contents; Unity
+   engine; watershed
+ID COMPUTATIONAL THINKING; STUDENTS
+ER
+
+PT S
+DE virtual reality; task performance; QoE
+ER
+
+PT B
+DE Virtual Reality; Double Hand-gesture Interaction (DHGI); Walk-through;
+   Leap Motion
+ID MOTION SICKNESS
+ER
+
+PT S
+DE computational geometry; stereoscopic 3D; physics visualisation; virtual
+   reality
+ER
+
+PT S
+DE VR; resolution; headset; freeform optics
+ER
+
+PT S
+DE I.3.7 [Computer Graphics]: Three-Dimensional Graphics and Realism;
+   Virtual reality
+ER
+
+PT S
+DE Experimental methodology; Ethnography
+ER
+
+PT S
+DE augmented reality; latency; image-based rendering
+ID AUGMENTED REALITY
+ER
+
+PT S
+DE Motion-to-Photon Latency; End-to-End Latency; Head-Mounted Displays
+ID DELAY
+ER
+
+PT S
+DE Oculus rift; Virtual reality; Film; Storytelling; Narrative
+   comprehension
+ID RECALL
+ER
+
+PT J
+ER
+
+PT J
+DE Videogames; Communication; Audiovisual Language; Perspective; Virtual
+   Reality; Game Studies
+ER
+
+PT J
+DE Affective virtual reality; Autonomic nervous reactivity; Biofeedback;
+   Oculus Rift; Autism
+ER
+
+PT J
+ID WORKING-MEMORY; ATTENTION; DEFICITS; REHABILITATION; NEUROSCIENCE;
+   PARAMETERS; CLASSROOM; TVA
+ER
+
+PT J
+DE Crowdfunding; Kickstarter; Anchor Values; Grounded Theory; Oculus Rift
+ID INFORMATION-SYSTEMS; INTERPERSONAL-ATTRACTION; IDENTITY; IDENTIFICATION;
+   CONFLICT; OPPORTUNITIES; SIMILARITY; GUIDELINES; MANAGEMENT; INVESTORS
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ID SURGERY
+ER
+
+PT J
+ER
+
+PT B
+DE immersive; non-immersive; teleoperation; robotics; telepresence; virtual
+   reality; simulation; networking; data glove; Oculus; 5DT
+ER
+
+PT B
+DE Augmentd Reality; Photogrammetry; Virtual Reality Headset; 3D
+   reconstruction
+ER
+
+PT B
+DE Virtual reality; 3Ds MAX; Unity3D; High-altitude escape; Oculus Rift DK2
+ER
+
+PT B
+DE personal social robots; virtual agents; physical presence; virtual
+   reality; instructional video; MOOCs
+ER
+
+PT S
+ER
+
+PT S
+DE Brain imaging; Diffusion tensor imaging; Unity3D; Oculus rift; Virtual
+   reality
+ER
+
+PT S
+DE Virtual reality; Immersion; Cybersickness; Oculus Rift; CAVE
+ER
+
+PT S
+DE Head Mounted Display; Latency; Cybersickness; Computing methodologies;
+   Virtual reality
+ER
+
+PT S
+DE Virtual Reality Headset; 360-degree camera; Physiology
+ER
+
+PT B
+DE HCI; Oculus Rift; head mounted display; gimbal; PlayStation Eye;
+   Arbotix-M Robocontroller; head tracking; inertial measurement unit; IMU;
+   accelerometer; gyroscope; magnetometer
+ER
+
+PT J
+ER
+
+PT S
+DE Head-Mounted Display; Oculus Rift; Subjective Vertical Test; Head Tilt
+   Test
+ID ENVIRONMENT
+ER
+
+PT B
+DE Binaural; IR Headset; 3D audio; Virtual reality
+ER
+
+PT B
+DE Virtual Reality; Augmented Reality; Head Tracking; Head Mounted Display;
+   Portability
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT B
+DE Virtual reality; stereoscopic vision; Oculus Rift headset; clinical
+   training; operating room; Measurement; Design; Human Factors
+ID VIRTUAL-REALITY; EDUCATION
+ER
+
+PT S
+DE visual guidance; augmented reality; assembling; oculus rift
+ID MAINTENANCE; DESIGN
+ER
+
+PT S
+DE Virtual Reality; Human - Computer Interaction; Head - Mounted Display;
+   In - Air Controller; Game Engine
+ER
+
+PT B
+DE virtual reality; Oculus Rift; display precision; medical assistive
+   system; motor disabled patients
+ER
+
+PT S
+DE Virtual Museum; Head-Mounted Device; Oculus Rift; 3D reconstruction; 360
+   degree panorama
+ER
+
+PT B
+DE head mounted display; virtual reality; 3D interactive games
+ER
+
+PT S
+DE Digital Heritage; Unity3D; Oculus Rift; Virtual Reality
+ER
+
+PT S
+DE Augmented Virtuality; Immersive User Experience; Head Mounted Display;
+   Kinect
+ER
+
+PT S
+DE Health Technology; Oculus Rift; Prosthetics; Kinect; Myoelectric;
+   Virtual Reality
+ER
+
+PT S
+DE Interactive cinema; Video games; Presence; Immersion; Enjoyment; Flow;
+   Surround video; Oculus rift
+ID STORY
+ER
+
+PT S
+DE Interactive narrative; Digital storytelling; Scriptwriting; Content
+   development; Oculus Rift; Surround video
+ER
+
+PT S
+DE interactive narrative; digital storytelling; scriptwriting; content
+   development; Oculus Rift
+ER
+
+PT S
+DE Telepresence; Human-robot interaction; Virtual reality
+ER
+
+PT B
+ID ENVIRONMENT
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT B
+ER
+
+PT S
+DE Augmented reality; Industrial shop-floor; Assembling; Oculus rift
+ER
+
+PT S
+ER
+
+PT S
+DE component; Oculus Rift; IMU; INS
+ER
+
+PT S
+DE Head Mounted Displays (HMD); wearable displays; optical combiners; smart
+   glasses; smart eyewear; augmented reality (AR); virtual reality (VR);
+   see-through displays; near-to-eye displays; immersive displays
+ER
+
+PT S
+ER
+
+EF

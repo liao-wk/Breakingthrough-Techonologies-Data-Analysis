@@ -1,0 +1,2315 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Malone, M
+   Foster, E
+AF Malone, Melanie
+   Foster, Eugene
+TI A mixed-methods approach to determine how conservation management
+   programs and techniques have affected herbicide use and distribution in
+   the environment over time
+DE Glyphosate; AMPA; Remote sensing; No-till; Soil and water quality
+ID AMINOMETHYLPHOSPHONIC ACID AMPA; PESTICIDE APPLICATORS; SURFACE WATERS;
+   RAINBOW-TROUT; GLYPHOSATE; SOIL; TRANSPORT; TOXICITY; TILLAGE; IMPACT
+TC 0
+Z9 0
+ER
+
+PT J
+AU Mahmood, F
+   Abbas, K
+   Raza, A
+   Khan, MA
+   Khan, PW
+AF Mahmood, Faisal
+   Abbas, Khizar
+   Raza, Asif
+   Khan, Muhammad Awais
+   Khan, Prince Waqas
+TI Three Dimensional Agricultural Land Modeling using Unmanned Aerial
+   System (UAS)
+DE Image processing; structure from motion (SFM); unmanned aerial system
+   (UAS); unmanned aerial vehicles (UAVs); camera calibration; change
+   detection
+ID STRUCTURE-FROM-MOTION; PHOTOGRAMMETRY
+TC 0
+Z9 0
+ER
+
+PT J
+AU Brutscher, LM
+   Baer, B
+   Nino, EL
+AF Brutscher, Laura M.
+   Baer, Boris
+   Nino, Elina L.
+TI Putative Drone Copulation Factors Regulating Honey Bee (Apis mellifera)
+   Queen Reproduction and Health: A Review
+DE honey bees; reproduction; queens; drones; seminal fluid; pathogens
+ID SEMINAL FLUID PROTEIN; MANDIBULAR GLAND PHEROMONE; DEFORMED-WING VIRUS;
+   ACCESSORY-GLAND; EUROPEAN HONEYBEE; INSTRUMENTAL INSEMINATION;
+   DIFFERENTIAL EXPRESSION; VERTICAL TRANSMISSION; SEXUAL SELECTION; SPERM
+   VIABILITY
+TC 1
+Z9 1
+ER
+
+PT B
+AU Takemura, Y
+   Hirata, Y
+   Mizoe, E
+   Tashiro, M
+   Nagai, Y
+AF Takemura, Yasunori
+   Hirata, Yusuke
+   Mizoe, Eiji
+   Tashiro, Masao
+   Nagai, Yousuke
+BE Sugisaka, M
+   Jia, Y
+   Ito, T
+   Lee, JJ
+TI Counting Crops under Cultivation using Drone
+DE Field Robotics; Sensing System; Agriculture robot; Drone; Image
+   processing
+TC 0
+Z9 0
+ER
+
+PT J
+AU Rutten, A
+   Casaer, J
+   Vogels, MFA
+   Addink, EA
+   Vanden Borre, J
+   Leirs, H
+AF Rutten, Anneleen
+   Casaer, Jim
+   Vogels, Marjolein F. A.
+   Addink, Elisabeth A.
+   Vanden Borre, Jeroen
+   Leirs, Herwig
+TI Assessing agricultural damage by wild boar using drones
+DE Belgium; crop damage; GEOBIA; Geographic Object-Based Image Analysis;
+   UAV; wildlife damage
+ID SUS-SCROFA; IMAGE-ANALYSIS; CROP DAMAGE; DISTURBANCES; POPULATION;
+   MANAGEMENT; PATTERNS
+TC 0
+Z9 0
+ER
+
+PT J
+AU Sharma, R
+   Kamble, SS
+   Gunasekaran, A
+AF Sharma, Rohit
+   Kamble, Sachin S.
+   Gunasekaran, Angappa
+TI Big GIS analytics framework for agriculture supply chains: A literature
+   review identifying the current trends and future perspectives
+DE Agriculture supply chain; GIS analytics; Big data analytics; Internet of
+   things; Drones; Smart farming
+ID MULTICRITERIA DECISION-ANALYSIS; GEOGRAPHIC INFORMATION-SYSTEM;
+   SITE-SPECIFIC MANAGEMENT; USE SUITABILITY ANALYSIS; LAND-USE CHANGE;
+   LANDSCAPE CHANGE PATTERN; PADDY RICE AGRICULTURE; PRECISION AGRICULTURE;
+   SOIL-EROSION; CONSERVATION TECHNIQUES
+TC 0
+Z9 0
+ER
+
+PT J
+AU Torres-Sanchez, J
+   de Castro, AI
+   Pena, JM
+   Jimenez-Brenes, FM
+   Arquero, O
+   Lovera, M
+   Lopez-Granados, F
+AF Torres-Sanchez, Jorge
+   de Castro, Ana I.
+   Pena, Jose M.
+   Jimenez-Brenes, Francisco M.
+   Arquero, Octavio
+   Lovera, Maria
+   Lopez-Granados, Francisca
+TI Mapping the 3D structure of almond trees using UAV acquired
+   photogrammetric point clouds and object-based image analysis
+DE Drone; Woody crop; Crown segmentation; Orchard architecture; Volume;
+   Precision agriculture
+ID MEASUREMENT SYSTEM; LIDAR; YIELD; CANOPY; FRUIT; SEGMENTATION;
+   EXTRACTION; VEGETATION; ACCURACY; STANDS
+TC 0
+Z9 0
+ER
+
+PT J
+AU Plascak, I
+   Jurisic, M
+   Siljeg, A
+   Jeftic, L
+   Zimmer, D
+   Barac, Z
+AF Plascak, Ivan
+   Jurisic, Mladen
+   Siljeg, Ante
+   Jeftic, Lazar
+   Zimmer, Domagoj
+   Barac, Zeljko
+TI REMOTE DETECTION OF RAGWEED (AMBROSIA ARTEMISIIFOLIA L.)
+DE GIS; ragweed; remote detection; remote exploration; weeds
+ID BIODIVERSITY; SPREAD; GIS
+TC 0
+Z9 0
+ER
+
+PT J
+AU Grassl, J
+   Holt, S
+   Cremen, N
+   Peso, M
+   Hahne, D
+   Baer, B
+AF Grassl, Julia
+   Holt, Shannon
+   Cremen, Naomi
+   Peso, Marianne
+   Hahne, Dorothee
+   Baer, Boris
+TI Synergistic effects of pathogen and pesticide exposure on honey bee
+   (Apis mellifera) survival and immunity
+DE Honey bee health; Nosema apis; Thiamethoxam; Encapsulation response;
+   Environmental stress
+ID NOSEMA-APIS; GENETIC DIVERSITY; NEONICOTINOID INSECTICIDES;
+   ENVIRONMENTAL RISKS; FORAGING ACTIVITY; WORKERS; IMMUNOCOMPETENCE;
+   HYMENOPTERA; PARASITE; FIPRONIL
+TC 0
+Z9 0
+ER
+
+PT J
+AU Kittisuwan, P
+AF Kittisuwan, Pichid
+TI Textural Region Denoising: Application in Agriculture
+DE Textural region; Bayesian estimation; Gaussian noise
+ID LOCAL VARIANCE-ESTIMATION; WAVELET COEFFICIENTS; BIVARIATE SHRINKAGE;
+   GAUSSIAN-NOISE; RANDOM VECTORS; IMAGE; MODEL; TRANSFORM; DOMAIN
+TC 0
+Z9 0
+ER
+
+PT J
+AU Shamshiri, RR
+   Weltzien, C
+   Hameed, IA
+   Yule, IJ
+   Grift, TE
+   Balasundram, SK
+   Pitonakova, L
+   Ahmad, D
+   Chowdhary, G
+AF Shamshiri, Redmond Ramin
+   Weltzien, Cornelia
+   Hameed, Ibrahim A.
+   Yule, Ian J.
+   Grift, Tony E.
+   Balasundram, Siva K.
+   Pitonakova, Lenka
+   Ahmad, Desa
+   Chowdhary, Girish
+TI Research and development in agricultural robotics: A perspective of
+   digital farming
+DE agricultural robotics; precision agriculture; virtual orchards; digital
+   agriculture; simulation software; multi-robots
+ID SPECTRAL-SPATIAL METHODS; TOMATO HARVESTING ROBOT; CUCUMBER PICKING
+   ROBOT; VISUAL SERVO CONTROL; VISION-BASED CONTROL; MOBILE ROBOT; MACHINE
+   VISION; PRECISION AGRICULTURE; FRUIT DETECTION; AUTONOMOUS ROBOT
+TC 0
+Z9 0
+ER
+
+PT J
+AU Nasi, R
+   Viljanen, N
+   Kaivosoja, J
+   Alhonoja, K
+   Hakala, T
+   Markelin, L
+   Honkavaara, E
+AF Nasi, Roope
+   Viljanen, Niko
+   Kaivosoja, Jere
+   Alhonoja, Katja
+   Hakala, Teemu
+   Markelin, Lauri
+   Honkavaara, Eija
+TI Estimating Biomass and Nitrogen Amount of Barley and Grass Using UAV and
+   Aircraft Based Spectral and Photogrammetric 3D Features
+DE hyperspectral; photogrammetry; UAV; drone; machine learning; random
+   forest; regression; precision agriculture; biomass; nitrogen
+ID UNMANNED AERIAL VEHICLE; LEAF CHLOROPHYLL CONTENT; CROP SURFACE MODELS;
+   REMOTE-SENSING DATA; BARK BEETLE DAMAGE; VEGETATION INDEXES; PRECISION
+   AGRICULTURE; RANDOM FORESTS; TREE-LEVEL; LAND-COVER
+TC 2
+Z9 2
+ER
+
+PT J
+AU Shtoiko, R
+   Koinova, I
+AF Shtoiko, Rehina
+   Koinova, Iryna
+TI The problem associated with the spread of Sosnovskyi hogweed (Heracleum
+   sosnovskyi), in the mountainous geosystems of the Ukrainian-Polish
+   border
+DE Heracleum sosnovskyi; Ukraine-Poland borderland; invasive species;
+   mountain geosystems; drone survey method
+TC 0
+Z9 0
+ER
+
+PT J
+AU Tan, F
+   Lian, Q
+   Liu, CL
+   Jin, BK
+AF Tan Feng
+   Lian Qi
+   Liu Chang-liang
+   Jin Bing-kun
+TI MEASUREMENT OF DOWNWASH VELOCITY GENERATED BY ROTORS OF AGRICULTURE
+   DRONES
+DE agriculture drone; downwash velocity; rotors; measurement
+ID DEPOSITION; FIELD; FLOW; UAV
+TC 0
+Z9 0
+ER
+
+PT J
+AU Jackisch, R
+   Lorenz, S
+   Zimmermann, R
+   Mockel, R
+   Gloaguen, R
+AF Jackisch, Robert
+   Lorenz, Sandra
+   Zimmermann, Robert
+   Moeckel, Robert
+   Gloaguen, Richard
+TI Drone-Borne Hyperspectral Monitoring of Acid Mine Drainage: An Example
+   from the Sokolov Lignite District
+DE hyperspectral; remote sensing; unmanned aerial system; acid mine
+   drainage; iron minerals; image classification; Sokolov; post-mining
+ID MINING ENVIRONMENT; SPECTROSCOPY; IMAGERY; WASTE; IRON; PH; MINERALOGY;
+   VEGETATION; HYPERION; VEHICLE
+TC 3
+Z9 3
+ER
+
+PT J
+AU Habel, JC
+   Teucher, M
+   Ulrich, W
+   Schmitt, T
+AF Habel, J. C.
+   Teucher, Mike
+   Ulrich, Werner
+   Schmitt, Thomas
+TI Documenting the chronology of ecosystem health erosion along East
+   African rivers
+DE Arthropod abundance; drones; habitat destruction; historical aerial
+   photographs; invasive species; land cover change
+ID LANTANA-CAMARA L.; BIOLOGICAL-CONTROL; HABITAT SELECTION; SOUTH-AFRICA;
+   ECOLOGICAL TRAPS; AERIAL VEHICLES; INVASION; INDIA; VERBENACEAE; FOREST
+TC 2
+Z9 2
+ER
+
+PT B
+AU Bassine, FZ
+   Errami, A
+   Khaldoun, M
+AF Zahra Bassine, Fatima
+   Errami, Ahmed
+   Khaldoun, Mohammed
+GP IEEE
+TI Real Time Video Processing using RGB Remote Sensing by Drone
+DE video processing; precision agriculture; remote sensing; unmanned aerial
+   vehicle
+TC 0
+Z9 0
+ER
+
+PT B
+AU Nardari, GV
+   Romero, RAF
+   Guizilini, VC
+   Mareco, WEC
+   Milori, DMBP
+   Villas-Boas, PR
+   Santos, IAD
+AF Nardari, Guilherme V.
+   Romero, Roseli A. F.
+   Guizilini, Vitor C.
+   Mareco, Willy E. C.
+   Milori, Debora M. B. P.
+   Villas-Boas, Paulino R.
+   Dias Santos, Igor Araujo
+BE DoNascimento, TP
+   Colombini, EL
+   DeBrito, AV
+   Garcia, LTD
+   Sa, STD
+   Goncalves, LMG
+TI Crop Anomaly Identification with Color Filters and Convolutional Neural
+   Networks
+ID SEGMENTATION; CLASSIFICATION; IMAGES
+TC 0
+Z9 0
+ER
+
+PT J
+AU Sener, M
+   Pehlivan, M
+   Tekiner, M
+   Alkan, C
+   Ozden, UE
+   Erdem, T
+   Celen, HH
+   Seren, A
+   Aytac, SA
+   Kolsuz, HU
+   Seyrek, K
+   Guresci, G
+   Kose, G
+   Turan, L
+AF Sener, Mehmet
+   Pehlivan, Mevlut
+   Tekiner, Murat
+   Alkan, Cayan
+   Ozden, U. Evrim
+   Erdem, Tolga
+   Celen, H. Huseyin
+   Seren, Ahmet
+   Aytac, S. Aydin
+   Kolsuz, H. Ugur
+   Seyrek, Kemal
+   Guresci, Gulsah
+   Kose, Gokhan
+   Turan, Lokman
+TI UNMANNED AERIAL VEHICLE (UAV) BASED REMOTE SENSING FOR CROP PATTERN
+   MAPPING, TURKEY
+DE UAV; remote sensing; GIS; Irrigation
+ID PLATFORM
+TC 0
+Z9 0
+ER
+
+PT S
+AU Park, JK
+   Lee, DH
+   Shin, HS
+   Park, JH
+AF Park, Jin-Ki
+   Lee, Dong-Ho
+   Shin, Heong-Seup
+   Park, Jong-Hwa
+BE Goldberg, M
+   Chen, JM
+   Khanbilvardi, R
+TI Paddy rice inventory studies using drone imagery on a small town area in
+   South Korea
+DE drone; remote sensing; geographic information system; paddy rice; smart
+   farm map; inventory
+TC 0
+Z9 0
+ER
+
+PT S
+AU Kazantsev, T
+   Shevchenko, V
+   Bondarenko, O
+   Furier, M
+   Samberg, A
+   Ametov, F
+   Iakovenko, V
+AF Kazantsev, Taras
+   Shevchenko, Viktor
+   Bondarenko, Oksana
+   Furier, Mykhailo
+   Samberg, Andre
+   Ametov, Fevzi
+   Iakovenko, Valerii
+BE Neale, CMU
+   Maltese, A
+TI COTS UAV-borne Multispectral System for Vegetation Monitoring
+DE Drone; UAV; COTS; satellite imagery; multispectral; imaging sensor;
+   vegetation monitoring; NDVI
+ID INDEXES
+TC 0
+Z9 0
+ER
+
+PT S
+AU Park, JK
+   Lee, DH
+   Shin, HS
+   Park, JH
+AF Park, Jin-Ki
+   Lee, Dong-Ho
+   Shin, Heong-Seup
+   Park, Jong-Hwa
+BE Neale, CMU
+   Maltese, A
+TI Assessment of the capability of precision paddy field area and crop
+   classification monitoring using drone and smart farm map
+DE Drone; Paddy field; Crop classification; Smart farm map; DN (Digital
+   number)
+TC 0
+Z9 0
+ER
+
+PT B
+AU Saha, AK
+   Saha, J
+   Ray, R
+   Sircar, S
+   Dutta, S
+   Chattopadhyay, SP
+   Saha, HN
+AF Saha, Arnab Kumar
+   Saha, Jayeeta
+   Ray, Radhika
+   Sircar, Sachet
+   Dutta, Subhojit
+   Chattopadhyay, Soummyo Priyo
+   Saha, Himadri Nath
+GP IEEE
+TI IOT-Based Drone for Improvement of Crop Quality in Agricultural Field
+DE Internet of Things; Support Vector Machine; Unmanned Aerial
+   Vehicle(UAV); RGB-D sensor; Agriculture
+TC 1
+Z9 1
+ER
+
+PT S
+AU Gomes, MJ
+AF Gomes, Michael John
+BE Amoruso, G
+TI UAV/Drones as Useful Tools in the Agricultural Production Cycle
+DE UAV; Drones; Agricultural production cycle
+TC 0
+Z9 0
+ER
+
+PT S
+AU Weersink, A
+   Fraser, E
+   Pannell, D
+   Duncan, E
+   Rotz, S
+AF Weersink, Alfons
+   Fraser, Evan
+   Pannell, David
+   Duncan, Emily
+   Rotz, Sarah
+BE Rausser, GC
+   Zilberman, D
+TI Opportunities and Challenges for Big Data in Agricultural and
+   Environmental Analysis
+DE digital revolution; precision agriculture; economics; policy; Big Data
+ID FOOD-SUPPLY CHAIN; PRECISION AGRICULTURE; SUSTAINABLE INTENSIFICATION;
+   FUTURE-PROSPECTS; TECHNOLOGIES; TRACEABILITY; MANAGEMENT; ADOPTION;
+   SYSTEM; POLICY
+TC 3
+Z9 3
+ER
+
+PT J
+AU Klauser, F
+AF Klauser, Francisco
+TI Surveillance Farm: Towards a Research Agenda on Big Data Agriculture
+ID SMART CITY; POWER; CODE
+TC 0
+Z9 0
+ER
+
+PT J
+AU Tihelka, E
+AF Tihelka, Erik
+TI EFFECTS OF SYNTHETIC AND ORGANIC ACARICIDES ON HONEY BEE HEALTH: A
+   REVIEW
+DE synthetic acaricides; varroacides; honey bee; Apis mellifera; synergy;
+   organic beekeeping
+ID APIS-MELLIFERA L.; VARROA-JACOBSONI OUD; THYMOL-BASED MITICIDE;
+   OXALIC-ACID; FORMIC-ACID; HYMENOPTERA APIDAE; GENE-EXPRESSION;
+   PESTICIDE-RESIDUES; CELL-DEATH; INTERMISSA HYMENOPTERA
+TC 0
+Z9 0
+ER
+
+PT S
+AU Cristian, C
+   Mihai, H
+   Ciprian, R
+   Florin, S
+AF Cristian, Constantinescu
+   Mihai, Herbei
+   Ciprian, Rujescu
+   Florin, Sala
+GP AIP
+TI Model Prediction of Chlorophyll and Fresh Biomass in Cereal Grasses
+   Based on Aerial Images
+DE aerial images; drones; graminee cereals; imaging; physiological indices
+ID WHEAT; MAIZE; CROPS
+TC 0
+Z9 0
+ER
+
+PT J
+AU Sanches, GM
+   Duft, DG
+   Kolln, OT
+   Luciano, ACD
+   De Castro, SGQ
+   Okuno, FM
+   Franco, HCJ
+AF Sanches, Guilherme Martineli
+   Duft, Daniel Garbellini
+   Kolln, Oriel Tiago
+   dos Santos Luciano, Ana Claudia
+   Quassi De Castro, Sergio Gustavo
+   Okuno, Fabio Makoto
+   Junqueira Franco, Henrique Coutinho
+TI The potential for RGB images obtained using unmanned aerial vehicle to
+   assess and predict yield in sugarcane fields
+ID LEAF-AREA INDEX; VEGETATION INDEXES; TIME-SERIES; CROP; GROWTH; MODEL;
+   BIOMASS; PLOTS; LAI; UAV
+TC 2
+Z9 2
+ER
+
+PT J
+AU Milas, AS
+   Romanko, M
+   Reil, P
+   Abeysinghe, T
+   Marambe, A
+AF Milas, Anita Simic
+   Romanko, Matthew
+   Reil, Patrick
+   Abeysinghe, Tharindu
+   Marambe, Anuruddha
+TI The importance of leaf area index in mapping chlorophyll content of corn
+   under different agricultural treatments using UAV images
+ID HYPERSPECTRAL DATA; VEGETATION INDEXES; INVERSION METHOD; PLANT STRESS;
+   FOREST; RETRIEVAL; MODEL; PRODUCTIVITY; BAND; RED
+TC 1
+Z9 1
+ER
+
+PT S
+AU Pflanz, M
+   Schirrmann, M
+   Nordmeyer, H
+AF Pflanz, Michael
+   Schirrmann, Michael
+   Nordmeyer, Henning
+BE Nordmeyer, H
+   Ulber, L
+TI Drone based weed monitoring with an image feature classifier
+DE Image classification; image recognition; machine learning; precision
+   farming; site-specific weed control; UAV; weed distribution; weed
+   species
+ID SEGMENTATION; CEREALS
+TC 0
+Z9 0
+ER
+
+PT J
+AU Zatserkovnyi, V
+   Tishaiev, I
+   Komarova, U
+AF Zatserkovnyi, V
+   Tishaiev, I
+   Komarova, U.
+TI THE USE OF UNMANNED AERIAL VEHICLES FOR ORTHOPHOTO PLANS
+DE unmanned aerial vehicles (UAVs); aerial photography; orthophoto plan
+TC 0
+Z9 0
+ER
+
+PT S
+AU Rajapaksa, S
+   Eramian, M
+   Duddu, H
+   Wang, ML
+   Shirtliffe, S
+   Ryu, S
+   Josuttes, A
+   Zhang, T
+   Vail, S
+   Pozniak, C
+   Parkin, I
+AF Rajapaksa, Sajith
+   Eramian, Mark
+   Duddu, Hema
+   Wang, Menglu
+   Shirtliffe, Steve
+   Ryu, Seungbum
+   Josuttes, Anique
+   Zhang, Ti
+   Vail, Sally
+   Pozniak, Curtis
+   Parkin, Isobel
+GP IEEE
+TI Classification of Crop Lodging with Gray Level Co-occurrence Matrix
+ID PYTHON; WHEAT
+TC 0
+Z9 0
+ER
+
+PT J
+AU Liu, YF
+   Noguchi, N
+   Okamoto, H
+   Ishii, K
+AF Liu, Yufei
+   Noguchi, Noboru
+   Okamoto, Hiroshi
+   Ishii, Kazunobu
+TI Development of a Small-sized and Low-cost Attitude Measurement Unit for
+   Agricultural Robot Application
+DE IMU sensor; Complementary filter; Kalman filter; Sensor fusion; Attitude
+   estimation
+TC 0
+Z9 0
+ER
+
+PT J
+AU Sharma, LK
+   Bali, SK
+AF Sharma, Lakesh K.
+   Bali, Sukhwinder K.
+TI A Review of Methods to Improve Nitrogen Use Efficiency in Agriculture
+DE nitrogen; NUE; soil; precision agriculture tools
+ID ACTIVE-OPTICAL SENSORS; ZEA-MAYS L.; WINTER-WHEAT; GRAIN-YIELD;
+   CHLOROPHYLL METER; NO-TILL; REFLECTANCE MEASUREMENTS; FERTILIZER
+   APPLICATION; MANAGEMENT ZONES; AMMONIUM-SULFATE
+TC 4
+Z9 4
+ER
+
+PT J
+AU Patrick, A
+   Li, CY
+AF Patrick, Aaron
+   Li, Changying
+TI High Throughput Phenotyping of Blueberry Bush Morphological Traits Using
+   Unmanned Aerial Systems
+DE blueberries; drone; high throughput phenotyping; measurement;
+   morphology; unmanned aerial system
+ID FRUIT; TOMATO; IMAGERY; HEIGHT; GROWTH; VOLUME; FIELD; LOCI; UAV
+TC 2
+Z9 2
+ER
+
+PT J
+AU Ferreira, AD
+   Freitas, DM
+   da Silva, GG
+   Pistori, H
+   Folhes, MT
+AF Ferreira, Alessandro dos Santos
+   Freitas, Daniel Matte
+   da Silva, Gercina Goncalves
+   Pistori, Hemerson
+   Folhes, Marcelo Theophilo
+TI Weed detection in soybean crops using ConvNets
+DE Deep Learning; Weed detection; Computer vision
+ID CLASSIFICATION; RECOGNITION; IMAGES
+TC 9
+Z9 11
+ER
+
+PT J
+AU Murugan, D
+   Garg, A
+   Singh, D
+AF Murugan, Deepak
+   Garg, Akanksha
+   Singh, Dharmendra
+TI Development of an Adaptive Approach for Precision Agriculture Monitoring
+   with Drone and Satellite Data
+DE Adaptive thresholding; drone; Landsat 8; precision agriculture
+   monitoring; satellite images; unmanned aerial vehicle
+ID LAND-COVER CLASSIFICATION; UNMANNED AERIAL VEHICLE; VEGETATION;
+   ALGORITHM; IMAGERY; AREAS
+TC 3
+Z9 3
+ER
+
+PT J
+AU Yamamoto, K
+   Togami, T
+   Yamaguchi, N
+AF Yamamoto, Kyosuke
+   Togami, Takashi
+   Yamaguchi, Norio
+TI Super-Resolution of Plant Disease Images for the Acceleration of
+   Image-based Phenotyping and Vigor Diagnosis in Agriculture
+DE super-resolution; deep learning; convolutional neural network; disease
+   classification; agriculture
+ID UNMANNED AERIAL VEHICLE; UAV; VEGETATION
+TC 2
+Z9 2
+ER
+
+PT J
+AU Liu, S
+   Wang, LH
+   Guo, J
+   Tang, YJ
+   Chen, YP
+   Wu, J
+   Li, JL
+AF Liu Shan
+   Wang Liuhao
+   Guo Jun
+   Tang Yujie
+   Chen Yanping
+   Wu Jie
+   Li Jilian
+TI Chinese Sacbrood virus infection in Asian honey bees (Apis cerana
+   cerana) and host immune responses to the virus infection
+DE Apis cerana cerana; Chinese Sacbrood virus; Tissue tropism; Transmission
+   pathways; Immune responses
+ID ANTIMICROBIAL PEPTIDES; PARALYSIS-VIRUS; RT-PCR; MELLIFERA;
+   TRANSMISSION; EXPRESSION; PATHOGENS; MITE
+TC 2
+Z9 2
+ER
+
+PT J
+AU Forfert, N
+   Troxler, A
+   Retschnig, G
+   Gauthier, L
+   Straub, L
+   Moritz, RFA
+   Neumann, P
+   Williams, GR
+AF Forfert, Nadege
+   Troxler, Aline
+   Retschnig, Gina
+   Gauthier, Laurent
+   Straub, Lars
+   Moritz, Robin F. A.
+   Neumann, Peter
+   Williams, Geoffrey R.
+TI Neonicotinoid pesticides can reduce honeybee colony genetic diversity
+ID APIS-MELLIFERA L; EXTREME POLYANDRY; LEARNING PERFORMANCES;
+   RISK-ASSESSMENT; SOCIAL INSECTS; BEE COLONIES; INSECTICIDES; EVOLUTION;
+   FREQUENCY; EXPOSURE
+TC 1
+Z9 1
+ER
+
+PT J
+AU Nehyba, S
+   Hanacek, M
+   Engel, Z
+   Stachon, Z
+AF Nehyba, Slavomir
+   Hanacek, Martin
+   Engel, Zbynek
+   Stachon, Zdenek
+TI Rise and fall of a small ice-dammed lake - Role of deglaciation
+   processes and morphology
+DE Svalbard; Nordenskioldbreen; Gilbert delta; Stacking pattern; Glacier
+   dam retreat; Basin floor morphology; Fluvio-deltaic terraces
+ID SEQUENCE STRATIGRAPHY; FACIES CHARACTERISTICS; SEA-LEVEL;
+   GLACIOLACUSTRINE DELTA; PROGLACIAL DELTA; SUBAQUEOUS FAN;
+   CLIMATE-CHANGE; DENSITY FLOWS; CONTACT FAN; NW GERMANY
+TC 3
+Z9 3
+ER
+
+PT J
+AU Kosmowski, F
+   Stevenson, J
+   Campbell, J
+   Ambel, A
+   Tsegay, AH
+AF Kosmowski, Frederic
+   Stevenson, James
+   Campbell, Jeff
+   Ambel, Alemayehu
+   Tsegay, Asmelash Haile
+TI On the Ground or in the Air? A Methodological Experiment on Crop Residue
+   Cover Measurement in Ethiopia
+DE Conservation agriculture adoption; Crop residue coverage; Agricultural
+   remote sensing; Drone; NDTI
+ID CONSERVATION AGRICULTURE; TILLAGE PRACTICES; SOUTHERN AFRICA; SOIL;
+   SYSTEMS; PRODUCTIVITY; ADOPTION; MAIZE; INDEX
+TC 1
+Z9 1
+ER
+
+PT J
+AU Bastin, F
+   Chole, H
+   Lafon, G
+   Sandoz, JC
+AF Bastin, Florian
+   Chole, Hanna
+   Lafon, Gregory
+   Sandoz, Jean-Christophe
+TI Virgin queen attraction toward males in honey bees
+ID APIS-MELLIFERA L; PROBOSCIS EXTENSION RESPONSE; DRONE CONGREGATION
+   AREAS; ANTENNAL LOBE; REPRODUCTIVE-BEHAVIOR; MANDIBULAR GLANDS;
+   HYMENOPTERA; ODOR; APIDAE; COMMUNICATION
+TC 2
+Z9 2
+ER
+
+PT J
+AU Ojeda-Bustamante, W
+   Gonzalez-Sanchez, A
+   Mauricio-Perez, A
+   Flores-Velazquez, J
+AF Ojeda-Bustamante, Waldo
+   Gonzalez-Sanchez, Alberto
+   Mauricio-Perez, Azucelli
+   Flores-Velazquez, Jorge
+TI Applications of unmanned aerial vehicles in hydroagricultural
+   engineering
+DE Agricultural monitoring; precision farming; low altitude remote sensing;
+   irrigation infrastructure; drone; UAV uses
+ID UAV; PHOTOGRAMMETRY; MANAGEMENT; SYSTEMS; IMAGERY
+TC 0
+Z9 0
+ER
+
+PT J
+AU Gnadinger, F
+   Schmidhalter, U
+AF Gnaedinger, Friederike
+   Schmidhalter, Urs
+TI Digital Counts of Maize Plants by Unmanned Aerial Vehicles (UAVs)
+DE drone; farm management; high-throughput; maize cultivation;
+   high-throughput phenomics; precision phenotyping; plant density;
+   planting distance; unmanned aerial system (UAS)
+ID HIGH-THROUGHPUT; WINTER-WHEAT; CORN HYBRIDS; ZEA-MAYS; DENSITY; YIELD;
+   ROW; CROP; SYSTEMS; RESOLUTION
+TC 10
+Z9 11
+ER
+
+PT J
+AU Esenam, A
+AF Esenam, Aniekan
+TI Overview of digital agriculture: Making growers lives more productive
+DE digital agriculture; connected farm; precision technology; GPS; remote
+   monitoring; sensors; satellite image; drones; robots; NDVI; infrared;
+   agronomic data; variable rate application; agricultural big data;
+   agriculture Internet of Things
+TC 0
+Z9 0
+ER
+
+PT J
+AU Maes, WH
+   Huete, AR
+   Steppe, K
+AF Maes, Wouter H.
+   Huete, Alfredo R.
+   Steppe, Kathy
+TI Optimizing the Processing of UAV-Based Thermal Imagery
+DE thermal remote sensing; thermography; drone; UAV; structure-from-motion
+ID UNMANNED AERIAL VEHICLE; STRUCTURE-FROM-MOTION; ENERGY-BALANCE; POINT
+   CLOUDS; TREE DIVERSITY; SURFACE MODELS; WATER STATUS; PHOTOGRAMMETRY;
+   VEGETATION; FOREST
+TC 12
+Z9 12
+ER
+
+PT J
+AU Dance, C
+   Botias, C
+   Goulson, D
+AF Dance, C.
+   Botias, C.
+   Goulson, D.
+TI The combined effects of a monotonous diet and exposure to thiamethoxam
+   on the performance of bumblebee micro-colonies
+DE Bees; Neonicotinoids; Pollination; Pollen quality; Stressors; Bee health
+ID HONEYBEE APIS-MELLIFERA; BOMBUS-TERRESTRIS L; NEONICOTINOID PESTICIDE;
+   PROTEIN-CONTENT; POLLEN QUALITY; INSECT IMMUNITY; NUTRITIVE-VALUE;
+   LAND-USE; BEES; HYMENOPTERA
+TC 5
+Z9 5
+ER
+
+PT J
+AU Hu, Q
+   Hua, W
+   Yin, Y
+   Zhang, XK
+   Liu, LJ
+   Shi, JQ
+   Zhao, YG
+   Qin, L
+   Chen, C
+   Wang, HZ
+AF Hu, Qiong
+   Hua, Wei
+   Yin, Yan
+   Zhang, Xuekun
+   Liu, Lijiang
+   Shi, Jiaqin
+   Zhao, Yongguo
+   Qin, Lu
+   Chen, Chang
+   Wang, Hanzhong
+TI Rapeseed research and production in China
+DE Rapeseed; Review; Genomics; Breeding; Cultivation; Mechanization
+ID BRASSICA-NAPUS-L.; QUANTITATIVE TRAIT LOCI; GENOME-WIDE ASSOCIATION;
+   YIELD-RELATED TRAITS; SEED OIL CONTENT; OILSEED RAPE;
+   SCLEROTINIA-SCLEROTIORUM; PLASMODIOPHORA-BRASSICAE; QTL ANALYSIS;
+   FLOWERING TIME
+TC 16
+Z9 19
+ER
+
+PT B
+AU Maciejczak, M
+   Faltmann, J
+AF Maciejczak, Mariusz
+   Faltmann, Janis
+BE Lorencowicz, E
+   Uziak, J
+   Huyghebaert, B
+TI SUSTAINABLE INTENSIFICATION OF MODERN AGRICULTURE THROUGH PRODUCTION
+   TECHNOLOGIES ON DIFFERENT READINESS LEVELS
+DE agriculture; technologies; sustainable intensification; technology
+   readiness; market readiness
+ID FUTURE
+TC 0
+Z9 0
+ER
+
+PT S
+AU Shidiq, IPA
+   Wibowo, A
+   Kusratmoko, E
+   Indratmoko, S
+   Ardhianto, R
+   Nugroho, BP
+AF Shidiq, Iqbal Putut Ash
+   Wibowo, Adi
+   Kusratmoko, Eko
+   Indratmoko, Satria
+   Ardhianto, Ronni
+   Nugroho, Budi Prasetyo
+GP IOP
+TI Urban forest topographical mapping using UAV LIDAR
+DE topography; DEM; vegetation; drone; LIDAR
+ID AIRBORNE LIDAR; MANAGEMENT
+TC 0
+Z9 0
+ER
+
+PT J
+AU Maltoni, C
+   Nerantzis, EA
+AF Maltoni, Claudia
+   Nerantzis, Elizabeth A.
+TI Precision agriculture: the commitment of ALPHA Consult in Europe and
+   Africa
+TC 0
+Z9 0
+ER
+
+PT S
+AU Brinkhoff, J
+   Hornbuckle, J
+AF Brinkhoff, James
+   Hornbuckle, John
+GP IEEE
+TI Characterization of WiFi signal range for Agricultural WSNs
+TC 0
+Z9 0
+ER
+
+PT S
+AU Filev, R
+   Netto, I
+   Tran, ALH
+AF Filev, Rodrigo
+   Netto, Ibrahim
+   Anh Lan Ho Tran
+GP IEEE
+TI Precision agriculture using remote monitoring systems in Brazil
+DE precision agriculture; internet of things; agri-tech; remote monitoring
+ID SOIL-WATER CONTENT; SENSORS; CALIBRATION
+TC 0
+Z9 0
+ER
+
+PT B
+AU Marsi, S
+   Gregorio, A
+   Maris, M
+   Puligheddu, M
+AF Marsi, S.
+   Gregorio, A.
+   Maris, M.
+   Puligheddu, M.
+BE Biljanovic, P
+   Koricic, M
+   Skala, K
+   Grbac, TG
+   CicinSain, M
+   Sruk, V
+   Ribaric, S
+   Gros, S
+   Vrdoljak, B
+   Mauher, M
+   Tijan, E
+   Hormot, F
+TI PicoAgri. Realization of a Low-cost, Remote Sensing Environment for
+   Monitoring Agricultural Fields Through Small Satellites and Drones
+ID LEAF WATER-CONTENT; CUBESAT
+TC 1
+Z9 1
+ER
+
+PT B
+AU Vasisht, D
+   Kapetanovic, Z
+   Won, JH
+   Jin, XX
+   Chandra, R
+   Kapoor, A
+   Sinha, SN
+   Sudarshan, M
+   Stratman, S
+AF Vasisht, Deepak
+   Kapetanovic, Zerina
+   Won, Jong-ho
+   Jin, Xinxin
+   Chandra, Ranveer
+   Kapoor, Ashish
+   Sinha, Sudipta N.
+   Sudarshan, Madhusudhan
+   Stratman, Sean
+GP USENIX Assoc
+TI FarmBeats: An IoT Platform for Data-Driven Agriculture
+TC 11
+Z9 11
+ER
+
+PT B
+AU De Rango, F
+   Palmieri, N
+   Santamaria, AF
+   Potrino, G
+AF De Rango, Floriano
+   Palmieri, Nunzia
+   Santamaria, Amilcare Francesco
+   Potrino, Giuseppe
+BE Obaidat, MS
+   Szczerbicka, H
+   Louta, M
+   Kartesos, G
+   Entrialgo, J
+   Latre, S
+   Saldana, J
+TI A Simulator for UAVs Management in Agriculture Domain
+DE UAV team; Team Management; Simulator; Agriculture Domain; Network
+TC 0
+Z9 0
+ER
+
+PT S
+AU Singh, KD
+   Nansen, C
+AF Singh, Keshav D.
+   Nansen, Christian
+GP IEEE
+TI ADVANCED CALIBRATION TO IMPROVE ROBUSTNESS OF DRONE-ACQUIRED
+   HYPERSPECTRAL REMOTE SENSING DATA
+DE Airborne remote sensing; Hyperspectral imaging; Spectral calibration;
+   Bi-directional reflectance; Radiative transfer model
+ID REFLECTANCE
+TC 0
+Z9 0
+ER
+
+PT B
+AU Reinecke, M
+   Prinsloo, T
+AF Reinecke, Marthinus
+   Prinsloo, Tania
+GP IEEE
+TI The influence of drone monitoring on crop health and harvest size
+DE drone; aerial monitoring; UAV; agriculture; plant heat stress
+ID PRECISION AGRICULTURE; WATER-STRESS; CAMERA; BAND
+TC 2
+Z9 2
+ER
+
+PT S
+AU Garcia-Pedrero, A
+   Lillo-Saavedra, M
+   Rodriguez-Esparragon, D
+   Rodriguea-Gonzlaez, A
+   Gonzalo-Martin, C
+AF Garcia-Pedrero, Angel
+   Lillo-Saavedra, Mario
+   Rodriguez-Esparragon, Dionisio
+   Rodriguea-Gonzlaez, Alejandro
+   Gonzalo-Martin, Consuelo
+BE Bruzzone, L
+   Bovolo, F
+TI Increasing the UAV data value by an OBIA methodology
+DE Unmanned Aerial Vehicles; superpixels; Digital Terrain Model
+ID UNMANNED AERIAL VEHICLE
+TC 0
+Z9 0
+ER
+
+PT B
+AU Lysenko, V
+   Opryshko, O
+   Komarchuk, D
+   Pasichnyk, N
+   Zaets, N
+   Dudnyk, A
+AF Lysenko, Vitalii
+   Opryshko, Oleksiy
+   Komarchuk, Dmytro
+   Pasichnyk, Nadiia
+   Zaets, Nataliia
+   Dudnyk, Alla
+GP IEEE
+TI Usage of Flying Robots for Monitoring Nitrogen in Wheat Crops
+DE remote sensing; UAV; NDVI; VI; EXIFF; fertilizers; drones
+TC 0
+Z9 0
+ER
+
+PT J
+AU Burud, I
+   Lange, G
+   Lillemo, M
+   Bleken, E
+   Grimstad, L
+   From, PJ
+AF Burud, Ingunn
+   Lange, Gunnar
+   Lillemo, Morten
+   Bleken, Eivind
+   Grimstad, Lars
+   From, Pal Johan
+TI Exploring Robots and UAVs as Phenotyping Tools in Plant Breeding
+DE multi-sensor systems; mobile robots; UAVs; agricultural robotics
+TC 2
+Z9 2
+ER
+
+PT S
+AU McKee, M
+AF McKee, Mac
+BE Thomasson, JA
+   McKee, M
+   Moorhead, RJ
+TI The remote sensing data from your UAV probably isn't scientific, but it
+   should be!
+DE remote sensing; unmanned autonomous vehicle; precision agriculture;
+   scientific data; data standards
+ID REFLECTANCE; BALANCE
+TC 2
+Z9 2
+ER
+
+PT S
+AU Wijitdechakul, J
+   Kiyoki, Y
+   Sasaki, S
+   Koopipat, C
+AF Wijitdechakul, Jinmika
+   Kiyoki, Yasushi
+   Sasaki, Shiori
+   Koopipat, Chawan
+BE Jaakkola, H
+   Thalheim, B
+   Kiyoki, Y
+   Yoshida, N
+TI A Multispectral Imaging and Semantic Computing System for Agricultural
+   Monitoring and Analysis
+DE Multispectral image; semantic analysis; agricultural
+TC 1
+Z9 1
+ER
+
+PT J
+AU Szantoi, Z
+   Smith, SE
+   Strona, G
+   Koh, LP
+   Wich, SA
+AF Szantoi, Zoltan
+   Smith, Scot E.
+   Strona, Giovanni
+   Koh, Lian Pin
+   Wich, Serge A.
+TI Mapping orangutan habitat and agricultural areas using Landsat OLI
+   imagery augmented with unmanned aircraft system aerial photography
+ID RESOLUTION GLOBAL-MAPS; FOREST COVER CHANGE; CONSERVATION;
+   CLASSIFICATION; SUMATRA
+TC 4
+Z9 5
+ER
+
+PT J
+AU Jakob, S
+   Zimmermann, R
+   Gloaguen, R
+AF Jakob, Sandra
+   Zimmermann, Robert
+   Gloaguen, Richard
+TI The Need for Accurate Geometric and Radiometric Corrections of
+   Drone-Borne Hyperspectral Data for Mineral Exploration: MEPHySToA
+   Toolbox for Pre-Processing Drone-Borne Hyperspectral Data
+DE UAV; UAS; drone; hyperspectral; exploration; processing;
+   structure-from-motion; point matching; Minas de Riotinto
+ID IMAGING SPECTROMETRY DATA; UNMANNED AERIAL VEHICLE; TOPOGRAPHIC
+   NORMALIZATION; IMAGERY; AIRCRAFT; AIRBORNE; PHOTOGRAMMETRY;
+   ENVIRONMENTS; CAMERA; CROP
+TC 20
+Z9 20
+ER
+
+PT J
+AU Michez, A
+   Morelle, K
+   Lehaire, F
+   Widar, J
+   Authelet, M
+   Vermeulen, C
+   Lejeune, P
+AF Michez, Adrien
+   Morelle, Kevin
+   Lehaire, Francois
+   Widar, Jerome
+   Authelet, Manon
+   Vermeulen, Cedric
+   Lejeune, Philippe
+TI Use of unmanned aerial system to assess wildlife (Sus scrofa) damage to
+   crops (Zea mays)
+DE remote sensing; Sus scrofa; photogrammetry; wildlife damage; crop
+   damage; UAV; UAS; drone
+TC 3
+Z9 3
+ER
+
+PT J
+AU Narvaez, FJY
+   del Pedregal, JS
+   Prieto, PA
+   Torres-Torriti, M
+   Cheein, FAA
+AF Narvaez, Francisco J. Yandun
+   del Pedregal, Jaime Salvo
+   Prieto, Pablo A.
+   Torres-Torriti, Miguel
+   Cheein, Fernando A. Auat
+TI LiDAR and thermal images fusion for ground-based 3D characterisation of
+   fruit trees
+DE Thermal images; 3D reconstruction; LiDAR readings; Ground-based remote
+   sensing
+ID STOMATAL CONDUCTANCE; WATER-STRESS; INFRARED THERMOMETRY; LEAF;
+   TEMPERATURE; SATELLITE; BIOMASS; PHOTOSYNTHESIS; AGRICULTURE;
+   CHLOROPHYLL
+TC 7
+Z9 8
+ER
+
+PT J
+AU Bright, LZ
+   Handley, M
+   Chien, I
+   Curi, S
+   Brownworth, LA
+   D'hers, S
+   Bernier, UR
+   Gurman, P
+   Elman, NM
+AF Bright, L. Zack
+   Handley, Michael
+   Chien, Isabel
+   Curi, Sebastian
+   Brownworth, L. Anders
+   D'hers, Sebastian
+   Bernier, Ulrich R.
+   Gurman, Pablo
+   Elman, Noel M.
+TI Analytical models integrated with satellite images for optimized pest
+   management
+DE Pest management; Satellite images; UAV; Drones; Controlled release
+   devices; Vector-borne diseases
+ID PRECISION AGRICULTURE
+TC 1
+Z9 1
+ER
+
+PT J
+AU Kairo, G
+   Provost, B
+   Tchamitchian, S
+   Ben Abdelkader, F
+   Bonnet, M
+   Cousin, M
+   Senechal, J
+   Benet, P
+   Kretzschmar, A
+   Belzunces, LP
+   Brunet, JL
+AF Kairo, Guillaume
+   Provost, Bertille
+   Tchamitchian, Sylvie
+   Ben Abdelkader, Faten
+   Bonnet, Marc
+   Cousin, Marianne
+   Senechal, Jacques
+   Benet, Pauline
+   Kretzschmar, Andre
+   Belzunces, Luc P.
+   Brunet, Jean-Luc
+TI Drone exposure to the systemic insecticide Fipronil indirectly impairs
+   queen reproductive potential
+ID BEE APIS-MELLIFERA; HONEY-BEE; SEMEN QUALITY; ENDOCRINE DISRUPTION;
+   SEXUAL SELECTION; NOSEMA-CERANAE; COLONY LOSSES; DNA-DAMAGE;
+   SPERMATOZOA; HYMENOPTERA
+TC 13
+Z9 13
+ER
+
+PT J
+AU Horsman, G
+AF Horsman, Graeme
+TI Unmanned aerial vehicles: A preliminary analysis of forensic challenges
+DE Unmanned aerial vehicles; Remotely piloted aircraft systems; Drone;
+   Forensic investigation; GPS
+ID AIRCRAFT SYSTEMS; PRIVACY
+TC 9
+Z9 9
+ER
+
+PT B
+AU Wijitdechakul, J
+   Kiyoki, Y
+   Sasaki, S
+   Koopipat, C
+AF Wijitdechakul, Jinmika
+   Kiyoki, Yasushi
+   Sasaki, Shiori
+   Koopipat, Chawan
+GP IEEE
+TI UAV-based Multispectral Image Analysis System with Semantic Computing
+   for Agricultural Health Conditions Monitoring and Real-time Management
+DE multispectral image; Semantic computing; Farming analysis; SPA processs
+TC 2
+Z9 2
+ER
+
+PT S
+AU Bryceson, K
+   Borrero, AN
+   Camilleri, C
+   Vasuian, F
+AF Bryceson, Kim
+   Borrero, Armando Navas
+   Camilleri, Chris
+   Vasuian, Fabian
+BE Chova, LG
+   Martinez, AL
+   Torres, IC
+TI SMALL QUADCOPTER DRONES AS EDUCATIONAL TOOLS IN AGRICULTURE AT THE
+   UNIVERSITY OF QUEENSLAND
+DE Agricultural Remote Sensing; Drones; Precision Agriculture
+ID VEGETATION; AUSTRALIA
+TC 0
+Z9 0
+ER
+
+PT S
+AU Murrieta-Rico, FN
+   Petranovskii, V
+   Raymond-Herrera, O
+   Sergiyenko, O
+   Lindner, L
+   Valdez-Salas, B
+   Hernandez-Balbuena, D
+   Rodriguez-Quinonez, JC
+   Gurko, AG
+   Tyrsa, V
+   Mercorelli, P
+AF Murrieta-Rico, Fabian N.
+   Petranovskii, Vitalii
+   Raymond-Herrera, Oscar
+   Sergiyenko, Oleg
+   Lindner, Lars
+   Valdez-Salas, Benjamin
+   Hernandez-Balbuena, Daniel
+   Rodriguez-Quinonez, Julio C.
+   Gurko, Alexander G.
+   Tyrsa, Vera
+   Mercorelli, Paolo
+GP IEEE
+TI Resolution improvement of accelerometers measurement for drones in
+   agricultural applications
+DE Frequency measurement; rational approximations; FDS; INS; drone
+TC 4
+Z9 4
+ER
+
+PT S
+AU Mueller, W
+   Idziaszek, P
+   Boniecki, P
+   Zaborowicz, M
+   Koszela, K
+   Kujawa, S
+   Kozlowski, RJ
+   Przybyl, K
+   Niedbala, G
+AF Mueller, W.
+   Idziaszek, P.
+   Boniecki, P.
+   Zaborowicz, M.
+   Koszela, K.
+   Kujawa, S.
+   Kozlowski, R. J.
+   Przybyl, K.
+   Niedbala, G.
+BE Falco, CM
+   Jiang, X
+TI An IT system for the simultaneous management of vector and raster images
+DE raster image; vector image; cloud computing; geospatial data; google
+   maps; windows azure; GPS; FileTable; distributed system
+TC 3
+Z9 3
+ER
+
+PT S
+AU Bruno, LS
+   Rodrigo, BP
+   Jorge, LAD
+AF Bruno, L. S.
+   Rodrigo, B. P.
+   Jorge, Lucio A. de C.
+BE Erbertseder, T
+   Esch, T
+   Chrysoulakis, N
+TI SOFTWARE FOR HYPERSPECTRAL, JOINT PHOTOGRAPHIC EXPERTS GROUP (.JPG),
+   PORTABLE NETWORK GRAPHICS (.PNG) AND TAGGED IMAGE FILE FORMAT (.TIFF)
+   SEGMENTATION
+DE Image Segmentation; Multilayer Perceprton; Embrapa Instrumentation
+TC 0
+Z9 0
+ER
+
+PT S
+AU Olszewski, P
+   Grabowski, J
+   Kelm, M
+AF Olszewski, Pawel
+   Grabowski, Jacek
+   Kelm, Marcin
+GP SGEM
+TI EVALUATION OF RESOURCES AND DYNAMICS OF PLANT COMMUNITIES OF INVASIVE
+   SPECIES IN FORESTLAND AND POST-INDUSTRIAL AREAS
+DE invasive plant species; Canada goldenrod; Japanese knotweed; industrial
+   and forest ecosystems; drone
+TC 1
+Z9 1
+ER
+
+PT B
+AU Abutalipov, RN
+   Bolgov, YV
+   Senov, HM
+AF Abutalipov, Renat N.
+   Bolgov, Yuriy V.
+   Senov, Hamisha M.
+GP IEEE
+TI Flowering Plants Pollination Robotic System for Greenhouses by Means of
+   Nano Copter (Drone Aircraft)
+DE robotic system; drone; greenhouses; pollination; nano copter
+TC 0
+Z9 0
+ER
+
+PT S
+AU Marinello, F
+   Pezzuolo, A
+   Chiumenti, A
+   Sartori, L
+AF Marinello, Francesco
+   Pezzuolo, Andrea
+   Chiumenti, Alessandro
+   Sartori, Luigi
+BE Malinovska, L
+   Osadcuks, V
+TI TECHNICAL ANALYSIS OF UNMANNED AERIAL VEHICLES (DRONES) FOR AGRICULTURAL
+   APPLICATIONS
+DE Unmanned Aerial Vehicle; UAV; drone; agriculture; performance
+TC 0
+Z9 0
+ER
+
+PT S
+AU Trif, A
+   Gidea, M
+AF Trif, Alexandra
+   Gidea, Mihai
+BE Cimpeanu, SM
+   Fintineru, GG
+   Silviu, B
+TI The evaluation of rapeseed culture at the end of the cold season using
+   aerospace techniques
+DE agriculture; vegetation; GIS instruments; remote sensing
+TC 0
+Z9 0
+ER
+
+PT S
+AU Conesa-Munoz, J
+   Valente, J
+   del Cerro, J
+   Barrientos, A
+   Ribeiro, A
+AF Conesa-Munoz, Jesus
+   Valente, Joao
+   del Cerro, Jaime
+   Barrientos, Antonio
+   Ribeiro, Angela
+BE Reis, LP
+   Moreira, AP
+   Lima, PU
+   Montano, L
+   MunozMartinez, V
+TI Integrating Autonomous Aerial Scouting with Autonomous Ground Actuation
+   to Reduce Chemical Pollution on Crop Soil
+DE Collaborative inspection and intervention mission; Aerial and ground
+   fleet; Autonomous fleet; Site-specific weed treatment; Precision
+   agriculture
+TC 0
+Z9 1
+ER
+
+PT J
+AU Parejo, M
+   Wragg, D
+   Gauthier, L
+   Vignal, A
+   Neumann, P
+   Neuditschko, M
+AF Parejo, Melanie
+   Wragg, David
+   Gauthier, Laurent
+   Vignal, Alain
+   Neumann, Peter
+   Neuditschko, Markus
+TI Using Whole-Genome Sequence Information to Foster Conservation Efforts
+   for the European Dark Honey Bee, Apis mellifera mellifera
+DE Apis mellifera mellifera; honey bee; conservation genomics; whole-genome
+   sequencing; network clustering; admixture; ancestry informative SNPs
+TC 4
+Z9 4
+ER
+
+PT J
+AU Ustyuzhanin, A
+   Intress, J
+   Schirrmann, M
+   Chochlov, N
+   Dammer, KH
+AF Ustyuzhanin, Anton
+   Intress, Joachim
+   Schirrmann, Michael
+   Chochlov, Nikolaj
+   Dammer, Karl-Heinz
+TI Identification of Ragweed (Ambrosia artemisiifolia) by Image Processing
+   in a Winter Rye Field
+DE Ambrosia artemisiifolia; Intraspecific Variability; Plant
+   Identification; Digital Image Analysis
+ID COMMON-RAGWEED; POPULATIONS; ABUNDANCE; HISTORY
+TC 1
+Z9 1
+ER
+
+PT J
+AU Hinson, EM
+   Duncan, M
+   Lim, J
+   Arundel, J
+   Oldroyd, BP
+AF Hinson, Eloise M.
+   Duncan, Michael
+   Lim, Julianne
+   Arundel, Jonathan
+   Oldroyd, Benjamin P.
+TI The density of feral honey bee (Apis mellifera) colonies in South East
+   Australia is greater in undisturbed than in disturbed habitats
+DE feral honey bees; colony density; microsatellite haplotypes; population
+   size
+ID NATIVE BEE; REPRODUCTIVE SUCCESS; EUROPEAN HONEYBEES; NEST SITES;
+   POLLINATION; POPULATION; CONGREGATION; HYMENOPTERA; FLOODPLAIN; MARKERS
+TC 2
+Z9 2
+ER
+
+PT B
+AU Leaverton, GT
+AF Leaverton, Grant T.
+BE Lynch, OJ
+TI Generation Drone: The Future of Utility O&M
+TC 0
+Z9 0
+ER
+
+PT J
+AU Arcos, LVC
+   Munoz, JCC
+   Espino, AL
+AF Campo Arcos, Liseth Viviana
+   Corrales Munoz, Juan Carlos
+   Ledezma Espino, Agapito
+TI Remote Sensing for Agricultural Crops Based on a Low Cost Quadcopter
+DE Cuadricoptero; teledeteccion; agricultura de precision; AR Drone;
+   control de altura; planifi-cador de ruta
+TC 1
+Z9 1
+ER
+
+PT J
+AU Freeman, PK
+   Freeland, RS
+AF Freeman, P. K.
+   Freeland, R. S.
+TI Politics & technology: US polices restricting unmanned aerial systems in
+   agriculture
+DE Drone; FAA; Unmanned aerial vehicles; UAS; UAV
+TC 6
+Z9 6
+ER
+
+PT J
+AU Charlier, J
+   Soenen, K
+   De Roeck, E
+   Hantson, W
+   Ducheyne, E
+   Van Coillie, F
+   De Wulf, R
+   Hendrickx, G
+   Vercruysse, J
+AF Charlier, Johannes
+   Soenen, Karen
+   De Roeck, Els
+   Hantson, Wouter
+   Ducheyne, Els
+   Van Coillie, Frieke
+   De Wulf, Robert
+   Hendrickx, Guy
+   Vercruysse, Jozef
+TI Longitudinal study on the temporal and micro-spatial distribution of
+   Galba truncatula in four farms in Belgium as a base for small-scale risk
+   mapping of Fasciola hepatica
+DE Galba truncatula; Fasciola hepatica; Liver fluke; Species distribution;
+   Small-scale; Risk mapping
+ID LYMNAEA-TRUNCATULA; INTERMEDIATE HOSTS; CATTLE; TRANSMISSION;
+   RESOLUTION; INFECTION; SWITZERLAND; INDICATORS; DIAGNOSIS; BALTHICA
+TC 6
+Z9 6
+ER
+
+PT J
+AU Shaner, DL
+   Beckie, HJ
+AF Shaner, Dale L.
+   Beckie, Hugh J.
+TI The future for weed control and technology
+DE glyphosate resistance; herbicide resistance; multiple resistance;
+   integrated weed management; resistance management
+ID RESISTANT CROPPING SYSTEMS; OAT AVENA-FATUA; HERBICIDE RESISTANCE;
+   MANAGEMENT-PRACTICES; GLYPHOSATE RESISTANCE; CANADIAN PRAIRIES;
+   MOLECULAR-BIOLOGY; GROWER AWARENESS; PEST-MANAGEMENT; COVER CROPS
+TC 46
+Z9 48
+ER
+
+PT J
+AU Getzin, S
+   Nuske, RS
+   Wiegand, K
+AF Getzin, Stephan
+   Nuske, Robert S.
+   Wiegand, Kerstin
+TI Using Unmanned Aerial Vehicles (UAV) to Quantify Spatial Gap Patterns in
+   Forests
+DE autonomous flying; biodiversity; canopy gaps; drone; polygon-based pair
+   correlation function; remotely piloted vehicles; RPV; unmanned aircraft
+   systems; UAS; UAV
+ID MULTITEMPORAL LIDAR DATA; CANOPY GAPS; UNDERSTORY LIGHT; DYNAMICS;
+   PHOTOGRAPHS; VEGETATION; GRADIENT; ECOLOGY; IMAGERY
+TC 45
+Z9 49
+ER
+
+PT J
+AU Arundel, J
+   Oxley, PR
+   Faiz, A
+   Crawford, J
+   Winter, S
+   Oldroyd, BP
+AF Arundel, Jonathan
+   Oxley, Peter R.
+   Faiz, Alen
+   Crawford, John
+   Winter, Stephan
+   Oldroyd, Benjamin P.
+TI Remarkable uniformity in the densities of feral honey bee Apis mellifera
+   Linnaeus, 1758 (Hymenoptera: Apidae) colonies in South Eastern Australia
+DE feral bee; land use; linked microsatellite; pollination
+ID DRONE CONGREGATION AREAS; POLLINATOR DECLINE; SOCIAL HYMENOPTERA;
+   NEW-ZEALAND; NEST SITES; FRUIT-SET; ECOSYSTEM; DNA; CONSERVATION;
+   AGRICULTURE
+TC 2
+Z9 2
+ER
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Agricultural drones - An eye in the sky for farmers to check on crop
+   development
+TC 0
+Z9 0
+ER
+
+PT J
+AU Anderson, C
+AF Anderson, Chris
+TI Agricultural Drones
+TC 1
+Z9 1
+ER
+
+PT J
+AU Holmes, MJ
+   Tan, K
+   Wang, Z
+   Oldroyd, BP
+   Beekman, M
+AF Holmes, M. J.
+   Tan, K.
+   Wang, Z.
+   Oldroyd, B. P.
+   Beekman, M.
+TI Effect of queen excluders on ovary activation in workers of the Eastern
+   honeybee Apis cerana
+DE Apis cerana; Ovary activation; Pheromones; Policing
+ID INSECT SOCIETIES; MELLIFERA L.; EUSOCIAL HYMENOPTERA; GENETICAL
+   EVOLUTION; PRIMER PHEROMONES; REPRODUCTION; BEE; COLONIES; SIGNAL;
+   BEHAVIOR
+TC 1
+Z9 1
+ER
+
+PT J
+AU Capolupo, A
+   Pindozzi, S
+   Okello, C
+   Boccia, L
+AF Capolupo, Alessandra
+   Pindozzi, Stefania
+   Okello, Collins
+   Boccia, Lorenzo
+TI Indirect field technology for detecting areas object of illegal spills
+   harmful to human health: application of drones, photogrammetry and
+   hydrological models
+DE photogrammetry; drones; topographic index; heavy metals soil pollution;
+   health; Italy
+ID WETLANDS DISTRIBUTION; URBAN GEOCHEMISTRY; DIRECTION; ELEMENTS; VALUES;
+   SOIL
+TC 8
+Z9 8
+ER
+
+PT S
+AU Khorramnia, K
+   Shariff, ARM
+   Rahim, AA
+   Mansor, S
+AF Khorramnia, K.
+   Shariff, A. R. M.
+   Rahim, A. Abdul
+   Mansor, S.
+GP IOP
+TI Toward malaysian sustainable agriculture in 21st century
+TC 1
+Z9 1
+ER
+
+PT J
+AU Arundel, J
+   Oldroyd, BP
+   Winter, S
+AF Arundel, Jonathan
+   Oldroyd, Benjamin P.
+   Winter, Stephan
+TI Modelling estimates of honey bee (Apis spp.) colony density from drones
+DE Agent-based model; Spatial distribution; Honey bee; Apis mellifera;
+   Feral colonies; Drone congregation areas
+ID CONGREGATION AREAS; MELLIFERA-SCUTELLATA; SPATIAL-DISTRIBUTION;
+   POLLINATOR DECLINE; WESTERN-AUSTRALIA; GENETIC-STRUCTURE; NESTING
+   BIOLOGY; HYMENOPTERA; APIDAE; POPULATION
+TC 2
+Z9 2
+ER
+
+PT J
+AU Ramanaidu, K
+   Cutler, GC
+AF Ramanaidu, Krilen
+   Cutler, G. Christopher
+TI Different toxic and hormetic responses of Bombus impatiens to Beauveria
+   bassiana, Bacillus subtilis and spirotetramat
+DE Bombus impatiens; Bacillus subtilis; Beauveria bassiana; spirotetramat;
+   sublethal response; hormesis
+ID BUMBLE BEES; BIOLOGICAL-CONTROL; APIS-MELLIFERA; SWEET-PEPPER; INSECT
+   PESTS; HONEY-BEES; APIDAE; COMPATIBILITY; HYMENOPTERA; BIOCONTROL
+TC 7
+Z9 8
+ER
+
+PT J
+AU Moritz, RFA
+   Kraus, FB
+   Huth-Schwarz, A
+   Wolf, S
+   Carrillo, CAC
+   Paxton, RJ
+   Vandame, R
+AF Moritz, Robin F. A.
+   Kraus, F. Bernhard
+   Huth-Schwarz, Anett
+   Wolf, Stephan
+   Carrillo, Claudia A. Castillo
+   Paxton, Robert J.
+   Vandame, Remy
+TI Number of honeybee colonies in areas with high and low beekeeping
+   activity in Southern Mexico
+DE Apis mellifera; beekeeping; honeybee; microsatellites; pollinator
+   decline; population size
+ID POPULATIONS APIS-MELLIFERA; SIBSHIP RECONSTRUCTION; BEES HYMENOPTERA;
+   APIDAE; CONSERVATION; DYNAMICS; INVASION; ALLELES; DENSITY; CHIAPAS
+TC 3
+Z9 3
+ER
+
+PT J
+AU Delaplane, KS
+   van der Steen, J
+   Guzman-Novoa, E
+AF Delaplane, Keith S.
+   van der Steen, Jozef
+   Guzman-Novoa, Ernesto
+TI Standard methods for estimating strength parameters of Apis mellifera
+   colonies
+DE bee population; brood area; brood pattern; honey stores; disease
+   symptoms; parasite symptoms; flight activity; queen cells; drone brood;
+   digital image analysis; honey bee; BEEBOOK; COLOSS
+ID HONEY-BEES HYMENOPTERA; VARROA-DESTRUCTOR ACARI; WORKER SURVIVAL;
+   SOUTHEASTERN USA; BROOD PRODUCTION; POPULATION-SIZE; APIDAE; COMB;
+   JACOBSONI; THRESHOLD
+TC 92
+Z9 96
+ER
+
+PT S
+AU Bendig, J
+   Bolten, A
+   Bareth, G
+AF Bendig, J.
+   Bolten, A.
+   Bareth, G.
+BE Shortis, M
+   ElSheimy, N
+TI INTRODUCING A LOW-COST MINI-UAV FOR THERMAL- AND MULTISPECTRAL-IMAGING
+DE Agriculture; Sensor; Multisensor; Multispectral; Thermal; Imagery; Small
+TC 18
+Z9 20
+ER
+
+PT J
+AU Corbane, C
+   Raclot, D
+   Jacob, F
+   Albergel, J
+   Andrieux, P
+AF Corbane, C.
+   Raclot, D.
+   Jacob, F.
+   Albergel, J.
+   Andrieux, P.
+TI Remote sensing of soil surface characteristics from a multiscale
+   classification approach
+DE Soil surface characteristics; SSC typology; Visible remote sensing;
+   Multiscale segmentation; Object-oriented classification; Vineyard; Pixy
+   drone
+ID SPECTRAL REFLECTANCE PROPERTIES; WESTERN SIERRA-MADRE; AGRICULTURAL
+   MANAGEMENT; MEDITERRANEAN VINEYARDS; CRUST DEVELOPMENT; SOUTHERN FRANCE;
+   EROSION; IMAGE; INFILTRATION; VEGETATION
+TC 27
+Z9 29
+ER
+
+PT J
+AU Roman, A
+AF Roman, A.
+TI Bioaccumulation levels of some trace elements in the organisms of worker
+   bees and drones
+DE bees; trace elements
+TC 3
+Z9 3
+ER
+
+PT J
+AU Hingston, AB
+   Herrmann, W
+   Jordan, GJ
+AF Hingston, AB
+   Herrmann, W
+   Jordan, GJ
+TI Reproductive success of a colony of the introduced bumblebee Bombus
+   terrestris (L.) (Hymenoptera : Apidae) in a Tasmanian National Park
+DE colony size; feral animals; invasive species; social Hymenoptera
+ID SSP GLOBULUS MYRTACEAE; FORAGING RANGE; BEES; POLLINATORS; PATTERNS;
+   PLANTS; MALES
+TC 6
+Z9 9
+ER
+
+PT J
+AU Collins, AM
+AF Collins, AM
+TI Insemination of honey bee, Apis mellifera, queens with non-frozen stored
+   semen: sperm concentration measured with a spectrophotometer
+DE honey bees; Apis mellifera; queens; spermatozoa; viability; germplasm;
+   spectrophotometer; turbidity; sperm concentration; spermatheca; storage
+ID INSTRUMENTAL INSEMINATION; LIQUID-NITROGEN; SPERMATOZOA; PERFORMANCE;
+   SURVIVAL; DILUENTS
+TC 4
+Z9 4
+ER
+
+PT J
+AU Miyajima, D
+AF Miyajima, D
+TI Pollination and seed set in vinca [Catharanthus roseus (L.) G. Don]
+ID SELF-POLLINATION; AUTOGAMY; SCROPHULARIACEAE; EVOLUTION; FLOWERS
+TC 4
+Z9 4
+ER
+
+PT J
+AU Wattanachaiyingcharoen, W
+   Oldroyd, BP
+   Good, G
+   Halling, L
+   Ratnieks, FLW
+   Wongsiri, S
+AF Wattanachaiyingcharoen, W
+   Oldroyd, BP
+   Good, G
+   Halling, L
+   Ratnieks, FLW
+   Wongsiri, S
+TI Lack of worker reproduction in the giant honey bee Apis dorsata
+   Fabricius
+DE Apis dorsata; worker policing; worker sterility; ovary activation
+ID OVARIAN DEVELOPMENT; DIACAMMA SP; QUEEN; HYMENOPTERA; COLONIES; ANT;
+   RELATEDNESS; CONFLICTS; MELLIFERA; EVOLUTION
+TC 11
+Z9 12
+ER
+
+PT J
+AU Hosler, JS
+   Burns, JE
+   Esch, HE
+AF Hosler, JS
+   Burns, JE
+   Esch, HE
+TI Flight muscle resting potential and species-specific differences in
+   chill-coma
+DE chill-coma; resting potential; honey bee; Drosophila melanogaster;
+   temperature
+ID CURRENTS; EXCITABILITY; TEMPERATURE; DEPENDENCE; FIBERS; INSECT
+TC 80
+Z9 81
+ER
+
+PT J
+AU Kuenen, LPS
+   Calderone, NW
+AF Kuenen, LPS
+   Calderone, NW
+TI Varroa mite infestations in elevated honey bee brood cells: Effects of
+   context and caste
+DE Varroa jacobsoni; Apis mellifera; parasite load scores; mite prevalence;
+   raised cells; mite behavior
+ID APIS-MELLIFERA L; PARASITIC MITE; JACOBSONI OUD; UNITED-STATES; CERANA
+   FABR; INVASION; BEHAVIOR; WORKER; LARVAE; PREFERENCES
+TC 11
+Z9 11
+ER
+
+PT J
+AU Branco, MR
+   Kidd, NAC
+   Pickard, RS
+AF Branco, MR
+   Kidd, NAC
+   Pickard, RS
+TI Development of Varroa jacobsoni in colonies of Apis mellifera iberica in
+   a Mediterranean climate
+DE Varroa jacobsoni; Apis mellifera iberica; population growth;
+   Mediterranean climate; statistical modelling
+ID HONEY-BEE COLONIES; POPULATION-DYNAMICS; COLD CLIMATES; HIVE DEBRIS;
+   BROOD CELLS; OUD; REPRODUCTION; MESOSTIGMATA; MITES; INFESTATIONS
+TC 12
+Z9 13
+ER
+
+PT J
+AU Caron, DM
+AF Caron, DM
+TI IPM for beekeepers
+TC 2
+Z9 2
+ER
+
+PT J
+AU Dorstyn, L
+   Colussi, PA
+   Quinn, LM
+   Richardson, H
+   Kumar, S
+AF Dorstyn, L
+   Colussi, PA
+   Quinn, LM
+   Richardson, H
+   Kumar, S
+TI DRONC, an ecdysone-inducible Drosophila caspase
+DE apoptosis; caspase activation; caspase recruitment domain; development;
+   metamorphosis
+ID PROGRAMMED CELL-DEATH; CYTOCHROME-C; APOPTOSIS; ACTIVATION; PROTEASES;
+   MICE; METAMORPHOSIS; REQUIREMENT; EFFECTOR
+TC 219
+Z9 224
+ER
+
+PT J
+AU Kralj, J
+   Otis, GW
+AF Kralj, J
+   Otis, GW
+TI Practical selection to breed bees with rapid development to enhance
+   resistance to Varroa mites
+ID APIS-MELLIFERA L; JACOBSONI OUD; HONEY-BEES; HYMENOPTERA; APIDAE
+TC 1
+Z9 1
+ER
+
+PT J
+AU Sylvester, HA
+   Watts, RP
+   De Guzman, LI
+   Stelzer, JA
+   Rinderer, TE
+AF Sylvester, HA
+   Watts, RP
+   De Guzman, LI
+   Stelzer, JA
+   Rinderer, TE
+TI Varroa in the mating yard: II. The effects of Varroa and fluvalinate on
+   drone mating competitiveness
+TC 11
+Z9 11
+ER
+
+PT J
+AU Rath, W
+AF Rath, W
+TI Co-adaptation of Apis cerana Fabr. and Varroa jacobsoni Oud.
+DE Apis cerana; Varroa jacobsoni; co-adaptation
+ID HYGIENIC BEHAVIOR; HONEY-BEES; TROPILAELAPS-CLAREAE; HEMOPHAGOUS MITE;
+   MELLIFERA; BROOD; REPRODUCTION; HOST; COLONIES; INFESTATION
+TC 64
+Z9 71
+ER
+
+PT J
+AU Calis, JNM
+   Fries, I
+   Ryrie, SC
+AF Calis, JNM
+   Fries, I
+   Ryrie, SC
+TI Population modelling of Varroa jacobsoni Oud.
+DE Apis mellifera; Varroa jacobsoni; population dynamics; model
+ID APIS-MELLIFERA L; HONEY-BEE COLONIES; REPRODUCTIVE SUCCESS; NATURAL
+   CONDITIONS; PARASITIC MITE; DRONE BROOD; INFESTATION; DYNAMICS;
+   INVASION; CLIMATES
+TC 49
+Z9 52
+ER
+
+PT J
+AU Beetsma, J
+   Boot, WJ
+   Calis, J
+AF Beetsma, J
+   Boot, WJ
+   Calis, J
+TI Invasion behaviour of Varroa jacobsoni Oud.: from bees into brood cells
+DE Apis mellifera; Varroa jacobsoni; invasion; brood cell type;
+   biotechnical control
+ID PARASITIC MITE VARROA; APIS-MELLIFERA L; HONEY-BEE; REPRODUCTIVE
+   SUCCESS; INFESTATION; COLONIES; PREFERENCE; DISTANCE; CARNICA; WORKER
+TC 18
+Z9 20
+ER
+
+PT J
+AU Calis, JNM
+   Boot, WJ
+   Beetsma, J
+AF Calis, JNM
+   Boot, WJ
+   Beetsma, J
+TI Model evaluation of methods for Varroa jacobsoni mite control based on
+   trapping in honey bee brood
+DE Apis mellifera; Varroa jacobsoni; trap-combs; biotechnical control;
+   model
+ID APIS-MELLIFERA L; FORMIC-ACID; POPULATION-DYNAMICS; COLD CLIMATES; OUD;
+   COLONIES; CELLS; INFESTATION; INVASION; ACARI
+TC 9
+Z9 14
+ER
+
+PT J
+AU Leathwick, DM
+   Godfrey, PL
+   Fordham, RA
+   Potter, MA
+AF Leathwick, DM
+   Godfrey, PL
+   Fordham, RA
+   Potter, MA
+TI Comparative growth and seasonality of Vespula germanica (F.) and Vespula
+   vulgaris (L.) (Hymenoptera : Vespidae) colonies in the Manawatu region
+   of New Zealand
+DE Vespula germanica; German wasp; Vespula vulgaris; common wasp;
+   seasonality; competition; colony growth
+ID COMMON WASP; POPULATION-DYNAMICS; QUEENS HYMENOPTERA; BEECH FORESTS;
+   SOCIAL WASPS; CHRISTCHURCH; HONEYDEW; NESTS; FAB
+TC 2
+Z9 3
+ER
+
+PT J
+AU Rinderer, TE
+   De Guzman, LI
+   Lancaster, VA
+   Delatte, GT
+   Stelzer, JA
+AF Rinderer, TE
+   De Guzman, LI
+   Lancaster, VA
+   Delatte, GT
+   Stelzer, JA
+TI Varroa in the mating yard: I. The effects of Varroa jacobsoni and
+   Apistan (R) on drone honey bees
+ID APIS-MELLIFERA L; COLONIES; BROOD; OUD; SPERMATOZOA
+TC 63
+Z9 65
+ER
+
+PT J
+AU Boot, WJ
+   Calis, JNM
+   Beetsma, J
+   Hai, DM
+   Lan, NK
+   Van Tran, T
+   Trung, LQ
+   Minh, NH
+AF Boot, WJ
+   Calis, JNM
+   Beetsma, J
+   Hai, DM
+   Lan, NK
+   Van Tran, T
+   Trung, LQ
+   Minh, NH
+TI Natural selection of Varroa jacobsoni explains the different
+   reproductive strategies in colonies of Apis cerana and Apis mellifera
+DE Varroa jacobsoni; Apis mellifera; Apis cerana; honey-bee; parasite;
+   reproductive strategy; selection programme
+ID HONEY-BEES HYMENOPTERA; WORKER BROOD; MITES; BEHAVIOR; APIDAE; HOST;
+   OUD; MESOSTIGMATA; ADAPTATION; TOLERANCE
+TC 18
+Z9 18
+ER
+
+PT J
+AU Blenau, W
+   Schmidt, M
+   Faensen, D
+   Schurmann, FW
+AF Blenau, W
+   Schmidt, M
+   Faensen, D
+   Schurmann, FW
+TI Neurons with dopamine-like immunoreactivity target mushroom body Kenyon
+   cell somata in the brain of some hymenopteran insects
+DE Apis mellifera; dopamine; honeybee; immunocytochemistry; insect brain;
+   mushroom bodies
+ID HONEYBEE APIS-MELLIFERA; NERVOUS-SYSTEM; SUBESOPHAGEAL GANGLION; SPINY
+   LOBSTER; BEE BRAIN; SEROTONIN; BODIES; DROSOPHILA; RECEPTOR;
+   LOCALIZATION
+TC 18
+Z9 18
+ER
+
+PT J
+AU Boecking, O
+AF Boecking, O
+TI Sealing up and non-removal of diseased and Varroa jacobsoni infested
+   drone brood cells is part of the hygienic behaviour in Apis cerana
+DE drone brood; pores; Apis cerana; Varroa jacobsoni; hygienic behaviour;
+   European foulbrood; Thai sacbrood virus; Nepal; Philippines
+ID HONEY-BEES; HYMENOPTERA; APIDAE; FABR
+TC 13
+Z9 13
+ER
+
+EF

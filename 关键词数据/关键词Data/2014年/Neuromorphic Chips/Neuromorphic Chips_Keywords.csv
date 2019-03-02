@@ -1,0 +1,368 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,neuromorphic,36,neuromorphic,116
+1,neuromorphic computing,26,neuromorphic computing,70
+2,memristor,16,memristor,59
+3,neuromorphic engineering,10,neuromorphic engineering,28
+4,neural network,8,neural network,20
+5,neuromorphic system,5,analog vlsi,16
+6,analog vlsi,5,vlsi,16
+7,address-event representation (aer),5,fpga,15
+8,memristors,4,memristors,13
+9,spiking neural networks,4,selective attention,13
+10,fpga,4,rram,12
+11,cognitive computing,4,neuromorphic system,12
+12,neural networks,4,cmos,12
+13,vlsi,4,stdp,12
+14,vision chip,4,crossbar array,12
+15,selective attention,4,spiking neural networks,11
+16,rram,3,neuron,11
+17,neuromorphic architecture,3,cognitive computing,11
+18,machine learning,3,vision chip,11
+19,asynchronous,3,address-event,11
+20,spiking neural,3,spiking neural,10
+21,cmos,3,neuromorphic circuits,10
+22,truenorth,3,neural networks,10
+23,neuromorphic circuits,3,machine learning,9
+24,address event representation (aer),3,asynchronous,9
+25,brain-inspired computing,3,brain-inspired computing,9
+26,stdp,3,robotics,9
+27,crossbar array,3,spiking neurons,9
+28,robotics,3,address-event representation (aer),9
+29,spiking neurons,3,neuromorphic architecture,8
+30,address-event,3,truenorth,8
+31,routing,2,design,8
+32,on-chip learning,2,algorithms,8
+33,spiking neural network,2,event-based,8
+34,synaptic devices,2,winner-take-all,8
+35,neuromorphic hardware,2,routing,7
+36,address-event-representation,2,address-event-representation,7
+37,energy efficiency,2,neuromorphics,7
+38,neuromorphics,2,asic,7
+39,accelerator,2,emulator,7
+40,exponential function,2,ltd,7
+41,cmos neurons,2,ltp,7
+42,deep learning,2,synaptic plasticity,7
+43,pattern recognition,2,tsv,7
+44,neuron,2,mpsoc,7
+45,electric-double-layer transistors,2,silicon,7
+46,tsv,2,synapse,7
+47,artificial neural networks,2,synaptic devices,6
+48,beyond cmos,2,neuromorphic hardware,6
+49,mpsoc,2,energy efficiency,6
+50,silicon,2,cmos neurons,6
+51,design,2,deep learning,6
+52,neural,2,emerging memory,6
+53,network-on-chip,2,reram,6
+54,neuromorphic architectures,2,stt-mram,6
+55,algorithms,2,pcm,6
+56,unsupervised learning,2,nonvolatile,6
+57,image processing,2,neural,6
+58,event-based,2,network-on-chip,6
+59,synapse,2,unsupervised learning,6
+60,attention,2,image processing,6
+61,central pattern generators,2,neuromorphic sensor,6
+62,avlsi,2,on-chip learning,5
+63,electronic nose,2,accelerator,5
+64,neuromorphic sensor,2,exponential function,5
+65,winner-take-all,2,pattern recognition,5
+66,non volatile memory,1,beyond cmos,5
+67,deep neural network,1,address event representation (aer),5
+68,on-chip communication,1,neuromorphic architectures,5
+69,emergent memory,1,emerging technologies,5
+70,simulator,1,mnist,5
+71,lut-based routing scheme,1,sneak path,5
+72,resistive random-access memory (rram),1,weight,5
+73,analog integrated circuits,1,aer,5
+74,leaky integrate and fire,1,dvs,5
+75,65nm,1,background activity,5
+76,spike-timing-dependent,1,uncorrelated,5
+77,sequence learning,1,deadlock,5
+78,dynamic,1,multicast,5
+79,biological band-pass filtering,1,router,5
+80,silicon photonics,1,tree network,5
+81,reservoir computing,1,attention,5
+82,massive parallel,1,central pattern generators,5
+83,discrete-event,1,avlsi,5
+84,time warp,1,electronic nose,5
+85,memristive device,1,on-chip communication,4
+86,neuromorphic neuron,1,emergent memory,4
+87,spike-driven learning,1,spiking neural network,4
+88,3-d integration,1,cnn,4
+89,bump,1,iot,4
+90,fixed oxide charge,1,low power,4
+91,membrane capacitance,1,piecewise linear functions,4
+92,deep neural networks,1,image sensors,4
+93,memristor crossbar,1,visual attention,4
+94,neuromorphic platform,1,predictive coding,4
+95,many-core soc,1,neuronal membrane,4
+96,profiling methodology,1,mos capacitance,4
+97,spiking,1,ion,4
+98,brain-inspired,1,qubo,4
+99,neuromorphic chip,1,binary optimization,4
+100,silicon neurons,1,truenorth system,4
+101,vison chip,1,graph,4
+102,frame-driven,1,spinnaker2,4
+103,design optimization,1,power management,4
+104,electric habituation,1,dvfs,4
+105,memristive synapses,1,synapses,4
+106,monolayer mos2,1,neurons,4
+107,learning systems,1,integrated circuit modeling,4
+108,adaptive systems,1,computers,4
+109,compiler,1,multi-core,4
+110,circuits and systems,1,routing network,4
+111,biologically inspired architecture,1,cmol,4
+112,networks on,1,hardware,4
+113,logarithm function,1,neuron machine,4
+114,hard-ware accelerators,1,pipelining,4
+115,cnn,1,hodgkin-huxley,4
+116,iot,1,analog design,4
+117,low power,1,usb-aer,4
+118,piecewise linear functions,1,vhdl,4
+119,resistive ram,1,vision chips,4
+120,neuromorphic network,1,optical flow,4
+121,compute-inmemory,1,stereo,4
+122,image sensors,1,analog integrated circuits,3
+123,visual attention,1,leaky integrate and fire,3
+124,predictive coding,1,65nm,3
+125,mr imaging,1,sequence learning,3
+126,semantic image,1,dynamic,3
+127,high performance computing,1,massive parallel,3
+128,disruptive technologies,1,discrete-event,3
+129,softwarization,1,time warp,3
+130,fefet,1,3-d integration,3
+131,dnn,1,bump,3
+132,synaptic device,1,fixed oxide charge,3
+133,resistive,1,membrane capacitance,3
+134,asic,1,deep neural networks,3
+135,emulator,1,memristor crossbar,3
+136,ltd,1,neuromorphic platform,3
+137,ltp,1,many-core soc,3
+138,synaptic plasticity,1,profiling methodology,3
+139,analog ic,1,spiking,3
+140,interspike intervals (isis),1,neuromorphic chip,3
+141,neural encoder chip,1,silicon neurons,3
+142,photonic integrated circuits,1,vison chip,3
+143,ultrafast,1,frame-driven,3
+144,neuromodulation,1,design optimization,3
+145,realization theory,1,learning systems,3
+146,geometric,1,adaptive systems,3
+147,behavioral model,1,circuits and systems,3
+148,3d-ics,1,mr imaging,3
+149,vertical rram structure,1,semantic image,3
+150,neuronal membrane,1,synaptic device,3
+151,mos capacitance,1,resistive,3
+152,ion,1,neuromodulation,3
+153,leaky integrate and fire neuron,1,realization theory,3
+154,winner take all,1,geometric,3
+155,intrusion detection,1,electric-double-layer transistors,3
+156,network security,1,3d-ics,3
+157,qubo,1,vertical rram structure,3
+158,binary optimization,1,intrusion detection,3
+159,truenorth system,1,network security,3
+160,graph,1,big data,3
+161,big data,1,photonic,3
+162,photonic,1,spiking neural network (snn),3
+163,spiking neural network (snn),1,mixed-signal,3
+164,mixed-signal,1,i&f,3
+165,i&f,1,multi-chip,3
+166,multi-chip,1,neuromorpic,3
+167,neuromorpic,1,artificial neural networks,3
+168,feedforward neural networks,1,spinnaker,3
+169,spinnaker2,1,evolutionary algorithms,3
+170,power management,1,slew rate,3
+171,dvfs,1,human,3
+172,spinnaker,1,process variation,3
+173,evolutionary algorithms,1,training,3
+174,slew rate,1,testing,3
+175,human,1,convolutional network,3
+176,sparse spike,1,phase change,3
+177,non-von neumann computing,1,performance,3
+178,process variation,1,cortical architecture,3
+179,training,1,graphene,3
+180,testing,1,bio-inspired computer architectures,3
+181,emerging memory,1,sdk,3
+182,reram,1,face tracking,3
+183,stt-mram,1,face recognition,3
+184,pcm,1,neucube,3
+185,nonvolatile,1,spatio-temporal data,3
+186,convolutional network,1,stream data,3
+187,artificial neuron-astrocyte networks,1,envm,3
+188,asynchronous links,1,neurorobotics,3
+189,event-driven,1,brain-inspired robotics,3
+190,synapses,1,approximate adder and comparator,3
+191,phase change,1,carry skip,3
+192,neurons,1,error,3
+193,integrated circuit modeling,1,synaptic connectivity,3
+194,computers,1,system design,3
+195,performance,1,rent's,3
+196,cortical architecture,1,simulation tools,3
+197,neuromorphic sensors,1,gpu computing,3
+198,retinomorphic sensors,1,digital circuits,3
+199,neuromorphic audition,1,component,3
+200,artificial synaptic devices,1,memrisotr,3
+201,graphene,1,biological neuron,3
+202,bio-inspired computer architectures,1,3d integration,3
+203,sdk,1,device,3
+204,face tracking,1,spice,3
+205,face recognition,1,asynchronous circuits,3
+206,hudgkin huxley,1,network topology,3
+207,spike-timing-dependent-plasticity (stdp),1,neuro-morphics,3
+208,neuromorphic devices,1,optical,3
+209,neucube,1,inertial measurement unit,3
+210,spatio-temporal data,1,real-time,3
+211,stream data,1,very large,3
+212,envm,1,motor control,3
+213,architecture simulation,1,spikebased,3
+214,neurorobotics,1,cognitive,3
+215,brain-inspired robotics,1,analog circuit,3
+216,approximate adder and comparator,1,legged robots,3
+217,carry skip,1,neurornorphic,3
+218,error,1,in vitro modular networks,3
+219,synaptic connectivity,1,whole brain,3
+220,system design,1,lesioned circuits,3
+221,rent's,1,in silico,3
+222,emerging technologies,1,arrays,3
+223,simulation tools,1,machine interfaces,3
+224,gpu computing,1,cortical cultures,3
+225,digital circuits,1,long-term,3
+226,brain inspired computing,1,memristive devices,3
+227,intelligent systems,1,artificial neural system,3
+228,neuromorphic chips,1,path planning,3
+229,component,1,nanoelectronics,3
+230,memrisotr,1,hybrid circuits,3
+231,multi-core,1,crossbar,3
+232,routing network,1,latching switches,3
+233,cmol,1,attractor dynamics,3
+234,biological neuron,1,cmos photodetectors,3
+235,3d integration,1,neuromorphic vision,3
+236,visual attetnion,1,color detection,3
+237,dynamical neual field,1,retina chip,3
+238,system-on-chip,1,vision sensor,3
+239,hardware,1,address event,3
+240,neuron machine,1,edge detection,3
+241,pipelining,1,body effect,3
+242,hodgkin-huxley,1,resistive network,3
+243,mnist,1,central pattern generator (cpg),3
+244,sneak path,1,neuroprosthesis,3
+245,weight,1,winner-take-all (wta),3
+246,device,1,retina,3
+247,spice,1,retinal processing circuits,3
+248,aer,1,smart vision,3
+249,dvs,1,machine olfaction,3
+250,background activity,1,electronic oscillators,3
+251,uncorrelated,1,multichip,3
+252,asynchronous circuits,1,real time image processing,3
+253,network topology,1,birefringent micropolarizer,3
+254,neuro-morphics,1,neuromorphic cmos,3
+255,optical,1,octopus,3
+256,inertial measurement unit,1,non volatile memory,2
+257,real-time,1,deep neural network,2
+258,very large,1,simulator,2
+259,deadlock,1,lut-based routing scheme,2
+260,multicast,1,resistive random-access memory (rram),2
+261,router,1,spike-timing-dependent,2
+262,tree network,1,biological band-pass filtering,2
+263,motor control,1,silicon photonics,2
+264,spikebased,1,reservoir computing,2
+265,cognitive,1,memristive device,2
+266,neuromorphic oscillator,1,neuromorphic neuron,2
+267,mems resonator,1,spike-driven learning,2
+268,resonator coupling,1,brain-inspired,2
+269,analog design,1,electric habituation,2
+270,analog circuit,1,memristive synapses,2
+271,memristor crossbars,1,monolayer mos2,2
+272,dendritic computation and processing,1,compiler,2
+273,field programmable analog arrays,1,biologically inspired architecture,2
+274,legged robots,1,networks on,2
+275,neurornorphic,1,logarithm function,2
+276,in vitro modular networks,1,hard-ware accelerators,2
+277,whole brain,1,resistive ram,2
+278,lesioned circuits,1,neuromorphic network,2
+279,in silico,1,compute-inmemory,2
+280,arrays,1,high performance computing,2
+281,machine interfaces,1,disruptive technologies,2
+282,cortical cultures,1,softwarization,2
+283,long-term,1,fefet,2
+284,memristive devices,1,dnn,2
+285,artificial neural system,1,analog ic,2
+286,on-chip routing,1,interspike intervals (isis),2
+287,computer architecture,1,neural encoder chip,2
+288,path planning,1,photonic integrated circuits,2
+289,accelerated neuromorphic hardware system,1,ultrafast,2
+290,universal computing substrate,1,behavioral model,2
+291,dynamical systems,1,leaky integrate and fire neuron,2
+292,neural simulation,1,winner take all,2
+293,3d architectures,1,feedforward neural networks,2
+294,neuromorphic systems,1,sparse spike,2
+295,analog circuits,1,asynchronous links,2
+296,gigaevent packet-based aer,1,event-driven,2
+297,configuration over aer,1,neuromorphic sensors,2
+298,nanoelectronics,1,retinomorphic sensors,2
+299,hybrid circuits,1,neuromorphic audition,2
+300,crossbar,1,hudgkin huxley,2
+301,latching switches,1,spike-timing-dependent-plasticity (stdp),2
+302,usb-aer,1,neuromorphic devices,2
+303,vhdl,1,architecture simulation,2
+304,attractor dynamics,1,brain inspired computing,2
+305,bifurcations,1,intelligent systems,2
+306,central pattern generator,1,neuromorphic chips,2
+307,dendritic computation,1,visual attetnion,2
+308,cmos photodetectors,1,dynamical neual field,2
+309,neuromorphic vision,1,system-on-chip,2
+310,color detection,1,neuromorphic oscillator,2
+311,retina chip,1,mems resonator,2
+312,arbiter,1,resonator coupling,2
+313,asynchronous event-based vision,1,memristor crossbars,2
+314,communication interface,1,on-chip routing,2
+315,spike-timing-dependent plasticity,1,computer architecture,2
+316,reconfigurable,1,dynamical systems,2
+317,buried double junction photodiodes,1,neural simulation,2
+318,cmos color detection,1,3d architectures,2
+319,vision sensor,1,neuromorphic systems,2
+320,address event,1,analog circuits,2
+321,neural chips,1,bifurcations,2
+322,edge detection,1,central pattern generator,2
+323,body effect,1,dendritic computation,2
+324,resistive network,1,arbiter,2
+325,central pattern generator (cpg),1,asynchronous event-based vision,2
+326,neuroprosthesis,1,communication interface,2
+327,winner-take-all (wta),1,spike-timing-dependent plasticity,2
+328,multiple-target tracking,1,reconfigurable,2
+329,transient object,1,buried double junction photodiodes,2
+330,analog subthreshold cmos circuit,1,cmos color detection,2
+331,current-mode implementation,1,neural chips,2
+332,retina,1,multiple-target tracking,2
+333,retinal processing circuits,1,transient object,2
+334,smart vision,1,classification,2
+335,classification,1,competitive hebbian learning,2
+336,competitive hebbian learning,1,neuromorphic electronics,2
+337,neuromorphic electronics,1,asynchronous communication,2
+338,asynchronous communication,1,cortical,2
+339,cortical,1,auditory system,2
+340,machine olfaction,1,interaural level,2
+341,auditory system,1,2-d convolutions,2
+342,interaural level,1,bio-inspired,2
+343,2-d convolutions,1,autonomous walking robot,2
+344,bio-inspired,1,four-legged,2
+345,electronic oscillators,1,biologically inspired system,2
+346,autonomous walking robot,1,three-dimensional,2
+347,four-legged,1,three-dimensional lsi,2
+348,biologically inspired system,1,gabor filter,2
+349,three-dimensional,1,neuromorphic motion sensors,2
+350,three-dimensional lsi,1,low-power motion chips,2
+351,multichip,1,avlsi vision,2
+352,real time image processing,1,active vision,2
+353,birefringent micropolarizer,1,analog very large scale integration (vlsi),2
+354,neuromorphic cmos,1,address-event representation,2
+355,octopus,1,non-von neumann computing,1
+356,gabor filter,1,artificial neuron-astrocyte networks,1
+357,neuromorphic motion sensors,1,artificial synaptic devices,1
+358,low-power motion chips,1,dendritic computation and processing,1
+359,avlsi vision,1,field programmable analog arrays,1
+360,analog very large-scale integration,1,accelerated neuromorphic hardware system,1
+361,active vision,1,universal computing substrate,1
+362,analog very large scale integration (vlsi),1,gigaevent packet-based aer,1
+363,address-event representation,1,configuration over aer,1
+364,vision chips,1,analog subthreshold cmos circuit,1
+365,optical flow,1,current-mode implementation,1
+366,stereo,1,analog very large-scale integration,1

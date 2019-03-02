@@ -1,0 +1,1709 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+ER
+
+PT S
+DE Diffusion tensor imaging; Complex shearlet transform; Complex diffusion
+   anisotropic filtering
+ID WAVELET; REPRESENTATION
+ER
+
+PT J
+DE Diffusion tensor imaging; Diffusion tractography; Corpus callosum;
+   Cortico-spinal tract; Diagnostic imaging
+ID ECHO-PLANAR IMAGES; EDDY-CURRENT; MOTION CORRECTION; TRACTOGRAPHY;
+   REGISTRATION; VALIDATION; MRI
+ER
+
+PT J
+DE Traumatic brain injury; Diffusion tensor imaging; Adults; Outcomes;
+   Neuroimaging; Meta-analysis
+ID WHITE-MATTER INTEGRITY; AXONAL INJURY; CORPUS-CALLOSUM;
+   NEUROPSYCHOMETRIC TESTS; CINGULUM INJURY; SERIAL CHANGES; ACUTE STAGE;
+   ACUTE MILD; DTI; DYSFUNCTION
+ER
+
+PT J
+DE diffusion tensor imaging; high-resolution DTI; interleaved EPI;
+   model-based reconstruction; simultaneous multislice
+ID DTI DATA; MRI; RESOLUTION; SENSE; EPI; TRACKING; GRAPPA; MUSE
+ER
+
+PT J
+ID CERVICAL SPONDYLOTIC MYELOPATHY; BROWN-SEQUARD SYNDROME;
+   MULTIPLE-SCLEROSIS; FIBER TRACKING; NEUROMYELITIS-OPTICA; RADIAL
+   DIFFUSIVITY; DISEASE SEVERITY; INJURY; MRI; TRACTOGRAPHY
+ER
+
+PT J
+DE DTI; skeletal muscle; multi-echo DTI; muscle microstructure; diffusion;
+   simulation
+ID RESONANCE TRANSVERSE RELAXATION; EXERTIONAL COMPARTMENT SYNDROME; HUMAN
+   CALF MUSCLE; TO-NOISE RATIO; IN-VIVO; FRACTIONAL ANISOTROPY;
+   MUSCULAR-DYSTROPHY; WATER; TIMES; T-2
+ER
+
+PT J
+DE Small-angle X-ray scattering (SAXS); Diffusion tensor imaging (DTI);
+   Articular cartilage; Collagen fiber dispersion; Fractional anisotropy;
+   Orientation distribution function
+ID SPHERICAL DECONVOLUTION; SUBCHONDRAL BONE; MRI; OSTEOARTHRITIS;
+   ARCHITECTURE; MODEL; JOINT; MICROSCOPY; SAXS; KNEE
+ER
+
+PT J
+DE diffusion tensor imaging; peripheral nerves; tractography; magnetic
+   resonance imaging; magnetic resonance neurography
+ID CARPAL-TUNNEL-SYNDROME; ECHO-PLANAR IMAGES; HUMAN OPTIC-NERVE; HUMAN
+   SPINAL-CORD; MAGNETIC-RESONANCE; MEDIAN NERVE; 3 T; HIGH-RESOLUTION;
+   CRANIAL NERVES; IN-VIVO
+ER
+
+PT J
+DE diffusion-tensor imaging; diffusion-tensor imaging scalar;
+   postprocessing; neurological disorders
+ID MAJOR DEPRESSIVE DISORDER; AMYOTROPHIC-LATERAL-SCLEROSIS; TRAUMATIC
+   BRAIN-INJURY; TEMPORAL-LOBE EPILEPSY; WHITE-MATTER ABNORMALITIES;
+   SPINAL-CORD-INJURY; MULTIPLE-SCLEROSIS; ARCUATE FASCICULUS; FIBER
+   TRACKING; LONGITUDINAL CHANGES
+ER
+
+PT J
+DE Magnetic resonance imaging; diffusion; perfusion; intravoxel incoherent
+   motion
+ID INTRAVOXEL INCOHERENT MOTION; INITIAL CLINICAL-EXPERIENCE; IN-VIVO;
+   HUMAN BRAIN; BREAST-CANCER; WEIGHTED MRI; PERFUSION; MICROVASCULATURE;
+   BLOOD; MODEL
+ER
+
+PT J
+DE Macaque brain; Atlas; Population-averaged; High-resolution DTI; White
+   matter tracts; Invasive procedures
+ID DIFFUSION TENSOR; WHITE-MATTER; SPATIAL NORMALIZATION; CORPUS-CALLOSUM;
+   RHESUS-MONKEY; MOUSE-BRAIN; TEMPLATE; MRI; TRACKING; TRACTOGRAPHY
+ER
+
+PT J
+DE DTI; Diffusion; Harmonization; Multi-site; ComBat; Inter-scanner
+ID LOCALLY WEIGHTED REGRESSION; WHITE-MATTER DEVELOPMENT; SMOOTHING
+   SCATTERPLOTS; UNWANTED VARIATION; BRAIN IMAGES; DTI; ROBUST;
+   ADOLESCENCE; AGE; MRI
+ER
+
+PT J
+DE cervical spondylotic myelopathy; diffusion tensor imaging;
+   high-resolution diffusion imaging; multi-shot diffusion imaging; spinal
+   cord
+ID INCREASED SIGNAL INTENSITY; OF-THE-ART; SPINAL-CORD; FIBER TRACKING;
+   COMPRESSIVE MYELOPATHY; CLINICAL-SIGNIFICANCE; DISEASE SEVERITY;
+   COEFFICIENT; SUPPRESSION; ANISOTROPY
+ER
+
+PT J
+DE brain; children; neuroimaging; diffusion-weighted imaging; diffusion
+   tensor imaging; pitfalls; artifacts
+ID FIBER TRACTOGRAPHY; INTRACRANIAL HEMORRHAGE; MR SPECTROSCOPY;
+   ENCEPHALOPATHY; EVOLUTION; PERFUSION; MALFORMATIONS; MATURATION;
+   DISORDERS; CHILDREN
+ER
+
+PT J
+DE Diffusion tensor imaging; magnetic resonance imaging; myelopathy; spinal
+   cord; spinal pathology; trauma; tumor
+ID CERVICAL SPONDYLOTIC MYELOPATHY; AMYOTROPHIC-LATERAL-SCLEROSIS;
+   BROWN-SEQUARD SYNDROME; CORD-INJURY; MULTIPLE-SCLEROSIS; FIBER TRACKING;
+   COMPRESSIVE MYELOPATHY; FRACTIONAL ANISOTROPY; CLINICAL-APPLICATIONS;
+   INTRAMEDULLARY TUMORS
+ER
+
+PT J
+DE Post-traumatic hypersomnia; Traumatic Brain Injury (TBI); Diffusion
+   tensor imaging (DTI) tractography; Arterial Spin Labelling (ASL)
+ER
+
+PT J
+ID DEMYELINATING LESIONS; MULTIPLE-SCLEROSIS; ASTROCYTIC TUMORS; MRI;
+   ENCEPHALOMYELITIS; ANGIOGENESIS; ANISOTROPY; VALUES; DAMAGE; WHITE
+ER
+
+PT J
+ID CLINICAL-APPLICATIONS; FIBER TRACKING; CERVICOMEDULLARY JUNCTION;
+   INTRACRANIAL MENINGIOMAS; INTRAMEDULLARY TUMORS; LESIONS; CONSISTENCY;
+   PREDICTION; GLIOBLASTOMA; TRACTOGRAPHY
+ER
+
+PT J
+DE Diffusion tensor imaging; Structure tensor; Synchrotron radiation
+   imaging; Cardiovascular magnetic resonance; Validation; Tissue
+   microstructure
+ID CARDIOVASCULAR MAGNETIC-RESONANCE; HYPERTROPHIC CARDIOMYOPATHY;
+   HISTOLOGICAL VALIDATION; MYOCARDIAL-INFARCTION; LAMINAR STRUCTURE;
+   PHASE-CONTRAST; MYOCYTE SIZE; RAT-HEART; ARCHITECTURE; MICROSCOPY
+ER
+
+PT J
+DE Spinocerebellar ataxia; Diffusion tensor imaging
+ID CLINICAL-FEATURES; WHITE-MATTER
+ER
+
+PT J
+DE DTI; diffusion; diffusion tensor imaging; abdominal organs; MRI; FA
+ID INTRAVOXEL-INCOHERENT-MOTION; ZONE PROSTATE-CANCER; ISCHEMIA-REPERFUSION
+   INJURY; CHRONIC KIDNEY-DISEASE; 3 TESLA-FEASIBILITY; ECHO-PLANAR IMAGES;
+   IN-VIVO; HUMAN BRAIN; FIBER-TRACKING; AXONAL PROJECTIONS
+ER
+
+PT J
+DE diffusion tensor imaging; distributed compressed sensing; joint sparsity
+   constraint; model-based method; smoothing constraint
+ID SPIN-ECHO; IMAGING MATHEMATICS; PART II; MRI; RECONSTRUCTION;
+   RESOLUTION; DTI; ACCELERATION; NOISE
+ER
+
+PT J
+DE MRI; DTI; Phantoms; Diffusion; Anisotropy
+ID WHITE-MATTER; ANALYTICAL EXPRESSIONS; MULTIPLE-SCLEROSIS;
+   ALZHEIMERS-DISEASE; ABNORMALITIES; TRACTOGRAPHY; GRADIENT; ANISOTROPY;
+   SURGERY; STROKE
+ER
+
+PT J
+DE Diffusion tensor; Compressed-sensing; Diffusion spectrum
+ID CEREBRAL WHITE-MATTER; CORTICOSPINAL TRACT; HUMAN BRAIN; FIBER
+   TRACTOGRAPHY; TUMOR; VALIDATION; ANISOTROPY; ACCURACY; PATTERNS;
+   TRACKING
+ER
+
+PT J
+DE diffusion tensor imaging; parallel imaging; multi-band; simultaneous
+   multislice imaging; tractography
+ID WHITE-MATTER TRACTOGRAPHY; BRAIN; GLIOMAS; PULSES
+ER
+
+PT J
+DE Cervical spinal cord; Diffusion tensor imaging; Fractional anisotropy;
+   Apparent diffusion coefficient
+ID ANISOTROPIC WATER DIFFUSION; MULTIPLE-SCLEROSIS; NERVOUS-SYSTEM;
+   IN-VIVO; MRI; TRACTOGRAPHY; TESLA; REPRODUCIBILITY; NOISE; AGE
+ER
+
+PT J
+DE Diffusion tensor imaging; functional magnetic resonance imaging;
+   training
+ID WORKING-MEMORY; FMRI
+ER
+
+PT J
+DE Diffusional kurtosis imaging (DKI); Diffusion tensor imaging (DTI);
+   Diffusion weighted imaging (DWI); Magnetic resonance imaging (MRI);
+   Neuroradiology; Brain
+ID GAUSSIAN WATER DIFFUSION; APPEARING WHITE-MATTER; TRAUMATIC
+   BRAIN-INJURY; MULTIPLE-SCLEROSIS; COGNITIVE IMPAIRMENT; TENSOR MRI;
+   DISEASE; MODEL; HYPERTENSION; DENSITY
+ER
+
+PT J
+DE multiple sclerosis (MS); fingolimod; voxel based morphometry (VBM);
+   diffusion tensor imaging (DTI); fluid-attenuated inversion recovery
+   (FLAIR) high-intensity signals
+ID DISEASE; CELLS; REGISTRATION; MORPHOMETRY; DISABILITY; VOLUME; MRI
+ER
+
+PT J
+DE Diffusion tensor imaging; Temporal lobe epilepsy; Perioperative planning
+ID VISUAL-FIELD DEFICITS; OPTIC RADIATION; SELECTIVE
+   AMYGDALOHIPPOCAMPECTOMY; MEYERS LOOP; IMAGING TRACTOGRAPHY; AXONAL
+   PROJECTIONS; MRI TRACTOGRAPHY; FIBER DISSECTION; IN-VIVO; RESECTION
+ER
+
+PT J
+DE Akaike information criterion; biophysical mechanisms of MR diffusion;
+   diffusion tensor imaging; flow fraction; intravoxel incoherent motion;
+   renal
+ID INCOHERENT-MOTION; RENAL LESIONS; IN-VIVO; PRELIMINARY-EXPERIENCE;
+   TENSOR MRI; BLOOD-FLOW; SPIN-ECHO; B VALUES; ANISOTROPY; PARAMETERS
+ER
+
+PT J
+DE Degenerative spine disease; Magnetic resonance imaging; Diffusion tensor
+   imaging; Cervical myelopathy
+ID AMYOTROPHIC-LATERAL-SCLEROSIS; INCREASED SIGNAL INTENSITY;
+   MAGNETIC-RESONANCE IMAGES; SHOT ECHO-PLANAR; TO-NOISE RATIO; SPONDYLOTIC
+   MYELOPATHY; FIBER TRACKING; CORD COMPRESSION; IN-VIVO; INTRAMEDULLARY
+   CHANGES
+ER
+
+PT J
+DE Canine; Spinal cord; Diffusion tensor imaging; Grey matter; White matter
+ID IN-VIVO DTI; CORTICOSPINAL TRACT; WATER DIFFUSION; NERVOUS-SYSTEM; HUMAN
+   BRAIN; MRI; RAT; ANISOTROPY; INJURY; COEFFICIENT
+ER
+
+PT J
+DE Combined denoising and diffusion tensor fitting; diffusion tensor
+   imaging; generalized forward-backward algorithm; manifold-valued data;
+   total variation minimization
+ID MAGNETIC-RESONANCE IMAGES; LOG-EUCLIDEAN METRICS; CORPUS-CALLOSUM;
+   VALUED IMAGES; DT-MRI; DISSIMILARITY MEASURE; BOUNDED VARIATION; SIMPLE
+   CALCULUS; LEAST-SQUARES; WEIGHTED MRI
+ER
+
+PT J
+DE Deep brain stimulation; diffusion tensor imaging; MRI; fibers;
+   neurosurgery
+ID TREATMENT-RESISTANT DEPRESSION; PRIMATE MOTOR THALAMUS; MRI
+   TRACTOGRAPHY; TREMOR; SURGERY; TRACT; DTI; NUCLEUS; NETWORK; PAIN
+ER
+
+PT J
+DE Diffusion tensor image; Image registration; Evaluation; Tensor-based;
+   Scalar-based
+ID HUMAN BRAIN; SPATIAL NORMALIZATION; OPTIMIZATION; ALIGNMENT; TEMPLATE;
+   DISEASE
+ER
+
+PT J
+DE Diffusion tensor imaging; anomalous diffusion; fractional calculus;
+   anisotropy; magnetic resonance imaging
+ID STABLE-LIKE PROCESSES; TIME RANDOM-WALKS; ANOMALOUS DIFFUSION; WEIGHTED
+   MRI; EQUATIONS; DYNAMICS
+ER
+
+PT J
+DE Diffusion; Tensor; Breast; MRI; DTI
+ID MRI; DENSITY; METAANALYSIS; PARAMETERS; LESIONS; CANCER; RISK
+ER
+
+PT J
+DE Magnetization transfer ratio; Diffusion tensor imaging; Normal brain
+   development; Childhood; Adolescence
+ID MULTIPLE-SCLEROSIS BRAIN; WATER DIFFUSION; MRI; TRACTOGRAPHY;
+   MATURATION; RESONANCE; REPRODUCIBILITY; MICROSTRUCTURE; ADULTHOOD;
+   MYELIN
+ER
+
+PT J
+DE Diffusion Tensor Imaging; Registration Evaluation
+ID WHITE-MATTER CHANGES; DEFORMABLE REGISTRATION; FRONTOTEMPORAL DEMENTIA;
+   SPATIAL NORMALIZATION; MR-IMAGES; BRAIN; TRACTOGRAPHY; ORIENTATION;
+   INFORMATION; DISEASE
+ER
+
+PT J
+DE diffusion tensor imaging; skeletal muscle; applications
+ID PARAMETRIC MRI CHARACTERIZATION; STIMULATED-ECHO PREPARATION; REFOCUSED
+   SPIN-ECHO; HUMAN THIGH MUSCLES; HUMAN CALF MUSCLE; MAGNETIC-RESONANCE;
+   IN-VIVO; FIBER TRACKING; WATER DIFFUSION; FRACTIONAL ANISOTROPY
+ER
+
+PT J
+DE Parkinson's Disease (PD); Diffusion Weighted Imaging (DWI); Diffusion
+   Tensor Imaging (DTI)
+ID PROGRESSIVE SUPRANUCLEAR PALSY; MULTIPLE-SYSTEM ATROPHY; SUPERIOR
+   CEREBELLAR PEDUNCLE; BASAL GANGLIA; SUBSTANTIA-NIGRA;
+   RICHARDSONS-SYNDROME; MAGNETIC-RESONANCE; DE-NOVO;
+   DIFFERENTIAL-DIAGNOSIS; CORTICOBASAL DEGENERATION
+ER
+
+PT J
+DE chemical shift artifact; diffusion tensor imaging; fat suppression;
+   GRAPPA; monkey; parallel imaging; susceptibility artifact
+ID IMAGES; DISTORTION; MACAQUES; MONKEYS; DTI
+ER
+
+PT B
+DE medical big data; method sharing; diffusion tensor MRI; reproducibility;
+   workflow automation
+ER
+
+PT S
+ID RICIAN NOISE; MRI
+ER
+
+PT B
+DE diffusion tensor imaging(DTI); deterministic fiber tracking;
+   probabilistic fiber tracking; number of diffusion gradient
+   directions(NDGDs)
+ID NOISE; COMPUTATION; BUNDLE; DTI
+ER
+
+PT S
+DE Tensor voting; spherical clustering; DTI
+ER
+
+PT J
+ID DIFFUSION TENSOR IMAGES; DEFORMABLE REGISTRATION; MUTUAL INFORMATION;
+   WILD BOOTSTRAP; BRAIN; MRI; COREGISTRATION; ORIENTATION; TEMPLATE
+ER
+
+PT J
+DE Diffusion tensor imaging; compressed sensing; low rank; sparsity
+   constraint
+ID RECONSTRUCTION; MRI
+ER
+
+PT S
+ID IMAGE-BASED ESTIMATION; DIFFUSION; VALIDATION; FIELD; MODEL
+ER
+
+PT S
+DE White Matter; Tract-Based Spatial Statistics; Registration; Diffusion
+   Tensor Imaging; DTI Atlas Builder
+ER
+
+PT S
+DE Diffusion Tensor Imaging (DTI); Tractography; Dijkstra's minimum-cost
+   path
+ER
+
+PT J
+DE Diffusion tensor imaging; Free-water corrected DTI; Major depressive
+   disorder; Tract-based spatial statistics; Fractional anisotropy; Axial
+   diffusivity
+ID WHITE-MATTER; HIPPOCAMPAL VOLUME; CORPUS-CALLOSUM; MRI; BRAIN;
+   METAANALYSIS; DISORDER; AMYGDALA; SCHIZOPHRENIA; DEMYELINATION
+ER
+
+PT J
+DE Glyph Design; Comparative Visualization; Diffusion Tensor Field
+ID FLOW VISUALIZATION; 2ND-ORDER TENSORS; MRI; SCHEMES; UNCERTAINTY; IMAGES
+ER
+
+PT J
+DE Cervical spinal cord; Diffusion tensor imaging; Normal database; DTI
+   indices; Gender and age-related change
+ID SPONDYLOTIC MYELOPATHY; ANISOTROPY; INJURY; MRI; ABNORMALITIES
+ER
+
+PT J
+DE Unipolar; bipolar; DTI; reproducibility; mean value
+ID PRINCIPAL EIGENVECTOR MEASUREMENTS; EDDY-CURRENT ARTIFACTS; BRAIN
+   WHITE-MATTER; FRACTIONAL ANISOTROPY; ECHO TIME; B-VALUE; TISSUES;
+   IMAGES; 1.5T; MRI
+ER
+
+PT J
+DE Diffusion-weighted imaging; Functional magnetic resonance imaging;
+   Diffusion tensor imaging; Alzheimer's disease; Mild cognitive impairment
+ID TENSOR IMAGING DTI; SCHIZOPHRENIA
+ER
+
+PT J
+DE Diffusion tensor imaging; Diffusion-weighted imaging; Magnetic resonance
+   imaging; Brain; Children
+ID FOCAL CORTICAL DYSPLASIA; WHITE-MATTER; FIBER TRACTOGRAPHY; CALLOSAL
+   DYSGENESIS; BRAIN-DEVELOPMENT; CORPUS-CALLOSUM; SELF-DIFFUSION;
+   SPIN-ECHO; MRI; MALFORMATIONS
+ER
+
+PT J
+DE magnetic resonance imaging; diffusion tensor imaging; diffusion magnetic
+   resonance imaging; hydrocephalus; endoscopic third ventriculostomy
+ID HUMAN BRAIN; ARTICLE
+ER
+
+PT J
+DE Magnetic resonance imaging; Diffusion weighted imaging; Diffusion tensor
+   imaging; Uterus
+ER
+
+PT J
+DE Skeletal muscle; Blood-oxygen-level-dependent MR imaging; Arterial spin
+   labeling; Diffusion-weighted imaging; Diffusion-tensor imaging;
+   Peripheral arterial occlusive disease; Soft-tissue and bone tumors
+ID HUMAN SKELETAL-MUSCLE; DIFFUSION-TENSOR MRI; ARTERIAL OCCLUSIVE DISEASE;
+   SOFT-TISSUE TUMORS; SPIN-LABELING PERFUSION; BLOOD-OXYGEN LEVEL;
+   PERCUTANEOUS TRANSLUMINAL ANGIOPLASTY; HUMAN CALF MUSCLE; WHOLE-BODY
+   MRI; BOLD-MRI
+ER
+
+PT J
+DE Concussion; Functional magnetic resonance imaging; Diffusion tensor
+   imaging; Functional connectivity; White matter; Fiber tracts
+ID SPORTS-RELATED CONCUSSION; DEFAULT-MODE NETWORK; AXONAL INJURY;
+   STRUCTURAL CONNECTIVITY; MILITARY PERSONNEL; SEX-DIFFERENCES; SUBACUTE
+   PHASE; HEAD TRAUMA; IN-VIVO; ABNORMALITIES
+ER
+
+PT J
+DE diffusion tensor imaging; MRI; peripheral nerves; MRN
+ID CARPAL-TUNNEL-SYNDROME; MEDIAN NERVE; IN-VIVO; FIBER TRACTOGRAPHY; 3 T;
+   MRI; DTI; REGENERATION; VISUALIZATION; FEASIBILITY
+ER
+
+PT J
+DE alpha-synuclein; diffusion tensor imaging; DTI; dopamine; MRI;
+   Parkinson's; PET
+ER
+
+PT J
+DE Magnetic resonance imaging (MRI); Diffusion tensor imaging (DTI);
+   Diffusion anisotropy; Anisotropic diffusion phantom; Matrix b; Diffusion
+   tensor; B-matrix spatial distribution; Cross-terms
+ID DIFFUSION-TENSOR MRI; MAGNETIC-FIELD GRADIENT; SPINAL-CORD-INJURY;
+   IN-VIVO; WATER DIFFUSION; WHITE-MATTER; FIBER-ORIENTATION; HUMAN BRAIN;
+   QUANTITATIVE ASSESSMENT; FRACTIONAL ANISOTROPY
+ER
+
+PT J
+DE magnetic resonance imaging; diffusion tensor imaging (DTI);
+   susceptibility tensor imaging (STI); quantitative susceptibility
+   mapping; gradient multi-echo (GRME); tractography; mouse nephron tubule
+ID MAGNETIC-RESONANCE HISTOLOGY; IN-VIVO; PHASE-CONTRAST; MR MICROSCOPY; 7
+   T; DIFFUSION; BRAIN; RAT; NEPHROPATHY; ANISOTROPY
+ER
+
+PT J
+DE Diffusion tensor imaging (DTI); Narcissistic personality disorder;
+   Voxel-based morphometry (VBM)
+ER
+
+PT J
+DE robust estimation; outliers; diffusion MRI; DTI; DKI; linear
+ID RICIAN NOISE MODEL; TENSOR MRI DATA; DIFFUSION TENSOR; LEAST-SQUARES;
+   PHYSIOLOGICAL NOISE; OUTLIER REJECTION; REGRESSION; IMAGES; ARTIFACTS;
+   PITFALLS
+ER
+
+PT J
+DE magnetic resonance imaging; cranial ultrasound; neurodevelopmental
+   outcome; diffusion tensor imaging (DTI); tractography
+ID PRETERM INFANTS; TRACTOGRAPHY
+ER
+
+PT S
+ID DIFFUSION TENSOR; RESOLUTION; CALCULUS; MRI; SEGMENTATION; FRAMEWORK;
+   SIGNAL
+ER
+
+PT S
+DE Diffusion tensor Imaging - DTI; DiffusionKurtosis Imaging - DKI; mean
+   kurtosis - MK; mean diffusivity - MD; fractional isotropy - FA; white
+   matter; gray matter; Tract Based Spacial Statistics - TBSS; age
+   dependence; sex dependence
+ID LOBE
+ER
+
+PT S
+ID DT-MRI; APPROXIMATION; FEATURES
+ER
+
+PT J
+DE Diffusion weighted imaging; Constrained spherical deconvolution;
+   Diffusion tensor imaging; Motor outcome; Stroke
+ID MOTOR FUNCTION-TEST; CORTICOSPINAL TRACT; WALLERIAN DEGENERATION;
+   PYRAMIDAL TRACT; INTRACEREBRAL HEMORRHAGE; SPHERICAL DECONVOLUTION;
+   SUBCORTICAL STROKE; SERIAL DIFFUSION; ISCHEMIC-STROKE; HUMAN BRAIN
+ER
+
+PT S
+ID DIFFUSION TENSOR
+ER
+
+PT S
+ID DIFFUSION
+ER
+
+PT S
+ID DIFFUSION TENSOR; SPIN-ECHO; GRADIENT
+ER
+
+PT J
+DE diffusion tensor imaging; intersite; reliability; reproducibility;
+   tract-based spatial statistics
+ID ANISOTROPY; BRAIN; REPRODUCIBILITY
+ER
+
+PT S
+DE DTI - DKI Fitting : A graphical toolbox for estimation and visualization
+   of Diffusion tensor and Diffusion kurtosis Imaging
+ID GAUSSIAN WATER DIFFUSION; APPEARING WHITE-MATTER; FRONTAL-LOBE; BRAIN;
+   DISEASE; GRAY
+ER
+
+PT S
+DE magnetic resonance imaging; diffusion tensor imaging; brain development;
+   white matter; myelination; infancy
+ID WHITE-MATTER DEVELOPMENT; HUMAN FETAL-BRAIN; LOW-BIRTH-WEIGHT;
+   MAGNETIZATION-TRANSFER RATIO; ANISOTROPIC WATER DIFFUSION; VISUOSPATIAL
+   WORKING-MEMORY; NERVOUS-SYSTEM MYELINATION; PREMATURELY BORN CHILDREN;
+   CORPUS-CALLOSUM SIZE; MULTIPLE-SCLEROSIS
+ER
+
+PT J
+DE Neurosurgery; Outcome; Diffusion tensor imaging; Brain mapping
+ID WHITE-MATTER; IN-VIVO; SUPRATENTORIAL GLIOMAS; CORTICOSPINAL TRACT;
+   PYRAMIDAL TRACT; WEIGHTED MRI; DT-MRI; RESECTION; LANGUAGE; TRACKING
+ER
+
+PT J
+DE Diffusion tensor imaging; Fiber tractography; Children; Neuroimaging;
+   Brain malformations; Axonal guidance disorders
+ID JOUBERT-SYNDROME; CORPUS-CALLOSUM; TRACTOGRAPHY; SPECTRUM; MIDLINE
+ER
+
+PT J
+DE Diffusion tensor imaging; Tractography; Glioma; Neuronavigation
+ID WHITE-MATTER TRACTS; MAGNETIC-RESONANCE TRACTOGRAPHY; INTEGRATED
+   FUNCTIONAL NEURONAVIGATION; SUBCORTICAL ELECTRICAL-STIMULATION;
+   SPACE-OCCUPYING LESIONS; TEMPORAL-LOBE RESECTION; FIBER-TRACKING;
+   CORTICOSPINAL TRACT; PYRAMIDAL TRACT; WATER DIFFUSION
+ER
+
+PT J
+DE Diffusion tensor imaging; Sural nerve; Fractional anisotropy; Image
+   registration
+ID PRINCIPAL EIGENVECTOR MEASUREMENTS; CARPAL-TUNNEL-SYNDROME; MEDIAN
+   NERVE; FRACTIONAL ANISOTROPY; PERIPHERAL-NERVES; MEAN DIFFUSIVITY;
+   WHITE-MATTER; TRACTOGRAPHY; REPRODUCIBILITY; SCHEMES
+ER
+
+PT J
+DE diffusion tensor imaging; denoising; non-local mean
+ID MRI; NOISE; CONNECTIVITY
+ER
+
+PT J
+DE Diffusion tensor imaging (DTI); Graphics processing unit (GPU);
+   Nonlinear diffusion tensor estimation; Levenberg-Marquardt algorithm;
+   High performance clusters; Load balance
+ID ROBUST ESTIMATION; HUMAN BRAIN; MRI; VISUALIZATION; CONNECTIVITY;
+   PARAMETERS; HARDWARE; RESTORE; TISSUES; ECHO
+ER
+
+PT J
+ID FIBER TRACKING; GLIOMAS; TRACTOGRAPHY; RESECTION; SURGERY
+ER
+
+PT J
+DE Advanced MR imaging; Clinical applications; Diffusion tensor imaging;
+   DTI
+ID MIDDLE LONGITUDINAL FASCICULUS; GRADE II GLIOMAS; FIBER DISSECTION;
+   HUMAN BRAIN; TRACTOGRAPHY; TRACKING; ANATOMY; TERMINATIONS; STIMULATION;
+   BUNDLE
+ER
+
+PT J
+DE anterior cruciate ligament; graft; magnetic resonance imaging; diffusion
+   tensor imaging
+ID DOUBLE BUNDLE STRUCTURE; FIBER TRACTOGRAPHY; 3 T; RECONSTRUCTION;
+   MUSCLE; REPRODUCIBILITY; FEASIBILITY; PRINCIPLES; AGREEMENT; TRACKING
+ER
+
+PT J
+DE progressive multifocal leukoencephalopathy; DTI
+ER
+
+PT J
+DE Diffusion tensor MRI; Interpolation; Spectral decomposition; Anisotropy;
+   Quaternions; Riemannian manifold
+ID POSITIVE SEMIDEFINITE MATRICES; DIFFUSION TENSOR IMAGES; LOG-EUCLIDEAN
+   METRICS; GEOMETRIC MEANS; DEFORMABLE REGISTRATION; RIEMANNIAN FRAMEWORK;
+   DEFINITE MATRICES; MRI; ORIENTATION; STATISTICS
+ER
+
+PT J
+DE Array spatial sensitivity encoding technique; B value; Diffusion
+   gradient directions; Diffusion tensor imaging; Spatial resolution
+ID ENCODING DIRECTIONS; COEFFICIENT; ANISOTROPY; MRI; SCLEROSIS; TRACKING;
+   NUMBER; TUMORS
+ER
+
+PT S
+ID MR-IMAGES; REGISTRATION; ATLAS
+ER
+
+PT S
+ID DIFFUSION; SCHIZOPHRENIA; ANISOTROPY
+ER
+
+PT J
+DE diffusion; magnetic resonance imaging; Gaussian; non-Gaussian
+ID TENSOR
+ER
+
+PT J
+DE Diffusion tensor imaging; Fractional anisotropy; Spinal cord; Spinal
+   cord injury
+ID ANISOTROPIC WATER DIFFUSION; APPEARING WHITE-MATTER; BROWN-SEQUARD
+   SYNDROME; IN-VIVO; EVOKED-POTENTIALS; FIBER TRACKING;
+   QUANTITATIVE-DIFFUSION; FRACTIONAL ANISOTROPY; MULTIPLE-SCLEROSIS; AXIAL
+   DIFFUSION
+ER
+
+PT J
+DE Diffusion tensor imaging; Tractography; Corticospinal tract; Motor
+   function; Muscle strength
+ID FIBER-TRACKING; PYRAMIDAL TRACT; GLIOMAS; STIMULATION; TUMOR
+ER
+
+PT J
+DE Anatomical accuracy; Brain mapping; DTI; Navigation; Surgery
+ID GRADE-II GLIOMAS; LONGITUDINAL FASCICULUS; FUNCTIONAL CONSIDERATIONS;
+   LANGUAGE PATHWAYS; FIBER-TRACKING; STIMULATION; TERMINATIONS;
+   DISSECTION; PLASTICITY; HEMISPHERE
+ER
+
+PT S
+DE DTI; review; smart software; brain analysis; neuroimaging
+ID VOXEL-BASED MORPHOMETRY; DIFFUSION; MRI
+ER
+
+PT J
+DE Diffusion tensor imaging; Magnetic resonance imaging; Traumatic brain
+   injury
+ID CHRONIC TRAUMATIC ENCEPHALOPATHY
+ER
+
+PT J
+DE Diffusion tensor imaging; Magnetic resonance imaging; Traumatic brain
+   injury
+ID TRAUMATIC BRAIN-INJURY
+ER
+
+PT J
+DE Diffusion tensor imaging; Magnetic resonance imaging; Traumatic brain
+   injury
+ER
+
+PT J
+DE Diffusion tensor imaging; Spatial regression; Permutation resampling;
+   Longitudinal DTI of a single individual; White matter
+ID FALSE DISCOVERY RATE; HUMAN BRAIN; ACTIVATION; IMAGES; DTI; MRI
+ER
+
+PT J
+DE Diffusion tensor imaging; Mouse brain; In vivo; High-resolution; Mouse
+   brain; Brain atlas; Magnetic resonance imaging
+ID MAGNETIC-RESONANCE MICROSCOPY; DIGITAL ATLAS DATABASE; FIBER TRACKING;
+   ANATOMICAL CHARACTERIZATION; COMPUTED TOMOGRAPHY; NERVOUS-TISSUE;
+   C57BL/6J MICE; RF PROBE; MRI; ANISOTROPY
+ER
+
+PT J
+DE diffusion; DTI; multiple-modulation multiple echo
+ID PULSED-FIELD-GRADIENT; MUSCLE-FIBER TRACKING; STATE FREE PRECESSION;
+   MAGNETIC-RESONANCE; SPIN-ECHO; SAMPLING SCHEMES; PHASE CORRECTION;
+   SKELETAL-MUSCLE; NMR EXPERIMENTS; SHOT METHOD
+ER
+
+PT J
+ID WATER DIFFUSION; TENSOR; PARAMETERS; MRI
+ER
+
+PT J
+DE Diffusion tensor imaging; Carpal tunnel syndrome; Median nerve;
+   Fibrosis; Precision grip
+ID WHITE-MATTER PATHOLOGY; EXPERIMENTAL-MODEL; GRIP FORCE; VALUES; HEALTHY;
+   TRACTOGRAPHY; CONDUCTION; RELEASE; MRI; AGE
+ER
+
+PT J
+DE DTI reconstruction; k-space average; Image-space average; In vivo DTI;
+   Mouse brain
+ID RETINAL ISCHEMIA; MOTION ARTIFACTS; OPTIC-NERVE; SPIN-ECHO; DIFFUSION;
+   MRI; DEGENERATION; DAMAGE
+ER
+
+PT J
+DE diffusion coefficient; diffusion anisotropy; diffusion tensor imaging;
+   ellipsoidal geometric ratio
+ID HUMAN CEREBRAL-CORTEX; AUDITORY-CORTEX; TENSOR MRI; SURFACE; RESOLUTION;
+   IMAGES; BRAIN; ORDER
+ER
+
+PT J
+ID MAGNETIC-RESONANCE IMAGES; DEFORMABLE REGISTRATION; NONRIGID
+   REGISTRATION; AFFINE REGISTRATION; BRAIN IMAGES; OPTIMIZATION; ROBUST;
+   FRAMEWORK; ACCURATE
+ER
+
+PT J
+DE cranial nerves; diffusion-tensor imaging; peripheral nerves;
+   tractography
+ID HUMAN OPTIC-NERVE; FIBER TRACKING; MEDIAN NERVE; VESTIBULAR SCHWANNOMAS;
+   MULTIPLE-SCLEROSIS; HIGH-RESOLUTION; FACIAL-NERVE; 3 T; TRACTOGRAPHY; MR
+ER
+
+PT J
+DE Diffusion tensor imaging; B-value; Myocardium infarction
+ID ISCHEMIA-REPERFUSION INJURY; MAGNETIC-RESONANCE; HUMAN BRAIN; FIBER
+   ARCHITECTURE; IN-VIVO; HISTOLOGICAL VALIDATION; WATER DIFFUSION; PORCINE
+   MODEL; INFARCTION; HEARTS
+ER
+
+PT J
+DE Renal diffusion; Diffusion tensor imaging; Anisotropic diffusion;
+   Diffusion-weighted magnetic resonance imaging; Chronic renal diseases
+ID GLOMERULAR-FILTRATION-RATE; DIABETIC-NEPHROPATHY; SERUM CREATININE;
+   RENAL-DISEASE; COEFFICIENT; MRI; FEASIBILITY; EXPERIENCE
+ER
+
+PT J
+DE Diffusion tensor imaging (DTI); White matter tracts; Projection fibers;
+   Association Fibers; Commissural fibers
+ID DIFFUSION TENSOR TRACTOGRAPHY; HUMAN BRAIN; LONGITUDINAL FASCICLE;
+   IN-VIVO; DT-MRI; TRACT; HUMANS; ATLAS; LOOP
+ER
+
+PT J
+DE brain mapping; diffusion tensor imaging; glioma; connectome
+ID CEREBRAL WHITE-MATTER; GRADE-II GLIOMAS; FIBER TRACKING; PYRAMIDAL
+   TRACT; BRAIN-TUMORS; CLINICAL ARTICLE; IN-VIVO; FUNCTIONAL
+   NEURONAVIGATION; INITIAL-EXPERIENCE; TRACTOGRAPHY
+ER
+
+PT J
+ID NEUROVASCULAR COMPRESSION; ABNORMALITIES
+ER
+
+PT J
+DE Diffusion scalar maps; Diffusion tensor imaging; Mathematical
+   morphology; Segmentation; Watershed; Corpus Callosum
+ID IMAGE FORESTING TRANSFORM; DTI SEGMENTATION; MORPHOLOGICAL GRADIENT;
+   THALAMIC NUCLEI; COLOR IMAGES; MR-IMAGES; FRAMEWORK; ANISOTROPY;
+   WATERSHEDS; CALCULUS
+ER
+
+PT J
+DE DTI estimation; Variational principle; Non-local means; Total
+   Kullback-Leibler divergence; Diffusion MRI; Limited memory quasi-Newton
+   method
+ID MAGNETIC-RESONANCE IMAGES; DIFFUSION TENSOR IMAGES; RICIAN NOISE
+   REMOVAL; NONLOCAL MEANS; GROUPWISE REGISTRATION; TISSUE SEGMENTATION;
+   FIBER TRACKING; MR-IMAGES; BRAIN; FRAMEWORK
+ER
+
+PT S
+ID IMAGES; REGISTRATION; FRAMEWORK; BRAIN
+ER
+
+PT B
+DE diffusion tensor imaging (DTI); number of diffusion gradient direction
+   (NDGD); deterministic fiber tracking; anisotropy indices
+ID TRACTOGRAPHY; BRAIN; TRACT; MATHEMATICS
+ER
+
+PT B
+DE diffusion tensor imaging; shearlet; complex diffusion; denoising
+ER
+
+PT S
+DE diffusion tensor imaging; rotating interpolated compressed sensing
+ID MRI
+ER
+
+PT S
+DE diffusion tensor imaging (DTI); nonlinear diffusion tensor estimation;
+   Levenberg-Marquardt algorithm; GPU; high performance clusters
+ID HUMAN BRAIN; PARAMETERS; TISSUES; ECHO; MRI
+ER
+
+PT J
+DE cerebral white matter; diffusion tensor analysis; neuroimaging
+ID WHITE-MATTER ABNORMALITIES; POSTTRAUMATIC-STRESS-DISORDER; MAJOR
+   DEPRESSIVE DISORDER; VOXEL-BASED MORPHOMETRY; BIPOLAR DISORDER; MOOD
+   DISORDERS; VOLUME REDUCTION; YOUNG-ADULTS; SCHIZOPHRENIA; BRAIN
+ER
+
+PT J
+DE Diffusion tensor imaging (DTI); MRI; Normal development
+ID WHITE-MATTER DEVELOPMENT; NERVOUS-SYSTEM MYELINATION; VOXEL-BASED
+   MORPHOMETRY; DEVELOPING MOUSE-BRAIN; HUMAN CEREBRAL-CORTEX;
+   AGE-RELATED-CHANGES; MAGNETIC-RESONANCE; GRAY-MATTER; PERIVENTRICULAR
+   LEUKOMALACIA; POSTNATAL-DEVELOPMENT
+ER
+
+PT J
+DE MRI; Diffusion tensor imaging; Fiber tractography; Brain malformations;
+   Children
+ID TEGMENTAL CAP DYSPLASIA; HORIZONTAL GAZE PALSY; DANDY-WALKER
+   MALFORMATION; CENTRAL-NERVOUS-SYSTEM; FOCAL CORTICAL DYSPLASIA;
+   CHIARI-II-MALFORMATION; OF-THE-LITERATURE; SPINA-BIFIDA
+   MYELOMENINGOCELE; CEREBELLAR VERMIS APLASIA; CORPUS-CALLOSUM AGENESIS
+ER
+
+PT J
+DE Fibertracking; DTI; structural connectivity; autism spectrum disorders;
+   whole brain analysis; mean diffusivity; fractional anisotropy
+ID VOXEL-BASED MORPHOMETRY; DT-MRI DATA; WHITE-MATTER; HUMAN BRAIN;
+   IN-VIVO; FUNCTIONAL CONNECTIVITY; NEURAL PATHWAYS; AXONAL TRACKING;
+   FIBER TRACKING; TRACTOGRAPHY
+ER
+
+PT S
+DE Diffusion Tensor Imaging (DTI); Diffusion weighted (DW) image; Non
+   linear adaptive gaussian method; Peak signal-to-noise ratio (PSNR); Mean
+   structural similarity index measure (MSSIM)
+ER
+
+PT J
+DE diffusion tensor imaging; hitchhiker's guide; acquisition; analysis;
+   processing
+ID CEREBRAL WHITE-MATTER; TO-NOISE RATIO; HUMAN BRAIN; EDDY-CURRENT;
+   FRACTIONAL ANISOTROPY; FIBER TRACTOGRAPHY; SPIN-ECHO; SPATIAL
+   NORMALIZATION; WHOLE-BRAIN; MRI DATA
+ER
+
+PT J
+DE Brain tumor; diffusion tensor imaging; fiber tracking; magnetic
+   resonance imaging; MEG; white matter fiber
+ID MAGNETIC-RESONANCE IMAGES; APPEARING WHITE-MATTER; WATER DIFFUSION;
+   ISCHEMIC-STROKE; MULTIPLE-SCLEROSIS; CEREBRAL-ISCHEMIA; RAT-BRAIN;
+   AXONAL PROJECTIONS; TIME; AGE
+ER
+
+PT J
+DE visual pathway; human; diffusion tensor imaging; diffusion tensor
+   tractography
+ID FIBER TRACTOGRAPHY; OPTIC-NERVE; IN-VIVO; MR; RESOLUTION
+ER
+
+PT J
+DE diffusion tensor imaging; rodent; brain; spinal cord; neuroanatomy
+ID MICRO-COMPUTED TOMOGRAPHY; TRAUMATIC AXONAL INJURY; DEVELOPING
+   MOUSE-BRAIN; RAT SPINAL-CORD; CORPUS-CALLOSUM; WALLERIAN DEGENERATION;
+   ANATOMICAL CHARACTERIZATION; FRACTIONAL ANISOTROPY; RETINAL ISCHEMIA;
+   FIBER TRACKING
+ER
+
+PT J
+DE White matter myelination; Diffusion tensor imaging; Paediatric brain
+ID NERVOUS-SYSTEM MYELINATION; HUMAN INFANCY; BRAIN; SEQUENCE
+ER
+
+PT J
+DE diffusion tensor imaging; spinal cord injury; degenerative myelopathy
+ID FIBER TRACKING; MULTIPLE-SCLEROSIS; TRACTOGRAPHY; MYELOPATHY; INJURY
+ER
+
+PT J
+DE Diffusion tensor imaging; DTI; Anxiety disorders; Neurocircuitry; Panic
+   disorder; Social anxiety disorder; Generalized anxiety disorder;
+   Post-traumatic stress disorder; Obsessive-compulsive disorder;
+   Internalizing disorders; Trait anxiety
+ID OBSESSIVE-COMPULSIVE DISORDER; POSTTRAUMATIC-STRESS-DISORDER;
+   WHITE-MATTER ABNORMALITIES; ANTERIOR CINGULATE CORTEX; PANIC DISORDER;
+   CORPUS-CALLOSUM; NAIVE PATIENTS; SOCIAL PHOBIA; CONNECTIVITY; INTEGRITY
+ER
+
+PT J
+DE diffusion tensor imaging; hydrocephalus; endoscopic third
+   ventriculostomy; neuropsychological outcome
+ID ETV SUCCESS SCORE; WHITE-MATTER; CLINICAL ARTICLE; CHILDHOOD
+   HYDROCEPHALUS; CORPUS-CALLOSUM; CHILDREN; DEGENERATION; PRETERM; SHUNT;
+   SIZE
+ER
+
+PT J
+ID WHITE-MATTER MICROSTRUCTURE; HUMAN BRAIN; MRI DATA; IN-VIVO;
+   CEREBRAL-ISCHEMIA; WATER DIFFUSION; TRACTOGRAPHY; CONNECTIONS;
+   ANISOTROPY; CORTEX
+ER
+
+PT J
+DE Diffusion tensor imaging; Real-time processing; Optimal sequential
+   estimation; Best linear unbiased estimator (BLUE); Log-Rician
+   distribution
+ID FIBER ORIENTATION DISTRIBUTIONS; SPHERICAL DECONVOLUTION; Q-SPACE; MRI;
+   RESOLUTION; GRADIENT; MODEL; DWI; SIGNAL; ARRAY
+ER
+
+PT J
+DE Diffusion tensor (DT); DT imaging (DTI); DT interpolation; Interpolation
+   profile control; Riemannian geodesic
+ID STATISTICAL-ANALYSIS; WHITE-MATTER; HUMAN BRAIN; IMAGES; DTI; MRI;
+   CONNECTIVITY; FRAMEWORK; CALCULUS
+ER
+
+PT J
+DE Susceptibility tensor imaging; Tractography; Magnetic susceptibility
+   anisotropy; Phase imaging; Diffusion tensor imaging
+ID ANISOTROPIC WATER DIFFUSION; HIGH-FIELD; MAGNETIC-SUSCEPTIBILITY;
+   SPATIAL VARIATION; NERVOUS-SYSTEM; WEIGHTED MRI; HUMAN BRAIN; PHASE;
+   ORIENTATION; CONTRAST
+ER
+
+PT S
+ID TENSOR MRI; TRACTOGRAPHY
+ER
+
+PT B
+DE Diffusion tensor imaging (DTI); model-based (MB) method; joint sparsity
+   constraint; distributed compressed sensing
+ID RECONSTRUCTION; MRI
+ER
+
+PT B
+DE Diffusion tensor imaging; T1-weighted (T1w) MRI; multi-contrast
+   registration; diffeomorphic demons
+ER
+
+PT J
+DE Traumatic brain injury; diffusion tensor imaging; neurorehabilitation
+ID WHITE-MATTER INTEGRITY; CLOSED-HEAD INJURY; AXONAL INJURY;
+   CORPUS-CALLOSUM; MILD; ABNORMALITIES; MODERATE; PLASTICITY; DYSFUNCTION;
+   IMPAIRMENT
+ER
+
+PT S
+DE Diffusion Tensor Imaging; Registration; Motion; Eddy current;
+   Distortion; Affine
+ID EDDY-CURRENT; DISTORTIONS; IMAGES; MOTION; ARTIFACTS; BRAIN
+ER
+
+PT J
+DE posterior fossa; brain tumors; children; magnetic resonance imaging;
+   diffusion weighted imaging; diffusion tensor imaging
+ID BRAIN-STEM TUMORS; LHERMITTE-DUCLOS-DISEASE; CENTRAL-NERVOUS-SYSTEM;
+   HIPPEL-LINDAU-DISEASE; CEREBELLAR ASTROCYTOMAS; NEUROFIBROMATOSIS
+   TYPE-1; INTRACRANIAL EPENDYMOMAS; PILOCYTIC ASTROCYTOMA;
+   PROGNOSTIC-FACTORS; EPIDERMOID TUMORS
+ER
+
+PT S
+ID ACTIVE CONTOURS; EVOLUTION
+ER
+
+PT S
+DE Diffusion tensor imaging; magnetic resonance imaging; interpolation;
+   diffusion weighted image; tensor field interpolation; fiber tractography
+ID TENSOR; FRAMEWORK; CALCULUS
+ER
+
+PT J
+DE Diffusion tensor imaging; Diffusion spectrum imaging; Diffusion
+   kurtosis; Quantification; Tractography; Segmentation; Connectivity;
+   Brain mapping; DTI; DSI; DKI; Q-ball; HYDI; Atlas; AFNI; ICBM; TBSS;
+   VBA; SPM; Free Surfer; FSL; DTI software
+ID WHITE-MATTER ANATOMY; PRINCIPAL EIGENVECTOR MEASUREMENTS; TEMPORAL-LOBE
+   EPILEPSY; NON-GAUSSIAN DIFFUSION; HUMAN BRAIN; WEIGHTED MRI; FRACTIONAL
+   ANISOTROPY; THEORETICAL-ANALYSIS; ACQUISITION SCHEMES; APPARENT
+   DIFFUSION
+ER
+
+PT J
+DE Diffusion tensor imaging; Tractography; Diffusion weighted imaging
+ID MILD COGNITIVE IMPAIRMENT; WHITE-MATTER DAMAGE; CORTICOSPINAL TRACT;
+   HUMAN BRAIN; FIBER TRACTOGRAPHY; ALZHEIMER-DISEASE; MR TRACTOGRAPHY;
+   RAT-BRAIN; ANISOTROPY; TRACKING
+ER
+
+PT J
+DE Diffusion tensor imaging; Mild traumatic brain injury;
+   Neuropsychological testing; Neurophysiological testing
+ID COMMON DATA ELEMENTS; WHITE-MATTER INJURY; AXONAL INJURY; ABNORMALITIES;
+   DYSFUNCTION; INTEGRITY
+ER
+
+PT J
+DE DTI; HARDI; diffusion; GPU; glyphs; multifield
+ID DIFFUSION MRI; RESOLUTION
+ER
+
+PT J
+DE Renal diffusion; Xanthogranulomatous pyelonephritis; Diffusion tensor
+   imaging; Anisotropic diffusion; Diffusion-weighted magnetic resonance
+   imaging
+ID KIDNEY; COEFFICIENT; EXPERIENCE
+ER
+
+PT J
+DE Riemann geometry; Diffusion tensor imaging; Ricci scalar; Finsler
+   geometry; High angular resolution diffusion imaging
+ID ANISOTROPY; MRI
+ER
+
+PT J
+DE Diffusion tensor imaging (DTI); Tensor estimation; Noise; MRI
+ID HUMAN BRAIN; WHITE-MATTER; MRI DATA; ANISOTROPY; TRACKING; ORIENTATION;
+   DTI; SPECTROSCOPY; DISSECTION; STRATEGIES
+ER
+
+PT J
+DE Diffusion tensor imaging; MRI; Spinal cord; Cramer-Rao lower bound;
+   Rician noise; Optimization
+ID WHITE-MATTER; ENCODING-SCHEMES; FIBER TRACKING; MRI; DTI; PARAMETERS;
+   ANISOTROPY; SCLEROSIS
+ER
+
+PT J
+DE Glioblastoma; spinal cord; perfusion; diffusion tensor imaging
+ID TUMEFACTIVE DEMYELINATING LESIONS; FIBER TRACKING; TUMORS; ASTROCYTOMAS;
+   SPECTROSCOPY; GLIOMA
+ER
+
+PT J
+DE diffusion tensor imaging (DTI); voxel-based analysis (VBA); white
+   matter; pathophysiology
+ER
+
+PT J
+DE corpus callosum agenesis; fetal MRI; diffusion tensor imaging
+ER
+
+PT J
+DE Diffusion Tensor MRI; DTI; Brain imaging; Tractography; Review
+ID WHITE-MATTER TRACTOGRAPHY; LIVING HUMAN BRAIN; WATER DIFFUSION;
+   NERVOUS-SYSTEM; MRI DATA; TRACTS; DTI; TRACKING; ATLAS; VISUALIZATION
+ER
+
+PT J
+DE Brain tumor; Diffusion tensor imaging; Fiber tracking; Tractography;
+   Mapping; Neurosurgery
+ID WHITE-MATTER TRACTS; FUNCTIONAL MAGNETIC-RESONANCE; TENSOR FIBER
+   TRACTOGRAPHY; TEMPORAL-LOBE EPILEPSY; VISUAL-FIELD DEFICITS; HUMAN
+   BRAIN; OPTIC RADIATION; IN-VIVO; PYRAMIDAL TRACT; INITIAL-EXPERIENCE
+ER
+
+PT J
+DE Brain shift; Functional navigation; Multimodal navigation;
+   Intraoperative functional magnetic resonance; Intraoperative diffusion
+   tensor imaging
+ID FUNCTIONAL MAGNETIC-RESONANCE; BRAIN-TUMOR RESECTION; WHITE-MATTER
+   TRACTS; FIBER-TRACKING; PYRAMIDAL TRACT; SUPRATENTORIAL GLIOMAS;
+   INITIAL-EXPERIENCE; MR-IMAGES; DIFFUSION; NEURONAVIGATION
+ER
+
+PT J
+DE Diffusion tensor imaging; Fast marching; Brain connectivity analysis;
+   Fiber tracking; Tractography
+ID SMALL-WORLD NETWORKS; FIBER DISSECTION; CEREBRAL-CORTEX; WEIGHTED MRI;
+   WHITE-MATTER; GRAPH-THEORY; TRACTOGRAPHY; TRACKING; CAT; SEGMENTATION
+ER
+
+PT J
+ER
+
+PT J
+DE Diffusion tensor imaging (DTI); imaging gradients; optimization
+ID WHITE-MATTER PATHOLOGY; ACQUISITION SCHEMES; FIELD GRADIENT; SPIN
+   ECHOES; HUMAN BRAIN; MRI; ANISOTROPY; NOISE; DTI; STRATEGIES
+ER
+
+PT S
+ID EDGE-DETECTION
+ER
+
+PT S
+DE DTI; FA; bias; SIMEX; parameter estimation; bias correction; diffusion;
+   tensor; imaging
+ID NOISE
+ER
+
+PT S
+DE DTI; Compressive sensing
+ER
+
+PT J
+DE acquisition parameters; diffusion tensor imaging; diffusion-weighted
+   imaging; fractional anisotropy; Monte Carlo simulation
+ID HUMAN BRAIN; NMR-DIFFUSION; WEIGHTED MRI; WHITE-MATTER; GRADIENT;
+   STROKE; DISPLACEMENT; FRAMEWORK; SYSTEMS; DESIGN
+ER
+
+PT J
+DE Keyhole; Diffusion tensor imaging; DTI; Magnetic resonance keyhole
+   imaging; Reduced encoding
+ID EDDY-CURRENT ARTIFACTS; MRI; RESOLUTION
+ER
+
+PT J
+DE DWI/DTI; Up-sampling; Registration-based
+ID SPATIAL NORMALIZATION; INTERPOLATION METHODS
+ER
+
+PT J
+DE DTI; Diffusion tensor imaging; Spiral MRI; SNAILS; Spinal cord injury;
+   Cat; SCI
+ID COEFFICIENTS; RECOVERY; MODEL; ECHO
+ER
+
+PT J
+DE Diffusion tensor imaging (DTI); MRI; Tractography; Peripheral nerves;
+   Ulnar nerve
+ID CARPAL-TUNNEL-SYNDROME; WHITE-MATTER; MEDIAN NERVE; TRACTOGRAPHY; BRAIN;
+   SPECTROSCOPY; PATTERNS; MRI
+ER
+
+PT J
+DE Diffusion tensor imaging; Image registration; Tensor reorientation; Fast
+   marching
+ID NONRIGID REGISTRATION; WHITE-MATTER; MR-IMAGES; NORMALIZATION; FIELDS;
+   INFORMATION
+ER
+
+PT J
+DE MRI; DTI; diffusion weighted signal; diffusion tensor imaging; DKI;
+   diffusion kurtosis imaging; kurtosis; restricted diffusion; neural
+   tissue; tissue characterization
+ID NON-GAUSSIAN DIFFUSION; EXPERIMENTAL AUTOIMMUNE ENCEPHALOMYELITIS; AXON
+   DIAMETER DISTRIBUTION; DEVELOPING MOUSE-BRAIN; CEREBRAL WHITE-MATTER;
+   IN-VIVO; WATER DIFFUSION; RAT-BRAIN; WEIGHTED MRI; SPINAL-CORD
+ER
+
+PT J
+DE Diffusion tensor imaging; Arnold-Chiari malformation; Type III;
+   Corticospinal tracts; Congenital malformations; Nervous system;
+   Encephalocele; Occipital; Procedures; Neurosurgical
+ER
+
+PT J
+DE DTI; Motion; Image registration; MRI; Simulation; Reliability
+ID PRINCIPAL EIGENVECTOR MEASUREMENTS; ECHO-PLANAR IMAGES; WHITE-MATTER;
+   HUMAN BRAIN; MULTIPLE-SCLEROSIS; FRACTIONAL ANISOTROPY; TRACTOGRAPHY
+   METHODS; MOTION CORRECTION; MEAN DIFFUSIVITY; DTI DATA
+ER
+
+PT J
+DE Diffusion; Nerve; MRI; DTI; Axon regeneration; Axon degeneration;
+   Outcome measures; Clinical trials; Trauma; Nerve injury
+ID DIFFUSION-TENSOR MRI; POOR FUNCTIONAL RECOVERY; WALLERIAN DEGENERATION;
+   PERIPHERAL-NERVE; HUMAN BRAIN; CERVICAL CORD; WHITE-MATTER; SPINAL-CORD;
+   CONTRIBUTING FACTORS; WATER DIFFUSION
+ER
+
+PT J
+DE DTI; Non-human primate; Rhesus monkey; Fiber tractography; In vivo;
+   High-resolution
+ID DIFFUSION-TENSOR MRI; HUMAN BRAIN; FIELD INHOMOGENEITIES; DISTORTION
+   CORRECTION; GEOMETRIC DISTORTION; FIBER PATHWAYS; TRACTOGRAPHY; IMAGES;
+   TRACKING; ECHO
+ER
+
+PT S
+DE EEG/MEG; EIT; DTI
+ID DIFFUSION TENSOR; MRI
+ER
+
+PT S
+DE Diffusion Tensor Imaging; heart; muscular tissue; spatial normalization
+ID REGISTRATION
+ER
+
+PT S
+DE Riemannian manifold; diffusion tensor imaging; brain white matter
+   fibers; geodesic; Level-Set
+ID DIFFUSION
+ER
+
+PT S
+ID ATLAS CONSTRUCTION; MRI
+ER
+
+PT S
+DE Diffusion Weighted Imaging; Diffusion Tensor Imaging; Quality Control;
+   Intensity Artifact; Eddy Current Artifact; Motion Artifact
+ID TENSOR
+ER
+
+PT J
+DE Stroke; motor function; diffusion tensor imaging; hemiparesis
+ID CORTICOSPINAL TRACT; INTRACEREBRAL HEMORRHAGE; WHITE-MATTER; MR
+   TRACTOGRAPHY; EARLY-STAGE; SOMATOTOPIC ORGANIZATION; CEREBRAL-ISCHEMIA;
+   EVOKED-POTENTIALS; PYRAMIDAL TRACT; FIBER TRACKING
+ER
+
+PT J
+DE MRI; DTI; Rat; Spinal cord; Thoracic cord; Cervical cord; Phased array
+   coil; Auto-shimming; Anisotropic measures
+ID INJURY; MRI; COILS; ARRAY; ARTIFACTS; SCAN
+ER
+
+PT J
+DE diffusion tensor imaging; spike noise; outlier detection; ripple
+   artifact
+ID ECHO; IMAGES; MRI
+ER
+
+PT J
+DE DTI; diffusion tensor; tissue; region growing; clustering; segmentation;
+   classification; hypothesis testing; ROI; DWI; F-test
+ID DIFFUSION TENSOR MRI; HUMAN BRAIN; SEGMENTATION; CONNECTIVITY; TRACKING;
+   NUCLEI; IMAGES; MODEL
+ER
+
+PT J
+DE Template; DTI; Brain; Human; Normalization; Registration; Turboprop;
+   PROPELLER
+ID WHITE-MATTER ABNORMALITIES; SPATIAL NORMALIZATION; MRI DATA;
+   REGISTRATION; IMAGES; MICROSTRUCTURE; TRACTOGRAPHY; ANISOTROPY;
+   TURBOPROP; ATLAS
+ER
+
+PT J
+DE Diffusion tensor; magnetic resonance; DTI; denoising; shape-adaptive
+   DCT; regularization
+ID FIBER TRACKING; FIELD GRADIENT; SPIN ECHOES; DIFFUSION; MRI;
+   SCHIZOPHRENIA; SEGMENTS
+ER
+
+PT J
+DE Diffusion tensor imaging; Eigenvector shift; Background noise;
+   Eigenvalues; Overestimation; Artefacts; High b value
+ID DIFFUSION-TENSOR MRI; SAMPLING SCHEMES; RICIAN NOISE; HUMAN BRAIN; LOW
+   SNR; UNCERTAINTY; PARAMETERS; ANISOTROPY; FRAMEWORK; IMAGES
+ER
+
+PT J
+DE Diffusion tensor imaging (DTI); Diffusion anisotropy index (DAI);
+   Ellipsoidal area ratio (EAR); Fractional anisotropy (FA)
+ID NOISE; MRI; REGISTRATION; VALIDATION; CONTRAST; FEATURES; TISSUES;
+   IMAGES; FIELDS
+ER
+
+PT J
+DE DTI; Rhesus monkey; Fiber tractography; In vivo; High resolution
+ID HUMAN BRAIN; AXONAL PROJECTIONS; NONHUMAN-PRIMATES; FIBER PATHWAYS;
+   MACAQUE BRAIN; WHITE-MATTER; MRI; TRACTOGRAPHY; DISTORTION; IMAGES
+ER
+
+PT J
+DE Diffusion tensor imaging (DTI); fluid mechanics; tractography; white
+   matter
+ID HUMAN BRAIN CONNECTIVITY; GRADIENT VECTOR FLOW; FIBER TRACKING; WATER
+   DIFFUSION; MRI DATA; AXONAL PROJECTIONS; WEIGHTED MRI; ORIENTATION;
+   VALIDATION; RELIABILITY
+ER
+
+PT J
+DE Diffusion MRI; Diffusion Tensor Imaging (DTI); High Angular Resolution
+   Diffusion Imaging (HARDI); Q-Ball Imaging (QBI); Orientation
+   Distribution Function (ODF); Spherical Harmonics (SH); Funk-Radon
+   Transform (FRT); Sub-voxel fiber configurations; Tractography; Manifold
+   learning; N-cuts; Stratification; Segmentation; Non-uniform complexity
+ID PERSISTENT ANGULAR STRUCTURE; WHITE-MATTER TRACTOGRAPHY; LOG-EUCLIDEAN
+   METRICS; FIBER TRACKING; DT-MRI; TENSOR MRI; FRONT EVOLUTION; WEIGHTED
+   MRI; IMAGING DATA; HUMAN BRAIN
+ER
+
+PT J
+DE Epidermoid; DTI; Fractional anisotropy; Diffusion tensor mode; Pathology
+ID FIBER TRACTS; MR; DENSITY; LESIONS; IMAGES; TUMORS
+ER
+
+PT B
+DE DW/DTI; Upsampling; Registration-based Interpolation
+ID INTERPOLATION
+ER
+
+PT S
+DE Cerebral vascular; Diffusivity Quantification; DTI; Hypercapnia
+ID DIFFUSION TENSOR MRI; INFARCT SIZE; MODEL; RESPONSES; INJURY
+ER
+
+PT B
+DE Diffusion-MRI; Higher Order Tensors; Ternary Quartics; Diffusion
+   Propagator
+ER
+
+PT B
+DE High-Angular Resolution Diffusion Imaging; Diffusion tensor imaging;
+   Fractional Anisotropy
+ID DIFFUSION; MRI
+ER
+
+PT B
+DE Diffusion tensor; MRI; Voxel-wise analysis; Group comparison
+ID DIFFUSION-TENSOR MRI
+ER
+
+PT B
+DE diffusion tensor magnetic resonance imaging; noise reduction;
+   anisotropic filtering
+ER
+
+PT S
+ID MRI; SPECTROSCOPY
+ER
+
+PT S
+DE Diffusion tensor imaging (DTI); vascular enhancement (VE); cerebral
+   blood flow (CBF); cerebral blood volume (CBV); BOLD signal; DTI Studio;
+   cerebral arteries
+ID BLOOD-FLOW; BRAIN; FMRI; DYNAMICS; TRACKING; SIGNAL; MODEL
+ER
+
+PT S
+DE Diffusion tensor imaging; image registration; tensor reorientation; fast
+   marching
+ID MR-IMAGES; NORMALIZATION; INFORMATION
+ER
+
+PT J
+DE Allen-Cahn equation; anisotropic diffusion; finite volume method;
+   MR-DTI; MR tractography; medical visualization
+ID DIFFUSION-TENSOR MRI
+ER
+
+PT S
+ID DIFFUSION; MRI
+ER
+
+PT J
+DE diffusion tensor magnetic resonance imaging; segmentation; geometric
+   flow; level set; consistency
+ID THALAMIC NUCLEI; MRI; FIELD
+ER
+
+PT J
+DE partial volume; DTI; white matter; fiber crossing; low b-value
+ID MULTIPLE FIBER ORIENTATIONS; HUMAN BRAIN; TENSOR MRI; SPHERICAL
+   DECONVOLUTION; WEIGHTED MRI; TRACKING; TRACTOGRAPHY; INFERENCE
+ER
+
+PT J
+DE collagen fibre orientation; diffusion-tensor imaging; polarised light
+   microscopy; anisotropy; birefringence; fibre alignment order
+ID ARTICULAR-CARTILAGE; TIBIAL PLATEAU; JOINT SURFACE; NMR; MRI;
+   HETEROGENEITY; ORIENTATION; RELAXATION; AGREEMENT; LAMINAE
+ER
+
+PT J
+DE turboprop; diffusion; pulsation; noise; brain
+ID IN-DIFFUSION; MOTION; MRI; IMAGES; OPTIMIZATION; REGISTRATION;
+   ACQUISITION; ARTIFACTS; SCHEMES; ROBUST
+ER
+
+PT J
+DE diffusion tensor imaging; measurement uncertainty; wild bootstrap; Monte
+   Carlo simulation
+ID DIFFUSION-TENSOR MRI; MONTE-CARLO; NOISE; ANISOTROPY;
+   HETEROSKEDASTICITY; SCHEMES; ROBUST
+ER
+
+PT J
+DE SSFSE; EPI; tensor; MRI; tractography
+ID ISCHEMIC-STROKE; WEIGHTED MR; TRACT; BRAIN
+ER
+
+PT J
+DE diffusion tensor imaging; SENSE; distortion correction; susceptibility;
+   eddy currents
+ID ECHO-PLANAR IMAGES; DIFFUSION TENSOR; SPIN-ECHO; MRI; ARTIFACTS
+ER
+
+PT J
+DE diffusion tenser imaging; spatially adaptive smoothing
+ID TRAUMATIC BRAIN-INJURY; LOG-EUCLIDEAN METRICS; WHITE-MATTER; B-MATRIX;
+   MRI; ANISOTROPY; NOISE; SPECTROSCOPY; TRACTOGRAPHY; REDUCTION
+ER
+
+PT B
+DE Diffusion Tensor Imaging; White matter; Tractography; Reproducibility
+ID APPARENT DIFFUSION-COEFFICIENT; WHITE-MATTER; MRI; DISTORTION; BRAIN
+ER
+
+PT S
+DE Scale space; diffusion tensor imaging; Riemannian geometry;
+   log-Euclidean framework; differentiation
+ID SCALE-SPACE; MATRIX; COMPUTATION; REGULARIZATION; DERIVATIVES; 1ST
+ER
+
+PT S
+ER
+
+PT S
+DE biomedical image processing; image registration; diffusion tensor
+   imaging
+ID IMAGES
+ER
+
+PT S
+DE Fiber tracking; Diffusion Tensor Imaging (DTI); fractional anisotropy;
+   preference direction; previous propagation directions
+ER
+
+PT S
+ID GENERALIZED DIFFUSION; WEIGHTED MRI; ANISOTROPY
+ER
+
+PT S
+ID NONRIGID REGISTRATION; TENSOR; STATISTICS; IMAGES; ATLAS
+ER
+
+PT S
+ID MAGNETIC-RESONANCE IMAGES; MRI
+ER
+
+PT J
+DE diffusion; diffusion tensor imaging; magnetic resonance imaging; spinal
+   cord; spine
+ID FIBER TRACKING; WEIGHTED MRI
+ER
+
+PT J
+DE Bayesian regularization; diffusion tensor imaging; fiber tracking;
+   Markov chain Monte Carlo; prior model; rice distributions; tensors
+ID FIBER TRACKING; STATISTICAL-ANALYSIS; WEIGHTED MRI; RESTORATION; BRAIN;
+   NOISE; ANISOTROPY
+ER
+
+PT J
+DE diffusion tensor imaging; brain injury; white matter; magnetic resonance
+   imaging; connectivity; fMRI; aphasia
+ID WHITE-MATTER; BRAIN-INJURY; ANATOMY
+ER
+
+PT J
+DE diffusion tensor imaging (DTI); amnesia; fornix; neuroimaging;
+   conventional magnetic resonance imaging (CMRI)
+ID TRAUMATIC BRAIN-INJURY; FRACTIONAL ANISOTROPY; DIFFUSION; COMPUTATION
+ER
+
+PT J
+DE diffusion tensor imaging; tractography; children
+ID NORMAL BRAIN MATURATION; WHITE-MATTER STRUCTURE; FIBER TRACTOGRAPHY;
+   AXONAL TRACKING; MRI; ANISOTROPY; CHILDHOOD; TRACTS; AGE; ADOLESCENCE
+ER
+
+PT J
+DE diffusion tensor imaging; white matter; diffusivity; MRI; brain;
+   fractional anisotropy
+ID ECHO-PLANAR IMAGES; HUMAN WHITE-MATTER; ANISOTROPIC WATER DIFFUSION;
+   EDDY-CURRENT ARTIFACTS; IN-VIVO; WEIGHTED MRI; CORTICOSPINAL TRACT;
+   MULTIPLE-SCLEROSIS; CORPUS-CALLOSUM; DT-MRI
+ER
+
+PT J
+DE magnetic resonance imaging (MRI); diffusion tensor imaging (DTI); line
+   scan diffusion imaging (LSDI); single-shot fast spin-echo (SSFSE); spine
+ID LINE SCAN DIFFUSION; CORD IN-VIVO; MULTIPLE-SCLEROSIS; WHITE-MATTER;
+   MRI; BRAIN
+ER
+
+PT B
+ID IMAGES; REGISTRATION; MORPHOMETRY; FRAMEWORK; CALCULUS; MRI
+ER
+
+PT J
+DE diffusion; tensor; MRI; anisotropy; phantom
+ID WHITE-MATTER; MAGNETIC-RESONANCE; WALLERIAN DEGENERATION; FIELD
+   GRADIENT; OPTIC TRACTS; NOISE; CONNECTIVITY; TRACTOGRAPHY; ARCHITECTURE;
+   VALIDATION
+ER
+
+PT J
+DE white matter; diffusion tensor; tractography; crossing tracts;
+   anisotropy
+ID DIFFUSION-WEIGHTED MRI; HUMAN BRAIN; WATER DIFFUSION; WHITE-MATTER;
+   TENSOR MRI; TRACKING
+ER
+
+PT J
+DE diffusion tensor interpolation; diffusion tensor statistics; DTI
+   analysis; fiber tract modeling
+ID WHITE-MATTER; FRAMEWORK; IMAGES; REGISTRATION; CALCULUS
+ER
+
+PT J
+DE diffusion; diffusion tensor; DTI; eigenvalues; eigenvectors;
+   mathematics; rotational invariants; rotations; vectors
+ID WEIGHTED MR DATA; APPARENT DIFFUSION; HUMAN BRAIN; MAGNETIC-RESONANCE;
+   FRACTIONAL ANISOTROPY; ACQUISITION SCHEMES; SAMPLING SCHEMES; FIBER
+   TRACKING; DT-MRI; NOISE
+ER
+
+PT J
+DE anisotropy; b factor; diffusion; diffusion gradient scheme; diffusion
+   tensor; DTI; icosahedron; tetrahedron
+ID APPARENT DIFFUSION; MAGNETIC-RESONANCE; HUMAN BRAIN; FIELD GRADIENT;
+   FRACTIONAL ANISOTROPY; ACQUISITION SCHEMES; FIBER-ORIENTATION; SAMPLING
+   SCHEMES; SPIN ECHOES; MRI
+ER
+
+PT J
+DE diffusion; diffusion tensor; DTI; least-squares fit; Monte Carlo
+   simulations; noise; optimization; tensor calculation
+ID MAGNETIC-RESONANCE IMAGES; BRAIN WHITE-MATTER; WEIGHTED MR DATA; WATER
+   DIFFUSION; SPIN-ECHO; FRACTIONAL ANISOTROPY; THEORETICAL-ANALYSIS;
+   CIRCULAR SPECTRUM; ROBUST ESTIMATION; SAMPLING SCHEMES
+ER
+
+PT J
+ID INTERHEMISPHERIC COMMUNICATION; WHITE-MATTER; CHILDREN; MRI;
+   CONNECTIVITY; ADOLESCENCE; CHILDHOOD; GENDER; SIZE
+ER
+
+PT J
+DE DTI; eddy current; distortion; correction; field map
+ID PHASE-UNWRAPPING ALGORITHM; ECHO-PLANAR IMAGES; GEOMETRIC DISTORTION;
+   ARTIFACTS
+ER
+
+PT J
+DE diffusion tensor imaging; normal brain; fractional anisotropy; mean
+   diffusivity; voxel-based statistics
+ID WHITE-MATTER; MULTIPLE-SCLEROSIS; FIBER TRACKING; TRACTOGRAPHY;
+   DISSECTION; LESIONS; MRI
+ER
+
+PT J
+DE DTI; MMME; multiple echo; diffusion tensor
+ID MAGNETIC-FIELD GRADIENTS; POROUS-MEDIA; SUSCEPTIBILITY DIFFERENCES;
+   BACKGROUND GRADIENTS; BIOLOGICAL TISSUES; IMAGING TECHNIQUE; NMR
+   MEASUREMENTS; SELF-DIFFUSION; BURST SEQUENCE; HUMAN BRAIN
+ER
+
+PT S
+ID DIFFUSION TENSOR MRI; FRAMEWORK; ANATOMY
+ER
+
+PT B
+DE MRI; diffusion-tensor imaging; diffusion-weighted image; tractography;
+   brain tumor
+ID WHITE-MATTER PATHWAYS; DIFFUSION-TENSOR; MAGNETIC-RESONANCE;
+   FIBER-TRACKING; HUMAN BRAIN; AXONAL PROJECTIONS; CORTICOSPINAL TRACT;
+   PYRAMIDAL TRACT; NEURONAVIGATION; RECONSTRUCTION
+ER
+
+PT B
+ID APPEARING WHITE-MATTER; WEIGHTED MRI; FIBER ORIENTATION; BRAIN;
+   ANISOTROPY; FIELDS; STRATEGIES; TRACKING; DECLINE; IMAGES
+ER
+
+PT B
+ID HUMAN BRAIN; MRI
+ER
+
+PT B
+ER
+
+PT J
+DE diffusion tensor MRI; image segmentation; Kullback-Leibler divergence;
+   J-divergence; Mumford-Shah functional; active contour
+ID DIFFUSION TENSOR; FLOWS
+ER
+
+PT J
+DE DWI (diffusion weighted imaging); DTI (diffusion tensor imaging); porous
+   system trabecular bone; anisotropic diffusion; ADC (apparent diffusion
+   coefficient)
+ID PORE-SIZE DISTRIBUTIONS; FIELD GRADIENT NMR; ECHO; RELAXATION; MEDIA;
+   MRI; IMAGES; ROCKS
+ER
+
+PT J
+ID CORTICOSPINAL TRACT STROKE; WHITE-MATTER; WATER DIFFUSION; HUMAN BRAIN;
+   WALLERIAN DEGENERATION; FRACTIONAL ANISOTROPY; CEREBRAL INFARCTION;
+   ISCHEMIC-STROKE; PYRAMIDAL TRACT; GRAY-MATTER
+ER
+
+PT J
+ER
+
+PT J
+DE DWI; DTI; trabecular bone; anisotropic diffusion; restricted diffusion
+ID DIFFUSION-TENSOR; SPECTROSCOPY; MRI
+ER
+
+PT J
+ID WHITE-MATTER; SPIN-ECHO; MRI; ANISOTROPY; BRAIN; GRADIENTS; MATRIX
+ER
+
+PT J
+DE diffusion-weighted imaging; fractional anisotropy; functional
+   hemispherectomy; hemimegalencephaly; magnetic resonance imaging
+ER
+
+PT J
+DE brain; magnetic resonance imaging; diffusion; diffusion tensor; pulse
+   sequence
+ID STATE FREE PRECESSION; BRAIN WHITE-MATTER; PROPELLER MRI; HEAD MOTION;
+   ANISOTROPY; SCHIZOPHRENIA; REGISTRATION; VALIDATION; SCLEROSIS; PATHWAYS
+ER
+
+PT J
+DE magnetic resonance imaging; diffusion tensor imaging; brain
+ID APPEARING WHITE-MATTER; MULTIPLE-SCLEROSIS LESIONS; GRADE CEREBRAL
+   GLIOMAS; MAGNETIC-RESONANCE; WATER DIFFUSION; WEIGHTED MR;
+   ISCHEMIC-STROKE; IN-VIVO; SELF-DIFFUSION; FIBER TRACKING
+ER
+
+PT S
+ER
+
+PT S
+DE diffusion tensor imaging; fiber connectivity; white-matter fiber tracts
+ID SPIN-ECHO; ACQUISITION SCHEMES; MRI; BRAIN; TRACTOGRAPHY
+ER
+
+PT J
+DE DTI; diffusion tensor imaging; Alzheimer's disease
+ID WHITE-MATTER; ANISOTROPIC DIFFUSION; AXONAL TRACKING; WHOLE-BRAIN;
+   STROKE; EPI; ACQUISITION; ARTIFACTS; IMAGES; TRACT
+ER
+
+PT J
+DE DTI; fiber tracking; diffusion MRI
+ID BOVINE OPTIC-NERVE; HUMAN BRAIN; WATER DIFFUSION; MOUSE-BRAIN; SPACE;
+   NMR; MRI; TISSUE; ANISOTROPY; COMPARTMENTATION
+ER
+
+PT S
+ID HUMAN BRAIN; TRACKING; CONNECTIVITY; ALGORITHMS; FIELDS; FRONTS; MAPS;
+   MRI
+ER
+
+PT J
+DE diffusion-tensor imaging; diffusion-weighted imaging; MRI; cognition;
+   cognitive performance
+ID ANISOTROPIC WATER DIFFUSION; MATTER TRACT INTEGRITY; WHITE-MATTER; HUMAN
+   BRAIN; ALZHEIMERS-DISEASE; NERVOUS-SYSTEM; WEIGHTED MR; SCHIZOPHRENIA;
+   IMAGES; MICROSTRUCTURE
+ER
+
+PT J
+ID APPEARING WHITE-MATTER; ACUTE HUMAN STROKE; MAGNETIC-RESONANCE;
+   MULTIPLE-SCLEROSIS; WATER-DIFFUSION; IN-VIVO; ALZHEIMERS-DISEASE; HUMAN
+   BRAIN; CORPUS-CALLOSUM; CEREBRAL-ISCHEMIA
+ER
+
+PT J
+DE diffusion; brain; anisotropy; newborn; development
+ID WHITE-MATTER INJURY; ISCHEMIC RAT-BRAIN; POSTERIOR LEUKOENCEPHALOPATHY
+   SYNDROME; FOCAL CEREBRAL-ISCHEMIA; APPARENT DIFFUSION; WATER DIFFUSION;
+   WEIGHTED MRI; HUMAN STROKE; GRAY-MATTER; IN-VIVO
+ER
+
+PT J
+DE diffusion tensor imaging; DTI; diffusion-weighted imaging; DWI; MRI
+ID WHITE-MATTER CHANGES; ALZHEIMERS-DISEASE; MAGNETIC-RESONANCE; HUMAN
+   BRAIN; AGE; MR; ANISOTROPY; DECLINE; LESIONS; MEN
+ER
+
+PT J
+DE DTI; mouse; brain; hippocampus
+ID ANISOTROPIC WATER DIFFUSION; MYELIN FIBER ORIENTATION; AXONAL
+   PROJECTIONS; NERVOUS-SYSTEM; MICROSCOPY; TRACKING; PATHWAYS; TISSUES;
+   STROKE; ECHO
+ER
+
+PT J
+DE diffusion tensor; independent component analysis trace; eddy current;
+   tractography
+ID ECHO-PLANAR IMAGES; WHITE-MATTER; HUMAN BRAIN; ARTIFACTS; FEATURES;
+   TISSUES
+ER
+
+PT J
+ID MAGNETIC-RESONANCE; HUMAN BRAIN; WATER DIFFUSION; CEREBRAL-ISCHEMIA;
+   NERVOUS-SYSTEM; IN-VIVO; ANISOTROPY; SPECTROSCOPY; COEFFICIENT;
+   PERFUSION
+ER
+
+PT J
+DE diffusion tensor imaging; optimization; noise; condition number
+ID WHITE-MATTER; HUMAN BRAIN; ANISOTROPY; SCHIZOPHRENIA; COEFFICIENT;
+   FEATURES; TISSUES; STROKE
+ER
+
+PT J
+DE magnetic resonance imaging; diffusion; tensor; anisotropy; noise;
+   optimization
+ID INTRAVOXEL INCOHERENT MOTION; MAGNETIC-RESONANCE; HUMAN BRAIN;
+   ARTIFACTS; PERFUSION; ECHOES
+ER
+
+EF

@@ -1,0 +1,241 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,hot carriers,18,hot carriers,51
+1,solar cells,13,solar cells,41
+2,solar cell,8,solar cell,30
+3,hot carrier solar cells,8,photovoltaic,21
+4,hot carrier solar cell,8,hot-spot,21
+5,hot-spot,7,hot carrier solar cells,21
+6,photovoltaic,6,hot carrier solar cell,20
+7,photovoltaics,6,hafnium nitride,20
+8,hafnium nitride,6,photovoltaics,18
+9,hot spot,5,hot spot,18
+10,carrier cooling,5,silicon,18
+11,photovoltaic cells,5,phonons,17
+12,phonons,5,hot carrier,15
+13,hot carrier,4,phonon,15
+14,phonon,4,carrier cooling,15
+15,silicon,4,photovoltaic cells,13
+16,microcrystalline silicon,4,hot,10
+17,hot,3,microcrystalline silicon,9
+18,solar,3,hot phonon,8
+19,monte carlo simulation,3,thermalization,8
+20,amorphous silicon,3,efficiency,8
+21,hot phonon,2,hwcvd,8
+22,pv module,2,pv module,7
+23,ir thermography,2,ir thermography,7
+24,perovskites,2,solar,7
+25,high-efficiency,2,photoluminescence,7
+26,photovoltaic (pv) hot spotting analysis,2,intermediate band,7
+27,hot wire chemical vapor deposition,2,quantum well,7
+28,crystal defect,2,amorphous silicon,7
+29,detection method,2,crystal defect,6
+30,infrared thermography,2,detection method,6
+31,pv modules,2,infrared thermography,6
+32,carrier collection,2,monte carlo simulation,6
+33,hot carrier cells,2,up-conversion,6
+34,energy selective contacts,2,inp,6
+35,photoluminescence,2,hot carrier absorber,6
+36,thermalization,2,time resolved photoluminescence,6
+37,efficiency,2,modeling,6
+38,up-conversion,2,nonlinear dynamical systems,6
+39,hot-carrier solar cell,2,dft,6
+40,inp,2,hot-wire cvd,6
+41,hot carrier absorber,2,energy efficiency,6
+42,time resolved photoluminescence,2,pv modules,5
+43,intermediate band,2,lattice,5
+44,hot-carrier solar cells,2,nano-structure,5
+45,intermediate-band solar cells,2,carrier collection,5
+46,limiting,2,hot carrier cells,5
+47,modeling,2,energy selective contacts,5
+48,nonlinear dynamical systems,2,al,5
+49,dft,2,ag,5
+50,quantum well,2,au nano particles,5
+51,hot-wire cvd,2,surface plasma,5
+52,hot phonons,2,detection system,5
+53,energy efficiency,2,real-time,5
+54,hwcvd,2,pcs,5
+55,thin film,2,pv solar panel,5
+56,bypass diode configuration,1,dc-dc,5
+57,reverse bias voltage of shaded cell,1,thin film,5
+58,cumulative density function (cdf) modeling,1,multijunction,5
+59,hot spots,1,stability,5
+60,bi-based ternary halides,1,carrier energy,4
+61,dynamic hot casting,1,cspbi3,4
+62,lead-free perovskites,1,perovskite,4
+63,carrier energy,1,hot carrier cooling,4
+64,glass/cell/polymer sheet,1,hot hole transfer,4
+65,glass/cell/glass,1,photovoltaic (pv) hot spotting analysis,4
+66,integrated renewable system,1,hot wire chemical vapor deposition,4
+67,combined heat and power,1,prediction,4
+68,solar hot water,1,linear,4
+69,cspbi3,1,opaque,4
+70,perovskite,1,semitransparent,4
+71,hot carrier cooling,1,type-ii,4
+72,hot hole transfer,1,carrier,4
+73,hot spot protection,1,surface plasmons,4
+74,hot-spot mitigation,1,silicon nanowire,4
+75,shockley-queisser limit,1,thin film solar,4
+76,low-cost,1,hot-carrier solar cell,4
+77,silicon heterojunction,1,spectroscopy,4
+78,double heterostructure,1,photovoltaic (pv),4
+79,kinetic transport theory,1,degradation,4
+80,prototype hot carrier,1,absorbance,4
+81,photovoltaic (pv) string,1,hot-carrier solar cells,4
+82,prediction,1,intermediate-band solar cells,4
+83,linear,1,limiting,4
+84,active bypass,1,multi-junction,4
+85,partial shading,1,epitaxial silicon,4
+86,pv generation system,1,impurities,4
+87,solar module mismatch,1,dlts,4
+88,defective solar cells,1,infrared image,4
+89,lattice,1,fault detection,4
+90,nano-structure,1,opens circuit,4
+91,multiple quantum wells,1,hot phonons,4
+92,optical phonons,1,hot embossing,4
+93,energy recycling,1,moth eye,4
+94,monte carlo,1,anti-reflection,4
+95,double barrier,1,quantum efficiency,4
+96,hafnium,1,heterojunctions,4
+97,opaque,1,epitaxial growth,4
+98,semitransparent,1,hot-wire,4
+99,plasmonic nanostructures,1,conversion efficiency,4
+100,photovoltaic devices,1,thermodynamics,4
+101,electrodes,1,glass/cell/polymer sheet,3
+102,phonon bottleneck effect,1,glass/cell/glass,3
+103,type-ii band alignment,1,perovskites,3
+104,pv string,1,high-efficiency,3
+105,carbon,1,photovoltaic (pv) string,3
+106,feedstock,1,active bypass,3
+107,hot spot testing,1,partial shading,3
+108,multi crystalline silicon,1,solar module mismatch,3
+109,hot carrier modeling,1,defective solar cells,3
+110,non-equilibrium,1,multiple quantum wells,3
+111,solar energy,1,optical phonons,3
+112,aerospace testing,1,energy recycling,3
+113,manufacturing,1,monte carlo,3
+114,type-ii,1,double barrier,3
+115,al,1,hafnium,3
+116,ag,1,plasmonic nanostructures,3
+117,au nano particles,1,photovoltaic devices,3
+118,surface plasma,1,electrodes,3
+119,quantum modeling,1,pv string,3
+120,contact,1,carbon,3
+121,quantum resonance,1,feedstock,3
+122,non-isentropic,1,hot spot testing,3
+123,gasb/gaas type-ii quantum dots,1,multi crystalline silicon,3
+124,hot photoelectrons,1,solar energy,3
+125,carrier,1,aerospace testing,3
+126,quantum thermodynamics,1,manufacturing,3
+127,entropy,1,quantum modeling,3
+128,dfpt,1,contact,3
+129,hot optical phonon relaxation,1,quantum resonance,3
+130,surface plasmons,1,quantum thermodynamics,3
+131,silicon nanowire,1,entropy,3
+132,thin film solar,1,type ii band alignment,3
+133,hot-carriers,1,ingaasp,3
+134,quantum wells,1,phonon gaps,3
+135,detection system,1,carrier relaxation,3
+136,real-time,1,domestic hot water,3
+137,pcs,1,solar thermal,3
+138,pv solar panel,1,solar fraction,3
+139,dc-dc,1,facade,3
+140,type ii band alignment,1,hot-carrier solar cell (hcsc),3
+141,ingaasp,1,ingaas,3
+142,phonon gaps,1,thermalization coefficient,3
+143,carrier relaxation,1,tunnelling,3
+144,domestic hot water,1,carrier extraction,3
+145,solar thermal,1,energy-selective contact,3
+146,solar fraction,1,third generation,3
+147,facade,1,third,3
+148,metallic absorber,1,hot-carrier,3
+149,double heterojunction,1,impact-ionization,3
+150,band offset,1,photovoltaic (pv) systems,3
+151,hot-carrier solar cell (hcsc),1,pv,3
+152,ingaas,1,boron antimonide,3
+153,thermalization coefficient,1,phonon bottleneck,3
+154,spectroscopy,1,numerical models,3
+155,photovoltaic (pv),1,numerical,3
+156,degradation,1,phonon decay,3
+157,absorbance,1,sputtering,3
+158,tunnelling,1,high efficiency,3
+159,carrier extraction,1,auger effect,3
+160,energy-selective contact,1,iii-v semiconductors,3
+161,thermography,1,impact ionisation,3
+162,hot-spot protection,1,hot-spot heating,3
+163,mass production,1,reliability,3
+164,spectral sensitivity,1,laser annealing,3
+165,third generation,1,organic solar cells,3
+166,hot carrier solar cell (hcsc),1,p3ht,3
+167,quantum well (qw),1,pcbm,3
+168,third,1,impact ionization,3
+169,hot-carrier,1,auger,3
+170,impact-ionization,1,a-si:h,3
+171,photovoltaic (pv) systems,1,thermal,3
+172,pv,1,thermoelectric thermophotovoltaics,3
+173,boron antimonide,1,hot wire cvd,3
+174,phonon bottleneck,1,deposition,3
+175,t hot spot,1,bypass diode configuration,2
+176,shunt,1,reverse bias voltage of shaded cell,2
+177,solar cell reliability,1,cumulative density function (cdf) modeling,2
+178,multi-junction,1,hot spots,2
+179,epitaxial silicon,1,bi-based ternary halides,2
+180,impurities,1,dynamic hot casting,2
+181,dlts,1,lead-free perovskites,2
+182,numerical models,1,integrated renewable system,2
+183,numerical,1,combined heat and power,2
+184,phonon decay,1,solar hot water,2
+185,hot carrier cell device prototype,1,hot spot protection,2
+186,heterogeneous nano-particle array,1,hot-spot mitigation,2
+187,light trapping,1,shockley-queisser limit,2
+188,comment,1,low-cost,2
+189,infrared image,1,silicon heterojunction,2
+190,fault detection,1,double heterostructure,2
+191,opens circuit,1,kinetic transport theory,2
+192,sputtering,1,prototype hot carrier,2
+193,high efficiency,1,pv generation system,2
+194,auger effect,1,phonon bottleneck effect,2
+195,iii-v semiconductors,1,type-ii band alignment,2
+196,impact ionisation,1,hot carrier modeling,2
+197,hot-spot heating,1,non-equilibrium,2
+198,reliability,1,non-isentropic,2
+199,laser annealing,1,gasb/gaas type-ii quantum dots,2
+200,organic solar cells,1,hot photoelectrons,2
+201,p3ht,1,dfpt,2
+202,pcbm,1,hot optical phonon relaxation,2
+203,transitions metals,1,hot-carriers,2
+204,hot-carriers solar cells,1,quantum wells,2
+205,novel concepts,1,double heterojunction,2
+206,electron-phonon interaction,1,band offset,2
+207,aluminum-induced crystallization (aic),1,thermography,2
+208,hot-wire chemical vapor,1,hot-spot protection,2
+209,lock-in thermography,1,mass production,2
+210,characterization,1,t hot spot,2
+211,hot embossing,1,shunt,2
+212,moth eye,1,solar cell reliability,2
+213,anti-reflection,1,transitions metals,2
+214,quantum efficiency,1,hot-carriers solar cells,2
+215,impact ionization,1,novel concepts,2
+216,auger,1,electron-phonon interaction,2
+217,a-si:h,1,lock-in thermography,2
+218,silicon nitride,1,characterization,2
+219,hot carrier solar cells-,1,silicon nitride,2
+220,multijunction,1,hot-wire deposition,2
+221,stability,1,tandem solar cells,2
+222,heterojunctions,1,hot-wire chemical vapor deposition,2
+223,epitaxial growth,1,microcrystalline,2
+224,hot-wire,1,hot electrons,2
+225,thermal,1,quantum dots,2
+226,thermoelectric thermophotovoltaics,1,(ultra-high photovoltaic) conversion,2
+227,hot-wire deposition,1,metallic absorber,1
+228,sun : flares,1,spectral sensitivity,1
+229,sun : radio radiation,1,hot carrier solar cell (hcsc),1
+230,tandem solar cells,1,quantum well (qw),1
+231,hot wire cvd,1,hot carrier cell device prototype,1
+232,deposition,1,heterogeneous nano-particle array,1
+233,hot-wire chemical vapor deposition,1,light trapping,1
+234,microcrystalline,1,aluminum-induced crystallization (aic),1
+235,conversion efficiency,1,hot-wire chemical vapor,1
+236,thermodynamics,1,hot carrier solar cells-,1
+237,hot electrons,1,sun : flares,1
+238,quantum dots,1,sun : radio radiation,1
+239,(ultra-high photovoltaic) conversion,1,,

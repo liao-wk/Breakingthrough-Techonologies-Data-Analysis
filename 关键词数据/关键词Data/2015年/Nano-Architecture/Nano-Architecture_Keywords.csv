@@ -1,0 +1,240 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,nano-architecture,8,nano-architecture,23
+1,materials,5,reliability,12
+2,reliability,4,materials,10
+3,nanostructures,3,nanostructures,10
+4,nano architectures,2,photocatalysis,8
+5,material,2,thin-films,7
+6,hydrothermal synthesis,2,nanotechnology,7
+7,carbon nanotubes,2,surface modification,6
+8,surface modification,2,nano architectures,5
+9,thin-films,2,consecutive-k-out-of-n:f system,5
+10,photocatalysis,2,dysplasia,5
+11,consecutive-k-out-of-n:f system,2,gibbs distribution,5
+12,dysplasia,2,tmr,5
+13,nano architecture,2,ctmr,5
+14,nanotechnology,2,entropy,5
+15,coordination polymers,1,material,4
+16,mixed-ligand,1,hydrothermal synthesis,4
+17,anticancer,1,chemical etching,4
+18,ion batteries,1,ion milling,4
+19,mos2,1,barrier layer,4
+20,nitrogen,1,porous,4
+21,topography,1,cu2-xse,4
+22,intracortical microelectrodes,1,deposition,4
+23,arrays,1,route,4
+24,perineuronal nets,1,cuse,4
+25,silicon/germanium nanomembranes,1,sputtering,4
+26,strain engineering,1,tungsten,4
+27,mechanical,1,amorphization,4
+28,microporous materials,1,argon ions,4
+29,carbonate precursors,1,ripple instability,4
+30,cathode materials,1,tetracycline hydrochloride,4
+31,hollow structures,1,titanates,4
+32,high-energy,1,visible-light,4
+33,bifunctional catalysts,1,ti,4
+34,electrocatalysis,1,nuclear architecture,4
+35,ternary,1,nanoscale,4
+36,nanoparticles,1,esophagus,4
+37,zebrafish,1,field effect,4
+38,biocompatibility,1,cu2o/cu,4
+39,theranostics,1,heterostructure,4
+40,micelles,1,nanoflower,4
+41,lotus-like nano-architectures,1,photodegradation,4
+42,hierarchical assembly,1,biomaterial,4
+43,titanium dioxide,1,polymers,4
+44,crystal structure,1,silk fibroin,4
+45,surface,1,antheraea assama,4
+46,interface structure,1,micro-nano,4
+47,v6o13 nano-architectures,1,nano architecture,4
+48,counter electrode,1,vanadium bronze,4
+49,facile,1,bi-cation,4
+50,sers,1,template-free,4
+51,three-dimensional,1,positive,4
+52,macroporous,1,manganese oxides,4
+53,titanium,1,cryogel,4
+54,super-paramagnetism,1,intercalation,4
+55,tunable removal efficiency,1,lithium,4
+56,convenient magnetic,1,mn(ii) precursors,4
+57,peptide therapeutics,1,area,4
+58,nano-architectures,1,batteries,4
+59,drug delivery,1,cathode,4
+60,targeting,1,coordination polymers,3
+61,localized surface plasmon,1,mixed-ligand,3
+62,dark modes,1,anticancer,3
+63,fano resonances,1,ion batteries,3
+64,near-field,1,mos2,3
+65,separator,1,nitrogen,3
+66,li-ion battery,1,bifunctional catalysts,3
+67,polyaniline nanowires,1,electrocatalysis,3
+68,polyimide nanofibers,1,ternary,3
+69,multishell tubular structures,1,nanoparticles,3
+70,rolled-up micro- and nano-architectures,1,zebrafish,3
+71,chemical etching,1,biocompatibility,3
+72,ion milling,1,theranostics,3
+73,barrier layer,1,titanium dioxide,3
+74,porous,1,crystal structure,3
+75,ag nano,1,surface,3
+76,nano-assembly,1,interface structure,3
+77,polyol method,1,sers,3
+78,antimicrobial activities,1,three-dimensional,3
+79,ca2+ channels,1,macroporous,3
+80,quantitative immunoelectron microscopy,1,titanium,3
+81,cluster analysis,1,peptide therapeutics,3
+82,zinc oxide,1,nano-architectures,3
+83,organosilane,1,drug delivery,3
+84,microwave synthesis,1,targeting,3
+85,palladium nanowires,1,carbon nanotubes,3
+86,hydrogen detection,1,localized surface plasmon,3
+87,storage,1,dark modes,3
+88,nanocrystalline materials,1,fano resonances,3
+89,semiconductors,1,near-field,3
+90,optical materials and,1,separator,3
+91,cu2-xse,1,li-ion battery,3
+92,deposition,1,polyaniline nanowires,3
+93,route,1,polyimide nanofibers,3
+94,cuse,1,ag nano,3
+95,sputtering,1,nano-assembly,3
+96,tungsten,1,polyol method,3
+97,amorphization,1,antimicrobial activities,3
+98,argon ions,1,zinc oxide,3
+99,ripple instability,1,organosilane,3
+100,graphene,1,microwave synthesis,3
+101,graphene oxide,1,graphene,3
+102,three-dimensional network,1,graphene oxide,3
+103,graphene foam,1,three-dimensional network,3
+104,consecutive systems,1,graphene foam,3
+105,bounds,1,films,3
+106,tetracycline hydrochloride,1,nanostructured materials,3
+107,titanates,1,efficient,3
+108,visible-light,1,gamma-al2o3,3
+109,ti,1,micro mesopores,3
+110,tungsten trioxide,1,flower-like,3
+111,nano-architecture array,1,bound,3
+112,electrochromism,1,algorithm,3
+113,films,1,sno2 nano-architectures,3
+114,nanostructured materials,1,sheet-like,3
+115,efficient,1,sphere-like,3
+116,lower and upper bounds,1,controlled synthesis,3
+117,gamma-al2o3,1,mesoporous sno2,3
+118,micro mesopores,1,sensors,3
+119,flower-like,1,dimethylformamide,3
+120,bound,1,ti-based alloys,3
+121,algorithm,1,mechanical properties,3
+122,sno2 nano-architectures,1,corrosion,3
+123,sheet-like,1,variation tolerant,3
+124,sphere-like,1,defect tolerant,3
+125,controlled synthesis,1,nano-electronics,3
+126,mesoporous sno2,1,crossbar,3
+127,sensors,1,surface enhanced raman scattering,3
+128,dimethylformamide,1,plasmonics,3
+129,ti-based alloys,1,nano-optics,3
+130,mechanical properties,1,spectroscopy,3
+131,corrosion,1,nio,3
+132,amphiphile nanofibers,1,nano-sheets,3
+133,hydrogen-peroxide,1,homogeneous precipitation,3
+134,biomedical,1,cmol,3
+135,variation tolerant,1,memristive,3
+136,defect tolerant,1,neuromorphic networks,3
+137,nano-electronics,1,stdp learning,3
+138,crossbar,1,grid structures,3
+139,nuclear architecture,1,deltahedra,3
+140,nanoscale,1,fullerenes,3
+141,esophagus,1,biological architectures,3
+142,field effect,1,dna,3
+143,barretts-esophagus,1,polyassembly,3
+144,structural color,1,self-organization,3
+145,surface enhanced raman scattering,1,atomic force microscope,3
+146,plasmonics,1,catalysis challenge,3
+147,nano-optics,1,renewable,3
+148,spectroscopy,1,catalyst nano-architecture,3
+149,zinc oxide nano-architectures,1,nanoreactor,3
+150,microwave heating,1,atomic force microscopy,3
+151,chemical precursors,1,crystallization,3
+152,electrochemical capacitance,1,nanostructure,3
+153,redox supercapacitors,1,x-ray,3
+154,cmos-nano hybrid circuit,1,self-assembly,3
+155,field-programmable gate array (fpga),1,air/water interface,3
+156,pd nanostructure,1,peg-attached peptide,3
+157,oxygen reduction,1,beta-sheet,3
+158,templated deposition,1,lipid bilayer,3
+159,highly aromatic graphene,1,self-spreading,3
+160,electronic properties,1,molecular manipulation,3
+161,electrochemical,1,amphiphile,3
+162,laser nanofabrication,1,bolaamphiphile,3
+163,laser ablation,1,langmuir-blodgett films,3
+164,semiconductor and plasmonic,1,topography,2
+165,cu2o/cu,1,intracortical microelectrodes,2
+166,heterostructure,1,silicon/germanium nanomembranes,2
+167,nanoflower,1,strain engineering,2
+168,photodegradation,1,mechanical,2
+169,nio,1,microporous materials,2
+170,nano-sheets,1,carbonate precursors,2
+171,homogeneous precipitation,1,cathode materials,2
+172,biomaterial,1,hollow structures,2
+173,polymers,1,micelles,2
+174,silk fibroin,1,lotus-like nano-architectures,2
+175,antheraea assama,1,hierarchical assembly,2
+176,micro-nano,1,v6o13 nano-architectures,2
+177,cmol,1,counter electrode,2
+178,memristive,1,super-paramagnetism,2
+179,neuromorphic networks,1,tunable removal efficiency,2
+180,stdp learning,1,convenient magnetic,2
+181,emerging nanotechnologies,1,ca2+ channels,2
+182,crossbar array,1,quantitative immunoelectron microscopy,2
+183,logic mapping,1,cluster analysis,2
+184,performance optimization,1,palladium nanowires,2
+185,online routing,1,hydrogen detection,2
+186,grid structures,1,storage,2
+187,deltahedra,1,nanocrystalline materials,2
+188,fullerenes,1,semiconductors,2
+189,biological architectures,1,optical materials and,2
+190,dna,1,consecutive systems,2
+191,polyassembly,1,bounds,2
+192,self-organization,1,tungsten trioxide,2
+193,atomic force microscope,1,nano-architecture array,2
+194,nanoelectronics,1,electrochromism,2
+195,nano addressing,1,lower and upper bounds,2
+196,catalysis challenge,1,amphiphile nanofibers,2
+197,renewable,1,hydrogen-peroxide,2
+198,catalyst nano-architecture,1,biomedical,2
+199,nanoreactor,1,zinc oxide nano-architectures,2
+200,vanadium bronze,1,microwave heating,2
+201,bi-cation,1,chemical precursors,2
+202,template-free,1,electrochemical capacitance,2
+203,positive,1,redox supercapacitors,2
+204,atomic force microscopy,1,pd nanostructure,2
+205,crystallization,1,oxygen reduction,2
+206,nanostructure,1,templated deposition,2
+207,x-ray,1,highly aromatic graphene,2
+208,self-assembly,1,electronic properties,2
+209,air/water interface,1,electrochemical,2
+210,peg-attached peptide,1,laser nanofabrication,2
+211,beta-sheet,1,laser ablation,2
+212,lipid bilayer,1,semiconductor and plasmonic,2
+213,self-spreading,1,emerging nanotechnologies,2
+214,molecular manipulation,1,crossbar array,2
+215,nanufacturing,1,logic mapping,2
+216,amphiphile,1,performance optimization,2
+217,bolaamphiphile,1,online routing,2
+218,langmuir-blodgett films,1,nanoelectronics,2
+219,supramolecular chemistry,1,nano addressing,2
+220,iron complexes of n ligands,1,nanufacturing,2
+221,magnetic,1,supramolecular chemistry,2
+222,gibbs distribution,1,iron complexes of n ligands,2
+223,tmr,1,magnetic,2
+224,ctmr,1,computer architectures,2
+225,entropy,1,semiconductor devices,2
+226,computer architectures,1,anionic living polymerization,2
+227,semiconductor devices,1,block copolymer,2
+228,manganese oxides,1,photo-electronic,2
+229,cryogel,1,arrays,1
+230,intercalation,1,perineuronal nets,1
+231,lithium,1,high-energy,1
+232,mn(ii) precursors,1,facile,1
+233,area,1,multishell tubular structures,1
+234,batteries,1,rolled-up micro- and nano-architectures,1
+235,cathode,1,barretts-esophagus,1
+236,anionic living polymerization,1,structural color,1
+237,block copolymer,1,cmos-nano hybrid circuit,1
+238,photo-electronic,1,field-programmable gate array (fpga),1

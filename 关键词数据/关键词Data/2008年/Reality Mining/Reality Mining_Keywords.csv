@@ -1,0 +1,119 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,virtual reality,24,virtual reality,69
+1,reality mining,4,reality mining,10
+2,virtual reality technology,3,coal mine safety,9
+3,coal mine safety,3,virtual reality technology,7
+4,big data,2,rfid,7
+5,opengl,2,mining,7
+6,rfid,2,mine safety,6
+7,mining,2,safety training,6
+8,mine safety,2,visualization,6
+9,safety training,2,digital mine,6
+10,augmented reality,2,gas explosion,6
+11,visualization,2,big data,5
+12,digital mine,2,opengl,5
+13,gas explosion,2,augmented reality,5
+14,information visualization,1,training,4
+15,game data analysis,1,head mounted display,4
+16,mobile augmented reality,1,tracker,4
+17,mine drift,1,immersion,4
+18,mining hazards,1,information technology,4
+19,abandoned mine,1,radar,4
+20,3d max,1,immersive virtual reality,4
+21,lod algorithm,1,teleoperation,4
+22,training,1,dome,4
+23,head mounted display,1,data glove,4
+24,tracker,1,iphone,4
+25,immersion,1,security monitor,4
+26,coal mining face,1,virtual human,4
+27,interaction control,1,hermite spline,4
+28,coal mines,1,virtual,4
+29,emergency evacuation,1,information visualization,3
+30,scenarios,1,game data analysis,3
+31,virtual reality platform,1,mobile augmented reality,3
+32,information technology,1,mine drift,3
+33,radar,1,mining hazards,3
+34,data mining,1,abandoned mine,3
+35,social network analysis,1,3d max,3
+36,mega data,1,lod algorithm,3
+37,multi-dimensional data,1,coal mines,3
+38,artificial intelligence,1,emergency evacuation,3
+39,fuzzy logic,1,scenarios,3
+40,device comparison,1,virtual reality platform,3
+41,h.5.1 [multimedia,1,artificial intelligence,3
+42,mine fire prevention technology,1,fuzzy logic,3
+43,high,1,device comparison,3
+44,3d virtual model,1,h.5.1 [multimedia,3
+45,urban space,1,mine fire prevention technology,3
+46,geosciences,1,high,3
+47,mine,1,geosciences,3
+48,personalization,1,mine,3
+49,general bayesian network,1,personalization,3
+50,mobile phone,1,general bayesian network,3
+51,mining fire,1,mobile phone,3
+52,safety engineering teaching,1,mining fire,3
+53,safety train,1,safety engineering teaching,3
+54,coal mine virtual environment,1,safety train,3
+55,3d visualization,1,fully mechanized mining face,3
+56,the service oriented,1,oaming,3
+57,dynamic object-oriented model,1,interaction,3
+58,spatio-temporal,1,unmanned mining,3
+59,fully mechanized mining face,1,fully mechanized,3
+60,oaming,1,mining engineering,3
+61,interaction,1,virtual training,3
+62,unmanned mining,1,three-dimensional,3
+63,fully mechanized,1,process mining,3
+64,mining engineering,1,workflow mining,3
+65,virtual training,1,ubiquitous computing,3
+66,three-dimensional,1,positioning,3
+67,immersive virtual reality,1,location-based services,3
+68,teleoperation,1,location aware computing,3
+69,dome,1,shearer,3
+70,data glove,1,remote monitoring platform,3
+71,iphone,1,virtual prototype,3
+72,process mining,1,mining process simulation,3
+73,workflow mining,1,scene modeling,3
+74,ubiquitous computing,1,stereoscopic,3
+75,positioning,1,lamp,3
+76,location-based services,1,simulation of safety behavior,3
+77,location aware computing,1,behavior,3
+78,shearer,1,coal mine disaster simulation,3
+79,remote monitoring platform,1,safety,3
+80,virtual prototype,1,underground fire,3
+81,mining process simulation,1,coal mine,3
+82,scene modeling,1,application,3
+83,stereoscopic,1,assembly,3
+84,coal and gas outburst,1,deep-sea mining,3
+85,data preparation and,1,poly-metallic nodule,3
+86,lamp,1,multi-body,3
+87,simulation of safety behavior,1,major disaster research,3
+88,behavior,1,safety education,3
+89,vc plus,1,coal mining face,2
+90,vrmine,1,interaction control,2
+91,coal mine safety engineering,1,data mining,2
+92,identifying,1,social network analysis,2
+93,coal mine disaster simulation,1,mega data,2
+94,safety,1,multi-dimensional data,2
+95,security monitor,1,3d virtual model,2
+96,virtual human,1,urban space,2
+97,hermite spline,1,coal mine virtual environment,2
+98,virtual,1,3d visualization,2
+99,virtual reality (vr),1,the service oriented,2
+100,multi-agent system (mas),1,dynamic object-oriented model,2
+101,mine ventilation,1,spatio-temporal,2
+102,underground fire,1,coal and gas outburst,2
+103,virtual reality(vr),1,data preparation and,2
+104,multi-agent system(mas),1,vc plus,2
+105,mining ventilation,1,vrmine,2
+106,coal mine,1,coal mine safety engineering,2
+107,application,1,identifying,2
+108,assembly,1,virtual reality (vr),2
+109,mine fire simulation,1,multi-agent system (mas),2
+110,rescue decision-making,1,mine ventilation,2
+111,deep-sea mining,1,virtual reality(vr),2
+112,poly-metallic nodule,1,multi-agent system(mas),2
+113,multi-body,1,mining ventilation,2
+114,major disaster research,1,mine fire simulation,2
+115,safety education,1,rescue decision-making,2
+116,safety engineering,1,safety engineering,2
+117,coal mine disaster,1,coal mine disaster,2

@@ -1,0 +1,194 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,reprogramming,24,reprogramming,80
+1,nuclear transfer,19,nuclear transfer,61
+2,nuclear reprogramming,19,nuclear reprogramming,50
+3,somatic cell nuclear transfer,10,oocyte,29
+4,epigenetics,9,epigenetics,29
+5,induced pluripotent stem cells,8,scnt,28
+6,embryo,8,cell fusion,25
+7,oocyte,7,embryo,25
+8,scnt,7,somatic cell nuclear transfer,23
+9,cell fusion,7,nuclear,22
+10,nuclear,7,differentiation,17
+11,embryonic stem cells,5,cloning,17
+12,cloning,5,embryonic stem cells,15
+13,chromatin,5,cell extract,15
+14,transdifferentiation,4,chromatin,15
+15,cell extract,4,induced pluripotent stem cells,13
+16,differentiation,4,ips cells,12
+17,ips cells,4,bovine,11
+18,pluripotency,3,dedifferentiation,11
+19,epigenetic reprogramming,3,transdifferentiation,10
+20,somatic cell,3,pluripotency,10
+21,bovine,3,mitosis,10
+22,pluripotent,3,development,10
+23,dedifferentiation,3,methylation,10
+24,methylation,3,chromatin remodeling,9
+25,somatic cell nuclear,2,pluripotent,9
+26,induced pluripotent,2,ooplasm,8
+27,somatic cell nuclear transfer (scnt),2,somatic cells,8
+28,ooplasm,2,ips,8
+29,nuclear actin,2,somatic cell,8
+30,somatic cells,2,stem cell,8
+31,ips,2,gene,8
+32,mitosis,2,transcription,8
+33,chromatin remodeling,2,epigenetic,7
+34,cellular reprogramming,2,induced pluripotent,6
+35,induced pluripotent stem cell,2,ipsc,6
+36,regenerative,2,early embryo,6
+37,epigenetic,2,protein,6
+38,epigenetic memory,2,small,6
+39,stem cell,2,epigenetic reprogramming,6
+40,development,2,cellular reprogramming,6
+41,xenopus,2,epigenetic memory,6
+42,nuclear transplantation,2,nuclear transplantation,6
+43,dna methylation,2,embryonic stem cell,6
+44,embryonic stem cell,2,microarray,6
+45,microarray,2,gene expression,6
+46,gene expression,2,somatic cell nuclear,5
+47,gene,2,xenopus laevis,5
+48,transcription,2,egg,5
+49,age reprogramming,1,cell cycle,5
+50,epigenetic rejuvenation,1,cell identity,5
+51,transcriptional defect,1,dna damage,5
+52,reprogramming barrier,1,pig,5
+53,scnt embryo,1,nucleus,5
+54,rna-seq,1,nuclear envelope,5
+55,lateral confined growth,1,brg1,5
+56,epigenetic erasure,1,xenopus,5
+57,fam60al,1,dna methylation,5
+58,long noncoding rna,1,dna,5
+59,stem cell biology,1,mapk,4
+60,immune system,1,mpf,4
+61,nitric oxide synthase,1,nuclear actin,4
+62,innate immunity,1,cloning efficiency,4
+63,synthase,1,nuclear factors,4
+64,toll-like,1,porcine oocytes,4
+65,gene co-expression analysis,1,reprogram,4
+66,nuclear transfer reprogramming,1,somatic,4
+67,induced pluripotent reprogramming,1,histone h3.3,4
+68,dnmt1s,1,h3k27me3,4
+69,dna methylation reprogramming,1,induced pluripotent stem cell,4
+70,pluripotent stem,1,regenerative,4
+71,mapk,1,rejuvenation,4
+72,mpf,1,zygote,4
+73,actin polymerization,1,oct4,4
+74,transcriptional reprogramming,1,pou5f1,4
+75,direct conversion,1,stein cell,4
+76,reprogramming.,1,oocyte extracts,4
+77,mitochondrial,1,donor,4
+78,embryonic genome activation,1,human,4
+79,histones,1,pre-implantation development,4
+80,cloning efficiency,1,es cell,4
+81,nuclear factors,1,ips cell,4
+82,porcine oocytes,1,porcine,4
+83,reprogram,1,tata box,4
+84,somatic,1,mouse,4
+85,cancer stem cells,1,pre-implantation embryo,4
+86,oncometabolites,1,developmental biology,4
+87,xenopus laevis,1,early development,4
+88,egg,1,gamete biology,4
+89,proteomics,1,genome,4
+90,ivf,1,nucleus remodeling,4
+91,maternal factors,1,transcriptional defect,3
+92,ipsc,1,reprogramming barrier,3
+93,early embryo,1,scnt embryo,3
+94,protein,1,rna-seq,3
+95,small,1,stem cell biology,3
+96,adipose tissue stem cell,1,immune system,3
+97,epidermal keratinocytes,1,nitric oxide synthase,3
+98,cell,1,somatic cell nuclear transfer (scnt),3
+99,histone variants,1,pluripotent stem,3
+100,cell cycle,1,embryonic genome activation,3
+101,cell identity,1,histones,3
+102,mesenchymal stem cells,1,cancer stem cells,3
+103,reprogramming factors,1,oncometabolites,3
+104,histone h3.3,1,proteomics,3
+105,h3k27me3,1,ivf,3
+106,cell plasticity,1,maternal factors,3
+107,hetemkaryons,1,adipose tissue stem cell,3
+108,cell fate changes,1,epidermal keratinocytes,3
+109,heterokaryons,1,cell,3
+110,dna damage,1,histone variants,3
+111,pig,1,cell plasticity,3
+112,germ cell nuclear factor,1,hetemkaryons,3
+113,pericentromeric chromatin,1,cell fate changes,3
+114,nuclear organization,1,heterokaryons,3
+115,nuclear transfer techniques,1,nuclear transfer techniques,3
+116,alleles,1,alleles,3
+117,embryonic,1,embryonic,3
+118,transcriptional activation,1,vascular smooth muscle cell,3
+119,transcriptional,1,atherosclerosis,3
+120,vascular smooth muscle cell,1,induced pluripotency,3
+121,atherosclerosis,1,cancer,3
+122,induced pluripotency,1,histone modifications,3
+123,cancer,1,cellular memory,3
+124,histone modifications,1,ipscs,3
+125,cellular memory,1,epiblast stem cells,3
+126,cell metabolism,1,inactive x chromosome,3
+127,cell reprogramming,1,macroh2a,3
+128,ipscs,1,differentiation capacity,3
+129,endothelial,1,memory-free,3
+130,stem cell and atherosclerosis,1,somatic reprogramming,3
+131,peripheral arterial disease,1,intact oocytes,3
+132,induced pluripotent cells,1,embryonic stem,3
+133,naive pluripotency,1,reprogramming technique,3
+134,cellular extract,1,totipotency,3
+135,epiblast stem cells,1,epigenetic signature,3
+136,inactive x chromosome,1,primate,3
+137,macroh2a,1,stem cells,3
+138,lineage-specific reprogramming,1,transcription factors,3
+139,oocyte extract and proteomics,1,cell-free extract,3
+140,reprogramming in mammalian oocytes,1,cell-free system,3
+141,differentiation capacity,1,primates,3
+142,memory-free,1,developmental potential,3
+143,somatic reprogramming,1,xenopus egg extract,3
+144,intact oocytes,1,histone b4,3
+145,embryonic stem,1,deacetylation,3
+146,human embryonic stem cells,1,pluripotent gene,3
+147,nucleus,1,t7 phage display,3
+148,nuclear envelope,1,imprinting,3
+149,brg1,1,x inactivation,3
+150,rejuvenation,1,cell signalling,3
+151,pluripotecy,1,nucleic acid,3
+152,reprogramming technique,1,age reprogramming,2
+153,totipotency,1,epigenetic rejuvenation,2
+154,epigenetic signature,1,lateral confined growth,2
+155,zygote,1,epigenetic erasure,2
+156,oct4,1,fam60al,2
+157,pou5f1,1,long noncoding rna,2
+158,stein cell,1,innate immunity,2
+159,primate,1,dnmt1s,2
+160,oocyte extracts,1,dna methylation reprogramming,2
+161,donor,1,actin polymerization,2
+162,stem cells,1,transcriptional reprogramming,2
+163,transcription factors,1,direct conversion,2
+164,cell-free extract,1,reprogramming.,2
+165,cell-free system,1,mitochondrial,2
+166,induced,1,mesenchymal stem cells,2
+167,primates,1,reprogramming factors,2
+168,human,1,germ cell nuclear factor,2
+169,pre-implantation development,1,pericentromeric chromatin,2
+170,developmental potential,1,nuclear organization,2
+171,es cell,1,transcriptional activation,2
+172,ips cell,1,transcriptional,2
+173,xenopus egg extract,1,cell metabolism,2
+174,histone b4,1,cell reprogramming,2
+175,deacetylation,1,endothelial,2
+176,pluripotent gene,1,stem cell and atherosclerosis,2
+177,porcine,1,peripheral arterial disease,2
+178,tata box,1,induced pluripotent cells,2
+179,dna,1,cellular extract,2
+180,mouse,1,lineage-specific reprogramming,2
+181,pre-implantation embryo,1,pluripotecy,2
+182,t7 phage display,1,induced,2
+183,imprinting,1,somatic nuclear transfer,2
+184,x inactivation,1,synthase,1
+185,somatic nuclear transfer,1,toll-like,1
+186,developmental biology,1,gene co-expression analysis,1
+187,early development,1,nuclear transfer reprogramming,1
+188,gamete biology,1,induced pluripotent reprogramming,1
+189,cell signalling,1,naive pluripotency,1
+190,genome,1,oocyte extract and proteomics,1
+191,nucleus remodeling,1,reprogramming in mammalian oocytes,1
+192,nucleic acid,1,human embryonic stem cells,1

@@ -1,0 +1,2593 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Kim, C
+   Ahn, BY
+   Wei, TS
+   Jo, Y
+   Jeong, S
+   Choi, Y
+   Kim, ID
+   Lewis, JA
+AF Kim, Chanhoon
+   Ahn, Bok Yeop
+   Wei, Teng-Sing
+   Jo, Yejin
+   Jeong, Sunho
+   Choi, Youngmin
+   Kim, Il-Doo
+   Lewis, Jennifer A.
+DE aqueous zinc-ion batteries; 3D printing; polyaniline; carbon fiber mat;
+   shape conformal batteries; wearable electronics
+ID ENERGY-STORAGE; CATHODE; DESIGN; FABRICATION
+OI Jeong, Sunho/0000-0002-5969-1614
+NR 40
+TC 1
+Z9 1
+U1 118
+U2 118
+ER
+
+PT J
+AU van Rees, WM
+   Matsumoto, EA
+   Gladman, AS
+   Lewis, JA
+   Mahadevan, L
+AF van Rees, Wim M.
+   Matsumoto, Elisabetta A.
+   Gladman, A. Sydney
+   Lewis, Jennifer A.
+   Mahadevan, L.
+ID SHAPE; GROWTH; SOFT
+NR 29
+TC 0
+Z9 0
+U1 34
+U2 34
+ER
+
+PT J
+AU Kolesky, DB
+   Homan, KA
+   Skylar-Scott, M
+   Lewis, JA
+AF Kolesky, David B.
+   Homan, Kimberly A.
+   Skylar-Scott, Mark
+   Lewis, Jennifer A.
+DE 3-D tissues; bioprinting; kidney-on-a-chip; stem cells; vasculature
+ID HYDROGELS
+NR 27
+TC 0
+Z9 0
+U1 1
+U2 1
+ER
+
+PT J
+AU Sandt, JD
+   Moudio, M
+   Clark, JK
+   Hardin, J
+   Argenti, C
+   Carty, M
+   Lewis, JA
+   Kolle, M
+AF Sandt, Joseph D.
+   Moudio, Marie
+   Clark, J. Kenji
+   Hardin, James
+   Argenti, Christian
+   Carty, Matthew
+   Lewis, Jennifer A.
+   Kolle, Mathias
+DE biomedical sensing; colorimetric pressure sensing; compression bandages;
+   dynamic photonic materials; tunable photonic fibers
+ID VENOUS LEG ULCERS; PHOTONIC CRYSTALS; THERAPY; MANAGEMENT
+OI /0000-0001-7395-8824
+NR 26
+TC 3
+Z9 3
+U1 29
+U2 37
+ER
+
+PT J
+AU Foresti, D
+   Kroll, KT
+   Amissah, R
+   Sillani, F
+   Homan, KA
+   Poulikakos, D
+   Lewis, JA
+AF Foresti, Daniele
+   Kroll, Katharina T.
+   Amissah, Robert
+   Sillani, Francesco
+   Homan, Kimberly A.
+   Poulikakos, Dimos
+   Lewis, Jennifer A.
+ID CONTACTLESS TRANSPORT; RESOLUTION; MATTER; STABILITY; DYNAMICS;
+   DROPLETS; FUTURE; CELL; AIR
+OI Sillani, Francesco/0000-0002-2916-8953
+NR 43
+TC 0
+Z9 0
+U1 23
+U2 23
+ER
+
+PT J
+AU Grosskopf, AK
+   Truby, RL
+   Kim, H
+   Perazzo, A
+   Lewis, JA
+   Stone, HA
+AF Grosskopf, Abigail K.
+   Truby, Ryan L.
+   Kim, Hyoungsoo
+   Perazzo, Antonio
+   Lewis, Jennifer A.
+   Stone, Howard A.
+DE embedded three-dimensional printing; 3D printing; particle image
+   velocimetry; rheology; viscoplasticity
+ID CYLINDER; FLUID; FLOW; SOFT
+RI Kim, Hyoungsoo/D-6883-2017
+OI Kim, Hyoungsoo/0000-0002-2393-723X; Perazzo,
+   Antonio/0000-0002-0380-4245; Stone, Howard/0000-0002-9670-0639
+NR 19
+TC 3
+Z9 3
+U1 15
+U2 26
+ER
+
+PT J
+AU Song, D
+   Bidoky, FZ
+   Hyun, WJ
+   Walker, SB
+   Lewis, JA
+   Frisbie, CD
+AF Song, Donghoon
+   Bidoky, Fazel Zare
+   Hyun, Woo Jin
+   Walker, S. Brett
+   Lewis, Jennifer A.
+   Frisbie, C. Daniel
+DE single-walled carbon nanotubes; BaTiO3-based dielectric; self-aligned
+   printing; imprinted substrate; reservoirs/capillary channels; high
+   performance thin-film transistors
+ID FIELD-EFFECT TRANSISTORS; ELECTRONICS; GRAVURE; LAYERS; RATIO
+RI Zare Bidoky, Fazel/N-8011-2018
+OI Zare Bidoky, Fazel/0000-0003-0739-5992; Song,
+   Donghoon/0000-0003-0914-1507
+NR 37
+TC 3
+Z9 3
+U1 18
+U2 33
+ER
+
+PT J
+AU Wei, TS
+   Ahn, BY
+   Grotto, J
+   Lewis, JA
+AF Wei, Teng-Sing
+   Ahn, Bok Yeop
+   Grotto, Julia
+   Lewis, Jennifer A.
+DE 3D printing; batteries; colloidal suspensions; electrochemistry; Li-ion
+ID COMPOSITE ELECTRODES; LIFEPO4 CATHODES; LITHIUM BATTERY; ENERGY-STORAGE;
+   CARBON-BLACK; PERFORMANCE; SUSPENSIONS; DESIGN; NANOPARTICLES;
+   DISPERSANT
+NR 53
+TC 10
+Z9 10
+U1 58
+U2 134
+ER
+
+PT J
+AU Truby, RL
+   Wehner, M
+   Grosskopf, AK
+   Vogt, DM
+   Uzel, SGM
+   Wood, RJ
+   Lewis, JA
+AF Truby, Ryan L.
+   Wehner, Michael
+   Grosskopf, Abigail K.
+   Vogt, Daniel M.
+   Uzel, Sebastien G. M.
+   Wood, Robert J.
+   Lewis, Jennifer A.
+DE 3D printing; haptics; ionogels; soft robotics; soft sensors
+ID ELECTRICAL-CONDUCTIVITY; ELASTIC CONDUCTORS; IONIC LIQUIDS; FABRICATION;
+   SENSORS; DESIGN; ROBOTS; SKIN
+NR 45
+TC 13
+Z9 13
+U1 39
+U2 74
+ER
+
+PT J
+AU Mueller, J
+   Raney, JR
+   Shea, K
+   Lewis, JA
+AF Mueller, Jochen
+   Raney, Jordan R.
+   Shea, Kristina
+   Lewis, Jennifer A.
+DE 3D printing; architected materials; core-shell; direct ink writing;
+   energy absorption; fracture mechanics
+ID BIOLOGICAL-MATERIALS; ENERGY-ABSORPTION; BONE; METAMATERIALS;
+   LIGHTWEIGHT; ULTRALIGHT; CERAMICS
+NR 41
+TC 7
+Z9 7
+U1 39
+U2 85
+ER
+
+PT J
+AU Kotikian, A
+   Truby, RL
+   Boley, JW
+   White, TJ
+   Lewis, JA
+AF Kotikian, Arda
+   Truby, Ryan L.
+   Boley, John William
+   White, Timothy J.
+   Lewis, Jennifer A.
+DE 3D printing; actuators; liquid crystal elastomers; shape morphing
+ID PHOTOMOBILE POLYMER MATERIALS; SHEAR-FLOW; SOFT; LOCOMOTION; STRAIN;
+   MUSCLE
+RI White, Timothy/D-4392-2012
+OI White, Timothy/0000-0001-8006-7173
+NR 35
+TC 20
+Z9 20
+U1 59
+U2 140
+ER
+
+PT J
+AU Jo, Y
+   Kim, JY
+   Jung, S
+   Ahn, BY
+   Lewis, JA
+   Choi, Y
+   Jeong, S
+AF Jo, Yejin
+   Kim, Ju Young
+   Jung, Sungmook
+   Ahn, Bok Yeop
+   Lewis, Jennifer A.
+   Choi, Youngmin
+   Jeong, Sunho
+NR 1
+TC 0
+Z9 0
+U1 1
+U2 3
+ER
+
+PT J
+AU Raney, JR
+   Compton, BG
+   Mueller, J
+   Ober, TJ
+   Shea, K
+   Lewis, JA
+AF Raney, Jordan R.
+   Compton, Brett G.
+   Mueller, Jochen
+   Ober, Thomas J.
+   Shea, Kristina
+   Lewis, Jennifer A.
+DE 3D printing; composites; mechanics; bioinspired; damage tolerant
+ID CELLULOSE MICROFIBRIL ANGLE; FRACTURE-TOUGHNESS; FIBER COMPOSITES; WOOD;
+   BONE; FABRICATION; DEPOSITION; EXTRUSION; FAILURE
+NR 37
+TC 8
+Z9 8
+U1 7
+U2 20
+ER
+
+PT J
+AU Espinosa-Hoyos, D
+   Jagielska, A
+   Homan, KA
+   Du, HF
+   Busbee, T
+   Anderson, DG
+   Fang, NX
+   Lewis, JA
+   Van Vliet, KJ
+AF Espinosa-Hoyos, Daniela
+   Jagielska, Anna
+   Homan, Kimberly A.
+   Du, Huifeng
+   Busbee, Travis
+   Anderson, Daniel G.
+   Fang, Nicholas X.
+   Lewis, Jennifer A.
+   Van Vliet, Krystyn J.
+ID CENTRAL-NERVOUS-SYSTEM; MULTIPLE-SCLEROSIS; SCHWANN-CELLS; MYELIN
+   MEMBRANE; OLIGODENDROCYTES; NANOFIBERS; STIFFNESS; MODEL; REMYELINATION;
+   CNS
+RI Fang, Nicholas/A-5856-2008
+OI Fang, Nicholas/0000-0001-5713-629X
+NR 61
+TC 3
+Z9 3
+U1 4
+U2 14
+ER
+
+PT S
+AU Poduval, RK
+   Coote, J
+   Mosse, CA
+   Finlay, MC
+   Papakonstantinou, I
+   Desjardins, AE
+AF Poduval, Radhika K.
+   Coote, Joanna
+   Mosse, Charles A.
+   Finlay, Malcolm C.
+   Papakonstantinou, Ioannis
+   Desjardins, Adrien E.
+BE Mohseni, H
+   Agahi, MH
+   Razeghi, M
+DE Two-photon polymerization; fiber-optic sensor; minimally invasive
+   surgery; low coherence interferometry
+ID OPTICAL-FIBER
+NR 19
+TC 0
+Z9 0
+U1 0
+U2 0
+ER
+
+PT S
+AU Whittaker, MA
+   Dauson, ER
+   Parra-Raad, J
+   Heard, RA
+   Oppenheim, IJ
+AF Whittaker, Molly A.
+   Dauson, Erin R.
+   Parra-Raad, Jaime
+   Heard, Robert A.
+   Oppenheim, Irving J.
+BE Naguib, HE
+DE Acoustic resonators; microfluidics; microfibers; nozzles; standing wave
+   ultrasonics
+ID 2-PHASE MATERIALS; ACOUSTIC CONTROL; PARTICLES; SEPARATION; CHANNEL;
+   FIELD
+NR 20
+TC 0
+Z9 0
+U1 4
+U2 4
+ER
+
+PT J
+AU Homan, KA
+   Kolesky, DB
+   Skylar-Scott, MA
+   Lewis, JA
+AF Homan, Kimberly A.
+   Kolesky, David B.
+   Skylar-Scott, Mark A.
+   Lewis, Jennifer A.
+NR 0
+TC 0
+Z9 0
+U1 1
+U2 1
+ER
+
+PT J
+AU Valentine, AD
+   Busbee, TA
+   Boley, JW
+   Raney, JR
+   Chortos, A
+   Kotikian, A
+   Berrigan, JD
+   Durstock, MF
+   Lewis, JA
+AF Valentine, Alexander D.
+   Busbee, Travis A.
+   Boley, John William
+   Raney, Jordan R.
+   Chortos, Alex
+   Kotikian, Arda
+   Berrigan, John Daniel
+   Durstock, Michael F.
+   Lewis, Jennifer A.
+DE conductive elastomers; multimaterial 3D printing; pick-and-place; soft
+   sensors
+ID PRINTABLE ELASTIC CONDUCTORS; HUMAN-MOTION DETECTION; STRAIN SENSORS;
+   CARBON NANOTUBES; LARGE-AREA; ARTIFICIAL SKIN; MATRIX; TRANSPARENT;
+   CIRCUITS; SILVER
+NR 61
+TC 35
+Z9 35
+U1 32
+U2 175
+ER
+
+PT J
+AU Jo, Y
+   Kim, JY
+   Jung, S
+   Ahn, BY
+   Lewis, JA
+   Choi, Y
+   Jeong, S
+AF Jo, Yejin
+   Kim, Ju Young
+   Jung, Sungmook
+   Ahn, Bok Yeop
+   Lewis, Jennifer A.
+   Choi, Youngmin
+   Jeong, Sunho
+ID REDUCED GRAPHENE OXIDE; ELECTROHYDRODYNAMIC INKJET; HIGH-PERFORMANCE;
+   TEMPERATURE; TRANSISTORS
+OI Jeong, Sunho/0000-0002-5969-1614
+NR 22
+TC 3
+Z9 3
+U1 13
+U2 56
+ER
+
+PT J
+AU Costello, CM
+   Phillipsen, MB
+   Hartmanis, LM
+   Kwasnica, MA
+   Chen, V
+   Hackam, D
+   Chang, MW
+   Bentley, WE
+   March, JC
+AF Costello, Cait M.
+   Phillipsen, Mikkel B.
+   Hartmanis, Leonard M.
+   Kwasnica, Marek A.
+   Chen, Victor
+   Hackam, David
+   Chang, Matthew W.
+   Bentley, William E.
+   March, John C.
+ID MIGRATING MOTOR COMPLEX; MECHANICAL FORCES; SMALL-INTESTINE; USSING
+   CHAMBER; STEM-CELLS; CACO-2; PERMEABILITY; ABSORPTION; TRANSPORT; MODEL
+RI Kwasnica, Marek/C-7905-2018
+OI Kwasnica, Marek/0000-0002-2816-1354
+NR 52
+TC 5
+Z9 5
+U1 0
+U2 7
+ER
+
+PT J
+AU Muth, JT
+   Lewis, JA
+AF Muth, Joseph T.
+   Lewis, Jennifer A.
+ID PARTICLE-STABILIZED EMULSIONS; MACROPOROUS CERAMICS; PICKERING
+   EMULSIONS; SCALING BEHAVIOR; POROUS CERAMICS; VOLUME-FRACTION; SHEAR
+   MODULUS; WET FOAMS; RHEOLOGY; NANOPARTICLES
+NR 51
+TC 4
+Z9 4
+U1 8
+U2 44
+ER
+
+PT J
+AU Marti-Figueroa, CR
+   Ashton, RS
+AF Marti-Figueroa, Carlos R.
+   Ashton, Randolph S.
+DE Organoid morphogenesis; Tissue morphology; Tissue cytoarchitecture;
+   Hydrogels; Morphogen gradients; 3-D printing; Sacrificial molding;
+   Photochemistry; Click chemistry; Bioprinting
+ID PLURIPOTENT STEM-CELLS; GROWTH-FACTOR DELIVERY; REGENERATIVE MEDICINE;
+   CEREBRAL ORGANOIDS; SONIC HEDGEHOG; MICROFLUIDIC PLATFORM; 3-DIMENSIONAL
+   TISSUES; EXTRACELLULAR-MATRIX; VASCULAR NETWORKS; GENE-EXPRESSION
+NR 102
+TC 9
+Z9 9
+U1 6
+U2 38
+ER
+
+PT J
+AU Zhou, NJ
+   Liu, CY
+   Lewis, JA
+   Ham, D
+AF Zhou, Nanjia
+   Liu, Chengye
+   Lewis, Jennifer A.
+   Ham, Donhee
+ID FLEXIBLE SUBSTRATE; TECHNOLOGY; ANTENNAS; TAG
+NR 31
+TC 18
+Z9 18
+U1 6
+U2 73
+ER
+
+PT J
+AU Malek, S
+   Raney, JR
+   Lewis, JA
+   Gibson, LJ
+AF Malek, Sardar
+   Raney, Jordan R.
+   Lewis, Jennifer A.
+   Gibson, Lorna J.
+DE composites; 3D printing; multi-scale modeling; finite element method;
+   bioinspired materials; balsa
+ID WOOD; MICROMECHANICS; MECHANICS; MODEL
+OI MALEK, SARDAR/0000-0002-9290-9689
+NR 24
+TC 11
+Z9 11
+U1 12
+U2 59
+ER
+
+PT J
+AU Taaber, T
+   Antsov, M
+   Vlassov, S
+   Maeorg, U
+   Dorogin, L
+   Jarvekulg, M
+   Saal, K
+   Lohmus, R
+AF Taaber, Triinu
+   Antsov, Mikk
+   Vlassov, Sergei
+   Maeorg, Uri
+   Dorogin, Leonid
+   Jarvekulg, Martin
+   Saal, Kristjan
+   Lohmus, Runno
+DE Polymers; Mechanical properties; Solidification; Electron microscopy;
+   Lithography
+ID POLYMER ELECTROLYTES; FLAT SURFACE; TEMPERATURE; PERFORMANCE;
+   MICROSCOPE; NANOWIRES; MECHANISM
+RI Lohmus, Rynno/G-9261-2018; Jarvekulg, Martin/B-4638-2017
+OI Lohmus, Rynno/0000-0002-7009-6795; Jarvekulg,
+   Martin/0000-0002-9181-3124; Dorogin, Leonid/0000-0002-4457-1820;
+   Vlassov, Sergei/0000-0001-9396-4252
+NR 40
+TC 1
+Z9 1
+U1 0
+U2 6
+ER
+
+PT J
+AU Lind, JU
+   Busbee, TA
+   Valentine, AD
+   Pasqualini, FS
+   Yuan, HY
+   Yadid, M
+   Park, SJ
+   Kotikian, A
+   Nesmith, AP
+   Campbell, PH
+   Vlassak, JJ
+   Lewis, JA
+   Parker, KK
+AF Lind, Johan U.
+   Busbee, Travis A.
+   Valentine, Alexander D.
+   Pasqualini, Francesco S.
+   Yuan, Hongyan
+   Yadid, Moran
+   Park, Sung-Jin
+   Kotikian, Arda
+   Nesmith, Alexander P.
+   Campbell, Patrick H.
+   Vlassak, Joost J.
+   Lewis, Jennifer A.
+   Parker, Kevin K.
+ID CELL-DERIVED CARDIOMYOCYTES; FUNCTIONAL MATURATION; TISSUE ARCHITECTURE;
+   MUSCLE; HEART; MYOCYTES; PLATFORM; BIOWIRE; FILMS; CHIP
+RI Yuan, Hongyan/C-3816-2011
+OI Yuan, Hongyan/0000-0001-8225-0211; Lind, Johan Ulrik/0000-0002-0358-3999
+NR 30
+TC 124
+Z9 127
+U1 68
+U2 378
+ER
+
+PT J
+AU Muth, JT
+   Dixon, PG
+   Woish, L
+   Gibson, LJ
+   Lewis, JA
+AF Muth, Joseph T.
+   Dixon, Patrick G.
+   Woish, Logan
+   Gibson, Lorna J.
+   Lewis, Jennifer A.
+DE porous; ceramics; foams; 3D printing; cellular architectures
+ID PARTICLE-STABILIZED FOAMS; POROUS CERAMICS; MECHANICAL-PROPERTIES;
+   BIOLOGICAL-MATERIALS; CYLINDRICAL-SHELLS; EMULSIONS; METAMATERIALS;
+   LIGHTWEIGHT; COMPOSITES; ULTRALIGHT
+NR 45
+TC 18
+Z9 18
+U1 8
+U2 69
+ER
+
+PT J
+AU Boley, JW
+   Chaudhary, K
+   Ober, TJ
+   Khorasaninejad, M
+   Chen, WT
+   Hanson, E
+   Kulkarni, A
+   Oh, J
+   Kim, J
+   Aagesen, LK
+   Zhu, AY
+   Capasso, F
+   Thornton, K
+   Braun, PV
+   Lewis, JA
+AF Boley, J. William
+   Chaudhary, Kundan
+   Ober, Thomas J.
+   Khorasaninejad, Mohammadreza
+   Chen, Wei Ting
+   Hanson, Erik
+   Kulkarni, Ashish
+   Oh, Jaewon
+   Kim, Jinwoo
+   Aagesen, Larry K.
+   Zhu, Alexander Y.
+   Capasso, Federico
+   Thornton, Katsuyo
+   Braun, Paul V.
+   Lewis, Jennifer A.
+ID SELF-ORGANIZATION; AGCL-KCL; METAMATERIALS; LIGHT; CLOAK; MICROSTRUCTURE
+OI Aagesen, Larry/0000-0003-4936-676X; /0000-0002-1227-5293; Kulkarni,
+   Ashish Ajit/0000-0003-0268-9756
+NR 33
+TC 6
+Z9 6
+U1 13
+U2 54
+ER
+
+PT J
+AU Truby, RL
+   Lewis, JA
+AF Truby, Ryan L.
+   Lewis, Jennifer A.
+ID 25TH ANNIVERSARY ARTICLE; MICROVASCULAR NETWORKS; ELASTIC CONDUCTORS;
+   STRAIN SENSORS; ARCHITECTURES; ROBOTS; COMPOSITES; DESIGN;
+   METAMATERIALS; MICROLATTICES
+OI Truby, Ryan/0000-0002-1313-6463
+NR 101
+TC 151
+Z9 156
+U1 125
+U2 591
+ER
+
+PT J
+AU Chen, F
+   Zhu, YJ
+AF Chen, Feng
+   Zhu, Ying-Jie
+DE hydroxyapatite; nanowires; self-assembly; ordered structure;
+   biomineralization; fire-resistant
+ID HYDROTHERMAL SYNTHESIS; BONE APATITE; ARRAYS; COLLAGEN; GROWTH;
+   MINERALIZATION; NANOPARTICLES; NANOFIBERS; STRATEGIES; TRANSFORMATION
+RI CHEN, Feng/E-4310-2016
+OI CHEN, Feng/0000-0002-1162-1684; ?, ??/0000-0002-5044-5046
+NR 44
+TC 26
+Z9 26
+U1 30
+U2 102
+ER
+
+PT J
+AU Montoto, EC
+   Nagarjuna, G
+   Hui, JS
+   Burgess, M
+   Sekerak, NM
+   Hernandez-Burgos, K
+   Wei, TS
+   Kneer, M
+   Grolman, J
+   Cheng, KJ
+   Lewis, JA
+   Moore, JS
+   Rodriguez-Lopez, J
+AF Montoto, Elena C.
+   Nagarjuna, Gavvalapalli
+   Hui, Jingshu
+   Burgess, Mark
+   Sekerak, Nina M.
+   Hernandez-Burgos, Kenneth
+   Wei, Teng-Sing
+   Kneer, Marissa
+   Grolman, Joshua
+   Cheng, Kevin J.
+   Lewis, Jennifer A.
+   Moore, Jeffrey S.
+   Rodriguez-Lopez, Joaquin
+ID ORGANIC ELECTRODE MATERIALS; FLOW BATTERY; CYCLIC VOLTAMMETRY; POLYMER;
+   DIFFUSION; NANOPARTICLES; SEPARATORS; TRANSPORT; MEMBRANES; PROGRESS
+OI Montoto, Elena/0000-0003-4352-4210; Hernandez-Burgos,
+   Kenneth/0000-0002-4644-784X
+NR 36
+TC 22
+Z9 22
+U1 14
+U2 106
+ER
+
+PT J
+AU Homan, KA
+   Kolesky, DB
+   Skylar-Scott, MA
+   Herrmann, J
+   Obuobi, H
+   Moisan, A
+   Lewis, JA
+AF Homan, Kimberly A.
+   Kolesky, David B.
+   Skylar-Scott, Mark A.
+   Herrmann, Jessica
+   Obuobi, Humphrey
+   Moisan, Annie
+   Lewis, Jennifer A.
+ID DRUG-INDUCED NEPHROTOXICITY; EPITHELIAL-CELLS; IN-VITRO; BIOARTIFICIAL
+   KIDNEYS; EXTRACELLULAR-MATRIX; ORGANOIDS; DISEASE; ALBUMIN; TISSUES;
+   MODEL
+OI Herrmann, Jessica/0000-0002-3357-8437
+NR 39
+TC 76
+Z9 78
+U1 9
+U2 54
+ER
+
+PT J
+AU Kozin, ED
+   Black, NL
+   Cheng, JT
+   Cotler, MJ
+   McKenna, MJ
+   Lee, DJ
+   Lewis, JA
+   Rosowski, JJ
+   Remenschneider, AK
+AF Kozin, Elliott D.
+   Black, Nicole L.
+   Cheng, Jeffrey T.
+   Cotler, Max J.
+   McKenna, Michael J.
+   Lee, Daniel J.
+   Lewis, Jennifer A.
+   Rosowski, John J.
+   Remenschneider, Aaron K.
+DE Tympanic membrane; 3D printing; Holography; Tympanoplasty; Biomimetic;
+   Tissue engineering
+ID TIME-AVERAGED HOLOGRAPHY; CHRONIC EAR SURGERY; STROBOSCOPIC HOLOGRAPHY;
+   BIOMEDICAL APPLICATIONS; THICKNESS DISTRIBUTION; HYDROGEL SCAFFOLDS;
+   SOUND-TRANSMISSION; FIBER ARRANGEMENT; DRUG-DELIVERY; CARTILAGE
+OI Gaihede, Michael/0000-0001-6998-2506
+NR 69
+TC 9
+Z9 10
+U1 3
+U2 38
+ER
+
+PT J
+AU Rahman, MT
+   Rahimi, A
+   Gupta, S
+   Panata, R
+AF Rahman, Md Taibur
+   Rahimi, Arya
+   Gupta, Subhanshu
+   Panata, Rahul
+DE Aerosol Jet printing; Printed electronics; 3-D printing; Wearable
+   devices; Touch sensor; Electrostatic field simulations; Interdigitated
+   capacitor; RC time constant
+OI Panat, Rahul/0000-0002-4824-2936
+NR 31
+TC 8
+Z9 8
+U1 1
+U2 25
+ER
+
+PT J
+AU Raney, JR
+   Nadkarni, N
+   Daraio, C
+   Kochmann, DM
+   Lewis, JA
+   Bertoldi, K
+AF Raney, Jordan R.
+   Nadkarni, Neel
+   Daraio, Chiara
+   Kochmann, Dennis M.
+   Lewis, Jennifer A.
+   Bertoldi, Katia
+DE soft; mechanical signal; stable propagation; instability
+ID ACTUATORS; ROBOT; BEAMS; LENS
+NR 37
+TC 41
+Z9 41
+U1 1
+U2 31
+ER
+
+PT J
+AU Wehner, M
+   Truby, RL
+   Fitzgerald, DJ
+   Mosadegh, B
+   Whitesides, GM
+   Lewis, JA
+   Wood, RJ
+AF Wehner, Michael
+   Truby, Ryan L.
+   Fitzgerald, Daniel J.
+   Mosadegh, Bobak
+   Whitesides, George M.
+   Lewis, Jennifer A.
+   Wood, Robert J.
+ID MICROFLUIDIC DEVICES; LOGIC; NETWORKS; SYSTEMS; FLOW
+OI Truby, Ryan/0000-0002-1313-6463
+NR 35
+TC 243
+Z9 255
+U1 146
+U2 717
+ER
+
+PT J
+AU Skylar-Scott, MA
+   Gunasekaran, S
+   Lewis, JA
+AF Skylar-Scott, Mark A.
+   Gunasekaran, Suman
+   Lewis, Jennifer A.
+DE 3D printing; flexible electronics; conductive interconnects; silver ink;
+   laser annealing
+ID TRANSPARENT ELECTRODES; METAMATERIALS; GRAPHENE; MEMS; READ
+NR 29
+TC 65
+Z9 66
+U1 13
+U2 118
+ER
+
+PT J
+AU McCracken, JM
+   Badea, A
+   Kandel, ME
+   Gladman, AS
+   Wetzel, DJ
+   Popescu, G
+   Lewis, JA
+   Nuzzo, RG
+AF McCracken, Joselle M.
+   Badea, Adina
+   Kandel, Mikhail E.
+   Gladman, A. Sydney
+   Wetzel, David J.
+   Popescu, Gabriel
+   Lewis, Jennifer A.
+   Nuzzo, Ralph G.
+ID JKR-DMT TRANSITION; MICROFLUIDIC DEVICES; CONTACT-LENS; SCAFFOLDS;
+   ADHESION; SURFACE; DIFFERENTIATION; CELLS; DIFFUSION; COMPOSITE
+OI Kandel, Mikhail/0000-0003-2124-7750
+NR 78
+TC 10
+Z9 10
+U1 12
+U2 109
+ER
+
+PT J
+AU Hwang, Y
+   Seo, D
+   Roy, M
+   Han, E
+   Candler, RN
+   Seo, S
+AF Hwang, Yongha
+   Seo, Dongmin
+   Roy, Mohendra
+   Han, Euijin
+   Candler, Rob N.
+   Seo, Sungkyu
+DE Three-dimensional (3D) printing; cylindrical microchannel geometry;
+   microfluidics; polydimethylsiloxane (PDMS); equivalent contact angle
+OI ROY, MOHENDRA/0000-0001-5815-3294
+NR 7
+TC 7
+Z9 7
+U1 4
+U2 48
+ER
+
+PT J
+AU Gladman, AS
+   Matsumoto, EA
+   Nuzzo, RG
+   Mahadevan, L
+   Lewis, JA
+AF Gladman, A. Sydney
+   Matsumoto, Elisabetta A.
+   Nuzzo, Ralph G.
+   Mahadevan, L.
+   Lewis, Jennifer A.
+ID FREE-RADICAL POLYMERIZATION; NANOCOMPOSITE HYDROGELS; SHAPE; COMPOSITES;
+   MECHANICS; GEOMETRY
+NR 34
+TC 438
+Z9 443
+U1 183
+U2 968
+ER
+
+PT J
+AU Kolesky, DB
+   Homan, KA
+   Skylar-Scott, MA
+   Lewis, JA
+AF Kolesky, David B.
+   Homan, Kimberly A.
+   Skylar-Scott, Mark A.
+   Lewis, Jennifer A.
+DE bioprinting; stem cells; vasculature; tissues; biomaterials
+ID ORGANS-ON-CHIPS; CELL-CULTURE; NETWORKS; MORPHOGENESIS
+NR 26
+TC 254
+Z9 260
+U1 44
+U2 301
+ER
+
+PT J
+AU Sullivan, KT
+   Zhu, C
+   Duoss, EB
+   Gash, AE
+   Kolesky, DB
+   Kuntz, JD
+   Lewis, JA
+   Spadaccini, CM
+AF Sullivan, Kyle T.
+   Zhu, Cheng
+   Duoss, Eric B.
+   Gash, Alexander E.
+   Kolesky, David B.
+   Kuntz, Joshua D.
+   Lewis, Jennifer A.
+   Spadaccini, Christopher M.
+ID NEGATIVE POISSONS RATIO; ENERGETIC COMPOSITES; METAMATERIALS;
+   ULTRALIGHT; BEHAVIOR; AL/MOO3
+RI ZHU, CHENG/J-4692-2016
+NR 26
+TC 31
+Z9 31
+U1 11
+U2 117
+ER
+
+PT J
+AU Bae, SK
+   Choi, B
+   Chung, H
+   Shin, S
+   Song, HE
+   Seo, JH
+AF Bae, Sung-Kuk
+   Choi, Beomjoon
+   Chung, Haseung
+   Shin, Seungwon
+   Song, Hee-eun
+   Seo, Jung Hwan
+ID CRYSTALLINE SILICON; BOWING PHENOMENON
+NR 16
+TC 0
+Z9 0
+U1 0
+U2 6
+ER
+
+PT J
+AU Liu, ZY
+   Takeuchi, M
+   Nakajima, M
+   Fukuda, T
+   Hasegawa, Y
+   Huang, Q
+AF Liu, Zeyang
+   Takeuchi, Masaru
+   Nakajima, Masahiro
+   Fukuda, Toshio
+   Hasegawa, Yasuhisa
+   Huang, Qiang
+DE Biological cell manipulation; biomimetics
+ID MINIATURIZED 3D CULTURE; PLURIPOTENT STEM-CELLS; SHELL MICROCAPSULES;
+   MICROFLUIDIC DEVICE; MICROENCAPSULATION; ELECTRODEPOSITION; HYDROGELS;
+   GENERATION; FIBERS
+NR 31
+TC 3
+Z9 3
+U1 3
+U2 6
+ER
+
+PT J
+AU Zhang, H
+   Ramm, A
+   Lim, SM
+   Xie, W
+   Ahn, BY
+   Xu, WC
+   Mahajan, A
+   Suszynski, WJ
+   Kim, C
+   Lewis, JA
+   Frisbie, CD
+   Francis, LF
+AF Zhang, Heng
+   Ramm, Alexander
+   Lim, Sooman
+   Xie, Wei
+   Ahn, Bok Yeop
+   Xu, WeiChao
+   Mahajan, Ankit
+   Suszynski, Wieslaw J.
+   Kim, Chris
+   Lewis, Jennifer A.
+   Frisbie, C. Daniel
+   Francis, Lorraine F.
+ID LIGHT-EMITTING-DIODES; FLEXIBLE ELECTRONICS; LIQUID TRANSFER;
+   HIGH-SPEED; TRANSISTORS; LAYERS; PERFORMANCE; CELLS; GATE; INKS
+NR 29
+TC 8
+Z9 8
+U1 4
+U2 57
+ER
+
+PT J
+AU Secor, EB
+   Ahn, BY
+   Gao, TZ
+   Lewis, JA
+   Hersam, MC
+AF Secor, Ethan B.
+   Ahn, Bok Y.
+   Gao, Theodore Z.
+   Lewis, Jennifer A.
+   Hersam, Mark C.
+ID INKJET; POLYMER; FABRICATION; PATTERNS; PROGRESS; CARBON; FILMS; OXIDE;
+   CONDUCTIVITY; EXFOLIATION
+RI Hersam, Mark/B-6739-2009
+NR 43
+TC 88
+Z9 93
+U1 15
+U2 200
+ER
+
+PT J
+AU Clausen, A
+   Wang, FW
+   Jensen, JS
+   Sigmund, O
+   Lewis, JA
+AF Clausen, Anders
+   Wang, Fengwen
+   Jensen, Jakob S.
+   Sigmund, Ole
+   Lewis, Jennifer A.
+ID INDENTATION RESILIENCE; NONLINEAR PROPERTIES; CELLULAR MATERIALS;
+   METAMATERIALS; POLYETHYLENE; FABRICATION; BEHAVIOR; DESIGN
+RI Jensen, Jakob/B-1804-2010; Sigmund, Ole/A-5354-2008; Wang,
+   Fengwen/H-6308-2016
+OI Jensen, Jakob/0000-0001-9962-6166; Sigmund, Ole/0000-0003-0344-7249;
+   Wang, Fengwen/0000-0002-0565-1465
+NR 32
+TC 82
+Z9 85
+U1 20
+U2 99
+ER
+
+PT J
+AU Ober, TJ
+   Foresti, D
+   Lewis, JA
+AF Ober, Thomas J.
+   Foresti, Daniele
+   Lewis, Jennifer A.
+DE microfluidic mixing; yield stress fluids; 3D printing; graded materials
+ID MICROFLUIDICS; FLOWS; MICROCHANNELS; MICROMIXERS; SUSPENSIONS;
+   GRADIENTS; CELLS; MIXER; CHIP; INKS
+NR 41
+TC 57
+Z9 60
+U1 3
+U2 93
+ER
+
+PT J
+AU Shan, SC
+   Kang, SH
+   Raney, JR
+   Wang, P
+   Fang, LC
+   Candido, F
+   Lewis, JA
+   Bertoldi, K
+AF Shan, Sicong
+   Kang, Sung H.
+   Raney, Jordan R.
+   Wang, Pai
+   Fang, Lichen
+   Candido, Francisco
+   Lewis, Jennifer A.
+   Bertoldi, Katia
+DE architected materials; multistability; energy trapping; reversibility;
+   3D printing
+ID COMPRESSIVE RESPONSE; MECHANISMS; MODELS; FOAMS
+RI Kang, Sung/B-1084-2010
+OI Kang, Sung/0000-0002-9156-3348
+NR 25
+TC 110
+Z9 111
+U1 11
+U2 134
+ER
+
+PT J
+AU Huang, YJ
+   Chen, MK
+   Lin, YL
+   Fu, SL
+AF Huang, Yu-Jung
+   Chen, Ming-Kun
+   Lin, Yi-Lung
+   Fu, Shen-Li
+DE Interposer; Flexible substrate; Semi-additive process
+ID FILMS; SILICON; METALS
+NR 28
+TC 3
+Z9 3
+U1 3
+U2 21
+ER
+
+PT J
+AU Hyun, WJ
+   Lim, S
+   Ahn, BY
+   Lewis, JA
+   Frisbie, CD
+   Francis, LF
+AF Hyun, Woo Jin
+   Lim, Sooman
+   Ahn, Bok Yeop
+   Lewis, Jennifer A.
+   Frisbie, C. Daniel
+   Francis, Lorraine F.
+DE screen printing; silver ink; silicon stencils; plastic substrates;
+   printed electronics
+ID SOLAR-CELLS; HIGH-RESOLUTION; ELECTRONICS; TRANSISTORS; COMPONENTS;
+   GRAPHENE; PASTES; FILMS; PAPER
+NR 28
+TC 45
+Z9 47
+U1 9
+U2 94
+ER
+
+PT J
+AU Hardin, JO
+   Ober, TJ
+   Valentine, AD
+   Lewis, JA
+AF Hardin, James O.
+   Ober, Thomas J.
+   Valentine, Alexander D.
+   Lewis, Jennifer A.
+DE 3D printing; microfluidics; multi-material; viscoelastic; ink
+ID HYDROGEL SCAFFOLDS
+OI Hardin, James/0000-0001-8360-3242
+NR 20
+TC 76
+Z9 78
+U1 26
+U2 320
+ER
+
+PT J
+AU Lewis, JA
+   Petty, WJ
+   Harmon, M
+   Peacock, JE
+   Valente, K
+   Owen, J
+   Pirmohamed, M
+   Lesser, GJ
+AF Lewis, Jennifer A.
+   Petty, William J.
+   Harmon, Michele
+   Peacock, James E.
+   Valente, Kari
+   Owen, John
+   Pirmohamed, Munir
+   Lesser, Glenn J.
+ID PNEUMOCYSTIS-CARINII-PNEUMONIA
+OI Pirmohamed, Munir/0000-0002-7534-7266
+NR 15
+TC 3
+Z9 3
+U1 1
+U2 2
+ER
+
+PT J
+AU Qin, Z
+   Compton, BG
+   Lewis, JA
+   Buehler, MJ
+AF Qin, Zhao
+   Compton, Brett G.
+   Lewis, Jennifer A.
+   Buehler, Markus J.
+ID ORB WEBS; SILK; COMPOSITES; NETWORKS; SEQUENCE; BEHAVIOR; DESIGN; PREY
+RI Qin, Zhao/B-4667-2010
+OI Qin, Zhao/0000-0001-5696-8553
+NR 31
+TC 47
+Z9 49
+U1 10
+U2 153
+ER
+
+PT J
+AU Frutiger, A
+   Muth, JT
+   Vogt, DM
+   Menguc, Y
+   Campo, A
+   Valentine, AD
+   Walsh, CJ
+   Lewis, JA
+AF Frutiger, Andreas
+   Muth, Joseph T.
+   Vogt, Daniel M.
+   Menguec, Yigit
+   Campo, Alexandre
+   Valentine, Alexander D.
+   Walsh, Conor J.
+   Lewis, Jennifer A.
+DE ionic conductor; soft sensors; stretchable electronics; textiles; 3D
+   printing
+ID CARBON NANOTUBES; ELECTRONICS; SKIN; CONDUCTORS; ELASTOMERS; CIRCUITS;
+   TRANSPARENT; COMPOSITE; PRESSURE; DEVICES
+NR 71
+TC 93
+Z9 95
+U1 22
+U2 268
+ER
+
+PT J
+AU Lewis, JA
+   Petty, WJ
+   Tooze, JA
+   Miller, DP
+   Chiles, C
+   Miller, AA
+   Bellinger, C
+   Weaver, KE
+AF Lewis, Jennifer A.
+   Petty, W. Jeffrey
+   Tooze, Janet A.
+   Miller, David P.
+   Chiles, Caroline
+   Miller, Antonius A.
+   Bellinger, Christina
+   Weaver, Kathryn E.
+ID UNITED-STATES; GUIDELINES; COST; NUMBER
+NR 29
+TC 39
+Z9 39
+U1 0
+U2 4
+ER
+
+PT J
+AU Lewis, JA
+   Ahn, BY
+AF Lewis, Jennifer A.
+   Ahn, Bok Y.
+ID LIGHT-EMITTING-DIODES; NANOCRYSTALS; POLYMER
+NR 13
+TC 72
+Z9 79
+U1 11
+U2 187
+ER
+
+PT J
+AU Xu, TT
+   Hwang, G
+   Andreff, N
+   Regnier, S
+AF Xu, Tiantian
+   Hwang, Gilgueng
+   Andreff, Nicolas
+   Regnier, Stephane
+DE Helical swimmer; magnetic actuation; path following; visual servoing;
+   3-D pose estimation; 3-D steering
+ID PROPULSION; FABRICATION
+NR 34
+TC 19
+Z9 19
+U1 1
+U2 16
+ER
+
+PT J
+AU Vericella, JJ
+   Baker, SE
+   Stolaroff, JK
+   Duoss, EB
+   Hardin, JO
+   Lewicki, J
+   Glogowski, E
+   Floyd, WC
+   Valdez, CA
+   Smith, WL
+   Satcher, JH
+   Bourcier, WL
+   Spadaccini, CM
+   Lewis, JA
+   Aines, RD
+AF Vericella, John J.
+   Baker, Sarah E.
+   Stolaroff, Joshuah K.
+   Duoss, Eric B.
+   Hardin, James O.
+   Lewicki, James
+   Glogowski, Elizabeth
+   Floyd, William C.
+   Valdez, Carlos A.
+   Smith, William L.
+   Satcher, Joe H., Jr.
+   Bourcier, William L.
+   Spadaccini, Christopher M.
+   Lewis, Jennifer A.
+   Aines, Roger D.
+ID METAL-ORGANIC FRAMEWORK; POSTCOMBUSTION CO2 CAPTURE; REACTION-KINETICS;
+   SEPARATION; MONOETHANOLAMINE; SEQUESTRATION; SOLUBILITY; MODEL;
+   ABSORPTION; MEMBRANES
+OI Hardin, James/0000-0001-8360-3242
+NR 37
+TC 59
+Z9 59
+U1 5
+U2 147
+ER
+
+PT J
+AU Mahajan, A
+   Hyun, WJ
+   Walker, SB
+   Lewis, JA
+   Francis, LF
+   Frisbie, CD
+AF Mahajan, Ankit
+   Hyun, Woo Jin
+   Walker, S. Brett
+   Lewis, Jennifer A.
+   Francis, Lorraine F.
+   Frisbie, C. Daniel
+DE high-resolution metal lines; imprint lithography; inkjet printing;
+   copper electoless plating; flexible electronics
+ID ORGANIC TRANSISTORS; CAPILLARY-FLOW; SOLAR-CELLS; INKJET; FABRICATION;
+   LITHOGRAPHY; ELECTRODES; PATTERNS; LIQUID; TRACKS
+NR 34
+TC 25
+Z9 26
+U1 1
+U2 98
+ER
+
+PT J
+AU Muth, JT
+   Vogt, DM
+   Truby, RL
+   Menguc, Y
+   Kolesky, DB
+   Wood, RJ
+   Lewis, JA
+AF Muth, Joseph T.
+   Vogt, Daniel M.
+   Truby, Ryan L.
+   Menguec, Yigit
+   Kolesky, David B.
+   Wood, Robert J.
+   Lewis, Jennifer A.
+DE 3D printing; sensors; stretchable electronics; wearable electronics
+ID ELECTRONIC SKIN; ELASTIC CONDUCTORS; CARBON NANOTUBES; COMPOSITE;
+   CIRCUITS; SOFT; TRANSPARENT; PRESSURE; SILICONE; SILVER
+RI Menguc, Yigit/A-2706-2015
+OI Menguc, Yigit/0000-0002-3099-665X; Truby, Ryan/0000-0002-1313-6463
+NR 52
+TC 408
+Z9 425
+U1 133
+U2 799
+ER
+
+PT J
+AU Compton, BG
+   Lewis, JA
+AF Compton, Brett G.
+   Lewis, Jennifer A.
+ID THERMAL-PROPERTIES; EPOXY-RESINS; IMIDAZOLE; ALIGNMENT; FOAMS;
+   NANOCOMPOSITES; EXTRUSION; SCAFFOLDS; MECHANISM; METALS
+NR 33
+TC 323
+Z9 332
+U1 91
+U2 807
+ER
+
+PT J
+AU Lessing, J
+   Glavan, AC
+   Walker, SB
+   Keplinger, C
+   Lewis, JA
+   Whitesides, GM
+AF Lessing, Joshua
+   Glavan, Ana C.
+   Walker, S. Brett
+   Keplinger, Christoph
+   Lewis, Jennifer A.
+   Whitesides, George M.
+ID MICROFLUIDIC DEVICES; LITHOGRAPHY-FREE; IMMUNOASSAY; TRANSISTOR;
+   CIRCUITS; VOLUME; FILM; THIN
+RI Keplinger, Christoph/E-5553-2011
+OI Keplinger, Christoph/0000-0001-9151-4100
+NR 47
+TC 116
+Z9 116
+U1 11
+U2 213
+ER
+
+PT J
+AU Kolesky, DB
+   Truby, RL
+   Gladman, AS
+   Busbee, TA
+   Homan, KA
+   Lewis, JA
+AF Kolesky, David B.
+   Truby, Ryan L.
+   Gladman, A. Sydney
+   Busbee, Travis A.
+   Homan, Kimberly A.
+   Lewis, Jennifer A.
+DE 3D printing; bioprinting; vasculature; tissue engineering; biomaterials
+ID GELATIN METHACRYLATE HYDROGELS; IN-VITRO; MICROVASCULAR NETWORKS;
+   FREEFORM FABRICATION; STEM-CELLS; MORPHOGENESIS; SCAFFOLDS; VIABILITY;
+   PRESSURE; DESIGN
+OI Truby, Ryan/0000-0002-1313-6463
+NR 34
+TC 556
+Z9 572
+U1 115
+U2 935
+ER
+
+PT J
+AU Rotman, D
+AF Rotman, David
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 2
+ER
+
+PT S
+AU Chen, YP
+   Yang, MD
+AF Chen, Yi-Ping
+   Yang, Ming-Der
+BE Liu, H
+   Kuroda, SI
+   Zheng, L
+DE 3D modeling; 3D printing; additive manufacturing; micro-scale
+   manufacture
+ID RECONSTRUCTION
+NR 13
+TC 2
+Z9 2
+U1 1
+U2 26
+ER
+
+PT J
+AU Chaudhary, K
+   Juarez, JJ
+   Chen, Q
+   Granick, S
+   Lewis, JA
+AF Chaudhary, Kundan
+   Juarez, Jaime J.
+   Chen, Qian
+   Granick, Steve
+   Lewis, Jennifer A.
+ID MICROSPHERES; PARTICLES; COLLOIDS; SPHERES
+RI Chen, Qian/E-9624-2014
+OI Chen, Qian/0000-0002-1968-441X
+NR 18
+TC 25
+Z9 25
+U1 3
+U2 95
+ER
+
+PT J
+AU Sun, K
+   Wei, TS
+   Ahn, BY
+   Seo, JY
+   Dillon, SJ
+   Lewis, JA
+AF Sun, Ke
+   Wei, Teng-Sing
+   Ahn, Bok Yeop
+   Seo, Jung Yoon
+   Dillon, Shen J.
+   Lewis, Jennifer A.
+DE 3D printing; microbatteries; Li ion
+ID BATTERY ARCHITECTURES; PERIODIC STRUCTURES; LITHIUM; ELECTRODES;
+   CATHODE; FABRICATION; DEPOSITION; NANOWIRE; SENSORS; SYSTEMS
+OI Dillon, Shen/0000-0002-6192-4026
+NR 38
+TC 394
+Z9 412
+U1 87
+U2 886
+ER
+
+PT J
+AU Du, J
+   Wei, ZY
+   Li, SZ
+   Tang, YP
+AF Du Jun
+   Wei Zhengying
+   Li Shize
+   Tang Yiping
+ID UV-NANOIMPRINT LITHOGRAPHY; 3-DIMENSIONAL CHARACTERIZATION; VELOCITY;
+   FLOWS; MODEL; LAYER; STAMP
+NR 30
+TC 0
+Z9 0
+U1 0
+U2 16
+ER
+
+PT J
+AU Du, J
+   Wei, ZY
+   Li, SZ
+   Tang, YP
+AF Du Jun
+   Wei Zhengying
+   Li Shize
+   Tang Yiping
+DE resist filling behavior; micro/nanolithography; defocusing digital
+   particle image velocimetry
+ID NANOIMPRINT LITHOGRAPHY; 3-DIMENSIONAL CHARACTERIZATION; MODEL
+NR 14
+TC 0
+Z9 0
+U1 0
+U2 9
+ER
+
+PT J
+AU Yan, J
+   Chaudhary, K
+   Bae, SC
+   Lewis, JA
+   Granick, S
+AF Yan, Jing
+   Chaudhary, Kundan
+   Bae, Sung Chul
+   Lewis, Jennifer A.
+   Granick, Steve
+ID MAGNETOTACTIC BACTERIA; COMPLEX STRUCTURES; DIPOLAR; PHASE;
+   NANOPARTICLES; MICROSPHERES; MAGNETOSOMES; AGGREGATION; FERROFLUIDS;
+   PARTICLES
+RI Bae, Sung/A-3423-2008
+OI Bae, Sung/0000-0002-9765-6801
+NR 55
+TC 80
+Z9 80
+U1 5
+U2 262
+ER
+
+PT J
+AU Hansen, CJ
+   Saksena, R
+   Kolesky, DB
+   Vericella, JJ
+   Kranz, SJ
+   Muldowney, GP
+   Christensen, KT
+   Lewis, JA
+AF Hansen, Christopher J.
+   Saksena, Rajat
+   Kolesky, David B.
+   Vericella, John J.
+   Kranz, Stephen J.
+   Muldowney, Gregory P.
+   Christensen, Kenneth T.
+   Lewis, Jennifer A.
+DE 3D printing; multinozzle printheads; additive manufacturing
+ID DIRECT-WRITE METHOD; HYDROGEL SCAFFOLDS; LITHOGRAPHY; ELECTRONICS;
+   COMPOSITES; NETWORKS; INKS; LAW
+RI Christensen, Kenneth/B-1123-2009
+OI Christensen, Kenneth/0000-0003-1468-2455; Hansen,
+   Christopher/0000-0002-2958-3014
+NR 37
+TC 55
+Z9 55
+U1 2
+U2 186
+ER
+
+PT J
+AU Sun, L
+   Parker, ST
+   Syoji, D
+   Wang, XL
+   Lewis, JA
+   Kaplan, DL
+AF Sun, Lin
+   Parker, Sara T.
+   Syoji, Daisuke
+   Wang, Xiuli
+   Lewis, Jennifer A.
+   Kaplan, David L.
+ID BMP-INDUCED OSTEOGENESIS; SILK-BASED BIOMATERIALS; ENGINEERING BONE;
+   PORE-SIZE; IN-VITRO; TISSUE; ANGIOGENESIS; HYDROXYAPATITE; GEOMETRY;
+   CULTURE
+NR 32
+TC 67
+Z9 68
+U1 3
+U2 92
+ER
+
+PT J
+AU Chaudhary, K
+   Chen, Q
+   Juarez, JJ
+   Granick, S
+   Lewis, JA
+AF Chaudhary, Kundan
+   Chen, Qian
+   Juarez, Jaime J.
+   Granick, Steve
+   Lewis, Jennifer A.
+ID SPHERES; PARTICLES; NANORODS
+RI Chen, Qian/E-9624-2014
+OI Chen, Qian/0000-0002-1968-441X
+NR 18
+TC 53
+Z9 53
+U1 6
+U2 164
+ER
+
+PT J
+AU Walker, SB
+   Lewis, JA
+AF Walker, S. Brett
+   Lewis, Jennifer A.
+ID PAPER
+NR 20
+TC 200
+Z9 206
+U1 9
+U2 174
+ER
+
+PT J
+AU Lim, MSC
+   Hocking, JS
+   Aitken, CK
+   Fairley, CK
+   Jordan, L
+   Lewis, JA
+   Hellard, ME
+AF Lim, Megan S. C.
+   Hocking, Jane S.
+   Aitken, Campbell K.
+   Fairley, Christopher K.
+   Jordan, Lynne
+   Lewis, Jennifer A.
+   Hellard, Margaret E.
+ID CONDOM USE; MUSIC-FESTIVAL; RISK BEHAVIOR; KNOWLEDGE; ADOLESCENTS;
+   AUSTRALIA; OUTCOMES; COHORT; WOMEN; AIDS
+RI Emchi, Karma/Q-1952-2016
+OI Lim, Megan/0000-0003-3136-6761; Christopher,
+   Fairley/0000-0001-9081-1664; Hocking, Jane/0000-0001-9329-8501
+NR 34
+TC 83
+Z9 84
+U1 2
+U2 33
+ER
+
+PT J
+AU Russo, A
+   Ahn, BY
+   Adams, JJ
+   Duoss, EB
+   Bernhard, JT
+   Lewis, JA
+AF Russo, Analisa
+   Ahn, Bok Yeop
+   Adams, Jacob J.
+   Duoss, Eric B.
+   Bernhard, Jennifer T.
+   Lewis, Jennifer A.
+ID THIN-FILM TRANSISTORS; SILVER NANOPARTICLES; INKJET; POLYMER; DEVICES
+RI Adams, Jacob/B-8953-2008; Adams, Jacob/F-8321-2016
+OI Adams, Jacob/0000-0002-4253-9237; Bernhard, Jennifer/0000-0002-0929-387X
+NR 29
+TC 361
+Z9 367
+U1 19
+U2 325
+ER
+
+PT J
+AU Wu, W
+   DeConinck, A
+   Lewis, JA
+AF Wu, Willie
+   DeConinck, Adam
+   Lewis, Jennifer A.
+ID TEMPERATURE-DEPENDENT MICELLIZATION; SELF-HEALING MATERIALS;
+   MICROFLUIDIC DEVICES; HYDROGELS; FABRICATION; MICROFABRICATION;
+   SCAFFOLDS; DELIVERY; DESIGN; F127
+OI DeConinck, Adam/0000-0003-2592-8983
+NR 34
+TC 219
+Z9 223
+U1 22
+U2 360
+ER
+
+PT J
+AU Adams, JJ
+   Duoss, EB
+   Malkowski, TF
+   Motala, MJ
+   Ahn, BY
+   Nuzzo, RG
+   Bernhard, JT
+   Lewis, JA
+AF Adams, Jacob J.
+   Duoss, Eric B.
+   Malkowski, Thomas F.
+   Motala, Michael J.
+   Ahn, Bok Yeop
+   Nuzzo, Ralph G.
+   Bernhard, Jennifer T.
+   Lewis, Jennifer A.
+ID WIRE ANTENNAS; RADIATION Q; ELECTRONICS; LIMITS
+RI Adams, Jacob/F-8321-2016; Adams, Jacob/B-8953-2008
+OI Adams, Jacob/0000-0002-4253-9237; Bernhard, Jennifer/0000-0002-0929-387X
+NR 23
+TC 219
+Z9 227
+U1 13
+U2 148
+ER
+
+PT J
+AU Zhang, HB
+   DeConinck, AJ
+   Slimmer, SC
+   Doyle, PS
+   Lewis, JA
+   Nuzzo, RG
+AF Zhang, Huaibin
+   DeConinck, Adam J.
+   Slimmer, Scott C.
+   Doyle, Patrick S.
+   Lewis, Jennifer A.
+   Nuzzo, Ralph G.
+DE DNA recognition; fluorescent probes; gene sequencing; kinetic
+   resolution; nonequilibrium processes
+ID SINGLE-NUCLEOTIDE POLYMORPHISMS; ALLELE-SPECIFIC HYBRIDIZATION;
+   NANOPARTICLE PROBES; MICROFLUIDIC DEVICE; FLOW LITHOGRAPHY; HUMAN
+   GENOME; DNA; TECHNOLOGIES; IDENTIFICATION
+OI DeConinck, Adam/0000-0003-2592-8983
+NR 33
+TC 5
+Z9 5
+U1 0
+U2 14
+ER
+
+PT J
+AU Shepherd, JNH
+   Parker, ST
+   Shepherd, RF
+   Gillette, MU
+   Lewis, JA
+   Nuzzo, RG
+AF Shepherd, Jennifer N. Hanson
+   Parker, Sara T.
+   Shepherd, Robert F.
+   Gillette, Martha U.
+   Lewis, Jennifer A.
+   Nuzzo, Ralph G.
+ID HIPPOCAMPAL-NEURONS; NEURITE OUTGROWTH; CELL GUIDANCE; DIMENSIONS;
+   GROWTH; DIFFERENTIATION; LAMININ
+RI Shepherd, Robert/A-7081-2018
+OI Shepherd, Robert/0000-0002-0631-9587
+NR 24
+TC 117
+Z9 118
+U1 5
+U2 166
+ER
+
+PT J
+AU Ahn, BY
+   Lorang, DJ
+   Lewis, JA
+AF Ahn, Bok Yeop
+   Lorang, David J.
+   Lewis, Jennifer A.
+ID DIP-PEN NANOLITHOGRAPHY; SENSITIZED SOLAR-CELLS; FILMS
+NR 25
+TC 89
+Z9 91
+U1 8
+U2 101
+ER
+
+PT J
+AU Ahn, BY
+   Shoji, D
+   Hansen, CJ
+   Hong, E
+   Dunand, DC
+   Lewis, JA
+AF Ahn, Bok Yeop
+   Shoji, Daisuke
+   Hansen, Christopher J.
+   Hong, Eunji
+   Dunand, David C.
+   Lewis, Jennifer A.
+ID PERIODIC STRUCTURES; INKS; TIH2; DNA
+RI Dunand, David/B-7515-2009
+OI Hansen, Christopher/0000-0002-2958-3014; Dunand,
+   David/0000-0001-5476-7379
+NR 23
+TC 65
+Z9 65
+U1 6
+U2 92
+ER
+
+PT J
+AU Conrad, JC
+   Lewis, JA
+AF Conrad, Jacinta C.
+   Lewis, Jennifer A.
+ID PRESSURE-DRIVEN FLOW; CONCENTRATED SUSPENSIONS; DIRECT VISUALIZATION;
+   BROWNIAN SUSPENSION; PERIODIC STRUCTURES; PARTICLE MIGRATION;
+   BLOOD-FLOW; AGGREGATION; MICROSCOPY
+RI Conrad, Jacinta/D-6432-2013
+OI Conrad, Jacinta/0000-0001-6084-4772
+NR 47
+TC 8
+Z9 8
+U1 1
+U2 19
+ER
+
+PT J
+AU Arpin, KA
+   Mihi, A
+   Johnson, HT
+   Baca, AJ
+   Rogers, JA
+   Lewis, JA
+   Braun, PV
+AF Arpin, Kevin A.
+   Mihi, Agustin
+   Johnson, Harley T.
+   Baca, Alfred J.
+   Rogers, John A.
+   Lewis, Jennifer A.
+   Braun, Paul V.
+ID SENSITIZED SOLAR-CELLS; PHOTONIC BAND-GAP; LIGHT-HARVESTING ENHANCEMENT;
+   THIN-FILM TRANSISTORS; 3-DIMENSIONAL NANOSTRUCTURES; INFRARED
+   WAVELENGTHS; PHASE MASKS; WAVE-GUIDES; MULTIPHOTON POLYMERIZATION;
+   NEGATIVE-INDEX
+RI Mihi, Agustin/F-6416-2011
+OI Mihi, Agustin/0000-0003-3821-7881
+NR 151
+TC 126
+Z9 126
+U1 8
+U2 140
+ER
+
+PT J
+AU Ahn, BY
+   Lorang, DJ
+   Duoss, EB
+   Lewis, JA
+AF Ahn, Bok Yeop
+   Lorang, David J.
+   Duoss, Eric B.
+   Lewis, Jennifer A.
+ID OXIDE THIN-FILMS; SINGLE-CRYSTAL SILICON; PERIODIC STRUCTURES;
+   MICROVASCULAR NETWORKS; INKS; PERFORMANCE; POLYMER; DEVICES
+NR 30
+TC 25
+Z9 26
+U1 2
+U2 37
+ER
+
+PT J
+AU Harris, DJ
+   Conrad, JC
+   Lewis, JA
+AF Harris, Daniel J.
+   Conrad, Jacinta C.
+   Lewis, Jennifer A.
+DE drying; colloids; lithography; films
+ID PARTICLE ARRAYS; SESSILE DROPLET; LATEX FILMS; CRYSTALLIZATION;
+   CRYSTALS; SURFACES; STRESS; FLOW
+RI Conrad, Jacinta/D-6432-2013
+OI Conrad, Jacinta/0000-0001-6084-4772
+NR 32
+TC 20
+Z9 20
+U1 0
+U2 21
+ER
+
+PT J
+AU Guo, XY
+   Li, H
+   Ahn, BY
+   Duoss, EB
+   Hsia, KJ
+   Lewis, JA
+   Nuzzo, RG
+AF Guo, Xiaoying
+   Li, Huan
+   Ahn, Bok Yeop
+   Duoss, Eric B.
+   Hsia, K. Jimmy
+   Lewis, Jennifer A.
+   Nuzzo, Ralph G.
+DE 3D structure; microfabrication; self-folding; photovoltaics; capillary
+   force
+ID SOLAR-CELL; PLASTIC-DEFORMATION; BULK WAFERS; SI; MODULE; PERFORMANCE;
+   SUBSTRATE; RIBBONS; SYSTEM; LAYER
+RI Hsia, K. Jimmy/C-7869-2018; GUO, XIAOYING/D-3140-2011
+OI Hsia, K. Jimmy/0000-0001-5323-5442; 
+NR 46
+TC 127
+Z9 129
+U1 4
+U2 78
+ER
+
+PT J
+AU Ahn, BY
+   Duoss, EB
+   Motala, MJ
+   Guo, XY
+   Park, SI
+   Xiong, YJ
+   Yoon, J
+   Nuzzo, RG
+   Rogers, JA
+   Lewis, JA
+AF Ahn, Bok Y.
+   Duoss, Eric B.
+   Motala, Michael J.
+   Guo, Xiaoying
+   Park, Sang-Il
+   Xiong, Yujie
+   Yoon, Jongseung
+   Nuzzo, Ralph G.
+   Rogers, John A.
+   Lewis, Jennifer A.
+ID PERIODIC STRUCTURES; ELECTRONICS; NANOPARTICLES; SILICON; FILM; INKS;
+   CONDUCTIVITY; CIRCUITS; SOLAR; POWER
+RI GUO, XIAOYING/D-3140-2011; Xiong, Yujie/G-3203-2010; Rogers,
+   John/L-2798-2016
+OI Xiong, Yujie/0000-0002-1995-8257; 
+NR 27
+TC 636
+Z9 650
+U1 46
+U2 567
+ER
+
+PT J
+AU Ogunniyi, AO
+   Story, CM
+   Papa, E
+   Guillen, E
+   Love, JC
+AF Ogunniyi, Adebola O.
+   Story, Craig M.
+   Papa, Eliseo
+   Guillen, Eduardo
+   Love, J. Christopher
+ID YEAST SURFACE DISPLAY; PHAGE DISPLAY; MICROARRAYS; PROTEINS; CELLS;
+   FRAGMENTS; LIBRARIES; SELECTION
+OI Papa, Eliseo/0000-0002-2467-7759
+NR 31
+TC 84
+Z9 86
+U1 3
+U2 26
+ER
+
+PT J
+AU Yoon, J
+   Baca, AJ
+   Park, SI
+   Elvikis, P
+   Geddes, JB
+   Li, LF
+   Kim, RH
+   Xiao, JL
+   Wang, SD
+   Kim, TH
+   Motala, MJ
+   Ahn, BY
+   Duoss, EB
+   Lewis, JA
+   Nuzzo, RG
+   Ferreira, PM
+   Huang, YG
+   Rockett, A
+   Rogers, JA
+AF Yoon, Jongseung
+   Baca, Alfred J.
+   Park, Sang-Il
+   Elvikis, Paulius
+   Geddes, Joseph B., III
+   Li, Lanfang
+   Kim, Rak Hwan
+   Xiao, Jianliang
+   Wang, Shuodao
+   Kim, Tae-Ho
+   Motala, Michael J.
+   Ahn, Bok Yeop
+   Duoss, Eric B.
+   Lewis, Jennifer A.
+   Nuzzo, Ralph G.
+   Ferreira, Placid M.
+   Huang, Yonggang
+   Rockett, Angus
+   Rogers, John A.
+ID BULK WAFERS; LOW-COST; CELLS; CRYSTALLINE; TECHNOLOGY
+RI Rogers, John/L-2798-2016; Xiao, Jianliang/B-4535-2008; Rockett,
+   Angus/B-5539-2013; Kim, Rak-Hwan/A-6155-2012; Huang,
+   Yonggang/B-6998-2009; Wang, Shuodao/H-6014-2011
+OI Rockett, Angus/0000-0001-9759-8421; 
+NR 32
+TC 407
+Z9 414
+U1 14
+U2 243
+ER
+
+PT J
+AU Conrad, JC
+   Lewis, JA
+AF Conrad, Jacinta C.
+   Lewis, Jennifer A.
+ID HERSCHEL-BULKLEY FLUIDS; SOFT GLASSY MATERIALS; DIRECT VISUALIZATION;
+   PERIODIC STRUCTURES; VIDEO MICROSCOPY; SCALING BEHAVIOR; SHEAR-FLOW;
+   SUSPENSIONS; RHEOLOGY; MICROSTRUCTURE
+RI Conrad, Jacinta/D-6432-2013
+OI Conrad, Jacinta/0000-0001-6084-4772
+NR 48
+TC 32
+Z9 32
+U1 1
+U2 12
+ER
+
+PT J
+AU Zhang, F
+   Long, GG
+   Jemian, PR
+   Ilavsky, J
+   Milam, VT
+   Lewis, JA
+AF Zhang, Fan
+   Long, Gabrielle G.
+   Jemian, Pete R.
+   Ilavsky, Jan
+   Milam, Valeria T.
+   Lewis, Jennifer A.
+ID BLOCK-COPOLYMER MICELLES; STABILIZATION MECHANISM; PHASE-BEHAVIOR;
+   SCATTERING; DISPERSION; CERAMICS; CRYSTALS
+RI USAXS, APS/D-4198-2013; Zhang, Fan/A-6133-2010
+OI Ilavsky, Jan/0000-0003-1982-8900
+NR 29
+TC 34
+Z9 34
+U1 0
+U2 30
+ER
+
+PT J
+AU Harris, DJ
+   Lewis, JA
+AF Harris, Daniel J.
+   Lewis, Jennifer A.
+ID PARTICLE ARRAYS; SESSILE DROPLET; SILICA SPHERES; LATEX FILMS;
+   CRYSTALLIZATION; DISPERSIONS; CONVECTION; CRYSTALS; SURFACES; STRESS
+NR 35
+TC 59
+Z9 60
+U1 3
+U2 53
+ER
+
+PT J
+AU Xu, MJ
+   Lewis, JA
+AF Xu, Mingjie
+   Lewis, Jennifer A.
+ID 3-DIMENSIONAL PHOTONIC CRYSTALS; HOLLOW FIBER MEMBRANES; POLYELECTROLYTE
+   MULTILAYERS; SOFT LITHOGRAPHY; SEPARATION; MECHANISM; COATINGS; FILMS;
+   FABRICATION; SCAFFOLDS
+NR 43
+TC 10
+Z9 11
+U1 2
+U2 13
+ER
+
+PT J
+AU Simon, JL
+   Michna, S
+   Lewis, JA
+   Rekow, ED
+   Thompson, VP
+   Smay, JE
+   Yampolsky, A
+   Parsons, JR
+   Ricci, JL
+AF Simon, Joshua L.
+   Michna, Sarah
+   Lewis, Jennifer A.
+   Rekow, E. Dianne
+   Thompson, Van P.
+   Smay, James E.
+   Yampolsky, Andrew
+   Parsons, J. Russell
+   Ricci, John L.
+DE bone scaffolds; hydroxyapatite; periodic; direct writing; colloidal inks
+ID CALCIUM-PHOSPHATE CERAMICS; POROUS HYDROXYAPATITE; CANCELLOUS BONE;
+   PORE-SIZE; TISSUE; DESIGN; OSTEOCONDUCTION; ARCHITECTURE; FABRICATION;
+   INGROWTH
+OI Thompson, Van P/0000-0003-0033-0344
+NR 43
+TC 86
+Z9 90
+U1 3
+U2 54
+ER
+
+PT J
+AU Roberts, MT
+   Mohraz, A
+   Christensen, KT
+   Lewis, JA
+AF Roberts, Mark T.
+   Mohraz, Ali
+   Christensen, Kenneth T.
+   Lewis, Jennifer A.
+ID PARTICLE IMAGE VELOCIMETERS; HERSCHEL-BULKLEY FLUID; PERIODIC
+   STRUCTURES; PULSED SYSTEMS; OPTIMIZATION; COAGULATION; SUSPENSIONS;
+   CERAMICS; BEHAVIOR; DEVICES
+RI Christensen, Kenneth/B-1123-2009; Mohraz, Ali/H-9067-2012
+OI Christensen, Kenneth/0000-0003-1468-2455; 
+NR 36
+TC 23
+Z9 24
+U1 0
+U2 16
+ER
+
+PT J
+AU Toohey, KS
+   Sottos, NR
+   Lewis, JA
+   Moore, JS
+   White, SR
+AF Toohey, Kathleen S.
+   Sottos, Nancy R.
+   Lewis, Jennifer A.
+   Moore, Jeffrey S.
+   White, Scott R.
+ID FRACTURE-MECHANICS ANALYSIS; TOUGHENED EPOXY COMPOSITE; FATIGUE CRACKS;
+   PART II; REPAIR; RETARDATION
+OI White, Scott/0000-0002-0831-9097
+NR 23
+TC 701
+Z9 724
+U1 64
+U2 764
+ER
+
+PT J
+AU Harris, DJ
+   Hu, H
+   Conrad, JC
+   Lewis, JA
+AF Harris, Daniel J.
+   Hu, Hua
+   Conrad, Jacinta C.
+   Lewis, Jennifer A.
+ID FLOW; CRYSTALLIZATION; CRYSTALS
+RI Conrad, Jacinta/D-6432-2013
+OI Conrad, Jacinta/0000-0001-6084-4772
+NR 22
+TC 127
+Z9 130
+U1 3
+U2 62
+ER
+
+PT J
+AU Shepherd, RF
+   Conrad, JC
+   Rhodes, SK
+   Link, DR
+   Marquez, M
+   Weitz, DA
+   Lewis, JA
+AF Shepherd, Robert F.
+   Conrad, Jacinta C.
+   Rhodes, Summer K.
+   Link, Darren R.
+   Marquez, Manuel
+   Weitz, David A.
+   Lewis, Jennifer A.
+ID WET GRANULATION; PARTICLES; SHEAR; FLOW; GENERATION; AGGLOMERATION;
+   DISPERSIONS; FABRICATION; DEVICES; SPHERES
+RI Shepherd, Robert/A-7081-2018; Conrad, Jacinta/D-6432-2013
+OI Shepherd, Robert/0000-0002-0631-9587; Conrad,
+   Jacinta/0000-0001-6084-4772
+NR 37
+TC 195
+Z9 201
+U1 6
+U2 176
+ER
+
+PT J
+AU Rao, RB
+   Kobelev, VL
+   Li, Q
+   Lewis, JA
+   Schweizer, KS
+AF Rao, RB
+   Kobelev, VL
+   Li, Q
+   Lewis, JA
+   Schweizer, KS
+ID PERIODIC STRUCTURES; COLLOIDAL GLASSES; TRANSITION; RHEOLOGY;
+   SUSPENSIONS; FLOW; DISPERSIONS; SPHERES; INKS
+NR 27
+TC 24
+Z9 25
+U1 1
+U2 14
+ER
+
+PT J
+AU Plunkett, KN
+   Mohraz, A
+   Haasch, RT
+   Lewis, JA
+   Moore, JS
+AF Plunkett, KN
+   Mohraz, A
+   Haasch, RT
+   Lewis, JA
+   Moore, JS
+ID OPPOSITELY CHARGED COLLOIDS; PHOTONIC CRYSTALS; HETEROAGGREGATION
+RI Mohraz, Ali/H-9067-2012
+OI Haasch, Richard/0000-0001-9479-2595
+NR 13
+TC 36
+Z9 36
+U1 1
+U2 19
+ER
+
+PT J
+AU Michna, S
+   Wu, W
+   Lewis, JA
+AF Michna, S
+   Wu, W
+   Lewis, JA
+DE hydroxapatite; bone tissue engineering; scaffolds; direct-write assembly
+ID MECHANICAL-PROPERTIES; BONE; TISSUE; SUSPENSIONS; CHALLENGES; CERAMICS
+NR 32
+TC 144
+Z9 147
+U1 2
+U2 62
+ER
+
+PT J
+AU Chan, AT
+   Lewis, JA
+AF Chan, AT
+   Lewis, JA
+ID COLLOIDAL DISPERSIONS; PARTICLES
+NR 20
+TC 33
+Z9 33
+U1 3
+U2 24
+ER
+
+PT J
+AU Yang, Y
+   Basu, S
+   Tomasko, DL
+   Lee, LJ
+   Yang, ST
+AF Yang, Y
+   Basu, S
+   Tomasko, DL
+   Lee, LJ
+   Yang, ST
+DE tissue scaffold; microembossing; carbon dioxide bonding;
+   poly(DL-lactide-co-glycolide); PLGA
+ID BIODEGRADABLE POLYMER SCAFFOLDS; GLASS-TRANSITION TEMPERATURE; TISSUE
+   ENGINEERING SCAFFOLDS; IN-VITRO; LITHOGRAPHY; MATRICES; ACID); BONE;
+   MICROSCALE; DEPOSITION
+NR 33
+TC 52
+Z9 54
+U1 3
+U2 17
+ER
+
+PT J
+AU Gratson, GM
+   Lewis, JA
+AF Gratson, GM
+   Lewis, JA
+ID WEAK POLYELECTROLYTES; PERIODIC STRUCTURES; PHOTONIC CRYSTALS;
+   MULTILAYER FILMS; POOR SOLVENTS; COMPLEXES; ADSORPTION; TRANSITIONS;
+   FABRICATION; POLYCATION
+NR 48
+TC 42
+Z9 43
+U1 2
+U2 22
+ER
+
+PT J
+AU Lee, W
+   Chan, A
+   Bevan, MA
+   Lewis, JA
+   Braun, PV
+AF Lee, W
+   Chan, A
+   Bevan, MA
+   Lewis, JA
+   Braun, PV
+ID HARD-SPHERE CRYSTALS; CRYSTALLIZATION; SUSPENSIONS; GROWTH; BEHAVIOR;
+   SURFACES; SENSORS; FILMS; PH
+RI Bevan, Michael/A-3397-2010
+OI Lee, Wonmok/0000-0001-6757-885X
+NR 35
+TC 91
+Z9 91
+U1 2
+U2 30
+ER
+
+PT J
+AU Wedin, P
+   Martinez, CJ
+   Lewis, JA
+   Daicic, J
+   Bergstrom, L
+AF Wedin, P
+   Martinez, CJ
+   Lewis, JA
+   Daicic, J
+   Bergstrom, L
+DE calcium carbonate; PCC; CMC; carboxy methylcellulose; latex; drying;
+   paper coating; stress evolution
+ID GRANULAR CERAMIC FILMS; INTERNAL-STRESS; COATINGS; EVOLUTION; PROPERTY;
+   BEHAVIOR; LAYERS
+RI Bergstrom, Lennart/F-2938-2011
+OI Bergstrom, Lennart/0000-0002-5702-0681
+NR 26
+TC 34
+Z9 34
+U1 0
+U2 8
+ER
+
+PT J
+AU Gratson, GM
+   Xu, MJ
+   Lewis, JA
+AF Gratson, GM
+   Xu, MJ
+   Lewis, JA
+NR 12
+TC 237
+Z9 245
+U1 13
+U2 123
+ER
+
+PT J
+AU Whitby, CP
+   Scales, PJ
+   Grieser, F
+   Healy, TW
+   Kirby, G
+   Lewis, JA
+   Zukoski, CF
+AF Whitby, CP
+   Scales, PJ
+   Grieser, F
+   Healy, TW
+   Kirby, G
+   Lewis, JA
+   Zukoski, CF
+DE polyelectrolyte; comb polymer; silica; rheology; AFM
+ID CEMENT SUSPENSIONS; POLYACRYLIC-ACID; MICROSCOPE; ADSORPTION; SURFACES;
+   ELECTROLYTE; MECHANISMS; OXIDE
+RI Whitby, Catherine/O-4034-2014; Whitby, Catherine/F-4179-2013; SCALES,
+   PETER/I-8103-2013
+OI Whitby, Catherine/0000-0002-1394-2334; SCALES,
+   PETER/0000-0002-8033-3686; GRIESER, FRANZ/0000-0003-4331-8409
+NR 24
+TC 55
+Z9 63
+U1 2
+U2 41
+ER
+
+PT J
+AU Therriault, D
+   White, SR
+   Lewis, JA
+AF Therriault, D
+   White, SR
+   Lewis, JA
+ID 2-PHOTON POLYMERIZATION; MICROFLUIDIC SYSTEMS; DEVICE; DNA;
+   POLY(DIMETHYLSILOXANE); MICROFABRICATION; MIXER
+OI White, Scott/0000-0002-0831-9097
+NR 27
+TC 384
+Z9 391
+U1 9
+U2 184
+ER
+
+PT J
+AU Tohver, V
+   Smay, JE
+   Braem, A
+   Braun, PV
+   Lewis, JA
+AF Tohver, V
+   Smay, JE
+   Braem, A
+   Braun, PV
+   Lewis, JA
+ID DEPLETION FLOCCULATION; PHOTONIC CRYSTALS; PHASE-BEHAVIOR; SUSPENSIONS;
+   DISPERSIONS; PARTICLES; POLYMERS; SILICA; LATEX; POLYELECTROLYTES
+NR 40
+TC 176
+Z9 177
+U1 1
+U2 88
+ER
+
+PT J
+AU Desai, TA
+AF Desai, TA
+ID CELL BEHAVIOR; POLY(ETHYLENE GLYCOL); PROTEIN ADSORPTION;
+   SURFACE-TOPOGRAPHY; ARTIFICIAL ORGANS; CONTACT GUIDANCE; POLYMER
+   SURFACES; MAMMALIAN-CELLS; FABRICATION; CULTURE
+RI Luong-Van, Emma/A-8685-2012
+NR 106
+TC 216
+Z9 227
+U1 5
+U2 38
+ER
+
+EF

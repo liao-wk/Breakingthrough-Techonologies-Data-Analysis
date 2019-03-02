@@ -1,0 +1,204 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,embryo transfer,14,embryo transfer,39
+1,artificial insemination,9,artificial insemination,22
+2,embryo,7,embryo,22
+3,cryopreservation,5,artificial seeds,16
+4,artificial seeds,5,cryopreservation,15
+5,ivf,3,ivf,12
+6,milk production,3,bovine,9
+7,human embryo,2,artificial uterus,9
+8,artificial cycle,2,ectogenesis,9
+9,in vitro fertilization,2,human embryo,8
+10,embryo survival,2,pregnancy,8
+11,pregnancy rate,2,pig,7
+12,bovine,2,vitrification,7
+13,artificial,2,ivm,7
+14,endometrial receptivity,2,in vitro fertilization,6
+15,pig,2,pregnancy rate,6
+16,endometrium,2,mare,6
+17,mare,2,milk production,6
+18,artificial uterus,2,embryo survival,5
+19,ectogenesis,2,donor,5
+20,pregnancy,2,recipient,5
+21,vitrification,2,moet,5
+22,endometrial thickness,2,in vitro maturation/ in,5
+23,ivm,2,artificial,5
+24,dog,2,endometrium,5
+25,artificial germ cells,1,artificial placenta,5
+26,artificiality,1,art,5
+27,ethics,1,ecm,5
+28,law,1,dog,5
+29,endometrium preparation,1,oxygen,5
+30,frozen-thawed embryo,1,egg mass,5
+31,frozenembryo transfer,1,nudibranch,5
+32,reproductive outcomes,1,marine,5
+33,endometrial preparation,1,temperature,5
+34,estradiol,1,size,5
+35,frozen embryo transfer cycles,1,artificial germ cells,4
+36,live,1,artificiality,4
+37,artificial termination of pregnancy,1,ethics,4
+38,abortion,1,law,4
+39,legal status of embryo,1,artificial cycle,4
+40,epigenetics,1,sexed-sorted sperm,4
+41,periconception,1,tai,4
+42,artificial fertilization,1,endometrial receptivity,4
+43,cyprinids,1,uterus,4
+44,burbot,1,protein,4
+45,sexed-sorted sperm,1,hexose,4
+46,tai,1,controversial,4
+47,donor,1,moral status,4
+48,recipient,1,attitude,4
+49,moet,1,legitimacy,4
+50,in vitro maturation/ in,1,genome manipulation,4
+51,embryo quality assessment,1,colour marker,4
+52,morphological evaluation,1,uv treatment,4
+53,frozen embryo transfer,1,spermatozoa,4
+54,blastocyst,1,oocytes,4
+55,artificial shrinkage,1,acorn germination,4
+56,frozen embryo,1,coevolution,4
+57,uterus,1,embryo depth,4
+58,protein,1,embryo excision,4
+59,hexose,1,white oak,4
+60,frozen thawed embryo transfer,1,whiting embryos,4
+61,natural cycle fet,1,dmso,4
+62,artificial cycle fet,1,electroporation,4
+63,callus induction,1,permeation,4
+64,somatic embryogenesis,1,cattle,4
+65,cauliflower,1,endometrial thickness,4
+66,non-surgical embryo transfer,1,womb,4
+67,oxygen consumption rate,1,embryo implantation,4
+68,artificially prepared cycle,1,fetal,4
+69,cryopreserved embryo transfer,1,androgenic embryo,4
+70,controversial,1,anther culture,4
+71,moral status,1,pro-embryo,4
+72,attitude,1,rice,4
+73,legitimacy,1,whole embryo culture,4
+74,embryo recovery,1,eggshell,4
+75,embryo quality,1,teflon membrane,4
+76,ovulation rate,1,chicken,4
+77,artificial vessel,1,quail,4
+78,chicken embryo culture,1,alginate,4
+79,hatching,1,hollow beads,4
+80,shell-less,1,synthetic seeds,4
+81,genome manipulation,1,storage,4
+82,colour marker,1,foetus,4
+83,uv treatment,1,mortality,4
+84,spermatozoa,1,gestation,4
+85,oocytes,1,cattle pregnancy,4
+86,acorn germination,1,oocyte,4
+87,coevolution,1,embryo technology,4
+88,embryo depth,1,estradiol,3
+89,embryo excision,1,frozen embryo transfer cycles,3
+90,white oak,1,live,3
+91,whiting embryos,1,epigenetics,3
+92,dmso,1,periconception,3
+93,electroporation,1,artificial fertilization,3
+94,permeation,1,cyprinids,3
+95,x-sorted sperm,1,burbot,3
+96,dairy cattle,1,blastocyst,3
+97,buffalo reproduction,1,artificial shrinkage,3
+98,embryo production,1,frozen embryo,3
+99,implantation,1,callus induction,3
+100,artificial decidualization,1,somatic embryogenesis,3
+101,assisted reproduction technology,1,cauliflower,3
+102,embryo selection,1,non-surgical embryo transfer,3
+103,machine learning,1,oxygen consumption rate,3
+104,sheep,1,embryo recovery,3
+105,viability,1,embryo quality,3
+106,artificial placenta,1,ovulation rate,3
+107,art,1,artificial vessel,3
+108,ecm,1,chicken embryo culture,3
+109,cattle,1,hatching,3
+110,endometrial volume,1,shell-less,3
+111,stallion,1,x-sorted sperm,3
+112,pseudomonas aeruginosa,1,dairy cattle,3
+113,venereal diseases,1,implantation,3
+114,immature seeds,1,artificial decidualization,3
+115,embryo age,1,sheep,3
+116,plant growth regulator,1,viability,3
+117,i. lactea,1,stallion,3
+118,non-hcg-primed,1,pseudomonas aeruginosa,3
+119,embryo vitrification,1,venereal diseases,3
+120,artificial endometrial,1,immature seeds,3
+121,nonsurgical transfer,1,embryo age,3
+122,womb,1,plant growth regulator,3
+123,embryo implantation,1,i. lactea,3
+124,fetal,1,non-hcg-primed,3
+125,heat stress,1,embryo vitrification,3
+126,embryo banking,1,artificial endometrial,3
+127,thalassaemia transgenic,1,nonsurgical transfer,3
+128,conifer embryogenesis,1,conifer embryogenesis,3
+129,pinus radiata,1,pinus radiata,3
+130,somatic embryo,1,somatic embryo,3
+131,suspension,1,suspension,3
+132,androgenic embryo,1,equine,3
+133,anther culture,1,embryonic death,3
+134,pro-embryo,1,fetal death,3
+135,rice,1,bovine viral diarrhea virus,3
+136,preimplantation development,1,bvdv,3
+137,equine,1,semen,3
+138,embryonic death,1,embryos,3
+139,fetal death,1,in vivo fertilization,3
+140,bovine viral diarrhea virus,1,oryzias latipes,3
+141,bvdv,1,in vivo development,3
+142,semen,1,sperm,3
+143,embryos,1,management,3
+144,oxygen,1,recipients,3
+145,egg mass,1,forest trees,3
+146,nudibranch,1,hydrogel beads,3
+147,marine,1,synseeds,3
+148,temperature,1,cushing,3
+149,size,1,cyclicity,3
+150,alpaca,1,horse,3
+151,whole embryo culture,1,adventive embryo,3
+152,eggshell,1,alga,3
+153,teflon membrane,1,artificial seedling,3
+154,chicken,1,sargassum macrocarpum,3
+155,quail,1,endangered species,3
+156,in vivo fertilization,1,in vitro,3
+157,oryzias latipes,1,endometrium preparation,2
+158,in vivo development,1,frozen-thawed embryo,2
+159,sperm,1,frozenembryo transfer,2
+160,alginate,1,reproductive outcomes,2
+161,hollow beads,1,endometrial preparation,2
+162,synthetic seeds,1,artificial termination of pregnancy,2
+163,storage,1,abortion,2
+164,management,1,legal status of embryo,2
+165,recipients,1,embryo quality assessment,2
+166,forest trees,1,morphological evaluation,2
+167,hydrogel beads,1,frozen embryo transfer,2
+168,synseeds,1,frozen thawed embryo transfer,2
+169,cushing,1,natural cycle fet,2
+170,cyclicity,1,artificial cycle fet,2
+171,horse,1,artificially prepared cycle,2
+172,large-scale culture,1,cryopreserved embryo transfer,2
+173,encapsulated embryos,1,buffalo reproduction,2
+174,cattle-reproductive technology,1,embryo production,2
+175,gestation length,1,assisted reproduction technology,2
+176,in vitro embryo,1,embryo selection,2
+177,somatic cell nuclear transfer,1,machine learning,2
+178,adventive embryo,1,endometrial volume,2
+179,alga,1,heat stress,2
+180,artificial seedling,1,preimplantation development,2
+181,sargassum macrocarpum,1,alpaca,2
+182,endangered species,1,large-scale culture,2
+183,in vitro,1,encapsulated embryos,2
+184,camel,1,cattle-reproductive technology,2
+185,reproduction,1,gestation length,2
+186,foetus,1,in vitro embryo,2
+187,mortality,1,somatic cell nuclear transfer,2
+188,gestation,1,artificial chromosomes (mammalian),2
+189,cattle pregnancy,1,bovine embryos,2
+190,artificial chromosomes (mammalian),1,microinjection,2
+191,bovine embryos,1,artificial reproduction technology,2
+192,microinjection,1,ovarian function,2
+193,artificial reproduction technology,1,salpingectomy,2
+194,ovarian function,1,ivf (in-vitro fertilization),2
+195,salpingectomy,1,et (embryo transfer),2
+196,ivf (in-vitro fertilization),1,japanese monkey,2
+197,et (embryo transfer),1,donor age,2
+198,japanese monkey,1,frozen embryos,2
+199,donor age,1,embryo banking,1
+200,frozen embryos,1,thalassaemia transgenic,1
+201,oocyte,1,camel,1
+202,embryo technology,1,reproduction,1

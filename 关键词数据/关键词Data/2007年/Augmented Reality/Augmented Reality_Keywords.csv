@@ -1,0 +1,497 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,augmented reality,176,augmented reality,483
+1,virtual reality,22,virtual reality,67
+2,mixed reality,11,mixed reality,36
+3,augmented,8,augmented,27
+4,mobile augmented reality,8,mobile,26
+5,virtual,7,virtual,24
+6,usability,6,ar,24
+7,mobile,6,usability,21
+8,ar,5,mobile augmented reality,19
+9,interaction,5,unity,19
+10,education,4,3d,19
+11,cloud computing,4,interaction,15
+12,unity,4,reality,14
+13,ubiquitous computing,4,education,12
+14,3d,4,ios,11
+15,mobile computing,4,android,11
+16,augmented reality (ar),3,educational,11
+17,spatial augmented reality,3,vuforia,10
+18,mobile device,3,ubiquitous computing,10
+19,depth perception,3,adaptive systems,10
+20,mobile devices,3,mobile computing,10
+21,reality,3,hololens,9
+22,adaptive systems,3,teleoperation,9
+23,computer vision,3,cloud computing,9
+24,architecture,3,mobile device,9
+25,educational,3,depth perception,9
+26,modeling,2,mobile devices,9
+27,hololens,2,architecture,9
+28,learning,2,hmd,8
+29,teleoperation,2,oculus rift,8
+30,hmd,2,museum,8
+31,oculus rift,2,cloud,8
+32,user,2,art,8
+33,survey,2,simulator,8
+34,learning objects,2,user,7
+35,sensors,2,tracking,7
+36,tracking,2,mediated reality,7
+37,vuforia,2,wearable computing,7
+38,mobile technologies,2,smart,7
+39,augmented virtuality,2,augmented reality (ar),7
+40,mediated reality,2,neural network,7
+41,wearable computing,2,computer vision,7
+42,mobile applications,2,image processing,7
+43,smart,2,modeling,6
+44,3d interaction,2,sensors,6
+45,phenomenology,2,mobile technologies,6
+46,photogrammetry,2,saro,6
+47,museum,2,care,6
+48,cloud,2,semantic web,6
+49,augmented reality materials,2,care modeler,6
+50,virtual and augmented reality,2,mobile applications,6
+51,ios,2,phenomenology,6
+52,visualization,2,photogrammetry,6
+53,art,2,usability engineering,6
+54,neural network,2,lumber fact joints,5
+55,android,2,injections,5
+56,augmented reality technologies,2,spine,5
+57,visual,2,phantom,5
+58,image processing,2,mixed,5
+59,edutainment,2,learning,5
+60,artoolkit,2,mobile robot,5
+61,simulator,2,survey,5
+62,mobile learning,2,learning objects,5
+63,e-commerce,2,3d interaction,5
+64,outdoor augmented reality,2,spatial augmented reality,5
+65,x-ray,2,ndt,5
+66,user interfaces,2,remote,5
+67,interactive book with augmented reality,2,visualization,5
+68,augment reality,2,sensor,5
+69,optical see-through display,2,device,5
+70,remote control,2,embedded,5
+71,internet,2,eud,5
+72,usability engineering,2,end-user development,5
+73,vuforia sdk,1,aar,5
+74,unity3d,1,augmented reality technologies,5
+75,location based data,1,visual,5
+76,architectural design,1,edutainment,5
+77,teacher's candidate,1,artoolkit,5
+78,teacher,1,e-commerce,5
+79,new technologies,1,x-ray,5
+80,real constructs,1,user interfaces,5
+81,lumber fact joints,1,pedagogy,5
+82,injections,1,design based learning,5
+83,spine,1,higher,5
+84,phantom,1,vr,5
+85,mixed,1,human augmentation,5
+86,immigration,1,optical see-through display,5
+87,positive technology,1,ludic,5
+88,co-creation,1,installation,5
+89,experiences,1,ultrasound,4
+90,interactivity marketing,1,hand gesture,4
+91,ultrasound,1,virtual objects,4
+92,neurosurgery,1,real world,4
+93,immersive environment,1,human computer interaction,4
+94,highway systems,1,4r,4
+95,project delivery,1,learnability,4
+96,mobile application,1,augmented virtuality,4
+97,cross-platform engine unity,1,eyetap,4
+98,interactive mobile augmented reality application,1,open,4
+99,mobile robot,1,interation,4
+100,mars exploration,1,leap motion,4
+101,augmenting mars,1,marker-less,4
+102,interactive design,1,gaming,4
+103,visual communication,1,user experience,4
+104,mobile terminal,1,augmented reality materials,4
+105,augmented reality image recognition,1,displays,4
+106,human heart,1,integral imaging,4
+107,teaching,1,micro display,4
+108,biology,1,3d display,4
+109,kit preparation,1,design,4
+110,mixed-model assembly,1,experimentation,4
+111,picking information,1,human factors,4
+112,pervasive augmented reality,1,auditory display,4
+113,context-awareness,1,spatial sound,4
+114,laparoscopic surgery,1,virtual and augmented reality,4
+115,scorm,1,deformation,4
+116,moodle,1,cutting,4
+117,e-learning,1,tearing,4
+118,smart materials,1,h.5.1 [information,4
+119,halftone pattern coding,1,smart environments,4
+120,augmented reality application,1,balinese folklore,4
+121,steganography,1,miths,4
+122,hand gesture,1,legends,4
+123,virtual objects,1,augmented reality story book,4
+124,real world,1,media psychology,4
+125,augmented reality analytics,1,psychology,4
+126,user behavior analysis,1,cognitive,4
+127,data analysis,1,immersive,4
+128,generation z,1,heuristics,4
+129,shopping experience,1,iso 9241-11,4
+130,learning experience,1,virtual fixtures,4
+131,instructional software,1,mobile learning,4
+132,instructional design,1,ar-aided design,4
+133,human computer interaction,1,interior design,4
+134,4r,1,hci,4
+135,learnability,1,outdoor augmented reality,4
+136,project based learning,1,smart phone,4
+137,augmented reality learning,1,3d modeling,4
+138,augmented reality authoring tools,1,interactive book with augmented reality,4
+139,natural features,1,augment reality,4
+140,eyetap,1,locative,4
+141,open,1,public art,4
+142,saro,1,collective,4
+143,care,1,virtual object,4
+144,semantic web,1,help,4
+145,care modeler,1,guide,4
+146,immersive learning,1,marker,4
+147,augmented reality sandbo,1,mobile entertainment,4
+148,geoscience,1,head-mounted displays,4
+149,experiential learning,1,trackers,4
+150,spatial,1,immersion,4
+151,computing methodologies,1,logistics,4
+152,mixed / augmented reality,1,order picking,4
+153,applied computing,1,process planning,4
+154,computational thinking,1,remote control,4
+155,curriculum contents,1,internet,4
+156,teaching materials,1,virtuality,4
+157,musical ensemble,1,perceptual reality,4
+158,independent,1,second-order,4
+159,cognitive computing,1,vuforia sdk,3
+160,pervasive computing,1,unity3d,3
+161,the web of things,1,teacher's candidate,3
+162,the web of,1,teacher,3
+163,embodied cognition,1,new technologies,3
+164,embodiment,1,real constructs,3
+165,children,1,immigration,3
+166,interaction design,1,positive technology,3
+167,mechanical engineering,1,co-creation,3
+168,software,1,experiences,3
+169,marker based augmented reality (mar),1,interactivity marketing,3
+170,conceptual,1,highway systems,3
+171,biopsy,1,project delivery,3
+172,literature review,1,interactive design,3
+173,trends of augmented reality,1,visual communication,3
+174,emergency management,1,human heart,3
+175,hands-free,1,teaching,3
+176,healthcare,1,biology,3
+177,location-based ar,1,kit preparation,3
+178,geo-based ar,1,mixed-model assembly,3
+179,ar-sdk,1,picking information,3
+180,content curation,1,scorm,3
+181,smart classrooms,1,moodle,3
+182,multiagent systems,1,smart materials,3
+183,instructional media,1,generation z,3
+184,manual task,1,shopping experience,3
+185,comparative test,1,learning experience,3
+186,sleep deprivation,1,augmented reality sandbo,3
+187,procedural task,1,geoscience,3
+188,philosophy,1,experiential learning,3
+189,computer-mediated communication,1,spatial,3
+190,interation,1,computational thinking,3
+191,leap motion,1,curriculum contents,3
+192,marker-less,1,teaching materials,3
+193,building information modelling,1,musical ensemble,3
+194,augmentd reality,1,independent,3
+195,virtual reality headset,1,cognitive computing,3
+196,gaming,1,pervasive computing,3
+197,user experience,1,the web of things,3
+198,mobile hci,1,the web of,3
+199,marker design,1,embodied cognition,3
+200,ndt,1,embodiment,3
+201,remote,1,children,3
+202,classroom teaching,1,interaction design,3
+203,interactivity,1,emergency management,3
+204,application,1,hands-free,3
+205,agents,1,healthcare,3
+206,review,1,location-based ar,3
+207,tracking systems,1,geo-based ar,3
+208,network streaming,1,ar-sdk,3
+209,galileo,1,instructional media,3
+210,3d medical imaging,1,manual task,3
+211,radiology,1,comparative test,3
+212,block puzzle education system,1,philosophy,3
+213,educations using augmented reality,1,augmentd reality,3
+214,collaborative design,1,virtual reality headset,3
+215,protocol analysis,1,classroom teaching,3
+216,touchless interface,1,interactivity,3
+217,freehand interaction,1,application,3
+218,wearable augmented reality,1,agents,3
+219,cognition,1,review,3
+220,virtual data,1,tracking systems,3
+221,virtual information,1,network streaming,3
+222,mobile augmented reality application,1,galileo,3
+223,experiential marketing,1,3d medical imaging,3
+224,in-vehicle,1,radiology,3
+225,head-up display,1,cognition,3
+226,forward collision,1,virtual data,3
+227,"h.5.1 [information interfaces and presentation (e.g., hci)]: multimedia",1,virtual information,3
+228,augmentedreality,1,in-vehicle,3
+229,render,1,head-up display,3
+230,mobile computation,1,forward collision,3
+231,displays,1,render,3
+232,integral imaging,1,mobile computation,3
+233,micro display,1,intersubjectivity,3
+234,3d display,1,paramount reality,3
+235,design,1,gamification,3
+236,experimentation,1,learning strategies,3
+237,human factors,1,experiential,3
+238,auditory display,1,sculpture,3
+239,spatial sound,1,perlin noise,3
+240,motor and cognitive disabilities,1,camera calibration,3
+241,learning about inquiry,1,3d human,3
+242,learning to do,1,pipeline prospect,3
+243,deformation,1,argis,3
+244,cutting,1,modelling,3
+245,tearing,1,maintenance,3
+246,h.5.1 [information,1,training,3
+247,smart environments,1,art works,3
+248,intersubjectivity,1,augmented book,3
+249,paramount reality,1,user evaluation,3
+250,design collaboration,1,computer graphics,3
+251,gamification,1,mobile semantic web,3
+252,learning strategies,1,data integration,3
+253,experiential,1,ontology,3
+254,projection,1,cloud plugin,3
+255,angular velocity sensor,1,augmented reality browser,3
+256,3d applications,1,challenges,3
+257,window management,1,socio-political,3
+258,sculpture,1,india,3
+259,perlin noise,1,global,3
+260,camera calibration,1,atc surveillance,3
+261,3d human,1,airport tower,3
+262,mobile augmented reality (har),1,safety assessment,3
+263,educational content,1,systematic review,3
+264,electronic educational recourses,1,trends of ar,3
+265,pipeline prospect,1,personalization,3
+266,argis,1,library management,3
+267,h.5.1 [multimedia information systems]: artificial,1,agent,3
+268,modelling,1,information visualization,3
+269,maintenance,1,system,3
+270,training,1,augmented reality game,3
+271,autism spectrum disorder,1,augmented public space,3
+272,augmented and alternative,1,art game,3
+273,art works,1,enhanced reality,3
+274,balinese folklore,1,ethics,3
+275,miths,1,information ethics,3
+276,legends,1,information systems,3
+277,augmented reality story book,1,mathematics,3
+278,augmented book,1,geometry application,3
+279,user evaluation,1,opencv,3
+280,computer graphics,1,industrial shop-floor,3
+281,pointing devices,1,assembling,3
+282,mobile semantic web,1,autostereoscopy,3
+283,data integration,1,qr code,3
+284,ontology,1,h.5.1 [information interfaces,3
+285,sensor,1,in-situ authoring,3
+286,device,1,gesture recognition,3
+287,embedded,1,saas,3
+288,eud,1,ocr,3
+289,end-user development,1,computer aided design,3
+290,aar,1,markerless tracking,3
+291,cloud plugin,1,metadata,3
+292,augmented reality browser,1,schema,3
+293,challenges,1,information processing,3
+294,socio-political,1,exercise,3
+295,india,1,game,3
+296,global,1,spatial skills,3
+297,mobile game,1,engineering graphics,3
+298,user engagement,1,immersive augmented reality,3
+299,atc surveillance,1,smart education,3
+300,airport tower,1,context immersion,3
+301,safety assessment,1,real-time interaction,3
+302,systematic review,1,three-dimensional,3
+303,trends of ar,1,metrology,3
+304,personalization,1,surface morphology,3
+305,library management,1,android system,3
+306,agent,1,agriculture,3
+307,error analysis,1,technical framework,3
+308,mirror metaphor augmented reality,1,key,3
+309,information visualization,1,landscape simulation,3
+310,system,1,visual tracking,3
+311,augmented reality game,1,visualisation,3
+312,augmented public space,1,smartphone,3
+313,art game,1,virtual reality (vr),3
+314,enhanced reality,1,point of,3
+315,ethics,1,context-aware,3
+316,information ethics,1,gravity sensor,3
+317,information systems,1,u-healthcare,3
+318,media psychology,1,api specification,3
+319,psychology,1,location-based services,3
+320,cognitive,1,games,3
+321,immersive,1,e-maintenance,3
+322,mathematics,1,global maintenance platform,3
+323,geometry application,1,task,3
+324,opencv,1,calibration and registration,3
+325,industrial shop-floor,1,formative evaluation,3
+326,assembling,1,geometry,3
+327,heuristics,1,augmented reality authoring,3
+328,iso 9241-11,1,media art,3
+329,h. 5.1 [information interfaces and presentation]: multimedia information,1,physical,3
+330,autostereoscopy,1,collaboration,3
+331,mixed/augmented reality,1,registration,3
+332,displays and imagers,1,video object tracking,3
+333,qr code,1,surface marker,3
+334,h.5.1 [information interfaces,1,head and face,3
+335,in-situ authoring,1,safe,3
+336,gesture recognition,1,secure and reliable society,3
+337,saas,1,hazard information,3
+338,ocr,1,location based data,2
+339,intelligent tourist guide application,1,architectural design,2
+340,android smart,1,neurosurgery,2
+341,computer aided design,1,immersive environment,2
+342,markerless tracking,1,mobile application,2
+343,metadata,1,cross-platform engine unity,2
+344,schema,1,mars exploration,2
+345,information processing,1,augmenting mars,2
+346,interactive narrative,1,mobile terminal,2
+347,digital games,1,augmented reality image recognition,2
+348,exercise,1,pervasive augmented reality,2
+349,game,1,context-awareness,2
+350,molding tool,1,laparoscopic surgery,2
+351,assembly,1,e-learning,2
+352,m-learning,1,halftone pattern coding,2
+353,hybrid urban space,1,augmented reality application,2
+354,spatial skills,1,steganography,2
+355,engineering graphics,1,augmented reality analytics,2
+356,immersive augmented reality,1,user behavior analysis,2
+357,smart education,1,data analysis,2
+358,deaf children,1,instructional software,2
+359,virtual fixtures,1,instructional design,2
+360,data analysis and techniques,1,project based learning,2
+361,tutorial,1,natural features,2
+362,context immersion,1,immersive learning,2
+363,real-time interaction,1,computing methodologies,2
+364,three-dimensional,1,mixed / augmented reality,2
+365,ar-aided design,1,applied computing,2
+366,interior design,1,mechanical engineering,2
+367,hci,1,software,2
+368,classroom communication system,1,marker based augmented reality (mar),2
+369,augmented reality learning experience,1,conceptual,2
+370,authoring,1,literature review,2
+371,metrology,1,trends of augmented reality,2
+372,surface morphology,1,content curation,2
+373,mexican secondary education,1,smart classrooms,2
+374,android system,1,multiagent systems,2
+375,"h.5.1 [information interfaces and presentation]: artificial, augmented,",1,sleep deprivation,2
+376,agriculture,1,procedural task,2
+377,technical framework,1,computer-mediated communication,2
+378,key,1,building information modelling,2
+379,underground visualization,1,mobile hci,2
+380,smart phone,1,marker design,2
+381,3d modeling,1,collaborative design,2
+382,contextual qr code,1,protocol analysis,2
+383,picture postcards,1,touchless interface,2
+384,emotional expression,1,freehand interaction,2
+385,perspective helmet-mounted display,1,wearable augmented reality,2
+386,interaction promotional content,1,mobile augmented reality application,2
+387,qcar,1,experiential marketing,2
+388,occlusion between virtual scene and real object,1,augmentedreality,2
+389,humain-interaction machine,1,motor and cognitive disabilities,2
+390,speech recognition,1,learning about inquiry,2
+391,pedagogy,1,learning to do,2
+392,design based learning,1,design collaboration,2
+393,higher,1,projection,2
+394,outdoor illumination,1,angular velocity sensor,2
+395,real-time rendering,1,3d applications,2
+396,vr,1,window management,2
+397,human augmentation,1,mobile augmented reality (har),2
+398,collaborative mixed/augmented reality,1,educational content,2
+399,referencing technique,1,electronic educational recourses,2
+400,application framework,1,h.5.1 [multimedia information systems]: artificial,2
+401,landscape simulation,1,autism spectrum disorder,2
+402,immersive learning games,1,augmented and alternative,2
+403,mobile applications and,1,mobile game,2
+404,visual slam,1,user engagement,2
+405,outdoor user tracking,1,error analysis,2
+406,geographic information system(gis),1,mirror metaphor augmented reality,2
+407,augment reality(ar),1,mixed/augmented reality,2
+408,locative,1,displays and imagers,2
+409,public art,1,intelligent tourist guide application,2
+410,collective,1,android smart,2
+411,visual tracking,1,interactive narrative,2
+412,tour,1,digital games,2
+413,navigation,1,molding tool,2
+414,rapid prototyping,1,assembly,2
+415,software framework,1,m-learning,2
+416,visualisation,1,hybrid urban space,2
+417,virtual object,1,deaf children,2
+418,help,1,augmented reality learning experience,2
+419,guide,1,authoring,2
+420,marker,1,mexican secondary education,2
+421,diminished reality,1,underground visualization,2
+422,physically-based simulation,1,contextual qr code,2
+423,maintenance operations,1,picture postcards,2
+424,brain-machine interface,1,emotional expression,2
+425,wearable systems,1,perspective helmet-mounted display,2
+426,motion capture,1,interaction promotional content,2
+427,virtual characters,1,qcar,2
+428,augmented mirror,1,humain-interaction machine,2
+429,intelligent tutoring systems,1,speech recognition,2
+430,smartphone,1,outdoor illumination,2
+431,virtual reality (vr),1,real-time rendering,2
+432,point of,1,application framework,2
+433,context-aware,1,immersive learning games,2
+434,gravity sensor,1,mobile applications and,2
+435,u-healthcare,1,visual slam,2
+436,3d user interface,1,outdoor user tracking,2
+437,mirror worlds,1,geographic information system(gis),2
+438,api specification,1,augment reality(ar),2
+439,location-based services,1,tour,2
+440,games,1,navigation,2
+441,mobile entertainment,1,rapid prototyping,2
+442,wireless sensor networks,1,software framework,2
+443,ludic,1,diminished reality,2
+444,installation,1,physically-based simulation,2
+445,e-maintenance,1,brain-machine interface,2
+446,global maintenance platform,1,wearable systems,2
+447,task,1,motion capture,2
+448,transversal dramaturgy,1,virtual characters,2
+449,embodied interaction,1,augmented mirror,2
+450,audio augmented reality,1,intelligent tutoring systems,2
+451,head-mounted displays,1,mirror worlds,2
+452,trackers,1,wireless sensor networks,2
+453,immersion,1,transversal dramaturgy,2
+454,tangible augmented reality,1,embodied interaction,2
+455,tangible user interface,1,audio augmented reality,2
+456,virtual environment,1,tangible augmented reality,2
+457,rare books and manuscripts,1,tangible user interface,2
+458,logistics,1,virtual environment,2
+459,order picking,1,rare books and manuscripts,2
+460,process planning,1,stiffness modulation,2
+461,h.5.1 [information interfaces and presentation]: multimedia information,1,haptic augmented reality,2
+462,calibration and registration,1,serious game,2
+463,stiffness modulation,1,mechanism,2
+464,haptic augmented reality,1,simulation,2
+465,serious game,1,collaborative augmented reality environments,2
+466,communication and interaction,1,ar streaming,2
+467,mechanism,1,ar/mr user interface,2
+468,simulation,1,mobile interfaces,2
+469,collaborative augmented reality environments,1,augmented and virtual environments,2
+470,ar streaming,1,virtual tours,2
+471,ar/mr user interface,1,text drawing,2
+472,formative evaluation,1,3d registration,2
+473,geometry,1,projection algorithm,2
+474,augmented reality authoring,1,interactive mobile augmented reality application,1
+475,media art,1,augmented reality learning,1
+476,physical,1,augmented reality authoring tools,1
+477,collaboration,1,block puzzle education system,1
+478,registration,1,educations using augmented reality,1
+479,mobile interfaces,1,pointing devices,1
+480,augmented and virtual environments,1,data analysis and techniques,1
+481,virtual tours,1,tutorial,1
+482,virtuality,1,classroom communication system,1
+483,perceptual reality,1,occlusion between virtual scene and real object,1
+484,second-order,1,collaborative mixed/augmented reality,1
+485,video object tracking,1,referencing technique,1
+486,surface marker,1,maintenance operations,1
+487,head and face,1,3d user interface,1
+488,text drawing,1,communication and interaction,1
+489,safe,1,authoring augmented realities,1
+490,secure and reliable society,1,prototyping,1
+491,hazard information,1,,
+492,3d registration,1,,
+493,projection algorithm,1,,
+494,authoring augmented realities,1,,
+495,prototyping,1,,

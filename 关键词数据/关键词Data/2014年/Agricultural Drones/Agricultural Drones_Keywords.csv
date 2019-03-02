@@ -1,0 +1,334 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,drone,19,drone,74
+1,uav,11,uav,46
+2,apis mellifera,10,apis mellifera,36
+3,remote sensing,9,remote sensing,32
+4,drones,8,drones,29
+5,varroa jacobsoni,8,varroa jacobsoni,24
+6,precision agriculture,7,precision agriculture,20
+7,agriculture,5,agriculture,20
+8,honey bee,4,hyperspectral,13
+9,apis cerana,4,honey bee,13
+10,hyperspectral,3,apis cerana,13
+11,photogrammetry,3,photogrammetry,12
+12,pollination,3,pollination,12
+13,unmanned aerial vehicles,3,multispectral,11
+14,unmanned aerial system,2,honey bees,10
+15,honey bees,2,queens,10
+16,queens,2,uas,9
+17,gis,2,machine learning,8
+18,agricultural robotics,2,unmanned aerial vehicles,8
+19,machine learning,2,honeybee,8
+20,invasive species,2,gis,7
+21,measurement,2,disease,7
+22,unmanned aerial,2,vegetation,7
+23,multispectral,2,agricultural robotics,6
+24,internet of things,2,measurement,6
+25,deep learning,2,bees,6
+26,disease,2,ndvi,6
+27,agricultural,2,vi,6
+28,bees,2,exiff,6
+29,vegetation,2,fertilizers,6
+30,multispectral image,2,ovary activation,6
+31,uas,2,sensor,6
+32,ovary activation,2,multisensor,6
+33,honeybee,2,thermal,6
+34,glyphosate,1,imagery,6
+35,ampa,1,small,6
+36,no-till,1,unmanned aerial system,5
+37,soil and water quality,1,reproduction,5
+38,applicators,1,seminal fluid,5
+39,surface waters,1,pathogens,5
+40,image processing,1,random,5
+41,structure from motion (sfm),1,invasive species,5
+42,reproduction,1,unmanned aerial,5
+43,seminal fluid,1,cots,5
+44,pathogens,1,satellite imagery,5
+45,field robotics,1,imaging sensor,5
+46,sensing system,1,internet of things,5
+47,agriculture robot,1,deep learning,5
+48,image,1,neonicotinoids,5
+49,belgium,1,pollen quality,5
+50,crop damage,1,stressors,5
+51,geobia,1,bee health,5
+52,geographic object-based image analysis,1,rapeseed,5
+53,agriculture supply chain,1,review,5
+54,gis analytics,1,genomics,5
+55,big data analytics,1,breeding,5
+56,internet of,1,cultivation,5
+57,woody crop,1,mechanization,5
+58,crown segmentation,1,multispectral image,5
+59,orchard architecture,1,exploration,5
+60,volume,1,processing,5
+61,ragweed,1,spermatozoa,5
+62,remote detection,1,viability,5
+63,remote exploration,1,germplasm,5
+64,weeds,1,glyphosate,4
+65,honey bee health,1,ampa,4
+66,nosema apis,1,no-till,4
+67,thiamethoxam,1,soil and water quality,4
+68,encapsulation response,1,field robotics,4
+69,textural region,1,sensing system,4
+70,bayesian estimation,1,agriculture robot,4
+71,gaussian noise,1,image,4
+72,virtual orchards,1,woody crop,4
+73,digital,1,crown segmentation,4
+74,random,1,orchard architecture,4
+75,heracleum sosnovskyi,1,volume,4
+76,ukraine-poland borderland,1,ragweed,4
+77,agriculture drone,1,remote detection,4
+78,downwash velocity,1,remote exploration,4
+79,rotors,1,weeds,4
+80,acid mine,1,geographic information system,4
+81,arthropod abundance,1,paddy rice,4
+82,habitat destruction,1,smart,4
+83,historical aerial,1,paddy field,4
+84,video processing,1,crop classification,4
+85,irrigation,1,smart farm map,4
+86,geographic information system,1,dn (digital,4
+87,paddy rice,1,digital revolution,4
+88,smart,1,economics,4
+89,cots,1,policy,4
+90,satellite imagery,1,big data,4
+91,imaging sensor,1,synthetic acaricides,4
+92,paddy field,1,varroacides,4
+93,crop classification,1,synergy,4
+94,smart farm map,1,aerial images,4
+95,dn (digital,1,graminee cereals,4
+96,support vector machine,1,imaging,4
+97,agricultural production cycle,1,physiological indices,4
+98,digital revolution,1,imu sensor,4
+99,economics,1,complementary filter,4
+100,policy,1,kalman filter,4
+101,big data,1,sensor fusion,4
+102,synthetic acaricides,1,attitude,4
+103,varroacides,1,svalbard,4
+104,synergy,1,nordenskioldbreen,4
+105,aerial images,1,gilbert delta,4
+106,graminee cereals,1,stacking pattern,4
+107,imaging,1,glacier,4
+108,physiological indices,1,agricultural,4
+109,image classification,1,digital agriculture,4
+110,image recognition,1,connected farm,4
+111,precision,1,precision technology,4
+112,unmanned aerial vehicles (uavs),1,gps,4
+113,aerial photography,1,remote,4
+114,orthophoto plan,1,thermal remote sensing,4
+115,imu sensor,1,thermography,4
+116,complementary filter,1,structure-from-motion,4
+117,kalman filter,1,topography,4
+118,sensor fusion,1,dem,4
+119,attitude,1,lidar,4
+120,nitrogen,1,uav team,4
+121,nue,1,team management,4
+122,soil,1,simulator,4
+123,precision agriculture tools,1,agriculture domain,4
+124,blueberries,1,network,4
+125,high throughput phenotyping,1,aerial monitoring,4
+126,weed detection,1,plant heat stress,4
+127,computer vision,1,sus scrofa,4
+128,adaptive thresholding,1,wildlife damage,4
+129,landsat 8,1,crop,4
+130,super-resolution,1,pest management,4
+131,convolutional neural network,1,satellite images,4
+132,apis cerana cerana,1,controlled release,4
+133,chinese sacbrood virus,1,frequency measurement,4
+134,tissue tropism,1,rational approximations,4
+135,transmission,1,fds,4
+136,svalbard,1,ins,4
+137,nordenskioldbreen,1,raster image,4
+138,gilbert delta,1,vector image,4
+139,stacking pattern,1,cloud computing,4
+140,glacier,1,geospatial data,4
+141,conservation agriculture adoption,1,google,4
+142,crop residue coverage,1,robotic system,4
+143,agricultural monitoring,1,greenhouses,4
+144,precision farming,1,nano copter,4
+145,low altitude remote sensing,1,unmanned aerial vehicle,4
+146,farm management,1,performance,4
+147,high-throughput,1,faa,4
+148,maize cultivation,1,autonomous flying,4
+149,digital agriculture,1,biodiversity,4
+150,connected farm,1,canopy gaps,4
+151,precision technology,1,polygon-based pair,4
+152,gps,1,beekeeping,4
+153,remote,1,microsatellites,4
+154,thermal remote sensing,1,pollinator,4
+155,thermography,1,bee population,4
+156,structure-from-motion,1,brood area,4
+157,neonicotinoids,1,brood pattern,4
+158,pollen quality,1,honey stores,4
+159,stressors,1,honey-bee,4
+160,bee health,1,parasite,4
+161,rapeseed,1,dopamine,4
+162,review,1,immunocytochemistry,4
+163,genomics,1,insect brain,4
+164,breeding,1,drone brood,4
+165,cultivation,1,pores,4
+166,mechanization,1,hygienic behaviour,4
+167,association,1,belgium,3
+168,technologies,1,crop damage,3
+169,sustainable intensification,1,geobia,3
+170,technology,1,geographic object-based image analysis,3
+171,topography,1,agriculture supply chain,3
+172,dem,1,gis analytics,3
+173,lidar,1,big data analytics,3
+174,agri-tech,1,internet of,3
+175,remote monitoring,1,honey bee health,3
+176,uav team,1,nosema apis,3
+177,team management,1,thiamethoxam,3
+178,simulator,1,encapsulation response,3
+179,agriculture domain,1,virtual orchards,3
+180,network,1,digital,3
+181,airborne remote sensing,1,agriculture drone,3
+182,hyperspectral imaging,1,downwash velocity,3
+183,spectral calibration,1,rotors,3
+184,aerial monitoring,1,acid mine,3
+185,plant heat stress,1,arthropod abundance,3
+186,superpixels,1,habitat destruction,3
+187,digital terrain model,1,historical aerial,3
+188,ndvi,1,video processing,3
+189,vi,1,irrigation,3
+190,exiff,1,image classification,3
+191,fertilizers,1,image recognition,3
+192,multi-sensor systems,1,precision,3
+193,mobile robots,1,nitrogen,3
+194,uavs,1,nue,3
+195,unmanned autonomous vehicle,1,soil,3
+196,semantic analysis,1,precision agriculture tools,3
+197,exploration,1,blueberries,3
+198,processing,1,high throughput phenotyping,3
+199,sus scrofa,1,adaptive thresholding,3
+200,wildlife damage,1,landsat 8,3
+201,crop,1,super-resolution,3
+202,thermal images,1,convolutional neural network,3
+203,3d reconstruction,1,apis cerana cerana,3
+204,lidar readings,1,chinese sacbrood virus,3
+205,ground-based remote,1,tissue tropism,3
+206,pest management,1,transmission,3
+207,satellite images,1,farm management,3
+208,controlled release,1,high-throughput,3
+209,remotely piloted aircraft systems,1,maize cultivation,3
+210,semantic computing,1,technologies,3
+211,farming analysis,1,sustainable intensification,3
+212,spa processs,1,technology,3
+213,agricultural remote sensing,1,agri-tech,3
+214,frequency measurement,1,remote monitoring,3
+215,rational approximations,1,multi-sensor systems,3
+216,fds,1,mobile robots,3
+217,ins,1,uavs,3
+218,raster image,1,thermal images,3
+219,vector image,1,3d reconstruction,3
+220,cloud computing,1,lidar readings,3
+221,geospatial data,1,ground-based remote,3
+222,google,1,semantic computing,3
+223,image segmentation,1,farming analysis,3
+224,multilayer perceprton,1,spa processs,3
+225,embrapa instrumentation,1,invasive plant species,3
+226,invasive plant species,1,canada goldenrod,3
+227,canada goldenrod,1,japanese knotweed,3
+228,japanese knotweed,1,industrial,3
+229,industrial,1,gis instruments,3
+230,robotic system,1,apis mellifera mellifera,3
+231,greenhouses,1,conservation genomics,3
+232,nano copter,1,whole-genome,3
+233,unmanned aerial vehicle,1,feral honey bees,3
+234,performance,1,colony density,3
+235,gis instruments,1,microsatellite haplotypes,3
+236,collaborative inspection and intervention mission,1,population,3
+237,aerial and ground,1,cuadricoptero,3
+238,apis mellifera mellifera,1,teledeteccion,3
+239,conservation genomics,1,agricultura de precision,3
+240,whole-genome,1,ar drone,3
+241,ambrosia artemisiifolia,1,galba truncatula,3
+242,intraspecific variability,1,fasciola hepatica,3
+243,plant,1,liver fluke,3
+244,feral honey bees,1,species distribution,3
+245,colony density,1,feral bee,3
+246,microsatellite haplotypes,1,land use,3
+247,population,1,linked microsatellite,3
+248,cuadricoptero,1,pheromones,3
+249,teledeteccion,1,policing,3
+250,agricultura de precision,1,topographic index,3
+251,ar drone,1,heavy metals soil pollution,3
+252,faa,1,agent-based model,3
+253,galba truncatula,1,spatial distribution,3
+254,fasciola hepatica,1,bombus impatiens,3
+255,liver fluke,1,bacillus subtilis,3
+256,species distribution,1,beauveria bassiana,3
+257,glyphosate resistance,1,spirotetramat,3
+258,herbicide resistance,1,colony size,3
+259,multiple resistance,1,feral animals,3
+260,resistance,1,social hymenoptera,3
+261,autonomous flying,1,apis dorsata,3
+262,biodiversity,1,worker policing,3
+263,canopy gaps,1,worker sterility,3
+264,polygon-based pair,1,chill-coma,3
+265,feral bee,1,resting potential,3
+266,land use,1,drosophila melanogaster,3
+267,linked microsatellite,1,parasite load scores,3
+268,pheromones,1,mite prevalence,3
+269,policing,1,apoptosis,3
+270,topographic index,1,caspase activation,3
+271,heavy metals soil pollution,1,caspase recruitment domain,3
+272,agent-based model,1,development,3
+273,spatial distribution,1,population dynamics,3
+274,bombus impatiens,1,model,3
+275,bacillus subtilis,1,invasion,3
+276,beauveria bassiana,1,brood cell type,3
+277,spirotetramat,1,trap-combs,3
+278,beekeeping,1,biotechnical control,3
+279,microsatellites,1,vespula germanica,3
+280,pollinator,1,german wasp,3
+281,bee population,1,vespula vulgaris,3
+282,brood area,1,common wasp,3
+283,brood pattern,1,image processing,2
+284,honey stores,1,structure from motion (sfm),2
+285,sensor,1,textural region,2
+286,multisensor,1,bayesian estimation,2
+287,thermal,1,gaussian noise,2
+288,imagery,1,heracleum sosnovskyi,2
+289,small,1,ukraine-poland borderland,2
+290,soil surface characteristics,1,support vector machine,2
+291,ssc typology,1,agricultural production cycle,2
+292,visible remote sensing,1,unmanned aerial vehicles (uavs),2
+293,trace elements,1,aerial photography,2
+294,colony size,1,orthophoto plan,2
+295,feral animals,1,weed detection,2
+296,social hymenoptera,1,computer vision,2
+297,spermatozoa,1,conservation agriculture adoption,2
+298,viability,1,crop residue coverage,2
+299,germplasm,1,agricultural monitoring,2
+300,apis dorsata,1,precision farming,2
+301,worker policing,1,low altitude remote sensing,2
+302,worker sterility,1,airborne remote sensing,2
+303,chill-coma,1,hyperspectral imaging,2
+304,resting potential,1,spectral calibration,2
+305,drosophila melanogaster,1,superpixels,2
+306,parasite load scores,1,digital terrain model,2
+307,mite prevalence,1,unmanned autonomous vehicle,2
+308,apis mellifera iberica,1,semantic analysis,2
+309,population growth,1,remotely piloted aircraft systems,2
+310,apoptosis,1,agricultural remote sensing,2
+311,caspase activation,1,image segmentation,2
+312,caspase recruitment domain,1,multilayer perceprton,2
+313,development,1,embrapa instrumentation,2
+314,co-adaptation,1,ambrosia artemisiifolia,2
+315,population dynamics,1,intraspecific variability,2
+316,model,1,plant,2
+317,invasion,1,glyphosate resistance,2
+318,brood cell type,1,herbicide resistance,2
+319,trap-combs,1,multiple resistance,2
+320,biotechnical control,1,soil surface characteristics,2
+321,vespula germanica,1,ssc typology,2
+322,german wasp,1,visible remote sensing,2
+323,vespula vulgaris,1,apis mellifera iberica,2
+324,common wasp,1,population growth,2
+325,honey-bee,1,co-adaptation,2
+326,parasite,1,applicators,1
+327,dopamine,1,surface waters,1
+328,immunocytochemistry,1,collaborative inspection and intervention mission,1
+329,insect brain,1,aerial and ground,1
+330,drone brood,1,trace elements,1
+331,pores,1,,
+332,hygienic behaviour,1,,

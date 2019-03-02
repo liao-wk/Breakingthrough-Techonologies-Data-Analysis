@@ -1,0 +1,772 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT S
+DE Cognitive radio; Satellite communications; Spectrum sensing;
+   Interference modeling; Beamhopping
+ER
+
+PT J
+DE Cognitive radio; Dynamic spectrum access; Wireless sensor networks;
+   Cognitive radio sensor networks; Simulation model
+ID OPPORTUNISTIC SPECTRUM ACCESS; CHANNEL SELECTION; PERFORMANCE; MODELS;
+   SCHEME
+ER
+
+PT J
+DE Cognitive radio sensor networks; variable duty cycle; opportunistic
+   pipeline routing; data transmission delay; energy efficiency
+ID COOPERATIVE SPECTRUM ACCESS; WSNS; PROTOCOL; ENERGY
+ER
+
+PT J
+DE Satellite-terrestrial communication; cognitive radio; cooperative
+   networks; energy consumption
+ID RADIO NETWORKS; CHANNEL ESTIMATION; POWER ALLOCATION; KEY TECHNOLOGIES;
+   TRAINING DESIGN; 5G; COMMUNICATION; ARCHITECTURE; SELECTION; AMPLIFY
+ER
+
+PT J
+DE cogntive radio; spectrum sesning; security; spectrum handoff
+ID USER EMULATION ATTACKS; ENERGY DETECTION; NETWORKS; OPTIMIZATION;
+   PERFORMANCE; CHANNEL; SIGNALS; SIGNATURES; DEFENSE; SYSTEMS
+ER
+
+PT J
+DE radio spectrum management; cognitive radio; femtocellular radio; genetic
+   algorithms; radio networks; spectrum sensing; cognitive femtocell
+   network; near field source localisation technique; genetic algorithm;
+   wireless communication systems; cognitive radio networks; cognitive
+   engine; active femtocells detection; range; amplitude; angle; operating
+   frequency
+ER
+
+PT J
+DE Clustering; k-Means; Radio cognitive ad hoc networks; Broadcast
+ER
+
+PT J
+DE FBMC; Cognitive radio; Filter Bank; Multicarrier
+ID DISPERSIVE CHANNELS; DESIGN
+ER
+
+PT J
+ER
+
+PT J
+DE cognitive radio network; spectrum allocation; channel assignment;
+   distributed; opportunistic access
+ID CHANNEL ACCESS; ALLOCATION; FRAMEWORK; PERFORMANCE; ASSIGNMENT;
+   ALGORITHM; AUCTION; SENSOR
+ER
+
+PT J
+DE Cognitive small cell; OFDMA; power control; resource allocation; sensing
+   time optimization
+ID RESOURCE-ALLOCATION; RADIO NETWORKS; FEMTOCELL NETWORKS; LEARNING
+   APPROACH; OFDMA FEMTOCELLS; DESIGN
+ER
+
+PT B
+DE Cognitive radio (CR); Cognitive cycle; spectrum sensing
+ER
+
+PT B
+DE Spectrum sensing; Cognitive Radio; Cooperative spectrum sensing
+ER
+
+PT S
+DE cognitive radio networks; performance analysis; throughput; delay;
+   collision probability
+ID SENSING-THROUGHPUT TRADEOFF; SPECTRUM ACCESS; TRANSMISSION; SYSTEM;
+   POWER
+ER
+
+PT J
+DE Cognitive radio; nonorthogonal multiple access (NOMA); power allocation;
+   user pairing and outage probability
+ID SYSTEMS; CAPACITY
+ER
+
+PT B
+DE wireless sensor network; cognitive radio; cognitive radio wireless
+   sensor network; channel assignment; energy efficiency; scalability;
+   routing protocols for cognitive radio
+ER
+
+PT B
+DE cognitive radio; spectrum sensing; cognitive cycle; cooperative sensing;
+   signal processing sensing technique
+ID NETWORKS
+ER
+
+PT S
+DE wireless sensor network; cognitive radio; cognitive radio wireless
+   sensor network; channel assignment; energy efficiency; scalability;
+   routing protocols for cognitive radio
+ER
+
+PT B
+DE cognitive radio; primary user; secondary user
+ER
+
+PT S
+ID PHYSICAL-LAYER SECURITY; DYNAMIC SPECTRUM ACCESS; SOFTWARE DEFINED
+   RADIO; PRIVACY; ATTACKS
+ER
+
+PT J
+DE Channel bonding; cognitive radio; dynamic spectrum access; wireless
+   sensor networks; ad hoc networks; channel aggregation
+ID AD-HOC NETWORKS; DYNAMIC SPECTRUM ACCESS; BODY AREA NETWORKS; MAC
+   PROTOCOLS; INTERFERENCE MITIGATION; PERFORMANCE ANALYSIS; ROUTING
+   PROTOCOL; FOOD-INDUSTRY; BAND NETWORKS; AGGREGATION
+ER
+
+PT J
+DE Cognitive radio; Cooperative sensing; Data Fusion; OFDM; Spectrum
+   Sensing; wideband sensing
+ID ENERGY DETECTION; NETWORKS; SIGNALS
+ER
+
+PT J
+DE Cognitive radio network; Link scheduling; Wireless network; Optimization
+ER
+
+PT J
+DE Cognitive radio; Artificial intelligence; Adaptive and flexible radio
+   access techniques
+ID GAME
+ER
+
+PT J
+DE Neighbor discovery; Cognitive radio network; Gossiping; Distributed
+   cooperation; Common control channel
+ID MOBILE AD HOC; SENSOR NETWORKS; CONTROL CHANNEL; ALGORITHMS; ANTENNAS;
+   PROTOCOL; COMMUNICATION; ALLOCATION
+ER
+
+PT J
+DE Cognitive radio; Internet-of-Things (IoT); low power and lossy network
+   (LLN); machine-to-machine (M2M); medium access control (MAC); protocol
+   stack; routing; routing for low power and lossy networks (RPL)
+ID AD-HOC NETWORKS; RADIO
+ER
+
+PT J
+DE Cognitive radio; cooperative networks; physical layer security
+ID PHYSICAL-LAYER SECURITY; SECRECY COMMUNICATIONS; TRANSMISSION
+ER
+
+PT B
+DE Cognitive Radio; Overlay; HARQ
+ER
+
+PT S
+DE Cognitive Radio (CR); Energy Detection; PD; PFA; PM
+ER
+
+PT J
+DE Cognitive radio sensor network; wireless sensor networks; cognitive
+   radio networks; radio resource allocation
+ID DYNAMIC SPECTRUM ACCESS; WIRELESS COMMUNICATIONS; COMPREHENSIVE SURVEY;
+   NODE SELECTION; MULTIUSER OFDM; SCHEME; SYSTEMS; ENVIRONMENTS;
+   OPTIMIZATION; EFFICIENCY
+ER
+
+PT S
+DE Cognitive radio ad hoc networks; Leader election; Design issues
+ER
+
+PT J
+DE Cognitive; Radio; Security; Spectrum; Wireless; Network
+ID AD-HOC NETWORKS; USER EMULATION ATTACKS; GAME; COMMUNICATION;
+   ESTABLISHMENT; DEFENSE; SCHEME
+ER
+
+PT J
+DE Cognitive radio networks; Primary Radio (PR) user; Cognitive Radio (CR)
+   user; PR user activity
+ID OPPORTUNISTIC SPECTRUM ACCESS; CHANNEL SELECTION; PERFORMANCE; STRATEGY;
+   DECISION; MAC
+ER
+
+PT J
+ID CELLULAR NETWORKS; FADING CHANNELS; CAPACITY; CONSTRAINTS
+ER
+
+PT J
+DE Radio spectrum; Cognitive radio; IMT bands; NFAP; White space
+ER
+
+PT J
+DE Cognitive radio; filters; interweave; reconfigurable antennas;
+   software-defined radio; underlay; wideband antennas
+ID DYNAMIC SPECTRUM ACCESS; SYSTEM OPRAS; NETWORKS; DESIGN
+ER
+
+PT B
+DE Cognitive radio; Cognitive networks; Cognitive radio sensor networks;
+   CRSN; Spectrum sensing; Co-operative spectrum sensing; Dynamic spectrum
+   sensing
+ER
+
+PT B
+DE Cognitive Radio; Radio Environment Mapping; Propagation Modeling
+ID SCATTERING
+ER
+
+PT J
+DE Cognitive radio networks; routing metrics; routing metrics fusion
+ID AD HOC NETWORKS; MANAGEMENT
+ER
+
+PT B
+DE cognitive networks; cognitive games; frequency resource management
+ER
+
+PT B
+DE cognitive radio; spectrum sensing; multihop relay; time allocation
+ER
+
+PT J
+DE sensor networks; cognitive sensors; cognitive wireless sensor networks
+ID MAC; MANAGEMENT; SELECTION; PROTOCOL
+ER
+
+PT J
+ER
+
+PT J
+ID NETWORKS
+ER
+
+PT J
+ID SIGNALS
+ER
+
+PT J
+ER
+
+PT B
+DE Antennas; Fractal antenna; Cognitive radio; spectrum sensing
+ER
+
+PT J
+DE channel assignment; spectrum assignment; spectrum selection; spectrum
+   allocation; cognitive radio networks; dynamic spectrum management
+ID GAME-THEORETIC APPROACH; CHANNEL ASSIGNMENT; RESOURCE-ALLOCATION;
+   FRAMEWORK; ACCESS; INTERFERENCE; THROUGHPUT; MANAGEMENT; DESIGN
+ER
+
+PT J
+DE cognitive radios; cognitive radio networks; primary user emulation
+   attacks; spectrum sense data falsification attacks; cross layer attacks;
+   software defined radio security; IEEE 802.22
+ID SOFTWARE DEFINED RADIO; USER EMULATION ATTACKS; SPECTRUM ACCESS; MAC;
+   MISBEHAVIOR; FRAMEWORK; DOWNLOAD
+ER
+
+PT J
+ER
+
+PT J
+DE Cognitive radio (CR); denial of service (DoS); incumbent emulation;
+   security; spectrum sensing data falsification (SSDF)
+ID AD HOC NETWORKS; FADING CHANNELS; WIRELESS COMMUNICATIONS; CAPACITY;
+   SECRECY; SYSTEMS
+ER
+
+PT J
+ID WIRELESS NETWORKS; GAME
+ER
+
+PT J
+DE Cognitive radio; femtocell; energy efficiency; Stackelberg game;
+   Stackelberg equilibrium
+ID POWER-CONTROL; WIRELESS COMMUNICATIONS; GAME; MANAGEMENT; CHANNELS;
+   DESIGN
+ER
+
+PT J
+DE Cognitive radio; Cognitive radio testing; Psychometric testing; Item
+   response models; Item response theory; Optimization
+ER
+
+PT J
+DE cognitive radio; visual cognition
+ID WIRELESS NETWORKS; COMMUNICATION
+ER
+
+PT J
+DE Cognitive radio; Decision engine; Ant colony optimization; Mutation
+   mechanism; Genetic algorithm
+ID ALGORITHM
+ER
+
+PT J
+ID RADIO
+ER
+
+PT J
+ID WIRELESS SENSOR NETWORKS; DECENTRALIZED SEQUENTIAL DETECTION;
+   INFORMATION-THEORETIC CRITERIA; ENERGY DETECTION; STATISTICAL TESTS;
+   CENSORING SENSORS; SIGNAL-DETECTION; SYSTEMS; FUSION; CYCLOSTATIONARITY
+ER
+
+PT J
+DE Cognitive radio; cognitive network; interference modeling; Poisson point
+   process; Poisson cluster process; stochastic geometry
+ID AD-HOC NETWORKS; WIRELESS NETWORKS; STOCHASTIC GEOMETRY; RADIO NETWORKS;
+   CAPACITY
+ER
+
+PT J
+ID NETWORKS; DIVERSITY
+ER
+
+PT B
+DE Antennas; Ultrawideband antennas; Cognitive radio
+ER
+
+PT B
+DE cognitive radio; cognitive engine; adaptive radio; BeagleBoard
+ER
+
+PT S
+DE Cognitive Radio; Primary User Emulation attack; Primary user signal
+   detection; IEEE 802.22 standard; SpiderRadio
+ER
+
+PT B
+DE cognitive radio; leader election; distributed; algorithm; energy
+   detector
+ID SYSTEMS
+ER
+
+PT S
+DE Software radio; Cognitive radio; Computer architecture; Reviews; Digital
+   communications
+ER
+
+PT S
+DE Cognitive radio; Spectrum allocation; Spectrum aggregation; Graph
+   coloring
+ID ACCESS; ASSIGNMENT; FAIRNESS
+ER
+
+PT J
+DE Cognitive radio; Medium Access Control; Spectrum Sensing; Spectrum
+   Sharing; Spectrum Mobility
+ID DYNAMIC SPECTRUM ACCESS; AD HOC NETWORKS; WIRELESS NETWORKS; PROTOCOLS;
+   FRAMEWORK; PERSPECTIVE; MANAGEMENT; CHANNELS; CROSS
+ER
+
+PT J
+DE Cognitive radio; Software defined radio; Small form factor;
+   Configurability; Adaptability; FPGA; DSP; Architecture
+ID DSP/FPGA PLATFORM
+ER
+
+PT J
+DE Cognitive radio; optimal power allocation; spectrum sensing; spectrum
+   sharing (SS); throughput maximization
+ID FADING CHANNELS; CONSTRAINTS; INFORMATION
+ER
+
+PT J
+DE Cognitive radio (CR); cognitive radio networks (CRNs); dynamic resource
+   management; dynamic spectrum access (DSA); spectrum sensing; spectrum
+   sharing
+ID DYNAMIC SPECTRUM ACCESS; SENSING-THROUGHPUT TRADEOFF; POWER ALLOCATION
+   SCHEMES; MIMO BROADCAST CHANNELS; SUM-RATE MAXIMIZATION; WIRELESS
+   NETWORKS; MULTIPLE-ACCESS; ACHIEVABLE RATES; FADING CHANNELS; CAPACITY
+ER
+
+PT J
+DE hybrid spectrum sharing; overlay; underlay; optimal power allocation;
+   cognitive radio
+ID ALLOCATION; CHANNELS; SYSTEMS
+ER
+
+PT J
+ID AD-HOC NETWORKS; CHANNEL ASSIGNMENT; POWER-CONTROL
+ER
+
+PT J
+DE Cognitive radio; cooperative spectrum sensing; data fusion; decision
+   fusion; energy detection
+ID FIXED-GAIN RELAYS; FADING CHANNELS; DIVERSITY; PERFORMANCE; SIGNALS
+ER
+
+PT J
+ER
+
+PT J
+DE Cognitive radio (CR); platforms and standards; radio spectrum
+   management; software radio; spectrum sensing; wireless communication
+ID INTERFERENCE TEMPERATURE MODEL; OPPORTUNISTIC SPECTRUM ACCESS; AD HOC
+   NETWORKS; WIRELESS NETWORKS; GAME; MANAGEMENT; OPTIMIZATION;
+   COOPERATION; ALLOCATION; FRAMEWORK
+ER
+
+PT J
+DE Opportunistic spectrum access; cognitive radio; cognitive network
+   interference; detection-and-avoidance; truncated-stable distribution
+ID AD-HOC NETWORKS; SPREAD-SPECTRUM SIGNALS; WIRELESS NETWORKS; POISSON
+   FIELD; RADIO NETWORKS; OUTAGE PROBABILITY; FEMTOCELL NETWORKS; IMPULSE
+   RADIO; POWER-CONTROL; CAPACITY
+ER
+
+PT J
+DE Cognitive relay networks; outage probability; selection diversity
+ID MULTIUSER DIVERSITY; POWER ALLOCATION; RADIO SYSTEMS; SELECTION;
+   TRANSMISSION; ENVIRONMENTS; INFORMATION; CAPACITY
+ER
+
+PT S
+DE Cognitive radio; ultra wideband; spectrum management
+ER
+
+PT S
+ER
+
+PT S
+DE cognitive radio; virutal occupancy; intermodulation interference; land
+   mobile
+ER
+
+PT S
+ER
+
+PT B
+DE Interference modeling; cognitive radio network; cognitive network
+   interference
+ID OUTAGE PROBABILITY; FADING CHANNELS
+ER
+
+PT J
+DE Game theory; Wireless networks; Cognitive radio networks
+ID DYNAMIC SPECTRUM ACCESS; POWER-CONTROL GAME; WIRELESS NETWORKS;
+   CORRELATED EQUILIBRIUM; CHANNEL ALLOCATION; POTENTIAL GAMES; AUCTION
+   DESIGN; OFDMA NETWORKS; COLLUSION; COMPETITION
+ER
+
+PT J
+ID INTERFERENCE CHANNEL; THROUGHPUT TRADEOFF; SPECTRUM MANAGEMENT;
+   BROADCAST CHANNELS; WIRELESS NETWORKS; POWER CONSTRAINTS; ACHIEVABLE
+   RATES; FADING CHANNELS; MULTIPLE-ACCESS; CAPACITY
+ER
+
+PT J
+DE Spectrum access discovery; Spectrum selection; Spectrum handover;
+   Cognitive radio mobility management architecture
+ID SYSTEMS; HANDOFF
+ER
+
+PT B
+ER
+
+PT B
+DE Resource allocation; scheduling; MAC; dynamic spectrum access; cognitive
+   radio networks
+ER
+
+PT B
+ER
+
+PT B
+DE HF; ALE; LBT; Cognitive Radios; Cognitive User and Spectrum Sensing
+ER
+
+PT S
+ER
+
+PT B
+DE cognitive radio nodes; autonomic communication; architecture; autonomic
+   communication element; ACE toolkit
+ER
+
+PT S
+ID NETWORKS
+ER
+
+PT J
+DE Antenna array; blind detection; cognitive radio; generalized likelihood
+   ratio test (GLRT); spectrum sensing
+ID NETWORKS; SIGNALS
+ER
+
+PT B
+DE cognitive radio; policy based networking; reasoning; policy management
+ER
+
+PT B
+DE passive sounding; cognitive radio
+ER
+
+PT J
+DE Cognitive radio; energy detection; optimization; spectrum sensing
+ER
+
+PT J
+DE Cognitive radio; Costa precoding; dirty-paper coding; interference
+   channel; spectral reuse; wireless networks
+ID GAUSSIAN INTERFERENCE CHANNEL; CAPACITY
+ER
+
+PT J
+DE cognitive radio; utilization; spectrum management; queuing model;
+   optimization
+ID WIRELESS NETWORKS; SPECTRUM ACCESS
+ER
+
+PT J
+ER
+
+PT J
+DE Cognitive radio networks; spectrum access; performance evaluation
+ER
+
+PT J
+DE Cyclostationary detection; energy detection; matched filter detection;
+   spectrum sculpting; spectrum sensing
+ID COOPERATIVE DIVERSITY; WIRELESS NETWORKS; OFDM SYSTEMS;
+   CYCLOSTATIONARITY; PROTOCOLS; DESIGN
+ER
+
+PT J
+DE Cognitive radio; cyclostationarity; fast Fourier transform (FFT)
+   algorithm; Fourier transform; multitaper method; space-time processing
+   Loeve transform; spectrum sensing
+ID SIGNAL INTERCEPTION; MODULATED SIGNALS; PERFORMANCE; ENVIRONMENT
+ER
+
+PT J
+DE Capacity; cognitive radio; degrees of freedom; interweave; overlay; side
+   information; underlay
+ID GAUSSIAN INTERFERENCE CHANNEL; ACHIEVABLE RATE REGION; BROADCAST
+   CHANNELS; CAPACITY THEOREMS; CODING THEOREM; NETWORKS; ACCESS;
+   COOPERATION; CONSTRAINTS; THROUGHPUT
+ER
+
+PT J
+DE Cognitive radio; game theory; metric; performance evaluation; utility
+   function
+ID DYNAMIC SPECTRUM ACCESS; POWER-CONTROL; RESOURCE-ALLOCATION; WIRELESS
+   NETWORKS; CONTROL SCHEME; TRANSMISSION; FRAMEWORK; SYSTEMS; MAC
+ER
+
+PT J
+DE Automatic modulation classification; cognitive networks; cognitive
+   radio; dynamic spectrum access; game theory; genetic algorithms;
+   multiple-input multiple-output (MIMO); radio-frequency integrated
+   circuit design; software defined radio; spectrum sensing
+ID DYNAMIC SPECTRUM ACCESS; ADAPTIVE MODULATION; ANTENNA; SOFTWARE;
+   SYSTEMS; ADAPTATION; CHANNELS; DESIGN; END
+ER
+
+PT J
+DE Cognitive radio; cooperative sensing; hypothesis testing; multiband
+   joint detection; nonlinear optimization; spectrum sensing
+ID DISTRIBUTED DETECTION
+ER
+
+PT J
+ER
+
+PT B
+DE Cognitive radio; cooperative spectrum sensing; decision rule
+ID WIRELESS
+ER
+
+PT B
+DE Capacity; cognitive radio; optimization; spectrum sensing
+ER
+
+PT B
+DE CR (Cognitive Radio); cognitive beamforming; interference cancellation;
+   multiple antennas
+ER
+
+PT B
+DE component; Wireless Communication; Cognitive Network; Ultra Wideband
+ER
+
+PT S
+DE cognitive radio; orthogonal frequency division multiplexing; radio
+   resource management; evolutionary algorithms
+ID SYSTEMS
+ER
+
+PT B
+DE Cognitive radios; optimal polarization receiving; SINR
+ID INTERFERENCE
+ER
+
+PT B
+DE Ad-hoc; cognitive radio network; cross-layer design; architecture
+ER
+
+PT B
+DE cognitive radio; cooperative spectrum sensing; double threshold;
+   reputation
+ER
+
+PT B
+DE cognitive radio; cooperative diversity; game theory; Nash equilibrium;
+   utilize function
+ID RADIOS
+ER
+
+PT J
+ER
+
+PT J
+DE Cognitive radio; spectrum sensing; dynamic spectrum access;
+   multi-dimensional spectrum sensing; cooperative sensing; radio
+   identification
+ID ACCESS; SYSTEMS; TERMINALS; SIGNALS
+ER
+
+PT B
+DE cognitive radio; spectrum sensing; cooperative sensing
+ID NETWORKS
+ER
+
+PT B
+DE Cognitive Radio; Software Defined Radio; White Space
+ER
+
+PT B
+DE cognitive radio; spectrum sensing; cooperative sensing
+ID NETWORKS
+ER
+
+PT B
+DE Cognitive radio network; cooperative communication; smart antenna;
+   spectrum sensing
+ID DIVERSITY
+ER
+
+PT B
+DE OFDM; cognitive radio network; cross-layer design; architecture
+ER
+
+PT J
+DE Cognitive radio; cooperative spectrum sensing; energy detection; hard
+   combination; soft combination
+ER
+
+PT J
+DE Cognitive radio networks; spectrum sensing; sensing efficiency;
+   interference avoidance; optimization; scheduling; cooperation
+ER
+
+PT J
+DE cognitive radio; MPSoC; OFDM; design method; task transaction level
+   interface; sparse FFT
+ER
+
+PT J
+ER
+
+PT J
+ID ACCESS
+ER
+
+PT J
+DE Cooperative sensing; correlated observations; decentralized detection;
+   fusion; linear-quadratic detector
+ID DECENTRALIZED DETECTION; DISTRIBUTED DETECTION; GAUSSIAN-NOISE; SYSTEMS;
+   PERFORMANCE; NETWORKS
+ER
+
+PT J
+DE Cognitive radio; cooperative communications; energy detection; nonlinear
+   optimization; spectrum sensing
+ID DISTRIBUTED DETECTION
+ER
+
+PT B
+ID CHANNEL
+ER
+
+PT S
+ID INTERFERENCE CHANNELS; REGION
+ER
+
+PT S
+DE cognitive radio; blind signal separation; multiuser detection; software
+   radio; computational theory
+ER
+
+PT B
+ER
+
+PT S
+DE cognitive radio; evolution; Genetic Algorithm; Decision Maker; neural
+   network
+ER
+
+PT J
+DE cyclostationary signatures; cognitive radio; dynamic spectrum access;
+   network coordination; network rendezvous
+ID SPECTRAL CORRELATION; FREQUENCY OFFSET; MODULATED SIGNALS; OFDM SYSTEMS
+ER
+
+PT J
+DE cognitive MAC; open spectrum; optimal spectrum sensing; spectrum
+   aggregation
+ER
+
+PT J
+DE cognitive radio; cellular; WiMAX; wireless LAN; system switching;
+   testbed system
+ID ARCHITECTURE
+ER
+
+PT J
+DE cognitive radio (CR); chirp waveform (CW); ultra-wideband (UWB)
+ID SYSTEM
+ER
+
+PT J
+DE cognitive radio (CR); ultra-wideband (UWB); impulse series
+ER
+
+PT J
+DE OFDM; ATSC DTV; vestigial sideband; protection ratio; cognitive radio
+ER
+
+PT B
+ER
+
+PT S
+DE cognitive radio; queueing; MAC; PHY; cross layer
+ER
+
+PT B
+ER
+
+PT S
+ID NEURAL-NETWORK APPROACH; CROSS-LAYER DESIGN
+ER
+
+PT B
+ER
+
+PT B
+DE terms-cognitive radio; emergency network; spectrum sensing; OFDM;
+   heterogenous reconfigurable system-on-chip; montium; design methodology
+ER
+
+PT B
+ID GAUSSIAN INTERFERENCE CHANNEL; CAPACITY
+ER
+
+PT B
+DE cognitive radios; quality of service; physical layer; MAC layer;
+   contingent pricing; dynamic pricing
+ER
+
+EF

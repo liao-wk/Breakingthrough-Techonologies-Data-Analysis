@@ -1,0 +1,200 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,genome editing,28,genome editing,105
+1,crispr,18,crispr,78
+2,cas9,16,cas9,65
+3,crispr/cas9,15,crispr/cas9,55
+4,rna,13,rna,30
+5,crispr-cas9,6,crispr-cas9,21
+6,gene editing,5,genome engineering,18
+7,genome engineering,5,gene editing,17
+8,gene targeting,4,breeding,15
+9,breeding,3,talens,13
+10,molecular biology,3,gene,11
+11,gene,3,gene targeting,11
+12,talens,3,crops,10
+13,crispr/cas,3,dcas9,10
+14,dna,2,immunity,9
+15,crops,2,plants,9
+16,immunity,2,crispr/cas,9
+17,plants,2,targeted,9
+18,zfn,2,zfn,8
+19,talen,2,talen,8
+20,homologous recombination,2,homologous recombination,8
+21,mutation,2,mutation,8
+22,dcas9,2,molecular biology,7
+23,arabidopsis-thaliana,2,dna cleavage,7
+24,directed mutagenesis,2,dna,6
+25,dna cleavage,2,cas9/sgrna,6
+26,crisprcas,2,plant genome editing,6
+27,homologous,2,ge crops,6
+28,targeted,2,rgens,6
+29,cpf1,1,npbts,6
+30,single cpf1 crrna array,1,cpf1,5
+31,tomato,1,single cpf1 crrna array,5
+32,gaba,1,cas,5
+33,metabolic engineering,1,gene targeting (gt),5
+34,gene delivery,1,efficient,5
+35,polyelectrolyte microcapsules,1,multiplex,5
+36,cotton,1,mutants,5
+37,allotetraploid,1,stress resistance,5
+38,high-throughput,1,yield,5
+39,chimeric antigen receptor t cells,1,grna,5
+40,cart,1,knock-in,5
+41,immunotherapy,1,structure,5
+42,adoptive t cell,1,mechanism,5
+43,cleavage,1,off-target,5
+44,wheat,1,arabidopsis-thaliana,5
+45,tadreb2,1,directed mutagenesis,5
+46,taerf3,1,crisprcas,5
+47,cas,1,gmo,5
+48,gene targeting (gt),1,regulations,5
+49,prediction,1,society,5
+50,gene therapy,1,plant,5
+51,lipids and lipoprotein metabolism,1,tracrrna,5
+52,hexaploid wheat,1,crispr-cas,5
+53,triticum aestivum l.,1,type ii system,5
+54,xanthomonas citri,1,cas9 (csn1),5
+55,sgrna,1,rna processing,5
+56,citrus paradisi,1,bacteriophage,5
+57,antisense oligonucleotide,1,cas gene,5
+58,clinical trial,1,interference,5
+59,endonuclease,1,typing,5
+60,specificity,1,starter culture,5
+61,complex,1,tomato,4
+62,oleic acid,1,gaba,4
+63,camelina,1,metabolic engineering,4
+64,fad2,1,cotton,4
+65,efficient,1,allotetraploid,4
+66,multiplex,1,high-throughput,4
+67,mutants,1,wheat,4
+68,synthetic dna nucleases,1,tadreb2,4
+69,insect,1,taerf3,4
+70,application,1,antisense oligonucleotide,4
+71,best practice,1,clinical trial,4
+72,biosafety,1,endonuclease,4
+73,crispr/cas9 engineering,1,specificity,4
+74,nanoparticle,1,complex,4
+75,bioink,1,insect,4
+76,bioprinting,1,application,4
+77,hydrogels,1,best practice,4
+78,cell aggregates,1,biosafety,4
+79,microcarriers,1,crispr/cas9 engineering,4
+80,stress resistance,1,nanoparticle,4
+81,yield,1,bioink,4
+82,genome editing technology,1,bioprinting,4
+83,crispr-cpf1,1,hydrogels,4
+84,unnatural base pair,1,cell aggregates,4
+85,dna replication,1,microcarriers,4
+86,nucleotide,1,genome editing technology,4
+87,rna interference,1,crispr-cpf1,4
+88,rnai,1,unnatural base pair,4
+89,colorado potato beetle,1,dna replication,4
+90,desert locust,1,nucleotide,4
+91,dsrnase,1,rna interference,4
+92,repeat expansion,1,rnai,4
+93,genome-wide association,1,colorado potato beetle,4
+94,frontotemporal,1,desert locust,4
+95,grna,1,dsrnase,4
+96,knock-in,1,artificial virus,4
+97,structure,1,mth1,4
+98,mechanism,1,nucleus-targeting,4
+99,off-target,1,multiplex editing,4
+100,chromosomal deletion,1,crispr/cas systems,4
+101,nicotiana benthamiana,1,double-strand break,4
+102,arabidopsis,1,zfns,4
+103,aspergillus,1,ustilago maydis,4
+104,artificial virus,1,plant pathogen,4
+105,mth1,1,biotrophic fungus,4
+106,nucleus-targeting,1,reverse,4
+107,oleaginous microalgae,1,cre recombinase,4
+108,nannochloropsis spp.,1,protein delivery,4
+109,clustered regularly,1,lipid,4
+110,crispr/cas9 system,1,designer nucleases,4
+111,spodoptera litura,1,tal effector nuclease,4
+112,pheromone binding,1,zinc finger,4
+113,bean yellow dwarf virus,1,homologous,4
+114,multiplex editing,1,cas9 structure,4
+115,new plant breeding techniques,1,gene regulation,4
+116,genetic engineering,1,epigenetic regulation,4
+117,genetic modification,1,genomic,4
+118,ccr5,1,crop improvement,4
+119,human 3pn embryos,1,gene knock-in,4
+120,cas9/sgrna,1,drug delivery,4
+121,plant genome editing,1,nanoparticles,4
+122,ge crops,1,synthetic guide rna,4
+123,rgens,1,streptomyces,4
+124,npbts,1,dsb,4
+125,yarrowia lipolytica,1,protospacer adjacent motif,4
+126,rna polymerase iii,1,site-specific nuclease,4
+127,crispr/cas systems,1,zinc finger nucleases,4
+128,double-strand break,1,gene knockouts,4
+129,zfns,1,knockin,4
+130,ustilago maydis,1,conditional knockout,4
+131,plant pathogen,1,gene delivery,3
+132,biotrophic fungus,1,polyelectrolyte microcapsules,3
+133,reverse,1,chimeric antigen receptor t cells,3
+134,cre recombinase,1,cart,3
+135,protein delivery,1,immunotherapy,3
+136,lipid,1,adoptive t cell,3
+137,designer nucleases,1,hexaploid wheat,3
+138,tal effector nuclease,1,triticum aestivum l.,3
+139,zinc finger,1,xanthomonas citri,3
+140,rna design,1,sgrna,3
+141,chlamydomonas-reinhardtii,1,citrus paradisi,3
+142,engineered nucleases,1,oleic acid,3
+143,site-specific mutagenesis,1,camelina,3
+144,site-directed,1,fad2,3
+145,cas9 structure,1,chromosomal deletion,3
+146,gene regulation,1,nicotiana benthamiana,3
+147,epigenetic regulation,1,arabidopsis,3
+148,genomic,1,crispr/cas9 system,3
+149,crop improvement,1,spodoptera litura,3
+150,gene knock-in,1,pheromone binding,3
+151,insertional mutagenesis,1,bean yellow dwarf virus,3
+152,transcription factors,1,genetic modification,3
+153,drug delivery,1,ccr5,3
+154,nanoparticles,1,human 3pn embryos,3
+155,combinatorial metabolic engineering,1,yarrowia lipolytica,3
+156,sequence-specific nucleases,1,rna polymerase iii,3
+157,rice,1,sequence-specific nucleases,3
+158,one-step,1,rice,3
+159,synthetic guide rna,1,nuclease specificity,3
+160,streptomyces,1,multiple gene mutations,3
+161,chlamydomonas reinhardtii,1,assembly of,3
+162,molecular tools,1,coronary disease,3
+163,nuclease specificity,1,genetic therapy,3
+164,crisprs (clustered regularly interspaced short palindromic repeats),1,lipoproteins,3
+165,antibiotics,1,transcription factor,3
+166,dsb,1,synthetic biology,3
+167,gmo,1,gene expression,3
+168,regulations,1,cleavage,2
+169,society,1,gene therapy,2
+170,protospacer adjacent motif,1,lipids and lipoprotein metabolism,2
+171,site-specific nuclease,1,synthetic dna nucleases,2
+172,multiple gene mutations,1,repeat expansion,2
+173,assembly of,1,genome-wide association,2
+174,coronary disease,1,frontotemporal,2
+175,genetic therapy,1,aspergillus,2
+176,lipoproteins,1,oleaginous microalgae,2
+177,zinc finger nucleases,1,nannochloropsis spp.,2
+178,gene knockouts,1,clustered regularly,2
+179,designed zinc finger nucleases,1,new plant breeding techniques,2
+180,transgene stacking,1,genetic engineering,2
+181,plant,1,rna design,2
+182,transcription factor,1,chlamydomonas-reinhardtii,2
+183,synthetic biology,1,engineered nucleases,2
+184,gene expression,1,site-specific mutagenesis,2
+185,rna-guided mutagenesis,1,site-directed,2
+186,pigmentation,1,insertional mutagenesis,2
+187,tracrrna,1,transcription factors,2
+188,crispr-cas,1,combinatorial metabolic engineering,2
+189,type ii system,1,one-step,2
+190,cas9 (csn1),1,chlamydomonas reinhardtii,2
+191,rna processing,1,molecular tools,2
+192,knockin,1,designed zinc finger nucleases,2
+193,conditional knockout,1,transgene stacking,2
+194,bacteriophage,1,rna-guided mutagenesis,2
+195,cas gene,1,pigmentation,2
+196,interference,1,antibiotics,1
+197,typing,1,,
+198,starter culture,1,,

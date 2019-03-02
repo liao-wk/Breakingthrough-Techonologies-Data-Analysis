@@ -1,0 +1,282 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,single cell,22,single cell,87
+1,single-cell analysis,20,single-cell analysis,50
+2,microfluidics,12,microfluidics,40
+3,single-cell,11,rna-seq,36
+4,rna-seq,9,single-cell,35
+5,single-cell sequencing,5,sequencing,20
+6,sequencing,5,heterogeneity,18
+7,heterogeneity,5,transcriptome,17
+8,transcriptome,4,single-cell sequencing,15
+9,microfluidic,4,microfluidic,12
+10,single cell analysis,4,single cell analysis,11
+11,detection,4,genomics,11
+12,capillary electrophoresis,4,proteomics,11
+13,lab-on-a-chip,3,rna,10
+14,single-cell rna-seq,3,lab-on-a-chip,10
+15,differential expression,3,transcriptomics,10
+16,genomics,3,single cells,9
+17,proteomics,3,capillary electrophoresis,9
+18,single cells,3,imaging,8
+19,droplet microfluidics,3,bioinformatics,8
+20,transcriptomics,3,epigenetics,8
+21,rna,2,proteins,8
+22,manipulation,2,detection,8
+23,single-cell genomics,2,exosome,8
+24,rna-sequencing,2,single-cell assay,8
+25,single-cell trapping,2,droplet microfluidics,8
+26,cell,2,genome,8
+27,hematopoietic stem cell,2,intracellular,8
+28,single cell rna-seq,2,manipulation,7
+29,hematopoiesis,2,single-cell rna-seq,7
+30,imaging,2,cancer,7
+31,bioinformatics,2,living single cell analysis,7
+32,epigenetics,2,differential expression,7
+33,cancer,2,metabolomics,7
+34,living single cell analysis,2,biology,6
+35,single-cell transcriptome,2,issue 143,6
+36,proteins,2,adult,6
+37,rna sequencing,2,single-cell trapping,6
+38,mass cytometry,2,cell,6
+39,single cell heterogeneity,2,hematopoiesis,6
+40,embryonic stem-cells,2,clustering,6
+41,exosome,2,k-means,6
+42,single-cell assay,2,anova,6
+43,single-cell biology,2,pca,6
+44,genome,2,signature genes,6
+45,fluorescence,2,mass cytometry,6
+46,microfluidic techniques,2,embryonic stem-cells,6
+47,single-cell separation,2,mass spectrometry,6
+48,microarray analysis,2,rt-qpcr,6
+49,metabolomics,2,microfluidic chip,6
+50,mass spectrometry,2,automation,6
+51,intracellular,2,rna-sequencing,5
+52,rt-qpcr,2,hematopoietic stem cell,5
+53,microfluidic chip,2,single cell rna-seq,5
+54,single-cell injection,2,rna sequencing,5
+55,automation,2,single cell heterogeneity,5
+56,microdroplets,1,single-cell biology,5
+57,hydrodynamics,1,fluorescence,5
+58,single-cell capture and analysis,1,single-cell separation,5
+59,biology,1,cell migration,4
+60,issue 143,1,mcpip1,4
+61,adult,1,metastasis,4
+62,cell migration,1,single-cell anlalysis,4
+63,mcpip1,1,rna transport,4
+64,metastasis,1,splicing,4
+65,single-cell anlalysis,1,systems biology,4
+66,microfluidics bio-mems,1,early embryo,4
+67,cell isolation,1,genetics,4
+68,single-cell study,1,environment,4
+69,polymeric,1,mass,4
+70,manufacturing,1,single-cell transcriptome,4
+71,dielectrophoresis,1,biosensing,4
+72,loop-mediated isothermal amplification,1,cell secretomics,4
+73,rna transport,1,cell microarray chip,4
+74,splicing,1,cell chip,4
+75,glioma,1,microchip,4
+76,intratumor genetic heterogeneity,1,elisa,4
+77,variant,1,flow cytometry,4
+78,microwell,1,virus,4
+79,immunomagnetic,1,viral,4
+80,single-cell analysis qpcr,1,exosome secretion,4
+81,single-cell qpcr,1,ngs,4
+82,single-cell workflow,1,drug discovery,4
+83,miqe,1,metagenomics,4
+84,tumor heterogeneity,1,microdroplet,4
+85,subclone phylogeny,1,facs,4
+86,leukemia,1,exsosome,4
+87,differentiation,1,drug screening,4
+88,algorithm,1,cell behavior,4
+89,trajectory analysis,1,analysis,4
+90,rare cell types,1,dna,4
+91,pooled,1,microfluidic techniques,4
+92,systems biology,1,live cell,4
+93,time-lapse single-cell array cytometry,1,epigenomics,4
+94,high-throughput screening,1,epigenome,4
+95,early embryo,1,single cell type,4
+96,genetics,1,systems,4
+97,environment,1,nanotechnology,4
+98,single cell lung,1,afm,4
+99,copd,1,nanomaterials,4
+100,diagnosis,1,biomarkers,4
+101,computational algorithms,1,disease,4
+102,dna sequencing,1,soluble,4
+103,plant,1,dna hydrogel,4
+104,mass,1,envelop and release,4
+105,single cell dynamics,1,permeable,4
+106,cardiac stem cells,1,responsiveness,4
+107,biosensing,1,single,4
+108,cell secretomics,1,single-cell injection,4
+109,clustering,1,instrumentation,4
+110,k-means,1,microarray,4
+111,anova,1,cell capture,4
+112,pca,1,cell rupture,4
+113,signature genes,1,cell culture,4
+114,cell microarray chip,1,repeated,4
+115,cell chip,1,microreactor,4
+116,microchip,1,envirostat,4
+117,nanoelectrochemical architectures,1,cell adhesion,4
+118,high spatial,1,countering,4
+119,single cell compression,1,sorting,4
+120,experimental platform,1,microfluidics bio-mems,3
+121,bone,1,single-cell genomics,3
+122,comparison,1,single-cell study,3
+123,batch effects,1,polymeric,3
+124,noise,1,manufacturing,3
+125,phase separation,1,microwell,3
+126,tumor,1,immunomagnetic,3
+127,circulating tumor cell,1,single-cell analysis qpcr,3
+128,single-cell analysis methods and tools,1,single-cell qpcr,3
+129,single cell epigenomics,1,single-cell workflow,3
+130,manifold learning,1,miqe,3
+131,elisa,1,tumor heterogeneity,3
+132,flow cytometry,1,subclone phylogeny,3
+133,virus,1,leukemia,3
+134,viral,1,differentiation,3
+135,hiv-1 infection,1,algorithm,3
+136,single cell profiling,1,trajectory analysis,3
+137,single-cell technology,1,rare cell types,3
+138,rare tumor cells,1,pooled,3
+139,intratumor heterogeneity,1,single cell lung,3
+140,rna editing,1,copd,3
+141,differential,1,diagnosis,3
+142,precision medicine,1,computational algorithms,3
+143,transcriptional expression,1,dna sequencing,3
+144,gene-expression,1,plant,3
+145,exosome secretion,1,comparison,3
+146,information theoretical approaches,1,batch effects,3
+147,single cell barcode,1,noise,3
+148,messenger-rna,1,phase separation,3
+149,lineage hierarchy,1,tumor,3
+150,lung cancer,1,circulating tumor cell,3
+151,circulating tumour cells,1,rna editing,3
+152,whole,1,precision medicine,3
+153,messenger-rna-seq,1,gene-expression,3
+154,ngs,1,messenger-rna,3
+155,drug discovery,1,lung cancer,3
+156,mechanical phenotypes,1,circulating tumour cells,3
+157,gene sequencing,1,whole,3
+158,integrated multiplex rt-qpcr,1,gels,3
+159,single-cell encapsulation,1,mrna,3
+160,single-cell proteomic,1,rolling circle amplification,3
+161,gels,1,magnetic nanoparticles,3
+162,mrna,1,magnetophoresis,3
+163,rolling circle amplification,1,separation,3
+164,normalization,1,extended-nano channel,3
+165,magnetic nanoparticles,1,hydrodynamic,3
+166,magnetophoresis,1,finite element,3
+167,separation,1,microfluidic chips,3
+168,metagenomics,1,digital microfluidics,3
+169,microdroplet,1,genetic,3
+170,facs,1,microarray analysis,3
+171,exsosome,1,high-throughput,3
+172,drug screening,1,raman-activated cell sorting (racs),3
+173,cell behavior,1,data,3
+174,analysis,1,gene expression analysis,3
+175,dna,1,fluorescence microscopy,3
+176,collision-induced-dissociation,1,digital counting of cdna,3
+177,matrix-assisted,1,digital pcr,3
+178,extended-nano channel,1,gene,3
+179,live single-cell mass spectrometry,1,polydimethylsiloxane,3
+180,hydrodynamic,1,escherichia coli,3
+181,finite element,1,optical tweezers,3
+182,microfluidic chips,1,piezoelectric printing,3
+183,digital microfluidics,1,bacterial assembly,3
+184,genetic,1,chimeric reads,3
+185,gene expression,1,de bruijn graph,3
+186,population heterogeneity,1,multiple,3
+187,protein expression,1,system integration,3
+188,single-cell manipulation,1,nanoprobe,3
+189,single-cell handling,1,electrical measurement,3
+190,single-cell electrical property analysis,1,single-cell mass spectrometry,3
+191,impedance flow,1,cell heterogeneity,3
+192,single cell isolation,1,metabolome,3
+193,genetic heterogeneity,1,drug,3
+194,single cell genome,1,cell tracking,3
+195,next generation sequencing,1,continuous single-cell imaging,3
+196,live cell,1,stem cells,3
+197,epigenomics,1,metabolite,3
+198,epigenome,1,fluorescence correlation spectroscopy,3
+199,rolling circle,1,cell lysis,3
+200,single cell type,1,pdms chip,3
+201,systems,1,diffusion,3
+202,nanotechnology,1,microfabrication,3
+203,afm,1,rnai,3
+204,nanomaterials,1,stochastic gene expression,3
+205,release,1,clonal analysis,3
+206,living cells,1,high-throughput microplate,3
+207,biomarkers,1,leukaemia,3
+208,disease,1,cytometry,3
+209,high-throughput,1,microdroplets,2
+210,raman-activated cell sorting (racs),1,hydrodynamics,2
+211,data,1,single-cell capture and analysis,2
+212,gene expression analysis,1,cell isolation,2
+213,fluorescence microscopy,1,dielectrophoresis,2
+214,automated single cell analysis and isolation system,1,loop-mediated isothermal amplification,2
+215,cellular,1,glioma,2
+216,soluble,1,intratumor genetic heterogeneity,2
+217,digital counting of cdna,1,variant,2
+218,digital pcr,1,single cell dynamics,2
+219,gene,1,cardiac stem cells,2
+220,polydimethylsiloxane,1,nanoelectrochemical architectures,2
+221,escherichia coli,1,high spatial,2
+222,optical tweezers,1,single cell compression,2
+223,piezoelectric printing,1,experimental platform,2
+224,bacterial assembly,1,bone,2
+225,chimeric reads,1,single cell epigenomics,2
+226,de bruijn graph,1,manifold learning,2
+227,multiple,1,single cell profiling,2
+228,dna hydrogel,1,single-cell technology,2
+229,envelop and release,1,rare tumor cells,2
+230,permeable,1,intratumor heterogeneity,2
+231,responsiveness,1,differential,2
+232,single,1,transcriptional expression,2
+233,es cells,1,information theoretical approaches,2
+234,cdna amplification,1,single cell barcode,2
+235,system integration,1,lineage hierarchy,2
+236,nanoprobe,1,mechanical phenotypes,2
+237,electrical measurement,1,gene sequencing,2
+238,live single-cell analysis,1,integrated multiplex rt-qpcr,2
+239,metabolite profiling,1,single-cell encapsulation,2
+240,single-cell mass spectrometry,1,single-cell proteomic,2
+241,cell heterogeneity,1,normalization,2
+242,metabolome,1,live single-cell mass spectrometry,2
+243,drug,1,gene expression,2
+244,on-chip single cell,1,population heterogeneity,2
+245,cell tracking,1,protein expression,2
+246,continuous single-cell imaging,1,single-cell manipulation,2
+247,stem cells,1,single-cell handling,2
+248,metabolite,1,single-cell electrical property analysis,2
+249,cell individuality,1,impedance flow,2
+250,cell-to-cell variability,1,single cell isolation,2
+251,dynamic single-cell analysis,1,genetic heterogeneity,2
+252,real-time dynamic,1,single cell genome,2
+253,fluorescence correlation spectroscopy,1,next generation sequencing,2
+254,cell lysis,1,es cells,2
+255,pdms chip,1,cdna amplification,2
+256,diffusion,1,live single-cell analysis,2
+257,instrumentation,1,metabolite profiling,2
+258,microarray,1,on-chip single cell,2
+259,cell capture,1,cell individuality,2
+260,cell rupture,1,cell-to-cell variability,2
+261,cell culture,1,dynamic single-cell analysis,2
+262,repeated,1,real-time dynamic,2
+263,microreactor,1,labeling chemistry,2
+264,envirostat,1,intracellular derivatization,2
+265,cell adhesion,1,electroporation,2
+266,microfabrication,1,biological cells,2
+267,rnai,1,microelectromechanical devices,2
+268,stochastic gene expression,1,imaging analysis,2
+269,labeling chemistry,1,time-lapse single-cell array cytometry,1
+270,intracellular derivatization,1,high-throughput screening,1
+271,electroporation,1,single-cell analysis methods and tools,1
+272,clonal analysis,1,hiv-1 infection,1
+273,high-throughput microplate,1,messenger-rna-seq,1
+274,leukaemia,1,collision-induced-dissociation,1
+275,cytometry,1,matrix-assisted,1
+276,biological cells,1,rolling circle,1
+277,microelectromechanical devices,1,release,1
+278,countering,1,living cells,1
+279,sorting,1,automated single cell analysis and isolation system,1
+280,imaging analysis,1,cellular,1

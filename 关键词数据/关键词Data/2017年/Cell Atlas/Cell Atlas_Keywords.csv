@@ -1,0 +1,154 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,association,5,glioblastoma,12
+1,gene-expression,3,pd-l1,10
+2,gastric cancer,3,association,9
+3,pd-l1,3,gene-expression,8
+4,glioblastoma,3,gastric cancer,8
+5,prognosis,2,pd-1,8
+6,cell cycle,2,cancer,8
+7,breast cancer,2,prognosis,7
+8,hepatocellular carcinoma,2,cell cycle,7
+9,mutations,2,hepatocellular carcinoma,7
+10,immune checkpoint,2,mutations,6
+11,pd-1,2,immune checkpoint,6
+12,dna methylation,2,dna methylation,6
+13,epigenetics,2,epigenetics,6
+14,cancer,2,breast cancer,5
+15,cancer genomics,2,ii,5
+16,long non-coding rnas,1,expression,5
+17,glioblastoma multiforme,1,cells,5
+18,signature,1,idh1,5
+19,brain parcellation,1,cancer genomics,5
+20,resting-state functional mri,1,exosomes,4
+21,cerebral cortex,1,egfrviii,4
+22,exosomes,1,liquid biopsy,4
+23,egfrviii,1,circulatory biomarkers,4
+24,liquid biopsy,1,oncology,4
+25,circulatory biomarkers,1,mirna,4
+26,oncology,1,tcga,4
+27,rna interference,1,biomarker,4
+28,hepatic carcinogenesis,1,liver cancer,4
+29,tumorigenesis,1,genetics,4
+30,glioblastoma biomarker,1,immune response,4
+31,nf kappa b,1,gene regulation,4
+32,tumor progression,1,cosmic,4
+33,immune cell migration,1,microrna,4
+34,anti-tumor immune response,1,microrna-145-5p,4
+35,quantitative trait loci,1,microrna-145-3p,4
+36,gwas,1,passenger strand,4
+37,triple negative,1,head and,4
+38,immune therapy,1,circular rna_larp4,4
+39,mirna,1,mir-424-5p,4
+40,tcga,1,lats1,4
+41,biomarker,1,invasion,4
+42,genomic profiling,1,seed,4
+43,mutational burden,1,dormancy,4
+44,papillary renal cell carcinoma,1,signal integration,4
+45,spatial proteomics,1,distributed control,4
+46,transcriptomics,1,variability,4
+47,antibodies,1,abc transporter,4
+48,immunohistochemistry,1,acyl-acp thioesterase,4
+49,mir-1,1,fungus,4
+50,vascular endothelial growth factor a,1,gpat,4
+51,liver cancer,1,medicago,4
+52,genetics,1,pd-l2,4
+53,immune response,1,melanoma,4
+54,gene regulation,1,mutational load,4
+55,cosmic,1,glioma,4
+56,microrna,1,long noncoding rnas,4
+57,microrna-145-5p,1,hoxa11-as,4
+58,microrna-145-3p,1,hoxa cluster,4
+59,passenger strand,1,cancer stem cells,4
+60,head and,1,immune suppression,4
+61,histopathology,1,extracellular matrix,4
+62,molecular,1,matrisome,4
+63,circular rna_larp4,1,matrisomedb,4
+64,mir-424-5p,1,ecm atlas,4
+65,lats1,1,bioinformatics,4
+66,invasion,1,human brain,4
+67,virtual microdissection,1,single cells,4
+68,molecular subgroups,1,rnaseq,4
+69,immune,1,neurons,4
+70,molecular subtypes,1,interneurons,4
+71,muscle-invasive bladder cancer,1,long non-coding rnas,3
+72,dna alterations,1,glioblastoma multiforme,3
+73,caenorhabditis-elegans,1,signature,3
+74,messenger-rna-seq,1,rna interference,3
+75,calculation,1,hepatic carcinogenesis,3
+76,hadronic calibration,1,tumorigenesis,3
+77,detector,1,quantitative trait loci,3
+78,seed,1,gwas,3
+79,dormancy,1,spatial proteomics,3
+80,signal integration,1,transcriptomics,3
+81,distributed control,1,antibodies,3
+82,variability,1,immunohistochemistry,3
+83,abc transporter,1,histopathology,3
+84,acyl-acp thioesterase,1,molecular,3
+85,fungus,1,virtual microdissection,3
+86,gpat,1,molecular subgroups,3
+87,medicago,1,immune,3
+88,nodule-specific cysteine-rich peptides,1,nodule-specific cysteine-rich peptides,3
+89,symbiosis,1,symbiosis,3
+90,legume,1,legume,3
+91,nodule,1,nodule,3
+92,promoter usage,1,promoter usage,3
+93,pr interval,1,pr interval,3
+94,pd-l2,1,checkpoint blockade,3
+95,melanoma,1,neoantigens,3
+96,mutational load,1,immunotherapy,3
+97,checkpoint blockade,1,t-cell inflammation,3
+98,neoantigens,1,deconvolution,3
+99,immunotherapy,1,non-negative matrix,3
+100,t-cell inflammation,1,kras,3
+101,deconvolution,1,cancer metabolism,3
+102,non-negative matrix,1,pancreatic cancer,3
+103,surrogate variable analysis,1,tumor immune modulation,3
+104,adaptive resistance,1,land plant evolution,3
+105,ovarian cancer,1,physcomitrella patens,3
+106,glioma,1,transcriptome atlas,3
+107,long noncoding rnas,1,tcp,3
+108,hoxa11-as,1,5-hydroxymethylcytosine,3
+109,hoxa cluster,1,cpg sites,3
+110,kras,1,programmed death 1,3
+111,cancer metabolism,1,programmed death,3
+112,pancreatic cancer,1,machine learning,3
+113,tumor immune modulation,1,cancer susceptibility,3
+114,land plant evolution,1,predictive models,3
+115,physcomitrella patens,1,lymph nodes,3
+116,transcriptome atlas,1,axillary nodes,3
+117,tcp,1,worldwide consensus,3
+118,cancer stem cells,1,copy number alterations,3
+119,immune suppression,1,next-generation,3
+120,ii,1,gestational diabetes,3
+121,expression,1,pregnancy,3
+122,cells,1,hyperglycaemia in pregnancy,3
+123,idh1,1,maternal,3
+124,extracellular matrix,1,brain parcellation,2
+125,matrisome,1,resting-state functional mri,2
+126,matrisomedb,1,cerebral cortex,2
+127,ecm atlas,1,tumor progression,2
+128,bioinformatics,1,immune cell migration,2
+129,5-hydroxymethylcytosine,1,anti-tumor immune response,2
+130,cpg sites,1,triple negative,2
+131,cancer genetics,1,immune therapy,2
+132,programmed death 1,1,genomic profiling,2
+133,programmed death,1,mutational burden,2
+134,human brain,1,papillary renal cell carcinoma,2
+135,single cells,1,mir-1,2
+136,rnaseq,1,vascular endothelial growth factor a,2
+137,neurons,1,molecular subtypes,2
+138,interneurons,1,muscle-invasive bladder cancer,2
+139,machine learning,1,dna alterations,2
+140,cancer susceptibility,1,caenorhabditis-elegans,2
+141,predictive models,1,messenger-rna-seq,2
+142,lymph nodes,1,calculation,2
+143,axillary nodes,1,hadronic calibration,2
+144,worldwide consensus,1,detector,2
+145,copy number alterations,1,adaptive resistance,2
+146,next-generation,1,ovarian cancer,2
+147,profiles,1,cancer genetics,2
+148,variants,1,profiles,2
+149,gestational diabetes,1,variants,2
+150,pregnancy,1,glioblastoma biomarker,1
+151,hyperglycaemia in pregnancy,1,nf kappa b,1
+152,maternal,1,surrogate variable analysis,1

@@ -1,0 +1,241 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,sounding rocket,6,sounding rocket,16
+1,winged rocket,4,methane,10
+2,trajectory optimization,3,winged rocket,10
+3,reusable launch vehicle,3,oxygen,9
+4,liquid rocket engine,3,liquid rocket engine,9
+5,methane,2,trajectory optimization,8
+6,oxygen,2,thrust chamber,8
+7,thrust chamber,2,hydrogen,8
+8,hydrogen,2,rocket engine,8
+9,solid rocket,2,sapphire,8
+10,rocket engine,2,platinum,8
+11,technology demonstrator,2,thin film metallization,8
+12,optimal control,2,pressure sensor,8
+13,space launch,2,harsh,8
+14,reusability,2,reusable launch vehicle,7
+15,ablation,2,space launch,7
+16,rocket propulsion,2,reusability,7
+17,damage,2,solid rocket,6
+18,sapphire,2,technology demonstrator,6
+19,platinum,2,optimal control,6
+20,thin film metallization,2,ablation,6
+21,pressure sensor,2,smard,6
+22,harsh,2,rexus,6
+23,adaptive control,2,tum,6
+24,flight control,2,cubesat,6
+25,navigation,2,move-ii,6
+26,fiber bragg grating sensor,2,sma,6
+27,mechanical properties,2,hdrm,6
+28,vtvl reusable rocket,1,damage,6
+29,finite-element,1,navigation,6
+30,gas generator,1,mechanical properties,6
+31,turbopump,1,gas generator,5
+32,tests,1,turbopump,5
+33,space access,1,tests,5
+34,trajectory optimisation,1,rocket propulsion,5
+35,space transportation,1,starshade,5
+36,semi-circular cylinder,1,occulter,5
+37,turbulence,1,exoplanet,5
+38,compressibility,1,debris disk,5
+39,calculation,1,formation flying,5
+40,rocket-based-combined-cycle,1,airship,5
+41,dual-rocket-based-combined-cycle,1,dare,5
+42,liquid,1,deimos,5
+43,microgravity,1,student projects,5
+44,suborbital,1,amateur altitude,5
+45,hybrid rocket motor,1,microgravity,4
+46,flush air data system,1,suborbital,4
+47,hypersonic flight test,1,hybrid rocket motor,4
+48,burning rate,1,burning rate,4
+49,igniter,1,igniter,4
+50,motor case,1,motor case,4
+51,performance prediction,1,performance prediction,4
+52,fluid-structural interaction,1,specific cost,4
+53,rocket nozzle,1,aerospace plane,4
+54,aeroelastic stability,1,rocket,4
+55,side,1,e-sail,4
+56,methane/oxygen propellant,1,mars,4
+57,low cost launch,1,manned spaceflight,4
+58,liquid-propellant rocket engine,1,asteroid mining,4
+59,health condition monitoring,1,propellantless,4
+60,regenerative cooling,1,mechanical seal,4
+61,heat transfer,1,hybrid ceramic,4
+62,thermal choking,1,reentry,4
+63,quasi-one-dimensional model,1,hypersonic,4
+64,ejection process,1,rbcc,4
+65,combined,1,gauss pseudospectral,4
+66,liquid rocket,1,flight test,4
+67,levitation force,1,guidance,4
+68,small clearance,1,control,4
+69,superconductor magnet,1,evolution,4
+70,trajectory,1,infrastructure,4
+71,simulation,1,launch vehicle,4
+72,reusable lower stage,1,multidisciplinary,4
+73,assessment of cost indexes,1,rockets,4
+74,analysis of cost,1,fiber bragg grating sensor,4
+75,space debris,1,semi-circular cylinder,3
+76,special spacecraft debris collector,1,turbulence,3
+77,criteria function,1,compressibility,3
+78,multidisciplinary design optimization,1,calculation,3
+79,two-stage-to-orbit reusable,1,fluid-structural interaction,3
+80,stratosphere,1,rocket nozzle,3
+81,ozone,1,aeroelastic stability,3
+82,emissions,1,side,3
+83,production,1,regenerative cooling,3
+84,ozone depletion,1,heat transfer,3
+85,liquid-propellant rocket engine (lre),1,thermal choking,3
+86,space shuttle main engine (ssme),1,quasi-one-dimensional model,3
+87,space shuttle main engine,1,ejection process,3
+88,fault detection,1,combined,3
+89,fault diagnosis,1,liquid rocket,3
+90,fault,1,levitation force,3
+91,ablative materials,1,small clearance,3
+92,elastomeric heat shielding materials,1,superconductor magnet,3
+93,staged combustion cycle,1,trajectory,3
+94,expander cycle,1,simulation,3
+95,gas,1,space shuttle main engine,3
+96,"alpha, alpha '-bis(substituted-benzylidene)cycloalkanones",1,fault detection,3
+97,nano-tio2,1,fault diagnosis,3
+98,space tethered system,1,fault,3
+99,payload tossing,1,staged combustion cycle,3
+100,hamilton energy,1,expander cycle,3
+101,specific cost,1,gas,3
+102,aerospace plane,1,space tethered system,3
+103,rocket,1,payload tossing,3
+104,geo,1,hamilton energy,3
+105,satellite launcher,1,geo,3
+106,hohmann transfer ellipse,1,satellite launcher,3
+107,satellite orbit,1,hohmann transfer ellipse,3
+108,cots,1,satellite orbit,3
+109,paraglider,1,cots,3
+110,precision airdrop system,1,paraglider,3
+111,cost-effective,1,precision airdrop system,3
+112,microgravity experiment,1,cost-effective,3
+113,tethered satellite system,1,tethered satellite system,3
+114,tss,1,tss,3
+115,payload transport,1,payload transport,3
+116,general public,1,creep properties,3
+117,first year undergraduate/general,1,processing,3
+118,demonstrations,1,texture,3
+119,e-sail,1,copper alloy,3
+120,mars,1,dynamic pressure,3
+121,manned spaceflight,1,factor of safety,3
+122,asteroid mining,1,reusable sounding rocket,3
+123,propellantless,1,aerospace education,3
+124,creep properties,1,solid,3
+125,processing,1,fluid-structure interaction,3
+126,texture,1,fems,3
+127,copper alloy,1,viscoplasticity,3
+128,dynamic pressure,1,economics,3
+129,factor of safety,1,electromagnetic (em) launch,3
+130,reusable sounding rocket,1,pulsed power,3
+131,aerospace education,1,reusable rocket,3
+132,solid,1,health monitoring system,3
+133,parafoil,1,rvt,3
+134,cost-effective atmospheric,1,wireless sensor network,3
+135,smard,1,cu-cr2nb alloy,3
+136,rexus,1,in situ precipitation,3
+137,tum,1,cu-8cr-4nb,3
+138,cubesat,1,aluminothermic,3
+139,move-ii,1,optimal trajectory generation,3
+140,sma,1,genetic algorithm,3
+141,hdrm,1,fpga,3
+142,mechanical seal,1,heating test,3
+143,hybrid ceramic,1,c/c composite,3
+144,reentry,1,sic coating,3
+145,hypersonic,1,interlayer effect,3
+146,rbcc,1,coatings,3
+147,gauss pseudospectral,1,tension test,3
+148,fluid-structure interaction,1,adhesion,3
+149,fems,1,finite element modeling,3
+150,viscoplasticity,1,software framework,3
+151,reusable rocket engine,1,multiphysics simulation,3
+152,preventive maintenance,1,system integration,3
+153,effective age,1,data,3
+154,economics,1,polymer matrix composites,3
+155,electromagnetic (em) launch,1,extreme environments,3
+156,pulsed power,1,fracture,3
+157,reusable rocket,1,reusable launchers,3
+158,health monitoring system,1,sabre,3
+159,rvt,1,skylon,3
+160,wireless sensor network,1,ssto,3
+161,starshade,1,carbon fibre,3
+162,occulter,1,thermal properties,3
+163,exoplanet,1,impact,3
+164,debris disk,1,licensing,3
+165,formation flying,1,maximum probable loss,3
+166,airship,1,reusable launch vehicles,3
+167,distributed genetic algorithm,1,cryogenics,3
+168,flyback,1,propellant tank,3
+169,information fusion,1,matrix crack,3
+170,cu-cr2nb alloy,1,vtvl reusable rocket,2
+171,in situ precipitation,1,finite-element,2
+172,cu-8cr-4nb,1,space access,2
+173,aluminothermic,1,trajectory optimisation,2
+174,space-tourism roadmap,1,space transportation,2
+175,rlv,1,rocket-based-combined-cycle,2
+176,spaceliner,1,dual-rocket-based-combined-cycle,2
+177,flight test,1,liquid,2
+178,guidance,1,flush air data system,2
+179,control,1,hypersonic flight test,2
+180,optimal trajectory generation,1,methane/oxygen propellant,2
+181,genetic algorithm,1,low cost launch,2
+182,fpga,1,reusable lower stage,2
+183,rocket based combined cycle,1,assessment of cost indexes,2
+184,system design,1,analysis of cost,2
+185,hypersonic vehicle,1,space debris,2
+186,dare,1,special spacecraft debris collector,2
+187,deimos,1,criteria function,2
+188,student projects,1,stratosphere,2
+189,amateur altitude,1,ozone,2
+190,heating test,1,emissions,2
+191,c/c composite,1,ablative materials,2
+192,sic coating,1,elastomeric heat shielding materials,2
+193,interlayer effect,1,general public,2
+194,evolution,1,first year undergraduate/general,2
+195,infrastructure,1,demonstrations,2
+196,launch vehicle,1,cost-effective atmospheric,2
+197,multidisciplinary,1,reusable rocket engine,2
+198,rockets,1,preventive maintenance,2
+199,coatings,1,effective age,2
+200,tension test,1,distributed genetic algorithm,2
+201,adhesion,1,adaptive control,2
+202,finite element modeling,1,flight control,2
+203,bond coat,1,flyback,2
+204,substrate adhesion,1,information fusion,2
+205,films,1,space-tourism roadmap,2
+206,health monitoring,1,rlv,2
+207,strain measurement,1,spaceliner,2
+208,software framework,1,rocket based combined cycle,2
+209,multiphysics simulation,1,system design,2
+210,system integration,1,hypersonic vehicle,2
+211,data,1,bond coat,2
+212,polymer matrix composites,1,substrate adhesion,2
+213,extreme environments,1,films,2
+214,fracture,1,health monitoring,2
+215,nuclear propulsion,1,strain measurement,2
+216,lunar missions,1,integral-rocket-ramjet,2
+217,integral-rocket-ramjet,1,two-stage-to-orbit,2
+218,two-stage-to-orbit,1,real-time health monitoring,2
+219,reusable launchers,1,strain,2
+220,sabre,1,system and mission optimization,2
+221,skylon,1,conceptual vehicle design,2
+222,ssto,1,airbreathing,2
+223,real-time health monitoring,1,damage-mitigating control,2
+224,strain,1,fatigue crack growth,2
+225,carbon fibre,1,variable-amplitude,2
+226,thermal properties,1,liquid-propellant rocket engine,1
+227,impact,1,health condition monitoring,1
+228,licensing,1,multidisciplinary design optimization,1
+229,maximum probable loss,1,two-stage-to-orbit reusable,1
+230,reusable launch vehicles,1,production,1
+231,cryogenics,1,ozone depletion,1
+232,propellant tank,1,liquid-propellant rocket engine (lre),1
+233,matrix crack,1,space shuttle main engine (ssme),1
+234,system and mission optimization,1,"alpha, alpha '-bis(substituted-benzylidene)cycloalkanones",1
+235,conceptual vehicle design,1,nano-tio2,1
+236,airbreathing,1,microgravity experiment,1
+237,damage-mitigating control,1,parafoil,1
+238,fatigue crack growth,1,nuclear propulsion,1
+239,variable-amplitude,1,lunar missions,1

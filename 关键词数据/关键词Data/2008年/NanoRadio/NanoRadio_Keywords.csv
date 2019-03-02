@@ -1,0 +1,427 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,graphene,7,graphene,22
+1,nanotechnology,7,nanotechnology,21
+2,rf magnetron sputtering,6,rf magnetron sputtering,21
+3,zno,6,zno,20
+4,thin films,5,nano-satellite,16
+5,nano-satellite,4,thin films,14
+6,magnetron sputtering,4,magnetron sputtering,12
+7,internet of things,3,rfid,11
+8,nanoparticles,3,nano-communication,11
+9,radiotherapy,3,afm,11
+10,rfid,3,ais,10
+11,nano communication,3,radiotherapy,10
+12,terahertz,3,terahertz,10
+13,radio frequency plasma,3,communication,10
+14,nano-communication,3,rf thermal plasma,10
+15,terahertz band,3,powder,10
+16,carbon nanotube,3,internet of things,9
+17,afm,3,nano communication,9
+18,ais,2,terahertz band,9
+19,bidirectional,2,hydroxyapatite,9
+20,cmos integrated circuits,2,transmitter,8
+21,on-chip,2,nanoparticles,8
+22,transmitter,2,nano-wireless,8
+23,radio frequency identification,2,radio frequency,8
+24,wireless sensor,2,orthogonality,8
+25,body area network,2,plasma,8
+26,channel modeling,2,body area network,7
+27,multi-scale,2,radio frequency plasma,7
+28,sputtering,2,swarm,7
+29,cep,2,cluster,7
+30,average bit error rate,2,carbon nanotube,7
+31,awggn,2,nano-polysilicon,7
+32,x-ray diffraction,2,nanostructure,7
+33,transmission electron,2,bidirectional,6
+34,nano-antenna,2,cmos integrated circuits,6
+35,network,2,on-chip,6
+36,nano-wireless,2,radio frequency identification,6
+37,swarm,2,wireless sensor,6
+38,cluster,2,channel modeling,6
+39,communication,2,sputtering,6
+40,radio frequency,2,cep,6
+41,nano-polysilicon,2,average bit error rate,6
+42,software defined radio,2,awggn,6
+43,rf thermal plasma,2,x-ray diffraction,6
+44,orthogonality,2,transmission electron,6
+45,zinc oxide,2,software defined radio,6
+46,powder,2,nanoelectronics,6
+47,nanostructure,2,cubesat,5
+48,nanoelectronics,2,gnss-r,5
+49,nanostructures,2,radiometry,5
+50,photoluminescence,2,rfi,5
+51,hydroxyapatite,2,i-125,5
+52,plasma,2,cs-134,5
+53,znse,1,cs-137,5
+54,cds,1,nano-titania,5
+55,nano-heterojunction,1,natural xenon,5
+56,atomic layer deposition,1,neutron activation,5
+57,photodetector,1,network,5
+58,isotope production,1,subsystem,5
+59,argon-37,1,tnc,5
+60,thermal neutrons,1,receiver,5
+61,slowpoke-2,1,demodulators,5
+62,nanoparticle,1,antenna,5
+63,radio-absorber,1,am radio receiver,5
+64,mnzn-ferrite,1,circuit,5
+65,polyaniline,1,transistor,5
+66,cubesat,1,tco,5
+67,gnss-r,1,ito,5
+68,radiometry,1,izto,5
+69,rfi,1,indium,5
+70,nano-structure,1,nano powder,5
+71,insulation pressboard,1,zinc oxide,5
+72,space,1,gnu radio,5
+73,x structure,1,sdr,5
+74,fem,1,intelligent transport,5
+75,absorber,1,marine,5
+76,radio-enhancement,1,glass,5
+77,radiation physics,1,spherical,5
+78,local dose enhancement,1,nano,5
+79,nano-printing,1,calcination,5
+80,smart library,1,nano-electro-mechanical,5
+81,ultra-high frequency,1,carbon nano-tubes,5
+82,i-125,1,mwcnt,5
+83,cs-134,1,switch,5
+84,cs-137,1,nems,5
+85,nano-titania,1,van der,5
+86,natural xenon,1,nanostructures,5
+87,neutron activation,1,nano-sized,5
+88,circular polarization,1,thermal,5
+89,dual-band antenna,1,znse,4
+90,pcb inverted f,1,cds,4
+91,molecular communication,1,nano-heterojunction,4
+92,time-variant channels,1,atomic layer deposition,4
+93,mobile nano-machines,1,photodetector,4
+94,radiosensitive,1,isotope production,4
+95,block copolymer,1,argon-37,4
+96,ebselen,1,thermal neutrons,4
+97,radioprotection,1,slowpoke-2,4
+98,nano-drone,1,nanoparticle,4
+99,uav,1,radiosensitive,4
+100,carbon nano-onion,1,block copolymer,4
+101,nanodiamond,1,ebselen,4
+102,annealing,1,radioprotection,4
+103,wireless nano sensor network (wnsn),1,nano-drone,4
+104,mobility management,1,uav,4
+105,fuzzy logic,1,multi-scale,4
+106,radio-absorbing coatings,1,body-centric nano-communication,4
+107,radio-absorbing materials,1,blood,4
+108,shape of,1,skin,4
+109,asymmetric data delivery,1,fat,4
+110,coronary heart disease,1,flexible 2d nanoelectronics,4
+111,contact-angle hysteresis,1,cvd mos2,4
+112,optical property,1,black phosphorus,4
+113,wettability,1,thz,4
+114,fept,1,wnsn,4
+115,nanoindentation,1,energy efficiency,4
+116,hardness,1,distributed mac,4
+117,log periodic toothed circular nano antenna,1,centralized,4
+118,artificial bee colony,1,nano-antenna,4
+119,body-centric nano-communication,1,nano-graphene,4
+120,blood,1,combined therapy,4
+121,skin,1,radio labeling,4
+122,fat,1,gamma,4
+123,thz frequency,1,micro-robot,4
+124,nanoscale networks,1,claytronics,4
+125,nano-devices,1,map building,4
+126,spintronics,1,alexa fluor dyes,4
+127,microwave detectors,1,communication channels,4
+128,ferromagnetic resonance,1,fret,4
+129,flexible 2d nanoelectronics,1,mimo,4
+130,cvd mos2,1,nano-satellites,4
+131,black phosphorus,1,downlink communication,4
+132,thz,1,diversity,4
+133,wnsn,1,distributed,4
+134,energy efficiency,1,micro/nano electroporation,4
+135,distributed mac,1,android,4
+136,centralized,1,application,4
+137,times roman,1,arduino mcu,4
+138,image area,1,hela,4
+139,acronyms,1,outage capacity,4
+140,references,1,magnetic sensor,4
+141,nano-metal and exfoliated graphite hybrid,1,tft,4
+142,nano-thin exfoliated,1,hall effect,4
+143,vapor deposition,1,cmos technolgy,4
+144,sensing,1,radio frequency sputtering,4
+145,nonlinear optics,1,indium tin oxide,4
+146,nano-graphene,1,tem,4
+147,combined therapy,1,edx,4
+148,radio labeling,1,xps,4
+149,gamma,1,nano scale pulses,4
+150,carbon nano-electronics,1,ir-uwb,4
+151,coupled oscillators,1,block coding scheme,4
+152,gyrotropic mode,1,time,4
+153,microwave,1,3d positioning,4
+154,radio frequency (rf),1,nano-scale pulse,4
+155,hydroxyapatite coating,1,uwb,4
+156,magnesium alloy,1,impulse radio,4
+157,corrosion,1,pet woven,4
+158,internet of nano things,1,sliver thin film,4
+159,micro-robot,1,conductivity,4
+160,claytronics,1,heteroepitaxy,4
+161,map building,1,strain,4
+162,alexa fluor dyes,1,surface morphology,4
+163,communication channels,1,xrd,4
+164,fret,1,privacy,4
+165,mimo,1,nano-tecbnology,4
+166,body-centric communication,1,surveillance,4
+167,nano-network,1,panopticon,4
+168,path loss,1,photoluminescence,4
+169,wireless networking,1,zirconia,4
+170,nanoscale,1,calcium zirconate,4
+171,nano-satellites,1,nano-composites,4
+172,downlink communication,1,rf plasma,4
+173,diversity,1,nano-structure,3
+174,distributed,1,insulation pressboard,3
+175,interference suppression,1,space,3
+176,cognitive radio,1,x structure,3
+177,cellular radio,1,fem,3
+178,interference,1,absorber,3
+179,wearable antennas,1,radio-enhancement,3
+180,wireless medical sensors,1,radiation physics,3
+181,bodycentric communications,1,nano-printing,3
+182,micro/nano electroporation,1,smart library,3
+183,android,1,ultra-high frequency,3
+184,application,1,circular polarization,3
+185,arduino mcu,1,dual-band antenna,3
+186,hela,1,pcb inverted f,3
+187,outage probability,1,carbon nano-onion,3
+188,subsystem,1,nanodiamond,3
+189,tnc,1,annealing,3
+190,receiver,1,contact-angle hysteresis,3
+191,nantenna,1,optical property,3
+192,optical antenna,1,wettability,3
+193,nanonetwork,1,fept,3
+194,equilateral triangular,1,nanoindentation,3
+195,outage capacity,1,hardness,3
+196,single crystalline,1,times roman,3
+197,rf switch,1,image area,3
+198,demodulators,1,acronyms,3
+199,antenna,1,references,3
+200,am radio receiver,1,vapor deposition,3
+201,circuit,1,carbon nano-electronics,3
+202,transistor,1,coupled oscillators,3
+203,sico,1,gyrotropic mode,3
+204,scratch test,1,microwave,3
+205,nano-indentation,1,radio frequency (rf),3
+206,electromechanical vibration,1,hydroxyapatite coating,3
+207,csdg mosfet,1,magnesium alloy,3
+208,channel communication,1,corrosion,3
+209,dp4t switch,1,internet of nano things,3
+210,mimo system,1,body-centric communication,3
+211,oxidation,1,nano-network,3
+212,sintering,1,path loss,3
+213,electrical conductivity,1,interference suppression,3
+214,microstructure,1,cognitive radio,3
+215,nanonetworks,1,cellular radio,3
+216,pulse-based communication,1,interference,3
+217,modulation,1,outage probability,3
+218,nano-composite,1,nantenna,3
+219,cadmium sulphide-polyaniline,1,optical antenna,3
+220,radio wave,1,nanonetwork,3
+221,optical fiber sensors,1,equilateral triangular,3
+222,multi-layer structure,1,single crystalline,3
+223,silicon,1,rf switch,3
+224,magnetic sensor,1,sico,3
+225,tft,1,scratch test,3
+226,hall effect,1,nano-indentation,3
+227,cmos technolgy,1,csdg mosfet,3
+228,silicon photonics,1,channel communication,3
+229,coherent optical-ofdm,1,dp4t switch,3
+230,graphene photo-detector,1,mimo system,3
+231,radio,1,oxidation,3
+232,wireless nano-sensor networks,1,sintering,3
+233,ranging algorithm,1,electrical conductivity,3
+234,palladium,1,microstructure,3
+235,hydrogen gas sensor,1,nanonetworks,3
+236,mems,1,pulse-based communication,3
+237,multi-component tco film,1,modulation,3
+238,flexible organic transparent substrate,1,optical fiber sensors,3
+239,rf,1,multi-layer structure,3
+240,zrn/tan,1,silicon,3
+241,nano-multilayer,1,silicon photonics,3
+242,interface,1,coherent optical-ofdm,3
+243,helium retention,1,graphene photo-detector,3
+244,indoor positioning,1,radio,3
+245,nanostructured materials,1,palladium,3
+246,plasma deposition/spray,1,hydrogen gas sensor,3
+247,hexagonal nano-disks,1,mems,3
+248,surface exciton,1,zrn/tan,3
+249,nano-therapy,1,nano-multilayer,3
+250,hyperthermia,1,interface,3
+251,gold nano-antenna system,1,helium retention,3
+252,current-steering dac,1,hexagonal nano-disks,3
+253,self-correction,1,surface exciton,3
+254,nano-scale technology,1,nano-therapy,3
+255,digital,1,hyperthermia,3
+256,nano-electro-mechanical resonator,1,gold nano-antenna system,3
+257,junction-less,1,current-steering dac,3
+258,nano/micro satellite,1,self-correction,3
+259,fsk,1,nano-scale technology,3
+260,ax.25,1,digital,3
+261,nano-antennas,1,nano/micro satellite,3
+262,wireless communication system,1,fsk,3
+263,thin film transistors,1,ax.25,3
+264,cmos technology,1,thin film transistors,3
+265,lpcvd,1,cmos technology,3
+266,radio frequency sputtering,1,lpcvd,3
+267,indium tin oxide,1,nano communications,3
+268,tem,1,nano networks,3
+269,edx,1,intrusion detection,3
+270,xps,1,plasma processing,3
+271,nano communications,1,deposition,3
+272,nano networks,1,amplitude modulation,3
+273,intrusion detection,1,rf discharge,3
+274,channel thermal noise,1,nanoresonators,3
+275,nano-scale mosfets,1,magnetic nanoparticles,3
+276,thermal noise,1,magnetosomes,3
+277,plasma processing,1,energy transfer,3
+278,deposition,1,si quantum dot,3
+279,amplitude modulation,1,thin-films,3
+280,rf discharge,1,frequency shift keying,3
+281,tco,1,ax.25 protocol,3
+282,ito,1,fpga,3
+283,izto,1,radio-frequency sputtering,3
+284,indium,1,nano-crystals,3
+285,nano powder,1,growth behaviour,3
+286,nanoresonators,1,material science,3
+287,magnetic nanoparticles,1,tantalum nitride,3
+288,magnetosomes,1,chemical vapor,3
+289,energy transfer,1,radio astronomy,3
+290,nano scale pulses,1,olfar,3
+291,ir-uwb,1,nano-scanner,3
+292,block coding scheme,1,atomic force microscope,3
+293,time,1,flexure-guide,3
+294,si quantum dot,1,piezoelectric,3
+295,thin-films,1,nano-pyramids,3
+296,frequency shift keying,1,sin/si substrate,3
+297,ax.25 protocol,1,radio-frequency,3
+298,fpga,1,carbon nanotubes,3
+299,carbon nanotriangles,1,structure health monitoring,3
+300,carbon nanosheets,1,wireless sensor networks,3
+301,field emission scanning,1,safer,3
+302,radio-frequency sputtering,1,smarter,3
+303,nano-crystals,1,3d heterogeneous integration,3
+304,growth behaviour,1,nano-sensors,3
+305,resonant channel transistor,1,flexible substrate,3
+306,nano-eletromechanical system,1,flex,3
+307,gnu radio,1,plasma nitriding,3
+308,sdr,1,nitrides,3
+309,intelligent transport,1,layered structure,3
+310,marine,1,nano-hardness,3
+311,3d positioning,1,bismuth,3
+312,nano-scale pulse,1,vapor-solid process,3
+313,uwb,1,spiral growth,3
+314,impulse radio,1,interconnects,3
+315,glass,1,nanofabrication,3
+316,spherical,1,nano particle,3
+317,nano,1,sic,3
+318,calcination,1,nonvolatile memory,3
+319,ad-hoc networks,1,nano-floating gate memory,3
+320,security privacy and authentication,1,blends,3
+321,plasma assistant,1,block copolymers,3
+322,electron beam evaporation,1,self-assembly,3
+323,nanophotonic film,1,nano-size zno,3
+324,material science,1,absorption,3
+325,tantalum nitride,1,diamond,3
+326,chemical vapor,1,vapor grown carbon,3
+327,radio astronomy,1,plasma reactions,3
+328,olfar,1,plasma cvd,3
+329,pet woven,1,graphite,3
+330,sliver thin film,1,morphology,3
+331,conductivity,1,nanowires,3
+332,dark and bright soliton,1,vapor-liquid-solid growth,3
+333,continuous spectra,1,topography,3
+334,atom localization,1,mos2,3
+335,radio-frequency driven field,1,radio-absorber,2
+336,four-level atomic,1,mnzn-ferrite,2
+337,nano-scanner,1,polyaniline,2
+338,atomic force microscope,1,molecular communication,2
+339,flexure-guide,1,time-variant channels,2
+340,piezoelectric,1,mobile nano-machines,2
+341,nano-electro-mechanical,1,wireless nano sensor network (wnsn),2
+342,carbon nano-tubes,1,mobility management,2
+343,mwcnt,1,fuzzy logic,2
+344,switch,1,radio-absorbing coatings,2
+345,nems,1,radio-absorbing materials,2
+346,van der,1,shape of,2
+347,heteroepitaxy,1,asymmetric data delivery,2
+348,strain,1,coronary heart disease,2
+349,surface morphology,1,thz frequency,2
+350,nano-pyramids,1,nanoscale networks,2
+351,sin/si substrate,1,nano-devices,2
+352,xrd,1,spintronics,2
+353,au nano-crystallites,1,microwave detectors,2
+354,hrem,1,ferromagnetic resonance,2
+355,rf sputtering deposition,1,sensing,2
+356,radio-frequency,1,nonlinear optics,2
+357,carbon nanotubes,1,wearable antennas,2
+358,structure health monitoring,1,wireless medical sensors,2
+359,wireless sensor networks,1,bodycentric communications,2
+360,safer,1,electromechanical vibration,2
+361,smarter,1,nano-composite,2
+362,3d heterogeneous integration,1,cadmium sulphide-polyaniline,2
+363,nano-sensors,1,radio wave,2
+364,flexible substrate,1,wireless nano-sensor networks,2
+365,flex,1,ranging algorithm,2
+366,nano-powders,1,multi-component tco film,2
+367,sampling probe,1,flexible organic transparent substrate,2
+368,induction plasma,1,rf,2
+369,radio frequency magnetron co-sputtering,1,indoor positioning,2
+370,cupric oxide/sillica composite,1,nanostructured materials,2
+371,plasma nitriding,1,plasma deposition/spray,2
+372,nitrides,1,nano-antennas,2
+373,layered structure,1,wireless communication system,2
+374,nano-hardness,1,channel thermal noise,2
+375,rfid (radio frequency identification),1,nano-scale mosfets,2
+376,bismuth,1,thermal noise,2
+377,vapor-solid process,1,carbon nanotriangles,2
+378,spiral growth,1,carbon nanosheets,2
+379,interconnects,1,field emission scanning,2
+380,nanofabrication,1,resonant channel transistor,2
+381,carbon nanofiber,1,nano-eletromechanical system,2
+382,chemical vapor deposition (cvd),1,ad-hoc networks,2
+383,microsystem,1,security privacy and authentication,2
+384,nano particle,1,plasma assistant,2
+385,sic,1,electron beam evaporation,2
+386,nonvolatile memory,1,nanophotonic film,2
+387,nano-floating gate memory,1,atom localization,2
+388,stars : pulsars : individual : psr b0144+59,1,radio-frequency driven field,2
+389,stars : pulsars :,1,four-level atomic,2
+390,polymer solar cell,1,au nano-crystallites,2
+391,tin oxides,1,hrem,2
+392,thin film,1,rf sputtering deposition,2
+393,nano-particle,1,nano-powders,2
+394,privacy,1,sampling probe,2
+395,nano-tecbnology,1,induction plasma,2
+396,surveillance,1,rfid (radio frequency identification),2
+397,panopticon,1,carbon nanofiber,2
+398,cvd,1,chemical vapor deposition (cvd),2
+399,selective growth,1,microsystem,2
+400,blends,1,polymer solar cell,2
+401,block copolymers,1,tin oxides,2
+402,self-assembly,1,thin film,2
+403,pan precursors,1,nano-particle,2
+404,preoxidation fibers,1,cvd,2
+405,nano-size zno,1,selective growth,2
+406,absorption,1,pan precursors,2
+407,nano-structured onion-like fullerenes,1,preoxidation fibers,2
+408,coal,1,nano-structured onion-like fullerenes,2
+409,diamond,1,coal,2
+410,vapor grown carbon,1,local dose enhancement,1
+411,plasma reactions,1,log periodic toothed circular nano antenna,1
+412,plasma cvd,1,artificial bee colony,1
+413,graphite,1,nano-metal and exfoliated graphite hybrid,1
+414,morphology,1,nano-thin exfoliated,1
+415,nanowires,1,wireless networking,1
+416,vapor-liquid-solid growth,1,nanoscale,1
+417,nano-sized,1,nano-electro-mechanical resonator,1
+418,thermal,1,junction-less,1
+419,quantum dots,1,dark and bright soliton,1
+420,zirconia,1,continuous spectra,1
+421,calcium zirconate,1,radio frequency magnetron co-sputtering,1
+422,nano-composites,1,cupric oxide/sillica composite,1
+423,rf plasma,1,stars : pulsars : individual : psr b0144+59,1
+424,topography,1,stars : pulsars :,1
+425,mos2,1,quantum dots,1

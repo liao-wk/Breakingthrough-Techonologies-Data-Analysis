@@ -1,0 +1,182 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,gan,23,gan,79
+1,nitrides,4,molecular beam epitaxy,11
+2,molecular beam epitaxy,3,sapphire,10
+3,gallium nitride,3,buffer layer,9
+4,bulk gan,2,nitrides,9
+5,current collapse,2,cubic gan,8
+6,algan/gan,2,algan/gan,7
+7,gallium nitride (gan),2,hemt,7
+8,hemt,2,heterostructure,7
+9,growth,2,dislocation,7
+10,hydride vapor-phase epitaxy,2,growth,6
+11,films,2,films,6
+12,algan/gan heterostructure,2,numerical,6
+13,heterostructure,2,hvpe,6
+14,buffer layer,2,gallium compounds,6
+15,numerical,2,x-ray diffraction,6
+16,cubic gan,2,current collapse,5
+17,dislocation,2,gallium nitride (gan),5
+18,hvpe,2,gallium nitride,5
+19,supercritical ammonia,2,supercritical ammonia,5
+20,sapphire,2,surface acoustic wave,5
+21,gallium compounds,2,saw,5
+22,x-ray diffraction,2,monolithic integration,5
+23,dynamic r-on,1,ain/gan,5
+24,gan high electron mobility,1,ain/algan,5
+25,metal-organic chemical vapor deposition,1,epd,5
+26,thermal treatment,1,tds,5
+27,gan power switching device,1,lpe,5
+28,low on-state resistance,1,single crystal,5
+29,high breakdown,1,high pressure,5
+30,gan: eu2+ nanofibers,1,bulk,5
+31,blue emission,1,high quality,5
+32,electrospinning,1,mombe,5
+33,ammonification,1,tega,5
+34,gan nanostructure,1,polytype,5
+35,selective growth,1,bulk gan,4
+36,gan stripe,1,gan nanostructure,4
+37,gan rod,1,selective growth,4
+38,tem,1,gan stripe,4
+39,heterojunction bipolar transistors,1,gan rod,4
+40,undoped gan (u-gan) capping layer,1,tem,4
+41,p-gan gate algan/gan heterostructure,1,hydride vapor-phase epitaxy,4
+42,gan-on-diamond,1,algan/gan heterostructure,4
+43,epitaxy,1,gan hfets,4
+44,buffer layers,1,vertical,4
+45,dislocations,1,breakdown voltage,4
+46,gan substrate,1,p-gan islands,4
+47,gan surfaces,1,sol-gel processes,4
+48,dislocation reduction,1,thin films,4
+49,stacking-faults,1,optical spectroscopy,4
+50,gan capping layer,1,raman scattering,4
+51,surface donor density,1,surface phonon,4
+52,ga-rich interlayer,1,nanowalls,4
+53,ingan,1,nanocolumns,4
+54,gan quantum wells,1,time-resolved luminescence,4
+55,in situ droplet epitaxy,1,two-photon,4
+56,gan hfets,1,diffusion,4
+57,vertical,1,nanorods,4
+58,breakdown voltage,1,raman-scattering,4
+59,p-gan islands,1,nanowires,4
+60,sol-gel processes,1,scale,4
+61,thin films,1,gratings,4
+62,optical spectroscopy,1,microoptics,4
+63,metal-organic vapor phase epitaxy,1,membranes,4
+64,algan/gan hemt,1,microlenses,4
+65,gan cap layer,1,alumina,4
+66,gan/aln,1,dislocation density,4
+67,x-ray photoemission spectroscopy,1,movpe,4
+68,non polar,1,polarity,4
+69,na flux method,1,decomposition,4
+70,dislocation-free,1,in situ monitoring,4
+71,coalescence growth,1,gm method,4
+72,gan-on-si,1,aln,4
+73,pulsed laser deposition,1,strain,4
+74,ingan/gan,1,nano-column,4
+75,gan-ingan-gan barrier,1,mechanical polishing,4
+76,light-emitting diodes,1,free-standing substrates,4
+77,high power amplifier,1,dcxrd,4
+78,weather radar,1,aln buffer,4
+79,satellite news gathering,1,atomic force,4
+80,nanoporous gan,1,dynamic r-on,3
+81,mechanical properties,1,gan high electron mobility,3
+82,layer separation and transfer,1,gan: eu2+ nanofibers,3
+83,light-emitting diodes (leds),1,blue emission,3
+84,algainn,1,electrospinning,3
+85,quantum barriers,1,ammonification,3
+86,micro structure,1,dislocations,3
+87,selective area growth,1,gan substrate,3
+88,semi-polar,1,gan surfaces,3
+89,semiconductors,1,ga-rich interlayer,3
+90,gallium vacancies,1,ingan,3
+91,emission,1,gan quantum wells,3
+92,hexagonal gan,1,in situ droplet epitaxy,3
+93,thin cubic gan,1,gan/aln,3
+94,thick cubic gan,1,x-ray photoemission spectroscopy,3
+95,algan/gan heterostructure field-effect transistor (hfet),1,non polar,3
+96,multilayer,1,na flux method,3
+97,transmission electron,1,dislocation-free,3
+98,nanobelts,1,coalescence growth,3
+99,field-emission properties,1,ingan/gan,3
+100,nonpolar,1,gan-ingan-gan barrier,3
+101,polish,1,light-emitting diodes,3
+102,lpe-gan substrate,1,high power amplifier,3
+103,raman scattering,1,weather radar,3
+104,surface phonon,1,satellite news gathering,3
+105,nanowalls,1,light-emitting diodes (leds),3
+106,nanocolumns,1,algainn,3
+107,adsorption,1,quantum barriers,3
+108,computer simulation,1,micro structure,3
+109,multi-mgxny/gan buffer,1,selective area growth,3
+110,schottky barrier,1,semi-polar,3
+111,time-resolved luminescence,1,hexagonal gan,3
+112,two-photon,1,thin cubic gan,3
+113,diffusion,1,thick cubic gan,3
+114,one-dimensional,1,multilayer,3
+115,ga2o3,1,transmission electron,3
+116,nanostructures,1,nonpolar,3
+117,nanorods,1,polish,3
+118,raman-scattering,1,lpe-gan substrate,3
+119,nanowires,1,adsorption,3
+120,scale,1,computer simulation,3
+121,pn junction,1,one-dimensional,3
+122,traps,1,ga2o3,3
+123,dlts,1,nanostructures,3
+124,noise measurement,1,pn junction,3
+125,mineralizer,1,traps,3
+126,rietveld method,1,dlts,3
+127,ammonothermal,1,mineralizer,3
+128,nanoparticles,1,rietveld method,3
+129,crystal-growth,1,ammonothermal,3
+130,surface acoustic wave,1,solubility,3
+131,saw,1,ammonothermal crystal growth,3
+132,monolithic integration,1,crystal structure,3
+133,solubility,1,vapor phase epitaxy,3
+134,ammonothermal crystal growth,1,semiconducting iii-v,3
+135,si,1,interfaces,3
+136,gratings,1,metals,3
+137,microoptics,1,semiconducting iii-v materials,3
+138,membranes,1,metal-organic chemical vapor deposition,2
+139,microlenses,1,thermal treatment,2
+140,crystal structure,1,gan power switching device,2
+141,vapor phase epitaxy,1,low on-state resistance,2
+142,semiconducting iii-v,1,high breakdown,2
+143,alumina,1,heterojunction bipolar transistors,2
+144,dislocation density,1,gan-on-diamond,2
+145,movpe,1,epitaxy,2
+146,crystal morphology,1,buffer layers,2
+147,stresses,1,dislocation reduction,2
+148,ain/gan,1,stacking-faults,2
+149,ain/algan,1,gan capping layer,2
+150,epd,1,surface donor density,2
+151,tds,1,algan/gan hemt,2
+152,lpe,1,gan cap layer,2
+153,single crystal,1,nanoporous gan,2
+154,high pressure,1,mechanical properties,2
+155,bulk,1,layer separation and transfer,2
+156,high quality,1,semiconductors,2
+157,transmission electron microscopy,1,gallium vacancies,2
+158,epitaxial lateral,1,emission,2
+159,interfaces,1,multi-mgxny/gan buffer,2
+160,metals,1,schottky barrier,2
+161,semiconducting iii-v materials,1,nanoparticles,2
+162,polarity,1,crystal-growth,2
+163,decomposition,1,si,2
+164,in situ monitoring,1,crystal morphology,2
+165,gm method,1,stresses,2
+166,aln,1,transmission electron microscopy,2
+167,strain,1,epitaxial lateral,2
+168,nano-column,1,wafer fusion,2
+169,mechanical polishing,1,i-v characteristics,2
+170,free-standing substrates,1,fullerenes,2
+171,dcxrd,1,heterojunction,2
+172,aln buffer,1,undoped gan (u-gan) capping layer,1
+173,atomic force,1,p-gan gate algan/gan heterostructure,1
+174,wafer fusion,1,metal-organic vapor phase epitaxy,1
+175,i-v characteristics,1,gan-on-si,1
+176,fullerenes,1,pulsed laser deposition,1
+177,heterojunction,1,algan/gan heterostructure field-effect transistor (hfet),1
+178,mombe,1,nanobelts,1
+179,tega,1,field-emission properties,1
+180,polytype,1,noise measurement,1

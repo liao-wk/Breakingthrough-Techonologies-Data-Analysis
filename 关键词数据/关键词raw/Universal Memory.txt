@@ -1,0 +1,903 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+ID ATYPICAL COMBINATIONS; CUMULATIVE ADVANTAGE; EVOLUTION; STATES
+ER
+
+PT J
+DE Reservoir computing (RC); Universality; Echo state networks (ESN);
+   Machine learning; Fading memory filters; Uniform system approximation
+ID MULTILAYER FEEDFORWARD NETWORKS; FADING-MEMORY; NEURAL-NETWORKS;
+   KOLMOGOROVS SUPERPOSITIONS; NUMERICAL IMPLEMENTATION; APPROXIMATION;
+   SYSTEMS; PROPERTY; CAPABILITIES; COMPUTATION
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE Classical Theories of Gravity; Field Theories in Higher Dimensions;
+   Gauge Symmetry
+ID GRAVITY
+ER
+
+PT J
+ID SYSTEMS
+ER
+
+PT J
+ID THIN-FILMS; CRYSTAL; DIARYLETHENES; DERIVATIVES; SWITCHES
+ER
+
+PT J
+DE universal history; bio-filiative memory; memory of words; recording;
+   debt; cruelty
+ER
+
+PT J
+DE reservoir computing; universality; state-affine systems; SAS; echo state
+   networks; ESN; echo state affine systems; machine learning; fading
+   memory property; linear training; stochastic signal treatment
+ID NEURAL-NETWORK; FADING-MEMORY; KOLMOGOROVS SUPERPOSITIONS; NUMERICAL
+   IMPLEMENTATION; APPROXIMATION; PROPERTY; CONVERGENCE; COMPUTATION;
+   OPERATORS; MODELS
+ER
+
+PT S
+DE DDRII; Controller; IP core; ChipScope pro
+ER
+
+PT J
+DE Intelligence; Information; Prediction; Causality; Memory; Design;
+   Dynamical systems; Thermodynamics; Learning; epistemology
+ER
+
+PT J
+ID HUMAN-RIGHTS; MEMORY; MEDIA; POSTMEMORY; HOLOCAUST
+ER
+
+PT J
+DE phonological representations; phonological short-term memory; second
+   language acquisition; segmentation; vocabulary and word learning
+ID SHORT-TERM-MEMORY; NONWORD-REPETITION; WORKING-MEMORY; PHONOTACTIC
+   PROBABILITY; DEVELOPMENTAL DYSLEXIA; RECEPTIVE VOCABULARY; VERBAL STM;
+   WORDS; CHILDREN; AWARENESS
+ER
+
+PT J
+ID SUPERCONDUCTING CIRCUITS; ERROR-CORRECTION; STATES; SUPERPOSITION; CODES
+ER
+
+PT J
+DE memory effect; metastable phase; trans-1,4-polyisoprene
+ID ISOTHERMAL CRYSTALLIZATION; ISOTACTIC POLYPROPYLENE; SEMICRYSTALLINE
+   POLYMERS; SINGLE-CRYSTALS; SELF-NUCLEATION; COPOLYMERS; MORPHOLOGY;
+   KINETICS; BEHAVIOR; BLENDS
+ER
+
+PT J
+ID ERROR-CORRECTION; CODE; CIRCUITS; THRESHOLD; MEMORY
+ER
+
+PT J
+DE Dependency distance; Language universal; Syntactic patterns
+ID PROCESSING RELATIVE CLAUSES; SENTENCE COMPREHENSION; AGREEMENT
+   PROCESSES; WRITTEN ENGLISH; WORKING-MEMORY; WORD-ORDER; CHINESE; LENGTH;
+   EXPECTATION; COMPLEXITY
+ER
+
+PT J
+DE Database architecture; database recovery; storage class memory;
+   non-volatile main memory; NVRAM
+ID NONVOLATILE MEMORIES
+ER
+
+PT J
+ID SELF-ASSEMBLED MONOLAYERS; SPINTRONICS; SELECTIVITY; MOLECULES; TORQUES
+ER
+
+PT J
+ER
+
+PT J
+DE Programmable matter; Self-organizing particle systems; Object coating
+ER
+
+PT J
+ID COMPOSITE DATA-STRUCTURES; SHAPE-ANALYSIS; PREDICATE ABSTRACTION;
+   SEPARATION LOGIC; MUTABLE DATA
+ER
+
+PT J
+DE Abortable object; Agreement problem; Asynchronous read/write system;
+   Atomic operations; Computability; Concurrent object; Consensus; Crash
+   failure; Disjoint-access parallelism; Help mechanism; LL/SC instruction;
+   Memory location; Non-blocking; Obstruction-freedom; Progress condition;
+   Sequential specification; k-Set agreement; k-Simultaneous consensus;
+   Speculative execution; Universal construction; Wait-freedom
+ID WAIT-FREE SYNCHRONIZATION; SHARED-MEMORY; SYSTEMS; OBJECTS;
+   TRANSMISSION; CONSENSUS
+ER
+
+PT J
+ID VIRUS-INFECTION; HETEROSUBTYPIC IMMUNITY; LETHAL INFLUENZA; A VIRUS;
+   MEMORY; PROTECTION; MECHANISMS; EFFECTOR; PERFORIN; LUNG
+ER
+
+PT J
+DE Explicit MPC; memory reduction; floating point numbers; universal
+   numbers
+ID COMPLEXITY REDUCTION; MPC; SYSTEMS
+ER
+
+PT S
+DE Source Identification; Non-Stationary Data Modeling; Memory-Assisted
+   Universal Compression
+ID CONTEXT TREE ESTIMATION
+ER
+
+PT B
+DE Cache coherence UVM Verification SVA MESI protocol
+ID PROTOCOLS
+ER
+
+PT B
+DE Generic; Universal Verification Methodology; UVM
+ER
+
+PT J
+DE NV centers; quantum memory; quantum gate
+ID NUCLEAR-SPIN QUBITS; ROOM-TEMPERATURE; PHOTON STATES; SINGLE; DYNAMICS
+ER
+
+PT J
+ER
+
+PT B
+DE UVM; Verification; e.MMC; ONFI; one-NAND; SD-Card; UFS; Memory
+   Controller; Flash Memory
+ER
+
+PT B
+DE UVM; Verification; Generic; BFM; Memory Controller; SD-Card; Flash
+   Memory
+ER
+
+PT S
+ER
+
+PT B
+DE embedded memory; IoT; automobile; charge trap; MONOS; split gate; BEOL;
+   resistance change
+ER
+
+PT B
+DE STT-MRAM; failures; MTJ; spin-transfer-torque; process variations; low
+   power memory
+ER
+
+PT S
+ID DESIGN
+ER
+
+PT S
+DE Endurance; Data retention; Programming window; PCM; CBRAM; OxRAM; MRAM;
+   RRAM
+ER
+
+PT J
+DE Brain; discrete Fourier transform (DFT); dynamic computing random access
+   memory (DCRAM); elements with memory; fast Fourier transform (FFT);
+   Fourier transform; memcomputing; memory; memristors; neural computing;
+   nondeterministic polynomial (NP)-complete; subset-sum problem (SSP);
+   Turing machine (TM)
+ID QUANTUM COMPUTER; MEMRISTOR; SYNAPSES
+ER
+
+PT J
+ID TRANSITION-METAL DICHALCOGENIDES; LOW-TEMPERATURE; NANOWIRES; BEHAVIOR;
+   DEVICES; CELLS; NANOSTRUCTURES; SEMICONDUCTORS; NANOPARTICLES;
+   ELECTRONICS
+ER
+
+PT J
+DE SDRAM; Latency; Predictor; Synchronization; Algorithm
+ID CONTROLLER; SYSTEM
+ER
+
+PT J
+ID THIN-FILMS; ELECTRORESISTANCE; HETEROSTRUCTURES; INTERFACE; MEMRISTOR;
+   SRTIO3; GROWTH; SI
+ER
+
+PT J
+DE scientific method; scientific revolution; the Enlightenment;
+   methodological thinking; universal calculus
+ER
+
+PT J
+ID ROOM-TEMPERATURE; TUNNEL-JUNCTIONS; MAGNETORESISTANCE; LOGIC
+ER
+
+PT J
+DE Random number generation; fixed to variable-length; variable to
+   fixed-length; method of types; type classes; Markov sources; finite
+   memory processes; universal generators; optimal algorithms
+ID UNBIASED RANDOM SEQUENCE; MARKOV-CHAINS; EFFICIENT CONSTRUCTION;
+   INDIVIDUAL SEQUENCES; INFORMATION-SOURCES; BIASED COIN; RANDOM BITS;
+   SIMULATION; CODES
+ER
+
+PT S
+DE network coding; linear broadcast; variable-rate; global encoding kernel
+ID MULTICAST
+ER
+
+PT S
+DE phase change memory; thermoelectric effects; crystallization; melting;
+   ion migration
+ER
+
+PT B
+DE Universal Memory Controller; low power Memory Controller; Flash; DRAM;
+   UVM; eMMC; ONFI; One-NAND; UFS; HMC; WideIO; SSD; Verification
+   Environment
+ER
+
+PT S
+DE Turing Machine; Neural Network
+ID NETS
+ER
+
+PT S
+ER
+
+PT J
+ID UNIVERSAL CONDUCTANCE FLUCTUATIONS; ELECTRON GLASS; GRANULAR ALUMINUM;
+   FIELD; CONDUCTIVITY; RELAXATION; METALS; FILMS; MAGNETORESISTANCE;
+   LOCALIZATION
+ER
+
+PT J
+DE generational memory; psychoanalytic case histories; oral history;
+   mother-infant relationship
+ER
+
+PT J
+ER
+
+PT J
+DE closure; exhumations; historicity; memory boom; politics of time;
+   representation; Spain; transitional justice; trauma
+ID MEMORY; SPAIN
+ER
+
+PT J
+DE Shape memory polymer; Constitutive model; Thermoelasticity
+ID BIOMEDICAL APPLICATIONS; ELASTICITY THEORY; TECHNOLOGY; BEHAVIOR;
+   PROGRESS
+ER
+
+PT J
+DE Algebra; digital integrated circuits; multivalued logic
+ID DEVICES; MOS; REALIZATION; DESIGN
+ER
+
+PT B
+DE Big Data; In Memory Database; Key-Value Store; Machine to Machine
+   Communication
+ER
+
+PT B
+DE Memory-Assisted Compression; Networking; Redundancy Elimination;
+   Non-parametric Clustering
+ID TREE WEIGHTING METHOD; UNIVERSAL; INFORMATION
+ER
+
+PT B
+DE In Memory Database; Key-Value Store; Big Data
+ER
+
+PT S
+DE CuO; RRAM; thin films; switching characterizations
+ID RESISTANCE
+ER
+
+PT S
+ER
+
+PT J
+DE Reversible computing; reversible logic element; reversible sequential
+   machine; reversible finite automaton; universality
+ID AUTOMATA
+ER
+
+PT J
+DE Statistical learning; stationary processes; stochastic processes
+ID MARKOV-CHAINS; CONSISTENCY; MDL
+ER
+
+PT J
+ID SPIN-TRANSFER TORQUES; JUNCTIONS; FILMS; SELECTIVITY; DESIGN; IBM; DNA
+ER
+
+PT J
+ID DATA-STORAGE; MECHANISM; BIFEO3; DEVICES
+ER
+
+PT J
+DE SRAM; through-silicon via (TSV); 3D Memory; 3D-IC
+ID 3-D; TECHNOLOGY; PROCESSOR; DESIGN; SRAMS; CACHE; DRAM
+ER
+
+PT J
+ID ELASTOMER ACTUATORS; ELECTRODES; HYPERCOMPUTATION; INSTABILITY; DESIGN;
+   ROBOTS
+ER
+
+PT J
+DE memristors; spintronics; logic gates; memory; non-volatile materials
+ID ORGANIC SEMICONDUCTORS; MEMORY; OXIDE; SWITCHES; FILMS
+ER
+
+PT B
+DE MTJ; STTRAM; modeling; embedded memory; low power
+ER
+
+PT S
+DE Transactional Memory; Contention Management; Shared Memory; Concurrency
+   Control; STM
+ER
+
+PT S
+DE Nonlinear system identification; linear-in-the-parameters nonlinear
+   filters; universal approximators; orthogonality property
+ID ADAPTIVE HAMMERSTEIN FILTER; ACTIVE NOISE-CONTROL; VOLTERRA FILTERS;
+   DIGITAL PREDISTORTION; COMBINATION; SIGNALS; SCHEME; MEMORY; MODEL
+ER
+
+PT S
+DE finite-order multivariate normal universal portfolio; investment wealth;
+   moving-order Dirichlet universal portfolio
+ER
+
+PT S
+ER
+
+PT S
+ID REDUNDANCY
+ER
+
+PT B
+ID UNBIASED RANDOM SEQUENCE; EFFICIENT CONSTRUCTION; INDIVIDUAL SEQUENCES;
+   SIMULATION
+ER
+
+PT B
+ID UNBIASED RANDOM SEQUENCE; EFFICIENT CONSTRUCTION; BIASED COIN
+ER
+
+PT J
+DE Vaccination; Hepatitis B Virus; Italy
+ID VIRAL-HEPATITIS; EPIDEMIOLOGY; BOOSTER; TAIWAN; PROTECTION; MEMORY;
+   SURVEILLANCE; IMMUNIZATION; ANTIBODIES; INFECTION
+ER
+
+PT J
+ID THIN-FILMS; CRYSTAL NUCLEATION; GE2SB2TE5 FILMS; LASER-PULSES;
+   CRYSTALLIZATION; NITROGEN; TRANSITIONS; NONVOLATILE; IONIZATION; ALLOYS
+ER
+
+PT J
+ID MAGNETIC TUNNEL-JUNCTIONS; CURRENT-VOLTAGE CHARACTERISTICS;
+   SPIN-TRANSFER; RESISTANCE; CURRENTS; SRTIO3; RESET; FILMS; RRAM
+ER
+
+PT J
+DE cognitive schemas; culture; memory intrusion; posttraumatic stress
+   disorder; schema adaptation; trauma narratives
+ID TRAUMA; MEMORY; MODEL; EVOLUTION; DIAGNOSIS; SYMPTOMS; DYNAMICS;
+   REFUGEES; ISSUES
+ER
+
+PT J
+DE ferroelectric random access memory; ferroelectrics; multilevel systems;
+   non-volatile memory
+ID MULTIFERROIC BIFEO3; FERROELECTRICS; DEVICES; FILMS
+ER
+
+PT B
+ER
+
+PT S
+ID PHASE-CHANGE MEMORY; TECHNOLOGY; DEVICE; NM
+ER
+
+PT S
+ER
+
+PT B
+ID INFORMATION; REDUNDANCY
+ER
+
+PT B
+DE universal embedded database; structure; communication
+ER
+
+PT S
+DE Memory-Assisted Source Coding; Compression; Network Memory; Information
+   Flow; Redundancy Elimination; Random Power-Law Graph
+ID ARCHITECTURE; INTERNET; DIAMETER; WEB
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+DE emerging memory; non-volatile memory; RRAM; STTRAM
+ER
+
+PT S
+ID FEMTOCELL NETWORKS; CEO PROBLEM; REDUNDANCY; INFORMATION; CAPACITY;
+   CODES
+ER
+
+PT J
+DE Device modeling; metal-insulator transition; nonvolatile memory; oxide
+   electronics; resistive switching memory (RRAM)
+ID RESISTIVE-SWITCHING MEMORIES; RESISTANCE-CHANGE MEMORY; LOW-POWER;
+   TRANSITION; RESET; DEVICES; TIME
+ER
+
+PT J
+DE Evolutionary algorithm; Shared memory programming; Computational
+   experiment; UEGO
+ID GLOBAL OPTIMIZATION; LOCATION; DESIGN
+ER
+
+PT J
+DE Memory modeling; nonvolatile memory; resistive-switching memory (RRAM)
+ID RESISTIVE-SWITCHING MEMORIES; LOW-POWER; MECHANISM; MODEL
+ER
+
+PT J
+ER
+
+PT J
+DE Charge-controlled memristance; flux-controlled memristance; zero-net
+   charge injection; zero-net flux injection
+ID CIRCUIT ELEMENTS; NANODEVICES; MODEL
+ER
+
+PT S
+ID FLASH MEMORY; LOW-POWER; RRAM; RELIABILITY; MECHANISM; BIPOLAR; LAYER
+ER
+
+PT S
+DE Universal memory; STT-RAM; MTJ; memory yield improvement
+ER
+
+PT B
+ID RAM
+ER
+
+PT B
+DE Universal prediction; individual continuous sequences; finite-memory;
+   least-squares
+ER
+
+PT J
+ID SYSTEMS; MOTION; CHAOS; MODEL
+ER
+
+PT J
+DE Distance Law; Emergentism; Filler-gap dependency; Pascal's Law;
+   Universals; Working memory; Voicing
+ID DEPENDENCIES
+ER
+
+PT J
+DE electron traps; hole traps; interface states; random-access storage;
+   tunnelling
+ID FLASH MEMORY
+ER
+
+PT S
+ID NONVOLATILE MEMORY
+ER
+
+PT B
+ID 1ST-PRINCIPLES; SURFACES
+ER
+
+PT S
+ER
+
+PT J
+ID DISSIPATION; SYSTEMS; SPACE
+ER
+
+PT J
+ER
+
+PT J
+DE ferroelectric storage; ferroelectric thin films; piezoelectricity;
+   pyroelectricity; random-access storage; thin film devices
+ID TRANSDUCER
+ER
+
+PT J
+DE Byzantine fault-tolerance; shared memory algorithms; tuple spaces;
+   consensus; universal constructions
+ID DISTRIBUTED SYSTEMS; CONSENSUS; COORDINATION; OBJECTS; LINDA
+ER
+
+PT S
+DE Universal memory; STT-RAM; R-RAM; MTJ device modleing; memory yield
+   improvement
+ER
+
+PT S
+DE Evolutionary algorithm; shared memory programming
+ID LOCATION
+ER
+
+PT S
+ID OBJECTS; ALGORITHMS
+ER
+
+PT S
+ID SHARED-MEMORY
+ER
+
+PT B
+DE shift register; PIPO shift register; universal shift register;
+   reversible logic; garbage output
+ER
+
+PT S
+ID STATES; LATTICE; ANYONS
+ER
+
+PT J
+DE Context-tree weighting; discrete memoryless erasure channel; entropy;
+   erasure entropy; side information; universal lossless compression
+ID TREE WEIGHTING METHOD; LIMITED MEMORY; INFORMATION; ALGORITHM
+ER
+
+PT J
+DE autoethnography; autopsychobiography; psychobiography; mystory
+ER
+
+PT J
+ER
+
+PT J
+DE Markov chains; order estimation; probability; stationary processes;
+   statistics; stochastic processes
+ID DISCRETE-TIME SERIES; MARKOV-CHAINS; CONSISTENCY; PREDICTION
+ER
+
+PT J
+ER
+
+PT J
+ID MULTIWALL CARBON NANOTUBES; MEMORY; NANORELAY; SWITCHES
+ER
+
+PT J
+ID OPTICAL BISTABILITY; RADIATION-PRESSURE
+ER
+
+PT J
+DE DRAM; flash; memory; quantum dots
+ID SPECTROSCOPY; SEMICONDUCTORS; HOLE
+ER
+
+PT J
+DE universal quantum cloning; adiabatic evolution; dark state; trapped ions
+ID CAVITY; ATOMS; GATE
+ER
+
+PT B
+ID MARKOV SOURCES; COMPRESSION; INFORMATION
+ER
+
+PT B
+ER
+
+PT J
+DE scale; scale-invariance; memory; free recall; serial recall; Kolmogorov
+   complexity; similarity; generalization; universal laws; categorization
+ID PSYCHOLOGICALLY SIMPLE MOTIONS; UNKNOWN DISTANCE FUNCTION; RESPONSE
+   GENERALIZATION; SCALE-INVARIANCE; ABSOLUTE IDENTIFICATION;
+   NATURAL-LANGUAGE; PAIRED-ASSOCIATE; GEODESIC PATHS; TERM-MEMORY;
+   INFORMATION
+ER
+
+PT S
+DE universal sign code; mobile phone; portable game; sign presenter
+ER
+
+PT S
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE bi-directional current write parallelizing direction current read;
+   low-power RAM; nonvolatile RAM; spin-transfer torque; TMR; universal
+   memory
+ID MAGNETIC TUNNEL-JUNCTIONS; ROOM-TEMPERATURE; MAGNETORESISTANCE
+ER
+
+PT J
+ER
+
+PT J
+ID QUANTUM-ERROR-CORRECTION; UNIVERSAL
+ER
+
+PT J
+DE 1T1CBJ; CBRAM; program; universal memory
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT S
+ID HIPPOCAMPAL-NEURONS; PREFRONTAL CORTEX; POPULATION CODES; UNIT-ACTIVITY;
+   POTENTIATION; INFORMATION; LOCATION; CELLS; TASK; RAT
+ER
+
+PT B
+DE DSP; FPGA; shared-memory; TVDFT
+ER
+
+PT J
+ER
+
+PT J
+ID STIMULATED RAMAN-SCATTERING; QUANTUM COMMUNICATION
+ER
+
+PT S
+ER
+
+PT J
+DE optical quantum computation; universal quantum computer; optical CNOT
+   gate; quantum memory; quantum shutter; interaction-free measurement;
+   quantum interrogation
+ID LINEAR OPTICS; SINGLE-PHOTON; SUCCESS PROBABILITIES; STATE TRANSFER;
+   CAVITY; MEMORY; LIGHT; DOTS; ELECTRODYNAMICS; INTERFEROMETER
+ER
+
+PT J
+DE block sorting; Burrows-Wheeler transform; context tree weighting method;
+   divergence estimation; information divergence; Markov sources; universal
+   methods
+ID TREE WEIGHTING METHOD; ENTROPY
+ER
+
+PT J
+ID WORKING-MEMORY; NUMBERS
+ER
+
+PT S
+DE VHUSC (volume holographic universal storage cache); disk; volume
+   holographic data storage
+ER
+
+PT B
+ID SHAPE-MEMORY ALLOY
+ER
+
+PT J
+ID HIPPOCAMPAL PLACE CELLS; LONG-TERM POTENTIATION; INFERIOR TEMPORAL
+   CORTEX; CENTRAL-NERVOUS-SYSTEM; SPATIAL MEMORY; NMDA RECEPTOR;
+   PREFRONTAL CORTEX; POPULATION CODES; VISUAL-CORTEX; UNIT-ACTIVITY
+ER
+
+PT J
+ID HIPPOCAMPAL VOLUME; CEREBRAL-CORTEX; BRAIN; MEN; AGE; LANGUAGE; ABILITY;
+   REGIONS; LESIONS; MEMORY
+ER
+
+PT J
+ID ROOM-TEMPERATURE; MAGNETORESISTANCE
+ER
+
+PT J
+DE Greeks; Chinese; universal; cognitive development; intelligence;
+   reasoning; working memory
+ID WORKING-MEMORY; INTERFERENCE; ENGLISH; CAPACITY; THOUGHT
+ER
+
+PT B
+ER
+
+PT B
+ID INDIVIDUAL SEQUENCES; PREDICTION; COMPRESSION
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT S
+ID FAILURE DETECTORS; CONSENSUS
+ER
+
+PT S
+DE bugs; cellular automata; gliders; Game of Life; Larger than Life;
+   register; sliding block memory; spaceships; universal
+ID LIFE
+ER
+
+PT J
+DE universal remote
+ER
+
+PT J
+ID TEMPERATURE SUPERCONDUCTOR; MAGNETIC EXCITATIONS; BI2SR2CACU2O8+DELTA
+ER
+
+PT J
+DE complementary metal oxide semiconductor (CMOS) imager; camera; universal
+   serial bus (USB); synchronous dynamic random access memory (SDRAM)
+ER
+
+PT J
+ER
+
+PT J
+DE context algorithm; finite memory; finite-state machines (FSMs); suffix
+   trees; tree sources; universal coding
+ID STOCHASTIC COMPLEXITY; INDIVIDUAL SEQUENCES; WEIGHTING METHOD;
+   ALGORITHM; PREDICTION; CONSTRUCTION; PERFORMANCE; INFORMATION; MODEL;
+   BWT
+ER
+
+PT J
+DE exponentially decaying memory; finite-state (FS) machines; FS
+   prediction; imaginary sliding window; saturated counter (SC); universal
+   coding; universal prediction
+ID FINITE MEMORY
+ER
+
+PT J
+ER
+
+PT J
+DE access time; MRAM; reference cell; symmetrical sensing; universal
+   memory; 1T1MTJ
+ER
+
+PT J
+DE graph exploration; universal traversal sequences
+ID UNIVERSAL TRAVERSAL SEQUENCES; UNKNOWN ENVIRONMENT; GRAPHS; BOUNDS
+ER
+
+PT B
+DE chalcogeinde based phase change RAM (CRAM); nonvolatile memory (NVM);
+   HSpice macromodel
+ER
+
+PT S
+ID INDIVIDUAL SEQUENCES; PREDICTION; DECISION; SCHEMES
+ER
+
+PT J
+DE phase-field models; memory effects; absorbing sets; universal attractors
+ID NONAUTONOMOUS DYNAMICAL-SYSTEMS; UNIFORM ATTRACTORS; MEMORY; EQUATIONS;
+   MODEL
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT J
+ER
+
+PT J
+DE short-term and sensory memory; neurophysiological model; quantitative
+   dependencies; electroencephalogram; memory equation
+ER
+
+PT J
+ER
+
+PT J
+DE quantum computation
+ID LOGIC GATE; UNIVERSAL
+ER
+
+PT B
+ID PREDICTION
+ER
+
+PT B
+DE 1T1MTJ; MRAM; access time; universal memory; symmetrical sensing;
+   reference cell
+ER
+
+PT B
+ER
+
+PT J
+ER
+
+PT B
+ER
+
+PT J
+DE quantum space complexity; read only memory; reversible computation
+ID GATES
+ER
+
+PT B
+ID NONMONOTONIC NEURONS; CAPACITY
+ER
+
+PT B
+DE associative memory; Universal Learning Networks(ULNs); storage capacity;
+   RasID
+ID NONMONOTONIC NEURONS; CAPACITY
+ER
+
+PT J
+ID III FACTOR SCORES
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE GMR; giant magnetoresistance; HSPICE; memory; model; MRAM spin-value;
+   pseudo-spin-value
+ID SPIN-VALVE STRUCTURES; SWITCHING THRESHOLDS; MRAM CELLS; DEVICES; FIELD;
+   HYSTERESIS; DEPENDENCE; ELEMENTS; MODEL
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ID STABILITY
+ER
+
+PT S
+ID RANDOMIZED CONSENSUS; SHARED-MEMORY; PROCESSOR; SYSTEMS
+ER
+
+PT J
+ER
+
+EF

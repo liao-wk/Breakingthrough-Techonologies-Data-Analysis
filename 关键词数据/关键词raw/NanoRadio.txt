@@ -1,0 +1,957 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE ZnSe; CdS; Nano-heterojunction; Atomic layer deposition; Photodetector;
+   Photovoltaic
+ID NANOWIRES
+ER
+
+PT J
+DE Isotope production; Argon-37; Thermal neutrons; SLOWPOKE-2; Nanoparticle
+ID TECHNOLOGY; OXIDE
+ER
+
+PT B
+DE radio-absorber; MnZn-ferrite; polyaniline
+ID COMPOSITES; PERMEABILITY
+ER
+
+PT S
+DE CubeSat; Nano-satellite; GNSS-R; Radiometry; RFI; AIS
+ER
+
+PT B
+DE nano-structure; magnetron sputtering; insulation pressboard; space
+   charge; breakdown; thermal property
+ER
+
+PT S
+ER
+
+PT B
+DE bidirectional; CMOS integrated circuits; Internet of Things; on-chip
+   antennas; radio transceivers; terahertz (THz)
+ER
+
+PT J
+DE X structure; FEM; Transmitter; Absorber
+ER
+
+PT J
+DE nanoparticles; radio-enhancement; radiation physics; radiotherapy;
+   proton therapy; particle therapy; theranostics
+ID GADOLINIUM-BASED NANOPARTICLES; MONTE-CARLO-SIMULATION; MEGAVOLTAGE
+   RADIATION-THERAPY; IRON-OXIDE NANOPARTICLES; LOCAL DOSE ENHANCEMENT;
+   GOLD-NANOPARTICLES; PROTON THERAPY; IN-VIVO; COMPUTED-TOMOGRAPHY;
+   CONTRAST AGENTS
+ER
+
+PT J
+DE nano-printing; RFID; smart library; ultra-high frequency
+ER
+
+PT J
+DE I-125; Cs-134; Cs-137; Nano-titania; Natural xenon; Neutron activation;
+   Column chromatography
+ID BRACHYTHERAPY SOURCE; MO-99/TC-99M GENERATOR; SORBENT
+ER
+
+PT J
+DE circular polarization; dual-band antenna; nano-satellite; PCB inverted F
+   antenna; UHF antenna
+ER
+
+PT J
+ID SCANNING-TUNNELING-MICROSCOPY; SUBWAVELENGTH OPTICS; CAPACITANCE;
+   POLARITONS; DISPERSION; AG(111); LENGTH; METAL
+ER
+
+PT J
+DE Molecular communication; time-variant channels; mobile nano-machines
+ER
+
+PT J
+DE Radiosensitive; Block copolymer; Ebselen; Nanoparticles; Radioprotection
+ID STEVENS-JOHNSON-SYNDROME; BETA-CYCLODEXTRIN; AMIFOSTINE; RADIATION;
+   THERAPY; CELLS; RADIOTHERAPY; CANCER; AGENT; MICE
+ER
+
+PT B
+DE Radio Frequency Identification; RFID; wireless sensor; nano-drone; UAV;
+   UHF antennas; RFID sensors
+ER
+
+PT B
+DE bidirectional; CMOS integrated circuits; Internet of Things; on-chip
+   antennas; radio transceivers; terahertz (THz)
+ER
+
+PT S
+ER
+
+PT J
+DE Nano communication; terahertz; body area network; channel modeling;
+   cooperative communication
+ID OPTICAL-PROPERTIES; INTERNET; THINGS
+ER
+
+PT J
+DE carbon nano-onion; nanodiamond; annealing; radio frequency plasma
+ID X-RAY-DIFFRACTION; SUPERCAPACITOR ELECTRODES; FULLERENES;
+   TRANSFORMATION; NANOPARTICLES; POLYANILINE; CHEMISTRY; POLYMER; DIAMOND;
+   WATER
+ER
+
+PT J
+ID FIELD-EFFECT TRANSISTOR; DRAIN; MODEL
+ER
+
+PT J
+DE Wireless Nano Sensor Network (WNSN); mobility management; fuzzy logic;
+   handoff control; NS-3
+ID TERAHERTZ BAND; COMMUNICATION; NANONETWORKS; ENERGY
+ER
+
+PT J
+DE radio-absorbing coatings; radio-absorbing materials; shape of
+   radio-absorber surface
+ER
+
+PT J
+ID GOLD NANOPARTICLES; COMPUTED-TOMOGRAPHY; CONTRAST AGENTS; CANCER-CELLS;
+   DELIVERY; NANOSPHERES; STATE; DRUG; RADIOTHERAPY; CLEARANCE
+ER
+
+PT J
+DE Asymmetric data delivery; coronary heart disease; multi-scale
+   communication; nanoscale communication networks; ubiquitous healthcare
+ID DRUG-ELUTING STENTS; TERAHERTZ BAND; CORONARY; COMMUNICATION; NANOSCALE;
+   SURGERY; RELEASE; ANATOMY; HEALTH; MODEL
+ER
+
+PT J
+DE Contact-Angle Hysteresis; Optical Property; Sputtering; Wettability;
+   Zinc Oxide
+ER
+
+PT J
+DE FePt; Thin Films; Nanoindentation; Hardness
+ID NANOARCHITECTONICS; DEFORMATION; GAN; EVOLUTION; BEHAVIOR; MODULUS
+ER
+
+PT B
+DE Log periodic Toothed Circular Nano Antenna; Artificial Bee Colony;
+   Particle swarm Optimization; field Enhancement; Purcell factor
+ID FIELD ENHANCEMENT
+ER
+
+PT B
+DE Body-centric nano-communication; blood; skin; fat; nano-communication;
+   transmit power
+ER
+
+PT S
+DE THz frequency; nanoscale networks; nano-devices
+ER
+
+PT B
+DE spintronics; microwave detectors; ferromagnetic resonance
+ID MAGNETIC TUNNEL-JUNCTIONS
+ER
+
+PT S
+DE flexible 2D nanoelectronics; graphene; CVD MoS2; black phosphorus; THz;
+   RF; circuits
+ID THIN-FILM-TRANSISTOR; HIGH-PERFORMANCE; AMBIPOLAR TRANSISTORS; MOS2
+   TRANSISTORS; TRANSPARENT; DIELECTRICS; RADIO
+ER
+
+PT B
+DE Nano Communication; CEP; Average Bit Error Rate; AWGGN
+ER
+
+PT B
+DE Nano Communication; CEP; Average Bit Error Rate; AWGGN
+ER
+
+PT B
+DE WNSN; Terahertz Band; Energy efficiency; Distributed MAC; Centralized
+   MAC
+ID TERAHERTZ BAND
+ER
+
+PT S
+DE Times Roman; image area; acronyms; references
+ER
+
+PT J
+ID THERMAL PLASMA; FABRICATION; NANOPOWDER; TUNGSTEN; TORCHES
+ER
+
+PT J
+ID SLOT WAVE-GUIDES; HYPERBOLIC METAMATERIALS; PLASMONIC NANOANTENNAS
+ER
+
+PT J
+DE Nano-Metal and Exfoliated Graphite Hybrid; Nano-Thin Exfoliated
+   Graphite; RF-Thermal Plasma
+ID CHEMICAL-VAPOR-DEPOSITION; GRAPHENE; PRECURSOR
+ER
+
+PT J
+DE Thin films; Vapor deposition; X-ray diffraction; Transmission electron
+   microscopy; Crystal structure
+ID CHEMICAL-VAPOR-DEPOSITION; RAMAN-SPECTROSCOPY; LAYER GRAPHENE;
+   CARBON-FILMS; LARGE-AREA; FABRICATION; BATTERIES
+ER
+
+PT J
+DE sensing; nano-antenna; nonlinear optics
+ID YAGI-UDA NANOANTENNA; OPTICAL NANOANTENNAS; ANTENNAS; ENHANCEMENT;
+   GENERATION; METAMATERIALS; METASURFACES; NANOCIRCUITS; SCATTERING;
+   TRACKING
+ER
+
+PT J
+DE Nano-graphene; Radiotherapy; Combined therapy; Radio labeling; Gamma
+   imaging
+ID BIOMEDICAL APPLICATIONS; TUMOR VASCULATURE; ANTICANCER DRUGS;
+   NANO-GRAPHENE; DELIVERY; NANOSHEETS; BIOCOMPATIBILITY; CHEMOTHERAPY;
+   RADIOTHERAPY; CHEMISTRY
+ER
+
+PT J
+DE Nanotechnology; carbon nano-electronics; graphene; graphene
+   nano-ribbons; plasmonics; ballistic electronics; graphene transistor;
+   graphene antenna; graphene attenuator; graphene composites
+ID CARBON NANOTUBES; LAYER GRAPHENE; TRANSISTORS; NANOELECTRONICS;
+   TRANSPARENT; PERFORMANCE
+ER
+
+PT J
+DE Coupled oscillators; gyrotropic mode; microwave; radio frequency (RF);
+   self-sustained magnetic oscillations; spin-transfer nanooscillators
+   (STNOs); spin-transfer torque (STT); vortex
+ID POLARIZED CURRENT; MICROWAVE GENERATION; DRIVEN
+ER
+
+PT J
+DE Hydroxyapatite coating; Magnesium alloy; Magnetron sputtering; Corrosion
+   resistance
+ID CALCIUM-PHOSPHATE COATINGS; IN-VITRO; FILMS; TITANIUM
+ER
+
+PT J
+DE Internet of nano things; Nano-communication; Internet of things; Network
+   architecture
+ID BIO-INSPIRED NETWORKING; MOLECULAR COMMUNICATION; SENSOR NETWORKS; AD
+   HOC; TERAHERTZ BAND; WIRELESS; NANONETWORKS; SECURITY; PROTOCOLS;
+   FRONTIER
+ER
+
+PT J
+DE Micro-robot; Claytronics; Nano-wireless; Map building; Nano-wireless
+   simulation; Vouivre
+ID ENSEMBLES
+ER
+
+PT J
+DE Alexa Fluor dyes; communication channels; FRET; MIMO; nano-communication
+ID ENERGY-TRANSFER; QUANTUM DOTS
+ER
+
+PT J
+DE Body-centric communication; channel modeling; nano-network; path loss;
+   THz
+ID MOLECULAR COMMUNICATION; NANONETWORKS; FREQUENCIES; ANTENNAS; MODEL
+ER
+
+PT J
+DE Wireless networking; nanoscale
+ID NETWORKS
+ER
+
+PT J
+DE Nano-satellites; Swarm; Downlink communication; Diversity; Distributed
+   systems
+ER
+
+PT J
+DE interference suppression; cognitive radio; cellular radio; interference
+   cancellation; interference alignment; cognitive cellular networks;
+   degrees of freedom; DoF; IA; water-filling optimal power allocation
+ID MIMO COGNITIVE NETWORKS; INTERFERENCE ALIGNMENT; FREEDOM
+ER
+
+PT B
+DE Wearable Antennas; Wireless Medical Sensors; Bodycentric Communications;
+   Human tissue phantoms; Conductive inkjet printing; Wireless Sensing;
+   Disposable Radio.
+ER
+
+PT B
+DE micro/nano electroporation; Android; application; Arduino MCU; HeLa
+   cells; Bluetooth
+ID CELLS
+ER
+
+PT B
+DE Nanotechnology; Cluster; Terahertz; Outage probability
+ER
+
+PT B
+DE Nano-satellite; Communication; Subsystem; TNC; transmitter; receiver;
+   antenna; Off-the-shelf; Prototype; Microcontroller
+ER
+
+PT B
+DE nantenna; optical antenna; nanonetwork; equilateral triangular
+   dielectric resonator antenna; near infrared
+ID SINGLE-MOLECULE FLUORESCENCE; ANTENNA
+ER
+
+PT B
+DE nanotechnology; body area network; cluster; terahertz; outage capacity
+ER
+
+PT B
+DE Graphene; single crystalline; radio frequency; RF switch
+ID CHEMICAL-VAPOR-DEPOSITION; INTRINSIC STRENGTH; GRAIN-BOUNDARIES; FILMS
+ER
+
+PT B
+ID COMMUNICATION
+ER
+
+PT S
+DE Graphene; Demodulators; Antenna; AM Radio receiver; Circuit; Transistor
+ID HIGH-PERFORMANCE; TRANSISTORS; ELECTRONICS; DEVICES
+ER
+
+PT S
+ER
+
+PT S
+ID INTESTINAL-ABSORPTION
+ER
+
+PT S
+DE SiCO; Magnetron Sputtering; Scratch Test; Nano-indentation
+ER
+
+PT J
+DE Carbon nanotube; electromechanical vibration; nano-antenna;
+   nano-receiver
+ID RADIO
+ER
+
+PT S
+ID COMBUSTION
+ER
+
+PT J
+DE CSDG MOSFET; channel communication; DP4T switch; MIMO system;
+   nanotechnology; RF switch; signal processing; wireless communication;
+   VLSI
+ID DESIGN; PERFORMANCE; NANOWIRES
+ER
+
+PT J
+ID GOLD NANOPARTICLES; METALLOFULLERENOL GD-AT-C-82(OH)(22); CLUSTER
+   ANIONS; CHEMISTRY; INHIBITION; COMPLEXES; MOLECULES; BIOLOGY; DOMAIN
+ER
+
+PT J
+DE Oxidation; Sintering; Electrical conductivity; Microstructure
+ID COPPER NANOPARTICLES; SILVER-NANOPARTICLES; ELECTRONICS; PARTICLES;
+   OXIDATION; FILMS; SIZE
+ER
+
+PT J
+DE Nanonetworks; terahertz band; pulse-based communication; modulation
+ID INTERFERENCE; GRAPHENE; TRANSMISSION; NETWORKS; RADIO
+ER
+
+PT J
+DE Nano-Composite; Cadmium Sulphide-Polyaniline; Radio Wave
+ER
+
+PT J
+ID SINGLE-ELECTRON TRANSISTOR
+ER
+
+PT B
+ER
+
+PT S
+DE optical fiber sensors; thin films; multi-layer structure; silicon
+   nitride; plasma-enhanced chemical vapor deposition (PECVD); refractive
+   index sensing
+ID DEPOSITION
+ER
+
+PT S
+DE magnetic sensor; TFT; nano-polysilicon; Hall effect; CMOS technolgy
+ER
+
+PT B
+DE silicon photonics; coherent optical-OFDM; graphene photo-detector; radio
+   over fiber; dense wavelength division multiplexing
+ID TRANSMISSION
+ER
+
+PT B
+ID FIELD ENHANCEMENT
+ER
+
+PT S
+DE Wireless Nano-Sensor Networks; Terahertz Band; ranging algorithm;
+   hop-counting; flooding; clustering
+ID MOLECULAR-LEVEL; MACHINES
+ER
+
+PT B
+ER
+
+PT J
+ID NANOTUBES
+ER
+
+PT J
+DE Palladium; Hydrogen gas sensor; MEMS; RF magnetron sputtering;
+   Nano-bumpy structure
+ID HYDROGEN SENSOR; HOLLOW HEMISPHERES; NANOWIRES; TEMPLATE
+ER
+
+PT J
+DE Multi-component TCO film; Flexible organic transparent substrate; RF
+   magnetron sputtering; PI
+ID ZN-SN-O; THIN-FILMS; OPTICAL-PROPERTIES; COSPUTTERING SYSTEM; POWDER
+   TARGETS; CDO; COATINGS; CD2SNO4; PLASMA
+ER
+
+PT J
+DE ZrN/TaN; nano-multilayer; interface; helium retention
+ID IRRADIATION; IMPLANTATION; COMPOSITES; REDUCTION; TOLERANCE; DAMAGE
+ER
+
+PT J
+DE indoor positioning; radio frequency identification; wireless sensor
+   network; received signal strength indicator
+ID WIRELESS SENSOR NETWORKS; TECHNOLOGY
+ER
+
+PT J
+DE nanostructured materials; thin films; plasma deposition/spray;
+   mechanical properties; indentation
+ID AMORPHOUS-CARBON; RAMAN-SPECTROSCOPY; ION ENERGY; NANOINDENTATION;
+   DEPOSITION; HARDNESS
+ER
+
+PT J
+DE ZnO; Hexagonal nano-disks; Rf magnetron sputtering; Surface exciton
+ID THIN-FILMS
+ER
+
+PT J
+DE Radiotherapy; nano-therapy; hyperthermia; gold nano-antenna system
+ID GOLD NANOPARTICLES; RADIOTHERAPY; NETWORK
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT S
+DE current-steering DAC; self-correction; nano-scale technology; digital
+   transmitter
+ID CMOS DAC; IQ-IMBALANCE; PREDISTORTION; COMPENSATION; LINEARIZATION;
+   CALIBRATION
+ER
+
+PT B
+DE Nano-electro-mechanical resonator; junction-less
+   field-effect-transistor; resonance frequency; quality factor
+ER
+
+PT S
+DE Nano/Micro Satellite; Software Defined Radio; FSK; AX.25
+ER
+
+PT B
+DE Graphene; nano-antennas; wireless communication system
+ER
+
+PT S
+DE nano-polysilicon; thin film transistors; CMOS technology; LPCVD
+ID NANOCRYSTALLINE SILICON
+ER
+
+PT S
+ER
+
+PT J
+DE Radio frequency sputtering; Indium tin oxide; Tem; EDX; XPS
+ID LIGHT-EMITTING-DIODES; ITO FILMS; TRANSPARENT
+ER
+
+PT B
+ER
+
+PT S
+DE nanotechnology; nano communications; nano networks; Intrusion Detection
+   System; privacy
+ER
+
+PT B
+DE channel thermal noise; nano-scale MOSFETs; thermal noise
+   characterization; thermal noise modeling; low-noise technology;
+   mixed-signal circuit; RF circuit
+ID DEEP-SUBMICRON MOSFETS; HIGH-FREQUENCY NOISE; PARAMETER MEASUREMENTS;
+   DEVICE NOISE; CIRCUIT PERFORMANCE; CHANNEL NOISE; TRANSISTORS;
+   AMPLIFIERS; TRANSPORT; IMPACT
+ER
+
+PT J
+DE Plasma processing; Deposition; Amplitude modulation; rf discharge
+ID COUPLED RF DISCHARGES; FILMS; TRANSPORT
+ER
+
+PT J
+DE TCO; ITO; IZTO; RF thermal plasma; Indium; Nano powder
+ID ZNO-IN2O3-SNO2 SYSTEM; ITO NANOPARTICLE; THIN-FILMS; TEMPERATURE
+ER
+
+PT J
+DE Nanoresonators; Magnetic nanoparticles; Magnetosomes; Energy transfer;
+   Nanotube radio
+ID NANOPARTICLES; THERAPY
+ER
+
+PT J
+ID TRANSISTOR
+ER
+
+PT J
+DE Nano Scale Pulses; IR-UWB; Block Coding Scheme; Orthogonality; Time
+   Resolution
+ID MULTIPLE-ACCESS; MODULATION
+ER
+
+PT J
+DE Si quantum dot; ZnO; Sputtering; Thin-films
+ER
+
+PT J
+ER
+
+PT B
+DE frequency shift keying; software defined radio; AX.25 protocol; FPGA;
+   nano/micro satellites
+ER
+
+PT S
+ID COOPERATIVE LOCALIZATION
+ER
+
+PT S
+DE Carbon nanotriangles; Carbon nanosheets; Field Emission Scanning
+   Electron Microscopy
+ER
+
+PT J
+ID PERCOLATION-THRESHOLD; ELECTRICAL-PROPERTIES; GATE INSULATOR;
+   TRANSISTORS; ELECTRONICS; DEPENDENCE; MORPHOLOGY
+ER
+
+PT J
+DE Zinc Oxide; Radio-frequency sputtering; Nano-crystals; Growth behaviour;
+   Scanning electron microscopy; X-ray diffraction; Photoluminescence
+ID PHOSPHORUS-DOPED ZNO; NANOWIRES; TEMPERATURE; TRANSPORT; CATALYST;
+   SPUTTER
+ER
+
+PT J
+DE graphene; resonant channel transistor; nano-eletromechanical system
+ID MONOLAYER GRAPHENE; SHEETS
+ER
+
+PT S
+DE AIS; GNU radio; SDR; Communication; Intelligent transport; Marine
+   traffic monitoring
+ER
+
+PT J
+DE 3D positioning; nano-scale pulse; UWB; orthogonality; impulse radio
+ER
+
+PT J
+DE Glass; Powder; Spherical; Nano; RF thermal plasma; Calcination
+ER
+
+PT J
+DE Ad-hoc networks; security privacy and authentication; network
+   architectures and protocols
+ID SENSOR NETWORKS
+ER
+
+PT J
+DE plasma assistant; electron beam evaporation; nanophotonic film
+ID SILICON; PHOTOLUMINESCENCE; XPS
+ER
+
+PT J
+ER
+
+PT J
+DE Material science; Tantalum nitride; Thin films; Chemical vapor
+   deposition; Carbon nanotube; Diffusion barrier
+ID REACTIVE SPUTTER-DEPOSITION; THIN-FILMS; MECHANICAL-PROPERTIES; TA2O5
+ER
+
+PT J
+DE Swarm; Nano-satellite; Radio astronomy; OLFAR
+ER
+
+PT J
+ER
+
+PT S
+DE RF magnetron sputtering; PET woven; Sliver thin film; AFM; conductivity
+ER
+
+PT S
+ID SILICON-WAFERS; SURFACE ACTIVATION; FILMS
+ER
+
+PT B
+ER
+
+PT S
+DE Dark and Bright Soliton; continuous spectra
+ID RESONATOR
+ER
+
+PT J
+DE Atom localization; Radio-frequency driven field; Four-level atomic
+   system
+ID AUTLER-TOWNES MICROSCOPY; POSITION MEASUREMENT; OPTICAL-FIELDS; DARK
+   RESONANCES; PHASE-CONTROL; SINGLE-ATOM; INTERFERENCE; RESOLUTION; WAVE
+ER
+
+PT J
+ID OXIDE-METAL DIODES; ON-CHIP ANTENNAS; CARBON NANOTUBES; WIRELESS
+   COMMUNICATION; POLARIZATION RESPONSE; RADIO-WAVES; GRAPHENE; SILICON;
+   SYSTEMS; CIRCUIT
+ER
+
+PT J
+ID CARBON NANOTUBES; RADIO
+ER
+
+PT J
+DE nano-scanner; atomic force microscope; flexure-guide; piezoelectric
+   actuator; nano-sensor
+ID SPEED; DESIGN
+ER
+
+PT J
+DE Nano-electro-mechanical; Carbon nano-tubes; MWCNT; Switch; NEMS; van der
+   Waals; Radio frequency (RF)
+ER
+
+PT J
+DE ZnO; Heteroepitaxy; Strain; Surface morphology; rf magnetron sputtering
+ID ZNO; DEPOSITION; TRANSITION; SUBSTRATE; DEVICES
+ER
+
+PT J
+DE ZnO; Nano-pyramids; SiN/Si substrate; RF magnetron sputtering
+ID DEVICES; NANOSTRUCTURES; SILICON
+ER
+
+PT J
+ID FILMS
+ER
+
+PT J
+DE ZnO; Nanostructure; XRD; AFM; rf magnetron sputtering
+ID FIELD-EFFECT TRANSISTORS; THIN-FILMS; FABRICATION; TRANSPORT
+ER
+
+PT J
+ER
+
+PT J
+ID CHEMOPREVENTIVE AGENT CURCUMIN; I CLINICAL-TRIAL; PHASE-I;
+   INTRAPERITONEAL RADIOIMMUNOTHERAPY; MEDIATED APOPTOSIS; DRUG-DELIVERY;
+   BREAST-CANCER; CISPLATIN; RESISTANCE; PATHWAY
+ER
+
+PT J
+DE Au nano-crystallites; HREM; RF sputtering deposition
+ID CARBON-FILM ELECTRODE; GOLD; NANOPARTICLES; NANOCRYSTALLITES;
+   TEMPERATURE; PARTICLES
+ER
+
+PT B
+DE Nanotechnology; nanoelectronics; radio-frequency; carbon nanotubes;
+   graphene
+ID CARBON NANOTUBES; GRAPHENE FILMS; LARGE-AREA; TRANSISTORS; FREQUENCY;
+   ANTENNAS
+ER
+
+PT S
+ER
+
+PT S
+DE Structure Health Monitoring; Wireless Sensor Networks; Safer; smarter;
+   green aircrafts; 60GHz communication; ultra low power 65nm CMOS
+   circuits; Flexible substrate integration
+ER
+
+PT S
+DE 3D Heterogeneous Integration; Nano-Sensors; Flexible Substrate; Flex
+   Assembly; Wireless sensor networks
+ER
+
+PT J
+ID THIN-FILMS; PARTICLES; PHOTOLUMINESCENCE; MICROSTRUCTURE; LUMINESCENCE;
+   INSTABILITY; TRANSITION; TITANATE; VELOCITY; NITRIDE
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT J
+DE Nano-powders; Sampling probe; Induction plasma
+ID INDUCTIVELY-COUPLED PLASMA; RADIO-FREQUENCY PLASMA; IN-SITU MEASUREMENT;
+   MASS-SPECTROMETRY; NANOPARTICLES; SIZE; DEPOSITION; MORPHOLOGY; FLAME
+ER
+
+PT J
+ID HYDROPHILIC PROPERTIES
+ER
+
+PT J
+ER
+
+PT J
+DE radio frequency magnetron co-sputtering; cupric oxide/sillica composite
+   thin films; microstructure; photoluminescent properties
+ER
+
+PT J
+ER
+
+PT J
+DE Plasma nitriding; Nitrides; Layered structure; Nano-hardness;
+   Diffraction
+ID H13 TOOL STEEL; CORROSION BEHAVIOR; CURRENT-DENSITY; DC PLASMA; ION;
+   INDENTATION; NITROGEN; HARDNESS; OXYGEN
+ER
+
+PT S
+ID SKY; GHZ; INTERFEROMETRY
+ER
+
+PT S
+DE Nanotechnology; RFID (Radio Frequency Identification); Multi-Scale
+   Modeling; HPC (High Performance Computing)
+ID TRANSPONDER
+ER
+
+PT S
+ER
+
+PT J
+DE Bismuth; Nanostructure; Vapor-solid process; Spiral growth
+ID NANOWIRE ARRAYS; NANOTUBE ARRAYS; TRANSPORT; ROUTE
+ER
+
+PT J
+ER
+
+PT J
+DE Carbon nanotube; interconnects; nanoelectronics; nanofabrication
+ID TRANSISTORS; RESISTANCE; BREAKDOWN
+ER
+
+PT J
+DE carbon nanofiber; chemical vapor deposition (CVD); microsystem;
+   nanocluster; plasma
+ID GROWTH; NANOTUBES
+ER
+
+PT J
+ID METAMATERIALS; ANTENNAS
+ER
+
+PT J
+DE nano particle; SiC; nonvolatile memory; nano-floating gate memory
+ID NANOCRYSTAL MEMORIES
+ER
+
+PT J
+DE stars : pulsars : individual : PSR B0144+59; stars : pulsars :
+   individual : PSR B0823+26; stars : pulsars : individual : PSR B2022+50;
+   radiation mechanisms : non-thermal; radio continuum : stars
+ID MULTICOMPONENT GAUSSIAN FITS; RADIO-EMISSION; CRAB PULSAR;
+   MM-WAVELENGTHS; CIRCULAR-POLARIZATION; GEOMETRICAL ANALYSIS; SOUTHERN
+   PULSARS; 3.1 GHZ; SPECTRA; PROFILES
+ER
+
+PT J
+ER
+
+PT B
+DE polymer solar cell; nanostructures; zinc oxide
+ID HYBRID PHOTOVOLTAIC DEVICES; CHARGE SEPARATION; PHOTOCONDUCTIVITY;
+   COMPOSITES
+ER
+
+PT S
+ID NETWORKS
+ER
+
+PT B
+ER
+
+PT B
+ID PLACE LAB
+ER
+
+PT J
+ID SINGLE CARBON NANOTUBE; FIELD-EMISSION
+ER
+
+PT J
+DE tin oxides; thin film; nano-particle
+ID LITHIUM-ION BATTERIES; SNO2; ELECTRODES; OXIDATION; TRANSISTORS;
+   COMPOSITE; NANOBELTS; SURFACE; OXYGEN; XPS
+ER
+
+PT J
+DE RFID; privacy; nano-tecbnology; surveillance; panopticon
+ER
+
+PT J
+DE carbon nanotube; CVD; selective growth
+ID ALIGNED CARBON NANOTUBES; FIELD-EMISSION; EMITTERS; DISPLAY; NI
+ER
+
+PT B
+ER
+
+PT J
+DE blends; block copolymers; nanotechnology; self-assembly
+ER
+
+PT J
+DE radio frequency plasma; PAN precursors; preoxidation fibers;
+   microstructures; characterization
+ID CARBON-FIBERS; OXIDATIVE STABILIZATION; CONVERSION; PRECURSORS
+ER
+
+PT J
+ID POROUS ALUMINA MEMBRANES; THIN-FILMS; OPTICAL-PROPERTIES; FABRICATION;
+   NANOWIRES; NANORODS; NANOBELTS; GROWTH; SHAPE
+ER
+
+PT J
+DE nano-size ZnO; magnetron sputtering; absorption; photoluminescence
+ID MICROCRYSTALLITE THIN-FILMS; STIMULATED-EMISSION; ROOM-TEMPERATURE;
+   2ND-HARMONIC GENERATION
+ER
+
+PT S
+ER
+
+PT J
+ID WIRELESS
+ER
+
+PT J
+ER
+
+PT J
+DE nano-structured onion-like fullerenes; radio frequency plasma; coal;
+   HRTEM
+ID CARBON NANOTUBES; NANOPARTICLES; IRRADIATION; HYDROCARBON; C-60
+ER
+
+PT J
+DE diamond; vapor grown carbon; plasma reactions; transmission electron
+   microscopy; infrared spectroscopy
+ID INTERSTELLAR DIAMONDS; GRAINS; CARBIDE; DUST; METEORITES; ENVELOPES;
+   GROWTH; STARS; FILM
+ER
+
+PT J
+DE plasma CVD; nanostructures; graphite; morphology
+ID FIELD-EMISSION; HYDROGEN; NANOTUBES; STORAGE
+ER
+
+PT B
+ID ARRIVAL
+ER
+
+PT J
+DE nanowires; ZnO; vapor-liquid-solid growth; X-ray diffraction;
+   transmission electron microscopy; photoluminescence
+ID VAPOR-DEPOSITION; GROWTH; ARRAYS; PHOTOLUMINESCENCE; NANOTUBES
+ER
+
+PT J
+DE nano-sized; hydroxyapatite; powder; radio frequency; plasma; thermal
+   decomposition
+ID COATINGS; ALUMINA
+ER
+
+PT B
+ID SYSTEMS
+ER
+
+PT S
+ER
+
+PT S
+ID RADIO-EMISSION; RADIATION; PLASMA; MODEL
+ER
+
+PT J
+DE quantum dots; photoluminescence
+ID POROUS SILICON; OPTICAL-PROPERTIES; PHOTOLUMINESCENCE;
+   ELECTROLUMINESCENCE; DEPENDENCE; SPECTRA; FILMS; BAND
+ER
+
+PT J
+DE hydroxyapatite; zirconia; calcium zirconate; nano-composites; RF plasma
+   spraying
+ID APATITE
+ER
+
+PT S
+ER
+
+PT S
+ID SHUNT SWITCHES
+ER
+
+PT J
+ID NANOMECHANICAL RESONATORS; AMPLIFICATION; WIRES
+ER
+
+PT J
+DE AFM; topography; plasma; MoS2
+ID ORIENTED PYROLYTIC-GRAPHITE; ATOMIC-FORCE MICROSCOPY; SCANNING TUNNELING
+   MICROSCOPY; RADIOFREQUENCY PLASMAS; THIN-FILMS; RF; DISCHARGE;
+   MOLYBDENUM; MICA
+ER
+
+EF

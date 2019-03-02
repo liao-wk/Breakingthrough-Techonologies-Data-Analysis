@@ -1,0 +1,343 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,car-to-car communication,16,car-to-car communication,51
+1,vanet,13,vanet,48
+2,car-to-car,9,car-to-car,33
+3,car-to-car communications,6,wave,24
+4,wave,5,mimo,23
+5,mimo,5,antenna,20
+6,car-to-car (c2c),4,measurement,17
+7,antenna,4,car-to-car communications,16
+8,ad-hoc networks,4,802.11p,15
+9,vanets,4,vanets,15
+10,802.11p,3,routing,14
+11,routing,3,ad-hoc networks,14
+12,vehicular networks,3,c2c,13
+13,measurement,3,wave propagation,12
+14,wave propagation,3,wifi,12
+15,c2c,3,radar cross section,12
+16,automotive,3,road safety,11
+17,security,3,5g,11
+18,radar cross section,3,propagation,10
+19,vehicular communication,3,sdr,10
+20,road safety,2,smart cars,10
+21,c-its,2,ray-tracing,9
+22,over-the-air,2,car-to-car (c2c),8
+23,channel emulation,2,over-the-air,8
+24,c2c communications,2,channel emulation,8
+25,adas,2,adas,8
+26,channel capacity,2,simulation,8
+27,propagation,2,v2x,8
+28,sdr,2,ad hoc network,8
+29,wifi,2,security,8
+30,5g,2,vehicular communication,8
+31,smart cars,2,vehicles,8
+32,simulation,2,ray tracing,8
+33,intelligent transportation systems,2,time variant,8
+34,vehicular communications,2,ray,8
+35,network,2,car2x,7
+36,v2x,2,sdn,7
+37,vehicular network,2,nfv,7
+38,ad hoc network,2,internet factory,7
+39,ofdm,2,cyber security,7
+40,emergency,2,emergency,7
+41,ipv6,2,automotive,7
+42,component,2,vehicular networks,6
+43,cooperation,2,c-its,6
+44,incentives,2,aodv,6
+45,radar,2,congestion control,6
+46,ray-tracing,2,early detection,6
+47,gps,2,move,6
+48,vehicles,2,ns2,6
+49,dynamic,2,sumo,6
+50,its,2,channel capacity,6
+51,vehicular ad-hoc networks,2,alamouti,6
+52,wlan,2,usrp,6
+53,vehicular ad hoc networks,2,network,6
+54,ray tracing,2,vehicular network,6
+55,time variant,2,ofdm,6
+56,ray,2,communications,6
+57,broadband antenna,1,ipv6,6
+58,long term evolution,1,component,6
+59,low profile,1,cooperation,6
+60,dual-band antenna,1,incentives,6
+61,monopolar patch antenna,1,radar,6
+62,wireless local,1,ieee 802.11p,6
+63,vlc,1,raptor code,6
+64,vehicle-to-vehicle communication,1,fountain code,6
+65,modulation,1,stbc,6
+66,vlc applications,1,gps,6
+67,lte-v2i communications,1,dynamic,6
+68,automotive safety services,1,vehicular ad hoc networks,6
+69,coupled map,1,c2c communications,5
+70,traffic jam,1,array,5
+71,intelligent,1,ecall,5
+72,digital forensic,1,erds,5
+73,connected car,1,rescue data,5
+74,in-vehicle communication,1,its-g5,5
+75,location-based services,1,calm,5
+76,location privacy,1,wimax,5
+77,location tracking protection,1,vsg,5
+78,angle of arrival (aoa),1,rtsa,5
+79,angle of departure (aod),1,capacity,5
+80,electric vehicles,1,roads,5
+81,backpressure routing,1,gold,5
+82,fault detection,1,driver circuits,5
+83,variant management,1,computer architecture,5
+84,reuse,1,unified,5
+85,life cycle,1,its,5
+86,intelligent transportation,1,wlan,5
+87,smart city,1,on-board sensors,4
+88,automotive antenna,1,camera,4
+89,car-to-car cluster,1,sensor fusion,4
+90,angle-of-arrival (aoa),1,c2c-vlc,4
+91,angle-of-departure (aod),1,reflectors,4
+92,omnidirectional radiation pattern,1,bit error rate,4
+93,shorting pins,1,wireless communication,4
+94,authentication protocol,1,game theory,4
+95,digital signature,1,commercial ads,4
+96,comosef,1,message survival hops,4
+97,car to car communication,1,cost,4
+98,controller area network,1,benefits,4
+99,vehicular social network (vsn),1,v2v,4
+100,advertisement dissemination,1,intelligent transportation systems,4
+101,incentive,1,vehicular communications,4
+102,array,1,c2x,4
+103,car-to-x communication,1,cooperative driving,4
+104,dielectric slab waveguide,1,codas,4
+105,glass roof,1,in-network,4
+106,guided,1,air interface,4
+107,intelligent transport system (its),1,fbmc,4
+108,illumination,1,ufmc,4
+109,light-emitting diode,1,vehicle2x-communication,4
+110,on-board sensors,1,signal,4
+111,camera,1,broadcasting,4
+112,sensor fusion,1,manet,4
+113,c2c-vlc,1,car to-car communication,4
+114,reflectors,1,geounicast,4
+115,bit error rate,1,cross layer,4
+116,wireless communication,1,location service,4
+117,aodv,1,geo-forwarding,4
+118,congestion control,1,ieee802.11p/wave,4
+119,early detection,1,subsystem design,4
+120,move,1,vre esafety,4
+121,ns2,1,localization,4
+122,sumo,1,real,4
+123,spiral shaped led,1,scattering,4
+124,strip shaped led,1,mobile communications,4
+125,upsook,1,optical wireless,4
+126,car to car communications,1,light,4
+127,multiple-input-multiple-output,1,vehicular ad-hoc networks,4
+128,geocast routing,1,wireless,4
+129,collision warning,1,siso,4
+130,driver behavior dissemination,1,simo,4
+131,driver fatigue,1,multicast,4
+132,jamming,1,geographic addressing and routing,4
+133,wireless communications,1,c2c-cc,4
+134,alamouti,1,protocols,4
+135,usrp,1,services,4
+136,antenna placement,1,road vehicles,4
+137,numerical methods,1,vehicular ad-hoc,4
+138,car2x,1,led headlamp,4
+139,sdn,1,forward lighting,4
+140,nfv,1,high brightness,4
+141,internet factory,1,optical concept,4
+142,cyber security,1,afs,4
+143,game theory,1,low profile,3
+144,commercial ads,1,dual-band antenna,3
+145,message survival hops,1,monopolar patch antenna,3
+146,cost,1,wireless local,3
+147,benefits,1,vlc,3
+148,multi-hop broadcast,1,vehicle-to-vehicle communication,3
+149,data dissemination,1,modulation,3
+150,v2v,1,vlc applications,3
+151,bandwidth,1,coupled map,3
+152,road side unit (rsu),1,traffic jam,3
+153,base station unit (bsu),1,intelligent,3
+154,visible light communication,1,digital forensic,3
+155,road reflection,1,connected car,3
+156,c2x,1,in-vehicle communication,3
+157,cooperative driving,1,electric vehicles,3
+158,codas,1,backpressure routing,3
+159,in-network,1,fault detection,3
+160,car-2-car communication,1,automotive antenna,3
+161,car-2-x communication,1,car-to-car cluster,3
+162,emulation,1,authentication protocol,3
+163,air interface,1,digital signature,3
+164,fbmc,1,comosef,3
+165,ufmc,1,car to car communication,3
+166,vehicle2x-communication,1,controller area network,3
+167,signal,1,car-to-x communication,3
+168,adaptive traffic signal control,1,dielectric slab waveguide,3
+169,clustering,1,glass roof,3
+170,broadcasting,1,guided,3
+171,manet,1,spiral shaped led,3
+172,car to-car communication,1,strip shaped led,3
+173,ecall,1,upsook,3
+174,erds,1,car to car communications,3
+175,rescue data,1,antenna placement,3
+176,its-g5,1,numerical methods,3
+177,communications,1,bandwidth,3
+178,c2c antennas,1,road side unit (rsu),3
+179,measurements,1,base station unit (bsu),3
+180,c2c communication,1,commercial ad dissemination,3
+181,geo-based routing,1,automotive safety,3
+182,geounicast,1,cooperative awareness,3
+183,cross layer,1,beaconing,3
+184,location service,1,hybrid vehicular,3
+185,geo-forwarding,1,radio frequecy,3
+186,dynamic route planning,1,rfid,3
+187,ieee802.11p/wave,1,microcontroller,3
+188,subsystem design,1,remote identification,3
+189,vre esafety,1,energy manager,3
+190,localization,1,fev range anxiety,3
+191,real,1,all electric range,3
+192,intelligent transportation system,1,vanet simulation,3
+193,commercial ad dissemination,1,visualization,3
+194,car2car communication consortium (c2c-cc),1,geoencryption,3
+195,geonet,1,location based encryption,3
+196,georouting,1,intelligent vehicular,3
+197,cooperative relaying,1,traffic management,3
+198,time diversity,1,driver assistance,3
+199,automotive safety,1,safety message,3
+200,cooperative awareness,1,reliable broadcasting,3
+201,beaconing,1,pervasive adaptation,3
+202,hybrid vehicular,1,socio-technical systems,3
+203,scattering,1,car crowds,3
+204,mobile communications,1,privacy,3
+205,radio frequecy,1,trust,3
+206,rfid,1,car-to-car messages,3
+207,microcontroller,1,vehicle positioning,3
+208,remote identification,1,kalman filter,3
+209,packet connectivity probability,1,network coding,3
+210,mathematical model,1,data mule,3
+211,packet delay,1,analysis,3
+212,optical wireless,1,inter-vehicle communication,3
+213,light,1,zigbee,3
+214,distributed wirelese network emulator,1,mobile computing,3
+215,high-speed mobility,1,mobile applications,3
+216,clock,1,ubiquitous computing,3
+217,energy manager,1,distributed,3
+218,fev range anxiety,1,c2i/c2c,3
+219,all electric range,1,safety application,3
+220,presentation scheduling,1,hybrid ad-hoc,3
+221,conflict resolution,1,traffic service,3
+222,wireless sensor networks,1,road weather,3
+223,accident prevention,1,state-sharing,3
+224,ieee 802.11p,1,dependability,3
+225,raptor code,1,inter vehicle communication,3
+226,fountain code,1,multimedia in vehicles,3
+227,stbc,1,time variant scenarios,3
+228,vehicular networks applications,1,dielectric lens antenna,3
+229,vanet simulation,1,shaped lens,3
+230,visualization,1,bifocal lens,3
+231,calm,1,wide angle beam,3
+232,wimax,1,ad hoc networks,3
+233,vsg,1,link expiration time,3
+234,rtsa,1,statistical derivation,3
+235,sequential quadratic programming,1,2-hop,3
+236,design automation,1,broadband antenna,2
+237,multi-objective,1,long term evolution,2
+238,capacity,1,lte-v2i communications,2
+239,geoencryption,1,automotive safety services,2
+240,location based encryption,1,location-based services,2
+241,intelligent vehicular,1,location privacy,2
+242,autonomous multi-vehicle collaboration,1,location tracking protection,2
+243,people and vehicle recognition,1,angle of arrival (aoa),2
+244,roads,1,angle of departure (aod),2
+245,gold,1,variant management,2
+246,driver circuits,1,reuse,2
+247,computer architecture,1,life cycle,2
+248,unified,1,intelligent transportation,2
+249,ieee802.21,1,smart city,2
+250,heterogeneous network handover,1,angle-of-arrival (aoa),2
+251,traffic management,1,angle-of-departure (aod),2
+252,driver assistance,1,omnidirectional radiation pattern,2
+253,adaptive system,1,shorting pins,2
+254,genetic algorithm,1,vehicular social network (vsn),2
+255,traffic information system,1,advertisement dissemination,2
+256,wireless communication system,1,incentive,2
+257,traffic control,1,intelligent transport system (its),2
+258,ieee802.11,1,illumination,2
+259,safety message,1,light-emitting diode,2
+260,reliable broadcasting,1,multiple-input-multiple-output,2
+261,car-to-ear communications,1,geocast routing,2
+262,ieee802.11n,1,collision warning,2
+263,performance evaluation,1,driver behavior dissemination,2
+264,periodic,1,driver fatigue,2
+265,cooperative vehicle infrastructure environment,1,jamming,2
+266,intellidrive,1,wireless communications,2
+267,vehicle-to-vehicle network,1,multi-hop broadcast,2
+268,car-to-car network,1,data dissemination,2
+269,location management,1,visible light communication,2
+270,wireless,1,road reflection,2
+271,siso,1,car-2-car communication,2
+272,simo,1,car-2-x communication,2
+273,multicast,1,emulation,2
+274,geographic addressing and routing,1,adaptive traffic signal control,2
+275,c2c-cc,1,clustering,2
+276,pervasive adaptation,1,c2c antennas,2
+277,socio-technical systems,1,measurements,2
+278,car crowds,1,c2c communication,2
+279,privacy,1,geo-based routing,2
+280,trust,1,dynamic route planning,2
+281,car-to-car messages,1,intelligent transportation system,2
+282,peer-to-peer networks,1,car2car communication consortium (c2c-cc),2
+283,overlay networks,1,geonet,2
+284,traffic information systems,1,georouting,2
+285,agent-based deployed applications,1,cooperative relaying,2
+286,intelligent agents,1,time diversity,2
+287,peer-to-peer,1,packet connectivity probability,2
+288,vehicle positioning,1,mathematical model,2
+289,kalman filter,1,packet delay,2
+290,network coding,1,distributed wirelese network emulator,2
+291,data mule,1,high-speed mobility,2
+292,analysis,1,clock,2
+293,short-range wireless technology,1,presentation scheduling,2
+294,car-to-car and car-to-infrastructure,1,conflict resolution,2
+295,inter-vehicle communication,1,wireless sensor networks,2
+296,zigbee,1,accident prevention,2
+297,info-security,1,vehicular networks applications,2
+298,car communications,1,sequential quadratic programming,2
+299,large-scale simulation,1,design automation,2
+300,traffic telematics,1,multi-objective,2
+301,wireless networks,1,ieee802.21,2
+302,802.16e,1,heterogeneous network handover,2
+303,mobile wimax,1,adaptive system,2
+304,mobile computing,1,genetic algorithm,2
+305,mobile applications,1,traffic information system,2
+306,ubiquitous computing,1,wireless communication system,2
+307,distributed,1,traffic control,2
+308,protocols,1,ieee802.11,2
+309,services,1,car-to-ear communications,2
+310,road vehicles,1,ieee802.11n,2
+311,vehicular ad-hoc,1,performance evaluation,2
+312,inter-vehicular communication,1,periodic,2
+313,car-to-car safety,1,vehicle-to-vehicle network,2
+314,c2i/c2c,1,car-to-car network,2
+315,safety application,1,location management,2
+316,hybrid ad-hoc,1,peer-to-peer networks,2
+317,traffic service,1,overlay networks,2
+318,road weather,1,traffic information systems,2
+319,state-sharing,1,agent-based deployed applications,2
+320,dependability,1,intelligent agents,2
+321,inter vehicle communication,1,peer-to-peer,2
+322,multimedia in vehicles,1,info-security,2
+323,time variant scenarios,1,car communications,2
+324,dielectric lens antenna,1,large-scale simulation,2
+325,shaped lens,1,traffic telematics,2
+326,bifocal lens,1,wireless networks,2
+327,wide angle beam,1,802.16e,2
+328,car-to-car networks,1,mobile wimax,2
+329,inter-vehicle communications,1,inter-vehicular communication,2
+330,led headlamp,1,car-to-car safety,2
+331,forward lighting,1,car-to-car networks,2
+332,high brightness,1,inter-vehicle communications,2
+333,optical concept,1,fault-tolerant real-time systems,2
+334,afs,1,distributed algorithms,2
+335,fault-tolerant real-time systems,1,mobile,2
+336,distributed algorithms,1,autonomous multi-vehicle collaboration,1
+337,mobile,1,people and vehicle recognition,1
+338,ad hoc networks,1,cooperative vehicle infrastructure environment,1
+339,link expiration time,1,intellidrive,1
+340,statistical derivation,1,short-range wireless technology,1
+341,2-hop,1,car-to-car and car-to-infrastructure,1

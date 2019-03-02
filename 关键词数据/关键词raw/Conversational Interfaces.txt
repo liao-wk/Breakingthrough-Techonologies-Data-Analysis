@@ -1,0 +1,2130 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE human-robot interaction; natural language processing; spoken dialogue
+   systems; conversational agents; socially assistive robotics
+ID SPEECH RECOGNITION; LANGUAGE; INFORMATION; COMMUNICATION; INTERFACE;
+   MACHINE
+ER
+
+PT J
+DE conversational assistant; conversational interface; dialogue system;
+   medical error; patient safety
+ID RANDOMIZED CONTROLLED-TRIAL; HEALTH DIALOG; MENTAL-HEALTH; COMPUTER;
+   EXERCISE; TAXONOMY; TALKING; AGENTS
+ER
+
+PT J
+DE artificial intelligence [Mesh]; medical informatics [Mesh];
+   conversational agent; dialogue system
+ID SPOKEN DIALOGUE; UNINTENDED CONSEQUENCES; VIRTUAL HUMAN; MACHINE;
+   INTERVENTIONS; COMMUNICATION; RECOGNITION; TECHNOLOGY; INTERFACE;
+   LANGUAGE
+ER
+
+PT J
+ER
+
+PT J
+ID BENEFITS
+ER
+
+PT J
+ID RECOMMENDER SYSTEMS; OUR-LIVES; TRENDS
+ER
+
+PT J
+DE Air quality; Airways; Eyes; Humidity; Influenza virus; Sensory
+   irritation; Sleep quality
+ID LOW RELATIVE-HUMIDITY; HEATED BREATHING TUBE; TEAR FILM STABILITY; DRY
+   EYE DISEASE; CONTROLLED-ENVIRONMENT CHAMBER; AIRBORNE SENSORY IRRITANTS;
+   OFFICE WORKERS; OCULAR SURFACE; OF-LIFE; INTERCONTINENTAL FLIGHTS
+ER
+
+PT J
+ID VAGUS NERVE-STIMULATION; CONSENSUS APPROACH; EPILEPSY; CHILDREN;
+   CLOBAZAM; TOLERABILITY; EXPERIENCE; RUFINAMIDE; DIAGNOSIS; EFFICACY
+ER
+
+PT J
+ID TRIAL; OSTEONECROSIS; SURVIVAL; CELLS; JAW; BISPHOSPHONATES; MODEL;
+   RISK; IX
+ER
+
+PT J
+DE Dialog systems; Multi-domain; Spoken interaction; Human-machine
+   interaction; Neural networks; Statistical methodologies
+ID SPOKEN DIALOG SYSTEMS; HYBRID APPROACH; MANAGEMENT; EXAMPLES;
+   CLASSIFICATION; WEB
+ER
+
+PT B
+DE Conversational agents; mental models; explainable intelligent user
+   interfaces
+ER
+
+PT B
+ER
+
+PT B
+DE Multimodal output; natural language generation; autonomous systems;
+   situation awareness; cognitive styles
+ID OBJECT; STYLE
+ER
+
+PT B
+DE Conversational agents; Chatbots; Generative framework; Closed domain
+ER
+
+PT B
+DE Chatbot; Homomorphic Redaction; Context Digression
+ER
+
+PT B
+DE Form; conversational agent; interface
+ER
+
+PT B
+DE conversational agents; reminiscence; system requirements
+ID PEOPLE; MEMORY; GUIDE
+ER
+
+PT B
+DE Conversational search; Multimedia; Recommender systems; Collaborative
+   filtering
+ER
+
+PT S
+ER
+
+PT B
+DE Instant Messenger; Chatbot; Conversational User Interface; Stock
+   Investment; Decision Making
+ID DIALOGUE SYSTEMS; AGENTS; ELIZA
+ER
+
+PT S
+DE Domain knowledge acquisition; Dialog structure annotation;
+   Conversational interfaces; Human-machine interaction; Spoken interaction
+ID SEGMENTATION
+ER
+
+PT S
+DE Mobile learning; Conversational interfaces; Computer-supported
+   education; Multimodal interaction
+ID LANGUAGE; SYSTEMS; DIALOG
+ER
+
+PT J
+DE algorithms; journalism; metajournalistic discourse; social media
+ID METAJOURNALISTIC DISCOURSE
+ER
+
+PT J
+DE collaboration; consumption; management; accommodation sector; online
+   reputation; online reviews
+ID WORD-OF-MOUTH; CONSUMER-GENERATED MEDIA; HOTEL REVIEWS; TRIPADVISOR;
+   REPUTATION; BEHAVIOR; IMPACT; TRUST; VOICE; EWOM
+ER
+
+PT J
+ID COGNITIVE-BEHAVIORAL THERAPY; SYMPTOM RATING-SCALES; ASSISTED THERAPY;
+   SCHIZOPHRENIA; VOICES; INTERVENTIONS; METAANALYSIS; OMNIPOTENCE;
+   DIMENSIONS; DEPRESSION
+ER
+
+PT J
+ID QUALITY-OF-LIFE; PRIMARY ANTIBODY DEFICIENCIES; IGG SELF-INFUSIONS;
+   MUSCLE STRENGTH; THERAPY; POLYRADICULONEUROPATHY; CIDP; HOME; ICE;
+   SATISFACTION
+ER
+
+PT J
+DE communicative agents; spoken language processing; hierarchical control;
+   intentional speech synthesis; autonomous social agents; mismatched
+   priors
+ID HIDDEN MARKOV-MODELS; SPEECH; PERCEPTION; LANGUAGE; COMPREHENSION;
+   PREDICTIONS; REDUCTION; BEHAVIOR; PROGRESS; BRAIN
+ER
+
+PT J
+DE Controlled natural language (CNL); conversational interface;
+   human-computer collaboration (HCC); human-machine interaction (HMI);
+   tactical intelligence
+ID MACHINE
+ER
+
+PT J
+DE Older adults; Social isolation; Digital pet; Embodied conversational
+   agent; Information and communication technology
+ID SOCIAL-ISOLATION; TECHNOLOGY; HOME
+ER
+
+PT J
+DE Cancellability; Grice; Pragmatics
+ID CONVERSATIONAL IMPLICATURES; DISTINCTION; STANLEY; SZABO; GRICE
+ER
+
+PT J
+ID INSULIN-TREATMENT; SGLT2 INHIBITORS; MELLITUS; GLUCOSE; LIRAGLUTIDE;
+   OBESITY; KIDNEY; METAANALYSIS; ASSOCIATION; MORTALITY
+ER
+
+PT J
+ID SURVIVAL; CHEMOTHERAPY
+ER
+
+PT J
+DE Natural language interface; Digital assistant; Social AIs; Driving;
+   Simulation; Wizard-of-Oz
+ER
+
+PT J
+ID INTIMA-MEDIA THICKNESS; GLYCEMIC CONTROL; ENDOTHELIAL FUNCTION; OF-VIEW;
+   COMPLICATIONS; PROGRESSION; DEFICIENCY; MORTALITY; DISEASE; DESIGN
+ER
+
+PT J
+DE computer supported education; conversational agents; mobile learning;
+   m-learning; adaptive learning; multimodal interaction; spoken
+   interaction; mobile devices; android; intelligent assistants; university
+   digital libraries
+ID SPOKEN DIALOG SYSTEMS; HIGHER-EDUCATION; MOBILE; LANGUAGE; GAMIFICATION;
+   ENVIRONMENTS; ADOPTION; PERSPECTIVE; TECHNOLOGY; MANAGEMENT
+ER
+
+PT J
+ID DOCETAXEL; PERTUZUMAB; GUIDELINES; RECEPTOR
+ER
+
+PT J
+ID GENE-RELATED PEPTIDE; QUALITY-OF-LIFE; EPISODIC MIGRAINE; PLASMA-LEVELS;
+   CGRP; ONABOTULINUMTOXINA; ATTACKS; TOLERABILITY; MULTICENTER;
+   TELCAGEPANT
+ER
+
+PT J
+ID GLUCAGON-LIKE PEPTIDE-1; DIPEPTIDYL PEPTIDASE-4 INHIBITORS; GLP-1
+   RECEPTOR AGONISTS; WEIGHT MANAGEMENT; GLUCOSE CONTROL; BLOOD-PRESSURE;
+   RISK-FACTORS; ASSOCIATION; MELLITUS; PLACEBO
+ER
+
+PT J
+ID GLP-1 ANALOG LIRAGLUTIDE; WEIGHT-LOSS; METFORMIN; GLUCOSE; ASSOCIATION;
+   METABOLISM; PERSPECTIVES; STATEMENT; MELLITUS; DISEASE
+ER
+
+PT J
+DE H.5.2 user interfaces; embodied conversational agent; smiles;
+   human-machine interaction
+ID FACIAL EXPRESSIONS; INTERFACE AGENTS; VIRTUAL AGENTS; SMILES; DISPLAYS;
+   COMMUNICATION; MACHINE; CONTEXT; GENDER; FALSE
+ER
+
+PT J
+DE JAK; Janus kinase; Myelofibrosis
+ID MYELOPROLIFERATIVE NEOPLASMS; AVAILABLE THERAPY; ESSENTIAL
+   THROMBOCYTHEMIA; SURVIVAL; TRANSFORMATION; INHIBITORS; MUTATIONS;
+   LEUKEMIA; HEALTH; IMPACT
+ER
+
+PT B
+DE Conversational Agent; Machine Learning; Ensemble Classifiers; Recurrent
+   Neural Networks; Language Modeling
+ER
+
+PT S
+DE ALICE; chatterbot; conversational agent; mobile assisted language
+   learning; m-learning
+ER
+
+PT S
+DE Process-oriented case-based reasoning; Workflow retrieval;
+   Conversational case-based reasoning; Workflows
+ID MANAGEMENT; WORKFLOWS; CBR
+ER
+
+PT S
+DE Willingness to communicate in L2; Conversational agents; Communication
+   strategies; Affective backchannels; Intelligent tutoring
+ER
+
+PT S
+DE Recurrent neural networks; Long short-term memory; Chatbot;
+   Conversational agent
+ER
+
+PT S
+DE Conversational interfaces; Multi-agent systems; Human agent interaction;
+   Spoken interaction; Statistical methodologies
+ID SYSTEM
+ER
+
+PT S
+DE human-robot interaction; conversational interface; natural language
+   processing; Battle Management Language
+ID GESTURE RECOGNITION; SYSTEMS
+ER
+
+PT S
+ID VISION
+ER
+
+PT S
+DE programming by demonstration; end user development; task automation;
+   SUGILITE
+ER
+
+PT S
+ID CONVERSION
+ER
+
+PT B
+DE Conversation Generation; Deep-Learning; Long Short Term Memory (LSTM);
+   Japanese tweets
+ER
+
+PT B
+DE Automotive User Interfaces; Speech Interaction; Natural Language
+   Interfaces; Design Space
+ER
+
+PT S
+DE conversational interface system; natural language processing
+ER
+
+PT B
+DE software visualization; conversational interface; interactive
+   visualization; chatbot; human computer interaction
+ER
+
+PT B
+DE embodied conversational agent; virtual agent; physical activity; regular
+   exercise; persuasion; Chinese culture; new immigrants; cultural
+   adaptation
+ID RANDOMIZED CONTROLLED-TRIAL; PHYSICAL-ACTIVITY; TRANSTHEORETICAL MODEL;
+   AMERICAN-COLLEGE; SPORTS-MEDICINE; PUBLIC-HEALTH; ADULTS;
+   RECOMMENDATION; EXERCISE
+ER
+
+PT J
+DE Conversational Interfaces; Screen readers; Accessibility; Synthetic
+   Speech; Inclusive Design
+ID SPEECH
+ER
+
+PT J
+DE Conversational interfaces; mobile devices; multimodal interaction;
+   context-awareness; user adaptation; Android
+ID SPOKEN DIALOG SYSTEMS; MANAGEMENT; STRATEGIES; GRAMMARS; DESIGN
+ER
+
+PT S
+DE automation bias; complacency; conversational interface; human-machine
+   interaction; controlled natural language
+ER
+
+PT J
+ID QUESTION PROMPT LIST; EARLY PALLIATIVE CARE; DECISION-MAKING; PROGNOSTIC
+   DISCLOSURE; TREATMENT INTENSITY; MORTALITY SALIENCE; END; PHYSICIAN;
+   DISCUSSIONS; PREFERENCES
+ER
+
+PT J
+DE Authentication; Security; Anonymity and privacy; Impersonation attack;
+   Provable security; ProVerif
+ID NETWORKS
+ER
+
+PT B
+DE conversational agents; intelligent personal assistants; multi-party
+   conversation; collocated interaction; CSCW
+ER
+
+PT S
+DE Embodied Conversational Agents; cultural heritage; interactive
+   documentary
+ER
+
+PT S
+DE embodied conversational agents; virtual reality; gaze; orientation
+ID GAZE; HEAD; EYE; COORDINATION; DISTANCE
+ER
+
+PT B
+DE Conversational Search; Information Retrieval; Discourse and Dialogue
+ER
+
+PT J
+ID GLUCAGON-LIKE PEPTIDE-1; OPEN-LABEL; NAIVE PATIENTS; GLP-1 AGONIST;
+   EFFICACY; THERAPY; PIOGLITAZONE; TOLERABILITY; COMBINATION; INHIBITOR
+ER
+
+PT J
+DE Error detection and correction; User modeling; Spoken dialog systems;
+   Human-computer interaction; Conversational interfaces
+ID CONVERSATIONAL AGENTS; SIMULATION TECHNIQUE; SPEECH RECOGNITION;
+   MANAGEMENT; STRATEGIES; MODEL; SATISFACTION; DEVELOP
+ER
+
+PT J
+ID HEART RHYTHM ASSOCIATION; ORAL ANTICOAGULANTS; EFFICACY; SAFETY;
+   GUIDELINES
+ER
+
+PT J
+ID ANTITHROMBOTIC THERAPY; DOSE CLOPIDOGREL; REACTIVITY; PRASUGREL;
+   INTERVENTION; REVASCULARIZATION; IMPLANTATION; THROMBOSIS; CARDIOLOGY;
+   OUTCOMES
+ER
+
+PT J
+ID SEVERE EOSINOPHILIC ASTHMA; IL-13; EXACERBATIONS; EXPRESSION;
+   PHENOTYPES; LUNG; CORTICOSTEROIDS; SUBPHENOTYPES; MEPOLIZUMAB;
+   ACTIVATION
+ER
+
+PT J
+ID JUVENILE IDIOPATHIC ARTHRITIS; OCULAR INFLAMMATORY DISORDERS;
+   NECROSIS-FACTOR INHIBITORS; REFRACTORY UVEITIS; RHEUMATOID-ARTHRITIS;
+   POSTERIOR UVEITIS; CLINICAL-TRIALS; EXPERT PANEL; DISEASE; INFLIXIMAB
+ER
+
+PT J
+DE Natural language interfaces; Virtual assistants; Embodied conversational
+   agents; Multi-agent systems; Semantic grammars; Ontologies
+ID NATURAL-LANGUAGE INTERFACES; KNOWLEDGE BASES; WEB; INFORMATION; ENGLISH;
+   AGENT; STATE
+ER
+
+PT J
+ID TYROSINE KINASE INHIBITORS; ACTIVATING MUTATIONS; CHEMOTHERAPY;
+   ERLOTINIB; METAANALYSIS; ADENOCARCINOMA; RESISTANCE; MULTICENTER;
+   THERAPY; NSCLC
+ER
+
+PT J
+DE Common ground; Conversational repair; Echoborg; Human-agent interaction;
+   Intersubjectivity; Psychological benchmarks
+ID HUMAN-ROBOT INTERACTION; INTERFACE AGENTS; ORGANIZATION; BENCHMARKS;
+   COMPUTERS; DISCOURSE; MACHINES; SCIENCE; SELF
+ER
+
+PT J
+ID SOFT-TISSUE SARCOMA; DOUBLE-BLIND; MESYLATE; GEMCITABINE; ANTHRACYCLINE;
+   CHEMOTHERAPY; IFOSFAMIDE; DOCETAXEL; PAZOPANIB
+ER
+
+PT J
+DE Gerontechnology; Assistive technologies and devices; Mental health;
+   Multimodal conversational agents; Mobile devices; Android
+ID SPOKEN DIALOG SYSTEMS; AUTOMATIC SPEECH RECOGNITION; COUNSELING SYSTEM;
+   PHYSICAL-ACTIVITY; DESIGN; MANAGEMENT; ENVIRONMENTS; GENERATION;
+   DIAGNOSIS; PROGNOSIS
+ER
+
+PT J
+ID GENE-RELATED PEPTIDE; BLOOD-BRAIN-BARRIER; CGRP RECEPTOR ANTAGONISTS;
+   MONOCLONAL-ANTIBODY; HEALTHY-SUBJECTS; TRIGEMINOVASCULAR SYSTEM;
+   RHESUS-MONKEY; TOLERABILITY; TELCAGEPANT; LOCALIZATION
+ER
+
+PT J
+DE Beverages; Health literacy; Behavioral research; Randomized controlled
+   trial; Rural population
+ID RE-AIM FRAMEWORK; PLANNED BEHAVIOR; PHYSICAL-ACTIVITY; CLINICAL-TRIAL;
+   UNITED-STATES; WEIGHT-GAIN; CONSUMPTION; ADULTS; OBESITY; QUESTIONNAIRE
+ER
+
+PT J
+ID SARCOPLASMIC-RETICULUM CA2+-ATPASE; ADVANCED HEART-FAILURE;
+   MYOCARDIAL-FUNCTION; EXPRESSION; DELIVERY; MODEL
+ER
+
+PT J
+ID III TRIAL; CHEMOTHERAPY; BEVACIZUMAB; CARBOPLATIN; COMBINATION;
+   MONOTHERAPY; PACLITAXEL; GROWTH
+ER
+
+PT J
+ID MUTATIONS; SUNITINIB
+ER
+
+PT J
+ID CONTROLLED TRIAL; MANAGEMENT
+ER
+
+PT J
+ER
+
+PT J
+DE Persistent psychotic experiences; need for care; psychosis;
+   hallucinations; first-rank symptoms; psychosocial functioning; social
+   adversity; childhood trauma; protective factors
+ID AUDITORY VERBAL HALLUCINATIONS; GENERAL-POPULATION; PSYCHOMETRIC
+   PROPERTIES; ANOMALOUS EXPERIENCES; CHILDHOOD TRAUMA; RISK;
+   SCHIZOPHRENIA; SYMPTOMS; SEEKING; MODEL
+ER
+
+PT J
+ID ECZEMA AREA; PREVALENCE; GUIDELINES; INDEX; MANAGEMENT; CHILDREN;
+   ASTHMA; CARE; RELIABILITY; SYMPTOMS
+ER
+
+PT J
+DE Conversational interfaces; VoiceXML; Mobile devices; Android
+ID SPOKEN DIALOG SYSTEMS; SIMULATION TECHNIQUE; AGENTS
+ER
+
+PT J
+DE Human-machine interaction; Conversational Interfaces; Dialog Management
+ID STRATEGIES; SYSTEM
+ER
+
+PT J
+DE User modeling; Conversational Interfaces; Human-Machine Interaction
+ID SPOKEN DIALOG SYSTEMS; MANAGEMENT; STRATEGIES
+ER
+
+PT B
+DE keyboard; mouse; or touchscreen [1]
+ER
+
+PT S
+DE Virtual agents; Conversational style; Human-computer interaction; Social
+   psychology; Interpersonal attraction; Similarity attraction
+ID INTERPERSONAL-ATTRACTION; PERSONALITY; SIMILARITY
+ER
+
+PT S
+DE Linguistic alignment; Second language acquisition; Virtual agent; Robot;
+   Speech output; Nonverbal behavior; Embodiment; Experimental study
+ID ANTHROPOMORPHISM; DIALOGUE
+ER
+
+PT S
+DE Autism spectrum disorder; Conversational virtual agent; Communication
+   skills training
+ER
+
+PT S
+DE voice control system; UAV; the semantic identification of the voice
+   commands; voice recognition; MFCC
+ER
+
+PT S
+DE Laughter; Humor; Social bonding; Evolution; Context
+ID EVOLUTION; STRANGERS; INTIMACY; SIZE
+ER
+
+PT B
+DE Spoken Retrieval; Search Result Summarization; Conversational Search;
+   Voice Search; Interactive Information Retrieval
+ID SYSTEMS
+ER
+
+PT S
+DE Interactive speech synthesis; Human-machine-interaction; Conversational
+   engagement; Laughter; Interactional entropy; Intrusive machines
+ER
+
+PT B
+DE Conversational Agents; mental models; evaluation; H.5.m. Information
+   interfaces and presentation (e.g., HCI): Miscellaneous
+ER
+
+PT S
+DE Ontologies; Controlled Natural Language; Conversational Interaction;
+   Sensor / Mission Matching; OWL
+ER
+
+PT S
+DE Human-agent interaction; User interfaces; Conversational agents; Spoken
+   and multimodal interaction; Mobile devices; Android
+ID AGENTS
+ER
+
+PT S
+ER
+
+PT J
+ID DIALOGUE MANAGEMENT; SYSTEM; SPEECH; RECOGNITION; INFORMATION;
+   STRATEGIES; FEATURES; DESIGN
+ER
+
+PT J
+DE embodied conversational agent; search user interface; information
+   retrieval user interface; Web search; health literacy; relational agent;
+   computer literacy; search engine; Internet
+ID CLINICAL-TRIALS; OF-LIFE; LITERACY; SEARCH; IMPACT; USABILITY; OUTCOMES;
+   ADULTS; STYLE
+ER
+
+PT J
+DE Human - computer dialogue; Syntactic alignment; Speech interaction; User
+   behaviour; Psycholinguistics; Interlocutor modelling
+ID LANGUAGE PRODUCTION; COORDINATION; ACQUISITION; PERSISTENCE; MACHINES;
+   SPEAKERS
+ER
+
+PT J
+ID TRANSIENT ELASTOGRAPHY; DIALYSIS PATIENTS; RANDOMIZED-TRIAL; LIVER
+   FIBROSIS; RENAL-DISEASE; RIBAVIRIN; CIRRHOSIS; MK-5172; HCV;
+   TRANSPLANTATION
+ER
+
+PT J
+ID CLINICAL-PRACTICE GUIDELINES; LIVER-TRANSPLANTATION; RISK-FACTORS;
+   RECURRENCE; PREVENTION; THERAPY; CANCER; ANGIOGENESIS; PERSPECTIVES;
+   MANAGEMENT
+ER
+
+PT J
+DE Speech dialog system; Driving simulation study; Usability; Driver
+   distraction
+ER
+
+PT J
+ID GROWTH-FACTOR RECEPTOR; PROTEIN EXPRESSION; PLUS GEMCITABINE; EGFR
+   MUTATIONS; CANCER NSCLC; CHEMOTHERAPY; CISPLATIN; SURVIVAL;
+   ADENOCARCINOMA; HISTOLOGY
+ER
+
+PT J
+DE Collaborative Conversational Recommenders; Intelligent Collaborative 3D
+   Interface; 3D Virtual Worlds
+ID VIRTUAL WORLDS; ENVIRONMENTS
+ER
+
+PT J
+ID GLUCAGON-LIKE PEPTIDE-1; BASAL-BOLUS REGIMEN; PLUS ORAL-AGENTS;
+   TO-TARGET TRIAL; DOUBLE-BLIND; RECEPTOR AGONIST; PARALLEL-GROUP;
+   METFORMIN; EFFICACY; LIRAGLUTIDE
+ER
+
+PT J
+ID GRAM-NEGATIVE BACILLI; UNITED-STATES; TRIMETHOPRIM-SULFAMETHOXAZOLE;
+   INTRAVENOUS DORIPENEM; RESISTANCE PATTERNS; ESCHERICHIA-COLI;
+   CIPROFLOXACIN; MULTICENTER; PREVALENCE; PREVENTION
+ER
+
+PT J
+ID ANTI-PD-1 ANTIBODY; RESPONSE CRITERIA; SAFETY; IPILIMUMAB; PD-1; CANCER;
+   EXPRESSION; TOLERANCE; LYMPHOMA; BLOCKADE
+ER
+
+PT J
+ID PULSE-WAVE ANALYSIS; ELECTRONIC SKIN; TRIBOELECTRIC GENERATOR; PRESSURE;
+   TRANSISTORS; DESIGN; MATRIX; ELECTRIFICATION; ASSEMBLIES; NETWORKS
+ER
+
+PT J
+ID DENSITY-LIPOPROTEIN CHOLESTEROL; AMG 145; MONOCLONAL-ANTIBODY; LDL-C;
+   RECEPTOR GENE; OPEN-LABEL; EFFICACY; ATORVASTATIN; SIMVASTATIN;
+   REDUCTION
+ER
+
+PT B
+DE mobile multimodal; usability; conversational interface; elderly
+ER
+
+PT S
+DE Natural Language Interface to Databases (NLIDB); Conversational Agents
+   (CA); Knowledge base; Artificial Intelligence (AI); Pattern Matching
+   (PM)
+ER
+
+PT B
+DE Embodied conversational agents; assistive technologies; attention
+   estimation; dementia
+ID ELDERLY-PEOPLE; AVATARS
+ER
+
+PT B
+ER
+
+PT B
+ID NATURAL-LANGUAGE INTERFACES; WEB; PERFORMANCE; INFORMATION; ONTOLOGIES
+ER
+
+PT S
+DE Agent simulation; User modeling; Conversational agents; Human machine
+   interfaces; Spoken interaction
+ID SIMULATION
+ER
+
+PT S
+DE engagement; common ground; subjective experience; empathy; mind-reading
+   display
+ID ONLINE DISINHIBITION
+ER
+
+PT S
+DE Sample Selection; Imbalanced data; Clustering; Human-Machine interfaces;
+   Conversational agents; Spoken interaction
+ID CLASSIFIERS
+ER
+
+PT S
+DE Conversational agents; Spoken interaction; User modeling; Emotion
+   recognition; Adaptation
+ID DIALOGUE SYSTEMS; SPEECH RECOGNITION; INFORMATION
+ER
+
+PT S
+DE Conversational Interfaces; Dialog Systems; Emotion Recognition;
+   E-therapy; Adaptation; Spoken Interaction; Mobile Interfaces
+ID SPEECH RECOGNITION; DIALOG SYSTEMS; INFORMATION; FEATURES
+ER
+
+PT S
+DE Assistive technology; Cognitive impairment; Conversational agents
+ID SPEECH RECOGNITION; SEVERE DYSARTHRIA; SPEAKERS
+ER
+
+PT S
+ID TURN-TAKING
+ER
+
+PT S
+DE Design methodologies; Evaluation methodologies and user studies;
+   Applications for film, animation, art and games; Cyranoid; Echoborg
+ID SHADOWED SPEECH; IMPRESSION; ACCESS
+ER
+
+PT S
+DE Human-agent interaction; User interfaces; Conversational agents; Spoken
+   and multimodal interaction; Mobile devices; Android
+ID AGENTS
+ER
+
+PT S
+DE Conversational Agents; Digital Libraries; Assistants; Multimodal
+   Interaction; Spoken Interaction; Mobile Devices; Android
+ER
+
+PT S
+DE Natural conversational interaction; mixed-reality; multi-modal dialogue
+   systems; immersive; debate skills; learning analytics; reflection
+ER
+
+PT J
+DE Natural Language Processing; Dialog System; Conversational Agent;
+   Academic Advising; Advising System; Engineering Education; E-learning;
+   Human Computer Interaction
+ER
+
+PT J
+DE Microalgae; Biofuels; Production cost; Economics; Microalgal biorefinery
+ID PIGGERY WASTE-WATER; BIODIESEL PRODUCTION; CHLORELLA-ZOFINGIENSIS;
+   ALGAE; CULTIVATION; BIOFUELS; ENERGY; FEEDSTOCKS; CHALLENGES; ECONOMICS
+ER
+
+PT B
+ER
+
+PT J
+DE Apology; Social Response To Computer; Synthetic Voice; Voice Gender; VUI
+ER
+
+PT J
+DE bipolar illness; connectivity; resting state; schizophrenia; thalamus
+ID TRANSCRANIAL MAGNETIC STIMULATION; INTRINSIC FUNCTIONAL CONNECTIVITY;
+   HUMAN BRAIN; WORKING-MEMORY; BASAL GANGLIA; STRUCTURAL CONNECTIVITY;
+   HALLUCINATED VOICES; PREDICTION-ERROR; PATTERN-ANALYSIS; HUMAN THALAMUS
+ER
+
+PT J
+ID SOMATOSTATIN ANALOGS; GROWTH-HORMONE; MULTICENTER; THERAPY; LAR; SOM230;
+   SAFETY; HYPERGLYCEMIA; TOLERABILITY; PEGVISOMANT
+ER
+
+PT J
+ID FLUTICASONE PROPIONATE/SALMETEROL 250/50; GEORGE RESPIRATORY
+   QUESTIONNAIRE; SHORT-TERM RESPONSE; CONTROLLED-TRIAL; CORTICOSTEROID
+   TREATMENT; AIRWAY EOSINOPHILIA; COPD EXACERBATIONS; CHRONIC-BRONCHITIS;
+   ASTHMA; INFLAMMATION
+ER
+
+PT J
+ID PEPTIDE-1 RECEPTOR AGONISTS; DAILY LIVING QUESTIONNAIRE; GATEKEEPING
+   PROCEDURES; PHYSICAL-ACTIVITIES; ANALOG LIRAGLUTIDE; GLYCEMIC CONTROL;
+   PARALLEL-GROUP; EXENATIDE; EFFICACY; SAFETY
+ER
+
+PT J
+ID IMMUNOGENICITY; RECOMBINANT; GUIDELINES
+ER
+
+PT J
+ID MALIGNANT GLIOMA; INTEGRIN ALPHA(V)BETA(3); RECURRENT GLIOBLASTOMA;
+   CLINICAL-TRIAL; UNITED-STATES; TEMOZOLOMIDE; RADIOTHERAPY; EXPRESSION;
+   BRAIN; BEVACIZUMAB
+ER
+
+PT J
+ID III TRIAL; CHEMOTHERAPY; BEVACIZUMAB; CARBOPLATIN; PACLITAXEL; SURVIVAL;
+   ERLOTINIB; TUMORS; LIFE
+ER
+
+PT J
+ID PLACEBO-CONTROLLED TRIAL; ADHERENCE; MULTICENTER; DISABILITY; EFFICACY;
+   THERAPY; DEGENERATION; PATHOGENESIS; DELIVERY; DRUG
+ER
+
+PT J
+ID COMPUTER-MEDIATED COMMUNICATION; NONVERBAL BEHAVIOR; INTERPERSONAL
+   DECEPTION; TRUSTWORTHINESS; DESIGN; CONSTRUCTION; CREDIBILITY;
+   DOMINANCE; INTERFACE; SCALE
+ER
+
+PT J
+DE Social Attitude; Natural Interaction; Ambient Conversational Systems;
+   Embodied Conversational Agents
+ID HUMAN-COMPUTER INTERACTION; EMOTION RECOGNITION; BODY GESTURES;
+   EXPRESSIONS; AUDIO; CUES
+ER
+
+PT J
+ER
+
+PT J
+ID III TRIAL; FOLLOW-UP; SAFETY; EFFICACY; OUTCOMES; BG-12
+ER
+
+PT J
+ID HIV PREVENTION; MICROBICIDE ACCEPTABILITY; TREATMENT ADHERENCE;
+   CLINICAL-TRIAL; GEL; INTERVENTION; MOTIVATION; ZIMBABWE; SUPPORT;
+   BARRIER
+ER
+
+PT J
+DE Human-computer interface; Intelligent tutoring systems; Interactive
+   learning environments; Teaching/learning strategies
+ID LEARNING STYLES; EDUCATIONAL-SYSTEM; COGNITIVE-STYLE; USER-INTERFACE;
+   CLASSIFICATION; RECOMMENDATION; DIAGNOSIS; INTERACT
+ER
+
+PT J
+DE Decoupling; flexure mechanisms; long stroke; micro-/nanopositioning;
+   motion control; parallel mechanisms
+ID STAGE; IDENTIFICATION; MANIPULATION; MECHANISM; MOTION
+ER
+
+PT J
+ID MODIFYING ANTIRHEUMATIC DRUGS; RECEIVING CONCOMITANT METHOTREXATE;
+   DIFFERENT TREATMENT STRATEGIES; COMBINATION THERAPY; AMERICAN-COLLEGE;
+   CLINICAL-TRIALS; RADIOGRAPHIC PROGRESSION; MONOCLONAL-ANTIBODY; TIGHT
+   CONTROL; DOUBLE-BLIND
+ER
+
+PT J
+ID ENDOTHELIAL GROWTH-FACTOR; HYPOXIA-INDUCIBLE FACTOR-1-ALPHA;
+   CLINICOPATHOLOGICAL SIGNIFICANCE; MICROVESSEL DENSITY; TUMOR
+   ANGIOGENESIS; SUPPORTIVE CARE; CLINICAL-TRIALS; FACTOR RECEPTOR; CANCER;
+   EXPRESSION
+ER
+
+PT S
+DE Conversational agent; speech interfaces; TTS; ASR; chatbot; question
+   answering; multilingual information systems; AIML; Latvian
+ER
+
+PT S
+DE conversational interface; intelligence; surveillance; reconnaissance;
+   controlled natural language
+ER
+
+PT S
+DE Dialog systems; Multimodal interaction; Android; Mobile devices; User
+   adaptation; Statistical methodologies
+ID CONVERSATIONAL AGENTS; SIMULATION TECHNIQUE
+ER
+
+PT J
+ID EMBODIED CONVERSATIONAL AGENTS; MARKUP LANGUAGE; PERSUASION; EXPRESSION;
+   ENGINE; SYSTEM
+ER
+
+PT B
+ID SYSTEM
+ER
+
+PT B
+DE dynamic serious games; adapdable environments; embodies conversational
+   agents; virtual humans; interactive virtual environments
+ER
+
+PT B
+ER
+
+PT J
+DE mHealth; low- and middle-income countries; health systems;
+   interventions; mobile data
+ID RESOURCE-LIMITED SETTINGS; RANDOMIZED CONTROLLED-TRIAL; MOBILE PHONES;
+   HEALTH-WORKERS; DATA-COLLECTION; RURAL UGANDA; CARE; COMMUNICATION;
+   GUIDELINES; ATTENDANCE
+ER
+
+PT J
+DE immunization; health communication; preventive health services
+ID SHARED DECISION-MAKING; HESITANT PARENTS; CHILDHOOD VACCINES;
+   UNITED-STATES; PRIMARY-CARE; IMMUNIZATION; PHYSICIANS; ATTITUDES;
+   CHILDREN; PEDIATRICIANS
+ER
+
+PT J
+ID USER SIMULATION; SYSTEMS; STRATEGIES; DESIGN
+ER
+
+PT J
+ID SUBEROYLANILIDE HYDROXAMIC ACID; HISTONE DEACETYLASE INHIBITOR; PHASE-I;
+   CANCER; CARFILZOMIB; PROTEASOME; TRIAL
+ER
+
+PT J
+ID COTRANSPORTER 2 INHIBITOR; GLYCEMIC CONTROL; ADD-ON; MELLITUS;
+   MONOTHERAPY; DAPAGLIFLOZIN; WEIGHT; SULFONYLUREAS; GLIPIZIDE; INSULIN
+ER
+
+PT J
+DE Virtual humans; Social networking sites; Human-virtual human
+   interaction; Dialogue
+ER
+
+PT J
+DE Automatic affect detection; Affective spoken dialog system; Domestic
+   environment; HiFi agent; Social intelligence; Dialog features;
+   Conversational cues; User bias; Predicting user satisfaction
+ID AFFECTIVE SPEECH; EMOTION; ANNOTATION; LANGUAGE; TUTORS; CUES
+ER
+
+PT J
+ID INTERLEUKIN-12/23 MONOCLONAL-ANTIBODY; RHEUMATOID-ARTHRITIS;
+   DISEASE-ACTIVITY; CLINICAL-FEATURES; EUROPEAN LEAGUE; RECOMMENDATIONS;
+   INFLAMMATION; IMPROVEMENT; VALIDATION; MANAGEMENT
+ER
+
+PT J
+ID DISABILITY STATUS SCALE; T-CELLS; ACTIVATION; ANTIBODY; THERAPY; EDSS
+ER
+
+PT J
+DE Affective interfaces; conversational avatars; mobile devices; text
+   messaging; user experience; user modeling
+ER
+
+PT J
+ID MODIFYING ANTIRHEUMATIC DRUGS; DISEASE-ACTIVITY; EULAR RECOMMENDATIONS;
+   DOUBLE-BLIND; FUNCTIONAL-CAPACITY; REMISSION; THERAPY; RA; MANAGEMENT;
+   DAMAGE
+ER
+
+PT J
+DE Multimodality corpus; Conversational involvement; Spontaneous speech
+ID NONVERBAL INVOLVEMENT; DIALOGUE; SYSTEMS
+ER
+
+PT J
+ER
+
+PT J
+ID TYROSINE KINASE INHIBITOR; ADJUVANT IMATINIB; GROWTH-FACTOR; IN-VIVO;
+   RESISTANCE; KIT; MUTATIONS; MECHANISMS; MESYLATE; SU11248
+ER
+
+PT J
+ID GLYCEMIC CONTROL; RECEPTOR AGONISTS; TREATED PATIENTS; PARALLEL-GROUP;
+   METFORMIN; EFFICACY; SAFETY; TRIAL; EXENDIN-4; SULFONYLUREA
+ER
+
+PT S
+DE Conversational Interface; Chatbot; Ontology; AIML
+ER
+
+PT S
+DE non-task oriented conversational agent; log analysis; virtual
+   philosopher
+ER
+
+PT B
+DE Facial Expression Analysis; Sequence Modeling; Human Computer
+   Interaction
+ER
+
+PT S
+DE 3D human pose; conversational interaction classification; interaction
+   analysis; Kinect sensor
+ID MOTION CAPTURE; RECOGNITION; REPRESENTATION
+ER
+
+PT B
+ID USER
+ER
+
+PT S
+DE spoken language understanding; domain detection; conversational systems;
+   multi-party conversations
+ER
+
+PT S
+DE Controlled English; ISR; decision support; analyst; intelligence;
+   conversational interaction; conversational interface; mobile app;
+   CE-SAM; sensor mission assignment; resource allocation
+ID DISTRIBUTED SENSOR NETWORK; TASK ALLOCATION; NODE SELECTION;
+   LOCALIZATION; ASSIGNMENT; MEDICINE; SYSTEMS
+ER
+
+PT J
+DE Conversational agents; user simulation; statistical methodologies;
+   multiagent systems
+ID SPOKEN DIALOG SYSTEMS; USER SIMULATION; DESIGN; PERSPECTIVE; STRATEGIES
+ER
+
+PT B
+ID SPEECH RECOGNITION
+ER
+
+PT J
+ID ARQ 197; SOLID TUMORS; SORAFENIB; TRIAL; MET; SUBANALYSES; INHIBITOR;
+   EFFICACY; THERAPY; SAFETY
+ER
+
+PT S
+DE evaluation; anthropomorphic interfaces; user centered design
+ER
+
+PT J
+DE Conversational systems; Incremental processing; Speech generation;
+   Wizard-of-Oz
+ID PROSODY; REPAIRS
+ER
+
+PT J
+ID LOW-DENSITY-LIPOPROTEIN; CORONARY-HEART-DISEASE; FAMILIAL
+   HYPERCHOLESTEROLEMIA; LDL CHOLESTEROL; PCSK9; THERAPY; GUIDELINES; TRIAL
+ER
+
+PT J
+ID MONOCLONAL-ANTIBODY TREATMENT; LYMPHOCYTE DEPLETION; INTERFERON-BETA;
+   CLINICAL-TRIAL; FUNCTIONAL COMPOSITE; OUTCOME MEASURE; RECONSTITUTION;
+   CAMPATH-1H; TESTS
+ER
+
+PT J
+ID ALL-CAUSE MORTALITY; GLYCEMIC CONTROL; GLUCOSE CONTROL;
+   CARDIOVASCULAR-DISEASE; ADD-ON; METAANALYSIS; MELLITUS; RISK;
+   HYPOGLYCEMIA; ASSOCIATION
+ER
+
+PT J
+DE Dialogue; Speech acts; Conversational Agents; Natural Language
+   Generation
+ID EMBODIED CONVERSATIONAL AGENT
+ER
+
+PT J
+DE symptoms; psychosis; hallucinosis; research; domain; criteria; auditory
+   network; model
+ID VERBAL HALLUCINATIONS; VISUAL HALLUCINATIONS; INTRUSIVE THOUGHTS;
+   SPEECH-PERCEPTION; HEARING VOICES; PSYCHOSIS; INDIVIDUALS; DISORDER;
+   REALITY; SIMILARITIES
+ER
+
+PT J
+DE antiretrovirals; biomedical HIV prevention trials; microbicide;
+   pre-exposure prophylaxis
+ID TENOFOVIR DISOPROXIL FUMARATE; SIMPLEX-VIRUS TYPE-2; HORMONAL
+   CONTRACEPTIVES; ANTIRETROVIRAL THERAPY; IN-VITRO; INFECTION; WOMEN;
+   PHARMACOKINETICS; TRANSMISSION; MICROBICIDE
+ER
+
+PT J
+ID OPT-80; EPIDEMIOLOGY; ANTIBIOTICS; DIARRHEA; SOCIETY; DISEASE
+ER
+
+PT J
+DE Conversational context; Nonverbal behavior; Brainstorming;
+   Decision-making; CSCW; Social inference machines
+ID GROUP-DYNAMICS; MEETINGS; BEHAVIOR; CORPUS
+ER
+
+PT J
+ID SKELETAL-RELATED EVENTS; OSTEOPROTEGERIN LIGAND; ANDROGEN DEPRIVATION;
+   ZOLEDRONIC ACID; BREAST-CANCER; COMPLICATIONS; ACTIVATION; DISEASE
+ER
+
+PT B
+DE Artificial companions; Conversational agents; Human-machine
+   relationship; Long-term interaction
+ID MULTICOMPETENCE
+ER
+
+PT B
+DE Conversational Interfaces; Crowdsourcing
+ER
+
+PT B
+DE Android; embedded conversational agent; dialogue strategy; focus tree;
+   mobile phone
+ER
+
+PT B
+DE Unconcious; non-intrusive interfaces; nonverbal cue; cup-shaped device
+ID EXPERIENCE
+ER
+
+PT J
+DE Speech recognition; Lexical access; Adverse conditions; Signal
+   degradation; Cognitive load; Masking
+ID SPOKEN-WORD RECOGNITION; PRECATEGORICAL ACOUSTIC STORAGE;
+   TIME-COMPRESSED SPEECH; VERBAL WORKING-MEMORY; CONVERSATIONAL SPEECH;
+   LANGUAGE COMPREHENSION; SENTENCE COMPREHENSION; INDIVIDUAL-DIFFERENCES;
+   INFORMATIONAL MASKING; LISTENING CONDITIONS
+ER
+
+PT S
+DE Emotional model and dynamics; facial expressions
+ID AGENT
+ER
+
+PT S
+DE Human Computer Interface; Spoken Dialogue System; Language Model Design;
+   Online Services
+ER
+
+PT J
+ID PROGRESSION-FREE SURVIVAL; PROGNOSTIC-FACTORS; CANCER-THERAPY;
+   NEOPLASMS; PATHWAY; AGENTS; AKT
+ER
+
+PT J
+ID RHEUMATOID-ARTHRITIS; ORAL FINGOLIMOD; B-CELLS; CEREBROSPINAL-FLUID;
+   DOUBLE-BLIND; T-CELLS; RITUXIMAB; EFFICACY; ANTIBODY; DISEASE
+ER
+
+PT J
+DE Parkinson's disease; evidence-based medicine; levodopa; dopamine
+   agonists; monoamine oxidase inhibitors; catechol-O-methyl transferase
+   inhibitors; amantadine; anticholinergics; clozapine; neurosurgery; deep
+   brain stimulation; exercise; physical therapy; speech therapy;
+   occupational therapy; acupuncture
+ID RANDOMIZED CONTROLLED-TRIAL; DEEP-BRAIN-STIMULATION; SUBTHALAMIC NUCLEUS
+   STIMULATION; QUALITY-OF-LIFE; 24-HOUR PROLONGED RELEASE;
+   LEVODOPA-TREATED PATIENTS; IMPULSE CONTROL DISORDERS; PLACEBO-CONTROLLED
+   TRIAL; VOICE TREATMENT LSVT(R); DOUBLE-BLIND
+ER
+
+PT J
+ER
+
+PT J
+DE Dialogue; Universal access; Conversational system; Conversational
+   interface
+ID LANGUAGE; AGENTS
+ER
+
+PT J
+ID GROWTH-FACTOR RECEPTOR; TYROSINE KINASE INHIBITOR; MONOCLONAL-ANTIBODY;
+   ANTITUMOR-ACTIVITY; COMBINATION; MUTATIONS; GEFITINIB; CARBOPLATIN;
+   PACLITAXEL; THERAPY
+ER
+
+PT J
+ID EFFICACY; ALCOHOL; ABSTINENT
+ER
+
+PT J
+DE Companions; Embodied conversational agents; Conversational spoken
+   dialogue systems; Mobile interfaces; Cognitive modelling; Dialogue
+   management
+ID SYSTEMS
+ER
+
+PT J
+ID CONTROLLED PHASE-II; BREAST-CANCER; SKELETAL COMPLICATIONS;
+   CONTROLLED-TRIALS; LONG-TERM; THERAPY; MULTICENTER; PREVENTION;
+   CARCINOMA; SURVIVAL
+ER
+
+PT J
+DE Conversational robot; Conversational agent; Robot intelligence; Behavior
+   and dialogue control; Multi-expert model
+ID SYSTEMS
+ER
+
+PT J
+ID TO-TARGET TRIAL; GLUCOSE-LOWERING DRUGS; GLYCEMIC CONTROL; ORAL-THERAPY;
+   COMBINATION THERAPY; PARALLEL-GROUP; NAIVE PEOPLE; NPH INSULIN;
+   OPEN-LABEL; ADD-ON
+ER
+
+PT S
+ER
+
+PT S
+DE Embodied Conversational Agent; Human-Computer Interaction; User
+   Interface
+ER
+
+PT S
+ER
+
+PT S
+DE Human Interaction; Nonverbal Communication; Virtual Communication;
+   Enhanced Interaction; Virtual Audience
+ID SPEECH
+ER
+
+PT S
+DE Embodied Conversational Agent; Implicit Association Test
+ID ASSOCIATION TEST
+ER
+
+PT S
+DE Embodied conversational agent; multimodal interface; audio-video
+   recording; autism; children's speech
+ER
+
+PT J
+DE Ontology; personal assistant agents; intelligent assistance; semantic
+   analysis; conversational interfaces; multi-agent systems
+ID INTERFACE; SYSTEMS
+ER
+
+PT J
+DE Collaborative learning; intelligent agents; natural language interfaces;
+   software architectures
+ID TUTORING SYSTEM; DIALOGUE
+ER
+
+PT S
+DE Game design; computational thinking; debugging; end-user programming;
+   visual programming
+ER
+
+PT J
+ID GENDER-EQUITY ISSUES; EXTRA-ROLE BEHAVIORS; PROACTIVE BEHAVIOR;
+   HIERARCHICAL ORGANIZATIONS; PERSONAL CONTROL; SELLING ISSUES;
+   CROSS-LEVEL; WORK; COMMUNICATION; SILENCE
+ER
+
+PT S
+DE Information Extraction; Knowledge Trees; Conversational Agents;
+   Conversation-Based Interfaces to Relational Databases
+ER
+
+PT B
+DE Embodied Conversational Agents; Acceptability; Companion robot;
+   Emotions; and personality
+ID INFORMATION-TECHNOLOGY; USER ACCEPTANCE
+ER
+
+PT B
+DE Dialogue model; Reasoning model; Conversational agent; Information
+   state; Update rules
+ER
+
+PT S
+DE Social interface; Conversational workload; Minimalism designing
+ER
+
+PT J
+DE HCI; conversational systems; evaluation methodology
+ID ECONOMIC DECISION-MAKING; LANGUAGE DIALOGUE; HUMOR; COMMUNICATION;
+   RECOGNITION; INFORMATION; EMOTIONS; EXCHANGE; SPEECH; EEG
+ER
+
+PT J
+DE Gricean maxims; Flouting; Particularized conversational implicature;
+   Cognitive principles; Pragmatic marking; Cognitive marking
+ID IMPLICATURE
+ER
+
+PT J
+DE ECA; Behavior; Multimodal; Distinctive; Expressive
+ER
+
+PT J
+DE Embodied conversational agents; Non-verbal communication; Robustness;
+   Comparative evaluation; Spoken dialogue system; Voice authentication;
+   Speaker verification; Gesture design
+ER
+
+PT J
+ID METASTATIC BREAST-CANCER; ADVANCED ESOPHAGOGASTRIC CANCER; ADJUVANT
+   CHEMOTHERAPY; GENE AMPLIFICATION; 1ST-LINE THERAPY; SUPPORTIVE CARE; III
+   TRIAL; PLUS; HER2; FLUOROURACIL
+ER
+
+PT J
+ID SERUM URIC-ACID; SGLT2 INHIBITOR; METABOLIC SYNDROME; CLINICAL-TRIALS;
+   RISK-FACTORS; MELLITUS; THERAPY; ASSOCIATION; MONOTHERAPY; ADJUSTMENT
+ER
+
+PT J
+ID CISPLATIN PLUS GEMCITABINE; III TRIAL; CHEMOTHERAPY; THERAPY;
+   CARBOPLATIN; PACLITAXEL; BEVACIZUMAB; COMBINATION; INSTITUTE; DURATION
+ER
+
+PT J
+DE iPod (TM); Driving simulator; Distraction; Eye movement; Attention;
+   Music retrieval systems
+ID DRIVING SIMULATOR; RISK AWARENESS; EXPERIENCE; DRIVERS
+ER
+
+PT J
+ID PITTSBURGH COMPOUND-B; CEREBROSPINAL-FLUID; FOLLOW-UP; CLINICAL-TRIALS;
+   RATING-SCALE; BRAIN; IMMUNIZATION; BINDING; PROTEIN; PATHOLOGY
+ER
+
+PT J
+ID DENSITY-LIPOPROTEIN CHOLESTEROL; TRIGLYCERIDE TRANSFER PROTEIN;
+   CORONARY-HEART-DISEASE; LIVER-DISEASE; ANTISENSE; SIMVASTATIN; STATINS;
+   EZETIMIBE; APHERESIS; EFFICACY
+ER
+
+PT J
+ID APRIL-AUGUST 2009; UNITED-STATES; VIRUS; IMMUNOGENICITY; TRANSMISSION;
+   PATHOGENESIS; INFECTION; FERRETS; ADULTS
+ER
+
+PT B
+ER
+
+PT S
+DE Intelligent Tutoring System; Conversational Agent; Learning Style
+ID STUDENTS; DIALOGUE
+ER
+
+PT J
+ID ANIMATED PEDAGOGICAL AGENTS; PART I; ENVIRONMENTS; DESIGN; RECOGNITION;
+   EDUCATION; LANGUAGE; FEATURES; SCIENCE; MODELS
+ER
+
+PT S
+DE Multimodal interfaces; verbal communication; stress; cognitive load;
+   physiological measurements; qualitative evaluations
+ER
+
+PT B
+DE Expert system; Conversational agent; Knowledge engineering; Knowledge
+   tree; Bullying; Harassment
+ER
+
+PT B
+DE Interactive Genetic Programming; Conversational Agent; Evolutionary
+   Algorithm; Dialogue System; Natural Language Generation
+ID LANGUAGE GENERATION
+ER
+
+PT S
+DE Virtual humans; embodied agents; display comparison; medical education;
+   immersive virtual environments
+ER
+
+PT S
+ID FEEDBACK
+ER
+
+PT S
+DE Embodied Conversational Agents; Companion; Affective Dialogue;
+   Conversational Dialogue; Interruptions; Interaction Strategies
+ID FEEDBACK
+ER
+
+PT S
+DE Virtual Humans; Intelligent Agent Authoring Tools; motivational
+   strategies; persuasive technology; virtual patients; leaderboards;
+   narratives; deadlines
+ER
+
+PT B
+DE Human Robot Interaction; Intuitive Interface; Biomimetic Sensing;
+   Robotic Flower; Smart Home
+ER
+
+PT J
+ID RELATIONAL AGENTS; WORKING ALLIANCE; ADULTS; INTERVENTIONS; PROGRAM;
+   IMPACT
+ER
+
+PT J
+ID TREATMENT-NAIVE PATIENTS; INTEGRASE INHIBITOR RALTEGRAVIR; SOCIETY-USA
+   PANEL; COMBINATION THERAPY; ANTIRETROVIRAL THERAPY; DAILY
+   LOPINAVIR/RITONAVIR; MYOCARDIAL-INFARCTION; 2008 RECOMMENDATIONS;
+   SAFETY; EFFICACY
+ER
+
+PT J
+DE Academic libraries; Public libraries; Canada; Intelligent agents; User
+   interfaces; Information retrieval
+ER
+
+PT S
+DE Service robots; Interactive robots; Mass collaboration; User interface
+ER
+
+PT S
+DE visual analytics; natural language processing; conversational interface;
+   automatic visualization
+ER
+
+PT S
+DE Metaphor; affect detection; context and character profiles
+ER
+
+PT J
+ID ACUTE CORONARY SYNDROMES; GLYCOPROTEIN IIB/IIIA BLOCKADE;
+   CLINICAL-OUTCOMES; BLOOD-TRANSFUSION; ACUITY TRIAL; ANTIPLATELET
+   THERAPY; IMPACT; ABCIXIMAB; INTERVENTION; RISK
+ER
+
+PT J
+ID INTEGRASE INHIBITOR RALTEGRAVIR; ANTIRETROVIRAL DRUG-RESISTANCE;
+   NEUROPSYCHIATRIC ADVERSE EVENTS; SOCIETY-USA PANEL; 2008
+   RECOMMENDATIONS; PHASE-II; PREVALENCE; TRANSMISSION; REPLICATION;
+   NEVIRAPINE
+ER
+
+PT J
+ID RENAL VASODILATION; CONSCIOUS RATS; PREGNANCY HORMONE; CLINICAL-TRIALS;
+   PEPTIDE; HYPERFILTRATION; HEMODYNAMICS; ANTAGONIST; ENDOTHELIN;
+   TEZOSENTAN
+ER
+
+PT J
+DE cellular phone; SMS; text messaging; wireless; outcomes of care; process
+   of care
+ID RANDOMIZED CONTROLLED-TRIAL; SHORT-MESSAGE SERVICE; TYPE-2
+   DIABETIC-PATIENTS; PHYSICAL-ACTIVITY; MOBILE PHONES; TEXT; INTERVENTION;
+   TECHNOLOGY; TELEPHONE; INTERNET
+ER
+
+PT J
+ID COLLAGEN-INDUCED ARTHRITIS; RHEUMATOID-ARTHRITIS; JOINT DESTRUCTION;
+   EFFICACY; SAFETY; INFLAMMATION; ADALIMUMAB; THERAPY; DISEASE; IL-17
+ER
+
+PT J
+ID ORAL ANTIPLATELET THERAPY; DRUG-ELUTING STENTS; PLATELET INHIBITION;
+   UNCOATED STENTS; ASPIRIN; ANGIOPLASTY; TICLOPIDINE; ABCIXIMAB; DISEASE;
+   SAFETY
+ER
+
+PT S
+DE dialog systems; artificial intelligence; human-computer interaction;
+   software evaluation
+ER
+
+PT B
+ID ECONOMICS; FINANCE
+ER
+
+PT S
+DE NLP; Dialogue Systems; Telemedicine; Hypertension
+ER
+
+PT S
+DE telephony control; Lithuanian voice commands recognition
+ER
+
+PT S
+DE Speech; Spoken Dialog Interface; Usability; Usability Evaluation;
+   Auditory User Interface; Human Computer Interaction; Accessibility;
+   Computer Mediated Communication
+ID PARADISE
+ER
+
+PT S
+DE Multimodal Corpora; Embodied Conversational Agents; Cultural Usability
+ID NONVERBAL BEHAVIOR
+ER
+
+PT S
+DE Embodied Conversational Agents; Cultural Heuristics; Multimodal
+   Interaction
+ID ENGAGEMENT
+ER
+
+PT S
+ER
+
+PT S
+DE Synthetic interview; Physics Pathway; physics pedagogy; physics
+   education
+ER
+
+PT S
+ID 2ND LIFE
+ER
+
+PT S
+DE Virtual Humans; Agents and Intelligent Systems; Human-centered
+   Computing; Distributed Knowledge Acquisition; End-user Programming
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT J
+DE Personal Assistants; Embodied Conversational Assistants; CSCW;
+   Ontologies
+ID GROUPWARE; SYSTEM
+ER
+
+PT J
+ID OVER-EXPRESSION; NATURAL-HISTORY; CANCER; EPIDEMIOLOGY; GUIDELINES;
+   THERAPIES; PROGNOSIS; CIRRHOSIS; TUMORS; JAPAN
+ER
+
+PT S
+ID ADAPTATION; LANGUAGE; ALGEBRA
+ER
+
+PT J
+DE embodied conversational agents; innovative research methods; evaluation;
+   embodiment; human-technology-interaction
+ID VIRTUAL ENVIRONMENTS; NONVERBAL BEHAVIOR; INTERFACE AGENTS; PERCEPTION
+ER
+
+PT J
+ID EYE-MOVEMENTS; LISTENERS
+ER
+
+PT J
+DE creativity; evaluation; interface design; user behaviour; music
+ID INPUT DEVICES
+ER
+
+PT J
+ID ADVANCED SOLID TUMORS; MAMMALIAN TARGET; CLINICAL-TRIALS;
+   INTERFERON-ALPHA; KIDNEY CANCER; INHIBITOR; PATHWAYS; ONCOLOGY; MTOR
+ER
+
+PT J
+DE multimodality; autism; design; animated conversational agent; facial
+   expression; training
+ID ASPERGER-SYNDROME; EXECUTIVE DYSFUNCTION; NORMAL-CHILDREN; ADULTS;
+   VOCABULARY
+ER
+
+PT J
+ID CONTINUOUS INTRAVENOUS EPOPROSTENOL; BRAIN NATRIURETIC PEPTIDE;
+   PLACEBO-CONTROLLED TRIAL; PROSTACYCLIN ANALOG; INHALED ILOPROST;
+   THERAPY; SURVIVAL; DISEASE; SITAXSENTAN; SILDENAFIL
+ER
+
+PT J
+ID CYTOKINE; IL23R; SKIN; KERATINOCYTES; PATHOGENESIS; ASSOCIATION;
+   DERMATOLOGY; EXPRESSION; THERAPIES; DISORDER
+ER
+
+PT J
+ID PLAQUE PSORIASIS; PATHOGENESIS; THERAPY; IL-12
+ER
+
+PT J
+ID RECEIVING CONCOMITANT METHOTREXATE; CARDIOVASCULAR RISK-FACTORS;
+   COLLEGE-OF-RHEUMATOLOGY; ACUTE-PHASE REACTANTS; LIPID PROFILE;
+   MONOCLONAL-ANTIBODY; INFLIXIMAB THERAPY; ACTIVITY SCORE; DISEASE;
+   VALIDATION
+ER
+
+PT S
+DE Dialogue systems; formal language theory; grammar systems
+ER
+
+PT B
+ER
+
+PT S
+ID MODEL
+ER
+
+PT S
+DE natural language processing; humor; jokes; Japanese puns; pun generator;
+   non-task oriented conversational system
+ER
+
+PT B
+DE Speech interface; dialog systems; assistant agents; ontology;
+   conversational interfaces
+ER
+
+PT B
+ER
+
+PT B
+DE Automatic processing of social media; discourse analysis
+ER
+
+PT S
+DE Affordances; Conversational Interactions; Multimodal QA systems;
+   Usability Inspection; Cognitive Walkthrough
+ID DESIGN
+ER
+
+PT S
+DE emotional and social interaction; situated cognition; embodied
+   conversational agents; virtual therapy
+ER
+
+PT B
+DE H.5.2 [information interfaces and presentation]: user interfaces;
+   interaction styles; 1.3.6 [computer graphics]: methodology and
+   techniques; interaction techniques
+ER
+
+PT B
+DE conversational systems; natural language interface; user interface;
+   semantic web; ontology; email
+ER
+
+PT S
+DE Conversational engagement; eye-gaze; conversational agents
+ER
+
+PT S
+ER
+
+PT B
+DE spoken dialogue systems; multimodality; software architectures; physical
+   agent interfaces
+ID SYSTEMS; ARCHITECTURE
+ER
+
+PT S
+DE theory of mind; embodied conversational agents;
+   human-computer-interaction; perspective taking; common ground
+ID CONVERSATIONAL AGENTS; PERSPECTIVE-TAKING; REPRESENTATIONS; KNOWLEDGE;
+   INTERFACE; IMITATION; OTHERS; SELF
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT B
+DE personal assistants; animated agents; CSCW; knowledge management;
+   ontology
+ER
+
+PT B
+DE eye tracking; embodied conversational agents; Second Life
+ER
+
+PT J
+ID COLLAGEN
+ER
+
+PT J
+DE visual feedback; head gesture recognition; contextual information;
+   context-based recognition
+ID DISCOURSE
+ER
+
+PT J
+DE Embodied conversational agent; Distributed system; User interface;
+   Non-verbal interaction
+ER
+
+PT J
+ID PERSPECTIVE-TAKING; INDIRECT REPLIES; COMPREHENSION; PREFERENCE;
+   KNOWLEDGE; COMMUNICATION; ORGANIZATION; TEXT
+ER
+
+PT B
+DE spoken dialogue systems; multi-layer architectures; conversational
+   interfaces
+ER
+
+PT B
+DE Spoken dialog system; assistive robotics
+ER
+
+PT B
+DE Enhanced TV; Interactive TV; Conversational Avatars; Active Ageing;
+   Ambient Assisted Living; Elderly People; Cognitively Impaired People
+ER
+
+PT B
+DE embodied conversational agent; distributed system; blackboard; user
+   interface; Croatian speech recognition; Croatian speech synthesis
+ER
+
+PT S
+ER
+
+PT J
+DE conversational agents; pattern matching; semantic Bayesian networks;
+   user interface; mixed-initiative interaction
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+DE conversational systerns; Natural Language Interface; semantic web;
+   ontology; email
+ER
+
+PT B
+ER
+
+PT B
+DE conversational interfaces; intelligent interfaces; kiosk; RFID; embodied
+   conversational agent (ECA); information systems
+ER
+
+PT B
+DE Recommender systems; example-critiquing interfaces; personalized search
+ER
+
+PT S
+ER
+
+PT S
+DE in-car systems; emotion recognition; emotional responses; driving
+   simulator; affective computing; speech recognition
+ER
+
+PT S
+ID DIALOGUE; LANGUAGE
+ER
+
+PT S
+DE interruption; disruption; recovery; conversation; cognitive models
+ER
+
+PT S
+DE conversational agents; natural language; SQL
+ER
+
+PT J
+DE spoken dialogue system; personal medical advisor; prescription
+   compliance; artificial intelligence
+ER
+
+PT J
+DE chatterbots; conversational agents; domestic appliances; natural
+   language interfaces; smart house; servants; Turing test
+ER
+
+PT J
+ER
+
+PT J
+DE recommender systems; collaborative recommendations; diversity
+ER
+
+PT B
+ER
+
+PT S
+DE embodied conversational agents; talking faces; audiovisual speech
+   synthesis; face-to-face interaction
+ID SOCIAL ATTENTION; PERCEPTION; DIRECTION; EYES; MIND
+ER
+
+PT S
+ER
+
+PT J
+DE Personal Advisor; Embodied Conversational Agents; M-learning;
+   Multiagent-Systems; Virtual Universities
+ID AGENTS
+ER
+
+PT S
+ER
+
+PT B
+DE Natural Language Processing (NLP); Artificial Intelligence (AI);
+   question answering (QA) system; embodied conversational agent (ECA)
+ER
+
+PT S
+ID CONVERSATION
+ER
+
+PT B
+DE dialog systems; cognitive load; robustness
+ER
+
+PT B
+DE Spoken dialog management; voice user interface design; natural language
+   understanding; technical support problem resolution; discourse analysis
+ER
+
+PT J
+ID EXPRESSIONS
+ER
+
+PT S
+DE interactive digital storytelling; authoring; transition graph;
+   conversational storytelling; visualization of dialogues
+ER
+
+PT J
+DE embodied conversational agents; multi-party communication
+ER
+
+PT J
+ER
+
+PT B
+DE facial animation; usability analysis
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT B
+DE conversational interaction; spoken dialogue systems
+ER
+
+PT J
+DE intelligent tutoring systems; spoken dialogue; reflective tutoring;
+   multimodality; speech technology
+ER
+
+PT S
+ID SUPPORT-SYSTEMS; GIS; CARTOGRAPHY
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ID INTERFACE AGENTS; COMPUTERS
+ER
+
+PT B
+ER
+
+PT S
+ID INFORMATION
+ER
+
+PT B
+DE knowledge visualization; persistence; conversations; conversational
+   tools; social visualization
+ID MANAGEMENT
+ER
+
+PT B
+DE speech interface; ontology; personal assistants
+ER
+
+PT S
+ID REALITY; ENVIRONMENTS
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT J
+DE virtual humans; embodied conversational agents; ambient intelligence;
+   smart environments; virtual reality
+ER
+
+PT J
+ER
+
+PT J
+DE facial animation; embodied conversational agents
+ID COMMUNICATION; EXPRESSIONS; INTONATION; MOVEMENT; LANGUAGE; SPEECH
+ER
+
+PT B
+ER
+
+PT B
+DE about four key words or phrases in alphabetical order; separated by
+   commas
+ER
+
+PT J
+DE spoken language processing; voice-active robot; conversational
+   interface; human-robot conversation; social robots
+ID SPEECH RECOGNITION
+ER
+
+PT S
+ID QUESTIONS; AGENTS; ASKING
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT J
+ER
+
+PT S
+ER
+
+PT B
+ID TECHNOLOGY; SUPPORT
+ER
+
+PT B
+DE embodied conversational agents; design; evaluation framework;
+   methodology
+ID INTERFACE; FEEDBACK
+ER
+
+PT B
+DE children's speech; animated software characters; conversational
+   interfaces; text-to-speech; audio interface design; science education;
+   educational software
+ID PERSONALITY; STUDENTS
+ER
+
+PT B
+DE conversational agents; evaluation; eCommerce.
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+DE conversational agents; speech interaction; mobile applications of
+   artificial intelligence
+ER
+
+PT S
+ER
+
+PT J
+DE dialogue; embodied conversational agent; small talk; social interface;
+   trust
+ER
+
+PT S
+ER
+
+PT S
+ID AGENTS
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT B
+ID AUGMENTED REALITY
+ER
+
+PT S
+ER
+
+PT J
+ID SIDE-BY-SIDE; COORDINATION; FOCUS; WORK
+ER
+
+PT B
+DE conversations; discussions; electronic mail; email; information
+   visualization; threads; tree structures; user interfaces
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT B
+ID RESPONSES
+ER
+
+PT S
+DE embodied conversational agent; chatterbot; affective computing;
+   visualization
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ID MODELS; USERS
+ER
+
+PT B
+DE sign language; lip reading; gesture; morphing; conversational interfaces
+ER
+
+PT J
+DE natural language; dialog; speech recognition; multilingual
+   conversational
+ER
+
+PT J
+DE eye movement synthesis; facial animation; statistical modeling;
+   saccades; HCI (Human-Computer Interface)
+ER
+
+PT J
+DE human factors; dialogue management; human computer interaction; language
+   generation; language understanding; speech recognition; speech synthesis
+ID TO-SPEECH TECHNIQUES; HUMAN-MACHINE; RECOGNITION; SYSTEM; TEXT;
+   SUBDIALOGUES; GENERATION; MODEL
+ER
+
+PT J
+DE automatic speech recognition for children; computer games;
+   conversational agents; human-computer interaction; multimedia
+   interfaces; multimodal systems; spoken dialogue systems
+ID SPEECH; INFORMATION; SYSTEM
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT B
+DE conversation; human-computer interaction; symbolic modeling; artificial
+   intelligence; computer games
+ER
+
+PT J
+ID FEEDBACK; AGENTS
+ER
+
+PT J
+ID FEEDBACK; GESTURES; HAND
+ER
+
+PT J
+ID REALITY
+ER
+
+PT J
+DE avatars; anthropomorphic interfaces; conversational interfaces; facial
+   animation; behavioral animation
+ER
+
+PT J
+DE Rea; embodied interface agent; communicative behavior; embodied
+   conversational agent
+ID AGENTS
+ER
+
+PT S
+ID APPRAISAL
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE conversational interfaces; speech understanding systems; spoken dialogue
+   systems
+ID SYSTEM
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT S
+DE multimodal conversational agents; personal service assistants;
+   human-computer interface; multi-agent systems
+ER
+
+PT J
+DE conversational interfaces; dialogue systems; speech understanding;
+   telephone-based speech recognition
+ID SYSTEM
+ER
+
+PT S
+ER
+
+PT J
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+EF

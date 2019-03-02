@@ -1,0 +1,230 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,silicon photonics,68,silicon photonics,167
+1,integrated photonics,9,integrated photonics,23
+2,microwave photonics,8,integrated optics,20
+3,integrated optics,7,silicon,20
+4,silicon,7,optical,19
+5,optical,6,microwave photonics,17
+6,optical interconnects,5,cmos,13
+7,nonlinear optics,5,nonlinear optics,12
+8,cmos,4,modulator,12
+9,optoelectronics,4,modulators,12
+10,modulators,4,germanium,11
+11,nanophotonics,3,optoelectronics,11
+12,photonic integrated circuits,3,optical interconnects,10
+13,germanium,3,nanophotonics,8
+14,photonics,3,detector,8
+15,hybrid integration,3,photonics,8
+16,modulator,3,foundry,7
+17,optical interconnect,3,photonic,7
+18,foundry,2,photonic integrated circuits,7
+19,photonic,2,hybrid integration,7
+20,detector,2,cmos photonics,7
+21,monolithic integration,2,monolithic integration,6
+22,integrated optoelectronics,2,ring resonator,6
+23,waveguides,2,multi-project wafer,6
+24,silicon modulators,2,silicon-on-insulator,6
+25,optical coupling,2,waveguides,5
+26,wafer bonding,2,silicon-plus,5
+27,ring resonator,2,hybrid,5
+28,semiconductor lasers,2,plsamonic,5
+29,multi-project wafer,2,photodetector,5
+30,optical modulator,2,graphene,5
+31,photonic integration,2,optical interconnect,5
+32,silicon-on-insulator,2,multiproject wafer (mpw),4
+33,cmos photonics,2,open-access,4
+34,optical device fabrication,1,silicon-plus photonics,4
+35,optical fiber communication,1,metal,4
+36,multiproject wafer (mpw),1,2d material,4
+37,open-access,1,networking,4
+38,platform,1,low latency,4
+39,integrated-circuit,1,reliable,4
+40,si,1,silicon modulators,4
+41,passive rf circuits,1,packaging,4
+42,low pass filters,1,test,4
+43,radio-over-fiber,1,probing,4
+44,heterogeneous integration,1,process automation,4
+45,bragg gratings,1,monolithic,4
+46,microwave,1,300mm,4
+47,integrated lasers,1,200mm,4
+48,microresonators,1,optical proximity,4
+49,non-volatile memory,1,optical coupling,4
+50,resonance trimming,1,wafer bonding,4
+51,microwave signal processing,1,mid-infrared,4
+52,photonic integrated circuit,1,sensor,4
+53,laser integration,1,optical modulator,4
+54,silicon-plus photonics,1,esd,4
+55,metal,1,bipolar transistor,4
+56,2d material,1,photonic integration,4
+57,stimulated brillouin scattering,1,tir switch,4
+58,laser,1,ion implanted,4
+59,optomechanical,1,waveguide,4
+60,nonlinear,1,lightwave circuit,4
+61,silicon nitride photonics,1,module,4
+62,propagation loss,1,40gb,4
+63,group index,1,silicon modulator,4
+64,group velocity,1,bragg gratings,3
+65,directional coupler,1,microwave,3
+66,wdm,1,integrated lasers,3
+67,interleaver,1,microresonators,3
+68,keywords microwave photonics,1,photonic integrated circuit,3
+69,photonic integrated,1,laser integration,3
+70,quantum optics,1,stimulated brillouin scattering,3
+71,electrooptic modulators,1,laser,3
+72,optical signal processing,1,optomechanical,3
+73,spectroscopy,1,nonlinear,3
+74,optical sensors,1,silicon nitride photonics,3
+75,networking,1,propagation loss,3
+76,low latency,1,group index,3
+77,reliable,1,group velocity,3
+78,silicon microwave photonics,1,directional coupler,3
+79,hyper-wideband rf,1,wdm,3
+80,data obfuscation,1,interleaver,3
+81,optical communications,1,integrated optoelectronics,3
+82,integrated photonic circuit,1,flip-chip integration,3
+83,flip-chip integration,1,flip-chip,3
+84,flip-chip,1,semiconductor lasers,3
+85,packaging,1,prototyping,3
+86,test,1,design kit,3
+87,probing,1,nanomechanics,3
+88,process automation,1,nano-optomechanics,3
+89,engineering education,1,3d integration,3
+90,monolithic,1,ge-pd,3
+91,300mm,1,optical receiver,3
+92,200mm,1,optical waveguides,3
+93,optical proximity,1,optical fiber,3
+94,silicon-plus,1,optical circuits,3
+95,hybrid,1,optical modulators,3
+96,plsamonic,1,wafer scale,3
+97,photodetector,1,photonics integration,3
+98,graphene,1,optical phased array,3
+99,optical interconnection,1,beam,3
+100,optica transceiver,1,multi-project wafers,3
+101,optical chip scale package,1,technology platform,3
+102,quantum dot lasers,1,manufacturing,3
+103,optical switch,1,multi-project wafer (mpw),3
+104,mid-infrared,1,microelectronics,3
+105,sensor,1,sensors,3
+106,integrated optics devices,1,microsystems,3
+107,multi-core fiber,1,mid-ir,3
+108,optical transceivers,1,multiplexers,3
+109,prototyping,1,mach-zehnder,3
+110,design kit,1,mpw run,3
+111,nanomechanics,1,optical integration,3
+112,nano-optomechanics,1,waveguide devices,3
+113,3d integration,1,absorption spectroscopy,3
+114,ge-pd,1,fluorescence,3
+115,optical receiver,1,raman,3
+116,esd,1,chirp,3
+117,bipolar transistor,1,linearized modulator,3
+118,optical waveguides,1,l-ramzi modulator,3
+119,conversion,1,phased array,3
+120,heterogeneous silicon platform,1,four-wave mixing,3
+121,optical transceiver,1,fiber optics,3
+122,optical fiber,1,grating,3
+123,advance modulation formats,1,phase shifter,3
+124,coherent subsystem,1,siliconphotonics,3
+125,intensity modulation and,1,integration,3
+126,integrated silicon photonics,1,nanofabrication,3
+127,photonic networks-on-chip,1,telecommunication,3
+128,dependability,1,photonics integrated circuit,3
+129,integrated optics optical communications,1,photodiode,3
+130,guided waves,1,and,3
+131,biophotonics,1,detectors,3
+132,optical circuits,1,manufacturing cost,3
+133,optical modulators,1,100 gigabit ethernet,3
+134,wafer scale,1,iii-v,3
+135,photonics integration,1,optical routing,3
+136,optical phased array,1,plasmonics,3
+137,beam,1,grating couplers,3
+138,silicon-oxynitride waveguide,1,photodetectors,3
+139,photonic-integrated,1,silicon plasmonics,3
+140,on-chip spectrophotometer,1,plasmonics junctions,3
+141,optical crossconnect swicthes,1,on-chip,3
+142,photonics integrated,1,silicon-on-sapphire,3
+143,multi-project wafers,1,porous silicon,3
+144,technology platform,1,analog and,3
+145,silicon photonics calculator,1,optical waveguide,3
+146,silicon photonics simulation,1,cmos technology,3
+147,metal-semiconductor field-effect transistor,1,two photon,3
+148,design,1,oadm,3
+149,manufacturing,1,microring resonators,3
+150,multi-project wafer (mpw),1,polarization splitters,3
+151,microelectronics,1,photonics alliance,3
+152,sensors,1,standards,3
+153,microsystems,1,continuum generation,3
+154,mid-ir,1,erbium-doped silicon,3
+155,fiber,1,optical device fabrication,2
+156,transmission,1,optical fiber communication,2
+157,germanium photodetectors,1,platform,2
+158,multiplexers,1,integrated-circuit,2
+159,mach-zehnder,1,si,2
+160,mpw run,1,passive rf circuits,2
+161,arbitrary waveform generation,1,low pass filters,2
+162,semiconductor nanomembrane (nm),1,radio-over-fiber,2
+163,vertical-cavity,1,heterogeneous integration,2
+164,optical integration,1,non-volatile memory,2
+165,waveguide devices,1,resonance trimming,2
+166,absorption spectroscopy,1,microwave signal processing,2
+167,fluorescence,1,keywords microwave photonics,2
+168,raman,1,photonic integrated,2
+169,flip-chip bonding,1,electrooptic modulators,2
+170,chirp,1,optical signal processing,2
+171,linearized modulator,1,spectroscopy,2
+172,l-ramzi modulator,1,optical sensors,2
+173,phased array,1,silicon microwave photonics,2
+174,four-wave mixing,1,hyper-wideband rf,2
+175,fiber optics,1,data obfuscation,2
+176,grating,1,optical communications,2
+177,phase shifter,1,integrated photonic circuit,2
+178,siliconphotonics,1,engineering education,2
+179,integration,1,optical interconnection,2
+180,nanofabrication,1,optica transceiver,2
+181,telecommunication,1,optical chip scale package,2
+182,photonics integrated circuit,1,quantum dot lasers,2
+183,photodiode,1,optical switch,2
+184,and,1,multi-core fiber,2
+185,demultiplexers,1,optical transceiver,2
+186,high-speed,1,advance modulation formats,2
+187,germanium photodetector,1,coherent subsystem,2
+188,detectors,1,intensity modulation and,2
+189,manufacturing cost,1,integrated silicon photonics,2
+190,100 gigabit ethernet,1,photonic networks-on-chip,2
+191,iii-v,1,dependability,2
+192,hybrid integrated-circuit packaging,1,integrated optics optical communications,2
+193,optical routing,1,guided waves,2
+194,plasmonics,1,biophotonics,2
+195,nanotechnology,1,silicon-oxynitride waveguide,2
+196,grating couplers,1,photonic-integrated,2
+197,photodetectors,1,optical crossconnect swicthes,2
+198,silicon plasmonics,1,photonics integrated,2
+199,plasmonics junctions,1,silicon photonics calculator,2
+200,on-chip,1,silicon photonics simulation,2
+201,surface plasmon polariton,1,germanium photodetectors,2
+202,metallic slot waveguides,1,arbitrary waveform generation,2
+203,co-directional,1,semiconductor nanomembrane (nm),2
+204,silicon-on-sapphire,1,vertical-cavity,2
+205,porous silicon,1,flip-chip bonding,2
+206,analog and,1,demultiplexers,2
+207,special issues and sections,1,high-speed,2
+208,optical waveguide,1,germanium photodetector,2
+209,cmos technology,1,nanotechnology,2
+210,two photon,1,surface plasmon polariton,2
+211,silicon-on-insulator (soi),1,metallic slot waveguides,2
+212,oadm,1,co-directional,2
+213,microring resonators,1,special issues and sections,2
+214,polarization splitters,1,silicon-on-insulator (soi),2
+215,photonics alliance,1,complementary metal-oxide-semiconductor (cmos),2
+216,standards,1,fabrication,2
+217,tir switch,1,integrated,2
+218,ion implanted,1,quantum optics,1
+219,waveguide,1,integrated optics devices,1
+220,lightwave circuit,1,optical transceivers,1
+221,module,1,heterogeneous silicon platform,1
+222,40gb,1,on-chip spectrophotometer,1
+223,silicon modulator,1,metal-semiconductor field-effect transistor,1
+224,continuum generation,1,design,1
+225,erbium-doped silicon,1,fiber,1
+226,complementary metal-oxide-semiconductor (cmos),1,transmission,1
+227,fabrication,1,hybrid integrated-circuit packaging,1
+228,integrated,1,,

@@ -1,0 +1,226 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,biomechatronics,57,biomechatronics,172
+1,rehabilitation,5,biorobotics,17
+2,biorobotics,5,rehabilitation,16
+3,prosthesis,3,prosthesis,13
+4,electromyography (emg),3,hand,9
+5,rehabilitation robotics,3,biosensor,8
+6,rehabilitation robot,2,electromyography (emg),8
+7,biosensor,2,rehabilitation robotics,8
+8,myoelectric control,2,control,8
+9,prosthetics system,2,bionics,8
+10,prosthetics,2,conceptual design,8
+11,control,2,biomechatronic,8
+12,bionics,2,robotics,8
+13,design,2,swallowing,8
+14,robot control,2,food rheology,8
+15,artificial neural,2,food bolus,8
+16,electromyography,2,ophthalmology,8
+17,emg,2,accommodation,8
+18,hand,2,catheters,8
+19,conceptual design,2,microactuators,8
+20,upper limb,2,medical,8
+21,biological cells,2,prosthetics,7
+22,biomechatronic,2,electromyography,7
+23,robotics,2,emg,7
+24,swallowing,2,myoelectric control,6
+25,food rheology,2,design,6
+26,food bolus,2,robot control,6
+27,gait,2,artificial neural,6
+28,ophthalmology,2,gait,6
+29,accommodation,2,biomimetics,6
+30,biomimetics,2,cybernetic hand,6
+31,stroke,2,rehabilitation robot,5
+32,automation,2,prosthetics system,5
+33,cybernetic hand,2,ankle,5
+34,catheters,2,walking,5
+35,microactuators,2,metabolic,5
+36,medical,2,timing,5
+37,exoskeleton,1,upper limb,5
+38,active trunk support,1,biological cells,5
+39,control interfaces,1,stroke,5
+40,skeletal muscle,1,automation,5
+41,biopolymers,1,underactuation,5
+42,ca2+,1,biomimetic,5
+43,pneumatic actuators,1,skeletal muscle,4
+44,transportation,1,biopolymers,4
+45,powder,1,ca2+,4
+46,neural,1,slip prevention,4
+47,psychophysiology,1,tactile sensors,4
+48,human-robot interaction,1,limb prosthesis,4
+49,biocooperative,1,ipsc,4
+50,virtual normalization,1,cad,4
+51,robotic assessment,1,pluripotent stem cells,4
+52,motor,1,hesc cells,4
+53,rehabilitation engineering,1,stem cell banks,4
+54,premillinary,1,hubka-eder model,4
+55,robotic arm,1,pat,4
+56,performance evaluation,1,modelling,4
+57,phalangeal articulations,1,kinesiotherapy,4
+58,motion analysis,1,eeg sensor,4
+59,adaptive control,1,autonomous sensor,4
+60,hysteresis,1,load monitoring,4
+61,ionic polymer-metal composite (ipmc),1,strain sensor,4
+62,slip prevention,1,total,4
+63,tactile sensors,1,iol,4
+64,cubature information filter (cif),1,active implant,4
+65,ensemble kalman,1,orthosis,4
+66,biomedical systems,1,upper-limb,4
+67,transfemoral amputee,1,functional,4
+68,smart bio-leg,1,bio-locomotion,4
+69,upper extremities rehabilitation equipment,1,underwater robot,4
+70,lower extremities,1,undulating fins,4
+71,musculoskeletal system,1,modular,4
+72,human lower limbs,1,active-optics,4
+73,muscle groups,1,micro- and,4
+74,joint motion,1,fns,4
+75,medical device,1,fuzzy inference systems,4
+76,ultrasonic transducer,1,neuroprostheses,4
+77,biodiesel,1,tendon,4
+78,extraction,1,exoskeleton,3
+79,accelerometer,1,pneumatic actuators,3
+80,assistive healthcare,1,transportation,3
+81,biomedical,1,powder,3
+82,mems sensor,1,neural,3
+83,energy harvesting,1,virtual normalization,3
+84,zero power sensor,1,robotic assessment,3
+85,ankle,1,motor,3
+86,walking,1,premillinary,3
+87,metabolic,1,robotic arm,3
+88,timing,1,biomedical systems,3
+89,manipulators,1,transfemoral amputee,3
+90,spinal cord injury,1,smart bio-leg,3
+91,exoskeletons,1,musculoskeletal system,3
+92,instrumented crutches,1,human lower limbs,3
+93,assisted gait,1,muscle groups,3
+94,limb prosthesis,1,joint motion,3
+95,non-invasive control interface,1,ultrasonic transducer,3
+96,active movement-assistive devices,1,biodiesel,3
+97,end effectors,1,extraction,3
+98,patient rehabilitation,1,accelerometer,3
+99,ipsc,1,assistive healthcare,3
+100,cad,1,biomedical,3
+101,pluripotent stem cells,1,mems sensor,3
+102,patient satisfaction,1,energy harvesting,3
+103,anthropometrics in designing prosthesis,1,zero power sensor,3
+104,biomechatronics in prosthesis,1,manipulators,3
+105,principal,1,spinal cord injury,3
+106,fluidic microsystems,1,exoskeletons,3
+107,hydrodynamics,1,instrumented crutches,3
+108,electrical stimulation,1,assisted gait,3
+109,motor response,1,end effectors,3
+110,human wrist,1,patient rehabilitation,3
+111,biomechatronics design,1,patient satisfaction,3
+112,hybrid impedance control,1,principal,3
+113,finite state machines,1,fluidic microsystems,3
+114,research rehabilitation complex,1,hydrodynamics,3
+115,standing frame,1,electrical stimulation,3
+116,parallel robots,1,motor response,3
+117,artificial arms,1,human wrist,3
+118,3d and mirror visual,1,finite state machines,3
+119,biomedical manufacturing,1,parallel robots,3
+120,health care,1,artificial arms,3
+121,multi-disciplinary research,1,3d and mirror visual,3
+122,sensor technologies,1,spinal disorders,3
+123,force-feedback grasping,1,intelligent measurement,3
+124,spinal disorders,1,magnetic,3
+125,intelligent measurement,1,series damping actuator,3
+126,magnetic,1,above knee prosthesis,3
+127,hesc cells,1,control system,3
+128,stem cell banks,1,sport,3
+129,hubka-eder model,1,wireless sensors,3
+130,pat,1,controller design,3
+131,series damping actuator,1,powered prosthesis,3
+132,above knee prosthesis,1,sloped walking,3
+133,control system,1,hexapod robot,3
+134,multigrasp prosthesis,1,six-legged walking,3
+135,modelling,1,compliant joint,3
+136,kinesiotherapy,1,elastic actuation,3
+137,eeg sensor,1,hopping robots,3
+138,sport,1,real-time control,3
+139,wireless sensors,1,gait analysis,3
+140,autonomous sensor,1,impedance control,3
+141,load monitoring,1,mechanical system,3
+142,strain sensor,1,capsular endoscopy,3
+143,total,1,endoluminal surgery,3
+144,controller design,1,mechatronics,3
+145,powered prosthesis,1,transdisciplinarity,3
+146,sloped walking,1,educational paradigm,3
+147,transradial prosthetics,1,reflexive,3
+148,body powered prosthetics,1,biomechanics,3
+149,pressure distribution,1,mechatronic design philosophy,3
+150,hexapod robot,1,gripper,3
+151,six-legged walking,1,fish robot,3
+152,compliant joint,1,central pattern generator,3
+153,elastic actuation,1,swimming,3
+154,tele-operation,1,crawling,3
+155,human-machine interface,1,hand prostheses,3
+156,hopping robots,1,neural interfaces,3
+157,real-time control,1,neuro-rehabititation,3
+158,gait analysis,1,education,3
+159,impedance control,1,curriculum,3
+160,mechanical system,1,team - work student projects,3
+161,capsular endoscopy,1,neuro-robotics,3
+162,endoluminal surgery,1,bioinspired sensors,3
+163,flexible manipulators and structures,1,laboratory automation,3
+164,motion vibration,1,microfluidics,3
+165,mechatronics,1,sample,3
+166,transdisciplinarity,1,compliant joints,3
+167,educational paradigm,1,under-actuation,3
+168,reflexive,1,minimally invasive surgery,3
+169,iol,1,breast cancer,3
+170,active implant,1,mammotome,3
+171,hybrid robot control architectures,1,biomedical robotics,3
+172,insect navigation,1,neurorehabilitation,3
+173,biomechanics,1,biomechanical,3
+174,mechatronic design philosophy,1,neural interface,3
+175,gripper,1,prosthetic hand,3
+176,orthosis,1,automatic motion control,3
+177,upper-limb,1,bio-mechatronics,3
+178,functional,1,micro actuator,3
+179,fish robot,1,micro,3
+180,central pattern generator,1,actuators,3
+181,swimming,1,computer control,3
+182,crawling,1,active trunk support,2
+183,bio-locomotion,1,control interfaces,2
+184,underwater robot,1,psychophysiology,2
+185,undulating fins,1,human-robot interaction,2
+186,modular,1,biocooperative,2
+187,active-optics,1,rehabilitation engineering,2
+188,micro- and,1,performance evaluation,2
+189,hand prostheses,1,phalangeal articulations,2
+190,neural interfaces,1,motion analysis,2
+191,neuro-rehabititation,1,adaptive control,2
+192,microelectromechanical devices,1,hysteresis,2
+193,education,1,ionic polymer-metal composite (ipmc),2
+194,curriculum,1,cubature information filter (cif),2
+195,team - work student projects,1,ensemble kalman,2
+196,assessment scales,1,medical device,2
+197,computerized analysis,1,biomechatronics design,2
+198,neuro-robotics,1,hybrid impedance control,2
+199,bioinspired sensors,1,research rehabilitation complex,2
+200,fns,1,standing frame,2
+201,fuzzy inference systems,1,biomedical manufacturing,2
+202,neuroprostheses,1,health care,2
+203,tendon,1,multi-disciplinary research,2
+204,laboratory automation,1,sensor technologies,2
+205,microfluidics,1,force-feedback grasping,2
+206,sample,1,multigrasp prosthesis,2
+207,compliant joints,1,transradial prosthetics,2
+208,under-actuation,1,body powered prosthetics,2
+209,minimally invasive surgery,1,pressure distribution,2
+210,breast cancer,1,tele-operation,2
+211,mammotome,1,human-machine interface,2
+212,underactuation,1,flexible manipulators and structures,2
+213,biomimetic,1,motion vibration,2
+214,biomedical robotics,1,hybrid robot control architectures,2
+215,neurorehabilitation,1,insect navigation,2
+216,biomechanical,1,microelectromechanical devices,2
+217,neural interface,1,assessment scales,2
+218,prosthetic hand,1,computerized analysis,2
+219,automatic motion control,1,upper extremities rehabilitation equipment,1
+220,bio-mechatronics,1,lower extremities,1
+221,micro actuator,1,non-invasive control interface,1
+222,micro,1,active movement-assistive devices,1
+223,actuators,1,anthropometrics in designing prosthesis,1
+224,computer control,1,biomechatronics in prosthesis,1

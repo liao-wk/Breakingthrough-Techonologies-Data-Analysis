@@ -1,0 +1,710 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE apple leaves; carbendazim; dissipation kinetics; QuEChERS;
+   thiophanate-methyl
+ID TANDEM MASS-SPECTROMETRY; SOLID-PHASE EXTRACTION; PESTICIDE-RESIDUES;
+   RAPID-DETERMINATION; SAMPLE PREPARATION; CONSUMING APPLES;
+   RISK-ASSESSMENT; TRACE-LEVEL; HALF-LIVES; LIQUID
+ER
+
+PT J
+DE Apple; Media ecology; Circular economy; attention economy
+ER
+
+PT J
+DE credit card; Apple Pay; blockchain; media history; economic history;
+   standardization; infrastructure
+ER
+
+PT J
+DE conspicuous consumption; consumer; social desirability; social status;
+   vignette
+ID WILLINGNESS-TO-PAY; CONSPICUOUS CONSERVATION; CHOICE EXPERIMENT; FIELD
+   EXPERIMENT; CONSUMPTION; CONSUMER; BEHAVIOR; GREEN; PREFERENCES;
+   ATTITUDES
+ER
+
+PT J
+DE Communitarian ethics; Corporate rights; National security; Privacy;
+   Stakeholder theory; Amatai Etzioni
+ER
+
+PT J
+DE Fintech; mobile payment service; Apple Pay; Samsung Pay; strategic
+   alliance
+ID EXPLOITATION; EXPLORATION; PERFORMANCE; RESOURCES; PLATFORM; GROWTH;
+   MARKET
+ER
+
+PT J
+DE evaluation; hypertension; mobile apps; smartphone
+ID BLOOD-PRESSURE; MEDICATION ADHERENCE; HEALTH APPS; TRIAL; ENGAGEMENT;
+   AMERICAN; PATTERNS; TOOL
+ER
+
+PT J
+DE Food choice behavior; hedonic; intensity stimuli; willingness to pay
+ID WILLINGNESS-TO-PAY; QUALITY; SCIENCE; TASTE
+ER
+
+PT J
+DE Prospect theory; GDP; Corruption Perceptions Index/CPI; Satisfaction;
+   Corporate ethical values; International; Cross-cultural; Global economic
+   pyramid; Behavioral economics; Economists/psychologist
+ID TRAIT EMOTIONAL INTELLIGENCE; EXTRINSIC JOB-SATISFACTION; WORK-RELATED
+   ATTITUDES; MONEY ETHIC SCALE; PAY SATISFACTION; UNETHICAL BEHAVIOR;
+   ORGANIZATIONAL RESEARCH; MEASUREMENT INVARIANCE; INTRINSIC MOTIVATION;
+   UNIVERSITY-STUDENTS
+ER
+
+PT J
+DE Bilinear pairing; certificateless signature; mobile payment; security;
+   smart contract
+ID SIGNATURES
+ER
+
+PT J
+DE Ambidextrous activities; user feedback; Internet
+ID MEDIUM-SIZED ENTERPRISES; RESOURCE-BASED VIEW; ORGANIZATIONAL
+   AMBIDEXTERITY; EXPLOITATION; EXPLORATION; PERFORMANCE; PRODUCT;
+   ANTECEDENTS; MANAGEMENT; INNOVATION
+ER
+
+PT J
+DE Genetic resources; willingness to pay; BDM auctions; traditional
+   varieties; experimental economics
+ID WILLINGNESS-TO-PAY; IN-STORE VALUATION; HEDONIC ANALYSIS; ECOSYSTEM
+   SERVICES; FOOD-PRODUCTS; INFORMATION; PREFERENCES; QUALITY; SAFETY;
+   MARKET
+ER
+
+PT J
+DE Consumer; organic; unobserved preference heterogeneity; organic market
+   demand
+ID CHOICE EXPERIMENT; MIXED LOGIT
+ER
+
+PT J
+DE CHAID analyses; cluster analysis; customer behavior; functional food;
+   red-fleshed apple
+ID FUNCTIONAL FOODS; CLUSTER-ANALYSIS; PERCEIVED HEALTHINESS; POLYPHENOLIC
+   COMPOUNDS; CONJOINT-ANALYSIS; ATTRIBUTES; PREFERENCE; ATTITUDES;
+   SEGMENTATION; QUALITY
+ER
+
+PT J
+DE Consumer; Choice experiment; Apple; Fruit attribute; Producer
+ID WILLINGNESS-TO-PAY; MULTINOMIAL LOGIT MODEL; CONSUMER PREFERENCES;
+   CHOICE EXPERIMENT; QUALITY CHARACTERISTICS; TRAIT PRIORITIZATION;
+   HEDONIC ANALYSIS; DECISION-MAKING; MIXED LOGIT; HOUSEHOLDS
+ER
+
+PT J
+DE Willingness to pay; Elicitation methods; Blind tasting; Traditional
+   varieties; Fruit
+ID SENSORY PERCEPTION; HEDONIC ANALYSIS; WINE MARKET; EXPECTATIONS;
+   QUALITY; PRODUCTS; LIKING; PREFERENCE; VALUATION; PURCHASE
+ER
+
+PT J
+DE Jailbreak; Demand estimation; Smartphones; App demand
+ID SALES DISPLACEMENT; RECORD SALES; PIRACY; DEMAND; CHOICE
+ER
+
+PT J
+ER
+
+PT J
+DE China; Consumer; Information; Food traceability system; Willingness to
+   pay
+ID TO-PAY; EXPERIMENTAL AUCTION; QUALITY; BEEF; ORIGIN; SAFETY; US;
+   PREFERENCES; CHOICE; LABEL
+ER
+
+PT J
+DE advertising; Greimas; linguistic message; semiotic matrix; slogan
+ER
+
+PT J
+DE rosaceous fruits; willingness to pay; choice experiments; quality
+   attributes
+ID SWEET CHERRY; SENSORY EVALUATION; QUALITY; PREFERENCES; PRIORITIZATION;
+   ATTRIBUTES; VARIETIES; CULTIVARS
+ER
+
+PT B
+DE Near infrared spectroscopy; ISOMAP; BP neural network; GRNN
+ID SOLUBLE SOLIDS CONTENT; PREDICTING FIRMNESS; QUALITY; FRUIT;
+   PREFERENCES; STORAGE
+ER
+
+PT B
+DE Human Body Communication; electric field type NEC; electric near field;
+   user interface (UI); wearable ID tag
+ER
+
+PT J
+DE Flow experience; Unified theory of acceptance and usage of technology;
+   Apple pay; Users' continuance intention
+ID INFORMATION-TECHNOLOGY USAGE; ACCEPTANCE MODEL; BEHAVIOR
+ER
+
+PT J
+DE logo recall; logo recognition; Apple; brand exposure; brand perception;
+   minimalism
+ID GENDER-DIFFERENCES; MEMORY; ATTENTION
+ER
+
+PT S
+DE EMV; Apple Pay; NFC; tokenization
+ER
+
+PT J
+DE Low temperature; Apple rootstock; Photosynthetic capacity; Root
+   activity; Rhizospheric microorganism
+ID NITROGEN UPTAKE; SOIL; SEASON; WINTER; WATER
+ER
+
+PT J
+DE Mobile apps; demand function; network value; willingness to pay
+ID WORD-OF-MOUTH; APP MARKET; EXPECTATIONS; COMPETITION; STRATEGY; REVIEWS;
+   DUOPOLY; IMPACT; SALES; USAGE
+ER
+
+PT J
+DE Deviance; Team performance; Negative affect; Bad apple; Loafing
+ID COUNTERPRODUCTIVE WORK BEHAVIORS; INDIVIDUAL-DIFFERENCES;
+   GROUP-PERFORMANCE; GROUP COHESION; NEGATIVE MOOD; BARREL; IMPACT;
+   PERSONALITY; DEVIANCE; SPOIL
+ER
+
+PT J
+DE Internet of Things; information security; safety threats; software;
+   operating systems; logistics of things; ZigBee; Apple Pay; Tesla
+ER
+
+PT J
+DE Eye-tracking; nutrition information; willingness to pay
+ID EYE-TRACKING; VISUAL-ATTENTION; TIME PRESSURE; CONSUMERS; FOOD; CHOICE;
+   FIXATIONS; AUCTIONS; BEHAVIOR; LOGO
+ER
+
+PT J
+DE Selection bias; Organic farming; Apple farmers; Information acquisition;
+   Willingness to adopt
+ER
+
+PT J
+ID PHYSICAL-ACTIVITY; SMARTPHONE; APPS
+ER
+
+PT J
+DE Apple Pay; digital wallets; Illusion or Financial Revolution; USA and
+   Mexico
+ER
+
+PT J
+DE mobile payment systems; biometrics-based authentication; mobile devices;
+   wearable devices; secret splitting
+ER
+
+PT J
+DE sustainability; farmers' markets; choice experiment; consumers;
+   willingness to pay
+ID WILLINGNESS-TO-PAY; LOCALLY PRODUCED FOODS; SUPPLY CHAINS; CHOICE
+   EXPERIMENTS; RURAL-DEVELOPMENT; NETWORKS; AGRICULTURE; PREFERENCES;
+   SYSTEMS; AREAS
+ER
+
+PT J
+DE Mobile app market; Online distribution; Pricing; Electronic commerce;
+   Multi-level data
+ID ONLINE TRAVEL; MARKET; COMPETITION; STRATEGIES; DISPERSION;
+   DETERMINANTS; MECHANISMS; INNOVATION; RETAILERS; TURNOVER
+ER
+
+PT J
+ID EYE-MOVEMENTS; HEALTH CLAIMS; CHOICE; INFORMATION; IMPACT; PREFERENCES;
+   NUTRITION; MEMORY; MARKET
+ER
+
+PT J
+ID POWER ULTRASOUND; OSMOTIC DEHYDRATION; REHYDRATION; COLOR; VEGETABLES;
+   PINEAPPLE; PRODUCTS; QUALITY; STORAGE; SLICES
+ER
+
+PT J
+DE Consumers; Food safety certification; Price premium; Willingness-to-pay
+   (WTP); Fruits
+ID FOOD SAFETY; VEGETABLE CONSUMPTION; MULTIVARIATE-ANALYSIS; CONSUMER
+   WILLINGNESS; BEHAVIOR; QUALITY; PRODUCE; WEIGHT; CHAIN
+ER
+
+PT J
+DE Dividend policy; Ex-dividend date; Payment date; Weekday
+ER
+
+PT J
+DE Mobile app market; Online distribution; Revenue model; E-commerce;
+   Empirical analysis
+ID INFORMATION GOODS; PROPENSITY SCORE; BUSINESS; MARKET; INTERNET;
+   COMPETITION; EXPERIENCE; CUSTOMERS; PROVIDERS; SERVICE
+ER
+
+PT S
+DE Apple Pay; Mobile Payment; Secure Transaction
+ID MOBILE-PAYMENT
+ER
+
+PT B
+DE FinTech Payment; Mediation; Platform
+ER
+
+PT B
+DE Apple Pay; Mobile Payment; Security Evaluation; Secure Element; Credit
+   Card
+ER
+
+PT S
+DE NFC payment; Mobile payment technology; Defect; Solutions
+ER
+
+PT J
+DE Croatia; Experimental auctions; Credence attributes; Claims; Organic
+   labelling
+ID MOTIVATES CONSUMERS; INFORMATION; CONSUMPTION; VALUATION; NUTRITION;
+   BENEFITS; PURCHASE; PRODUCE; APPLES; CHOICE
+ER
+
+PT J
+ER
+
+PT J
+DE U.S. cider industry; sensory evaluation; willingness to pay; blind taste
+   testing
+ER
+
+PT J
+DE willingness to pay; bird management; fruit; natural; local; choice
+   modeling
+ID LOCAL FOOD; FAIR-TRADE; PREFERENCES; MARKET; CERTIFICATION; PERCEPTIONS;
+   CONSUMPTION; VALUATION; MOVEMENT; PRODUCT
+ER
+
+PT J
+DE high-valued apples; size; soluble solids content
+ID WILLINGNESS-TO-PAY; EXPERIMENTAL AUCTIONS; FRUIT-QUALITY;
+   CONTROLLED-ATMOSPHERE; STORAGE; CONSUMERS; MATURITY; PREFERENCES;
+   REPUTATION; VARIETIES
+ER
+
+PT J
+DE Hedonic ratings; Willingness to pay; BDM auction; Apple; Information
+ID EXPERIMENTAL AUCTION; CONSUMER EXPECTATIONS; QUALITY; PREFERENCES;
+   ACCEPTABILITY; INVOLVEMENT; ACCEPTANCE; ATTRIBUTES; VALUATION; CULTIVARS
+ER
+
+PT J
+DE Professors' income; Money attitude; Love of money; Pay comparison
+   standards; Pay comparison satisfaction; Internal and external referent;
+   Deserved pay; Other's pay; The US; Spain; Cross-cultural
+ID JOB-SATISFACTION; UNETHICAL BEHAVIOR; UNIVERSITY-STUDENTS; VOLUNTARY
+   TURNOVER; ETHIC SCALE; BAD APPLES; HONG-KONG; ATTITUDES; PERSPECTIVE;
+   EMPLOYEES
+ER
+
+PT J
+ER
+
+PT J
+DE Q130; Q160
+ID MIXED LOGIT-MODELS; SWEET CHERRY; CONSUMER ACCEPTANCE; FRUIT; CULTIVARS;
+   PREFERENCES
+ER
+
+PT J
+DE fruit quality traits; ordered probit model; rosaceous crop
+ID TRAIT PRIORITIZATION-EVIDENCE; WILLINGNESS-TO-PAY; SWEET CHERRY;
+   AUDIENCE SURVEYS; CHOICE EXPERIMENTS; APPLE VARIETIES; OPTIMAL NUMBER;
+   LIKERT SCALE; CULTIVARS; PREFERENCES
+ER
+
+PT B
+DE Visa PayWave; RFID; Apple Pay; MasterCard PayPass
+ER
+
+PT J
+DE IPhone 5s; IPhone 6; IPhone 6 plus; Fingerprint; Touch ID
+ER
+
+PT J
+DE apple cost of production; breakeven points; sensitivity analysis;
+   present value
+ID CONSUMER PREFERENCES; PRODUCTION SYSTEMS; FRUIT PRODUCTION;
+   UNITED-STATES; PAY; ESTABLISHMENT; ORCHARD
+ER
+
+PT J
+ER
+
+PT J
+ID DISPERSAL
+ER
+
+PT J
+DE Experimental auction; Organic; Vickrey auction; Liking; Apple variety;
+   Bid price
+ID PREFERENCES
+ER
+
+PT J
+DE organic food consumption; willingness to pay; contingent valuation;
+   conjoint analysis
+ER
+
+PT J
+DE Biological control; Apple snail; Common carp; Black carp; Predation
+ID POMACEA-CANALICULATA; ASIAN WETLANDS; HONG-KONG; MACROPHYTES; FOOD;
+   AMPULLARIIDAE; RICE; BIODIVERSITY; CONSUMPTION; GASTROPODA
+ER
+
+PT J
+DE cellular phone; Internet; medical informatics applications; social media
+ER
+
+PT J
+DE pesticide use reduction; organic production; integrated pest management;
+   experimental auctions; willingness to pay
+ID EXPERIMENTAL AUCTIONS; CONSUMER PREFERENCES; FOOD SAFETY; CERTIFICATION;
+   APPLES; MARKET
+ER
+
+PT J
+DE Willingness to pay for food labels; Experimental auctions; Scientific
+   information; Taste and sensory evaluation; Polarized preferences
+ID FOOD; QUALITY; BIAS
+ER
+
+PT J
+DE Mobile apps; app store; sales-rank calibration; app downloads; pareto
+   distribution; Android; Apple iTunes; in-app purchase
+ID IMPACT
+ER
+
+PT J
+DE apple breeding; fruit quality traits; ordered probit model; Rosaceae;
+   supply chain
+ID MARKER-ASSISTED SELECTION; WILLINGNESS-TO-PAY; CONSUMERS; VARIETIES;
+   ROSBREED; ROSACEAE; QUALITY
+ER
+
+PT J
+DE Subjective risk; Internal validity; Pesticide residue; Apple
+ID FOOD SAFETY VALUATION; WILLINGNESS-TO-PAY; EXCHANGEABILITY METHOD;
+   CONSUMER WILLINGNESS; ORGANIC-PRODUCE; FRESH PRODUCE; PROBABILITIES;
+   PERCEPTIONS; IMPROVE
+ER
+
+PT J
+DE Consumer preferences; Functional food; Contingent valuation; Apples;
+   Uzbekistan; C25; C83; D12; D83; L66; Q11
+ID GENETICALLY-MODIFIED FOOD; WILLINGNESS-TO-PAY; FUNCTIONAL FOODS;
+   CONTINGENT VALUATION; INFORMATION; ACCEPTANCE; INGREDIENTS; CHOICE;
+   ATTITUDES; AMERICAN
+ER
+
+PT J
+ID WILLINGNESS-TO-PAY; PRODUCTS; PERSONALITY; BENEFITS; LABELS; MILK
+ER
+
+PT J
+DE Organic food labels; Willingness-to-pay; Choice experiment; Information
+   asymmetries
+ID TO-PAY VALUES; CHOICE EXPERIMENTS; CONTINGENT-VALUATION; WETLAND
+   ATTRIBUTES; BEHAVIOR; APPLES; CONSUMPTION; AUCTIONS; GOODS; SETS
+ER
+
+PT J
+DE Local food; Food miles; New Ecological Paradigm; Experimental auction;
+   Non-hypothetical Vickrey auctions
+ID VALUES; INFORMATION; AUCTIONS; BEHAVIOR; FRANCE
+ER
+
+PT J
+DE biological control; discrete choice experiments; social desirability
+   bias
+ID FRUIT-QUALITY; VALUATION; PREFERENCES; SYSTEMS; YIELD
+ER
+
+PT J
+ID STARTING POINT BIAS; CONTINGENT VALUATION; MODEL
+ER
+
+PT S
+DE RFID; Hand-held device; Agricultural products safety; Apple
+ER
+
+PT S
+DE Becker-DeGroot-Marschak mechanism; BDM; experimental auctions; field
+   experiment; point-of-purchase; Malus xdomestica
+ID PREFERENCES; PRODUCE; PRICES
+ER
+
+PT J
+DE Jonagold; Malus x domestica; Ethylene; Firmness; Respiration; Controlled
+   atmosphere
+ID GRANNY SMITH APPLES; 1-AMINOCYCLOPROPANE-1-CARBOXYLIC ACID;
+   SIGNAL-TRANSDUCTION; DOMESTICA FRUIT; BRAEBURN APPLES; COLD-STORAGE;
+   PULP TISSUES; METHIONINE; MATURATION; METABOLISM
+ER
+
+PT J
+ID FIELD EXPERIMENT; PRODUCT VARIETY; MODELS; CASCADES; CHOICES; SIZE
+ER
+
+PT J
+ID QUALITY CHARACTERISTICS; CONSUMER PREFERENCES; FRUIT-QUALITY; PRICE;
+   PERFORMANCE; CULTIVARS; ATTITUDES; VARIETY; FRESH; MODEL
+ER
+
+PT J
+DE Experimental economics; Labels; Willingness-to-pay; Value of
+   information; Apples
+ID GENETICALLY-MODIFIED FOOD; PREFERENCES; INFORMATION; CHOICE; DEMAND;
+   MARKET; HEALTH; RISK; MILK
+ER
+
+PT J
+DE Apple purchasing behaviour; sustainable production methods; greenhouse
+   gas mitigation practices; non-hypothetical choice experiment
+ID BIOLOGICAL-CONTROL; MODEL; AGRICULTURE; CLIMATE; MARKET; LOGIT; BIAS;
+   BEEF
+ER
+
+PT J
+DE apples; Conjoint Choice Experiment; consumer preferences Albania
+ID CONJOINT-ANALYSIS; CHOICE
+ER
+
+PT J
+DE Labelling; Decision making; Sensory description; Food; Grocery retail
+   store; Preference; Consumer behaviour; Marketing strategy
+ID INFORMATION LOAD; HEALTH CLAIMS; QUALITY; APPLES; PREFERENCES;
+   PERCEPTION; VARIETIES; LANGUAGE; BEHAVIOR; LEXICON
+ER
+
+PT J
+DE Apple attributes; conjoint analysis; contingent valuation; willingness
+   to pay
+ID CONTINGENT VALUATION SURVEYS; CONJOINT-MEASUREMENT; OPPORTUNITIES;
+   VALUES
+ER
+
+PT J
+DE environmental protection; fruit resistant genotypes
+ID RESISTANCE
+ER
+
+PT J
+ER
+
+PT J
+ID CHOICE EXPERIMENTS; CONSUMER; VALUES; BIAS
+ER
+
+PT J
+DE Sustainability; Retailing; Consumer behavior; Pricing; Environmentalism
+ID ENVIRONMENTAL ATTITUDES; NUTRITION INFORMATION; CONSUMER WILLINGNESS;
+   ECO-LABELS; BEHAVIOR; CHOICE; PURCHASE; PREFERENCES; APPLES;
+   DETERMINANTS
+ER
+
+PT J
+DE Apple; Cultivars; Bioactive compounds; Phenols; DPPH
+ID ANTIOXIDANT ACTIVITY; POLYPHENOLIC COMPOUNDS; PEEL; FLAVONOIDS; FLESH;
+   JUICE
+ER
+
+PT J
+DE apples; cheap talk; choice experiment; familiarity; hypothetical bias;
+   niche market; online survey; sub-sample; C8; C9; D12; Q13
+ID WILLINGNESS-TO-PAY; CONTINGENT VALUATION; HYPOTHETICAL BIAS;
+   EXPERIMENTAL-DESIGN; RESPONSES; BEEF; PREFERENCES; DEMAND; UNCERTAINTY;
+   ATTRIBUTES
+ER
+
+PT J
+DE marketing; apple varieties; quality evaluation
+ID REAL ECONOMIC INCENTIVES; QUALITY
+ER
+
+PT J
+DE agro-biodiversity; contingent valuation; hedonic prices; landraces;
+   Malus x domestica; panel data
+ID HEDONIC ANALYSIS; ORGANIC FOODS; PRODUCTS; CHOICE; PERCEPTIONS;
+   PREDICTORS; LANDRACES; VALUATION; TOMATO; ISSUES
+ER
+
+PT S
+ER
+
+PT J
+DE fruit firmness; Malus domestica Borkh.; return bloom; seed number;
+   weight loss
+ID DELICIOUS APPLES; 6-BENZYLAMINO PURINE; GIBBERELLINS A4&7; SET; QUALITY
+ER
+
+PT J
+DE apples; cognitive consistency; hypothetical bias; instrument
+   calibration; willingness to pay; C91; Q13; Q51
+ID WILLINGNESS-TO-PAY; CONTINGENT VALUATION; FIELD EXPERIMENT; AUCTIONS;
+   VALUES
+ER
+
+PT J
+DE organic apples; conjoint analysis; product attributes; willingness to
+   pay; expenditure-equivalent index (EEI); Vermont; NOFA
+ID COMMERCIAL USE
+ER
+
+PT J
+DE apple; floral genes; juvenile phase
+ID MADS-BOX GENES; FLORAL MERISTEM IDENTITY; HOMEOTIC GENE;
+   ANTIRRHINUM-MAJUS; TRANSGENIC ARABIDOPSIS; TRANSCRIPTION FACTORS;
+   TFL1-LIKE GENE; APETALA1; EXPRESSION; LEAFY
+ER
+
+PT J
+DE apple; cherry; flower induction; histological transformation;
+   morphological differentiation; agricultural practices
+ID GOLDEN DELICIOUS APPLE; X DOMESTICA BORKH.; MADS-BOX GENES; FRUIT-SET;
+   DOUBLE PISTILS; SPUR CHARACTERISTICS; SHOOT GROWTH; SOUR CHERRY; TREES;
+   ROOTSTOCK
+ER
+
+PT J
+DE farming prices; olericulture; fruticulture; temporal series
+ER
+
+PT J
+DE apple; marker; genetic map; QTL
+ID SCAB-RESISTANCE GENE; X-DOMESTICA BORKH.; MALUS-PUMILA MILL.; POWDERY
+   MILDEW RESISTANCE; VENTURIA-INAEQUALIS RACES; QUANTITATIVE TRAIT LOCI;
+   LINKAGE MAPS; PODOSPHAERA-LEUCOTRICHA; MICROSATELLITE MARKERS; QTL
+   ANALYSIS
+ER
+
+PT J
+ID CHOICE CONTINGENT VALUATION; STARTING-POINT BIAS; DICHOTOMOUS CHOICE;
+   INCENTIVE INCOMPATIBILITY; DAIRY-PRODUCTS; QUESTIONS; ACCEPTANCE;
+   EFFICIENCY; BENEFITS; DESIGN
+ER
+
+PT J
+DE Mycotoxins; patulin; apple juice; HPLC
+ID PRODUCTS; EXTRACTION; FOOD
+ER
+
+PT J
+DE Apple; integrated; leaf; macronutrient; nitrogen; organic; phosphorus;
+   potassium; soil
+ID QUALITY; SCAB
+ER
+
+PT J
+DE willingness-to-pay; certifications; fresh fruits; fruit consumption
+ID CONTINGENT VALUATION; RISK/BENEFIT PERCEPTION; FOOD
+ER
+
+PT S
+DE apple; breeding
+ER
+
+PT J
+DE conjoint analysis; consumer preferences; GM; locally grown
+ER
+
+PT J
+DE sooty blotch and flyspeck; consumer willingness to buy; fruit quality
+ID SOOTY BLOTCH; PREFERENCES; FLYSPECK; QUALITY; PRODUCE
+ER
+
+PT J
+ID CHOICE CONTINGENT VALUATION; PRICES; MODEL
+ER
+
+PT J
+DE fruit; quality attributes; consumer preference; acceptability; produce
+   origin; willingness to pay; post-purchase losses; Sultanate of Oman
+ID VITAMIN-C; TOMATO; PERCEPTIONS; VEGETABLES; CANCER; HEALTH; RISK
+ER
+
+PT J
+ER
+
+PT J
+ID SYSTEMIC ACQUIRED-RESISTANCE; ACIBENZOLAR-S-METHYL; PATHOGENESIS-RELATED
+   PROTEINS; FIRE BLIGHT; SALICYLIC-ACID; VENTURIA-INAEQUALIS; DISEASE
+   RESISTANCE; PLANTS; ACCUMULATION; ARABIDOPSIS
+ER
+
+PT J
+DE experimental auction; willingness-to-pay; willingness-to-accept; storage
+   duration; fruit texture; Granny Smith
+ID WILLINGNESS-TO-PAY; EXPERIMENTAL AUCTION; FOOD; PREFERENCES; QUALITY;
+   DISPARITY; ATTITUDES; KIWIFRUIT; FIRMNESS; HEALTH
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE fruits; food products; genetic modification; costs; customer
+   satisfaction; New Zealand
+ID MODIFIED FOODS; ATTITUDES
+ER
+
+PT J
+DE willingness-to-pay; BDM; second price auction; food safety; experimental
+   economics
+ID AUCTIONS; VALUES
+ER
+
+PT J
+DE apple characteristics; wholesalers' preference; hedonic price function
+ID QUALITY CHARACTERISTICS; PRICES
+ER
+
+PT S
+DE apples; experimental food; economics; food safety; organic farming;
+   willingness to pay; wine
+ID CHOICES
+ER
+
+PT J
+ID CONTINGENT VALUATION
+ER
+
+PT J
+ID CHOICE CONTINGENT VALUATION; WILLINGNESS-TO-PAY; FOOD SAFETY; ECOLABELED
+   SEAFOOD; PREFERENCES; INFORMATION; ATTRIBUTES; MARKET; MODEL
+ER
+
+PT J
+DE antioxidant activity; flavonoids; storage; apples; cultivar; harvest
+ID POTENTIALLY ANTICARCINOGENIC FLAVONOIDS; CHLOROGENIC ACID LEVELS;
+   DEVELOPMENTAL-CHANGES; PHENOLIC-COMPOUNDS; SKIN; FRUITS; JUICE;
+   NETHERLANDS; VEGETABLES; GLYCOSIDES
+ER
+
+PT J
+DE apple varieties; flavanols; chlorogenic acid; polyphenol oxidase;
+   enzymatic browning
+ID PHENOLIC COMPOSITION; POLYPHENOL OXIDASE; PROCYANIDINS; TANNINS; JUICES
+ER
+
+EF

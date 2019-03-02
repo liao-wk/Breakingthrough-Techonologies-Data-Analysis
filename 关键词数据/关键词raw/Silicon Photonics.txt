@@ -1,0 +1,770 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE Nanophotonics; optical device fabrication; optical fiber communication;
+   photonic integrated circuits; silicon photonics
+ER
+
+PT J
+DE CMOS; foundry; multiproject wafer (MPW); open-access; photonic
+   integrated circuits (PICs); photonic manufacturing; silicon photonics
+ID QUANTUM-DOT LASERS; WAVE-GUIDE PLATFORM; INTEGRATED-CIRCUIT; SI;
+   NITRIDE; FABRICATION; MODULATOR; DEVICES; DESIGN; OPTICS
+ER
+
+PT J
+DE Passive RF circuits; low pass filters; photonic integrated circuits;
+   CMOS integrated circuits; silicon photonics
+ID CMOS; RESISTIVITY
+ER
+
+PT J
+DE Radio-over-fiber; silicon photonics; heterogeneous integration
+ID LASER
+ER
+
+PT J
+DE Silicon photonics; microwave photonics; Bragg gratings; microwave
+   photonic signal processing
+ID FREQUENCY-MEASUREMENT; ANALYZER; FIBER; CHIP
+ER
+
+PT J
+DE Integrated lasers; integrated photonics; microresonators; optical
+   biosensing; optical interconnects; quantum photonics; silicon photonics;
+   switch fabrics; optical transmitters
+ID QUANTUM-DOT LASERS; 1.3 MU-M; CHIP OPTICAL INTERCONNECTS; SHAPED
+   MICROCAVITY LASER; SURFACE-STATE-ABSORPTION; WAVE-GUIDE; ON-CHIP;
+   MICRORING RESONATORS; ENTANGLED PHOTONS; PAIR GENERATION
+ER
+
+PT J
+ID INSULATOR WAVE-GUIDES; ALL-OPTICAL MODULATION; ON-INSULATOR; WAVELENGTH
+   CONVERSION; RAMAN AMPLIFICATION; ROOM-TEMPERATURE; SUPERCONTINUUM
+   GENERATION; BRILLOUIN-SCATTERING; 2-PHOTON ABSORPTION; SLOW-LIGHT
+ER
+
+PT J
+ID SILICON PHOTONICS; LIGHT
+ER
+
+PT J
+DE non-volatile memory; resonance trimming; silicon photonics
+ID MACH-ZEHNDER MODULATOR; ELECTROOPTIC MODULATOR; PLASMONIC MEMRISTOR;
+   OPTICAL MODULATOR; WAVE-GUIDES; RESONATOR; COMPACT; DEVICES; SWITCH;
+   POWER
+ER
+
+PT S
+DE Microwave photonics; Silicon photonics; Microwave signal processing
+ID WAVE-FORM GENERATOR; TIME-DELAY; LOW-POWER; FILTER; RESONATORS; TUTORIAL
+ER
+
+PT S
+DE silicon photonics; photonic integrated circuit; CMOS; laser integration;
+   silicon nitride; sensing
+ER
+
+PT S
+DE silicon-plus photonics; metal; 2D material; germanium; detector;
+   manipulation
+ID PLASMONIC WAVE-GUIDE; GRAPHENE PHOTODETECTOR; LOW-INDEX; PROPAGATION;
+   PHOTODIODES; INTEGRATION
+ER
+
+PT S
+DE Stimulated Brillouin scattering; Laser; Optomechanical; Nonlinear
+   Optics; Silicon Photonics; Integrated photonics
+ID WAVE-GUIDES; RADIATION PRESSURE; OPTICAL FORCES; SCATTERING; LIGHT;
+   NANOWIRE; GAIN; CHIP
+ER
+
+PT S
+DE silicon nitride photonics; propagation loss; group index; group velocity
+   dispersion; birefringence; full-field optical measurements; silicon
+   photonics; photonic integrated circuits; generic integration;
+   multi-project wafer
+ID FREQUENCY-DOMAIN REFLECTOMETRY; SI3N4 WAVE-GUIDES; HIGH-CONFINEMENT;
+   MICRORESONATOR; GENERATION; DISPERSION; PLATFORM; OPTICS
+ER
+
+PT B
+DE Silicon photonics; Directional Coupler; WDM; Interleaver
+ER
+
+PT B
+DE Keywords Microwave photonics; integrated optics; photonic integrated
+   circuit; silicon photonics; silicon modulator
+ID MODULATOR
+ER
+
+PT J
+ER
+
+PT J
+DE Silicon photonics; Quantum optics
+ID HERALDED SINGLE PHOTONS; MICRO-RING RESONATOR; WIRE WAVE-GUIDES; PAIR
+   GENERATION; 2-PHOTON ABSORPTION; ENTANGLED PHOTONS; QUANTUM; CHIP; TIME;
+   FREQUENCY
+ER
+
+PT J
+DE optical interconnects; silicon photonics; monolithic integration;
+   quantum-well devices; optical links; nanopillar
+ID TEMPERATURE CW OPERATION; ON-INSULATOR; QUANTUM-WELL; LASERS;
+   TECHNOLOGY; NANOWIRES; LIGHT; ARRAY; LINKS
+ER
+
+PT J
+DE Electrooptic modulators; integrated optoelectronics; optical
+   interconnects; optical receivers; optical transmitters; photodetectors;
+   photonic integrated circuits; silicon photonics.
+ID RING MODULATORS; HIGH-SPEED; SYSTEMS
+ER
+
+PT S
+DE Optical signal processing; microwave photonics; nonlinear optics;
+   silicon photonics
+ER
+
+PT S
+DE Spectroscopy; Silicon photonics; optical sensors
+ER
+
+PT B
+DE networking; photonics; monolithic integration; low latency; reliable;
+   deterministic protocol; disaggregated data center
+ER
+
+PT S
+DE Silicon microwave photonics; hyper-wideband RF; data obfuscation;
+   spread-spectrum
+ER
+
+PT S
+DE Microwave photonics; Silicon photonics
+ID WAVE-FORM GENERATOR
+ER
+
+PT B
+DE Silicon Photonics; Optical Communications; Integrated Photonic Circuit
+ER
+
+PT B
+DE silicon photonics; hybrid integration; flip-chip integration; flip-chip
+   laser
+ID LIGHT-SOURCE; PLATFORM
+ER
+
+PT B
+DE waveguides; silicon modulators; silicon photonics
+ER
+
+PT S
+DE Silicon Photonics; Packaging; Test; Probing; process automation;
+   alignment; manufacturing
+ER
+
+PT S
+DE Silicon Photonics; Optical Interconnects; Engineering education;
+   Silicon-On-Insulator; Finite Element Method; nanowire waveguide;
+   Propagating Modes; Information Capacity
+ER
+
+PT S
+DE Silicon photonics; monolithic; 300mm; 200mm; optical proximity
+   correction
+ER
+
+PT S
+DE integrated photonics; microwave photonics
+ER
+
+PT J
+DE silicon-plus; hybrid; plsamonic; photodetector; modulator; graphene;
+   III-V
+ID PLASMONIC WAVE-GUIDE; GAIN-BANDWIDTH-PRODUCT; ULTRAFAST GRAPHENE
+   PHOTODETECTOR; GE/SI AVALANCHE PHOTODETECTOR; INSULATOR RING RESONATORS;
+   III-V; ELECTROABSORPTION MODULATOR; TEMPERATURE-DEPENDENCE; OPTICAL
+   COMMUNICATIONS; HIGH-RESPONSIVITY
+ER
+
+PT J
+DE Optical Interconnection; Silicon photonics; Optica transceiver
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT S
+DE silicon photonics; optical coupling; optical chip scale package;
+   multi-core fiber
+ER
+
+PT B
+DE quantum dot lasers; silicon photonics; wafer bonding
+ER
+
+PT B
+DE Silicon Photonics; ring resonator; optical switch
+ID TRANSMITTER
+ER
+
+PT B
+DE mid-infrared; silicon; germanium; detector; sensor
+ID WAVE-GUIDES; SILICON; SOI; GERMANIUM
+ER
+
+PT B
+DE Semiconductor lasers; Integrated optics devices
+ID SURFACE-EMITTING LASER
+ER
+
+PT S
+DE silicon photonics; optical coupling; multi-core fiber
+ID MODE-SIZE CONVERTER; SILICON PHOTONICS; BANDWIDTH
+ER
+
+PT S
+DE Optical transceivers; Silicon Photonics
+ER
+
+PT B
+DE silicon photonics; prototyping; multi-project wafer; design kit;
+   packaging
+ER
+
+PT B
+DE silicon photonics; nanophotonics; nanomechanics; nano-optomechanics
+ER
+
+PT S
+DE 3D integration; silicon photonics; Ge-PD; optical receiver;
+   transimpedance amplifier (TIA); limiting amplifier; output buffer
+ER
+
+PT S
+DE Silicon photonics; optical interconnect; optical modulator;
+   photo-detector; hybrid integration
+ER
+
+PT S
+DE ESD; bipolar transistor; Silicon photonics; optoelectronics; optical
+   interconnects; Silicon waveguide; Silicon modulator; Germanium
+   photodetector
+ER
+
+PT S
+DE Integrated optics; silicon photonics; optical waveguides; optical
+   polymers
+ID MODE CONVERSION
+ER
+
+PT B
+ID GENERATION
+ER
+
+PT B
+ID WAVE-GUIDES; SOI; GERMANIUM
+ER
+
+PT S
+DE Heterogeneous silicon platform; integrated optoelectronics;
+   optoelectronic devices; semiconductor lasers; silicon-on-insulator (SOI)
+   technology; silicon photonics
+ID POLARIZATION BEAM SPLITTER; NARROW SPECTRAL LINEWIDTH; RESONATOR-COUPLED
+   LASERS; BENT DIRECTIONAL COUPLER; HYBRID SILICON; WAVE-GUIDES;
+   EVANESCENT LASER; LITHIUM-NIOBATE; RING MODULATOR; LOW-THRESHOLD
+ER
+
+PT S
+DE Silicon Photonics; Optical Transceiver; Optical Interconnect
+ER
+
+PT S
+ID ALL-OPTICAL MODULATION; WAVE-GUIDES; ON-INSULATOR; COUPLERS; SOI
+ER
+
+PT S
+ER
+
+PT J
+DE Microwave photonics; silicon photonics; integrated photonics; photonic
+   generation and processing of microwave signals
+ID TIME-BANDWIDTH PRODUCT; CASCADED POLARIZATION MODULATORS; ARBITRARY
+   WAVE-FORMS; FIBER BRAGG GRATINGS; MICRORING RESONATORS; PHASE-SHIFTER;
+   DELAY-LINES; GENERATION; GUIDE; PULSE
+ER
+
+PT J
+DE integrated optics; silicon photonics; optical fiber; optical
+   communications; coherent; gratings; waveguides
+ID POLARIZATION DIVERSITY; OPTICAL MODULATOR; GRATING COUPLERS;
+   WAVE-GUIDES; ISOLATOR; PHOTODETECTORS; RECEIVER; CIRCUIT; FIBERS; LASER
+ER
+
+PT J
+ID WAVE-GUIDES; GENERATION
+ER
+
+PT J
+ID SILICON PHOTONICS; GRATING COUPLER; TECHNOLOGY; BOARD
+ER
+
+PT J
+ID MICROCAVITY; EXCITONS
+ER
+
+PT J
+DE Advance modulation formats; coherent subsystem; intensity modulation and
+   direct detection optical systems; low power consumption; silicon
+   photonics
+ID MACH-ZEHNDER MODULATOR; HIGH-SPEED; ON-INSULATOR; LOW-VOLTAGE; DRIVE
+ER
+
+PT B
+ID ACTIVE WAVELENGTH CONTROL; HIGH-PERFORMANCE; HIGH-SPEED; MODULATORS;
+   PHOTODETECTORS; RESONATOR; FILTERS; COMPACT; ENERGY; WDM
+ER
+
+PT B
+DE integrated silicon photonics; photonic networks-on-chip; dependability;
+   power-efficiency; high performance
+ER
+
+PT B
+DE Silicon photonics; optical interconnect
+ER
+
+PT S
+ID NANOCRYSTALS; RESONATOR
+ER
+
+PT B
+DE Integrated optics optical communications; guided waves; biophotonics;
+   engineering education; simulations; data centers
+ER
+
+PT B
+DE Silicon Photonics; Optical Circuits; optical modulators; wafer scale
+   testing
+ID MODULATION
+ER
+
+PT S
+ER
+
+PT B
+DE silicon photonics; photonics integration; optical phased array; beam
+   steering
+ID PHOTONICS
+ER
+
+PT S
+DE Silicon photonics; silicon-oxynitride waveguide; photonic-integrated
+   circuits
+ID SILICON-NITRIDE
+ER
+
+PT S
+DE on-chip spectrophotometer; silicon photonics
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT S
+DE silicon photonics; optical crossconnect swicthes; photonics integrated
+   circuits; dynamic optical path network
+ER
+
+PT S
+DE Silicon photonics; Multi-project wafers; Technology platform; CMOS
+   processing; Integrated photonics
+ER
+
+PT S
+DE silicon photonics calculator; silicon photonics simulation; silicon
+   photonics tool; silicon photonics cloud; silicon photonics education;
+   silicon; fused silica; material properties; refractive index;
+   absorption; waveguides; optical properties; visualization
+ID WAVE-GUIDES; GENERATION; LASER
+ER
+
+PT J
+DE Metal-semiconductor field-effect transistor; silicon photonics
+ID SOI MESFETS; MODULATOR
+ER
+
+PT J
+DE Silicon photonics; design
+ID WAVE-GUIDE; FABRICATION; DEVICES; TECHNOLOGY; COMPONENTS; CIRCUITS;
+   FILTER; CHIP
+ER
+
+PT J
+DE Foundry; manufacturing; multi-project wafer (MPW); photonic integration;
+   silicon photonics
+ID WAVE-GUIDE; GERMANIUM PHOTODETECTOR; INTEGRATION; COMPACT
+ER
+
+PT J
+DE silicon photonics; integrated photonics; photonic integrated circuits;
+   optoelectronic integration
+ID INTERLEAVED PN JUNCTIONS
+ER
+
+PT J
+ER
+
+PT J
+DE microelectronics; silicon photonics; sensors; microsystems
+ER
+
+PT B
+DE integrated optics; waveguides; optoelectronics; integrated optics
+   materials
+ER
+
+PT B
+DE Nonlinear optics; mid-IR; integrated photonics; Silicon photonics
+ID SILICON NANOPHOTONIC WIRES; WAVE-GUIDES; TELECOM; GENERATION
+ER
+
+PT B
+ER
+
+PT B
+ID MULTIMODE FIBER; TRANSMISSION
+ER
+
+PT B
+ID ON-INSULATOR; GRATING COUPLERS; WAVE-GUIDES
+ER
+
+PT S
+DE Silicon photonics; silicon modulators; germanium photodetectors
+ID INSULATOR WAVE-GUIDE; ELECTROABSORPTION MODULATOR; GERMANIUM;
+   PHOTODETECTOR
+ER
+
+PT B
+DE Silicon Photonics; modulators; multiplexers; Mach-Zehnder
+   interferometer; mid-infrared
+ID MODULATOR
+ER
+
+PT S
+DE Silicon photonics; silicon-on-insulator; multi-project wafer; MPW run;
+   multi-step patterning; SOI waveguide; rib waveguide; strip waveguide
+ID ON-INSULATOR; INTEGRATION; SI
+ER
+
+PT S
+DE Optical interconnects; silicon photonics; optoelectronics
+ID OPTICAL MODULATORS; HIGH-PERFORMANCE; PHOTODETECTORS; COMPACT;
+   STABILIZATION; RESONATOR; FILTERS; ENERGY; VLSI
+ER
+
+PT S
+ER
+
+PT B
+DE Microwave photonics; arbitrary waveform generation; silicon photonics
+ID WAVE-FORM GENERATION; BRAGG GRATINGS; SILICON; FILTERS
+ER
+
+PT J
+DE Semiconductor nanomembrane (NM); semiconductor lasers; vertical-cavity
+   surface-emitting laser (VCSELs); membrane lasers; Fano resonance;
+   photonic crystals; membrane reflectors (MRs); silicon photonics;
+   flexible electronics; flexible photonics; bio-integrated electronics
+ID LIGHT-EMITTING-DIODES; ROOM-TEMPERATURE; SILICON NANOMEMBRANES;
+   STRAINED-SILICON; ON-CHIP; FLEXIBLE ELECTRONICS; RING RESONATORS; FANO
+   FILTERS; GERMANIUM; DEVICES
+ER
+
+PT S
+DE Optical integration; silicon photonics; modulators; waveguide devices;
+   waveguide photodiode; grating coupler; integrated laser; optical
+   packaging; manufacturability; CMOS
+ID INSULATOR WAVE-GUIDES; OPTICAL-FIBERS; COUPLERS
+ER
+
+PT S
+DE Integrated photonics; absorption spectroscopy; fluorescence; Raman
+   spectroscopy; silicon; silicon-nitride
+ID GRATING COUPLERS; WAVE-GUIDES; COMPACT; LIGHT
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT S
+DE hybrid integration; flip-chip bonding; silicon photonics
+ER
+
+PT B
+ER
+
+PT B
+DE silicon photonics; modulator; chirp; photonic integrated circuits;
+   microwave photonics
+ER
+
+PT B
+DE linearized modulator; silicon photonics; L-RAMZI modulator; phased array
+   antenna
+ER
+
+PT J
+DE Nonlinear optics; nanophotonics; silicon photonics; four-wave mixing
+   (FWM)
+ID GROUP-VELOCITY DISPERSION; OPTICAL FREQUENCY COMBS; WAVE-GUIDES;
+   SUPERCONTINUUM GENERATION; WAVELENGTH CONVERSION; CHIP; WIRES;
+   NANOWAVEGUIDES; NITRIDE; GAIN
+ER
+
+PT J
+DE Fiber optics; grating; integrated optics; phase shifter;
+   wavelength-selective switch
+ER
+
+PT J
+DE siliconphotonics; integration; nanofabrication; telecommunication
+ID WAVE-GUIDES; SI
+ER
+
+PT S
+DE Silicon photonics; photonics integrated circuit; photodiode; and
+   modulator
+ID WAVE-GUIDE DEMULTIPLEXERS; HIGH-SPEED; GERMANIUM PHOTODETECTOR;
+   ELECTROOPTIC MODULATOR; CARRIER-DEPLETION; ULTRALOW-ENERGY; PLATFORM;
+   RECEIVER; COMPACT
+ER
+
+PT S
+DE silicon photonics; integrated photonics; modulators; detectors;
+   waveguides
+ID PHOTONICS
+ER
+
+PT J
+DE Manufacturing cost; silicon photonics; 100 gigabit ethernet; III-V
+   photonics
+ID COST; COMPETITIVENESS; OWNERSHIP; INDUSTRY
+ER
+
+PT J
+DE Hybrid integrated-circuit packaging; photonic integration;
+   silicon-on-insulator (SOI)
+ID WAVE-GUIDES
+ER
+
+PT J
+ER
+
+PT J
+DE Optical interconnects; optical routing; plasmonics; silicon photonics
+ID POLARITON WAVE-GUIDES; SILICON PHOTONICS; CHIP; POWER; TECHNOLOGY;
+   COMPONENTS; NETWORKS; WIRES; SCALE
+ER
+
+PT J
+ID BROAD-BAND; TRANSFORMATION-OPTICS; CLOAK; INVISIBILITY
+ER
+
+PT S
+DE silicon; photonics; nanotechnology
+ER
+
+PT B
+DE grating couplers; modulators; photodetectors; silicon photonics;
+   waveguides
+ER
+
+PT S
+DE Silicon plasmonics; plasmonics junctions; silicon photonics; on-chip
+   photonics; optical signal processing circuits
+ER
+
+PT J
+ID WAVE-GUIDES; CHIP
+ER
+
+PT J
+ID SI
+ER
+
+PT J
+ER
+
+PT J
+ID WAVE-GUIDES
+ER
+
+PT J
+DE hybrid integration; wafer bonding; silicon photonics
+ID BENZOCYCLOBUTENE-BONDED WAFERS; CRITICAL ADHESION ENERGY; WAVE-GUIDE
+   CIRCUIT; LOW-TEMPERATURE; ON-INSULATOR; EVANESCENT LASER; MODULATOR;
+   PHOTODETECTOR; SUBSTRATE; OXIDATION
+ER
+
+PT B
+ER
+
+PT S
+DE surface plasmon polariton; metallic slot waveguides; co-directional
+   couplers; silicon photonics; plasmonics; integrated optics
+ID PHOTONICS
+ER
+
+PT S
+ID OPTICAL INTERCONNECTS; SILICON
+ER
+
+PT S
+DE silicon-on-insulator; silicon-on-sapphire; germanium; porous silicon;
+   mid-infrared photonics
+ID SILICON; FABRICATION
+ER
+
+PT B
+DE Integrated optics; nonlinear optics; microwave photonics; analog and
+   silicon photonics
+ID MICROWAVE PHOTONICS
+ER
+
+PT J
+DE Special issues and sections; Silicon; Photonics
+ER
+
+PT S
+DE silicon photonics; optical waveguide; CMOS technology; two photon
+   absorption; Bragg grating; optical switch
+ID WAVE-GUIDE; LASER
+ER
+
+PT S
+DE Silicon-On-Insulator (SOI); silicon photonics; Optical modulator;
+   Depletion; Accumulation; QCSE
+ID QUANTUM-WELL STRUCTURES; CRYSTAL WAVE-GUIDE; ELECTROABSORPTION
+   MODULATORS; CARRIER DEPLETION; PHASE MODULATORS; RING-RESONATOR; PN
+   DIODE; SOI; POLYMER; PHOTODETECTORS
+ER
+
+PT S
+DE silicon photonics; nonlinear optics
+ID SELF-PHASE-MODULATION; WIRE WAVE-GUIDES; RAMAN AMPLIFICATION; WAVELENGTH
+   CONVERSION; STIMULATED RAMAN; ABSORPTION; LASER; GENERATION; PROSPECTS;
+   AMPLIFIER
+ER
+
+PT J
+ID NANOPHOTONIC WAVE-GUIDES; ON-INSULATOR; MODULATOR
+ER
+
+PT J
+ID 1.6 MU-M; COMPONENTS
+ER
+
+PT J
+ID NANOPOROUS PILLAR ARRAY; HUMIDITY-SENSING PROPERTIES; WAVE-GUIDE;
+   MICRORING RESONATOR; GRATING COUPLER; SLOW LIGHT; DEFECT; LINE; SENSOR;
+   CONFIGURATION
+ER
+
+PT J
+ER
+
+PT B
+ER
+
+PT B
+ID CMOS SOI TECHNOLOGY
+ER
+
+PT B
+ER
+
+PT B
+DE optical interconnects; silicon photonics
+ER
+
+PT J
+DE silicon; optoelectronics; integrated photonics
+ID REGION
+ER
+
+PT S
+DE silicon photonics; OADM; microring resonators; polarization splitters
+   rotators
+ID POLARIZATION ROTATORS; WAVE-GUIDES; MODE
+ER
+
+PT S
+DE silicon photonics; photonics alliance; standards; CMOS photonics
+ER
+
+PT B
+ER
+
+PT S
+DE silicon photonics; modulator; ring resonator; TIR switch; ion implanted
+   grating; proton beam writing
+ID OPTICAL-PHASE MODULATOR; RIB WAVE-GUIDES; ON-INSULATOR; RING RESONATORS;
+   SINGLE-MODE; SOI
+ER
+
+PT S
+DE silicon; optical; waveguide; lightwave circuit; module
+ER
+
+PT S
+DE silicon photonics; CMOS photonics; 40Gb; silicon modulator; silicon
+   waveguide; interleaver; WDM; wavelength division multiplexing
+ER
+
+PT J
+DE CMOS; continuum generation; erbium-doped silicon; integrated photonics;
+   nonlinear optics; optical amplifier; optical modulator; photodetector;
+   photovoltaic effects; power dissipation; Raman laser; Raman scattering;
+   silicon laser; silicon-on-insulator; silicon photonics; silicon-rich
+   oxide; VLSI; wavelength conversion
+ID 1.5 MU-M; INSULATOR WAVE-GUIDES; OPTICAL-PHASE MODULATOR; LIGHT-EMITTING
+   DIODE; ON-INSULATOR; RAMAN AMPLIFICATION; SINGLE-MODE; WAVELENGTH
+   CONVERSION; STIMULATED-EMISSION; QUANTUM-WELL
+ER
+
+PT J
+DE complementary metal-oxide-semiconductor (CMOS); fabrication; integrated;
+   manufacturing; optoelectronics; photonics; silicon
+ID WAVE-GUIDES; ON-INSULATOR; OPTICAL MODULATOR; GRATING COUPLERS; GROWTH;
+   EFFICIENCY; HYDROGEN; FIBERS; LASER
+ER
+
+PT J
+ER
+
+PT S
+ID MACH-ZEHNDER INTERFEROMETER; CHANNEL DROPPING FILTERS;
+   SILICON-ON-INSULATOR; OPTICAL WAVE-GUIDES; 1.54 MU-M; GRATING COUPLERS;
+   ELECTRICAL INTERCONNECTS; LIGHT-EMISSION; TECHNOLOGY; PERFORMANCE
+ER
+
+EF

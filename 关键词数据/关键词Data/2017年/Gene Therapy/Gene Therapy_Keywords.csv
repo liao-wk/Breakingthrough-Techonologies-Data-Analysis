@@ -1,0 +1,285 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,nerve regeneration,4,gene therapy,12
+1,gene therapy,4,schizophrenia,12
+2,schizophrenia,3,depression,11
+3,association,3,nerve regeneration,10
+4,depression,3,autism,10
+5,gene delivery,2,pathway,9
+6,therapy,2,bipolar disorder,8
+7,combination therapy,2,combination therapy,7
+8,dry needling,2,gene delivery,6
+9,cancer,2,therapy,6
+10,epigenetics,2,dry needling,6
+11,pathway,2,transcription,6
+12,bipolar disorder,2,foxp1,6
+13,autism,2,splicing,6
+14,inflammation,2,chd8,6
+15,plasticity,2,rbfox1,6
+16,pla-peg-pla,1,network,6
+17,polyethylenimine,1,inflammation,6
+18,cytotoxicity,1,plasticity,6
+19,dna release,1,dhr,5
+20,ifn-lambda 1,1,scar,5
+21,plga,1,sts/ten,5
+22,non-viral gene delivery,1,dress,5
+23,cisplatin,1,agep,5
+24,silver,1,hla,5
+25,nanoparticles,1,epigenetics,5
+26,curcumin,1,genetics,5
+27,resistance,1,cross-disorder,5
+28,fragile histidine triad,1,gene,5
+29,ht1080,1,micronutrients,5
+30,doxorubicin,1,adhd,5
+31,mtt,1,predictors,5
+32,human astrocytes,1,vitamins,5
+33,oligodendrocyte progenitors,1,minerals,5
+34,trichostatin a,1,treatment,5
+35,cell fate,1,pla-peg-pla,4
+36,anticoagulant,1,polyethylenimine,4
+37,actinobacterial metabolites,1,cytotoxicity,4
+38,vascular calcification,1,dna release,4
+39,dhr,1,cisplatin,4
+40,scar,1,silver,4
+41,sts/ten,1,nanoparticles,4
+42,dress,1,curcumin,4
+43,agep,1,resistance,4
+44,hla,1,fragile histidine triad,4
+45,toxin/antitoxin,1,ht1080,4
+46,modules,1,doxorubicin,4
+47,type ii ta module,1,mtt,4
+48,rnl ab system,1,cerebral organoids,4
+49,central nervous system,1,human brain,4
+50,cerebral organoids,1,stem cells,4
+51,human brain,1,neurons,4
+52,stem cells,1,astrocytes,4
+53,neurons,1,nano-complex,4
+54,astrocytes,1,targeted delivery,4
+55,ischemic stroke,1,fluorescence,4
+56,rehabilitation,1,antitumor,4
+57,constraint-induced,1,cancer,4
+58,cadmium,1,glioblastoma,4
+59,immunoprotection,1,temozolomide,4
+60,grass carp,1,drug resistance,4
+61,ctenopharyngodon idellus,1,thioridazine,4
+62,ambient fine particulate matter (pm2.5),1,autophagy,4
+63,pulmonary structure and,1,ar-42,4
+64,nano-complex,1,chronic myeloid leukemia,4
+65,targeted delivery,1,hdacs,4
+66,fluorescence,1,ho-1,4
+67,antitumor,1,ros,4
+68,cubital tunnel,1,biofilm,4
+69,cubital tunnel syndrome,1,carbapenemase,4
+70,entrapment,1,hospital effluent,4
+71,intramuscular stimulation,1,plasmids,4
+72,intramuscular therapy,1,carbapenem,4
+73,radial,1,enhancer,4
+74,anti-hepatitis c virus daa,1,brain regions,4
+75,genetic variation,1,biological,4
+76,hepatitis c virus,1,association,4
+77,anticancer activity,1,heroin dependence,4
+78,brm270 nanoparticles,1,opioid related genes,4
+79,human hepatoma cancer cells,1,oprd1,4
+80,genome editing,1,polymorphisms,4
+81,immunotherapy,1,life,4
+82,gene-environment interactions,1,znf804a,4
+83,individual differences,1,cannabis,4
+84,personalized,1,psychosis,4
+85,electric field,1,schizotypy,4
+86,keratinocytes,1,gene-environment interaction,4
+87,cytochrome p450,1,enzymatic antioxidants,4
+88,wound healing,1,oxidants,4
+89,glioblastoma,1,immune cells,4
+90,temozolomide,1,cerebellum,4
+91,drug resistance,1,e2f1,4
+92,thioridazine,1,electroconvulsive therapy,4
+93,autophagy,1,gene expression,4
+94,leukemia,1,peripheral,4
+95,non coding rna,1,gene-by-environment interaction,4
+96,hepatocellular carcinoma,1,stress,4
+97,rna interference,1,anxiety,4
+98,small,1,ptsd,4
+99,breast cancer,1,ifn-lambda 1,3
+100,breast cancer stem cells (bcsc),1,plga,3
+101,cancer stem cells,1,non-viral gene delivery,3
+102,diagnosis,1,human astrocytes,3
+103,management,1,oligodendrocyte progenitors,3
+104,melanoma,1,trichostatin a,3
+105,forkhead box proteins,1,cell fate,3
+106,viruses,1,toxin/antitoxin,3
+107,diabetes mellitus,1,modules,3
+108,endocrine-like cells,1,type ii ta module,3
+109,hdac inhibitors,1,rnl ab system,3
+110,amyotrophic lateral sclerosis (als),1,ischemic stroke,3
+111,epidermal growth factor receptor,1,rehabilitation,3
+112,ar-42,1,constraint-induced,3
+113,chronic myeloid leukemia,1,cadmium,3
+114,hdacs,1,immunoprotection,3
+115,ho-1,1,grass carp,3
+116,ros,1,ctenopharyngodon idellus,3
+117,bacterial nanocellulose,1,cubital tunnel,3
+118,gene activated matrix,1,cubital tunnel syndrome,3
+119,probiotic,1,entrapment,3
+120,antibiotic resistance,1,intramuscular stimulation,3
+121,experimental evolution,1,intramuscular therapy,3
+122,whole-genome,1,radial,3
+123,cell-printing technology,1,electric field,3
+124,biliary system,1,keratinocytes,3
+125,3d liver-on-a-chip,1,cytochrome p450,3
+126,hereditary sensory and autonomic neuropathy v,1,wound healing,3
+127,nerve growth factor,1,hepatocellular carcinoma,3
+128,alzheimer's disease,1,rna interference,3
+129,beta-amyloid precursor protein,1,small,3
+130,facial paralysis,1,diagnosis,3
+131,electroacupuncture,1,management,3
+132,glial,1,melanoma,3
+133,ginsenoside rh2,1,diabetes mellitus,3
+134,cnnm1,1,endocrine-like cells,3
+135,angiogenesis,1,hdac inhibitors,3
+136,prostate cancer,1,probiotic,3
+137,plasmid dna,1,antibiotic resistance,3
+138,poly(amidoamine) dendrimers,1,experimental evolution,3
+139,gold nanoparticles,1,whole-genome,3
+140,folic,1,facial paralysis,3
+141,crispr delivery,1,electroacupuncture,3
+142,polyethylenimine (pei),1,glial,3
+143,cd-pei,1,ginsenoside rh2,3
+144,biofilm,1,cnnm1,3
+145,carbapenemase,1,angiogenesis,3
+146,hospital effluent,1,prostate cancer,3
+147,plasmids,1,plasmid dna,3
+148,carbapenem,1,poly(amidoamine) dendrimers,3
+149,diclofenac,1,gold nanoparticles,3
+150,activated sludge,1,folic,3
+151,adsorption,1,diclofenac,3
+152,biotransformation,1,activated sludge,3
+153,soil-plant system,1,adsorption,3
+154,antibiotic resistant pathogenic bacteria,1,biotransformation,3
+155,antibiotic,1,biodistribution,3
+156,dna methylation,1,biohybrids,3
+157,dna methyltransferases (dnmts),1,metformin,3
+158,dna methyltransferase,1,nanoparticle,3
+159,biodistribution,1,sex differences,3
+160,biohybrids,1,somatization symptoms,3
+161,metformin,1,serotonin transporter,3
+162,nanoparticle,1,dna,3
+163,enhancer,1,5-httlpr,3
+164,brain regions,1,meta-analysis,3
+165,biological,1,population-based and,3
+166,adrenalectomy,1,antibiotic resistance pathogenic bacteria,3
+167,ventral tegmental area,1,args,3
+168,medial prefrontal cortex,1,phage therapy,3
+169,chrysanthemum indicum polysaccharide,1,biochar,3
+170,duck hepatitis a virus,1,canakinumab,3
+171,genetics,1,interleukin 1 inhibitor,3
+172,cross-disorder,1,biologics,3
+173,gene,1,hyperimmunoglobulinemia,3
+174,protein-kinase-ii,1,biomarkers,3
+175,major depressive disorder,1,genomics,3
+176,transcription,1,immunostimulory therapy,3
+177,foxp1,1,metabolomics,3
+178,splicing,1,toca fc,3
+179,chd8,1,5-fluorocytosine,3
+180,rbfox1,1,cytosine deaminase,3
+181,network,1,acute ischemic stroke,3
+182,heroin dependence,1,growth factor,3
+183,opioid related genes,1,intra-arterial,3
+184,oprd1,1,caloric restriction,3
+185,polymorphisms,1,cholic acid,3
+186,life,1,dna damage response,3
+187,sex differences,1,acetylation,3
+188,somatization symptoms,1,epigenetic factors,3
+189,serotonin transporter,1,genetic factors,3
+190,dna,1,gut flora,3
+191,major depression,1,ultrasound radiation,3
+192,cardiovascular diseases,1,neuroinflammation,3
+193,energy metabolism,1,beta-secretase-1 (bace1),3
+194,analysis,1,neuregulin-1 (nrg1),3
+195,factor-i levels,1,clinical,3
+196,major,1,childhood trauma,3
+197,znf804a,1,glucocorticoid receptor,3
+198,cannabis,1,fear conditioning,3
+199,psychosis,1,adipose tissue,3
+200,schizotypy,1,hcv,3
+201,gene-environment interaction,1,hepatic,3
+202,micronutrients,1,insulin resistance,3
+203,adhd,1,nanogold,3
+204,predictors,1,rheumatoid arthritis,3
+205,vitamins,1,transcription factor,3
+206,minerals,1,anticoagulant,2
+207,treatment,1,actinobacterial metabolites,2
+208,5-httlpr,1,vascular calcification,2
+209,meta-analysis,1,central nervous system,2
+210,population-based and,1,anti-hepatitis c virus daa,2
+211,protein gene slc6a4,1,genetic variation,2
+212,enzymatic antioxidants,1,hepatitis c virus,2
+213,oxidants,1,anticancer activity,2
+214,immune cells,1,brm270 nanoparticles,2
+215,cerebellum,1,human hepatoma cancer cells,2
+216,glucocorticoid,1,genome editing,2
+217,corticotropin releasing hormone,1,immunotherapy,2
+218,dexamethasone,1,gene-environment interactions,2
+219,e2f1,1,individual differences,2
+220,electroconvulsive therapy,1,personalized,2
+221,gene expression,1,leukemia,2
+222,peripheral,1,non coding rna,2
+223,autism spectrum disorder,1,breast cancer,2
+224,functional connectivity,1,breast cancer stem cells (bcsc),2
+225,structural,1,cancer stem cells,2
+226,antibiotic resistance pathogenic bacteria,1,forkhead box proteins,2
+227,args,1,viruses,2
+228,phage therapy,1,bacterial nanocellulose,2
+229,biochar,1,gene activated matrix,2
+230,idiopathic pulmonary fibrosis,1,cell-printing technology,2
+231,usual interstitial pneumonia,1,biliary system,2
+232,canakinumab,1,3d liver-on-a-chip,2
+233,interleukin 1 inhibitor,1,alzheimer's disease,2
+234,biologics,1,beta-amyloid precursor protein,2
+235,hyperimmunoglobulinemia,1,crispr delivery,2
+236,biomarkers,1,polyethylenimine (pei),2
+237,genomics,1,cd-pei,2
+238,immunostimulory therapy,1,soil-plant system,2
+239,metabolomics,1,antibiotic resistant pathogenic bacteria,2
+240,toca fc,1,antibiotic,2
+241,5-fluorocytosine,1,dna methylation,2
+242,cytosine deaminase,1,dna methyltransferases (dnmts),2
+243,tumor gene therapy,1,dna methyltransferase,2
+244,il-24 cytokine,1,adrenalectomy,2
+245,melanoma differentiation-associated,1,ventral tegmental area,2
+246,acute ischemic stroke,1,medial prefrontal cortex,2
+247,growth factor,1,protein-kinase-ii,2
+248,intra-arterial,1,major depressive disorder,2
+249,ptcl,1,major depression,2
+250,comprehensive genomic profile,1,cardiovascular diseases,2
+251,targeted therapy,1,energy metabolism,2
+252,berardinelli-seip congenital lipodystrophy,1,analysis,2
+253,familial partial,1,factor-i levels,2
+254,caloric restriction,1,major,2
+255,cholic acid,1,glucocorticoid,2
+256,dna damage response,1,corticotropin releasing hormone,2
+257,acetylation,1,dexamethasone,2
+258,epigenetic factors,1,autism spectrum disorder,2
+259,genetic factors,1,functional connectivity,2
+260,gut flora,1,structural,2
+261,ultrasound radiation,1,tumor gene therapy,2
+262,neuroinflammation,1,il-24 cytokine,2
+263,beta-secretase-1 (bace1),1,melanoma differentiation-associated,2
+264,neuregulin-1 (nrg1),1,ptcl,2
+265,clinical,1,comprehensive genomic profile,2
+266,gene-by-environment interaction,1,targeted therapy,2
+267,stress,1,ff,2
+268,anxiety,1,ska2 methylation,2
+269,ptsd,1,peripheral-blood,2
+270,receptor gene,1,ambient fine particulate matter (pm2.5),1
+271,ff,1,pulmonary structure and,1
+272,ska2 methylation,1,amyotrophic lateral sclerosis (als),1
+273,peripheral-blood,1,epidermal growth factor receptor,1
+274,childhood trauma,1,hereditary sensory and autonomic neuropathy v,1
+275,glucocorticoid receptor,1,nerve growth factor,1
+276,fear conditioning,1,chrysanthemum indicum polysaccharide,1
+277,adipose tissue,1,duck hepatitis a virus,1
+278,hcv,1,protein gene slc6a4,1
+279,hepatic,1,idiopathic pulmonary fibrosis,1
+280,insulin resistance,1,usual interstitial pneumonia,1
+281,nanogold,1,berardinelli-seip congenital lipodystrophy,1
+282,rheumatoid arthritis,1,familial partial,1
+283,transcription factor,1,receptor gene,1

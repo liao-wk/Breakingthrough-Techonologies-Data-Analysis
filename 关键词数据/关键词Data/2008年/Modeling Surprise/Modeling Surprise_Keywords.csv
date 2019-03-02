@@ -1,0 +1,637 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,surprise,51,surprise,195
+1,attention,14,attention,59
+2,bayesian surprise,6,uncertainty,24
+3,uncertainty,6,learning,23
+4,learning,6,information theory,17
+5,information theory,5,saliency,17
+6,prediction,5,prediction,17
+7,monetary policy surprises,4,creativity,15
+8,automation surprise,4,information,15
+9,monetary policy,4,bayesian surprise,14
+10,creativity,4,automation surprise,14
+11,automation surprises,4,monetary policy,13
+12,information,4,training,12
+13,acoustic saliency,3,automation surprises,12
+14,training,3,hindsight bias,12
+15,saliency,3,emotion,11
+16,jumps,3,joy,11
+17,curiosity,3,customer delight,11
+18,emotion,3,emotions,11
+19,customer delight,3,forecast,11
+20,formal methods,3,fmri,10
+21,news,3,memory,10
+22,emotions,3,news,10
+23,model checking,3,model checking,10
+24,forecast,3,acoustic saliency,9
+25,hindsight bias,3,monetary policy surprises,9
+26,human-machine systems,3,jumps,9
+27,echoic memory,2,curiosity,9
+28,multi-scale,2,delight,9
+29,statistical divergence,2,novelty,9
+30,mental models,2,formal methods,9
+31,optimization,2,expectation,9
+32,computational models,2,human-machine systems,9
+33,simulation,2,category,9
+34,model,2,unsupervised,9
+35,event,2,supervised,9
+36,resilience,2,psychology,9
+37,cognition,2,mental models,8
+38,factor model,2,models,8
+39,explanation,2,topic modeling,8
+40,models,2,reward,8
+41,comprehension,2,probability,8
+42,topic modeling,2,explain,8
+43,recommender systems,2,generative model,8
+44,anomaly detection,2,e52,8
+45,delight,2,judgment,8
+46,joy,2,foreseeability,8
+47,novelty,2,eye movements,8
+48,reward,2,optimization,7
+49,fmri,2,simulation,7
+50,memory,2,resilience,7
+51,forecasting,2,cognition,7
+52,human-machine interaction,2,comprehension,7
+53,situation awareness,2,anomaly detection,7
+54,probability,2,surprises,7
+55,bayesian inference,2,capm,7
+56,foreign exchange markets,2,mental model,7
+57,surprises,2,echoic memory,6
+58,event-related potentials,2,multi-scale,6
+59,single-trial eeg,2,statistical divergence,6
+60,capm,2,dnn,6
+61,affective computing,2,bottom-up,6
+62,adaptive management,2,top-down,6
+63,expectation,2,object detection,6
+64,mental model,2,face,6
+65,stock returns,2,model,6
+66,explain,2,event,6
+67,generative model,2,factor model,6
+68,e52,2,explanation,6
+69,interest rates,2,recommender systems,6
+70,macroeconomic surprises,2,interest,6
+71,surprise metric,2,captivation,6
+72,bayesian probabilistic framework,2,loyalty,6
+73,online learning,2,sem,6
+74,relative entropy,2,punishment,6
+75,satisfaction,2,motivation,6
+76,judgment,2,connectivity,6
+77,foreseeability,2,forecasting,6
+78,eye movements,2,human-machine interaction,6
+79,earnings management,2,situation awareness,6
+80,category,2,bayesian inference,6
+81,unsupervised,2,event-related potentials,6
+82,supervised,2,single-trial eeg,6
+83,psychology,2,adaptive management,6
+84,reference-model based learning,1,rost,6
+85,approximately bayesian,1,summarization,6
+86,patents,1,exploration,6
+87,litigation,1,lda,6
+88,intellectual property rights (iprs),1,aqua,6
+89,information-theoretic surprise,1,stock returns,6
+90,aberrant salience,1,interest rates,6
+91,lung cancer screening guidelines,1,relative entropy,6
+92,lung cancer screening,1,satisfaction,6
+93,individualized,1,rsvp,6
+94,superstrings and heterotic strings,1,detection,6
+95,conformal field models in string,1,modeling,6
+96,flight simulation,1,natural image,6
+97,startle,1,computational models,5
+98,beta oscillations,1,expertise,5
+99,computational model,1,effort,5
+100,coxtex,1,tangibles,5
+101,temporal surprise,1,climate change,5
+102,complex networks,1,unknown,5
+103,community detection,1,adaptability,5
+104,phase,1,ignorance,5
+105,product discovery,1,info-gap,5
+106,text surprisingness,1,robustness,5
+107,recommender,1,foreign exchange markets,5
+108,dnn,1,emotion concepts,5
+109,bottom-up,1,metaphor,5
+110,top-down,1,metonymy,5
+111,object detection,1,loss of control,5
+112,face,1,lexical,5
+113,evaluation,1,affective computing,5
+114,fuzzy logic,1,singleton,5
+115,business strategy,1,oil price,5
+116,surprise level,1,global real activity,5
+117,experiment,1,demand,5
+118,stock return predictability,1,shocks,5
+119,panel predictive,1,salience,5
+120,love,1,learn,5
+121,embarrassment,1,predict,5
+122,additive,1,e44,5
+123,antagonistic,1,g12,5
+124,community biomass,1,monetary policy shocks,5
+125,ecological surprises,1,term structure,5
+126,change detection,1,latent factor,5
+127,motor inhibition,1,macroeconomic surprises,5
+128,stop-signal task,1,scene analysis,5
+129,working,1,scene understanding,5
+130,discovery,1,fast,5
+131,ecosystem,1,earnings management,5
+132,expectations,1,connectionist,5
+133,social systems,1,flight simulation,4
+134,social-ecological,1,startle,4
+135,aviation,1,complex networks,4
+136,pilot performance,1,community detection,4
+137,hospital readmission,1,phase,4
+138,readmission risk,1,change detection,4
+139,implicit knowledge,1,motor inhibition,4
+140,3d shape design,1,stop-signal task,4
+141,human computer interaction,1,working,4
+142,collaborative creativity,1,discovery,4
+143,"""surprise"" question",1,ecosystem,4
+144,medical intensive care unit,1,expectations,4
+145,prognosis,1,social systems,4
+146,6-month,1,social-ecological,4
+147,aviation automation,1,aviation,4
+148,complacency,1,pilot performance,4
+149,bias,1,aviation automation,4
+150,active learning,1,complacency,4
+151,surprise-based learning,1,bias,4
+152,international,1,surprise valley,4
+153,financial markets,1,geothermal,4
+154,expectations hypothesis,1,evaporation,4
+155,time-varying coefficient model,1,geochemical modeling,4
+156,sentiment,1,fluid,4
+157,percolation,1,amusement,4
+158,poisson process,1,humor,4
+159,gilbert model,1,event-related potential (erp),4
+160,cognitive networks,1,stock market,4
+161,surprise valley,1,anticipated,4
+162,geothermal,1,unanticipated,4
+163,evaporation,1,epistemic emotion,4
+164,geochemical modeling,1,confusion,4
+165,fluid,1,value appraisal,4
+166,causation,1,diversity,4
+167,amusement,1,agent,4
+168,humor,1,alternative futures,4
+169,event-related potential (erp),1,willamette,4
+170,quantum information,1,oregon,4
+171,stochastic process,1,sensemaking,4
+172,hidden,1,cockpit operations,4
+173,stock market,1,re-framing,4
+174,anticipated,1,aesthetics,4
+175,unanticipated,1,bayesian,4
+176,event-related potentials (erps),1,semantics,4
+177,electroencephalography (eeg),1,price momentum,4
+178,cognitive search,1,earnings momentum,4
+179,information foraging,1,revenue momentum,4
+180,case-based reasoning,1,fama-french,4
+181,surprise in games,1,lexical semantics,4
+182,procedural generation of emotion,1,lexical typology,4
+183,event-related potentials (erp),1,nsm,4
+184,fear and surprise,1,anglocentrism,4
+185,blur,1,grid,4
+186,information surprise,1,cross-cultural semantic profile,4
+187,early warning signal,1,english,4
+188,time,1,french,4
+189,epistemic emotion,1,economic methodology,4
+190,confusion,1,evolutionary,4
+191,value appraisal,1,belief,4
+192,thematic maps,1,ambient media,4
+193,event visualization,1,advertising efficacy,4
+194,spatio-temporal,1,guerrilla,4
+195,interest,1,svd plus,4
+196,captivation,1,rmse,4
+197,loyalty,1,e-commerce,4
+198,sem,1,brands preference,4
+199,customer loyalty,1,eye movement,4
+200,anger,1,bayes,4
+201,disconfirmation of,1,p3b,4
+202,diversity,1,p3a,4
+203,investment growth,1,task-switching,4
+204,variance decomposition,1,formal,4
+205,q-theory,1,vision,4
+206,earnings shocks,1,face perception,4
+207,agent,1,computational modeling,4
+208,alternative futures,1,categorical,4
+209,willamette,1,internet video avoidance,4
+210,oregon,1,eye tracking,4
+211,grammatical evidentiality,1,facial,4
+212,mirativity,1,anxiety,4
+213,deixis,1,surprise metric,4
+214,sensemaking,1,bayesian probabilistic framework,4
+215,cockpit operations,1,online learning,4
+216,re-framing,1,animations,4
+217,punishment,1,probability judgments,4
+218,motivation,1,representation,4
+219,connectivity,1,reasoning,4
+220,image saliency,1,inevitability,4
+221,visual surprise,1,hindsight,4
+222,intrinsic context,1,sense making,4
+223,extrinsic context,1,bayes theorem,4
+224,business cycle,1,p300,4
+225,dynamic factor model,1,story generation,4
+226,state space model,1,narrative,4
+227,narrative processing,1,flashback,4
+228,surprise structure,1,foreshadowing,4
+229,orienting response,1,prolepsis,4
+230,embodied,1,csm design model,4
+231,economic surprises,1,cognitive framework,4
+232,unconventional monetary policy,1,interactive,4
+233,rates structure,1,time series,4
+234,adept toolset,1,suffix tree,4
+235,human factors,1,novelty detection,4
+236,alert,1,markov,4
+237,bisimulation relation,1,conceptual modeling,4
+238,human-machine,1,system modeling,4
+239,confusions,1,database,4
+240,paradox of the undiscoverable position,1,additive effects,4
+241,paradox of the surprise,1,amides,4
+242,technology-mediated communication,1,kinetics,4
+243,web interface design,1,nitriles,4
+244,online,1,zirconium,4
+245,cognitive model,1,temporal trend,4
+246,intelligent agents,1,earnings,4
+247,luminance contrast,1,analysts,4
+248,painting analysis,1,small negative surprises,4
+249,graph-based statistical learning,1,frequency,4
+250,values,1,intrusive,4
+251,brand evaluation,1,withdrawn,4
+252,logo design,1,depressed mothers,4
+253,expertise,1,infants,4
+254,effort,1,eeg,4
+255,tangibles,1,relevance,4
+256,cross-market index,1,bayesian probabilities,4
+257,factor-dcc,1,entropy,4
+258,volatility surprise,1,gift giving,4
+259,asset management,1,psychological equilibrium,4
+260,climate change,1,reciprocity,4
+261,unknown,1,welfare,4
+262,adaptability,1,labor,4
+263,ignorance,1,patents,3
+264,info-gap,1,litigation,3
+265,robustness,1,intellectual property rights (iprs),3
+266,surprise judgments,1,beta oscillations,3
+267,difficulty,1,computational model,3
+268,international transmission of tfp shocks,1,coxtex,3
+269,news shocks,1,temporal surprise,3
+270,real exchange,1,product discovery,3
+271,guilt aversion,1,text surprisingness,3
+272,surprise seeking,1,recommender,3
+273,dictator game,1,experiment,3
+274,consensus effect,1,love,3
+275,h1n1 flu vaccination,1,embarrassment,3
+276,multiple-channel information seeking,1,additive,3
+277,tpb,1,antagonistic,3
+278,extremes,1,community biomass,3
+279,generalised pareto distribution,1,ecological surprises,3
+280,posterior,1,"""surprise"" question",3
+281,attitude change,1,medical intensive care unit,3
+282,health belief model,1,prognosis,3
+283,health interventions,1,6-month,3
+284,term structure of interest rates,1,international,3
+285,no-arbitrage,1,financial markets,3
+286,volatility spillover,1,percolation,3
+287,news surprises,1,poisson process,3
+288,impulse,1,gilbert model,3
+289,asymmetric garch,1,cognitive networks,3
+290,emerging markets,1,causation,3
+291,macroeconomic news,1,quantum information,3
+292,aesthetics,1,stochastic process,3
+293,bayesian,1,hidden,3
+294,semantics,1,event-related potentials (erp),3
+295,free-energy principle,1,fear and surprise,3
+296,price momentum,1,blur,3
+297,earnings momentum,1,information surprise,3
+298,revenue momentum,1,early warning signal,3
+299,fama-french,1,time,3
+300,emotion concepts,1,thematic maps,3
+301,metaphor,1,event visualization,3
+302,metonymy,1,spatio-temporal,3
+303,loss of control,1,customer loyalty,3
+304,lexical,1,anger,3
+305,lexical semantics,1,disconfirmation of,3
+306,lexical typology,1,investment growth,3
+307,nsm,1,variance decomposition,3
+308,anglocentrism,1,q-theory,3
+309,scientific writing,1,earnings shocks,3
+310,stance,1,grammatical evidentiality,3
+311,grid,1,mirativity,3
+312,cross-cultural semantic profile,1,deixis,3
+313,english,1,image saliency,3
+314,french,1,visual surprise,3
+315,human-agent interaction,1,intrinsic context,3
+316,emotion recognition,1,extrinsic context,3
+317,fbs,1,business cycle,3
+318,situatedness,1,dynamic factor model,3
+319,colorado river,1,state space model,3
+320,ecosystem modeling,1,narrative processing,3
+321,glen canyon,1,surprise structure,3
+322,singleton,1,orienting response,3
+323,computational creativity,1,embodied,3
+324,design creativity,1,adept toolset,3
+325,economic methodology,1,human factors,3
+326,evolutionary,1,alert,3
+327,belief,1,bisimulation relation,3
+328,over/underreaction,1,human-machine,3
+329,unanticipated events,1,cognitive model,3
+330,conservatism,1,intelligent agents,3
+331,multilevel modeling,1,cross-market index,3
+332,surprise measure,1,factor-dcc,3
+333,context effects,1,volatility surprise,3
+334,public opinion,1,asset management,3
+335,artificial pancreas,1,surprise judgments,3
+336,behavior monitoring,1,difficulty,3
+337,intrinsic motivations,1,guilt aversion,3
+338,novelty and surprise,1,surprise seeking,3
+339,cumulative learning and,1,dictator game,3
+340,prediction error,1,consensus effect,3
+341,artificial intelligence,1,extremes,3
+342,cognitive models,1,generalised pareto distribution,3
+343,interactive narrative,1,posterior,3
+344,categorization,1,term structure of interest rates,3
+345,action units,1,no-arbitrage,3
+346,face recognition,1,volatility spillover,3
+347,rost,1,news surprises,3
+348,summarization,1,impulse,3
+349,exploration,1,asymmetric garch,3
+350,lda,1,emerging markets,3
+351,aqua,1,macroeconomic news,3
+352,bayesian models,1,scientific writing,3
+353,belief calculi transformations,1,stance,3
+354,complex hypotheses,1,fbs,3
+355,ambient media,1,situatedness,3
+356,advertising efficacy,1,colorado river,3
+357,guerrilla,1,ecosystem modeling,3
+358,autonomous agents and multiagent systems,1,glen canyon,3
+359,cognitive modeling,1,over/underreaction,3
+360,anderson localization,1,unanticipated events,3
+361,quantum transport in disordered media,1,conservatism,3
+362,bethe,1,multilevel modeling,3
+363,yield curve,1,surprise measure,3
+364,implicit expected inflation curve,1,context effects,3
+365,real interest rates,1,public opinion,3
+366,self-adaptation,1,self-adaptation,3
+367,bayesian networks,1,bayesian networks,3
+368,inflation expectation,1,valence,3
+369,monetary policy surprise,1,cognitive consistency,3
+370,macroeconomic surprise,1,facial expression,3
+371,svd plus,1,static equilibrium,3
+372,rmse,1,structural stability,3
+373,e-commerce,1,3d printing,3
+374,brands preference,1,fed funds futures market,3
+375,valence,1,time-varying,3
+376,cognitive consistency,1,concept drift,3
+377,facial expression,1,acoustic event detection,3
+378,eye movement,1,surprise strategy,3
+379,bayes,1,explanations,3
+380,oil price,1,customer expectation,3
+381,global real activity,1,e32,3
+382,demand,1,e58,3
+383,shocks,1,anticipated and unanticipated monetary policy shocks,3
+384,p3b,1,earnings surprise,3
+385,p3a,1,earnings forecasting,3
+386,task-switching,1,associability,3
+387,static equilibrium,1,associative learning,3
+388,structural stability,1,feature negative,3
+389,3d printing,1,principal components,3
+390,hospitality stock prices,1,garch models,3
+391,federal funds target rate surprise,1,systemic risk,3
+392,bull,1,cognitive modelling,3
+393,fed funds futures market,1,serious gaming,3
+394,time-varying,1,blogs,3
+395,predictive surprise,1,travel,3
+396,event-related brain potentials,1,monetary policy announcements,3
+397,concept drift,1,equity markets,3
+398,formal,1,exchange,3
+399,salience,1,narrative cognition,3
+400,learn,1,dramatic,3
+401,predict,1,highway,3
+402,acoustic event detection,1,investment decision,3
+403,surprise strategy,1,shackle model,3
+404,explanations,1,cognitive robots,3
+405,customer expectation,1,image-based representations,3
+406,e32,1,pre-consumption mood,3
+407,e58,1,mood state,3
+408,anticipated and unanticipated monetary policy shocks,1,inventory,3
+409,earnings surprise,1,random demand rate,3
+410,earnings forecasting,1,random lead time,3
+411,associability,1,surprise function,3
+412,associative learning,1,adaptation,3
+413,feature negative,1,transformation,3
+414,e44,1,spike trains variability,3
+415,g12,1,bursting,3
+416,monetary policy shocks,1,long-range correlations,3
+417,term structure,1,detrended,3
+418,latent factor,1,protein design,3
+419,principal components,1,protein engineering,3
+420,mathematical models,1,protein folding,3
+421,stochastic models,1,protein,3
+422,informetrics,1,asset pricing,3
+423,vision,1,fama french equity factors,3
+424,face perception,1,economic fundamentals,3
+425,computational modeling,1,discrete event systems,3
+426,categorical,1,user manual,3
+427,internet video avoidance,1,automation,3
+428,eye tracking,1,international spillovers,3
+429,facial,1,ecological dynamics,3
+430,financial market reaction to monetary policy,1,food webs,3
+431,stock markets,1,brand choice,3
+432,anxiety,1,multinomial logit,3
+433,volume modeling,1,upc data,3
+434,graded-neighborhood,1,marketing science practice,3
+435,voxel kinematics model,1,active modeling,3
+436,automatic object detection,1,emergency,3
+437,object localization,1,conceptual model,3
+438,surprise theory,1,bisimulation,3
+439,kullback-leibler divergence,1,discrete,3
+440,garch models,1,calibration of ppp values,3
+441,systemic risk,1,dipper data,3
+442,cognitive modelling,1,double simulation,3
+443,serious gaming,1,timed automata,3
+444,fourfold response pattern to recent outcomes,1,timed,3
+445,positive and negative,1,computation,3
+446,species competition,1,minimum prior content,3
+447,ca modeling,1,relative,3
+448,anomalies,1,numerical modeling,3
+449,post-earnings announcement drift,1,conceptual models,3
+450,arbitrage risk,1,groundwater mangement,3
+451,blogs,1,data,3
+452,travel,1,exploration of unknown environments,3
+453,electromagnetic propagation,1,hunger,3
+454,electromagnetic modeling,1,composite model,3
+455,propagation,1,mode,3
+456,animations,1,default risk,3
+457,monetary policy announcements,1,azema martingale,3
+458,equity markets,1,brownian excursions,3
+459,exchange,1,default,3
+460,narrative cognition,1,decision making,3
+461,dramatic,1,simulation models,3
+462,volatility forecasting,1,robust adaptive,3
+463,bivariate stochastic volatility model with,1,financial analysts,3
+464,audio-visual saliency,1,forecast guidance,3
+465,auditory surprise,1,mode confusion,3
+466,isophote-based visual,1,strategic surprises,3
+467,highway,1,noncontractual relationships,3
+468,investment decision,1,heuristics,3
+469,shackle model,1,norms,3
+470,scene analysis,1,reference-model based learning,2
+471,scene understanding,1,approximately bayesian,2
+472,fast,1,information-theoretic surprise,2
+473,foundations of statistics,1,aberrant salience,2
+474,historical concepts,1,lung cancer screening guidelines,2
+475,(potential) surprises,1,lung cancer screening,2
+476,probability judgments,1,individualized,2
+477,representation,1,evaluation,2
+478,reasoning,1,fuzzy logic,2
+479,cognitive robots,1,business strategy,2
+480,image-based representations,1,surprise level,2
+481,international bond markets,1,stock return predictability,2
+482,var models,1,panel predictive,2
+483,return variance decomposition,1,hospital readmission,2
+484,pre-consumption mood,1,readmission risk,2
+485,mood state,1,implicit knowledge,2
+486,surprising information with a sign effect,1,3d shape design,2
+487,modified mdh,1,human computer interaction,2
+488,inventory,1,collaborative creativity,2
+489,random demand rate,1,active learning,2
+490,random lead time,1,surprise-based learning,2
+491,surprise function,1,expectations hypothesis,2
+492,management earnings forecasts,1,time-varying coefficient model,2
+493,capital market,1,sentiment,2
+494,inevitability,1,cognitive search,2
+495,hindsight,1,information foraging,2
+496,impression formation,1,case-based reasoning,2
+497,social categorization,1,economic surprises,2
+498,stereotyping,1,unconventional monetary policy,2
+499,sense making,1,rates structure,2
+500,rsvp,1,technology-mediated communication,2
+501,detection,1,web interface design,2
+502,modeling,1,online,2
+503,natural image,1,luminance contrast,2
+504,bayes theorem,1,painting analysis,2
+505,adaptation,1,graph-based statistical learning,2
+506,transformation,1,values,2
+507,spike trains variability,1,brand evaluation,2
+508,bursting,1,logo design,2
+509,long-range correlations,1,international transmission of tfp shocks,2
+510,detrended,1,news shocks,2
+511,protein design,1,real exchange,2
+512,protein engineering,1,h1n1 flu vaccination,2
+513,protein folding,1,multiple-channel information seeking,2
+514,protein,1,tpb,2
+515,earning response coefficient (erc) model,1,attitude change,2
+516,textual information,1,health belief model,2
+517,asset pricing,1,health interventions,2
+518,fama french equity factors,1,free-energy principle,2
+519,economic fundamentals,1,human-agent interaction,2
+520,p300,1,emotion recognition,2
+521,discrete event systems,1,computational creativity,2
+522,user manual,1,design creativity,2
+523,automation,1,artificial pancreas,2
+524,rational partisan theory,1,behavior monitoring,2
+525,election surprises,1,intrinsic motivations,2
+526,us presidential elections,1,novelty and surprise,2
+527,autocorrelation function,1,cumulative learning and,2
+528,continuous-time mrakov chain,1,prediction error,2
+529,first passage,1,artificial intelligence,2
+530,international spillovers,1,cognitive models,2
+531,ecological dynamics,1,interactive narrative,2
+532,food webs,1,categorization,2
+533,story generation,1,action units,2
+534,narrative,1,face recognition,2
+535,flashback,1,bayesian models,2
+536,foreshadowing,1,belief calculi transformations,2
+537,prolepsis,1,complex hypotheses,2
+538,brand choice,1,anderson localization,2
+539,multinomial logit,1,quantum transport in disordered media,2
+540,upc data,1,bethe,2
+541,marketing science practice,1,yield curve,2
+542,active modeling,1,implicit expected inflation curve,2
+543,emergency,1,real interest rates,2
+544,conceptual model,1,inflation expectation,2
+545,csm design model,1,monetary policy surprise,2
+546,cognitive framework,1,macroeconomic surprise,2
+547,interactive,1,hospitality stock prices,2
+548,time series,1,federal funds target rate surprise,2
+549,suffix tree,1,bull,2
+550,novelty detection,1,predictive surprise,2
+551,markov,1,event-related brain potentials,2
+552,belief change,1,mathematical models,2
+553,theory of emotions,1,stochastic models,2
+554,bisimulation,1,informetrics,2
+555,discrete,1,stock markets,2
+556,belief systems,1,volume modeling,2
+557,expectation and surprise,1,graded-neighborhood,2
+558,cognitive architectures,1,voxel kinematics model,2
+559,calibration of ppp values,1,automatic object detection,2
+560,dipper data,1,object localization,2
+561,double simulation,1,surprise theory,2
+562,timed automata,1,kullback-leibler divergence,2
+563,timed,1,anomalies,2
+564,computation,1,post-earnings announcement drift,2
+565,minimum prior content,1,arbitrage risk,2
+566,relative,1,electromagnetic propagation,2
+567,quark-gluon plasma,1,electromagnetic modeling,2
+568,relativistic heavy ion collision,1,propagation,2
+569,safety analysis,1,audio-visual saliency,2
+570,systemic accident model,1,auditory surprise,2
+571,performance deviations,1,isophote-based visual,2
+572,numerical modeling,1,foundations of statistics,2
+573,conceptual models,1,historical concepts,2
+574,groundwater mangement,1,(potential) surprises,2
+575,data,1,international bond markets,2
+576,exploration of unknown environments,1,var models,2
+577,hunger,1,return variance decomposition,2
+578,conceptual modeling,1,management earnings forecasts,2
+579,system modeling,1,capital market,2
+580,database,1,impression formation,2
+581,composite model,1,social categorization,2
+582,mode,1,stereotyping,2
+583,abrupt climate change,1,earning response coefficient (erc) model,2
+584,thermobaline circulation,1,textual information,2
+585,sequential patterns,1,rational partisan theory,2
+586,statistical significant patterns,1,election surprises,2
+587,default risk,1,us presidential elections,2
+588,azema martingale,1,autocorrelation function,2
+589,brownian excursions,1,continuous-time mrakov chain,2
+590,default,1,first passage,2
+591,additive effects,1,belief change,2
+592,amides,1,theory of emotions,2
+593,kinetics,1,belief systems,2
+594,nitriles,1,expectation and surprise,2
+595,zirconium,1,cognitive architectures,2
+596,bayes factors,1,safety analysis,2
+597,nuisance parameters,1,systemic accident model,2
+598,partial posterior predictive,1,performance deviations,2
+599,temporal trend,1,abrupt climate change,2
+600,earnings,1,thermobaline circulation,2
+601,analysts,1,bayes factors,2
+602,small negative surprises,1,nuisance parameters,2
+603,frequency,1,partial posterior predictive,2
+604,connectionist,1,network externality,2
+605,decision making,1,network effect,2
+606,simulation models,1,entrepreneurial dynamics,2
+607,robust adaptive,1,diffusions,2
+608,network externality,1,characteristic functions,2
+609,network effect,1,conducting polymer,2
+610,entrepreneurial dynamics,1,polyacetylene,2
+611,financial analysts,1,field theory,2
+612,forecast guidance,1,superstrings and heterotic strings,1
+613,mode confusion,1,conformal field models in string,1
+614,intrusive,1,event-related potentials (erps),1
+615,withdrawn,1,electroencephalography (eeg),1
+616,depressed mothers,1,surprise in games,1
+617,infants,1,procedural generation of emotion,1
+618,eeg,1,paradox of the undiscoverable position,1
+619,relevance,1,paradox of the surprise,1
+620,bayesian probabilities,1,autonomous agents and multiagent systems,1
+621,entropy,1,cognitive modeling,1
+622,diffusions,1,financial market reaction to monetary policy,1
+623,characteristic functions,1,fourfold response pattern to recent outcomes,1
+624,conducting polymer,1,positive and negative,1
+625,polyacetylene,1,species competition,1
+626,field theory,1,ca modeling,1
+627,strategic surprises,1,volatility forecasting,1
+628,noncontractual relationships,1,bivariate stochastic volatility model with,1
+629,heuristics,1,surprising information with a sign effect,1
+630,norms,1,modified mdh,1
+631,gift giving,1,quark-gluon plasma,1
+632,psychological equilibrium,1,relativistic heavy ion collision,1
+633,reciprocity,1,sequential patterns,1
+634,welfare,1,statistical significant patterns,1
+635,labor,1,,

@@ -1,0 +1,929 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE Network-on-chip (NOC); wormhole switching; power-gating (PG);
+   system-on-chip (SOC); power-saving
+ER
+
+PT J
+DE Shift-add multiplier; BZ-FAD; switching activity; parallel prefix adder;
+   Ling adder
+ID WIDTH BOOTH MULTIPLIER; PROBABILISTIC ESTIMATION BIAS; LOGIC
+ER
+
+PT J
+DE Embedded factor graph; FPGA; hardware accelerator; probabilistic
+   reasoning
+ID NETWORK
+ER
+
+PT J
+DE Gene regulatory networks; Maximal information coefficient; Conditional
+   relative average entropy; Time-series mutual information
+ID DYNAMIC BAYESIAN NETWORK; INFERENCE
+ER
+
+PT J
+ID CIS-REGULATORY MODULES; EVOLUTIONARY MODEL; CHROMATIN; ELEMENTS;
+   ANNOTATION; SELECTION
+ER
+
+PT J
+DE Mechanochemistry; Degradation; Depolymerization; Wear-induced;
+   Wet-grinding; Chain-scission; Simulation
+ID MECHANOCHEMICAL POLYMERIZATION; CHAIN SCISSION; MODULUS; SPECTROSCOPY;
+   FRACTURE
+ER
+
+PT J
+DE Arbiter physical unclonable function (PUF); delay fault; diagnostic
+   challenge; fault diagnosis; stuck-at fault
+ER
+
+PT J
+ID DNA-BINDING; SIMPLE-MODELS; DATABASE; CLASSIFICATION; IDENTIFICATION;
+   SPECIFICITY; MOTIFS
+ER
+
+PT J
+DE long-range (LoRa); low-power wide-area (LPWA); fingerprint algorithm;
+   positioning; localization; Internet of Things (IoT)
+ER
+
+PT J
+DE Embedded image processing; FPGA; line segment detector; real-time
+ID PROBABILISTIC HOUGH TRANSFORM; FPGA IMPLEMENTATION; FEATURE-EXTRACTION;
+   VISION; ALGORITHM; DESIGN; EDGE
+ER
+
+PT J
+ID FLIP-CHIP PACKAGE; RELIABILITY; DEVICE; MODELS
+ER
+
+PT J
+DE Ink Drop Spread (IDS) operator; Radial basis function (RBF);
+   Probabilistic neural network (PNN); Memristor-crossbar
+ID PROBABILISTIC NEURAL-NETWORKS; HARDWARE IMPLEMENTATION;
+   PATTERN-CLASSIFICATION; 2 DECADES; RECOGNITION; SYSTEM; ENVIRONMENT;
+   SYNAPSES; MEMORY; MODEL
+ER
+
+PT J
+ID LINEAR OPTICS; PHOTONIC CHIP; ALGORITHMS
+ER
+
+PT J
+DE Multivariate Gaussian Mixture Model (MVGMM); multivariate linear
+   regression; Expectation-Maximisation imputation; Wi-Fi localisation;
+   Hidden Markov Model (HMM)
+ID MAXIMUM-LIKELIHOOD; MISSING DATA; LOCALIZATION; ALGORITHM; LANS
+ER
+
+PT J
+ID GENOME-WIDE ASSOCIATION; CANCER-CELL-LINE; DRUG-SENSITIVITY; COMPLEX
+   TRAITS; EXPRESSION; INHIBITION; DISCOVERY; RESOURCE; VARIANTS; DISEASE
+ER
+
+PT J
+DE Discrete factor graph; Population coding; System-on-Chip;
+   Re-configurable computing
+ER
+
+PT J
+DE Motif; DNA; Chip-Seq
+ID CHIP-SEQ; BINDING SITES; FRAMEWORK; GENOMICS; CELLS
+ER
+
+PT J
+DE in vitro; in vivo; extrapolation; PBPK; benchmark dose; computational;
+   workflow
+ID HUMAN BIOMONITORING DATA; VOLATILE ORGANIC-COMPOUNDS; DOSE-RESPONSE
+   CURVES; ON-A-CHIP; DEVELOPMENTAL TOXICITY; PHARMACOKINETIC MODELS;
+   REVERSE DOSIMETRY; KINETIC PBK; RISK-ASSESSMENT; RAT
+ER
+
+PT J
+ID CHIP-SEQ DATA; EXPECTATION MAXIMIZATION ALGORITHM; EM ALGORITHM;
+   DNA-BINDING; HUMAN GENOME; SITES; SEQUENCE; IDENTIFICATION;
+   SPECIFICITIES; ALIGNMENT
+ER
+
+PT J
+ID COHERENT TRANSPORT; COMPLEX NETWORKS; WAVE-GUIDES; LASER; SPACE
+ER
+
+PT J
+DE Active vision; dynamic reconfiguration; embedded vision systems;
+   optimization methods; smart camera networks (SCNs)
+ID OBJECT DETECTION; ALGORITHMS; TRACKING
+ER
+
+PT J
+DE Anomaly detection; general purpose graphics processing unit (GPGPU);
+   heterogeneous systems; machine learning; neuromorphic computing
+ID SELF-ORGANIZING MAP; INTRUSION DETECTION; NETWORK
+ER
+
+PT J
+DE Efficient high-quality object proposal; object detection; sequential
+   minimization
+ER
+
+PT J
+DE Bayesian learning; Incremental learning; Fuzzy ARTMAP; OpenCL; Parallel
+   architectures; Massive datasets
+ID NEURAL-NETWORK; FUZZY ARTMAP; MULTIDIMENSIONAL MAPS; GPU; ALGORITHMS;
+   CPU
+ER
+
+PT J
+DE Analog circuit; interval arithmetic; process variations; satisfiability
+   modulo theory (SMT); surrogate model; yield
+ID EFFICIENT; INFERENCE
+ER
+
+PT J
+DE Digital microfluidics; error recovery; micro-electrode-dot-array(MEDA);
+   online synthesis; optimization
+ID HIGH-LEVEL SYNTHESIS; MODULE PLACEMENT; ARCHITECTURE
+ER
+
+PT J
+DE Formal verification; Data dynamics; MPSoC; Hybrid automata;
+   Probabilistic timed automata; Reach-ratio metric
+ID REAL-TIME; MODEL CHECKING; REACHABILITY ANALYSIS; PERFORMANCE ANALYSIS;
+   SYSTEMS
+ER
+
+PT J
+ID ENTANGLED PHOTONS; QUANTUM STATES; SOLID-STATE; CONVERSION; EFFICIENT;
+   GENERATION; PAIRS; CHIP
+ER
+
+PT J
+DE hypertension; cost-effectiveness analysis; health disparities; primary
+   care management
+ID BLOOD-PRESSURE; CARDIOVASCULAR-DISEASE; UNITED-STATES; SELF-MANAGEMENT;
+   HEART-DISEASE; COHORT; INTERVENTION; PREVENTION; MORTALITY; HEALTH
+ER
+
+PT J
+DE Deep learning; Neural network applications; Discrete state transition;
+   Discrete weight space
+ID SPEECH RECOGNITION; DESIGN
+ER
+
+PT J
+DE Dielectrophoresis; Cytometry; Microfluidics; Lab-on-chip
+ID FIELD-FLOW FRACTIONATION; RESISTANCE; MORPHOLOGY
+ER
+
+PT S
+DE TRNG; thermal noise; PVT variations; probabilistic switches; PCMoS;
+   stochastic switching circuits
+ID ENERGY
+ER
+
+PT B
+DE bank conflicts; bank group conflicts; duplication; set-associative
+   cache; sectored cache; demand activates filtering; usefulness tracking;
+   probabilistic replacement
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+DE Flexible transmission systems; coherent systems; probabilistic
+   constellation shaping
+ID SPECTRAL EFFICIENCY
+ER
+
+PT S
+DE IoT security; STT-MRAM; PUF; Hardware security
+ID PHYSICAL UNCLONABLE FUNCTIONS; SPIN-TRANSFER
+ER
+
+PT S
+DE Online learning; Probabilistic Spiking Neural Network;
+   Switehed-capacitor; Learning capability
+ID VLSI; IMPLEMENTATION; HARDWARE
+ER
+
+PT J
+DE Crossbar architecture; convolutional neural networks; neural network
+   pruning; constrained optimization problem
+ID ON-CHIP; MEMORY
+ER
+
+PT J
+DE Cracking models; crack initiation; crack progression; multilevel models;
+   probabilistic models
+ER
+
+PT J
+ER
+
+PT S
+DE hybrid main memory; flat migrating organization; fairness; performance;
+   hardware
+ID LEVEL PERFORMANCE; CACHE
+ER
+
+PT J
+DE probabilistic graphical model; Bayesian network; causal effects;
+   transcriptional factors
+ID NETWORK; DIFFERENTIATION; MICRORNAS; GENOME
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT J
+DE Uncertain reasoning; conditionals; conditional events; coherent
+   probabilities; n-back task
+ID WORKING-MEMORY; PROBABILITY LOGIC; HUMAN INFERENCE; MENTAL MODELS;
+   PSYCHOLOGY; COHERENCE; COMPREHENSION; ATTENTION; FINETTI; TASK
+ER
+
+PT J
+DE Embedded system; reconfiguration; real-time; co-design; MPSoC; FPGA
+ID SUPERVISORY CONTROL; ALGORITHM; TASKS
+ER
+
+PT J
+DE DRAM; row-hammering; refresh; reliability
+ID DRAM; MEMORY
+ER
+
+PT J
+DE Real-time systems; mixed criticality systems; scheduling
+ID REAL-TIME SYSTEMS; SCHEDULABILITY; DEMAND; DESIGN; TASKS; SPEED
+ER
+
+PT J
+DE Reliability; semiconductor device reliability; reliability engineering;
+   aging; noise; BTI; RTN; PV; NTC; STC; guardband; safety margin; SRAM
+ID RANDOM TELEGRAPH NOISE; DEGRADATION; CIRCUIT
+ER
+
+PT J
+ID VACUUM
+ER
+
+PT J
+DE Copper (Cu); electromigration (EM); lognormal; power grid;
+   probabilistic; redundancy; resiliency; voids
+ID IN-SITU; DAMASCENE INTERCONNECTS; CU; FAILURE; LINES; METALLIZATION;
+   RELIABILITY; GROWTH; FILMS
+ER
+
+PT S
+DE Markov random field (MRF); ultra-low voltage; noise immunity; energy
+   efficiency
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT S
+DE artificial nose; colorimetric sensor; machine learning
+ER
+
+PT J
+DE Alignment and coupling; Hough transform; Least squares algorithm; Line
+   detection; Planar optical waveguide device
+ID PROBABILISTIC HOUGH TRANSFORM; LEAST-SQUARES MINIMIZATION; RECOVERY
+ER
+
+PT S
+ID POWER; COMPRESSION; GENERATION; CHIP
+ER
+
+PT S
+ER
+
+PT J
+DE Markov chain; Logistic regression; Pavement surface distress; Asphalt
+   surfacing; Spray seal; Transition probability matrix; Flexible pavement
+ER
+
+PT J
+DE Bioinformatics; classification; ChIP-Seq; expectation maximization;
+   genome informatics; high-throughput sequencing; ranking; transcription
+   factor binding sites
+ID CHIP-SEQ EXPERIMENTS; NONNEGATIVE MATRIX FACTORIZATION; DNA-BINDING
+   PROTEINS; ENCODE DATA; SELECTION; REGRESSION
+ER
+
+PT J
+ID GENE-EXPRESSION ANALYSIS; TRANSCRIPTIONAL HETEROGENEITY; ANALYSIS
+   REVEALS; STEM-CELLS; NOISE; SEQ; IMMUNE; DYNAMICS; QPCR
+ER
+
+PT J
+DE Probabilistic Timed Automata; Timed Markov Decision Process; IMCA model
+   checker; Probabilistic Timed Rebeca; Model checking; Performance
+   analysis
+ID PROBABILISTIC TIMED AUTOMATA; REBECA
+ER
+
+PT J
+DE Spiking neural Networks; liquid State Machines; time series forecasting;
+   probabilistic computing
+ID SPIKING NEURAL-NETWORKS; PATTERN-RECOGNITION; SPEECH RECOGNITION;
+   CORTICAL NETWORKS; COMPACT HARDWARE; NEURONS; PREDICTION; RECURRENT;
+   IMPLEMENTATION; PERTURBATIONS
+ER
+
+PT J
+DE Networks-on-chip; routing algorithm; fault-tolerant routing; performance
+   analysis
+ER
+
+PT B
+DE FIFO buffers; in-field test; NoC; permanent fault; transparent test;
+   RoShaQ
+ER
+
+PT B
+ID PARTICLE SWARM
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+DE Probabilistic matrix factorization algorithm; Collaborative filtering;
+   Machine learning; PGAS; multicore
+ID RECOMMENDER SYSTEMS
+ER
+
+PT S
+ID ABSTRACTION; EXTRACTION
+ER
+
+PT J
+DE Next generation sequencing; ChIP-Seq; transcription factor; ranking;
+   classification
+ID CHIP-SEQ EXPERIMENTS; ENCODE DATA; DNA; PROTEINS; GENOME; MICROARRAYS;
+   DISCOVERY; ELEMENTS; SYSTEM
+ER
+
+PT J
+DE Cytomorphic; molecular circuits; quantitative cellular models; reaction
+   networks; stochastic simulation; synthetic biology; systems biology;
+   transistor models
+ID EXACT STOCHASTIC SIMULATION; TRANSLINEAR CIRCUITS; SYNTHETIC BIOLOGY;
+   GENE-EXPRESSION; ANALOG; SYSTEMS; CELL; VOLTAGE; FILTERS; NOISE
+ER
+
+PT J
+ID ANNOTATION; NUCLEOSOME; ENCODE
+ER
+
+PT J
+ER
+
+PT J
+DE Hard real-time; WCET; Static probabilistic analysis; Faulty caches
+ID WCET ANALYSIS; TOLERANCE; SYSTEMS
+ER
+
+PT J
+DE Core mapping; multiprocessor systems on chip (MPSoC); synthesis; task
+   mapping
+ID ON-CHIP DESIGN; ARCHITECTURES
+ER
+
+PT B
+ID COMMUNICATION; INTERCONNECTS; CHALLENGES; SCHEMES; LINKS
+ER
+
+PT B
+DE Physics of Failure (PoF); Power Electronic modules; degradation; failure
+   interaction
+ID LIFETIME
+ER
+
+PT B
+ER
+
+PT B
+ID MODEL CHECKING
+ER
+
+PT B
+DE Fault Propagation Analysis; Error Prediction; Approximate Computing
+ID RELIABILITY; LEVEL
+ER
+
+PT S
+DE Performance; 3D NoCs; resistive-open TSVs
+ID INTEGRATED-CIRCUITS; ROUTER
+ER
+
+PT S
+ER
+
+PT S
+DE Network-on-Chip; STT-MRAM; Error correction; probabilistic switching;
+   Hybrid buffer
+ID NETWORKS
+ER
+
+PT J
+DE WCET analysis; Random cache replacement; Static probabilistic timing
+   analysis; Timing verification
+ID PREDICTION
+ER
+
+PT J
+ID PROTEIN-DNA INTERACTIONS; FACTOR-BINDING-SITES; INTEGRATIVE ANALYSIS;
+   GENE-EXPRESSION; TRANSCRIPTION FACTORS; ENCODE DATA; GENOME; ELEMENTS;
+   IDENTIFICATION; MICROARRAYS
+ER
+
+PT S
+DE probabilistic; multi-core; task partitions; harmonic; real-time systems
+ID ALGORITHMS; SYSTEMS
+ER
+
+PT S
+DE probabilistic models; recognising eNose signals; scalable architecture;
+   on-chip learning ability
+ER
+
+PT J
+DE Penetration rate; Fracture; Probabilistic numerical approach; DFN-DEM;
+   TBM
+ID ARTIFICIAL NEURAL-NETWORKS; BORING MACHINE PERFORMANCE; CRACK-GROWTH;
+   PREDICTION; FRAGMENTATION; PARAMETERS; STRENGTH; CUTTERS; MODEL; IRAN
+ER
+
+PT J
+DE Network-on-chip; Deadlock; Probabilistic odd-even routing; Routing
+   adaptiveness; Convex optimization
+ER
+
+PT J
+DE Wafer-dicing; Damages; Reliability; Bare-chip assemblies
+ER
+
+PT J
+ID HUMAN GENOME
+ER
+
+PT J
+DE Network-on-chip (NoC); arbitration; equality-of-service (EoS)
+ID QUALITY-OF-SERVICE; INTERCONNECTION NETWORKS; ARCHITECTURE; PERFORMANCE;
+   ROUTER
+ER
+
+PT J
+ID SOFT-ERROR-RATE; IMPACT
+ER
+
+PT J
+DE Data mining; Expert systems; Probabilistic rules; Semiconductor market;
+   Similarity measures
+ID FORECASTING PRACTICES; TECHNOLOGY PRODUCTS; INNOVATION; ADOPTION;
+   MODELS; CYCLE
+ER
+
+PT J
+ID EMBRYONIC STEM-CELLS; REGULATORY NETWORKS; HUMAN GENOME; CHROMATIN
+   SIGNATURES; PROTEIN-DNA; ENHANCERS; ELEMENTS; GENE; EVOLUTION; BINDING
+ER
+
+PT B
+ID SCHEDULING ALGORITHMS; PERFORMANCE ANALYSIS; CALCULUS
+ER
+
+PT J
+DE Many-core; mapping; memory constraint; network-on-chip; scheduling
+ID AWARE; ARCHITECTURES; CHIP; NETWORKS; DESIGN; GRAPHS; ENERGY
+ER
+
+PT J
+ID PROTEIN-DNA INTERACTIONS; GENOME-WIDE; ESCHERICHIA-COLI; IN-VIVO; E.
+   COLI; PROMOTERS; MOTIF
+ER
+
+PT J
+DE Analytical modeling; chip multiprocessing; design space exploration;
+   metaheuristics; numerical methods
+ID DESIGN-SPACE EXPLORATION; MICROARCHITECTURE; MODEL; OPTIMIZATION
+ER
+
+PT J
+DE Electronic package; Probabilistic design; Fatigue life; Reliability
+ID FLIP-CHIP PACKAGE; MONTE-CARLO METHOD; FREE SOLDER JOINTS; SUBMODELING
+   ANALYSIS; FINITE-ELEMENT; SIMULATION; METHODOLOGY
+ER
+
+PT J
+ID RNA-POLYMERASE-II; TRANSCRIPTION FACTORS; PROMOTER; INITIATION;
+   DYNAMICS; NETWORK; CELLS
+ER
+
+PT S
+ID VLSI; IMPLEMENTATION
+ER
+
+PT S
+DE probabilistic neural network; CRBM; on-line learning
+ID SYSTEM
+ER
+
+PT B
+ID CHECKING; SYSTEMS; STREAMS
+ER
+
+PT S
+ER
+
+PT J
+ID TRANSCRIPTION FACTOR-BINDING; GENOME-WIDE ANALYSIS; INTEGRATIVE
+   ANALYSIS; CHROMATIN; DISCOVERY; PROFILES; REVEALS; MODEL; SCL
+ER
+
+PT B
+DE Markov Random Field; Bayesian Network; Probabilistic Transfer Matrices;
+   Probabilistic Decision Diagrams; soft transient errors; reliability;
+   probabilistic modeling
+ID SWITCHING ACTIVITY ESTIMATION; LOGIC-CIRCUITS; RELIABILITY EVALUATION
+ER
+
+PT J
+DE Arbitrarily small programming bit error rate (BER); high capacity
+   spin-transfer torque magnetoresistive random access memory (STT-MRAM)
+   chips; low power STT-MRAM; multilevel cell (MLC) memory; probabilistic
+   programming; stochastic switching
+ER
+
+PT J
+ID FACTOR-BINDING-SITES; CHIP-SEQ DATA; ELEMENTS; MODEL; IDENTIFICATION;
+   PHYLOSCAN; MODULES
+ER
+
+PT B
+ER
+
+PT S
+DE genetic algorithms; performance evaluation; chip multiprocessors
+ER
+
+PT S
+ID MULTIPLE CLOCKS; SYSTEMS
+ER
+
+PT J
+ID EMBRYONIC STEM-CELLS; HUMAN GENOME; DNA-BINDING; REGULATORY CIRCUITRY;
+   FUNCTIONAL ELEMENTS; SITES; PREDICTION; REGIONS; IDENTIFICATION;
+   MODENCODE
+ER
+
+PT J
+DE Probabilistic cognition; Children's predictions; Extensional reasoning;
+   Combinatorics; Binary relations
+ID PRESCHOOL-CHILDREN; JUDGMENTS; NUMBER
+ER
+
+PT J
+DE Availability; built-in tests; error-checking; fault tolerance
+ID CIRCUITS; DESIGN; LOGIC
+ER
+
+PT J
+DE Graphical models; hybrid generative/discriminative models; motif
+   discovery; probabilistic models; semisupervised learning
+ID BINDING-SITES; GIBBS; IDENTIFICATION; ALGORITHM; ALIGNMENT; GENOME
+ER
+
+PT J
+DE Energy; hitting time; network-on-chip (NoC); random walk; reliable
+   communication
+ID RANDOM-WALKS; ON-CHIP; RELIABILITY
+ER
+
+PT B
+DE Distributed Person Tracking; Probabilistic Framework; Distributed Smart
+   Camera; Middleware; FPGA
+ER
+
+PT B
+ER
+
+PT J
+ID TRANSCRIPTION FACTOR-BINDING; CHIP-SEQ DATA; GENOME-WIDE IDENTIFICATION;
+   DNA-BINDING; ELEMENTS; PROTEINS; PROMOTERS; DISCOVERY; EVOLUTION;
+   DATABASE
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT B
+DE on-chip network; age-based arbitration; fairness
+ER
+
+PT S
+ER
+
+PT J
+DE Grinding; Modelling; Surface roughness; Grinding zone
+ID SURFACE MEASUREMENT TECHNIQUES; WHEEL TOPOGRAPHY; CONTACT LENGTH;
+   MECHANICS; TEMPERATURES; SIMULATION; FORCE
+ER
+
+PT J
+DE Gene regulatory network; Data integration; Gene expression; ChIP;
+   Sequence data
+ID STATE-SPACE MODELS; MIXTURE MODEL; TRANSCRIPTIONAL REGULATION;
+   SACCHAROMYCES-CEREVISIAE; BAYESIAN NETWORKS; MICROARRAY DATA;
+   TIME-SERIES; PROFILES; MODULES; MOTIFS
+ER
+
+PT J
+DE Color naming; image annotation; image retrieval; probabilistic latent
+   semantic analysis
+ID CLASSIFICATION; CATEGORIES
+ER
+
+PT S
+DE Probabilistic VLSI; noise; scalable and programmable systems
+ID MACHINE
+ER
+
+PT S
+DE Minimising Contrastive Divergence; Dynamic Current Mirrors;
+   Probabilistic Model; Boltzmann Machine; On-chip training
+ID MACHINE; NOISE
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT S
+ID ALGORITHMS
+ER
+
+PT S
+ER
+
+PT B
+DE reliability; burnishing processing; Surface roughness; rigid burnishing
+   processing; elastic burnishing processing
+ID DESIGN
+ER
+
+PT B
+ER
+
+PT J
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT S
+DE sound source localization; DSP; probabilistic
+ER
+
+PT S
+ID PHASE-LOCKED LOOP; OSCILLATOR
+ER
+
+PT S
+ID THERMAL NOISE; ENERGY; LIMIT
+ER
+
+PT J
+ID SKN7 RESPONSE REGULATOR; GENOME-WIDE LOCATION; SACCHAROMYCES-CEREVISIAE;
+   CELL-CYCLE; MIXTURE MODEL; MICROARRAY DATA; BUDDING YEAST; S-PHASE;
+   NETWORKS; BINDING
+ER
+
+PT J
+DE Markov processes; queues; arbitration policy; stochastic modeling;
+   on-chip communication
+ID DESIGN
+ER
+
+PT J
+DE performance; design; reliability; embedded systems; probabilistic
+   computing
+ID THERMAL NOISE; ENERGY; NETWORKS; LIMIT; GATES
+ER
+
+PT B
+DE System-on-Chip; design space exploration; accuracy
+ER
+
+PT S
+DE CHIP-PET; transcription factor binding sites; human genome; mixture
+   probabilistic model; Kolmogorov-Waring process; Monte Carlo simulation
+ID CELLS; SEQUENCE
+ER
+
+PT S
+ID CODES
+ER
+
+PT S
+DE solder joint; reliability; failure probability; CTE; DNP; FORM; SORM
+ER
+
+PT S
+DE transcription factor binding sites; DNA sequence motifs; probabilistic
+   graphical models; Markov networks; motif finder
+ID TRANSCRIPTION FACTOR; SITES
+ER
+
+PT J
+ID SACCHAROMYCES-CEREVISIAE; COMPONENT ANALYSIS; NETWORKS; EXPRESSION;
+   GENOME; CYCLE; SWI5
+ER
+
+PT J
+DE cutting forces; tool malfunctions; feature extraction; probabilistic
+   neural network
+ER
+
+PT J
+DE Boltzmann machine; continuous-valued probabilistic VLSI; noise; on-chip
+   training; probabilistic generative model; stochastic computation
+ID DYNAMIC CURRENT MIRRORS; NEURAL-NETWORKS; NOISE; CHIP; MICROSYSTEMS;
+   ARCHITECTURE; PRODUCTS; MACHINE; EXPERTS
+ER
+
+PT J
+DE low-energy computing; noise tolerance; power supply noise; probabilistic
+   CMOS; probabilistic computing; thermal noise
+ID POWER; CMOS
+ER
+
+PT B
+ID MACHINE
+ER
+
+PT S
+ID THERMAL NOISE
+ER
+
+PT S
+ID ARCHITECTURE
+ER
+
+PT S
+DE algorithms; performance; design; reliability
+ER
+
+PT S
+ID ARCHITECTURE
+ER
+
+PT B
+ID THERMAL NOISE; ENERGY; LIMIT
+ER
+
+PT J
+ID OLIGONUCLEOTIDE ARRAYS; NORMALIZATION; VARIANCE
+ER
+
+PT J
+DE die cracking; finite element method (FEM); fourpoint bending;
+   probabilistic mechanics; Weibull
+ER
+
+PT J
+DE embedded multiprocessors; interconnect synthesis; scheduling; task
+   graphs
+ID SYSTEMS; GRAPHS; ALGORITHM
+ER
+
+PT S
+ER
+
+PT B
+DE DVS; buffer management; QoS; predictable design
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT J
+DE crosstalk delay; probabilistic estimation
+ID TIMING ANALYSIS
+ER
+
+PT B
+ID CLASSIFICATION; ARCHITECTURE
+ER
+
+PT S
+DE nanotechnologies; probabilistic design; defect tolerance
+ID LOGIC GATES; ARCHITECTURE
+ER
+
+PT B
+ID SELF-ORGANIZING MAPS; EXPRESSION; PATTERNS
+ER
+
+PT J
+ER
+
+PT S
+ER
+
+PT B
+DE subthreshold leakage power distribution; yield estimation; process
+   variations; die-to-die variations; within-die variations; electrothermal
+   couplings
+ID CIRCUITS; CMOS; IMPACT
+ER
+
+PT J
+DE grinding; surface roughness; grinding chip
+ER
+
+PT S
+DE statistical timing; yield prediction
+ID OPTIMIZATION
+ER
+
+PT J
+DE displacement; failure; finite element; interconnects; probabilistic
+   analysis; reliability; statistics; strain; stress; X-ray diffraction
+ID ALUMINUM-BASED METALLIZATIONS; STRESS; LINES; MECHANISMS; VOIDS
+ER
+
+PT J
+DE neuro-hardware; pulsed neuron; probabilistic; coding digital circuit;
+   hardware miniaturization
+ID STREAM
+ER
+
+PT S
+ER
+
+PT J
+ER
+
+PT B
+ID POWER; CIRCUITS; DESIGN
+ER
+
+PT J
+DE Burr formation; face milling; empirical equations; Bayesian probability
+   modeling
+ER
+
+PT S
+ID CLASSIFICATION
+ER
+
+PT J
+DE integrate-and-fire neuron; spiking neuron; probabilistic synapse;
+   address-event representation; analog VLSI
+ID ANALOG VLSI; SYSTEM; BOUNDARIES
+ER
+
+PT S
+ER
+
+EF

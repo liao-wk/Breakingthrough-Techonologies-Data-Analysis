@@ -1,0 +1,484 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE Face completion; multi-context; generative adversarial network
+ER
+
+PT J
+DE Photovoltaic power forecasting; Weather classification; Generative
+   adversarial networks; Convolutional neural networks
+ID SOLAR SPECTRAL IRRADIANCE; DEMAND RESPONSE; TIME-SERIES; SYSTEM
+ER
+
+PT J
+DE Multi-style transfer; adversarial generative networks
+ID TEXTURE SYNTHESIS
+ER
+
+PT J
+DE video signal processing; object tracking; computer vision; learning
+   (artificial intelligence); neural nets; object tracking; Siamese
+   adversarial network tracker; SANT; computer vision field; generative
+   adversarial network; GAN; video generation; SAN discriminator; image
+   generation; similarity learning; residual long-short-term memory tracker
+ER
+
+PT J
+DE Contour detection; Deep learning; Generative adversarial networks;
+   Convolutional neural networks
+ER
+
+PT J
+DE Inverse design; machine learning; closed loop; variational autoencoder;
+   generative adversarial network
+ID ORGANIC-SYNTHESIS
+ER
+
+PT S
+DE Data augmentation; Probabilistic model; Generative adversarial learning;
+   Handwritten numeral classification
+ER
+
+PT J
+DE object recognition; image data synthesizing; human-computer interaction;
+   data synthesizing for immersive HCI; generative adversarial nets;
+   background augmentation generative adversarial networks (BAGANs)
+ER
+
+PT J
+DE automatic modulation recognition; deep learning; semi-supervised;
+   generative adversarial network
+ID CLASSIFICATION
+ER
+
+PT J
+DE Vision; Reconstruction; Generative adversarial networks; fMRI
+ID VENTRAL TEMPORAL CORTEX; PITFALLS; OBJECTS; COMMON
+ER
+
+PT J
+DE saliency detection; generative adversarial network; multi-scale;
+   correlation layer
+ID VISUAL-ATTENTION; REGION DETECTION
+ER
+
+PT J
+DE natural language texts; representation learning; deep learning;
+   generative adversarial networks (GANs); adversarial training; document;
+   sentence; aspect-level text analysis; information retrieval
+ID IMAGES
+ER
+
+PT J
+DE Convolutional neural network (CNN); deep learning; generative
+   adversarial network (GAN); hyperspectral image (HSI) classification
+ID SPECTRAL-SPATIAL CLASSIFICATION; SUPPORT VECTOR MACHINES;
+   NEURAL-NETWORKS; UNIVERSAL APPROXIMATORS; BELIEF NETWORKS; DEEP;
+   REPRESENTATION; RECOGNITION; PROFILES
+ER
+
+PT J
+DE image dehazing; feature learning; sparse coding; generative adversarial
+   networks
+ER
+
+PT J
+DE Generative adversarial networks; image de-raining; image inpainting;
+   image-to-image transformation
+ID QUALITY; SUPERRESOLUTION
+ER
+
+PT J
+ER
+
+PT J
+ID MOLECULES; COMPUTER
+ER
+
+PT J
+DE Wasserstein conditional GAN; Speech enhancement; Generalization
+ER
+
+PT J
+DE UAV images; image denoising; generative adversarial networks; perceptual
+   reconstruction loss
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE Category sentence generation; Generative adversarial networks;
+   Generative models; Supervised learning
+ID RECURRENT NEURAL-NETWORKS
+ER
+
+PT J
+DE generative adversarial network; image editing; facial attributes
+   transformation
+ER
+
+PT J
+DE Conditional generative adversarial networks (cGANs); convolutional
+   neural network (CNN); deep learning; digital surface model (DSM);
+   encoder-decoder networks; optical images
+ER
+
+PT J
+ER
+
+PT J
+DE Generative adversarial networks; Coupled GAN; Image transformation;
+   Stacked Auto-encoders
+ER
+
+PT J
+DE CAPTCHA; generative adversarial network; deep convolutional network
+ER
+
+PT J
+DE Generative adversarial nets; Semisupervised learning; Generative model;
+   Loss function
+ER
+
+PT J
+DE Machine learning; deep learning; neural networks; adversarial examples
+ID COMMAND
+ER
+
+PT S
+ER
+
+PT S
+ID LEARNING ALGORITHM
+ER
+
+PT B
+DE Generative Adversarial Networks; GANs; Convolutional Neural Networks;
+   Recurrent Neural Networks; text to image; CNN Encoder; RNN Encoder;
+   Discriminator; Generator
+ER
+
+PT B
+DE Top-N recommendation; collaborative filtering; generative adversarial
+   networks; implicit feedback
+ER
+
+PT S
+DE phase reconstruction; deep neural networks; generative adversarial
+   networks
+ER
+
+PT B
+DE Query Keyword Matching; Generative Adversarial Networks; Online
+   Advertising
+ER
+
+PT S
+DE image generating; Generative Adversarial networks; Wasserstein distance;
+   recurrent nerual netwoks
+ER
+
+PT S
+DE DNN attack; adversarial examples; generative adversarial network
+ER
+
+PT S
+DE completion; semantically; global; adversarial; perceptual network
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+DE Convolutional Neural Networks (CNN); Generative Adversarial Network
+   (GAN); Infrared Imagery colorization
+ER
+
+PT S
+DE decentralized learning; adversarial networks
+ER
+
+PT S
+DE generative adversarial networks; urban modeling; global urbanization
+ER
+
+PT S
+DE Typhoon cloud prediction; generative adversarial networks (GANs);
+   gradient difference loss; total variation loss
+ER
+
+PT S
+DE generative adversarial networks (GANs); synthetic aperture radar (SAR);
+   multi-modal matching
+ER
+
+PT S
+DE Artificial neural network; generative adversarial network; feed forward
+   network; convolutional neural network; face recognition
+ER
+
+PT B
+ER
+
+PT J
+ID ALGORITHM
+ER
+
+PT B
+DE NanoSats; Space-Based Imaging; Motion Deblurring; Generative Adversarial
+   Networks
+ER
+
+PT J
+DE Face aging; generative adversarial networks; boundary equilibrium;
+   autoencoder; non-convergence; saturation problem
+ER
+
+PT B
+DE Generative Adversarial Networks; Source Separation; Generative Models
+ER
+
+PT B
+DE CBCT images; ring artifacts; generative adversarial network (GAN);
+   generative adversarial loss
+ID CT
+ER
+
+PT B
+DE blind bandwidth extension; artificial bandwidth extension; generative
+   adversarial network; objective quality evaluation; subjective quality
+   evaluation; POLQA
+ER
+
+PT B
+DE Voice conversion; deep learning; cycle-consistent adversarial network;
+   generative adversarial network
+ID ARTIFICIAL NEURAL-NETWORKS; SPEECH SYNTHESIS
+ER
+
+PT B
+DE automatic speech recognition; robust speech recognition; generative
+   adversarial networks
+ID DEEP NEURAL-NETWORKS
+ER
+
+PT B
+DE Emotion recognition; conditional adversarial training; generative
+   adversarial network
+ER
+
+PT S
+ID MOTIONS
+ER
+
+PT J
+DE Generative adversarial networks; auto encoder; joint loss; image
+   composition
+ER
+
+PT S
+DE Generative adversarial net; Variational autoencoder; VGAN; Text
+   generation
+ER
+
+PT J
+ER
+
+PT S
+DE Deep Learning; Denoising AutoEncoder; Adversarial Learning
+ER
+
+PT S
+DE Saliency Detection; Deep Learning; Generative Adversarial Network; CGAN
+ER
+
+PT J
+DE Generative adversarial networks; end-to-end learning; road detection
+ID HYPERSPECTRAL IMAGERY; ENDMEMBER EXTRACTION; LAND-USE; RESOLUTION;
+   FEATURES; SNAKES
+ER
+
+PT J
+ER
+
+PT J
+DE generative adversarial network; deep learning; semantic segmentation;
+   divergence
+ER
+
+PT J
+DE ACP approach; adversarial learning; generative adversarial networks
+   (GANs); generative models; parallel intelligence; zero-sum game
+ID DEEP NEURAL-NETWORKS; LEARNING ALGORITHM
+ER
+
+PT J
+DE adversarial autoencoder; deep learning; drug discovery; variational
+   autoencoder; generative adversarial network
+ID BIOMARKER DEVELOPMENT; NEURAL-NETWORKS; DISCOVERY
+ER
+
+PT S
+DE Neural Machine Translation; Prior Knowledge; DeepLearning; Uyghur
+ER
+
+PT S
+DE Super-resolution; Face hallucination; Identity guidance; Generative
+   adversarial networks (GANs)
+ID HALLUCINATION; REPRESENTATION
+ER
+
+PT S
+DE image synthesis; generative adversarial networks; GAN; stable GAN
+ER
+
+PT S
+DE Saliency prediction; accuracy; GAN; adversarial networks; saliency
+   network
+ER
+
+PT B
+DE generative adversarial networks; traffic scene; generated image;
+   unmanned vehicle
+ER
+
+PT B
+DE SLAM; loop closure; GAN; unsupervised learning; feature
+ID DEEP NEURAL-NETWORKS; SLAM SYSTEM; BAG
+ER
+
+PT B
+DE Generative Adversarial Network; Self-excited; Latent Space Understanding
+ER
+
+PT B
+DE Generative adversarial network; synthetic aperture radar; despecking;
+   denoising; image restoration; perceptual loss
+ID RADAR IMAGES; FILTER; NOISE
+ER
+
+PT S
+DE Age estimation; Convolution neural network; Generative adversarial
+   networks
+ER
+
+PT S
+DE Generative Adversarial Nets(GAN); Deep Neural Network(DNN);
+   Deconvolution; Deblurring; Desaturation
+ER
+
+PT S
+DE adversarial networks; convolutional neural networks; conditional
+   generative adversarial networks; deep learning; face sketch sythesis;
+   style transfer
+ID RECOGNITION; PHOTOS
+ER
+
+PT S
+DE Trajectory prediction; generative model; conditional generative
+   adversarial networks
+ID EXPERIENCE
+ER
+
+PT B
+DE Convolutional Neural Network; Adversarial Attacks; Encoder and Decoder;
+   Generative Models
+ER
+
+PT S
+ER
+
+PT S
+DE Generative Adversarial Networks; Deep learning; Generative models;
+   Parallel structure
+ER
+
+PT B
+ER
+
+PT B
+DE Statistical parametric speech synthesis; deep neural network; generative
+   adversarial network; conditional generative adversarial network;
+   multi-task learning
+ID DEEP NEURAL-NETWORKS
+ER
+
+PT B
+DE residential area; object extraction; convolutional neural networks;
+   semi-supervised learning; conditional generative adversarial networks
+ER
+
+PT B
+DE Wasserstein generative adversarial networks; gradient penalty;
+   importance weighting strategy
+ER
+
+PT S
+DE Image Inversion; Deep Learning; Convolutional Neural Network; Generative
+   Adversarial Network
+ER
+
+PT S
+DE computational photography; scene analysis; image editing; generative
+   adversarial networks; transient attributes
+ER
+
+PT S
+DE deep learning; adversarial training; generative model; generative
+   adversarial network; text image generator
+ER
+
+PT S
+DE speech enhancement; deep learning; generative adversarial networks;
+   convolutional neural networks
+ID NOISE
+ER
+
+PT S
+DE Machine Learning; Generative Adversarial Networks (GANs); classification
+ER
+
+PT B
+DE Generative adversarial networks (GANs); Context aware; Visual story;
+   Image generation
+ER
+
+PT B
+DE Edge; Generative adversarial network; Image inpainting
+ID COMPRESSION
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT S
+DE Information-theoretic Learning; deep learning; autoencoder; variational
+   regularization
+ER
+
+EF

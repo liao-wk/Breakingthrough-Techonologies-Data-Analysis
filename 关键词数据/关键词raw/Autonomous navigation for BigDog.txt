@@ -1,0 +1,1039 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Carlone, L
+   Karaman, S
+AF Carlone, Luca
+   Karaman, Sertac
+TI Attention and Anticipation in Fast Visual-Inertial Navigation
+DE Aerial robotics; computer vision; sensor fusion; simultaneous
+   localization and mapping (SLAM)
+ID LANDMARK SELECTION; SENSOR SELECTION; VISION; SUBMODULARITY;
+   LOCALIZATION; ALGORITHMS; SEARCH; FILTER; SLAM
+TC 0
+Z9 0
+ER
+
+PT J
+AU Cao, CL
+   Burgess, S
+   Conn, AT
+AF Cao, Chongjing
+   Burgess, Stuart
+   Conn, Andrew T.
+TI Toward a Dielectric Elastomer Resonator Driven Flapping Wing Micro Air
+   Vehicle
+DE flying robots; bio-inspired robotics; insect flight; electro-active
+   polymer; dielectric elastomer actuator; resonance
+ID DESIGN
+TC 0
+Z9 0
+ER
+
+PT J
+AU Hwangbo, J
+   Lee, J
+   Dosovitskiy, A
+   Bellicoso, D
+   Tsounis, V
+   Koltun, V
+   Hutter, M
+AF Hwangbo, Jemin
+   Lee, Joonho
+   Dosovitskiy, Alexey
+   Bellicoso, Dario
+   Tsounis, Vassilios
+   Koltun, Vladlen
+   Hutter, Marco
+TI Learning agile and dynamic motor skills for legged robots
+ID TRAJECTORY OPTIMIZATION; DESIGN
+TC 1
+Z9 1
+ER
+
+PT J
+AU Mayerl, CJ
+   Sansone, AM
+   Stevens, LM
+   Hall, GJ
+   Porter, MM
+   Rivera, G
+   Blob, RW
+AF Mayerl, Christopher J.
+   Sansone, Alison M.
+   Stevens, Lucy M.
+   Hall, Garret J.
+   Porter, Michael M.
+   Rivera, Gabriel
+   Blob, Richard W.
+TI The impact of keels and tails on turtle swimming performance and their
+   potential as models for biomimetic design
+DE swimming; locomotion; performance; keel; tail; stability; turning
+ID MIXED-EFFECTS MODELS; HYDRODYNAMIC STABILITY; MORPHOLOGICAL DEFENSES;
+   BOXFISHES TELEOSTEI; CHRYSEMYS-PICTA; SEA-TURTLES; FISHES;
+   MANEUVERABILITY; LOCOMOTION; OSTRACIIDAE
+TC 0
+Z9 0
+ER
+
+PT J
+AU Gu, GY
+   Zou, J
+   Zhao, RK
+   Zhao, XH
+   Zhu, XY
+AF Gu, Guoying
+   Zou, Jiang
+   Zhao, Ruike
+   Zhao, Xuanhe
+   Zhu, Xiangyang
+TI Soft wall-climbing robots
+ID HIGH-MOBILITY; DESIGN
+TC 0
+Z9 0
+ER
+
+PT J
+AU Giorgio-Serchi, F
+   Lidtke, AK
+   Weymouth, GD
+AF Giorgio-Serchi, Francesco
+   Lidtke, Artur K.
+   Weymouth, Gabriel D.
+TI A Soft Aquatic Actuator for Unsteady Peak Power Amplification
+DE Aquatic robots; bioinspired robots; explosive motion; hydraulic
+   actuators; soft actuators; soft robots; soft locomotion; variable
+   stiffness actuators
+ID IMPULSE
+TC 0
+Z9 0
+ER
+
+PT J
+AU Kamel, M
+   Verling, S
+   Elkhatib, O
+   Sprecher, C
+   Wulkop, P
+   Taylor, Z
+   Siegwart, R
+   Gilitschenski, I
+AF Kamel, Mina
+   Verling, Sebastian
+   Elkhatib, Omar
+   Sprecher, Christian
+   Wulkop, Paula
+   Taylor, Zachary
+   Siegwart, Roland
+   Gilitschenski, Igor
+TI The Voliro Omniorientational Hexacopter An Agile and Maneuverable
+   Tiltable-Rotor Aerial Vehicle
+ID ALLOCATION
+TC 0
+Z9 0
+ER
+
+PT J
+AU Heyes, C
+AF Heyes, Cecilia
+TI Empathy is not in our genes
+DE Affect mirroring; Affective empathy; Associative learning; Emotional
+   contagion; Empathy; Empathic understanding; Learned Matching; Mirror
+   neurons; Self-stimulation; Synchronous emotion
+ID EMOTIONAL CONTAGION; INDIVIDUAL-DIFFERENCES; NEURAL MECHANISMS; MIRROR
+   NEURONS; IMITATION; BRAIN; RESPONSES; PAIN; NEUROSCIENCE; OXYTOCIN
+TC 0
+Z9 0
+ER
+
+PT J
+AU D'Onofrio, G
+   Fiorini, L
+   de Mul, M
+   Fabbricotti, I
+   Okabe, Y
+   Hoshino, H
+   Limosani, R
+   Vitanza, A
+   Greco, F
+   Giuliani, F
+   Guiot, D
+   Senges, E
+   Kung, A
+   Cavallo, F
+   Sancarlo, D
+   Greco, A
+AF D'Onofrio, Grazia
+   Fiorini, Laura
+   de Mul, Marleen
+   Fabbricotti, Isabelle
+   Okabe, Yasuo
+   Hoshino, Hiroshi
+   Limosani, Raffaele
+   Vitanza, Alessandra
+   Greco, Francesca
+   Giuliani, Francesco
+   Guiot, Denis
+   Senges, Eloise
+   Kung, Antonio
+   Cavallo, Filippo
+   Sancarlo, Daniele
+   Greco, Antonio
+TI Agile Co-Creation for Robots and Aging (ACCRA) Project: new
+   technological solutions for older people
+DE Social robot; Elderly; Qualitative research; Needs analysis; Co-creation
+ID SCALE
+TC 0
+Z9 0
+ER
+
+PT J
+AU Li, TF
+   Zou, ZA
+   Mao, GY
+   Yang, XX
+   Liang, YM
+   Li, C
+   Qu, SX
+   Suo, ZG
+   Yang, W
+AF Li, Tiefeng
+   Zou, Zhanan
+   Mao, Guoyong
+   Yang, Xuxu
+   Liang, Yiming
+   Li, Chi
+   Qu, Shaoxing
+   Suo, Zhigang
+   Yang, Wei
+TI Agile and Resilient Insect-Scale Robot
+DE soft robot; dielectric elastomer; bioinspired; ratcheting locomotion
+ID SOFT ROBOT; DIELECTRIC ELASTOMERS; ACTUATORS
+TC 0
+Z9 0
+ER
+
+PT J
+AU Gawron, T
+   Michalek, MM
+AF Gawron, Tomasz
+   Michalek, Maciej Marcin
+TI A G(3)-Continuous Extend Procedure for Path Planning of Mobile Robots
+   with Limited Motion Curvature and State Constraints
+DE path planning; mobile robots; curvature constraints; state constraints;
+   extend procedure; G(3)-continuity; car-like kinematics
+ID BOUNDED-CURVATURE; ALGORITHM; UNICYCLE; CAR
+TC 0
+Z9 0
+ER
+
+PT J
+AU Schou, C
+   Andersen, RS
+   Chrysostomou, D
+   Bogh, S
+   Madsen, O
+AF Schou, Casper
+   Andersen, Rasmus Skovgaard
+   Chrysostomou, Dimitrios
+   Bogh, Simon
+   Madsen, Ole
+TI Skill-based instruction of collaborative robots in industrial settings
+DE Collaborative robots; Task-level programming; Robot skills; Intuitive
+   robot instruction; Industrial assembly
+ID KNOWLEDGE; ROBOEARTH; SPACE; TASK
+TC 1
+Z9 1
+ER
+
+PT J
+AU Riviere, V
+   Manecy, A
+   Viollet, S
+AF Riviere, Valentin
+   Manecy, Augustin
+   Viollet, Stephane
+TI Agile Robotic Fliers: A Morphing-Based Approach
+DE morphing robot; quadrotors; obstacle avoidance; bioinspired; aerial
+   robot; elastic folding mechanism
+ID FLIGHT; QUADROTOR; MANEUVERS
+TC 1
+Z9 1
+ER
+
+PT J
+AU Karasek, M
+   Muijres, FT
+   De Wagter, C
+   Remes, BDW
+   de Croon, GCHE
+AF Karasek, Matej
+   Muijres, Florian T.
+   De Wagter, Christophe
+   Remes, Bart D. W.
+   de Croon, Guido C. H. E.
+TI A tailless aerial robotic flapper reveals that flies use torque coupling
+   in rapid banked turns
+ID FLIGHT; INSECT; TIME; PREY
+TC 5
+Z9 5
+ER
+
+PT J
+AU Vahedipour, A
+   Maghsoudi, OH
+   Wilshin, S
+   Shamble, P
+   Robertson, B
+   Spence, A
+AF Vahedipour, A.
+   Maghsoudi, O. Haji
+   Wilshin, S.
+   Shamble, P.
+   Robertson, B.
+   Spence, A.
+TI Uncovering the structure of the mouse gait controller: Mice respond to
+   substrate perturbations with adaptations in gait on a continuum between
+   trot and bound
+DE Gait; Perturbation; Bounding; Mice; Treadmill
+ID ROUGH TERRAIN; TRANSITIONS; STABILITY; DYNAMICS; SPEED; DOGS;
+   ACCELERATION; COORDINATION; LOCOMOTION; TREADMILL
+TC 0
+Z9 0
+ER
+
+PT J
+AU Mansouri, K
+   Belaidi, I
+   Atia, A
+AF Mansouri, Khaled
+   Belaidi, Idir
+   Atia, Abdelmalek
+TI Multiobjective optimization of an agile machining type linear delta
+   structure
+DE Poly-articulated system; Parallel robot; Kinematic modeling;
+   Multi-objective optimization
+ID PARALLEL MANIPULATOR; DESIGN; PLATFORM; ROBOT
+TC 0
+Z9 0
+ER
+
+PT J
+AU De Wagter, C
+   Karasek, M
+   de Croon, G
+AF De Wagter, Christophe
+   Karasek, Matej
+   de Croon, Guido
+TI Quad-thopter: Tailless flapping wing robot with four pairs of wings
+DE Tailless; flapping wing; micro air vehicle; ornithopter; Unmanned Air
+   Vehicle (UAV)
+ID FLIGHT
+TC 0
+Z9 0
+ER
+
+PT J
+AU Ceilinger, M
+   Poranne, R
+   Desai, R
+   Thomaszewski, B
+   Coros, S
+AF Ceilinger, Moritz
+   Poranne, Roi
+   Desai, Ruta
+   Thomaszewski, Bernhard
+   Coros, Stelian
+TI Skaterbots: Optimization-based design and motion synthesis for robotic
+   creatures with legs and wheels
+DE computational design; mobile robots; animation; physical characters
+TC 0
+Z9 0
+ER
+
+PT J
+AU Zhou, DJ
+   Wang, ZJ
+   Schwager, M
+AF Zhou, Dingjiang
+   Wang, Zijian
+   Schwager, Mac
+TI Agile Coordination and Assistive Collision Avoidance for Quadrotor
+   Swarms Using Virtual Structures
+DE Collision avoidance; motion planning; multi-robot systems
+ID MULTIROBOT FORMATION CONTROL; TRAJECTORY GENERATION; AERIAL VEHICLES;
+   ARCHITECTURE; SYSTEMS; SPACECRAFT; NETWORKS; FLATNESS; ROBOTS; AGENTS
+TC 0
+Z9 0
+ER
+
+PT J
+AU Alzu'bi, H
+   Mansour, I
+   Rawashdeh, O
+AF Alzu'bi, Hamzeh
+   Mansour, Iyad
+   Rawashdeh, Osamah
+TI Loon Copter: Implementation of a hybrid unmanned aquatic-aerial
+   quadcopter with active buoyancy control
+DE buoyancy; control; propellers; unmanned aerial vehicle; unmanned
+   aquatic-aerial vehicle; unmanned underwater vehicle
+ID VEHICLE
+TC 0
+Z9 0
+ER
+
+PT J
+AU Camci, E
+   Kripalani, DR
+   Ma, LL
+   Kayacan, E
+   Khanesar, MA
+AF Camci, Efe
+   Kripalani, Devesh Raju
+   Ma, Linlu
+   Kayacan, Erdal
+   Khanesar, Mojtaba Ahmadieh
+TI An aerial robot for rice farm quality inspection with type-2 fuzzy
+   neural networks tuned by particle swarm optimization-sliding mode
+   control hybrid algorithm
+DE Type-2 fuzzy neural networks; Particle swarm optimization; Sliding mode
+   control; Unmanned aerial vehicle; System identification; Control
+ID DYNAMIC PARAMETER ADAPTATION; ANT COLONY OPTIMIZATION; LEARNING
+   ALGORITHM; NONLINEAR-SYSTEM; LOGIC; IDENTIFICATION; QUADROTOR; DESIGN
+TC 2
+Z9 2
+ER
+
+PT J
+AU Kwak, B
+   Bae, J
+AF Kwak, Bokeon
+   Bae, Joonbum
+TI Locomotion of arthropods in aquatic environment and their applications
+   in robotics
+DE arthropods; locomotion; bio-inspired robots; aquatic environment
+ID SHRIMP CRANGON-CRANGON; CAPILLARY MENISCUS INTERACTION; INTERMEDIATE
+   REYNOLDS-NUMBERS; SURFACE-SKIMMING STONEFLIES; WATER-SURFACE; SWIMMERET
+   SYSTEM; TAIL-FLIP; PLANKTONIC COPEPODS; WHIRLIGIG BEETLES;
+   DOLOMEDES-TRITON
+TC 0
+Z9 0
+ER
+
+PT J
+AU Sprowitz, AT
+   Tuleu, A
+   Ajallooeian, M
+   Vespignani, M
+   Mockel, R
+   Eckert, P
+   D'Haene, M
+   Degrave, J
+   Nordmann, A
+   Schrauwen, B
+   Steil, J
+   Ijspeert, AJ
+AF Sprowitz, Alexander T.
+   Tuleu, Alexnadre
+   Ajallooeian, Mostafa
+   Vespignani, Massimo
+   Mockel, Rico
+   Eckert, Peter
+   D'Haene, Michiel
+   Degrave, Jonas
+   Nordmann, Arne
+   Schrauwen, Benjamin
+   Steil, Jochen
+   Ijspeert, Auke Jan
+TI Oncilla Robot: A Versatile Open-Source Quadruped Research Robot With
+   Compliant Pantograph Legs
+DE quadruped; robot; pantograph; open-source; multiple gaits; open-loop;
+   pattern generator; turning
+ID PATTERN GENERATORS; MIT CHEETAH; LOCOMOTION; DESIGN; IMPLEMENTATION;
+   EFFICIENT; ANIMALS; MOTION; MODEL
+TC 1
+Z9 1
+ER
+
+PT J
+AU Giardina, F
+   Iida, F
+AF Giardina, Fabio
+   Iida, Fumiya
+TI Efficient and Stable Locomotion for Impulse-Actuated Robots Using
+   Strictly Convex Foot Shapes
+DE Dynamics; impulsive actuation; locomotion; underactuated robots
+ID ENERGETIC COST; WALKING; EXPLORATION; DYNAMICS; DESIGN; MODEL; FEET
+TC 0
+Z9 0
+ER
+
+PT J
+AU Morita, T
+   Nakamura, K
+   Komatsushiro, H
+   Yamaguchi, T
+AF Morita, Takeshi
+   Nakamura, Kodai
+   Komatsushiro, Hiroki
+   Yamaguchi, Takahira
+TI PRINTEPS: An Integrated Intelligent Application Development Platform
+   based on Stream Reasoning and ROS
+DE Ontology; ROS; Stream reasoning; PRINTEPS
+TC 0
+Z9 0
+ER
+
+PT J
+AU Urbina-Melendez, D
+   Jalaleddini, K
+   Daley, MA
+   Valero-Cuevas, FJ
+AF Urbina-Melendez, Dario
+   Jalaleddini, Kian
+   Daley, Monica A.
+   Valero-Cuevas, Francisco J.
+TI A Physical Model Suggests That Hip-Localized Balance Sense in Birds
+   Improves State Estimation in Perching: Implications for Bipedal Robots
+DE balance; lumbosacral organ; vestibular system; birds; perch; compliant
+   robot; co-localized sensing; distributed sensing
+ID SPINAL-CORD; HOFMANN NUCLEI; LOCOMOTION; WALKING; SPECIALIZATIONS;
+   STABILITY; NEURONS; CHICK; NETWORKS; POSTURE
+TC 0
+Z9 0
+ER
+
+PT J
+AU Zhang, JQ
+   Liu, Q
+   Xu, WJ
+   Zhou, ZD
+   Pham, DT
+AF Zhang, Jiaqiang
+   Liu, Quan
+   Xu, Wenjun
+   Zhou, Zude
+   Duc Truong Pham
+TI Cross-Layer Optimization Model Toward Service-Oriented Robotic
+   Manufacturing Systems
+DE industrial robots; manufacturing capability services; manufacturing cell
+   layer; production process layer; cross-layer optimization model
+ID GROUP LEADER ALGORITHM; CLOUD; SELECTION; DESIGN
+TC 0
+Z9 0
+ER
+
+PT J
+AU Nishikawa, S
+   Arai, Y
+   Niiyama, R
+   Kuniyoshi, Y
+AF Nishikawa, Satoshi
+   Arai, Yusuke
+   Niiyama, Ryuma
+   Kuniyoshi, Yasuo
+TI Coordinated Use of Structure-Integrated Bistable Actuation Modules for
+   Agile Locomotion
+DE Soft material robotics; mechanism design; compliant joint/mechanism
+ID SOFT ROBOT; DESIGN
+TC 0
+Z9 0
+ER
+
+PT J
+AU Schlotfeldt, B
+   Thakur, D
+   Atanasov, N
+   Kumar, V
+   Pappas, GJ
+AF Schlotfeldt, Brent
+   Thakur, Dinesh
+   Atanasov, Nikolay
+   Kumar, Vijay
+   Pappas, George J.
+TI Anytime Planning for Decentralized Multirobot Active Information
+   Gathering
+DE Reactive and sensor-based planning; motion and path planning;
+   multi-robot systems
+ID SENSOR NETWORKS; LOCALIZATION; EXPLORATION; TRACKING; ROBOTS; TEAMS;
+   SLAM
+TC 2
+Z9 2
+ER
+
+PT J
+AU Tang, S
+   Wuest, V
+   Kumar, V
+AF Tang, Sarah
+   Wuest, Valentin
+   Kumar, Vijay
+TI Aggressive Flight With Suspended Payloads Using Vision-Based Control
+DE Aerial systems: mechanics and control; motion control
+ID TRAJECTORY GENERATION; QUADROTOR
+TC 0
+Z9 0
+ER
+
+PT J
+AU Faessler, M
+   Franchi, A
+   Scaramuzza, D
+AF Faessler, Matthias
+   Franchi, Antonio
+   Scaramuzza, Davide
+TI Differential Flatness of Quadrotor Dynamics Subject to Rotor Drag for
+   Accurate Tracking of High-Speed Trajectories
+DE Aerial systems; mechanics and control; dynamics; quadrotor control;
+   differential flatness
+TC 8
+Z9 8
+ER
+
+PT J
+AU Katzschmann, RK
+   DelPreto, J
+   MacCurdy, R
+   Rus, D
+AF Katzschmann, Robert K.
+   DelPreto, Joseph
+   MacCurdy, Robert
+   Rus, Daniela
+TI Exploration of underwater life with an acoustically controlled soft
+   robotic fish
+ID SENSOR NETWORKS; DYNAMIC PAYLOADS; SWIMMING ROBOT; LOW-POWER; DESIGN;
+   ENERGY; COMMUNICATION; LOCOMOTION; TUNA; PROPULSION
+TC 7
+Z9 7
+ER
+
+PT J
+AU Tormalm, M
+   Le Roy, JF
+   Morgand, S
+AF Tormalm, Magnus
+   Le Roy, Jean-Francois
+   Morgand, Stephane
+TI Numerical Assessment of Leading- and Trailing-Edge Control on a Swept
+   Lambda Wing
+ID COMBAT AIR VEHICLE; AERODYNAMICS; MODEL
+TC 0
+Z9 0
+ER
+
+PT J
+AU Gorodetsky, A
+   Karaman, S
+   Marzouk, Y
+AF Gorodetsky, Alex
+   Karaman, Sertac
+   Marzouk, Youssef
+TI High-dimensional stochastic optimal control using continuous tensor
+   decompositions
+DE Stochastic optimal control; motion planning; dynamic programming; tensor
+   decompositions
+ID PROBABILISTIC ROADMAPS; TRAJECTORY GENERATION; APPROXIMATION;
+   OPTIMIZATION; ALGORITHMS; ITERATION; EXTENSION; CHEBFUN; RANK
+TC 0
+Z9 0
+ER
+
+PT J
+AU Taunyazov, T
+   Rubagotti, M
+   Shintemirov, A
+AF Taunyazov, Tasbolat
+   Rubagotti, Matteo
+   Shintemirov, Almas
+TI Constrained Orientation Control of a Spherical Parallel Manipulator via
+   Online Convex Optimization
+DE Convex optimization; real-time optimization; robot control; robot
+   workspace; spherical parallel manipulators (SPMs)
+ID AGILE EYE; MECHANISM; DESIGN; ARCHITECTURE; KINEMATICS; ALGORITHM;
+   ROBOTS; WRIST
+TC 1
+Z9 1
+ER
+
+PT J
+AU Yuan, QL
+   Chen, IM
+   Lembono, TS
+   Landen, SN
+   Malmgren, V
+AF Yuan, Qilong
+   Chen, I-Ming
+   Lembono, Teguh Santoso
+   Landen, Simon Nelson
+   Malmgren, Victor
+TI Automatic robot taping system with compliant force control
+DE Robot taping; Industrial robotics; Robot end-effector design; Robot path
+   planning
+TC 0
+Z9 0
+ER
+
+PT J
+AU Shin, B
+   Ha, J
+   Lee, M
+   Park, K
+   Park, GH
+   Choi, TH
+   Cho, KJ
+   Kim, HY
+AF Shin, Beomjune
+   Ha, Jonghyun
+   Lee, Minhee
+   Park, Keunhwan
+   Park, Gee Ho
+   Choi, Tae Hyun
+   Cho, Kyu-Jin
+   Kim, Ho-Young
+TI Hygrobot: A self-locomotive ratcheted actuator powered by environmental
+   humidity
+ID ADAPTIVE DYNAMIC WALKING; QUADRUPED RUNNING ROBOT; TERRESTRIAL MAMMALS;
+   BIOLOGICAL CONCEPTS; DRIVEN; MECHANICS; ENERGETICS; DESIGN; SOFT;
+   PERFORMANCE
+TC 6
+Z9 6
+ER
+
+PT B
+AU Acuna, R
+   Zhang, D
+   Willert, V
+AF Acuna, Raul
+   Zhang, Ding
+   Willert, Volker
+BE DoNascimento, TP
+   Colombini, EL
+   DeBrito, AV
+   Garcia, LTD
+   Sa, STD
+   Goncalves, LMG
+TI Vision-based UAV landing on a moving platform in GPS denied environments
+   using motion prediction
+DE UAV; autonomous landing; tracking; visual servoing; motion prediction
+ID TRACKING
+TC 0
+Z9 0
+ER
+
+PT B
+AU Zang, HB
+   Li, DY
+   Shen, LG
+AF Zang, Hongbin
+   Li, Dongyi
+   Shen, Lianguan
+GP IEEE
+TI Mechanical Design of Dexterous Bionic Leg with Single-DOF Planar Linkage
+DE single-DOF Planar Linkage; dexterous bionic leg; design principle;
+   configuration design; experimental verification
+TC 0
+Z9 0
+ER
+
+PT S
+AU Shaqura, M
+   Shamma, JS
+AF Shaqura, Mohammad
+   Shamma, Jeff S.
+GP IEEE
+TI An Iterative Learning Approach for Motion Control and Performance
+   Enhancement of Quadcopter UAVs
+DE Learning control; Robot navigation; Iterative improvement; Autonomous
+   mobile robots; Modeling errors
+TC 0
+Z9 0
+ER
+
+PT J
+AU Alfeo, AL
+   Cimino, MGCA
+   De Francesco, N
+   Lazzeri, A
+   Lega, M
+   Vaglini, G
+AF Alfeo, Antonio L.
+   Cimino, Mario G. C. A.
+   De Francesco, Nicoletta
+   Lazzeri, Alessandro
+   Lega, Massimiliano
+   Vaglini, Gigliola
+TI Swarm coordination of mini-UAVs for target search using imperfect
+   sensors
+DE Swarm intelligence; mini-UAV; stigmergy; flocking; target search
+ID AERIAL PLATFORMS; THERMOGRAPHY
+TC 0
+Z9 0
+ER
+
+PT B
+AU Biswas, S
+   Dey, S
+   Mukherjee, A
+AF Biswas, Swagata
+   Dey, Swarnava
+   Mukherjee, Arijit
+GP IEEE
+TI At most M - A Flexible Redundancy Model for Cloud Robotics
+DE IoRT; Cloud Robotics; Reliability; Redundancy; Standby
+ID RELIABILITY
+TC 0
+Z9 0
+ER
+
+PT B
+AU Fan, K
+   Li, J
+   Li, SL
+AF Fan, Kun
+   Li, Jun
+   Li, Siliang
+GP IEEE
+TI Fine Grained Control of Robotic Calligraphy
+DE Brushstroke; Calligraphy; Chinese Character; Machining Learning; Robot
+   Control; Writing Primaries; Extracting features of calligraphy image
+TC 0
+Z9 0
+ER
+
+PT B
+AU Redulla, A
+   Singh, SPN
+AF Redulla, Anne
+   Singh, Surya P. N.
+BE Kurniawati, H
+   Drumwright, E
+   MacDonald, B
+   Fraichard, T
+   Ye, N
+TI Simulating Differential Games with Improved Fidelity to Better Inform
+   Cooperative & Adversarial Two Vehicle UAV Flight
+TC 0
+Z9 0
+ER
+
+PT S
+AU Kreiser, R
+   Cartiglia, M
+   Martel, JNP
+   Conradt, J
+   Sandamirskaya, Y
+AF Kreiser, Raphaela
+   Cartiglia, Matteo
+   Martel, Julien N. P.
+   Conradt, Joerg
+   Sandamirskaya, Yulia
+GP IEEE
+TI A Neuromorphic Approach to Path Integration: a Head-Direction Spiking
+   Neural Network with Vision-driven Reset
+ID DYNAMICS; MODEL; ORIENTATION; ARRAY
+TC 0
+Z9 0
+ER
+
+PT S
+AU Parada, C
+   Bonnet, J
+   Fotopoulou, E
+   Zafeiropoulos, A
+   Kapassa, E
+   Touloupou, M
+   Kyriazis, D
+   Vilalta, R
+   Munoz, R
+   Casellas, R
+   Martinez, R
+   Xilouris, G
+AF Parada, C.
+   Bonnet, J.
+   Fotopoulou, E.
+   Zafeiropoulos, A.
+   Kapassa, E.
+   Touloupou, M.
+   Kyriazis, D.
+   Vilalta, R.
+   Munoz, R.
+   Casellas, R.
+   Martinez, R.
+   Xilouris, G.
+GP IEEE
+TI 5GTANGO: A Beyond-MANO Service Platform
+DE 5GTANGO; NFV; MANO; Policy; SLA; Slicing
+TC 0
+Z9 0
+ER
+
+PT S
+AU Itou, T
+   Wakayama, H
+   Konishi, K
+   Tadano, K
+   Maeno, Y
+   Ogawa, M
+AF Itou, Takehiro
+   Wakayama, Hisaya
+   Konishi, Keiji
+   Tadano, Kumiko
+   Maeno, Yoshiharu
+   Ogawa, Masatsugu
+GP IEEE
+TI AGV Congestion Avoidance using Threshold-modulating Oscillator in
+   Cellular Manufacturing
+ID SYNCHRONIZATION; FIREFLIES; SYSTEMS
+TC 0
+Z9 0
+ER
+
+PT J
+AU Tao, SQ
+   Tan, J
+AF Tao, Songqiao
+   Tan, Juan
+TI Path Planning with Obstacle Avoidance Based on Normalized R-Functions
+ID POTENTIAL-FIELD METHOD; CONVEX DECOMPOSITION; VISIBILITY GRAPH; VORONOI
+   DIAGRAM; MOBILE ROBOTS; ALGORITHM; ENVIRONMENTS; NAVIGATION
+TC 1
+Z9 1
+ER
+
+PT J
+AU Li, K
+   Zhao, XG
+   Sun, SY
+   Tan, M
+AF Li, Kang
+   Zhao, Xiaoguang
+   Sun, Shiying
+   Tan, Min
+TI ROBUST TARGET TRACKING AND FOLLOWING FOR A MOBILE ROBOT
+DE Robust tracking and following; convolutional operation; Bayesian
+   framework; PID control; Microsoft Kinect; mobile robot
+ID SPARSE APPEARANCE MODEL; VISUAL TRACKING; OBJECT TRACKING
+TC 0
+Z9 0
+ER
+
+PT B
+AU Raibert, M
+AF Raibert, Marc
+BE Azad, AKM
+   Cowan, NJ
+   Tokhi, MO
+   Virk, GS
+   Eastman, RD
+TI ALPHADOG, THE ROUGH-TERRAIN ROBOT
+TC 1
+Z9 2
+ER
+
+PT J
+AU Murphy, MP
+   Saunders, A
+   Moreira, C
+   Rizzi, AA
+   Raibert, M
+AF Murphy, Michael P.
+   Saunders, Aaron
+   Moreira, Cassie
+   Rizzi, Alfred A.
+   Raibert, Marc
+TI The LittleDog robot
+DE Quadruped; legged locomotion; rough terrain; platform; hardware
+TC 61
+Z9 63
+ER
+
+PT S
+AU Wooden, D
+   Malchano, M
+   Blankespoor, K
+   Howard, A
+   Rizzi, AA
+   Raibert, M
+AF Wooden, David
+   Malchano, Matthew
+   Blankespoor, Kevin
+   Howard, Andrew
+   Rizzi, Alfred A.
+   Raibert, Marc
+GP IEEE
+TI Autonomous Navigation for BigDog
+ID URBAN CHALLENGE
+TC 74
+Z9 84
+ER
+
+PT S
+AU Playter, R
+   Buehler, M
+   Raibert, M
+AF Playter, R.
+   Buehler, M.
+   Raibert, M.
+BE Gerhart, GR
+   Shoemaker, CM
+   Gage, DW
+TI BigDog
+DE legged robot; legged locomotion; field robotics
+TC 21
+Z9 22
+ER
+
+PT B
+AU Kuroki, Y
+   Blank, B
+   Mikami, T
+   Mayeux, P
+   Miyamoto, A
+   Playter, R
+   Nagasaka, K
+   Raibert, M
+   Nagano, M
+   Yamaguchi, J
+AF Kuroki, Y
+   Blank, B
+   Mikami, T
+   Mayeux, P
+   Miyamoto, A
+   Playter, R
+   Nagasaka, K
+   Raibert, M
+   Nagano, M
+   Yamaguchi, J
+GP IEEE
+   IEEE
+TI Motion creating system for a small biped entertainment robot
+TC 13
+Z9 14
+ER
+
+PT J
+AU O'Toole, RV
+   Playter, RR
+   Krummel, TM
+   Blank, WC
+   Cornelius, NH
+   Roberts, WR
+   Bell, WJ
+   Raibert, M
+AF O'Toole, RV
+   Playter, RR
+   Krummel, TM
+   Blank, WC
+   Cornelius, NH
+   Roberts, WR
+   Bell, WJ
+   Raibert, M
+TI Measuring and developing suturing technique with a virtual reality
+   surgical simulator
+ID PSYCHOMOTOR-SKILLS; RESIDENTS; SURGEONS
+TC 125
+Z9 125
+ER
+
+EF

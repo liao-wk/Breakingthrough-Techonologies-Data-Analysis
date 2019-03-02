@@ -1,0 +1,3562 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Wu, DP
+   Zhang, F
+   Wang, HG
+   Wang, RY
+AF Wu, Dapeng
+   Zhang, Feng
+   Wang, Honggang
+   Wang, Ruyan
+TI Security-oriented opportunistic data forwarding in Mobile Social
+   Networks
+DE Mobile social networks; Malicious behavior detection; Trust and
+   reputation management; Opportunistic forwarding
+ID DELAY-TOLERANT NETWORKS; TRUST MANAGEMENT; RECOGNITION; PERSPECTIVE;
+   FRAMEWORK; SYSTEM
+TC 24
+Z9 24
+ER
+
+PT J
+AU Machuca, MDB
+   Chinthammit, W
+   Huang, WD
+   Wasinger, R
+   Duh, H
+AF Machuca, Mayra Donaji Barrera
+   Chinthammit, Winyu
+   Huang, Weidong
+   Wasinger, Rainer
+   Duh, Henry
+TI Enabling Symmetric Collaboration in Public Spaces through 3D Mobile
+   Interaction
+DE usability testing; cooperative application; mobile devices; 3D mobile
+   interaction; 3D user interfaces
+ID DISPLAYS
+TC 0
+Z9 0
+ER
+
+PT J
+AU Naylor, A
+   Gibbs, J
+AF Naylor, Amanda
+   Gibbs, Janet
+TI Deep Learning: Enriching Teacher Training through Mobile Technology and
+   International Collaboration
+DE Authenticity; Collaboration; eBooks; Education; iPads; Mobile
+   Technology; Pedagogy; Pre-Service Teachers; Professional Learning;
+   Teacher Training
+ID PEDAGOGICAL CONTENT KNOWLEDGE; PRESERVICE TEACHERS
+TC 1
+Z9 1
+ER
+
+PT J
+AU Roman, R
+   Lopez, J
+   Mambo, M
+AF Roman, Rodrigo
+   Lopez, Javier
+   Mambo, Masahiro
+TI Mobile edge computing, Fog et al.: A survey and analysis of security
+   threats and challenges
+DE Security; Privacy; Cloud computing; Fog computing; Mobile edge
+   computing; Mobile cloud computing
+ID INTRUSION DETECTION; CLOUD; NETWORKS; PRIVACY; AUTHENTICATION; INTERNET;
+   TAXONOMY; THINGS; ISSUES
+TC 49
+Z9 49
+ER
+
+PT J
+AU Benhamida, N
+   Bouallouche-Medjkoune, L
+   Aissani, D
+   Lafifi, Y
+AF Benhamida, Nadjette
+   Bouallouche-Medjkoune, Louiza
+   Aissani, Djamil
+   Lafifi, Yacine
+TI Improving the Quality of Mobile Learning Services
+DE Caching performances; Collaborative mobile learning; Learning
+   performances; Mobile agent; QoS; Web services
+ID CENTRIC NETWORKING; CACHE MANAGEMENT; WEB CACHE
+TC 0
+Z9 0
+ER
+
+PT J
+AU Abrahamyan, S
+   Balyan, S
+   Ter-Minasyan, H
+   Degtyarev, A
+AF Abrahamyan, Suren
+   Balyan, Serob
+   Ter-Minasyan, Harutyun
+   Degtyarev, Alexander
+TI Collaboration and decision making tools for mobile groups
+DE decision-making tool; ad-hoc based collaboration; mobile server
+TC 0
+Z9 0
+ER
+
+PT J
+AU Chen, X
+   Pu, LJ
+   Gao, L
+   Wu, WG
+   Wu, D
+AF Chen, Xu
+   Pu, Lingjun
+   Gao, Lin
+   Wu, Weigang
+   Wu, Di
+TI EXPLOITING MASSIVE D2D COLLABORATION FOR ENERGY-EFFICIENT MOBILE EDGE
+   COMPUTING
+TC 28
+Z9 28
+ER
+
+PT J
+AU Siau, K
+   Ling, M
+AF Siau, Keng
+   Ling, Min
+TI Mobile Collaboration Support for Virtual Teams: The Case of Virtual
+   Information Systems Development Teams
+DE Mobile Applications; Mobile Collaboration; Value-Focused Thinking;
+   Virtual Team
+TC 0
+Z9 0
+ER
+
+PT J
+AU Perry, HB
+   Sacks, E
+   Schleiff, M
+   Kumapley, R
+   Gupta, S
+   Rassekh, BM
+   Freeman, PA
+AF Perry, Henry B.
+   Sacks, Emma
+   Schleiff, Meike
+   Kumapley, Richard
+   Gupta, Sundeep
+   Rassekh, Bahie M.
+   Freeman, Paul A.
+TI Comprehensive review of the evidence regarding the effectiveness of
+   community-based primary health care in improving maternal, neonatal and
+   child health: 6. strategies used by effective projects
+ID RESOURCE-CONSTRAINED SETTINGS; RANDOMIZED CONTROLLED-TRIAL; ALMA-ATA;
+   UNDER-5 MORTALITY; CASE-MANAGEMENT; NEWBORN BABIES; SIERRA-LEONE;
+   INTERVENTIONS; BANGLADESH; SURVIVAL
+TC 13
+Z9 13
+ER
+
+PT J
+AU Tran, TX
+   Hajisami, A
+   Pandey, P
+   Pompili, D
+AF Tran, Tuyen X.
+   Hajisami, Abolfazl
+   Pandey, Parul
+   Pompili, Dario
+TI Collaborative Mobile Edge Computing in 5G Networks: New Paradigms,
+   Scenarios, and Challenges
+TC 71
+Z9 74
+ER
+
+PT J
+AU Hew, JJ
+AF Hew, Jun-Jie
+TI Hall of fame for mobile commerce and its applications: A bibliometric
+   evaluation of a decade and a half (2000-2015)
+DE Mobile commerce; Mobile commerce applications; Bibliometric analysis;
+   Web of Science
+ID NEURAL-NETWORK APPROACH; INTERNET SERVICES; CONSUMER PERCEPTION; CREDIT
+   CARD; ADOPTION; ACCEPTANCE; DETERMINANTS; TECHNOLOGY; MODEL; USAGE
+TC 20
+Z9 21
+ER
+
+PT S
+AU Lee, J
+   Lee, H
+   Lee, YC
+   Han, H
+   Kang, S
+AF Lee, Jaehun
+   Lee, Hochul
+   Lee, Young Choon
+   Han, Hyuck
+   Kang, Sooyong
+BE Fox, GC
+TI Platform Support for Mobile Edge Computing
+TC 2
+Z9 2
+ER
+
+PT S
+AU Navarro, B
+   Cherubini, A
+   Fonte, A
+   Poisson, G
+   Fraisse, P
+AF Navarro, Benjamin
+   Cherubini, Andrea
+   Fonte, Aicha
+   Poisson, Gerard
+   Fraisse, Philippe
+BE Bicchi, A
+   Okamura, A
+TI A Framework for intuitive collaboration with a mobile manipulator
+TC 0
+Z9 0
+ER
+
+PT S
+AU Chen, ZX
+   Tang, YL
+AF Chen, Zengxian
+   Tang, Yuliang
+GP IEEE
+TI A Resource Collaboration Scheduling Scheme in Ultra-dense Small Cells
+DE Resource collaboration; Inter-cell interference coordination;
+   Ultra-dense small cells; 5G virtualization
+ID INTERFERENCE MITIGATION; FEMTOCELL NETWORKS
+TC 1
+Z9 1
+ER
+
+PT J
+AU Pejoska-Laajola, J
+   Reponen, S
+   Virnes, M
+   Leinonen, T
+AF Pejoska-Laajola, Jana
+   Reponen, Sanna
+   Virnes, Marjo
+   Leinonen, Teemu
+TI Mobile augmented communication for remote collaboration in a physical
+   work context
+ID AWARENESS; REALITY
+TC 0
+Z9 0
+ER
+
+PT J
+AU Burden, KJ
+   Kearney, M
+AF Burden, Kevin John
+   Kearney, Matthew
+TI Investigating and critiquing teacher educators' mobile learning
+   practices
+DE Collaboration; Mobile learning; Personalization; Authenticity; Teacher
+   educators
+ID IPADS; BARRIERS; SCIENCE; FUTURE; DESIGN
+TC 3
+Z9 3
+ER
+
+PT S
+AU Troussas, C
+   Krouska, A
+   Virvou, M
+AF Troussas, Christos
+   Krouska, Akrivi
+   Virvou, Maria
+GP IEEE
+TI Social interaction through a mobile instant messaging application using
+   geographic location for blended collaborative learning
+DE collaboration; communication; instant messaging application; mobile
+   learning; geographic location
+TC 0
+Z9 0
+ER
+
+PT B
+AU Zheng, JH
+   Peng, X
+   Yang, JC
+   Cai, HQ
+   Huang, G
+   Zhang, Y
+   Zhao, WY
+AF Zheng, Jiahuan
+   Peng, Xin
+   Yang, Jiacheng
+   Cai, Huaqian
+   Huang, Gang
+   Zhang, Ying
+   Zhao, Wenyun
+GP Assoc Comp Machinery
+TI CollaDroid: Automatic Augmentation of Android Application with
+   Lightweight Interactive Collaboration
+DE Mobile applications; Android; interactive collaboration; program
+   transformation
+TC 0
+Z9 0
+ER
+
+PT J
+AU Fan, XC
+   Yang, PL
+   Li, QY
+   Liu, DW
+   Xiang, CC
+   Zhao, YG
+AF Fan, Xiaochen
+   Yang, Panlong
+   Li, Qingyu
+   Liu, Dawei
+   Xiang, Chaocan
+   Zhao, Yonggang
+TI SAFE-CROWD: secure task allocation for collaborative mobile social
+   network
+DE security; task allocation; traffic balancing; mobile social network
+TC 0
+Z9 0
+ER
+
+PT J
+AU Reychav, I
+   Ndicu, M
+   Wu, DZ
+AF Reychav, Iris
+   Ndicu, Martin
+   Wu, Dezhi
+TI Leveraging social networks in the adoption of mobile technologies for
+   collaboration
+DE Social networks; Mobile collaboration; Mobile learning; Collaborative
+   Knowledge Acquisition
+ID COMPUTER SELF-EFFICACY; ACCEPTANCE MODEL; INFORMATION-TECHNOLOGY; USER
+   ACCEPTANCE; CENTRALITY; COMMUNITIES; PERFORMANCE; FRAMEWORK; USAGE;
+   CLARIFICATION
+TC 9
+Z9 9
+ER
+
+PT J
+AU Lee, SK
+   Yoo, S
+   Kim, H
+AF Lee, Suk Kyu
+   Yoo, Seungho
+   Kim, Hwangnam
+TI Devising a user collaboration scheme to automatically generate videos
+DE Mobile film; User collaboration scheme; Multimedia application;
+   Automatic film editing
+ID CLASSIFICATION
+TC 1
+Z9 1
+ER
+
+PT S
+AU Moreno, D
+   Ochoa, SF
+AF Moreno, Daniel
+   Ochoa, Sergio F.
+GP IEEE
+TI Understanding the Resource Positioning Methods that Support Mobile
+   Collaboration
+DE Positioning techniques; mobile interactions; mobile collaborative
+   systems
+ID SYSTEMS; TECHNOLOGY; SERVICES; LOCATION
+TC 1
+Z9 1
+ER
+
+PT J
+AU Ming, TR
+   Liang, OB
+   Norowi, NM
+   Mansor, EI
+   Dey, P
+   Jamil, I
+AF Ming, Teo Rhun
+   Liang, Ong Beng
+   Norowi, Noris Mohd
+   Mansor, Evi Indriasari
+   Dey, Prasenjit
+   Jamil, Izdihar
+TI GAMING EXPERIENCE ON THE MOBITOP SYSTEM: A COLLOCATED AD-HOC
+   COLLABORATION SYSTEM
+DE Collocated ad-hoc collaboration; multi-mobile devices; collaboration;
+   games
+TC 0
+Z9 0
+ER
+
+PT B
+AU Liang, OB
+   Ming, TR
+   Norowi, NM
+   Mansor, EI
+   Dey, P
+   Jamil, I
+AF Liang, Ong Beng
+   Ming, Teo Rhun
+   Norowi, Noris Mohd
+   Mansor, Evi Indriasari
+   Dey, Prasenjit
+   Jamil, Izdihar
+BA Tedjasaputra, A
+BF Tedjasaputra, A
+BE Sari, E
+   Syahrina, A
+TI MobiTop: Interactivity Issues in a Multi-Mobile System
+DE Mobile devices; tabletop; multi-mobile system; interactivity; bezel;
+   orientation
+TC 0
+Z9 0
+ER
+
+PT B
+AU Anslow, C
+   Grisoni, L
+   Campos, P
+   Augstein, M
+   Lucero, A
+   Wallace, J
+AF Anslow, Craig
+   Grisoni, Laurent
+   Campos, Pedro
+   Augstein, Mirjam
+   Lucero, Andres
+   Wallace, Jim
+GP ACM
+TI Collaboration Meets Interactive Surfaces and Spaces (CMIS): Walls,
+   Tables, Mobiles, and Wearables
+DE Collaboration; interactive surfaces; large display walls; tabletops;
+   mobile; multi-touch interaction; wearables
+TC 0
+Z9 0
+ER
+
+PT S
+AU Galvan-Tejada, CE
+   Galvan-Tejada, JI
+   Celaya-Padilla, JM
+   Delgado-Contreras, JR
+   Alcala-Ramirez, V
+   Solis-Sanchez, LO
+AF Galvan-Tejada, Carlos E.
+   Galvan-Tejada, Jorge I.
+   Celaya-Padilla, Jose M.
+   Ruben Delgado-Contreras, J.
+   Alcala-Ramirez, Vanessa
+   Octavio Solis-Sanchez, Luis
+BE MartinezTrinidad, JF
+   CarrascoOchoa, JA
+   AyalaRamirez, V
+   OlveraLopez, JA
+   Jiang, X
+TI A Dynamic Indoor Location Model for Smartphones Based on Magnetic Field:
+   A Preliminary Approach
+DE Indoor positioning; Crowdsourcing; Social collaboration; ILS
+ID SELECTION
+TC 0
+Z9 0
+ER
+
+PT J
+AU Halje, K
+   Timpka, T
+   Ekberg, J
+   Bang, M
+   Froberg, A
+   Eriksson, H
+AF Halje, Karin
+   Timpka, Toomas
+   Ekberg, Joakim
+   Bang, Magnus
+   Froberg, Anders
+   Eriksson, Henrik
+TI Towards mHealth Systems for Support of Psychotherapeutic Practice: A
+   Qualitative Study of Researcher-Clinician Collaboration in System Design
+   and Evaluation
+ID PRACTICE-RESEARCH-NETWORK; PARTICIPATORY DESIGN; BOULDER MODEL;
+   PRACTITIONER; CHALLENGE; ANXIETY; FUTURE; SCALE
+TC 1
+Z9 1
+ER
+
+PT J
+AU He, SN
+   Chan, SHG
+AF He, Suining
+   Chan, S. -H. Gary
+TI Wi-Fi Fingerprint-Based Indoor Positioning: Recent Advances and
+   Comparisons
+DE Indoor localization; Wi-Fi fingerprinting; localization techniques;
+   system deployment; recent progresses and comparisons
+ID ENERGY-EFFICIENT LOCALIZATION; LOCATION ESTIMATION; SIGNAL-STRENGTH;
+   MOBILE DEVICES; GO BEHAVIOR; SYSTEMS; TRACKING; SMARTPHONES;
+   INFRASTRUCTURE; HETEROGENEITY
+TC 193
+Z9 204
+ER
+
+PT J
+AU Kumar, RS
+   Kaliyaperumal, K
+AF Kumar, R. Santha
+   Kaliyaperumal, K.
+TI A scientometric analysis of mobile technology publications
+DE Mobile technology; Scientometric analysis; Author productivity; RGR; DT;
+   Trend analysis; Collaboration index
+ID COLLABORATION
+TC 3
+Z9 3
+ER
+
+PT J
+AU Tan, EMY
+   Goh, DHL
+AF Tan, Esther Meng-Yoke
+   Goh, Dion Hoe-Lian
+TI A study of social interaction during mobile information seeking
+DE information seeking; user studies; information infrastructure
+ID TOURIST GUIDE; CONTEXT; ENVIRONMENT; SYSTEM
+TC 5
+Z9 5
+ER
+
+PT J
+AU Noordink, F
+AF Noordink, Femke
+TI On to mobile collaboration?
+TC 0
+Z9 0
+ER
+
+PT J
+AU Guo, B
+   Wang, Z
+   Yu, ZW
+   Wang, Y
+   Yen, NY
+   Huang, RH
+   Zhou, XS
+AF Guo, Bin
+   Wang, Zhu
+   Yu, Zhiwen
+   Wang, Yu
+   Yen, Neil Y.
+   Huang, Runhe
+   Zhou, Xingshe
+TI Mobile Crowd Sensing and Computing: The Review of an Emerging
+   Human-Powered Sensing Paradigm
+DE Theory; Mobile phone sensing; cross-space sensing and mining;
+   human-machine systems; urban/community dynamics; crowd intelligence
+ID DATA DISSEMINATION; TOLERANT NETWORKS; GPS TRACES; INTELLIGENCE; SYSTEM;
+   OPPORTUNITIES; SMARTPHONES; DISRUPTION; CHALLENGES; EMERGENCE
+TC 151
+Z9 152
+ER
+
+PT J
+AU de Reuver, M
+   Verschuur, E
+   Nikayin, F
+   Cerpa, N
+   Bouwman, H
+AF de Reuver, Mark
+   Verschuur, Edgar
+   Nikayin, Fatemeh
+   Cerpa, Narciso
+   Bouwman, Harry
+TI Collective action for mobile payment platforms: A case study on
+   collaboration issues between banks and telecom operators
+DE mobile payment; collective action; banks; telecom operators;
+   collaboration; near field communication; service platform
+ID INFORMATION-SYSTEMS RESEARCH; STRATEGIC ALLIANCES; GROUP HETEROGENEITY;
+   CRITICAL MASS; COOPERATION; MANAGEMENT; GOVERNANCE; EVOLUTION; NETWORKS;
+   FUTURE
+TC 24
+Z9 24
+ER
+
+PT J
+AU Zhou, J
+   Dong, XL
+   Cao, ZF
+   Vasilakos, AV
+AF Zhou, Jun
+   Dong, Xiaolei
+   Cao, Zhenfu
+   Vasilakos, Athanasios V.
+TI Secure and Privacy Preserving Protocol for Cloud-Based Vehicular DTNs
+DE Cloud computing; security and privacy; delay tolerant network; VANETs
+ID DELAY-TOLERANT NETWORKS; AD-HOC NETWORKS; TO-PEER NETWORKS; INCENTIVE
+   PROTOCOL; SCHEME; GREEN
+TC 64
+Z9 66
+ER
+
+PT J
+AU Lee, SY
+   Park, SJ
+AF Lee, Seul-Yi
+   Park, Soo-Jin
+TI A review on solid adsorbents for carbon dioxide capture
+DE CO2 capture; Dry adsorbent; Carbon materials; Zeolite; Silica;
+   Metal-organic framework; Alkali metal; Metal oxide carbonate
+ID POSTCOMBUSTION CO2 CAPTURE; PRESSURE-SWING ADSORPTION; METAL-ORGANIC
+   FRAMEWORKS; HYDROGEN STORAGE BEHAVIORS; ACTIVATED GRAPHITE NANOFIBERS;
+   ORDERED NANOPOROUS CARBON; DOPED MICROPOROUS CARBONS; TEMPLATED POROUS
+   CARBONS; MESOPOROUS SILICA; FLUE-GAS
+TC 134
+Z9 140
+ER
+
+PT J
+AU Kim, K
+   Ha, W
+   Choi, O
+   Yeh, H
+   Kim, JH
+   Hong, M
+   Shon, T
+AF Kim, Kangseok
+   Ha, Wonjeong
+   Choi, Okkyung
+   Yeh, Hongjin
+   Kim, Jai-Hoon
+   Hong, Manpyo
+   Shon, Taeshik
+TI An interactive pervasive whiteboard based on MVC architecture for
+   ubiquitous collaboration
+DE CSCW; Ubiquitous Collaboration; Interactive Shared Whiteboard; Mobile
+   Device; MVC
+TC 1
+Z9 1
+ER
+
+PT J
+AU Fortino, G
+   Galzarano, S
+   Gravina, R
+   Li, WF
+AF Fortino, Giancarlo
+   Galzarano, Stefano
+   Gravina, Raffaele
+   Li, Wenfeng
+TI A framework for collaborative computing and multi-sensor data fusion in
+   body sensor networks
+DE Body sensor networks; SPINE; Collaborative computing; Multi-sensor data
+   fusion; Emotion detection; Handshake detection
+ID DOMAIN
+TC 81
+Z9 82
+ER
+
+PT J
+AU Chib, A
+   van Velthoven, MH
+   Car, J
+AF Chib, Arul
+   van Velthoven, Michelle Helena
+   Car, Josip
+TI mHealth Adoption in Low-Resource Environments: A Review of the Use of
+   Mobile Healthcare in Developing Countries
+ID SHORT-MESSAGE SERVICE; RANDOMIZED CONTROLLED-TRIAL; CELL PHONES;
+   BEHAVIOR-CHANGE; IMPROVE ATTENDANCE; CLINIC ATTENDANCE; HIV-INFECTION;
+   RURAL UGANDA; SOUTH-AFRICA; ACEH BESAR
+TC 75
+Z9 77
+ER
+
+PT B
+AU Guetmi, N
+   Mechaoui, MD
+   Imine, A
+   Bellatreche, L
+AF Guetmi, Nadir
+   Mechaoui, Moulay Driss
+   Imine, Abdessamad
+   Bellatreche, Ladjel
+BE Shin, D
+TI Mobile Collaboration: a Collaborative Editing Service in the Cloud
+DE Mobile Collaboration; Peer-to-peer; Collaborative Editing; Cloud
+   computing; Consistency Preservation
+TC 0
+Z9 2
+ER
+
+PT B
+AU Widick, L
+   Talkington, J
+   Bajwa, G
+   Dantu, R
+AF Widick, Logan
+   Talkington, Josh
+   Bajwa, Garima
+   Dantu, Ram
+BE Smari, WW
+   McQuay, W
+   Nygard, M
+   Natarian, J
+TI A Framework for Secured Collaboration in mHealth
+DE Cardiopulmonary resuscitation(CPR); mobile health; machine to
+   machine(M2M); secure collaboration
+TC 0
+Z9 0
+ER
+
+PT S
+AU Hercegfi, K
+   Komlodi, A
+   Szabo, B
+   Koles, M
+   Logo, E
+   Hamornik, BP
+   Rozsa, G
+AF Hercegfi, Karoly
+   Komlodi, Anita
+   Szabo, Balint
+   Koles, Mate
+   Logo, Emma
+   Hamornik, Balazs P.
+   Rozsa, Gyongyi
+GP IEEE
+TI Experiences of virtual desktop collaboration experiments
+DE virtual reality (VR); VirCA; collaboration; EEG; ECG; eye-tracking
+TC 1
+Z9 1
+ER
+
+PT B
+AU Lam, L
+AF Lam, Lui
+BE Wang, FL
+   Wong, TL
+   Au, O
+   Liu, QT
+   Wu, D
+TI A Qualitative Study to Understand the Factors influencing Student
+   Acceptance of Mobile Learning
+DE mobile learning; m-learning; behavioral intention; technology adoption;
+   collaboration; social interaction
+ID HIGHER-EDUCATION; USER ACCEPTANCE; TECHNOLOGY; FRAMEWORK; DEVICES;
+   MODELS; HAND
+TC 1
+Z9 1
+ER
+
+PT S
+AU Pe-Than, EPP
+   Goh, DHL
+   Lee, CS
+AF Pe-Than, Ei Pa Pa
+   Goh, Dion Hoe-Lian
+   Lee, Chei Sian
+BE Allen, RB
+   Hunter, J
+   Zeng, ML
+TI The Effects of Collaboration and Competition on Players' Perceptions in
+   Human Computation Games
+DE Human Computation Games; Location-based content; Mobile multiplayer
+   games; Information sharing; Enjoyment; Output quality
+ID COOPERATION; ENJOYMENT
+TC 1
+Z9 1
+ER
+
+PT B
+AU Kim, SS
+   Cho, C
+   Won, J
+AF Kim, Sung-Soo
+   Cho, Chunglae
+   Won, Jongho
+BE Smari, WW
+TI A Collaboration Middleware for Service Scalability in Peer-to-Peer
+   Systems
+DE middleware; distributed applications; service scalability; collaboration
+   services
+TC 0
+Z9 0
+ER
+
+PT S
+AU Lopez-de-Ipina, D
+   Aguilera, U
+   Perez, J
+AF Lopez-de-Ipina, Diego
+   Aguilera, Unai
+   Perez, Jorge
+BE GarciaChamizo, JM
+   Fortino, G
+   Ochoa, SF
+TI Collaboration-Centred Cities Through Urban Apps Based on Open and
+   User-Generated Data
+DE Smart city; Linked data; Apps; Crowdsourcing; HTML5
+TC 1
+Z9 1
+ER
+
+PT B
+AU Giesbrecht, T
+   Comes, T
+   Schwabe, G
+AF Giesbrecht, Tobias
+   Comes, Tino
+   Schwabe, Gerhard
+GP ACM
+TI Back in Sight, Back in Mind: Picture-Centric Support for Mobile
+   Counseling Sessions
+DE mobile collaboration; collaborative memory; memory aid; counseling
+   service; working with pictures; design science
+ID INFORMATION-SYSTEMS RESEARCH; DESIGN SCIENCE; MEMORY; VIEW
+TC 3
+Z9 3
+ER
+
+PT S
+AU Paul, SA
+   Bolinger, JW
+AF Paul, Sharoda A.
+   Bolinger, Joe W.
+BE Bui, TX
+   Sprague, RH
+TI Ask an Expert: Mobile Workspaces for Collaborative Troubleshooting
+TC 1
+Z9 1
+ER
+
+PT S
+AU Cheng, XS
+   Yu, JH
+AF Cheng, Xusen
+   Yu, Jianhua
+BE Bui, TX
+   Sprague, RH
+TI Designing of a Mobile Collaboration Application for Student
+   Collaborative Group Work: Evidence from China
+ID OPPORTUNITIES; FOUNDATION
+TC 1
+Z9 1
+ER
+
+PT S
+AU Abrahamyan, S
+   Balyan, S
+   Ter-Minasyan, H
+   Waizenauer, A
+   Korkhov, V
+AF Abrahamyan, Suren
+   Balyan, Serob
+   Ter-Minasyan, Harutyun
+   Waizenauer, Alfred
+   Korkhov, Vladimir
+BE Gervasi, O
+   Murgante, B
+   Misra, S
+   Gavrilova, ML
+   Rocha, AMAC
+   Torre, C
+   Taniar, D
+   Apduhan, BO
+TI Distributed Collaboration Based on Mobile Infrastructure
+DE Scientific mobile infrastructures; Digital collaboration
+TC 3
+Z9 3
+ER
+
+PT S
+AU Li, JN
+   Alem, L
+   Huang, WD
+AF Li, Jane
+   Alem, Leila
+   Huang, Weidong
+BE Yin, X
+   Ho, K
+   Zeng, D
+   Aickelin, U
+   Zhou, R
+   Wang, H
+TI Supporting Frontline Health Workers Through the Use of a Mobile
+   Collaboration Tool
+TC 2
+Z9 2
+ER
+
+PT B
+AU Jones, B
+   Witcraft, A
+   Bateman, S
+   Neustaedter, C
+   Tang, A
+AF Jones, Brennan
+   Witcraft, Anna
+   Bateman, Scott
+   Neustaedter, Carman
+   Tang, Anthony
+GP Assoc Comp Machinery
+TI Mechanics of Camera Work in Mobile Video Collaboration
+DE CSCW; collaboration; handheld devices; mobile computing; video
+   communication
+ID PHYSICAL TASKS
+TC 7
+Z9 7
+ER
+
+PT J
+AU Kearney, M
+   Burden, K
+   Rai, T
+AF Kearney, Matthew
+   Burden, Kevin
+   Rai, Tapan
+TI Investigating teachers' adoption of signature mobile pedagogies
+DE Mobile learning; Pedagogical issues; Secondary education; Elementary
+   education
+ID TECHNOLOGY INTEGRATION; CLASSROOM; BELIEFS; SCHOOLS; DEVICES
+TC 33
+Z9 33
+ER
+
+PT J
+AU Shin, S
+   Shon, T
+   Yeh, H
+   Kim, K
+AF Shin, Soobok
+   Shon, Taeshik
+   Yeh, Hongjin
+   Kim, Kangseok
+TI An effective authentication mechanism for ubiquitous collaboration in
+   heterogeneous computing environment
+DE Ubiquitous collaboration; Authentication; Ubiquitous convergence
+   networks; Mobile device
+ID MOBILE USERS
+TC 1
+Z9 1
+ER
+
+PT J
+AU Reuter, C
+   Ludwig, T
+   Pipek, V
+AF Reuter, Christian
+   Ludwig, Thomas
+   Pipek, Volkmar
+TI Ad Hoc Participation in Situation Assessment: Supporting Mobile
+   Collaboration in Emergencies
+DE Awareness; collaboration; design case study; emergency management;
+   ethnography; mobile devices; participation; situation assessment
+ID CRISIS MANAGEMENT; INFORMATION; SYSTEMS; COMMUNICATION; AWARENESS;
+   DISASTER; MAPS
+TC 6
+Z9 6
+ER
+
+PT J
+AU Kovachev, D
+   Nicolaescu, P
+   Klamma, R
+AF Kovachev, Dejan
+   Nicolaescu, Petru
+   Klamma, Ralf
+TI Mobile Real-Time Collaboration for Semantic Multimedia
+DE Real-time collaboration; Augmented reality; Mobile multimedia;
+   Multimedia metadata; MPEG-7; XMPP
+TC 1
+Z9 2
+ER
+
+PT J
+AU Pichiliani, MC
+   Hirata, CM
+AF Pichiliani, Mauro C.
+   Hirata, Celso Massaki
+TI Adaptation of Single-user Multi-touch Components to Support Synchronous
+   Mobile Collaboration
+DE Multi-touch; Mobile; Collaboration
+ID DESIGN
+TC 0
+Z9 0
+ER
+
+PT J
+AU Runge, CA
+   Martini, TG
+   Possingham, HP
+   Willis, SG
+   Fuller, RA
+AF Runge, Claire A.
+   Martini, Tara G.
+   Possingham, Hugh P.
+   Willis, Stephen G.
+   Fuller, Richard A.
+TI Conserving mobile species
+ID CLIMATE-CHANGE; PROTECTED AREAS; HABITAT LOSS; CONSERVATION; MANAGEMENT;
+   CONNECTIVITY; MODELS; CONSEQUENCES; ASSESSMENTS; KNOWLEDGE
+TC 105
+Z9 111
+ER
+
+PT J
+AU Golrezaei, N
+   Mansourifard, P
+   Molisch, AF
+   Dimakis, AG
+AF Golrezaei, Negin
+   Mansourifard, Parisa
+   Molisch, Andreas F.
+   Dimakis, Alexandros G.
+TI Base-Station Assisted Device-to-Device Communications for
+   High-Throughput Wireless Video Networks
+DE Caching; D2D communication; wireless networks; video streaming
+ID GOSSIP ALGORITHMS
+TC 190
+Z9 192
+ER
+
+PT J
+AU Greenwald, T
+AF Greenwald, Ted
+TI Mobile Collaboration
+TC 0
+Z9 0
+ER
+
+PT J
+AU de Sa, M
+   Shamma, D
+   Churchill, E
+AF de Sa, Marco
+   Shamma, David A.
+   Churchill, Elizabeth F.
+TI Live mobile collaboration for video production: design, guidelines, and
+   requirements
+DE Mobile video production; Collaboration prototyping; Field studies
+TC 7
+Z9 7
+ER
+
+PT J
+AU Aranda-Jan, CB
+   Mohutsiwa-Dibe, N
+   Loukanova, S
+AF Aranda-Jan, Clara B.
+   Mohutsiwa-Dibe, Neo
+   Loukanova, Svetla
+TI Systematic review on what works, what does not work and why of
+   implementation of mobile health (mHealth) projects in Africa
+DE mHealth; Telemedicine; Access to healthcare services; Africa
+ID RANDOMIZED CONTROLLED-TRIAL; SOUTH-AFRICA; CELL-PHONES; COMMUNICATION
+   GAP; RURAL UGANDA; REMOTE AREAS; HIV; MALARIA; CARE; FEASIBILITY
+TC 128
+Z9 129
+ER
+
+PT B
+AU Ghazzai, H
+   Yaacoub, E
+   Alouini, MS
+AF Ghazzai, Hakim
+   Yaacoub, Elias
+   Alouini, Mohamed-Slim
+GP IEEE
+TI Multi-Operator Collaboration for Green Cellular Networks under Roaming
+   Price Consideration
+DE Green networking; mobile operator collaboration; energy saving; sleeping
+   strategy; roaming price
+TC 0
+Z9 0
+ER
+
+PT S
+AU Bauer, C
+   Mladenow, A
+   Strauss, C
+AF Bauer, Christine
+   Mladenow, Andreas
+   Strauss, Christine
+BE Luo, Y
+TI Fostering Collaboration by Location-Based Crowdsourcing
+DE Location-based Crowdsourcing; LBCS; Collaboration; Collaborative
+   Crowdsourcing; Time-dependency; Location-dependency; Typology; Social
+   Communities; Mobile Crowdsourcing Applications
+TC 1
+Z9 1
+ER
+
+PT S
+AU Wang, WH
+   Hao, YM
+   Cao, YH
+   Li, L
+AF Wang, Weihong
+   Hao, Yanmei
+   Cao, Yuhui
+   Li, Liang
+BE Li, JF
+TI A Cloud-Based Real-time Mobile Collaboration Wiki System
+DE Mobile Collaboration; Cloud Computing; Wiki
+TC 2
+Z9 3
+ER
+
+PT S
+AU Wang, WH
+   Hao, YM
+   Cao, YH
+AF Wang, Weihong
+   Hao, Yanmei
+   Cao, Yuhui
+BE Li, JF
+TI A Mobile Collaboration Resource Framework based on Mulitiple Resource
+   Semantic Granule
+DE Mobile Collaboration; Information Granularity; Resource Semantic
+TC 0
+Z9 0
+ER
+
+PT B
+AU Fan, XC
+   Yang, PL
+   Li, QY
+AF Fan, Xiaochen
+   Yang, Panlong
+   Li, Qingyu
+GP IEEE
+TI SAFE-CROWD: Secure Task Allocation for Collaborative Mobile Social
+   Network
+DE Security; Task Allocation; Traffic Balancing; Mobile Social Network
+TC 0
+Z9 0
+ER
+
+PT B
+AU Lu, ML
+   Xin, MJ
+   Li, WM
+AF Lu, Manli
+   Xin, Mingjun
+   Li, Weimin
+GP IEEE
+TI An Approach to the Location-based Services Collaboration Evaluation
+   Algorithm Oriented to Mobile Internet Environment
+DE Location-based services; collaboration evaluation; Quality of Service;
+   optimization algorithm; user preferences
+TC 0
+Z9 0
+ER
+
+PT B
+AU Raj, P
+   Helal, S
+AF Raj, Prthvi
+   Helal, Sumi
+BE Apduhan, BO
+   Zheng, Y
+   Nakamoto, Y
+   Thulasiraman, P
+   Ning, H
+   Sun, Y
+TI Palantir: Crowdsourced Newsification using Twitter
+TC 0
+Z9 0
+ER
+
+PT S
+AU Lee, SK
+   Yoo, S
+   Kim, E
+   Kim, H
+   Kim, K
+   Kim, H
+AF Lee, Suk Kyu
+   Yoo, Seungho
+   Kim, Eugene
+   Kim, Hyunsoon
+   Kim, Kangho
+   Kim, Hwangnam
+GP IEEE
+TI EMVideo: User Collaboration Framework for Generating Multimedia Contents
+   in Social Networks
+DE Social networking application; Mobile film; User collaboration framework
+TC 1
+Z9 1
+ER
+
+PT B
+AU Shomin, M
+   Vaidya, B
+   Hollis, R
+   Forlizzi, J
+AF Shomin, Michael
+   Vaidya, Bhaskar
+   Hollis, Ralph
+   Forlizzi, Jodi
+GP IEEE
+TI Human-Approaching Trajectories for a Person-Sized Balancing Robot
+TC 1
+Z9 1
+ER
+
+PT B
+AU Caballe, S
+   Xhafa, F
+   Raya, J
+   Barolli, L
+   Uchida, K
+AF Caballe, Santi
+   Xhafa, Fatos
+   Raya, Jordi
+   Barolli, Leonard
+   Uchida, Kazunori
+BE Xhafa, F
+   Barolli, L
+   Palmieri, F
+   Koeppen, M
+   Loia, V
+TI Building a Software Service for Mobile Devices to Enhance Awareness in
+   Web Collaboration
+DE Web collaboration; software engineering methodology; mobile service;
+   awareness; event management; collaborative work and learning
+ID INFRASTRUCTURE; SYSTEMS
+TC 0
+Z9 0
+ER
+
+PT B
+AU Ivanochko, I
+   Urikova, O
+   Gregus, M
+AF Ivanochko, Irena
+   Urikova, Oksana
+   Gregus, Michal
+BE Xhafa, F
+   Barolli, L
+   Palmieri, F
+   Koeppen, M
+   Loia, V
+TI Modern Mobile Technologies for Collaborative e-Business
+DE Collaboration; e-Business; Enterprise; Mobile Collaboration Technologies
+   (MCTs)
+TC 2
+Z9 2
+ER
+
+PT J
+AU Theodore, PR
+   Sawyer, A
+   Tellis, W
+   Urbania, T
+AF Theodore, Pierre R.
+   Sawyer, Aenor
+   Tellis, Wyatt
+   Urbania, Thomas
+TI A NOVEL WEB-BASED, MOBILE-DEVICE ENABLED CLINICAL COLLABORATION PLATFORM
+   IN LUNG CANCER - MULTIDISCIPLINARY PATIENT EVALUATIONS VIA NETWORKING
+   TECHNOLOGY
+DE Bioinformatics; Collaboration; Tumor Board
+TC 1
+Z9 1
+ER
+
+PT J
+AU Yu, YC
+   You, SD
+   Tsai, DR
+AF Yu, Yuan-Chih
+   You, Shingchern D.
+   Tsai, Dwen-Ren
+TI Smart Door: A Ubiquitous Collaboration System for Home Activities in the
+   Smart Home
+DE smart home; home collaboration; home activity; ubiquitous service; home
+   calendar; home portal
+ID MATHEMATICAL-THEORY; COMMUNICATION; MANAGEMENT; FRAMEWORK
+TC 1
+Z9 1
+ER
+
+PT J
+AU Gikas, J
+   Grant, MM
+AF Gikas, Joanne
+   Grant, Michael M.
+TI Mobile computing devices in higher education: Student perspectives on
+   learning with cellphones, smartphones & social media
+DE Mobile learning; Mobile learning in higher education; Social media; Web
+   2.0
+ID DESIGN
+TC 260
+Z9 262
+ER
+
+PT J
+AU Suthar, AB
+   Ford, N
+   Bachanas, PJ
+   Wong, VJ
+   Rajan, JS
+   Saltzman, AK
+   Ajose, O
+   Fakoya, AO
+   Granich, RM
+   Negussie, EK
+   Baggaley, RC
+AF Suthar, Amitabh B.
+   Ford, Nathan
+   Bachanas, Pamela J.
+   Wong, Vincent J.
+   Rajan, Jay S.
+   Saltzman, Alex K.
+   Ajose, Olawale
+   Fakoya, Ade O.
+   Granich, Reuben M.
+   Negussie, Eyerusalem K.
+   Baggaley, Rachel C.
+TI Towards Universal Voluntary HIV Testing and Counselling: A Systematic
+   Review and Meta-Analysis of Community-Based Approaches
+ID SUB-SAHARAN AFRICA; CLUSTER-RANDOMIZED TRIAL; RURAL SOUTH-AFRICA;
+   ANTIRETROVIRAL THERAPY; COST-EFFECTIVENESS; WESTERN KENYA; CLIENT
+   CHARACTERISTICS; DEMONSTRATION PROJECT; WORKPLACE PROGRAM; HOUSEHOLD
+   MEMBERS
+TC 187
+Z9 187
+ER
+
+PT J
+AU Maskey, M
+   Alexander, S
+   Conover, H
+   Gamble, J
+   Hoy, H
+   Fraley, AM
+AF Maskey, Manil
+   Alexander, Susan
+   Conover, Helen
+   Gamble, John
+   Hoy, Haley
+   Fraley, Anne Marie
+TI Powering Transplant Professional Collaborations With Web and Mobile Apps
+TC 0
+Z9 0
+ER
+
+PT J
+AU Tao, DP
+   Jin, LW
+   Liu, WF
+   Li, XL
+AF Tao, Dapeng
+   Jin, Lianwen
+   Liu, Weifeng
+   Li, Xuelong
+TI Hessian Regularized Support Vector Machines for Mobile Image Annotation
+   on the Cloud
+DE Cloud computing; Hessian Eigenmaps and support vector machines; manifold
+   regularization; mobile service
+ID NONLINEAR DIMENSIONALITY REDUCTION; RELEVANCE-FEEDBACK; MANIFOLD
+   REGULARIZATION; DISCRIMINANT-ANALYSIS; GEOMETRIC FRAMEWORK;
+   VISUAL-SEARCH; RETRIEVAL; RECOGNITION; SUBSPACE; PRESERVATION
+TC 82
+Z9 85
+ER
+
+PT J
+AU Bekmezci, I
+   Sahingoz, OK
+   Temel, S
+AF Bekmezci, Ilker
+   Sahingoz, Ozgur Koray
+   Temel, Samil
+TI Flying Ad-Hoc Networks (FANETs): A survey
+DE Ad-hoc networks; MANET; VANET; Multi-UAV
+ID CROSS-LAYER DESIGN; MAC PROTOCOLS; WIRELESS LANS; UAV; SYSTEMS;
+   COMMUNICATION; PERFORMANCE; ENVIRONMENT; OPERATIONS; SEARCH
+TC 282
+Z9 296
+ER
+
+PT J
+AU Golrezaei, N
+   Molisch, AF
+   Dimakis, AG
+   Caire, G
+AF Golrezaei, Negin
+   Molisch, Andreas F.
+   Dimakis, Alexandros G.
+   Caire, Giuseppe
+TI Femtocaching and Device-to-Device Collaboration: A New Architecture for
+   Wireless Video Distribution
+ID NETWORK
+TC 277
+Z9 281
+ER
+
+PT S
+AU Wang, WH
+   Hao, YM
+   Shi, DY
+   Cao, YH
+AF Wang, Weihong
+   Hao, Yanmei
+   Shi, Dianyuan
+   Cao, Yuhui
+BE Galkowski, K
+   Kim, YH
+TI Multi-level Fuzzy Mobile Collaboration Performance Measurement Model
+DE Mobile Collaboration; Mobile Group; Fuzzy Measurement; Performance
+   Evaluation
+TC 1
+Z9 1
+ER
+
+PT B
+AU Ortiz, P
+   Lazaro, O
+   Uriarte, M
+   Carnerero, M
+AF Ortiz, Patricia
+   Lazaro, Oscar
+   Uriarte, Mikel
+   Carnerero, Manuel
+GP IEEE
+TI Enhanced Multi-Domain Access Control for Secure Mobile Collaboration
+   Through Linked Data Cloud In Manufacturing
+DE Access control; Linked Data; Cross domain authentication; Authorization;
+   SPARQL Query rewriting; Mobile Collaboration; Internet of Things
+TC 0
+Z9 0
+ER
+
+PT B
+AU Syafar, F
+   Gao, J
+AF Syafar, Faisal
+   Gao, Jing
+BE Shen, W
+   Li, W
+   Barthes, JP
+   Luo, J
+   Zhu, H
+   Yong, J
+   Li, X
+TI Mobile Collaboration Technology in Engineering Asset Maintenance: A
+   Delphi Study
+DE mobile technology; collaboration technology; engineering asset
+   maintenance; framework
+ID GROUP SUPPORT-SYSTEMS; GROUP DECISION; FIT
+TC 1
+Z9 1
+ER
+
+PT B
+AU Roman, F
+   Verma, H
+   Li, N
+   Jermann, P
+   Dillenbourg, P
+AF Roman, Flaviu
+   Verma, Himanshu
+   Li, Nan
+   Jermann, Patrick
+   Dillenbourg, Pierre
+BE Smari, WW
+   Fox, GC
+TI Mobile Technology For Awareness Of Time Progression And Its Impact On
+   Meetings
+DE Frameworks and Methodologies for Collaboration; Collaboration Enabling
+   Technologies; Mobile and Wireless Collaboration Systems; Architectures
+   and Design of Collaboration Systems; Awareness in Collaboration Systems;
+   Interfaces for Collaborative Work
+TC 0
+Z9 0
+ER
+
+PT S
+AU Gatsou, C
+   Politis, A
+   Zevgolis, D
+AF Gatsou, Chrysoula
+   Politis, Anastasios
+   Zevgolis, Dimitrios
+BE Ganzha, M
+   Maciaszek, L
+   Paprzycki, M
+TI Exploring inexperienced user performance of a mobile tablet application
+   through usability testing.
+ID SCALE
+TC 3
+Z9 3
+ER
+
+PT J
+AU Li, CL
+   Li, LY
+AF Li, Chunlin
+   Li, Layuan
+TI Collaboration among mobile agents for efficient energy allocation in
+   mobile grid
+DE Mobile agent; Mobile grid; Device collaboration
+ID QOS OPTIMIZATION; UTILITY; FRAMEWORK
+TC 7
+Z9 7
+ER
+
+PT J
+AU Meyer, EM
+   Wichmann, D
+   Busch, H
+   Boll, S
+AF Meyer, Eike Michael
+   Wichmann, Daniel
+   Buesch, Henning
+   Boll, Susanne
+TI Supporting Mobile Collaboration in Spatially Distributed Workgroups with
+   Digital Interactive Maps
+DE mobile collaborative working environments; interaction design; map
+   visualization; location-based services; spatial distribution
+TC 8
+Z9 8
+ER
+
+PT J
+AU McEwen, R
+   Scheaffer, K
+AF McEwen, Rhonda
+   Scheaffer, Kathleen
+TI Orality in the library: How mobile phones challenge our understandings
+   of collaboration in hybridized information centers
+ID TECHNOLOGY
+TC 5
+Z9 5
+ER
+
+PT B
+AU Kim, M
+   Lee, M
+   Kwon, S
+   Kim, SJ
+   Cho, KS
+AF Kim, Minjung
+   Lee, Moonsoo
+   Kwon, SeungJoon
+   Kim, Sun-joong
+   Cho, Kee Seong
+BE DalKwack, K
+   Kawata, S
+   Hwang, S
+   Han, D
+   Ko, F
+TI Data Exchange Method for Web-based Collaboration System between Smart
+   Devices
+DE N-Screen; HTML5; Web browser Extension; Device Collaboration
+TC 1
+Z9 1
+ER
+
+PT B
+AU Back, M
+   Dunnigan, A
+   Liew, B
+   Vaughan, J
+AF Back, Maribeth
+   Dunnigan, Anthony
+   Liew, Bee
+   Vaughan, James
+GP ACM
+TI Mobile Monitoring and Control System for a Food Industry Development
+   Laboratory
+DE Industrial control systems; remote monitoring; mobile collaboration;
+   smart laboratory; laboratory instrumentation
+TC 0
+Z9 0
+ER
+
+PT S
+AU Cao, YH
+   Li, FL
+   Wang, WH
+   Zhang, LS
+AF Cao, Yuhui
+   Li, Fuliang
+   Wang, Weihong
+   Zhang, Lisheng
+BE Luo, J
+TI Multi-pattern Mobile Collaboration Plotting Framework Model
+DE List key index terms here; No more than 5
+TC 0
+Z9 0
+ER
+
+PT S
+AU Kocurova, A
+   Oussena, S
+   Komisarczuk, P
+   Clark, T
+   Kramer, D
+AF Kocurova, Anna
+   Oussena, Samia
+   Komisarczuk, Peter
+   Clark, Tony
+   Kramer, Dean
+BE Aberer, K
+   Damiani, E
+   Dillon, T
+TI Towards Distributed Collaborative Workflow Management for Mobile Devices
+DE Distributed workflow management system; context-awareness; content
+   lifecycle; mobile collaboration
+ID CONTEXT-AWARE APPLICATIONS; FRAMEWORK; MODELS
+TC 0
+Z9 0
+ER
+
+PT J
+AU Neyem, A
+   Ochoa, SF
+   Pino, JA
+AF Neyem, Andres
+   Ochoa, Sergio F.
+   Pino, Jose A.
+TI A Patterns System to Coordinate Mobile Collaborative Applications
+DE Coordination patterns; Patterns system; Mobile collaborative
+   applications; Mobile collaboration
+ID SHARED WORKSPACES; HOSPITAL WORK; EXPERIENCES
+TC 6
+Z9 6
+ER
+
+PT J
+AU Jeong, CW
+   Joo, SC
+   Jeong, YS
+AF Jeong, Chang Won
+   Joo, Su Chong
+   Jeong, Young Sik
+TI Implementation of Mobile Collaboration Application Service in u-Hospital
+   Environments
+DE Mobile Collaboration; Dynamic Security Service; Compact Distributed
+   Object Group Framework
+ID FRAMEWORK
+TC 0
+Z9 0
+ER
+
+PT S
+AU Kim, HK
+AF Kim, Haeng-Kon
+BE Kim, TH
+   Adeli, H
+   Fang, WC
+   Vasilakos, T
+   Stoica, A
+   Patrikakis, CZ
+   Zhao, G
+   Villalba, JG
+   Xiao, Y
+TI Modeling u-Healthcare Frameworks Using Mobile Devices
+DE u-health Agent node; Mobile collaboration frameworks; Agent UML
+   modeling; Mobile development
+ID HAND-HELD; AGENTS
+TC 0
+Z9 0
+ER
+
+PT S
+AU Wang, WH
+   Cao, YH
+   Zhang, LS
+AF Wang, Weihong
+   Cao, Yuhui
+   Zhang, Lisheng
+BE Zhang, J
+TI Modeling Restricted Factor for Mobile Group Collaboration
+DE Mobile Computing; Mobile Collaboration Computing; Group Collaboration;
+   Mobility
+TC 0
+Z9 0
+ER
+
+PT S
+AU Vega, D
+   Medina, E
+   Messeguer, R
+   Royo, D
+   Freitag, F
+AF Vega, Davide
+   Medina, Esunly
+   Messeguer, Roc
+   Royo, Dolors
+   Freitag, Felix
+BE Murgante, B
+   Gervasi, O
+   Iglesias, A
+   Taniar, D
+   Apduhan, BO
+TI A Node Placement Heuristic to Encourage Resource Sharing in Mobile
+   Computing
+DE resources sharing; mobile collaboration; loosely-coupled work
+ID COOPERATION; NETWORKS; EVOLUTION
+TC 0
+Z9 0
+ER
+
+PT J
+AU Cho, JH
+   Swami, A
+   Chen, IR
+AF Cho, Jin-Hee
+   Swami, Ananthram
+   Chen, Ing-Ray
+TI A Survey on Trust Management for Mobile Ad Hoc Networks
+DE Trust management; mobile ad hoc networks; social networks; cognitive
+   networks; trust; trust metrics.
+ID REPUTATION SYSTEMS; AUTOMATION; FRAMEWORK; PROTOCOLS; FUTURE; ROBUST
+TC 197
+Z9 201
+ER
+
+PT S
+AU Chen, Y
+AF Chen, Yuan
+BE Zhou, XJ
+TI A conceptual framework for a BIM-based collaboration platform supported
+   by Mobile Computing
+DE BIM; Collaboration; Mobile Computing; Wireless Networks
+TC 1
+Z9 1
+ER
+
+PT S
+AU Alem, L
+   Huang, WD
+AF Alem, Leila
+   Huang, Weidong
+BE Campos, P
+   Graham, N
+   Jorge, J
+   Nunes, N
+   Palanque, P
+   Winckler, M
+TI Developing Mobile Remote Collaboration Systems for Industrial Use: Some
+   Design Challenges
+DE Remote collaboration; mobile collaboration; remote gestures; augmented
+   reality; usability
+ID PHYSICAL TASKS
+TC 0
+Z9 0
+ER
+
+PT J
+AU Shao, B
+   Li, D
+   Gu, N
+AF Shao, Bin
+   Li, Du
+   Gu, Ning
+TI A Fast Operational Transformation Algorithm for Mobile and Asynchronous
+   Collaboration
+DE Collaboration; concurrency control; data consistency; mobile computing;
+   operational transformation; optimistic replication
+ID FRAMEWORK; SYSTEMS; TIME
+TC 8
+Z9 13
+ER
+
+PT J
+AU Unhelkar, B
+   Murugesan, S
+AF Unhelkar, Bhuvan
+   Murugesan, San
+TI The Enterprise Mobile Applications Development Framework
+TC 27
+Z9 28
+ER
+
+PT J
+AU Kreps, GL
+   Neuhauser, L
+AF Kreps, Gary L.
+   Neuhauser, Linda
+TI New directions in eHealth communication: Opportunities and challenges
+DE Health information technologies; eHealth; Health communication; Behavior
+   change; Participatory design
+ID RANDOMIZED CONTROLLED-TRIAL; PHYSICAL-ACTIVITY INTERVENTIONS; WEIGHT
+   MANAGEMENT PROGRAM; NATIONAL TRENDS SURVEY; HEALTH-CARE PROVIDERS;
+   OF-THE-LITERATURE; BEHAVIOR-CHANGE; SELF-HELP; PATIENT RELATIONSHIP;
+   INTERNET USE
+TC 190
+Z9 193
+ER
+
+PT B
+AU Zhou, W
+   Tan, JX
+   Xie, YY
+   Xu, Q
+AF Zhou Wei
+   Tan Jinxian
+   Xie Yeyu
+   Xu Qian
+BE Hu, Z
+   Ma, P
+TI A Scalable Multi-Service Collaboration Mobile Computing Middleware
+   System Architecture
+DE mobile computing; system architecture; middleware
+TC 0
+Z9 0
+ER
+
+PT B
+AU Lo, E
+   Tan, Q
+AF Lo, Eric
+   Tan, Qing
+GP IEEE
+TI Design Principles For Facilitating Collaboration In Mobile Environments
+DE collaborative mobile environment; mobile computing; location-awareness;
+   mLearning
+TC 0
+Z9 0
+ER
+
+PT S
+AU Ang, S
+   Rzadca, K
+   Datta, A
+AF Ang, Sally
+   Rzadca, Krzysztof
+   Datta, Anwitaman
+GP IEEE
+TI SHAREDMIND: A TOOL FOR COLLABORATIVE MIND-MAPPING
+DE collaboration software; mobile social networks; nomadic collaboration
+TC 1
+Z9 1
+ER
+
+PT S
+AU Back, M
+   Kimber, D
+   Rieffel, E
+   Dunnigan, A
+   Liew, B
+   Gattepally, S
+   Foote, J
+   Jun, SG
+   Vaughan, J
+AF Back, Maribeth
+   Kimber, Don
+   Rieffel, Eleanor
+   Dunnigan, Anthony
+   Liew, Bee
+   Gattepally, Sagar
+   Foote, Jonathan
+   Jun Shingu
+   Vaughan, Jim
+GP IEEE
+TI THE VIRTUAL CHOCOLATE FACTORY: BUILDING A REAL WORLD MIXED-REALITY
+   SYSTEM FOR INDUSTRIAL COLLABORATION AND CONTROL
+DE mixed reality; 3D applications; advanced visualization; remote
+   collaboration; virtual worlds; remote monitoring; data visualization;
+   pervasive computing; simulation; mobile computing; collaborative tools
+TC 7
+Z9 7
+ER
+
+PT B
+AU Wang, W
+   Gu, JZ
+   Yang, J
+   Chen, P
+AF Wang, Wei
+   Gu, Junzhong
+   Yang, Jing
+   Chen, Peng
+BE Zhu, JW
+   Luo, Q
+TI A Group Based Context-Aware Strategy for Mobile Collaborative
+   Applications
+DE mobile collaboration; context-awareness; group; LaMOC
+TC 0
+Z9 0
+ER
+
+PT B
+AU Wang, WH
+   Cao, YH
+   Zhang, LS
+AF Wang, Weihong
+   Cao, Yuhui
+   Zhang, Lisheng
+BE Zhang, Y
+   Tan, H
+TI Modeling Restricted Factor for Mobile Group Collaboration
+DE Mobile Computing; Mobile Collaboration Computing; Group Collaboration;
+   Mobility
+TC 0
+Z9 0
+ER
+
+PT B
+AU Fails, JA
+   Druin, A
+   Guha, ML
+AF Fails, Jerry Alan
+   Druin, Allison
+   Guha, Mona Leigh
+GP ACM
+TI Mobile Collaboration: Collaboratively Reading and Creating Children's
+   Stories on Mobile Devices
+DE Children; mobile devices; collaboration; collaborative configurations;
+   constructionism; narrative systems; stories; user interfaces
+TC 3
+Z9 3
+ER
+
+PT B
+AU Buthpitiya, S
+   Zhang, Y
+AF Buthpitiya, Senaka
+   Zhang, Ying
+BE Jarvis, R
+   Dini, C
+TI HyPhIVE : A Hybrid Virtual-Physical Collaboration Environment
+DE collaborative virtual environments; ubiquitous computing; mobile
+   computing
+TC 1
+Z9 1
+ER
+
+PT B
+AU Herskovic, V
+   Ochoa, SF
+   Pino, JA
+AF Herskovic, Valeria
+   Ochoa, Sergio F.
+   Pino, Jose A.
+BE Borges, MRS
+   Pino, JA
+   Luo, J
+   Yong, J
+   Shen, W
+   Barthes, JP
+   Ochoa, SF
+TI Modeling Groupware for Mobile Collaborative Work
+DE Modeling Language; Design of Mobile Groupware
+TC 3
+Z9 3
+ER
+
+PT B
+AU Rodriguez-Covili, J
+   Ochoa, SF
+   Pino, JA
+   Favela, J
+   Mejia, D
+   Moran, AL
+AF Rodriguez-Covili, Juan
+   Ochoa, Sergio F.
+   Pino, Jose A.
+   Favela, Jesus
+   Mejia, David
+   Moran, Alberto L.
+BE Borges, MRS
+   Pino, JA
+   Luo, J
+   Yong, J
+   Shen, W
+   Barthes, JP
+   Ochoa, SF
+TI Designing Mobile Shared Workspaces by Instantiation
+DE Mobile shared workspace; mobile groupware design; mobile collaboration;
+   nomadic work
+ID COLLABORATION
+TC 2
+Z9 2
+ER
+
+PT S
+AU Reif, G
+   Gall, H
+   Truong, HL
+   Dustdar, S
+AF Reif, Gerald
+   Gall, Harald
+   Truong, Hong-Linh
+   Dustdar, Schahram
+GP IEEE
+TI DMC 2009-Distributed and Mobile Collaboration Workshop Report
+TC 0
+Z9 0
+ER
+
+PT S
+AU Xie, T
+   Sharma, A
+AF Xie, Tao
+   Sharma, Abhinav
+GP IEEE
+TI Collaboration-Oriented Data Recovery for Mobile Disk Arrays
+TC 1
+Z9 1
+ER
+
+PT B
+AU Zhang, LH
+   Gong, JH
+   Wang, DC
+   Huang, MX
+AF Zhang Lihui
+   Gong Jianhua
+   Wang Dongchuan
+   Huang Mingxiang
+GP IEEE
+TI Study on Collaboration Related Mobile Online Mapping
+DE Cartography; Mobile Mapping; Collaboration Model; Mobile Device; User
+   interface
+TC 0
+Z9 0
+ER
+
+PT B
+AU Silva, BMC
+   Neves, PACS
+   Denko, MK
+   Rodrigues, JJPC
+AF Silva, Bruno M. C.
+   Neves, Paulo A. C. S.
+   Denko, Mieso K.
+   Rodrigues, Joel J. P. C.
+GP IEEE
+TI MP-Collaborator: A Mobile Collaboration Tool in Pervasive Environment
+DE Mobile computing; location-aware computing; mobile collaboration tools;
+   peer-to-peer communication
+TC 2
+Z9 2
+ER
+
+PT B
+AU Stambolov, G
+   Sperauskas, T
+   Simutis, R
+   Lipnickas, A
+AF Stambolov, Grigor
+   Sperauskas, Tadas
+   Simutis, Rimvydas
+   Lipnickas, Arunas
+GP IEEE
+TI Holonic Communication Structure with Formal Models of Cooperative
+   Autonomous Mobile Robots
+DE Cooperative Autonomous Mobile Robots system (CAMRs); Holonic System;
+   Petri Nets; Control strategy
+TC 0
+Z9 0
+ER
+
+PT B
+AU Zhou, JP
+   Zhang, LH
+   Li, WH
+   Gong, JH
+   Fang, LQ
+   Cao, WC
+AF Zhou Jieping
+   Zhang Lihui
+   Li Wenhang
+   Gong Jianhua
+   Fang Liqun
+   Cao Wuchun
+BE Wang, CX
+   Ouyang, S
+TI A Collaborative Mobile System for Epidemiology Investigation in the
+   Wenchuan Earthquake-stricken Area
+DE collaboration; epidemiology investigation; Wenchuan earthquake; PDA;
+   Virtual Environment
+TC 0
+Z9 0
+ER
+
+PT S
+AU Lee, A
+   Chandra, U
+AF Lee, Alison
+   Chandra, Umesh
+BE Bertino, E
+   Joshi, JBD
+TI Enabling Meetings for "Anywhere and Anytime"
+DE AJAX; mobile meeting; phone platform capabilities; remote file access;
+   S60 Web Runtime widget; simultaneous voice and data sharing; user
+   feedback; Web 2.0
+TC 0
+Z9 0
+ER
+
+PT B
+AU Kuts, E
+   Islas-Sedano, C
+   Sutinen, E
+AF Kuts, Ekaterina
+   Islas-Sedano, Carolina
+   Sutinen, Erkki
+BE Kankaanranta, M
+   Neittaanmaki, P
+TI Let's Play Together with the Camera of Your Mobile Device
+ID GAME
+TC 0
+Z9 0
+ER
+
+PT S
+AU Messeguer, R
+   Ochoa, SF
+   Pino, JA
+   Medina, E
+   Navarro, L
+   Royo, D
+   Neyem, A
+AF Messeguer, Roc
+   Ochoa, Sergio F.
+   Pino, Jose A.
+   Medina, Esunly
+   Navarro, Leandro
+   Royo, Dolors
+   Neyem, Andres
+BE Carrico, L
+   Baloian, N
+   Fonseca, B
+TI Building Real-World Ad-Hoc Networks to Support Mobile Collaborative
+   Applications: Lessons Learned
+DE Mobile Collaboration; Communication Support; Wireless Networks
+TC 6
+Z9 6
+ER
+
+PT S
+AU Piirainen, K
+   Kolfschoten, G
+   Lukosch, S
+AF Piirainen, Kalle
+   Kolfschoten, Gwendolyn
+   Lukosch, Stephan
+BE Carrico, L
+   Baloian, N
+   Fonseca, B
+TI Communication Patterns to Support Mobile Collaboration
+DE Communication patterns; mobile collaboration
+TC 1
+Z9 1
+ER
+
+PT S
+AU Ochoa, S
+   Alarcon, R
+   Guerrero, L
+AF Ochoa, Sergio
+   Alarcon, Rosa
+   Guerrero, Luis
+BE Jacko, JA
+TI Understanding the Relationship between Requirements and Context Elements
+   in Mobile Collaboration
+DE Context Elements; Software Requirement; Mobile Collaboration; House of
+   Quality
+ID QUALITY FUNCTION DEPLOYMENT; DESIGN
+TC 3
+Z9 3
+ER
+
+PT B
+AU Cao, YH
+   Li, JB
+   Wang, WH
+   He, ZQ
+AF Cao, Yuhui
+   Li, Jiangbo
+   Wang, Weihong
+   He, Zhiqiang
+BE Gong, Q
+   Jiang, Y
+   Grecos, C
+TI An Agent-Based Automatic Services Composition Algorithm of Mobile
+   Collaboration Platform
+DE mobile collaboration; service composition; Ontology
+TC 0
+Z9 0
+ER
+
+PT B
+AU Wang, WH
+   Li, JB
+   Cao, YH
+   He, ZQ
+AF Wang, Weihong
+   Li, Jiangbo
+   Cao, Yuhui
+   He, Zhiqiang
+BE Bao, HG
+   Jiang, Y
+   Grecos, C
+TI An Extended Ambient Calculus Model Oriented Mobile Collaboration
+DE mobile computing; mobile collaboration computing; ambient calculus;
+   mobility
+ID COMPUTER
+TC 0
+Z9 0
+ER
+
+PT S
+AU Lambrou, TP
+   Panayiotou, CG
+AF Lambrou, Theofanis P.
+   Panayiotou, Christos G.
+GP IEEE
+TI Distributed Collaborative Path Planning in Sensor Networks with Multiple
+   Mobile Sensor Nodes
+DE collaboration; mixed sensor networks; distributed path-planning;
+   coverage
+TC 1
+Z9 1
+ER
+
+PT S
+AU Sapateiro, C
+   Antunes, P
+   Zurita, G
+   Baloian, N
+   Vogt, R
+AF Sapateiro, Claudio
+   Antunes, Pedro
+   Zurita, Gustavo
+   Baloian, Nelson
+   Vogt, Rodrigo
+BE Loffler, J
+   Klann, M
+TI Supporting Unstructured Activities in Crisis Management: A Collaboration
+   Model and Prototype to Improve Situation Awareness
+DE Crisis Management; Unstructured Work Activities; Collaboration;
+   Situation Awareness
+TC 0
+Z9 0
+ER
+
+PT S
+AU Pering, T
+   Want, R
+   Rosario, B
+   Sud, S
+   Lyons, K
+AF Pering, Trevor
+   Want, Roy
+   Rosario, Barbara
+   Sud, Shivani
+   Lyons, Kent
+BE Tokuda, H
+   Beigl, M
+   Friday, A
+   Brush, AJB
+   Tobe, Y
+TI Enabling Pervasive Collaboration with Platform Composition
+DE Pervasive technologies; ad-hoc collaboration; mobile devices; resource
+   sharing; platform composition
+TC 6
+Z9 6
+ER
+
+PT S
+AU Antila, V
+   Mantyjarvi, J
+AF Antila, Ville
+   Mantyjarvi, Jani
+BE AlBegain, K
+   Balakrishna, C
+   Casado, AC
+TI Distributed RESTful Web Services for Mobile Person-to-Person
+   Collaboration
+DE Mobile computing; Web services; collaborative applications; mobile
+   services
+TC 3
+Z9 3
+ER
+
+PT S
+AU Wang, L
+   Roe, P
+AF Wang, Lei
+   Roe, Paul
+BE AlBegain, K
+   Balakrishna, C
+   Casado, AC
+TI Rich Collaboration on the Move: Talk to Your Mobile Audio Wiki
+DE Speech collaboration; mobile; wiki
+TC 0
+Z9 0
+ER
+
+PT B
+AU Reif, G
+   Gall, H
+   Truong, HL
+   Dustdar, S
+AF Reif, Gerald
+   Gall, Harald
+   Truong, Hong-Linh
+   Dustdar, Schahram
+GP IEEE
+TI DMC - Distributed and Mobile Collaboration Workshop Report
+TC 0
+Z9 0
+ER
+
+PT B
+AU Natchetoi, Y
+   Kaufman, V
+   Karabulut, Y
+AF Natchetoi, Yuri
+   Kaufman, Viktor
+   Karabulut, Yuecel
+GP IEEE
+TI Service-oriented architecture for mobile collaboration
+DE collaboration; mobile; framework; web service; social networks; service
+   composition; middleware; multi-tier
+TC 0
+Z9 0
+ER
+
+PT B
+AU Cao, YH
+   Wang, WH
+   Qin, Z
+AF Cao, Yuhui
+   Wang, Weihong
+   Qin, Zheng
+GP IEEE
+TI A Novel Mobile Collaboration User Group Forming Model
+DE Mobile Collaboration; Mobile Computing; User Group Model
+ID COOPERATION DIVERSITY; PERFORMANCE
+TC 0
+Z9 0
+ER
+
+PT B
+AU Wu, H
+   Tian, GH
+   Li, XL
+AF Wu, Hao
+   Tian, Guohui
+   Li, Xiaolei
+GP IEEE
+TI Research on Optimized Partition Algorithm for Multi Robots Collaboration
+   Coverage
+DE multi robots; collaboration; robot numbers; optimized partition
+TC 0
+Z9 0
+ER
+
+PT B
+AU Wang, L
+   Roe, P
+   Pham, B
+   Tjondronegoro, D
+AF Wang, Lei
+   Roe, Paul
+   Pham, Binh
+   Tjondronegoro, Dian
+GP ACM
+TI An Audio Wiki Supporting Mobile Collaboration
+DE Asynchronous audio-mediated collaboration; mobile; wiki
+TC 2
+Z9 2
+ER
+
+PT S
+AU Sun, HB
+   Jiang, PY
+   Yu, B
+   Zheng, M
+AF Sun, H. B.
+   Jiang, P. Y.
+   Yu, B.
+   Zheng, M.
+BE Cheng, K
+   Yao, YX
+   Zhou, L
+TI An SVG-based interactive drawing viewing solution for mobile design or
+   manufacturing collaboration
+DE mobile collaboration; drawing viewing; SVG
+TC 1
+Z9 1
+ER
+
+PT S
+AU Neyem, A
+   Ochoa, SF
+   Pino, JA
+AF Neyem, Andres
+   Ochoa, Sergio F.
+   Pino, Jose A.
+BE Briggs, RO
+   Antunes, P
+   DeVreede, GJ
+   Read, AS
+TI Coordination Patterns to Support Mobile Collaboration
+DE Coordination patterns; groupware mobile applications; design guidelines;
+   mobile collaboration
+TC 4
+Z9 4
+ER
+
+PT J
+AU Neyem, A
+   Ochoa, SF
+   Pino, JA
+AF Neyem, Andres
+   Ochoa, Sergio F.
+   Pino, Jose A.
+TI Integrating Service-Oriented Mobile Units to support collaboration in
+   ad-hoc scenarios
+DE Service-Oriented Mobile Units; web services platform; middleware for
+   mobile groupware; ad-hoc collaboration scenarios
+ID ENVIRONMENTS; NETWORKS; SYSTEM; WORK
+TC 23
+Z9 23
+ER
+
+PT B
+AU Messeguer, R
+   Ochoa, SF
+   Pino, JA
+   Navarro, L
+   Neyem, A
+AF Messeguer, Roc
+   Ochoa, Sergio F.
+   Pino, Jose A.
+   Navarro, Leandro
+   Neyem, Andre
+BE Shen, WM
+   Zheng, QH
+   Barthes, JP
+   Luo, JZ
+   Yong, JM
+   Duan, ZH
+   Tian, F
+TI Communication and coordination patterns to support mobile collaboration
+DE design patterns; collaborative mobile applications;
+   communication/coordination design
+ID GROUPWARE
+TC 9
+Z9 9
+ER
+
+PT B
+AU Li, D
+   Chandra, U
+AF Li, Du
+   Chandra, Umesh
+BE Smari, WW
+   McQuay, W
+TI Building Web-based collaboration services on mobile phones
+DE collaborative systems; cell phones; mobile devices; mobility; Web 2.0;
+   design principles
+TC 2
+Z9 2
+ER
+
+PT B
+AU Truong, HL
+   Juszczyk, L
+   Bashir, S
+   Manzoor, A
+   Dustdar, S
+AF Truong, Hong-Linh
+   Juszczyk, Lukasz
+   Bashir, Shariq
+   Manzoor, Atif
+   Dustdar, Schahram
+TI Vimoware - a Toolkit for Mobile Web Services and Collaborative Computing
+TC 0
+Z9 0
+ER
+
+PT B
+AU Cao, YH
+   Wang, WH
+   Qin, Z
+AF Cao, Yuhui
+   Wang, Weihong
+   Qin, Zheng
+BE Li, JP
+   Bloshanskii, I
+   Ni, LM
+   Pandey, SS
+   Yang, SX
+TI A mobile collaboration plotting system based on multi-agentbie31
+DE mobile computing; mobile collaboration; multi-agent; collaboration
+   plotting
+TC 0
+Z9 0
+ER
+
+PT B
+AU Wang, WH
+   Cao, YH
+AF Wang, Weihong
+   Cao, Yuhui
+BE Li, JP
+   Bloshanskii, I
+   Ni, LM
+   Pandey, SS
+   Yang, SX
+TI A novel user group forming model
+DE mobile collaboration; mobile computing; user group model
+ID COOPERATION DIVERSITY; PERFORMANCE
+TC 0
+Z9 0
+ER
+
+PT S
+AU Schaeffer, A
+   Lupu, E
+   Sloman, M
+   Keoh, SL
+   Lobo, J
+   Calo, S
+AF Schaeffer-Filho, Alberto
+   Lupu, Emil
+   Sloman, Morris
+   Keoh, Sye-Loong
+   Lobo, Jorge
+   Calo, Seraphin
+BE Hausheer, D
+   Schonwalder, J
+TI A role-based infrastructure for the management of dynamic communities
+TC 0
+Z9 0
+ER
+
+PT B
+AU Wang, WH
+   Cao, YH
+   Li, FL
+AF Wang, Weihong
+   Cao, Yuhui
+   Li, Fuliang
+GP IEEE COMPUTER SOC
+TI A CPN-Based Extended Ambient Calculus Model for Mobile Collaboration
+ID COMPUTER
+TC 0
+Z9 0
+ER
+
+PT J
+AU Maamar, Z
+   Mahmoud, QH
+   Derhab, A
+AF Maamar, Zakaria
+   Mahmoud, Qusay H.
+   Derhab, Abdelouahid
+TI Enabling ad-hoc collaboration between mobile users in the MESSENGER
+   project
+DE ad-hoc; collaboration; UDDI; messenger; software agent; web service
+TC 0
+Z9 0
+ER
+
+PT B
+AU Fawaz, Y
+   Negash, A
+   Brunie, L
+   Scuturici, VM
+AF Fawaz, Yaser
+   Negash, Addisalem
+   Brunie, Lionel
+   Scuturici, Vasile-Marian
+GP IEEE
+TI ConAMi: Collaboration-based content adaptation middleware for pervasive
+   computing environment
+DE pervasive computing; MANET; content adaptation; service composition
+TC 1
+Z9 1
+ER
+
+PT B
+AU Schall, D
+   Gombotz, R
+   Dorn, C
+   Dustdar, S
+AF Schall, Daniel
+   Gombotz, Robert
+   Dorn, Christoph
+   Dustdar, Schahram
+BE Zhang, LJ
+   Watson, TJ
+   Birman, KP
+   Zhang, J
+TI Human interactions in dynamic environments through mobile web services
+TC 0
+Z9 0
+ER
+
+PT S
+AU Jeong, CW
+   Kim, DH
+   Joo, SC
+AF Jeong, Chang-Won
+   Kim, Dong-Ho
+   Joo, Su-Chong
+BE Nguyen, NT
+   Grzech, A
+   Howlett, RJ
+   Jain, LC
+TI Mobile collaboration framework for u-healthcare agent services and its
+   application using PDAs
+TC 7
+Z9 7
+ER
+
+PT B
+AU Cao, YH
+   Wang, WH
+   Zhang, S
+AF Cao, Yuhui
+   Wang, Weihong
+   Zhang, Sen
+BE Liu, XH
+TI A Mobile Collaboration Resource Model based on incentive mechanism
+DE mobile computer; mobile collaboration; incentive mechanism; resource
+   share
+TC 0
+Z9 0
+ER
+
+PT S
+AU Mejia, DA
+   Moran, AL
+   Favela, J
+AF Mejia, David A.
+   Moran, Alberto L.
+   Favela, Jesus
+BE Haake, JM
+   Ochoa, SF
+   Cechich, A
+TI Supporting informal co-located collaboration in hospital work
+DE informal interactions; mobile informal co-located collaboration;
+   hospital work
+ID TECHNOLOGY; VIDEO
+TC 14
+Z9 14
+ER
+
+PT B
+AU Cao, YH
+   Wang, WH
+   Qin, Z
+AF Cao, Yuhui
+   Wang, Weihong
+   Qin, Zheng
+GP IEEE Comp Soc
+TI A multi-Agent supported adaptive mobile collaborative service platform
+TC 0
+Z9 0
+ER
+
+PT S
+AU de Spindler, A
+   Grossniklaus, M
+   Norrie, MC
+AF de Spindler, Alexandre
+   Grossniklaus, Michael
+   Norrie, Moira C.
+BE Meersman, R
+   Tari, Z
+   Herrero, P
+TI A collection-oriented framework for social applications
+TC 0
+Z9 0
+ER
+
+PT B
+AU Chen, RQ
+   Tang, M
+   Dong, JX
+AF Chen, Rong-Qin
+   Tang, Min
+   Dong, Jin-Xiang
+BE Shen, W
+   Hawryszhiewycz, I
+   Maher, ML
+   Yang, Y
+   Lin, Z
+   Hao, Q
+TI Non-photorealistic rendering in customizable styles for mobile
+   collaboration
+DE NPR; mobile collaboration; customization; XML
+TC 1
+Z9 2
+ER
+
+PT B
+AU Neyem, A
+   Franco, D
+   Ochoa, SF
+   Pino, JA
+AF Neyem, Andres
+   Franco, Dario
+   Ochoa, Sergio F.
+   Pino, Jose A.
+BE Shen, W
+   Hawryszhiewycz, I
+   Maher, ML
+   Yang, Y
+   Lin, Z
+   Hao, Q
+TI Supporting mobile workflow with active entities
+DE mobile workflow; decentralized workflow; mobile business; ad-hoc
+   collaboration
+TC 1
+Z9 1
+ER
+
+PT B
+AU Tyagi, V
+   Ahamed, SI
+AF Tyagi, Vaibhav
+   Ahamed, Sheikh Iqbal
+BE Stephanidis, C
+TI Co-learn: Collaborative learning engine a vision for pervasive
+   collaboration in e-Learning
+DE co-learn; collaborated; collaborative; pervasive; learning; life long
+   learning; and mobile collaboration
+TC 0
+Z9 0
+ER
+
+PT B
+AU Bortenschlager, M
+   Reich, S
+   Kotsis, G
+AF Bortenschlager, Manfred
+   Reich, Sigi
+   Kotsis, Gabriele
+BE Reddy, SM
+TI An architectural approach to apply the supervisor/worker collaboration
+   pattern to nomadic workspaces
+ID COORDINATION
+TC 0
+Z9 0
+ER
+
+PT J
+AU Su, XY
+   Prabhu, BS
+   Chu, CC
+   Gadh, R
+AF Su, XY
+   Prabhu, BS
+   Chu, CC
+   Gadh, R
+TI Scalable vector graphics (SVG) based multi-level graphics representation
+   for engineering rich-content exchange in mobile collaboration computing
+   environments
+TC 0
+Z9 0
+ER
+
+PT J
+AU Guerrero, LA
+   Ochoa, SF
+   Pino, JA
+   Collazos, CA
+AF Guerrero, Luis A.
+   Ochoa, Sergio F.
+   Pino, Jose A.
+   Collazos, Cesar A.
+TI Selecting computing devices to support mobile collaboration
+TC 36
+Z9 36
+ER
+
+PT B
+AU Hauswirth, M
+   Nejdl, W
+AF Hauswirth, Manfred
+   Nejdl, Wolfgang
+BE Reddy, SM
+TI DMC - Distributed and mobile collaboration workshop report
+DE collaborative services and processes; distribution and mobility;
+   collaboration architectures and infrastructures
+TC 0
+Z9 0
+ER
+
+PT B
+AU Bose, S
+   Sohi, S
+AF Bose, Siddhartha
+   Sohi, Subodh
+BE Reddy, SM
+TI Enabling seamless contextual collaborations for mobile enterprises
+DE context-aware collaboration; mobile enterprise; seamless mobility;
+   adaptive collaboration; optimal collaboration experience
+TC 0
+Z9 0
+ER
+
+PT S
+AU Machino, T
+   Iwaki, S
+   Kawata, H
+   Yanagihara, Y
+   Nanjo, Y
+   Shimokura, K
+AF Machino, Tamotsu
+   Iwaki, Satoshi
+   Kawata, Hiroaki
+   Yanagihara, Yoshimasa
+   Nanjo, Yoshito
+   Shimokura, Ken-ichiro
+GP IEEE
+TI Remote-collaboration system using mobile robot with camera and projector
+DE remote collaboration; shared field of view; mobile robot; camera and
+   projector; tele-operation
+TC 15
+Z9 15
+ER
+
+PT B
+AU Claycomb, W
+   Shin, D
+AF Claycomb, William
+   Shin, Dongwan
+GP IEEE
+TI A visual framework for securing impromptu collaboration in pervasive
+   computing
+TC 0
+Z9 0
+ER
+
+PT B
+AU Citro, S
+   McGovern, J
+   Ryan, C
+AF Citro, Sandy
+   McGovern, Jim
+   Ryan, Caspar
+GP IEEE
+TI Extending real time mobile collaboration algorithms to handle membership
+   events in an ad-hoc mobile network
+TC 0
+Z9 0
+ER
+
+PT B
+AU Laso-Ballesteros, I
+AF Laso-Ballesteros, Isidro
+GP IEEE
+TI Collaboration @work 2020: Ubiquitous Collaboration Research Perspectives
+TC 0
+Z9 0
+ER
+
+PT S
+AU Choi, SM
+   Lee, M
+   Yoo, CJ
+   Chang, OB
+AF Choi, Seong-Man
+   Lee, MalRey
+   Yoo, Cheol-Jung
+   Chang, Ok-Bae
+BE Gavrilova, M
+   Gervasi, O
+   Kumar, V
+   Tan, CJK
+   Taniar, D
+   Lagana, A
+   Mun, Y
+   Choo, H
+TI Process development methodology for U-integrated management system
+TC 0
+Z9 0
+ER
+
+PT S
+AU Madala, K
+   Tomek, I
+   Shakshuki, E
+   Giles, R
+AF Madala, Kiran
+   Tomek, Ivan
+   Shakshuki, Elhadi
+   Giles, Rick
+BE Hassanaly, P
+   Herrmann, T
+   Kunau, G
+   Zacklad, M
+TI A thin mobile client for a groupware application
+DE Mobile groupware client; Collaboration; CVW
+ID COLLABORATION
+TC 1
+Z9 1
+ER
+
+PT B
+AU Kajewski, S
+   Alwi, S
+AF Kajewski, S.
+   Alwi, S.
+BE Martinez, M
+   Scherer, R
+TI On-site deployment of mobile computing devices
+TC 0
+Z9 0
+ER
+
+PT B
+AU Lee, MC
+   Jang, HK
+   Paik, YS
+   Jin, SE
+   Lee, S
+AF Lee, M. C.
+   Jang, H. K.
+   Paik, Y. S.
+   Jin, S. E.
+   Lee, S.
+BE Kim, D
+   Enokido, T
+   Chen, Y
+   Min, D
+TI Ubiquitous device collaboration infrastructure: Celadon
+TC 1
+Z9 1
+ER
+
+PT S
+AU Neyem, A
+   Ochoa, SF
+   Pino, JA
+AF Neyem, Andres
+   Ochoa, Sergio F.
+   Pino, Jose A.
+BE Dimitriadis, YA
+   Zigurs, I
+   GomezSanchez, E
+TI Supporting mobile collaboration with service-oriented mobile units
+DE middleware for mobile groupware; service-oriented mobile units; web
+   services platform; ad-hoc collaboration scenarios
+ID ENVIRONMENTS
+TC 14
+Z9 15
+ER
+
+PT B
+AU Wang, WH
+   Cao, YH
+   Qin, Z
+AF Wang Wei-hong
+   Cao Yu-hui
+   Qin Zheng
+BE Zhang, SY
+   Wang, F
+TI Multi-strategies adaptive migration decision fuzzy control algorithm
+DE mobile collaboration; migration decision; fuzzy control;
+   multi-strategies
+TC 0
+Z9 0
+ER
+
+PT B
+AU Oh, S
+   Bulut, H
+   Uyar, A
+   Wu, WJ
+   Fox, G
+AF Oh, S
+   Bulut, H
+   Uyar, A
+   Wu, WJ
+   Fox, G
+BE McQuay, W
+   Smari, WW
+TI Optimized communication using the SOAP infoset for mobile multimedia
+   collaboration applications
+DE mobile computing; SOAP infoset; performance; XGSP; audio/video
+   conferencing
+ID PUBLISH/SUBSCRIBE
+TC 0
+Z9 0
+ER
+
+PT B
+AU Wang, AI
+   Sorensen, CF
+   Fossum, T
+AF Wang, AI
+   Sorensen, CF
+   Fossum, T
+BE McQuay, W
+   Smari, WW
+TI Mobile peer-to-peer technology used to promote spontaneous collaboration
+DE spontaneous collaboration; peer-to-peer networks; mobile environments
+TC 1
+Z9 1
+ER
+
+PT B
+AU Matthews, M
+   Hohne, R
+   Orban, S
+AF Matthews, M
+   Hohne, R
+   Orban, S
+BE McQuay, W
+   Smari, WW
+TI Technical approaches for achieving multi-resource polymorphic
+   collaboration
+DE polymorphic computing; mobile computing; mobile devices; embedded
+   devices; J2ME
+TC 0
+Z9 0
+ER
+
+PT B
+AU Chua, HN
+   Scott, SD
+   Choi, YW
+   Blanchfield, P
+AF Chua, HN
+   Scott, SD
+   Choi, YW
+   Blanchfield, P
+BE Shih, TK
+   Shibata, Y
+TI Web-page adaptation framework for PC & mobile device collaboration
+TC 1
+Z9 1
+ER
+
+PT J
+AU Perot, O
+   Perera, JM
+   Byerley, L
+AF Perot, O
+   Perera, JM
+   Byerley, L
+TI 3G network powers intense services
+TC 0
+Z9 0
+ER
+
+PT B
+AU Hauswirth, M
+   Podnar, I
+   Decker, S
+AF Hauswirth, M
+   Podnar, I
+   Decker, S
+GP IEEE Computer Society
+TI On P2P collaboration infrastructures
+TC 6
+Z9 6
+ER
+
+PT B
+AU Choi, SM
+   Lee, CM
+   Yoo, CJ
+   Chang, OB
+AF Choi, SM
+   Lee, CM
+   Yoo, CJ
+   Chang, OB
+BE Yang, YK
+TI Design and implementation of UML based mobile integrated management
+   system
+TC 0
+Z9 0
+ER
+
+PT B
+AU Hawryszkiewycz, I
+   Steele, R
+AF Hawryszkiewycz, I
+   Steele, R
+BE Hamza, MH
+TI Extending collaboration to mobile environments
+DE collaboration; software agents; mobility
+TC 0
+Z9 0
+ER
+
+PT S
+AU Diya, HY
+   Artail, HA
+   Safa, H
+AF Diya, Hani Y.
+   Artail, Hassan A.
+   Safa, Haidar
+BE Ardil, C
+TI A Framework for Mobile Collaborative Environments
+DE Mobile Collaborative Environment; Pocket PCs; collaboration; Remote Code
+   Execution; Resource Sharing
+TC 1
+Z9 1
+ER
+
+PT J
+AU Lee, KH
+   Kim, DH
+   Kim, J
+   Sul, D
+   Ahn, SH
+AF Lee, KH
+   Kim, DH
+   Kim, J
+   Sul, D
+   Ahn, SH
+TI Requirements and referential software architecture for home server based
+   inter-home multimedia collaboration services
+DE collaboration services; home servers; and multimedia
+TC 4
+Z9 4
+ER
+
+PT B
+AU Su, XY
+   Prabhu, BS
+   Chu, CC
+   Gadh, R
+AF Su, XY
+   Prabhu, BS
+   Chu, CC
+   Gadh, R
+GP ieee
+TI Middleware for multimedia mobile collaborative system
+TC 0
+Z9 0
+ER
+
+PT B
+AU Bardram, JE
+   Christensen, HB
+AF Bardram, JE
+   Christensen, HB
+GP ieee computer society
+TI Real-time collaboration in activity-based architectures
+TC 1
+Z9 1
+ER
+
+PT S
+AU Chen, L
+   Ju, WH
+   Chen, GC
+AF Chen, L
+   Ju, WH
+   Chen, GC
+BE JIn, H
+   Pan, Y
+   Xiao, N
+   Sun, J
+TI MobiMessenger: An instant messenger system based on mobile ad-hoc
+   network
+TC 0
+Z9 0
+ER
+
+PT B
+AU Ishida, T
+   Nakanishi, H
+   Nomura, S
+AF Ishida, T
+   Nakanishi, H
+   Nomura, S
+BE Ibaraki, T
+   Inui, T
+   Tanaka, K
+TI Real scale experiments on communityware
+TC 1
+Z9 1
+ER
+
+PT S
+AU Yamakami, T
+AF Yamakami, T
+BE Negoita, MG
+   Howlett, RJ
+   Jain, LC
+TI A mobile clickstream time zone analysis: Implications for real-time
+   mobile collaboration
+TC 10
+Z9 10
+ER
+
+PT S
+AU Chua, HN
+   Scott, SD
+   Ng, SL
+   Gardner, M
+   Shahi, A
+   Blanchfield, P
+AF Chua, HN
+   Scott, SD
+   Ng, SL
+   Gardner, M
+   Shahi, A
+   Blanchfield, P
+BE Brewster, S
+   Dunlop, M
+TI Adapting web-pages for mobile/PC collaboration
+TC 0
+Z9 0
+ER
+
+PT S
+AU Rubinsztejn, HK
+   Endler, M
+   Sacramento, V
+   Goncalves, K
+   Nascimento, F
+AF Rubinsztejn, HK
+   Endler, M
+   Sacramento, V
+   Goncalves, K
+   Nascimento, F
+BE Karmouch, A
+   Korba, L
+   Madeira, ERM
+TI Support for context-aware collaboration
+DE mobile computing; middleware; context-awareness; mobile collaboration
+TC 6
+Z9 6
+ER
+
+PT S
+AU Dustdar, S
+   Fenkam, P
+AF Dustdar, S
+   Fenkam, P
+BE Steinmetz, R
+   Mauthe, A
+TI Formally designing web services for mobile team collaboration
+TC 2
+Z9 2
+ER
+
+PT B
+AU Dustdar, S
+   Gall, H
+AF Dustdar, S
+   Gall, H
+GP ieee computer society
+TI DMC - Distributed and mobile collaboration workshop report
+DE service-oriented collaboration; mobility; peer-to-peer collaboration;
+   business processes
+TC 0
+Z9 0
+ER
+
+PT B
+AU Sacramento, V
+   Endler, M
+   Rubinsztejn, HK
+   Lima, LD
+   Goncalves, K
+   Bueno, GA
+AF Sacramento, V
+   Endler, M
+   Rubinsztejn, HK
+   Lima, LD
+   Goncalves, K
+   Bueno, GA
+GP ieee computer society
+TI An architecture supporting the development of collaborative applications
+   for mobile users
+DE mobile computing; middleware; mobile collaboration
+TC 8
+Z9 8
+ER
+
+PT B
+AU Aly, SG
+   Salem, AM
+AF Aly, SG
+   Salem, AM
+BE Badawy, W
+   Ismail, Y
+TI Java based co-verification of expedited mobile device collaboration
+   using observability
+TC 0
+Z9 0
+ER
+
+PT S
+AU Chiu, DKW
+   Cheung, SC
+   Leung, HF
+AF Chiu, DKW
+   Cheung, SC
+   Leung, HF
+BE Eder, J
+   Missikoff, M
+TI A three-tier view-based methodology for adapting human-agent
+   collaboration systems
+ID WORKFLOW MANAGEMENT-SYSTEM; CONSISTENCY
+TC 0
+Z9 0
+ER
+
+PT B
+AU Aly, SG
+   Salem, AM
+AF Aly, SG
+   Salem, AM
+BE Arabnia, HR
+   Yang, LT
+TI Java based co-verification of expedited mobile device collaboration
+TC 0
+Z9 0
+ER
+
+PT B
+AU Lee, KH
+   Kim, DH
+   Kim, J
+   Sul, D
+   Alm, SH
+AF Lee, KH
+   Kim, DH
+   Kim, J
+   Sul, D
+   Alm, SH
+GP IEEE
+   IEEE
+   IEEE
+TI Requirements and referential software architecture for home server-based
+   inter-home multimedia collaboration services
+DE collaboration services; home servers; multimedia
+TC 0
+Z9 0
+ER
+
+PT B
+AU Li, YS
+   Shi, ML
+AF Li, YS
+   Shi, ML
+BE Gong, K
+   Niu, ZH
+TI Mobile collaboration writing
+DE mobile computing; mobile colllaboration; CSCW; adaptability; MCWS;
+   mobile document work
+TC 1
+Z9 2
+ER
+
+PT B
+AU Agassounon, W
+AF Agassounon, W
+GP IEEE
+   IEEE
+TI Distributed information retrieval and dissemination in swarm-based
+   networks of mobile, autonomous agents
+ID ROBOTS
+TC 7
+Z9 7
+ER
+
+PT B
+AU Dustdar, S
+   Gall, H
+AF Dustdar, S
+   Gall, H
+GP IEEE COMPUTER SOCIETY
+   IEEE COMPUTER SOCIETY
+TI DMC - Distributed and mobile collaboration workshop report
+DE Web services; coordination
+TC 0
+Z9 0
+ER
+
+PT B
+AU Berger, S
+   Mohr, R
+   Nosekabel, H
+   Schafer, KJ
+AF Berger, S
+   Mohr, R
+   Nosekabel, H
+   Schafer, KJ
+GP IEEE COMPUTER SOCIETY
+   IEEE COMPUTER SOCIETY
+TI Mobile collaboration tool for university education
+TC 2
+Z9 2
+ER
+
+PT J
+AU Bergenti, F
+   Poggi, A
+   Somacher, M
+AF Bergenti, F
+   Poggi, A
+   Somacher, M
+TI A collaborative platform for fixed and mobile networks
+TC 18
+Z9 18
+ER
+
+PT B
+AU Ram, DJ
+   Mohamed, MAM
+   Devanathan, VR
+AF Ram, DJ
+   Mohamed, MAM
+   Devanathan, VR
+BE Titsworth, FM
+TI A framework for concurrency control in real-time distributed
+   collaboration for mobile systems
+DE real-time distributed collaboration; optimistic concurrency control;
+   data-centric concurrency control; EOMP
+TC 0
+Z9 0
+ER
+
+PT S
+AU Dustdar, S
+   Gall, H
+AF Dustdar, S
+   Gall, H
+GP IEEE COMPUTER SOCIETY
+   IEEE COMPUTER SOCIETY
+   IEEE COMPUTER SOCIETY
+TI Towards a software architecture for distributed and mobile collaborative
+   systems
+TC 0
+Z9 0
+ER
+
+PT S
+AU Dustdar, S
+   Gall, H
+AF Dustdar, S
+   Gall, H
+BE CamarinhaMatos, LM
+TI Mobile and distributed collaboration in virtual communities
+TC 0
+Z9 0
+ER
+
+PT B
+AU Farooq, U
+   Schafer, W
+   Rosson, MB
+   Carroll, JM
+AF Farooq, U
+   Schafer, W
+   Rosson, MB
+   Carroll, JM
+BE Milrad, M
+   Hoppe, U
+   Kinshuk, X
+TI M-Education: Bridging the gap of mobile and desktop computing
+TC 14
+Z9 14
+ER
+
+PT B
+AU Helokunnas, T
+   Becker, I
+   Danilotschkin-Forsman, T
+   Halonen, H
+   Kalakoski, L
+   Pirskanen, T
+   Plukka, S
+   Ranta, P
+   Rask, M
+   Siekkinen, R
+   Tamminen, K
+AF Helokunnas, T
+   Becker, I
+   Danilotschkin-Forsman, T
+   Halonen, H
+   Kalakoski, L
+   Pirskanen, T
+   Plukka, S
+   Ranta, P
+   Rask, M
+   Siekkinen, R
+   Tamminen, K
+GP IEEE
+   IEEE
+   IEEE
+   IEEE
+TI Best practices of electronic collaboration
+ID GROUPWARE
+TC 0
+Z9 0
+ER
+
+PT S
+AU Renganarayanan, V
+   Helal, AS
+   Nalla, A
+AF Renganarayanan, V
+   Helal, AS
+   Nalla, A
+BE Karmouch, A
+   Magedanz, T
+   Delgado, J
+TI Internet agents for effective collaboration
+TC 0
+Z9 0
+ER
+
+PT J
+AU Dennis, RM
+   Beresford, AR
+   Brown, KM
+AF Dennis, RM
+   Beresford, AR
+   Brown, KM
+TI Virtual University research initiative on mobility
+TC 0
+Z9 0
+ER
+
+PT S
+AU Tripathi, A
+   Ahmed, T
+   Kakani, V
+   Jaman, S
+AF Tripathi, A
+   Ahmed, T
+   Kakani, V
+   Jaman, S
+BE Kotz, D
+   Mattern, F
+TI Distributed collaborations using network mobile agents
+TC 4
+Z9 4
+ER
+
+PT S
+AU Lee, BR
+   Chang, KA
+   Kim, TY
+AF Lee, BR
+   Chang, KA
+   Kim, TY
+BE Hui, LCK
+   Lee, DL
+TI Reliable communication service for mobile agent based on CORBA
+TC 0
+Z9 0
+ER
+
+EF

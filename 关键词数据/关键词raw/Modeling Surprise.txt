@@ -1,0 +1,1763 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE Acoustic saliency; Echoic memory; Multi-scale; Statistical divergence;
+   Jensen-Shannon; Acoustic Event Detection
+ID AUDITORY SENSORY MEMORY; MISMATCH NEGATIVITY; VISUAL-ATTENTION;
+   RECOGNITION; FEATURES; EVENTS; MODEL
+ER
+
+PT J
+DE reference-model based learning; surprise; approximately Bayesian
+   delta-rule learning; Bayesian learning; anterior insula (alns); risk
+   prediction error; reference model adaptive control (RMAC); active
+   learning
+ID DECISION-MAKING; PREDICTION ERROR; RISK; UNCERTAINTY; INSULA;
+   ACTIVATION; MODEL; INFERENCE; CORTEX
+ER
+
+PT J
+DE Attention; Patents; Litigation; Intellectual property rights (IPRs);
+   Innovation policy
+ID NARRATIVE PERSPECTIVE; STRATEGIC SURPRISE; TEMPORAL FOCUS; LITIGATION;
+   INNOVATION; SENSEMAKING; SETTLEMENT; TIME; US; NEGOTIATION
+ER
+
+PT J
+DE Bayesian surprise; information-theoretic surprise; aberrant salience;
+   schizophrenia; Kullback-Leibler divergence
+ID POSITRON-EMISSION-TOMOGRAPHY; ABERRANT SALIENCE; SYSTEM RESPONSIVITY;
+   HEALTHY-VOLUNTEERS; PREDICTION ERRORS; PREFRONTAL CORTEX;
+   NUCLEUS-ACCUMBENS; DECISION-MAKING; D-3 RECEPTORS; AMPHETAMINE
+ER
+
+PT J
+DE lung cancer screening guidelines; lung cancer screening; individualized
+   lung-cancer risk model
+ER
+
+PT J
+DE Superstrings and Heterotic Strings; Conformal Field Models in String
+   Theory
+ID LANDAU-GINZBURG THEORIES; STRING COMPACTIFICATIONS; SIGMA-MODELS;
+   MANIFOLDS
+ER
+
+PT J
+DE flight simulation; mental models; surprise; startle; training
+ID SURPRISE; PERFORMANCE; SENSE
+ER
+
+PT J
+DE beta oscillations; computational model; coxtex; temporal surprise
+ID LOCUS-COERULEUS; VISUAL-CORTEX; TEMPORAL EXPECTATIONS; NEURONAL
+   OSCILLATIONS; ALPHA OSCILLATIONS; PHASE ENTRAINMENT; DOPAMINE NEURONS;
+   CINGULATE CORTEX; HUMAN BRAIN; INFORMATION
+ER
+
+PT J
+ID MIXED-EFFECTS MODELS; TEMPORAL CONTEXT; FEAR MEMORIES; RETRIEVAL;
+   EXTINCTION; AMYGDALA; ENHANCEMENT; HIPPOCAMPUS; SIGNATURES; SIGNALS
+ER
+
+PT J
+ID REAL BUSINESS CYCLES; MONETARY-POLICY SURPRISES; HABIT FORMATION;
+   NOMINAL RIGIDITIES; LIQUIDITY TRAP; GREAT RECESSION; INTEREST-RATES;
+   BANK RUNS; PRICES; FLUCTUATIONS
+ER
+
+PT J
+DE Complex networks; Community detection; Optimization; Surprise; Phase
+   transition
+ID COMPLEX NETWORKS; ALGORITHM; DYNAMICS; PERSPECTIVE; MODULARITY; MODEL
+ER
+
+PT B
+DE product discovery; text surprisingness; information theory; recommender
+   systems; topic modeling
+ID DIVERSITY
+ER
+
+PT S
+DE attention; saliency; DNN; bottom-up; top-down; object detection; face
+   detection; text detection
+ER
+
+PT J
+DE Acoustic saliency; echoic memory; multi-scale; statistical divergence;
+   Jensen-Shannon; acoustic event detection
+ID SENSORY MEMORY; MISMATCH NEGATIVITY; ATTENTION; NOISE; MICROPHONE; MODEL
+ER
+
+PT B
+DE surprise; computational models; evaluation
+ID NEWS
+ER
+
+PT S
+DE Fuzzy logic; Business strategy; Surprise level
+ER
+
+PT J
+DE Simulation; model; surprise; experiment
+ID CLIMATE MODELS; CONFIRMATION; SIMULATION
+ER
+
+PT J
+ER
+
+PT J
+DE Monetary policy surprises; stock return predictability; panel predictive
+   regression; heterogenous panel; cross-sectional dependence; factor-based
+   model
+ID ARBITRAGE; EARNINGS; MARKETS
+ER
+
+PT J
+DE Surprise; Love; Embarrassment; Event
+ID SERVICE-DOMINANT LOGIC; WORD-OF-MOUTH; BRAND EXPERIENCE; CONSUMPTION
+   EXPERIENCE; SOCIAL PRESENCE; CONSUMER; EMBARRASSMENT; CUSTOMERS;
+   ATTITUDES; IMPACT
+ER
+
+PT J
+ID PROBABILISTIC POPULATION CODES; LOCUS-COERULEUS NEURONS; PREDICTION
+   ERRORS; CORTICAL PLASTICITY; BAYESIAN-INFERENCE; NOVELTY DETECTION;
+   VISUAL-CORTEX; HUMAN BRAIN; PUPIL SIZE; REWARD
+ER
+
+PT J
+DE additive; antagonistic; community biomass; ecological surprises;
+   environmental change; species richness; synergistic
+ID ECOLOGICAL SURPRISES; BIODIVERSITY; METAANALYSIS; TOXICITY
+ER
+
+PT J
+DE change detection; motor inhibition; stop-signal task; surprise; working
+   memory
+ID INDEPENDENT COMPONENT ANALYSIS; STOP-SIGNAL TASK; RESPONSE-INHIBITION;
+   SUBTHALAMIC NUCLEUS; FRONTAL-CORTEX; FUNCTIONAL-SIGNIFICANCE;
+   PARKINSONS-DISEASE; SUBVOCAL REHEARSAL; BLIND SEPARATION; REACTIVE
+   CONTROL
+ER
+
+PT J
+DE discovery; ecosystem; expectations; social systems; social-ecological
+   systems; unexpected change
+ID ECOSYSTEM MANAGEMENT; IMPROVE CONSERVATION; NATURAL SYSTEMS; RISK
+   PERCEPTION; COUPLED HUMAN; COMPLEXITY; COLLAPSE; SHIFTS; COMMUNITIES;
+   GOVERNANCE
+ER
+
+PT J
+ER
+
+PT J
+DE aviation; mental models; pilot performance; resilience; training
+ID SITUATION AWARENESS; HUMAN-PERFORMANCE; ACOUSTIC STARTLE; AVIATION;
+   SYSTEMS; AUTOMATION; KNOWLEDGE; EMOTION
+ER
+
+PT J
+DE hospital readmission; readmission risk; implicit knowledge
+ID GENERAL MEDICINE PATIENTS; SURPRISE QUESTION; ADVANCED CANCER; HOSPITAL
+   READMISSION; RISK; SURVIVAL; MODELS
+ER
+
+PT J
+DE 3D shape design; human computer interaction; collaborative creativity
+ID MESH COMPOSITION; CREATIVITY
+ER
+
+PT J
+DE "surprise" question; medical intensive care unit; prognosis; 6-month
+   mortality; palliative care
+ID ACUTE PHYSIOLOGY SCORE; OF-LIFE CARE; SURPRISE QUESTION; CRITICALLY-ILL;
+   MECHANICAL VENTILATION; CLASSIFICATION-SYSTEM; ORGAN DYSFUNCTION;
+   CRITICAL ILLNESS; DECISION-MAKING; APACHE-III
+ER
+
+PT J
+DE aviation automation; automation surprise; cognition; complacency; bias
+ID HUMAN-PERFORMANCE CONSEQUENCES; SENSEMAKING; BIAS
+ER
+
+PT J
+ID SPECTRUM QUOTIENT AQ; LOCUS-COERULEUS; PREDICTION ERRORS;
+   CLINICAL-PRACTICE; AUDITORY-CORTEX; PUPIL-DILATION; VISUAL-CORTEX;
+   DISORDERS; NOREPINEPHRINE; SUPPRESSION
+ER
+
+PT J
+DE Active learning; Prediction; Surprise-based learning
+ID REPRESENTATIONS; STATE
+ER
+
+PT J
+DE International; Monetary policy; Financial markets; Factor model
+ID INTEREST-RATES; INTERNATIONAL SPILLOVERS; ASSET PRICES; IMPACT;
+   MACROECONOMICS; IDENTIFICATION; CRISIS; STOCK
+ER
+
+PT J
+DE Expectations hypothesis; Time-varying coefficient model; Sentiment;
+   Expectation error; Term premium
+ID VARYING RISK PREMIA; MONETARY-POLICY; PESO-PROBLEM; STRUCTURE ANOMALIES;
+   INVESTOR SENTIMENT; CHANGING BELIEFS; FOREIGN-EXCHANGE; INFORMATION;
+   VOLATILITY; BEHAVIOR
+ER
+
+PT J
+DE Percolation; Poisson process; Gilbert model; Cognitive networks;
+   Simultaneous connectivity
+ID NETWORKS; PLANE
+ER
+
+PT J
+ER
+
+PT J
+DE Surprise valley; Geothermal; Evaporation; Geochemical modeling; Fluid
+   mixing; Blind geothermal resources
+ID NORTHEASTERN CALIFORNIA; WARNER RANGE; STATISTICAL-ANALYSIS;
+   COMPOSITIONAL DATA; HYDROGEN ISOTOPE; SPRINGS; BASIN; RIVER; LAKES
+ER
+
+PT J
+DE causation; prediction; explanation; models
+ID MODEL
+ER
+
+PT J
+ID MODELS; COMPREHENSION; DIFFICULTY; SENSE
+ER
+
+PT J
+DE Surprise; Comprehension; Amusement; Humor; Event-related potential (ERP)
+ID BRAIN RESPONSE; POTENTIALS; PICTURE; JOKES; MODEL; FMRI
+ER
+
+PT J
+DE Quantum information; Information theory; Stochastic process; Hidden
+   Markov model; epsilon-Machine
+ID COMPUTATION; COMPLEXITY; ORDER; KCUF3; MODEL
+ER
+
+PT J
+ID DIAGNOSTIC-TEST ACCURACY; EARLY PALLIATIVE CARE; ADVANCED CANCER;
+   MORTALITY RISK; PROGNOSTIC-SIGNIFICANCE; GENERAL-PRACTITIONERS;
+   HEMODIALYSIS-PATIENTS; PROSPECTIVE COHORT; DIALYSIS PATIENTS; POPULATION
+ER
+
+PT J
+DE Stock Market; Anticipated; Unanticipated; Monetary Policy; Jumps
+ID TESTABLE DISTRIBUTIONAL IMPLICATIONS; ASSET PRICES; STOCK-MARKET;
+   FINANCIAL-MARKETS; TIME; VOLATILITY; SURPRISES; RETURNS; MODELS; IMPACT
+ER
+
+PT J
+DE Event-Related Potentials (ERPs); Electroencephalography (EEG);
+   predictive surprise; model-based analysis; single-trial analysis
+ID STIMULUS SEQUENCE; P300 AMPLITUDE; SURPRISE; MODEL; TASK; FLUCTUATIONS;
+   PROBABILITY; INFERENCE
+ER
+
+PT J
+DE Cognitive search; Information foraging; Topic modeling;
+   Exploration-exploitation; History of science; Scientific discovery
+ID TOPIC MODELS; INFORMATION; EVOLUTION
+ER
+
+PT S
+DE Curiosity; Case-based reasoning; Recommender systems
+ID BEHAVIOR
+ER
+
+PT B
+DE Surprise in games; procedural generation of emotion
+ER
+
+PT J
+ID ANXIETY; EVENTS
+ER
+
+PT J
+DE Emotion; event-related potentials (ERP); Fear and surprise; blur;
+   attention; perception
+ID EMOTIONAL FACIAL EXPRESSIONS; RECOGNITION; POTENTIALS; JUDGMENTS;
+   MOVEMENT; THREAT; FACES; P300
+ER
+
+PT B
+ID ACCRETION; HERCULIS
+ER
+
+PT S
+DE Anomaly Detection; Information Surprise; Early Warning Signal; Time
+   series Analysis
+ID EARLY-WARNING SIGNALS; CRITICAL TRANSITIONS; SLOWING-DOWN; TIME-SERIES;
+   COLLAPSE; SYSTEMS
+ER
+
+PT J
+DE Epistemic emotion; surprise; curiosity; confusion; value appraisal
+ID AFFECTIVE STATES; ACHIEVEMENT; STRATEGIES; CONFUSION; CURIOSITY;
+   BELIEFS; CLIMATE; MODEL
+ER
+
+PT J
+DE Thematic Maps; Bayesian Surprise; Event Visualization; Spatio-temporal
+   data
+ID VISUALIZATION; EXPLORATION; SPACE; SETS
+ER
+
+PT J
+DE delight; surprise; joy; interest; captivation; loyalty; SEM
+ID MODELS
+ER
+
+PT J
+DE Customer loyalty; Customer delight; Anger; Disconfirmation of
+   expectations; Surprise
+ID STRUCTURAL EQUATION MODELS; STRATEGIC MANAGEMENT; SERVICE QUALITY;
+   SATISFACTION; EXPECTATIONS; LOYALTY; DISCONFIRMATION; PERCEPTIONS;
+   PERFORMANCE; EXPERIENCE
+ER
+
+PT J
+DE Creativity; surprise; novelty; diversity; emotion
+ID PRODUCT CREATIVITY; FRAMEWORK; IDEAS; MODEL
+ER
+
+PT J
+DE investment growth; variance decomposition; q-theory; earnings shocks;
+   cash flow news; discount rate news
+ID EXPECTED STOCK RETURNS; CASH FLOW; VARIANCE DECOMPOSITION;
+   CORPORATE-INVESTMENT; MEASUREMENT ERROR; PRICES; MARKET; EXPLANATION;
+   PREDICTABILITY; CONSUMPTION
+ER
+
+PT J
+DE Surprise; Agent; Alternative futures; Willamette; Oregon
+ID CLIMATE-CHANGE; UNITED-STATES; SCENARIOS
+ER
+
+PT J
+DE Grammatical evidentiality; Mirativity; Deixis; Information theory;
+   Schema theory; Probability; Bayesian surprise
+ID LANGUAGE; COGNITION; MODALITY; EVENTS
+ER
+
+PT J
+ID MANTLE; WATER; STATE
+ER
+
+PT J
+DE Sensemaking; Surprise; Cockpit operations; Re-framing; Training
+ID COGNITIVE SYSTEMS
+ER
+
+PT J
+DE Reward; Punishment; Motivation; Surprise; fMRI; Connectivity; Memory
+ID LONG-TERM-MEMORY; NUCLEUS-ACCUMBENS DOPAMINE; PATTERN SEPARATION;
+   ORBITOFRONTAL CORTEX; MESOLIMBIC SYSTEM; NEURAL RESPONSES;
+   DECISION-MAKING; RAT HIPPOCAMPUS; ANTICIPATION; ACTIVATION
+ER
+
+PT J
+DE Image saliency; Visual surprise; Intrinsic context; Extrinsic context;
+   Gaussian mixture model; Markov chain
+ID ATTENTION; FEATURES; PREDICT; SEARCH; SCENES; MODEL
+ER
+
+PT J
+DE Business cycle; Dynamic factor model; State space model; Forecasting
+   weights
+ID FOREIGN-EXCHANGE; PRICE DISCOVERY; FACTOR MODELS; ANNOUNCEMENTS; NEWS
+ER
+
+PT J
+DE narrative processing; surprise structure; orienting response; embodied
+   cognition
+ID COMPREHENSION; ATTENTION; STORY; MODEL; MEMORY; TRANSPORTATION;
+   CONSTRUCTION; ENGAGEMENT; IMAGERY; DESIGNS
+ER
+
+PT J
+DE economic surprises; unconventional monetary policy; rates structure
+ID STRUCTURE DYNAMICS; MODEL
+ER
+
+PT J
+ID PREDICTION MARKETS; MEDIA BIAS; STOCK-MARKET; MODELS; UNCERTAINTY;
+   COMPETITION; IMPACT
+ER
+
+PT J
+ID SYSTEMATIC BIAS; IA DATA; SEARCH; PLANCK
+ER
+
+PT J
+ER
+
+PT J
+DE ADEPT toolset; formal methods; human factors; human-machine interaction
+ID ERRONEOUS HUMAN-BEHAVIOR; FORMAL VERIFICATION; CHECKING; SAFETY;
+   KNOWLEDGE; SYSTEMS
+ER
+
+PT J
+DE Alert; automation surprises; bisimulation relation; human-machine
+   system; safety levels
+ID DISCRETE-EVENT SYSTEMS; SUPERVISORY CONTROL; MODE CONFUSIONS
+ER
+
+PT J
+ID HUMAN AUDITORY-CORTEX; FREE-ENERGY PRINCIPLE; MONKEY VISUAL-CORTEX;
+   EEG-DATA; OSCILLATIONS; GAMMA; INFORMATION; FEEDFORWARD; FEEDBACK;
+   MODELS
+ER
+
+PT J
+DE paradox of the undiscoverable position; paradox of the surprise
+   examination; possible-worlds modeling; anti-performatory announcements;
+   unassimilable announcements
+ER
+
+PT J
+DE Technology-mediated communication; Web interface design; Online
+   learning; Evolutionary psychology; Flashbulb memorization; Robust path
+   analysis
+ID COUNTRY-OF-ORIGIN; FLASHBULB MEMORIES; REGRESSION RESIDUALS;
+   COMMUNICATION TOOLS; SERIAL INDEPENDENCE; NEURAL MECHANISMS;
+   TASK-PERFORMANCE; EFFICIENT TESTS; SERIOUS GAMES; NORMALITY
+ER
+
+PT B
+ID CLASSIFICATION; FEATURES; SCENE; RECOGNITION; CATEGORIES; OBJECT
+ER
+
+PT S
+DE Cognitive Model; Situation Awareness; Surprise; Intelligent Agents;
+   Computer Generated Forces; Human-In-The-Loop simulation
+ER
+
+PT S
+ER
+
+PT B
+DE luminance contrast; painting analysis; graph-based statistical learning
+ER
+
+PT J
+DE Values; Brand evaluation; Logo design
+ID BRAND FAMILIARITY; ATTACHMENT; CONSUMERS; EMOTIONS; DESIGN
+ER
+
+PT J
+DE Expertise; Surprise; Customer delight; Effort; Joy; Tangibles
+ID SERVICE QUALITY; PHYSICAL SURROUNDINGS; NEGATIVE AFFECT; SATISFACTION;
+   UTILITARIAN; EMPLOYEES; EMOTIONS; RETAIL; MODEL; EXPECTATIONS
+ER
+
+PT J
+DE Cross-market index; Factor-DCC; Volatility surprise; Asset management
+ID APPROXIMATE FACTOR MODELS; DYNAMIC-FACTOR MODEL; NUMBER
+ER
+
+PT J
+DE uncertainty; surprise; climate change; models; probability; unknown
+   unknowns
+ID CLIMATE-CHANGE; SCIENTIFIC UNCERTAINTY; DECISION-MAKING; RELIABILITY
+ER
+
+PT J
+ID ACTIVE INFERENCE; COMPUTATIONAL PSYCHIATRY; BRAIN; RISK
+ER
+
+PT J
+DE Adaptability; ignorance; info-gap; robustness; surprise; uncertainty
+ID CHOICE; REPRESENTATION; UNCERTAINTY; JUDGMENT; POLICY
+ER
+
+PT J
+DE Surprise judgments; Comprehension; Explanation; Difficulty
+ID HINDSIGHT BIAS; COGNITIVE RECONSTRUCTION; DISCOURSE COMPREHENSION;
+   COUNTERFACTUAL THOUGHTS; LANGUAGE COMPREHENSION; SELF-EXPLANATIONS;
+   SITUATION MODEL; OUTCOME VALENCE; EMOTIONS; MEMORY
+ER
+
+PT J
+DE International transmission of TFP shocks; News shocks; Real exchange
+   rate; Trade balance; Backus-Smith puzzle; Impulse response function
+   matching estimation
+ID MONETARY-POLICY RULES; REAL EXCHANGE-RATE; BUSINESS CYCLES;
+   OPEN-ECONOMY; NOMINAL RIGIDITIES; EMPIRICAL-EVIDENCE; DYNAMIC-BEHAVIOR;
+   INTEREST-RATES; DEMAND SHOCKS; MODELS
+ER
+
+PT J
+DE Guilt aversion; Surprise seeking; Dictator game; Consensus effect
+ID INCOMPLETE INFORMATION; COMPARATIVE STATICS; EMOTIONAL-REACTIONS;
+   PROSPECT-THEORY; HIDDEN COSTS; PROMISES; BELIEFS; GAMES; COMPETITION;
+   DECISION
+ER
+
+PT J
+DE H1N1 flu vaccination; multiple-channel information seeking; TPB;
+   surprise
+ID CLINICAL-TRIAL ENROLLMENT; HEALTH INFORMATION; PLANNED BEHAVIOR; MODEL;
+   AVOIDANCE; INTERNET; NEWS
+ER
+
+PT J
+ID STRATEGY
+ER
+
+PT J
+DE Bayesian inference; Extremes; Generalised Pareto distribution; Posterior
+   predictive p-value; Spectral density function; Surprise; Threshold
+   selection
+ID GENERALIZED PARETO DISTRIBUTION; TAIL INDEX ESTIMATION; SAMPLE FRACTION;
+   P-VALUES; MULTIVARIATE EXTREMES; OUTLIER DETECTION; MIXTURE MODEL; FIT;
+   INFERENCE; PROBABILITY
+ER
+
+PT J
+DE attitude change; health belief model; health interventions;
+   heuristic-systematic model of information processing; problematic
+   Internet use
+ID PROPOSED DIAGNOSTIC-CRITERIA; COGNITIVE-BEHAVIORAL THERAPY;
+   HEURISTIC-SYSTEMATIC MODEL; HEALTH BELIEF MODEL; ATTITUDE-CHANGE;
+   PLANNED BEHAVIOR; GAME ADDICTION; RISK-FACTORS; ADOLESCENTS; SURPRISE
+ER
+
+PT J
+ER
+
+PT J
+DE term structure of interest rates; no-arbitrage; news; monetary policy
+   surprises; macroeconomic announcements; policy inertia
+ID TERM STRUCTURE MODELS; MONETARY-POLICY; STRUCTURE DYNAMICS; FUTURES
+   PRICES; ECONOMIC-NEWS; MARKET; PURCHASES; FORECASTS; TESTS; BIAS
+ER
+
+PT J
+DE Foreign exchange markets; Volatility spillover; News surprises; Impulse
+   response analysis
+ID TIME PRICE DISCOVERY; GARCH MODELS; ANNOUNCEMENTS; PATTERNS; RATES; BOND
+ER
+
+PT J
+DE Asymmetric GARCH; Emerging markets; Macroeconomic news; Surprises
+ER
+
+PT J
+ID INFORMATION DISCLOSURE; ANTICIPATORY FEELINGS; BOUNDED MARTINGALE;
+   MAXIMAL VARIATION; UNCERTAINTY; RESOLUTION; CURIOSITY; MARKETS
+ER
+
+PT J
+DE Aesthetics; Bayesian; Creativity; Information; Semantics
+ID PRODUCT ANALYSIS MATRIX; CREATIVITY; HUMOR; DESIGN; UNCERTAINTY;
+   COMPLEXITY; NOVELTY; MEMORY; ERRORS; SENSE
+ER
+
+PT J
+DE Event-related potentials; Single-trial EEG; Free-energy principle;
+   Bayesian brain; Surprise; Probability weighting
+ID PROBABILITY WEIGHTING FUNCTIONS; DYNAMIC CAUSAL-MODELS; LATE POSITIVE
+   COMPLEX; DECISION-MAKING; PROSPECT-THEORY; HUMAN BRAIN; FREE-ENERGY;
+   COGNITIVE NEUROSCIENCE; ORIENTING RESPONSE; PREFRONTAL CORTEX
+ER
+
+PT S
+ER
+
+PT J
+DE price momentum; earnings momentum; revenue momentum; CAPM; Fama-French
+   model
+ID STOCK RETURNS; BUSINESS-CYCLE; MARKET; ANOMALIES; EXPLANATIONS; WINNERS;
+   LOSERS; MODEL; RISK
+ER
+
+PT J
+DE surprise; emotion concepts; metaphor; metonymy; loss of control; lexical
+   approach; corpus linguistics
+ID METAPHOR
+ER
+
+PT J
+DE lexical semantics; lexical typology; surprise; NSM; Anglocentrism
+ID EMOTION RESEARCH; ENGLISH; MALAY
+ER
+
+PT J
+DE scientific writing; emotions; surprise; stance
+ID DISCOURSE; VERBS
+ER
+
+PT J
+DE surprise; GRID; cross-cultural semantic profile; English; French;
+   novelty dimension
+ID PROTOTYPE APPROACH; CIRCUMPLEX MODEL; EMOTION; PERSONALITY; CATEGORIES;
+   VALENCE
+ER
+
+PT J
+DE affective computing; human-agent interaction; emotion recognition;
+   embodied conversational agents; surprise
+ID OPINION DETECTION; EMOTION
+ER
+
+PT S
+DE Creativity; FBS; surprise; situatedness
+ID PRODUCT CREATIVITY; DESIGN; FRAMEWORK
+ER
+
+PT J
+DE adaptive management; Colorado River; ecosystem modeling; Glen Canyon
+   Dam; Grand Canyon; high-flow experiments; humpback chub; rainbow trout;
+   surprise learning
+ID INSTREAM FLOW STANDARDS; GRAIN-SIZE EVOLUTION; COLORADO RIVER; HUMPBACK
+   CHUB; LIFE-HISTORY; ENVIRONMENTAL FLOWS; REGULATED RIVER; RAINBOW-TROUT;
+   ARIZONA; POPULATION
+ER
+
+PT J
+ID UNITARY-SPIN INDEPENDENCE; MODEL; BARYONS; MESONS
+ER
+
+PT S
+DE attention; prediction; expectation; surprise; novelty; singleton
+ID REAL-WORLD SCENES; COLOR SINGLETON; EYE-MOVEMENTS; VISUAL-ATTENTION;
+   TARGET SELECTION; CAPTURE; ALLOCATION; DURATION; SEARCH; INTERFERENCE
+ER
+
+PT J
+ID PERCEPTUAL ORGANIZATION; BAYESIAN-INFERENCE; RULE; LANGUAGE;
+   SENSITIVITY; SIMILARITY; CATEGORIES; INDUCTION; LEARN; TIME
+ER
+
+PT J
+DE computational creativity; design creativity; surprise
+ER
+
+PT J
+DE economic methodology; evolutionary; surprise; uncertainty; belief;
+   expectations; animal spirit; money; investment decisions; innovation
+ER
+
+PT J
+DE Over/underreaction; Unanticipated events; Surprise; Conservatism;
+   Prediction market; Bayesian dynamic model
+ID INVESTOR SENTIMENT; HINDSIGHT BIAS; STOCK-MARKET; EFFICIENCY; NEWS;
+   RATIONALITY; RETURNS; SPLITS; MODELS; SENSE
+ER
+
+PT J
+ID LAST GLACIAL MAXIMUM; SOUTHWESTERN UNITED-STATES; SOUTHERN BOLIVIAN
+   ALTIPLANO; PLASMA-MASS SPECTROMETRY; NORTHWESTERN GREAT-BASIN;
+   TOTAL-SAMPLE DISSOLUTION; HIGH-RESOLUTION RECORD; SURFACE-WATER SYSTEM;
+   UPPER KLAMATH LAKE; U-TH
+ER
+
+PT J
+DE Multilevel modeling; Surprise measure; Context effects; Public opinion
+ID EUROPEAN INTEGRATION; MINORITY POPULATIONS; ETHNIC DIVERSITY; PUBLIC
+   SUPPORT; WESTERN-EUROPE; INNUMERACY; COUNTRIES
+ER
+
+PT J
+DE Artificial pancreas; Bayesian surprise; Behavior monitoring;
+   Kullback-Leibler divergence; Optimal action selection
+ID DIABETES-MELLITUS; GLUCOSE DYNAMICS; BLOOD-GLUCOSE; INSULIN; SIMULATION;
+   INFUSION; MODEL
+ER
+
+PT J
+ID ERRORS; MARKET
+ER
+
+PT J
+DE Automation surprise; formal methods; mental model; model checking;
+   simulation
+ID HUMAN-AUTOMATION INTERACTION; FORMAL VERIFICATION; HYBRID SYSTEMS;
+   ABSTRACTIONS; SURPRISES; DESIGN; AGENT
+ER
+
+PT J
+DE intrinsic motivations; novelty and surprise; cumulative learning and
+   development; computational models; autonomous robotics; reinforcement
+   learning; brain and behavior; review
+ID NOVELTY DETECTION; DOPAMINE; EXPLORATION; INFORMATION; MECHANISMS;
+   CURIOSITY; SIGNAL; ERROR; MODEL
+ER
+
+PT J
+ID BRAND CHOICE; LOGIT MODEL; PSYCHOPHYSICS; PRICES; PRODUCTS; STATE
+ER
+
+PT J
+DE reward; prediction error; learning
+ID PRIMARY VISUAL-CORTEX; HUMAN BRAIN; ORBITOFRONTAL CORTEX;
+   FRONTAL-CORTEX; REWARD; MODEL; RESPONSES; UNCERTAINTY; DOPAMINE;
+   STRIATUM
+ER
+
+PT J
+DE Artificial intelligence; cognitive models; interactive narrative;
+   surprise generation
+ID STORY; SEARCH
+ER
+
+PT J
+DE categorization; action units; face recognition
+ID SUPPORT VECTOR MACHINES; VARIANT FACES; CLASSIFICATION; RECOGNITION;
+   PERCEPTION; DISORDERS; DATABASE; HUMANS; PEOPLE; BRAIN
+ER
+
+PT J
+DE ROST; topic modeling; summarization; surprise; exploration; LDA; Aqua
+ID CLASSIFICATION
+ER
+
+PT J
+DE Bayesian models; Belief calculi transformations; Complex hypotheses;
+   Epistemic values; Possibilistic and probabilistic reasoning;
+   Significance tests; Surprise function; Truth function
+ID RELATIVE INFORMATION; SIGNIFICANCE TESTS; INVARIANCE
+ER
+
+PT J
+DE Surprise; Ambient media; Attention; Advertising efficacy; Guerrilla
+   marketing; Non-traditional retailing
+ID COMMON METHOD VARIANCE; WORD-OF-MOUTH; RESEARCH AGENDA; MODERATING ROLE;
+   AD CREATIVITY; ATTITUDE; RESPONSES; CONSUMER; CONSEQUENCES; ANTECEDENTS
+ER
+
+PT J
+ID CATARACT-SURGERY; ROTATIONAL STABILITY; CORNEAL ASTIGMATISM; EYES;
+   INCISIONS; BIOMETRY; VECTORS; POWER
+ER
+
+PT S
+DE Autonomous agents and multiagent systems; cognitive modeling;
+   multi-agent-based simulation; multidisciplinary topics; social
+   simulation and modeling
+ID EMOTIONS; NEEDS; RISK
+ER
+
+PT B
+DE Anderson localization; quantum transport in disordered media; Bethe
+   lattice
+ID ABSOLUTELY CONTINUOUS-SPECTRUM; RANDOM SCHRODINGER-OPERATORS;
+   TIGHT-BINDING MODEL; DENSITY-OF-STATES; WEAK-DISORDER; TREE GRAPHS;
+   LOCALIZATION; DIFFUSION; ABSENCE; BOUNDS
+ER
+
+PT J
+ID STOCK MARKETS REACTION; DISCOUNT RATE ANNOUNCEMENTS; HIGH-FREQUENCY
+   RESPONSE; INTEREST-RATES; FUNDS FUTURES; EXCHANGE-RATES;
+   INFORMATION-CONTENT; UNITED-STATES; REAL-TIME; TRANSMISSION
+ER
+
+PT J
+DE Yield curve; Implicit expected inflation curve; Real interest rates
+   curve; Macroeconomic surprises; Global financial crisis
+ID MONETARY-POLICY SURPRISES; US TREASURY MARKET; INTEREST-RATES;
+   FEDERAL-RESERVE; FUTURES MARKET; ECONOMIC-NEWS; TIME-SERIES; UNIT-ROOT;
+   ANNOUNCEMENTS; STATIONARITY
+ER
+
+PT B
+ER
+
+PT B
+DE self-adaptation; uncertainty; bayesian networks; bayesian surprise
+ER
+
+PT B
+DE Inflation Expectation; Monetary Policy Surprise; Macroeconomic Surprise;
+   EGARCH Model
+ER
+
+PT B
+DE recommender systems; SVD plus; RMSE; e-commerce; brands preference
+ER
+
+PT J
+DE Surprise; Valence; Cognitive consistency; Facial expression;
+   Autobiographical recall
+ID EMOTIONS; MOTIVATION; EXPECTANCY; MODEL
+ER
+
+PT J
+DE eye movement; prediction; attention; learning; Bayes
+ID FREE-ENERGY PRINCIPLE; LOCUS-COERULEUS; INTRAPARIETAL SULCUS; SELECTIVE
+   ATTENTION; SPATIAL ATTENTION; RHESUS-MONKEY; ACTION VALUES;
+   PARCELLATION; UNCERTAINTY; DECISION
+ER
+
+PT J
+DE oil price; global real activity; demand; news; shocks; forecast
+   revisions; EIU
+ID MACROECONOMIC ANNOUNCEMENTS; FOREIGN-EXCHANGE; INTEREST-RATES; SUPPLY
+   SHOCKS; MARKET; DISCOVERY; MODELS; STOCK; NEWS; BOND
+ER
+
+PT J
+DE event-related potentials; P3b; P3a; task-switching; uncertainty;
+   surprise; entropy; orienting response
+ID CARD SORTING TEST; EVENT-RELATED POTENTIALS; HUMAN PREFRONTAL CORTEX;
+   MEDIAL FRONTAL-CORTEX; COGNITIVE CONTROL; DECISION-MAKING; ORIENTING
+   RESPONSE; INDIVIDUAL-DIFFERENCES; CHANGING ENVIRONMENT; SET
+   RECONFIGURATION
+ER
+
+PT J
+DE Static equilibrium; structural stability; 3D printing; optimization;
+   interactive shape modeling
+ER
+
+PT J
+DE Hospitality stock prices; Federal funds target rate surprise; Bull
+   market; Bear market
+ID MONETARY-POLICY; MARKETS REACTION; BEAR MARKETS; RETURNS;
+   HETEROSKEDASTICITY; TRANSMISSION; CYCLES; RISK; BULL
+ER
+
+PT J
+ID UNCERTAINTY; ASSESSMENTS; NEED
+ER
+
+PT J
+DE Fed funds futures market; Monetary policy; Stock returns; Time-varying
+   parameter model
+ID INTEREST-RATES; SPURIOUS INFERENCE; RESERVE POLICY; ASSET PRICES;
+   INFORMATION; RETURNS; VOLATILITY; MOVEMENTS; MODELS; NEWS
+ER
+
+PT J
+ER
+
+PT J
+DE predictive surprise; Bayesian surprise; event-related brain potentials;
+   P300; single trial EEG; digital filtering
+ID EVENT-RELATED POTENTIALS; DYNAMIC CAUSAL-MODELS; BAYESIAN-INFERENCE;
+   FREE-ENERGY; SURPRISE; INFORMATION; RESPONSES; MEMORY; BRAIN; TIME
+ER
+
+PT S
+DE surprise; explain; concept drift; generative model
+ID TOP-DOWN FACILITATION; RECEPTIVE-FIELDS; VISUAL-CORTEX; RESPONSES;
+   RECOGNITION; INFERENCE; SURPRISE; RETINA; BRAIN; MODEL
+ER
+
+PT S
+ID CURIOSITY; SURPRISE
+ER
+
+PT S
+DE simulation; model checking; automation surprise; mental model; formal
+   methods
+ER
+
+PT B
+DE surprise; salience; explain; learn; predict; generative model;
+   predictive coding
+ID TOP-DOWN FACILITATION; RECEPTIVE-FIELDS; VISUAL-CORTEX; RESPONSES;
+   RECOGNITION; INFERENCE; SURPRISE; RETINA; BRAIN; MODEL
+ER
+
+PT S
+DE Acoustic event detection; Acoustic saliency; Cognition; Probability;
+   Algorithms
+ID AUDITORY ATTENTION
+ER
+
+PT J
+DE Surprise strategy; Customer delight; Explanations; Customer expectation;
+   Customers; Customer satisfaction; Expectation
+ID CONSUMER PERCEPTIONS; SERVICE ENCOUNTER; SATISFACTION; MODEL;
+   FOUNDATIONS; EXPERIENCE; RESPONSES; QUALITY
+ER
+
+PT J
+ID INFLAMMATION; CYTOKINE; ANTIBODY; T(H)17; SKIN
+ER
+
+PT J
+DE E32; E52; E58; anticipated and unanticipated monetary policy shocks;
+   news shocks; New Keynesian model with news shocks; effects of monetary
+   policy on output
+ID BAYESIAN DSGE APPROACH; BUSINESS-CYCLE; FLUCTUATIONS; SHOCKS; MATTER;
+   OUTPUT
+ER
+
+PT J
+ID CLIMATE-CHANGE; RISK
+ER
+
+PT J
+DE earnings surprise; earnings forecasting; stock returns; forecast
+   accuracy
+ID CAPITAL-MARKETS RESEARCH; SINGLE-INDEX MODELS; INSTITUTIONAL INVESTORS;
+   ANNOUNCEMENT DRIFT; TRADING BEHAVIOR; RETURNS; INFORMATION; ANALYSTS;
+   ACCURACY; SIZE
+ER
+
+PT J
+ER
+
+PT J
+DE attention; associability; associative learning; feature negative
+   discrimination; amygdala
+ID SURPRISE-INDUCED ENHANCEMENT; LESIONS DISRUPT INCREMENTS; POSTERIOR
+   PARIETAL CORTEX; CONDITIONED-STIMULUS; SUBSTANTIA-NIGRA; UNBLOCKING;
+   ATTENTION; ASSOCIABILITY; INHIBITION; BLOCKING
+ER
+
+PT J
+DE E44; E52; G12; monetary policy shocks; term structure; latent factor
+   model
+ID INTEREST-RATES; FUTURES DATA; MARKET; US; SHOCKS; MODELS
+ER
+
+PT J
+DE Monetary policy surprises; Jumps; Interest rates; Principal components
+ID STOCK MARKETS; NEWS; IMPACT; PRICES
+ER
+
+PT J
+ID DOMESTIC POLITICS; CONFLICT; WAR; UNCERTAINTY; ORIGINS; CRISIS; STATES;
+   FORCE; POWER; MODEL
+ER
+
+PT J
+DE mathematical models; stochastic models; informetrics
+ER
+
+PT J
+ER
+
+PT J
+ID DATA-RICH ENVIRONMENT; MONETARY-POLICY; YIELD CURVE; STRUCTURE DYNAMICS;
+   BOND YIELDS; IDENTIFICATION; MODELS; INFERENCE; VARIABLES; US
+ER
+
+PT J
+DE vision; face perception; emotions; computational modeling; categorical
+   perception; face detection
+ID FACE RECOGNITION; VARIANT FACES; AUTISM; FEAR; INFORMATION; QUESTIONS;
+   RACE
+ER
+
+PT J
+DE Internet video avoidance; emotions; attention; eye tracking; facial
+   expressions; simultaneous dynamic model; frailty model
+ID POSITIVE EMOTIONS; TV COMMERCIALS; ATTENTION; TIME; INTEGRATION;
+   RESPONSES; DYNAMICS; MODELS; AD
+ER
+
+PT J
+DE Monetary policy surprises; Financial market reaction to monetary policy;
+   return volatility; CBRT
+ID FEDERAL-RESERVE POLICY; INTEREST-RATES; RETURNS; BEHAVIOR; PRICES;
+   ANNOUNCEMENTS; VOLATILITY; EXCHANGE; MODELS
+ER
+
+PT J
+DE Stock markets; Foreign exchange markets; Macroeconomic surprises
+ID TIME PRICE DISCOVERY; MONETARY-POLICY; ASYMMETRIC INFORMATION; TREND
+   INFLATION; REAL ACTIVITY; NEWS; RETURNS; RISK; VOLATILITY; DYNAMICS
+ER
+
+PT J
+DE Attention; Emotion; Learning; Anxiety; fMRI
+ID HUMAN ORBITOFRONTAL CORTEX; ANXIETY DISORDERS; REWARD; AMYGDALA;
+   MECHANISMS; ALERTNESS; BRAIN
+ER
+
+PT S
+DE Volume modeling; graded-neighborhood; Voxel kinematics model;
+   transduction; telerobot
+ER
+
+PT B
+DE Automatic object detection; object localization; surprise theory;
+   branch-and-bound
+ID VISUAL-ATTENTION; RECOGNITION; TRACKING; MODEL
+ER
+
+PT S
+DE surprise metric; Bayesian probabilistic framework; online learning;
+   information theory; outlier detection; clustering
+ID INFORMATION
+ER
+
+PT S
+DE Relative Entropy; Kullback-Leibler divergence; Bayesian Surprise;
+   Learning progress; Artificial Curiosity; Mastermind
+ID MINIMIZATION
+ER
+
+PT S
+ER
+
+PT J
+DE GARCH models; systemic risk; information; macroeconomic surprises;
+   Mexican stock market
+ID CONDITIONAL HETEROSKEDASTICITY; FINANCIAL-MARKETS; VOLATILITY; NEWS;
+   EXCHANGE; RETURNS
+ER
+
+PT B
+DE cognitive modelling; serious gaming; situation awareness; surprise
+ID BEHAVIOR; SCIENCE
+ER
+
+PT J
+DE fourfold response pattern to recent outcomes; positive and negative
+   recency; the very recent effect; I-SAW; volume of trade
+ER
+
+PT J
+DE Species competition; CA modeling
+ID EVENT-DRIVEN SIMULATION; GUERRILLA WARFARE; SPIKING NEURONS
+ER
+
+PT J
+ID SUBJECTIVE-PROBABILITY; SURPRISE; PERCEPTION; SCHIZOTYPY; ESP
+ER
+
+PT J
+DE Anomalies; Post-earnings announcement drift; Arbitrage risk
+ER
+
+PT J
+ID ERROR LIKELIHOOD; PREDICTION ERRORS; COGNITIVE CONTROL; CORTEX;
+   CONFLICT; REWARD; TIME; TASK
+ER
+
+PT J
+DE blogs; delight; satisfaction; travel
+ID SERVICE QUALITY; SATISFACTION; CONSUMPTION; MODEL; DIMENSIONALITY;
+   FOUNDATIONS; STRATEGIES
+ER
+
+PT J
+DE Electromagnetic propagation; electromagnetic modeling; propagation
+   constant; electrical engineering education; dielectrics; numerical
+   simulation
+ER
+
+PT J
+ER
+
+PT J
+DE Hindsight bias; Surprise; Animations; Judgment; Foreseeability;
+   Sense-making
+ID POINT-OF-VIEW; VIDEOTAPED CONFESSIONS; DECISION-MAKING; BIAS; COURT;
+   JURY; SAW
+ER
+
+PT J
+DE Monetary policy announcements; Equity markets; Interest rates; Exchange
+   rates; Exchange rate regime
+ID INTERNATIONAL EQUITY MARKETS; MONETARY-POLICY; INTEREST-RATES; STOCK;
+   TRANSMISSION; CONTAGION; INFORMATION; INDEXES; CRISES; MODEL
+ER
+
+PT S
+DE Affective computing; narrative cognition; computational models; dramatic
+   arc; suspense; surprise
+ER
+
+PT J
+DE Volatility forecasting; Bivariate stochastic volatility model with
+   surprising information; Modified mixture of distribution hypothesis;
+   Realized volatility models; Markov Chain Monte Carlo (MCMC)
+ID EXCHANGE-RATE VOLATILITY; TRADING VOLUME; CONDITIONAL
+   HETEROSCEDASTICITY; MICROSTRUCTURE NOISE; REALIZED VARIANCE; RETURN
+   VOLATILITY; STOCK RETURNS; TIME-SERIES; HETEROSKEDASTICITY; ARRIVAL
+ER
+
+PT S
+DE surprise metric; Bayesian probabilistic framework; online learning;
+   information theory; outlier detection; clustering
+ID DYNAMIC TREES
+ER
+
+PT J
+ID INTERNATIONAL-TRADE; INCOME-DISTRIBUTION; SIMPLE-MODEL; WELFARE;
+   EQUALIZATION; TRANSFERS; TARIFFS; PRICES; WORLD; OHLIN
+ER
+
+PT S
+DE audio-visual saliency; auditory surprise; isophote-based visual
+   proto-objects; parametric 3-D saliency model; object-based inhibition of
+   return; multimodal attention; scene exploration; hierarchical object
+   analysis; overt attention; active perception
+ID VISUAL-ATTENTION; AUDITORY ATTENTION; MODEL
+ER
+
+PT S
+DE Highway; investment decision; Shackle model; uncertainty
+ER
+
+PT S
+DE surprise; saliency; attention; scene analysis; scene understanding; fast
+   algorithms; anomaly detection; surveillance
+ID ATTENTION; MODEL
+ER
+
+PT S
+ID IMAGES
+ER
+
+PT B
+DE Foundations of statistics; historical concepts; (potential) surprises;
+   background knowledge or belief; combining of backgrounds; updating of
+   backgrounds; merging or contrasting of backgrounds; practical
+   application of mathematical models; real life examples
+ER
+
+PT J
+DE surprise; probability judgments; expectation; representation; reasoning
+ID CONJUNCTION FALLACY; POTENTIAL SURPRISE; SITUATION MODELS;
+   COMPREHENSION; MEMORY; REPRESENTATIVENESS; PROBABILITIES; PLAUSIBILITY;
+   MECHANISMS; CHILDRENS
+ER
+
+PT J
+ID NORTHERN HARDWOOD FOREST; HUBBARD BROOK; POPULATION; DYNAMICS;
+   DISTURBANCE; CONSERVATION; COMMUNITIES; ECOSYSTEMS; GRASSLAND; STRESSORS
+ER
+
+PT J
+DE Attention; cognitive robots; image-based representations; surprise
+ID VISUAL-ATTENTION; EVENTS; CORTEX
+ER
+
+PT J
+DE International bond markets; VAR models; Return variance decomposition;
+   Monetary policy shocks
+ID INTEREST-RATES; STOCK-MARKET; ASSET PRICES; VARIANCE DECOMPOSITION;
+   EXPECTED RETURNS; ANNOUNCEMENTS; US; INTEGRATION; VOLATILITY; FORECASTS
+ER
+
+PT J
+DE Pre-consumption mood; Mood state; Surprise; Satisfaction
+ID CUSTOMER SATISFACTION; CONSEQUENCES; INVOLVEMENT; EXPERIENCE; EMOTIONS;
+   MODEL
+ER
+
+PT J
+DE Surprising information with a sign effect; Modified MDH;
+   Information-type switching GARCH-V model; Trading volume; Realized
+   volatility; Quantile regression
+ID EXCHANGE-RATE VOLATILITY; STOCK-RETURN VOLATILITY; DISTRIBUTIONS
+   HYPOTHESIS; STOCHASTIC VOLATILITY; PRICE VARIABILITY; FOREIGN-EXCHANGE;
+   TIME-SERIES; DAILY FLOW; UNIT-ROOT; MIXTURE
+ER
+
+PT J
+ER
+
+PT J
+ID LIFE; END; COMMUNICATION; MORTALITY
+ER
+
+PT J
+DE Information; Surprise; Relative entropy; Attention; Eye movements
+ID PRIMARY VISUAL-CORTEX; RELATIVE SURPRISE; EYE; MECHANISMS; FIXATIONS;
+   ENTROPY; EVENTS; SEARCH; IMAGES; MODEL
+ER
+
+PT J
+ID SURPRISE EXAMINATION; PREFERENCE REVERSAL; EQUILIBRIUM; MECHANISMS;
+   KNOWLEDGE; INFERENCE; NETWORKS; PARADOX; IMITATE; MODELS
+ER
+
+PT S
+ER
+
+PT J
+DE Inventory; Random demand rate; Random lead time; Surprise function;
+   Fuzzy chance-constrained
+ID STOCHASTIC DEMAND; BACKORDERS; SYSTEMS
+ER
+
+PT J
+DE management earnings forecasts; earnings management; capital market
+   prices
+ID VOLUNTARY DISCLOSURE; INFORMATION; PRECISION; CREDIBILITY; INCENTIVES;
+   MODEL; STRATEGIES; CHOICES; LOSSES; BIAS
+ER
+
+PT J
+DE hindsight bias; surprise; inevitability; foreseeability; hindsight
+   components
+ID CREEPING DETERMINISM; CAUSAL ATTRIBUTION; EVENTS; MODEL; JUDGMENTS;
+   EMOTION; SENSE
+ER
+
+PT J
+ER
+
+PT J
+DE impression formation; social categorization; stereotyping
+ID ACHIEVE COGNITIVE STRUCTURE; PERSON PERCEPTION; STEREOTYPES; NEED;
+   INDIVIDUALS; INFORMATION; ATTRIBUTES; PROTOTYPES; EMERGENCE; JUDGMENT
+ER
+
+PT J
+DE hindsight bias; surprise; judgment; memory; sense making
+ID CREEPING DETERMINISM; I KNEW; MODEL; METAANALYSIS; UNCERTAINTY;
+   KNOWLEDGE; FUTURE; SENSE
+ER
+
+PT J
+DE Surprise; Attention; RSVP; Detection; Modeling; Saliency; Natural image;
+   Computer vision; Masking; Statistics
+ID SERIAL VISUAL PRESENTATION; ATTENTIONAL BLINK; BACKWARD-MASKING; CONTOUR
+   INTEGRATION; EVENTS; MODEL; CONSCIOUSNESS; COMPETITION; SALIENCY; VISION
+ER
+
+PT J
+DE Attention; Surprise; Bayes theorem; Information theory; Eye movements;
+   Natural vision; Free viewing; Saliency; Novelty
+ID VISUAL-ATTENTION; NOVELTY SEEKING; CONTRAST ADAPTATION;
+   CORTICAL-NEURONS; RECEPTOR GENE; CORTEX; EVENTS; CELLS; INTEGRATION;
+   STATISTICS
+ER
+
+PT J
+ID MYOPIC LOSS AVERSION; DECISION-MAKING; RISK-TAKING; CHOICE; PREFERENCES;
+   UNCERTAINTY; UTILITY; DISAPPOINTMENT; INFORMATION; PSYCHOLOGY
+ER
+
+PT J
+DE resilience; adaptation; transformation; surprise
+ER
+
+PT J
+DE Spike trains variability; Bursting; Long-range correlations; Detrended
+   fluctuation analysis; Poisson surprise method; Rank surprise method
+ID RANGE TEMPORAL CORRELATIONS; SPIKE TRAINS; TIME-SERIES; NEURONS;
+   COMPLEX; DNA
+ER
+
+PT J
+ID RELATIVE SURPRISE; PROBABILITY; PARADOX
+ER
+
+PT J
+ER
+
+PT J
+DE protein design; protein engineering; protein folding; protein
+   structures; single-molecule studies
+ID FORCE SPECTROSCOPY; UBIQUITIN; KINETICS
+ER
+
+PT S
+ID CATEGORIES
+ER
+
+PT S
+ID SIMULTANEOUS LOCALIZATION
+ER
+
+PT S
+DE earning response coefficient (ERC) model; textual information; news
+   coverage; news sentiment
+ID EARNINGS ANNOUNCEMENTS; STOCK RETURNS; FORECASTS; FIRMS
+ER
+
+PT J
+ID MINIMAL FLAVOR VIOLATION; GRAND UNIFIED THEORIES; SUPERSYMMETRY
+   BREAKING; GAUGE UNIFICATION; STANDARD MODEL; MU-PROBLEM; NATURAL
+   SOLUTION; Z(6) ORBIFOLD; COMPACTIFICATIONS; DIMENSIONS
+ER
+
+PT J
+DE Asset pricing; Fama French Equity Factors; CAPM; Economic Fundamentals
+ID BOOK-TO-MARKET; EXPECTED STOCK RETURNS; CROSS-SECTION; RISK-FACTORS;
+   MACROECONOMIC NEWS; COMMON-STOCKS; SIZE; PRICES; EARNINGS; INVESTMENT
+ER
+
+PT J
+ER
+
+PT J
+DE P300; single-trial EEG; information theory; surprise; attention;
+   independent component analysis
+ID INFORMATION-THEORETICAL APPROACH; INDEPENDENT COMPONENT ANALYSIS;
+   DECISION-MAKING; EEG-FMRI; POTENTIALS; NOVELTY; UNCERTAINTY; P300;
+   NOREPINEPHRINE; ARTIFACTS
+ER
+
+PT J
+DE discrete event systems; human-machine systems; user manual; automation
+   surprises
+ID SUPERVISORY CONTROL; CONFUSIONS
+ER
+
+PT J
+ER
+
+PT J
+ID PREVENTION; PARTICLES
+ER
+
+PT J
+DE rational partisan theory; election surprises; US presidential elections
+ID BUSINESS-CYCLE; MACROECONOMIC POLICY; MODELS
+ER
+
+PT J
+DE Autocorrelation function; Continuous-time Mrakov chain; First passage
+   time; Goodness of fit; Maximum likelihood estimates; Michaelis-Menten
+   model; Reaction rate
+ID CONFORMATIONAL DYNAMICS; MOLECULE SPECTROSCOPY; FLUCTUATING ENZYMES
+ER
+
+PT J
+ID STOCK RETURNS; MOMENTUM STRATEGIES; ORDER IMBALANCE; MARKET; RISK;
+   PROFITABILITY; PERFORMANCE; LIQUIDITY; TRENDS; VOLUME
+ER
+
+PT J
+ID NATURAL SOUNDS; CORTEX; RESPONSES; NEURONS
+ER
+
+PT J
+ID NATURAL SOUNDS; RECEPTIVE-FIELDS; RESPONSE MODULATION;
+   INFORMATION-THEORY; PREFRONTAL CORTEX; CORTICAL-NEURONS; CONSPECIFIC
+   SONG; FOREBRAIN; VOCALIZATIONS; STATISTICS
+ER
+
+PT J
+DE monetary policy surprises; international spillovers; factor model; event
+   studies; biases
+ID INTEREST-RATES; IDENTIFICATION; MARKET
+ER
+
+PT J
+DE adaptive management; ecological dynamics; food webs; prediction;
+   stochasticity; surprises; uncertainty
+ID SEA OTTERS; ALEUTIAN ARCHIPELAGO; ADAPTIVE MANAGEMENT; INTERACTION
+   STRENGTH; POPULATION-DYNAMICS; COMMUNITY DYNAMICS; FOREST ECOSYSTEMS;
+   NATIONAL-PARK; CONSERVATION; PREDATION
+ER
+
+PT B
+ER
+
+PT S
+DE Story Generation; Narrative; Flashback; Foreshadowing; Prolepsis;
+   Analepsis; Surprise Arousal; Cognitive Interest
+ID EVENTS
+ER
+
+PT J
+ER
+
+PT J
+DE brand choice; multinomial logit; UPC data; marketing science practice
+ID PURCHASE INCIDENCE
+ER
+
+PT J
+ID EARNINGS-ANNOUNCEMENT DRIFT; UNEXPECTED EARNINGS; ANOMALIES; RISK
+ER
+
+PT J
+ID ORPHAN NUCLEAR RECEPTOR; CIRCADIAN EXPRESSION; GLAND; MECHANISM; RHYTHM;
+   BETA
+ER
+
+PT J
+ER
+
+PT J
+ID IT-ALL-ALONG; ACCESSIBILITY EXPERIENCES; COULD NEVER; KNEW; INFORMATION;
+   HYPOTHESIS; KNOWLEDGE; FEEDBACK; OUTCOMES; METAANALYSIS
+ER
+
+PT B
+ID VISUAL-ATTENTION; EYE
+ER
+
+PT S
+ER
+
+PT S
+DE active modeling; emergency; conceptual model; surprise
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT B
+DE CSM Design Model; Cognitive framework; Creativity; Surprise; Interactive
+   exhibit design; tangible interface; embedded technology; learning
+ER
+
+PT J
+DE time series; suffix tree; novelty detection; anomaly detection; Markov
+   model; feature extraction
+ID UNUSUAL WORDS; CONSTRUCTION; ALGORITHM
+ER
+
+PT J
+DE surprise; belief change; theory of emotions
+ID EXPECTANCIES; PROBABILITY
+ER
+
+PT J
+ID ANALYST FORECAST REVISIONS; PRO FORMA EARNINGS; ANNOUNCEMENT DRIFT;
+   INVESTOR SOPHISTICATION; DELISTING BIAS; FULLY REFLECT; INFORMATION;
+   EXPECTATIONS; PRICES; RISK
+ER
+
+PT J
+ER
+
+PT J
+DE human-machine systems; bisimulation; automation surprises; discrete
+   event systems
+ID SUPERVISORY CONTROL; MODEL
+ER
+
+PT J
+DE belief systems; expectation and surprise; cognitive architectures
+ID REVISION; BELIEF
+ER
+
+PT J
+DE calibration of ppp values; dipper data; double simulation; model
+   criticism; posterior predictive p values; prior construction; prior
+   predictive evaluation; surprise
+ID COMPOSITE NULL MODELS; BAYES FACTORS; HIERARCHICAL-MODELS; CHOICE;
+   CHECKING; SURVIVAL; CRITERIA; FIT
+ER
+
+PT J
+ID GOOD EMPIRICAL FITS; KINEMATIC MODELS; PASHLER 2000; MOTION;
+   PERFORMANCE; PERCEPTION; EXPRESSION; DYNAMICS; ROBERTS; BEGIN
+ER
+
+PT J
+DE automation surprises; human-machine systems; timed automata; timed
+   simulation; composite model
+ID MODEL
+ER
+
+PT J
+DE Bayesian inference; computation; minimum prior content; relative
+   surprise
+ID BAYESIAN-INFERENCE; LIKELIHOOD METHODS; MODELS; PARAMETERS
+ER
+
+PT J
+ID STOCK-PRICES; UNEXPECTED EARNINGS; QUARTERLY EARNINGS; FUTURE EARNINGS;
+   FULLY REFLECT; RETURNS; INFORMATION; ANOMALIES; RISK; PERSPECTIVE
+ER
+
+PT J
+DE quark-gluon plasma; relativistic heavy ion collision
+ID HIGH-ENERGY COLLISIONS; QUANTUM-STATISTICAL APPROACH; BOSE-EINSTEIN
+   CORRELATIONS; LARGE TRANSVERSE-MOMENTA; DENSITY-DEPENDENT MODEL;
+   EQUATION-OF-STATE; HADRONIC MATTER; HYDRODYNAMICAL-MODEL; MULTIPLICITY
+   DISTRIBUTIONS; PHASE-TRANSITION
+ER
+
+PT B
+DE safety analysis; systemic accident model; performance deviations;
+   automation-induced surprises; complex and dynamical systems
+ER
+
+PT J
+ID CHOICE CONTINGENT VALUATION; WILLINGNESS-TO-PAY; DICHOTOMOUS CHOICE;
+   ZERO VALUES; RESPONSES; EFFICIENCY; MODELS; BENEFITS; DESIGN; COST
+ER
+
+PT J
+ID MOOD; HUMOR; CATEGORIZATION; PERFORMANCE; INDUCTION; FEELINGS; AROUSAL;
+   CONTEXT; MODEL; TASK
+ER
+
+PT J
+ER
+
+PT J
+ID JAYNES-CUMMINGS MODEL; ELECTROMAGNETICALLY INDUCED TRANSPARENCY;
+   STIMULATED RAMAN-SCATTERING; INTENSE LASER-PULSES; N-LEVEL ATOMS;
+   WAVELENGTH OPTICAL PULSES; DIFFRACTION-FREE BEAMS; COARSE-GRAINED
+   THEORY; SIMPLE QUANTUM MODEL; POPULATION TRANSFER
+ER
+
+PT J
+ID ENDOHEDRAL METALLOFULLERENES; CHARGE-DENSITY; SC-3-AT-C-82; CAGE;
+   DIFFRACTION; DYNAMICS; EXCHANGE; ISOMER; TRIMER; ANION
+ER
+
+PT J
+ID COMPLEXES; LIGAND; REACTIVITY; HEMOCYANIN; ACTIVATION; BINDING; PEROXO;
+   OXO
+ER
+
+PT J
+ID TRADING VOLUME; DISTRIBUTIONS HYPOTHESIS; PRICE VARIABILITY; FUTURES
+   MARKETS; STOCK RETURNS; VOLATILITY; INFORMATION; MODELS; VARIANCE;
+   MIXTURE
+ER
+
+PT J
+DE numerical modeling; conceptual models; groundwater mangement; data
+   collection and analysis; mistaken model predictions
+ID PARAMETER STRUCTURE IDENTIFICATION; STREAM-AQUIFER SYSTEM; GROUNDWATER
+   MODEL; OPTIMIZATION; VALIDATION; POSTAUDIT; LESSONS
+ER
+
+PT S
+ID VISUAL-ATTENTION; NOVELTY DETECTION; SALIENCE; SEARCH; REPRESENTATION;
+   INTEGRATION; ADAPTATION; PERCEPTION; MECHANISMS; SELECTION
+ER
+
+PT B
+DE exploration of unknown environments; curiosity; hunger; surprise
+ER
+
+PT B
+DE conceptual modeling; learning; surprises; system modeling; database;
+   knowledge base
+ER
+
+PT J
+ID COORDINATIVE MOTOR STRUCTURES; INFANTS RESPONSES; ACUTE PAIN;
+   DEVELOPMENTAL-CHANGES; EUROPEAN-AMERICAN; CHINESE INFANTS; STABILITY;
+   JAPANESE; LIFE; FACE
+ER
+
+PT J
+DE human-machine interaction; composite model; automation surprises; mode
+   confusion; refusal state; blocking state
+ID MODEL
+ER
+
+PT J
+DE surprise; abrupt climate change; thermobaline circulation;
+   irreversibility; integrated assessment models
+ID THERMOHALINE CIRCULATION; VEGETATION SYSTEM; ATMOSPHERIC CO2;
+   FRESH-WATER; DYNAMICS; EVENTS; MODEL; MIDHOLOCENE; FREQUENCY; INTENSITY
+ER
+
+PT J
+DE sequential patterns; statistical significant patterns
+ID EFFICIENT ALGORITHM; SEQUENTIAL PATTERNS; TIME SEQUENCES; DISCOVERY
+ER
+
+PT J
+DE default risk; Azema martingale; Brownian excursions; default
+   distribution
+ID EXCURSIONS
+ER
+
+PT J
+ID BELIEF
+ER
+
+PT J
+ID NATURAL CATEGORIES; NEURAL-NETWORKS; BASIC LEVEL; INTERNAL STRUCTURE;
+   FACE RECOGNITION; CLASSIFICATION; EXPERTISE; ABSTRACTION; SIMILARITY;
+   INFERENCE
+ER
+
+PT J
+ER
+
+PT J
+DE additive effects; amides; kinetics; nitriles; zirconium
+ID ZIRCONOCENE
+ER
+
+PT B
+ID MATHEMATICAL-THEORY; COMMUNICATION
+ER
+
+PT J
+ID DECAY PROPERTIES; MASS FORMULA; HALF-LIVES
+ER
+
+PT J
+DE category; learning; unsupervised; supervised; psychology
+ID CATEGORIZATION; MODELS; MEMORY
+ER
+
+PT J
+ID I KNEW; CAUSAL ATTRIBUTION; SELF-ENHANCEMENT; FEEDBACK; HAPPEN;
+   CONTROLLABILITY; RESPONSIBILITY; FORESEEABILITY; PERSPECTIVE; LIKELIHOOD
+ER
+
+PT J
+ER
+
+PT J
+DE Bayes factors; nuisance parameters; partial posterior predictive
+   p-value; plug-in p-value; posterior predictive p-value; prior predictive
+   p-value
+ID COMPOSITE NULL MODELS; P-VALUES; SENSITIVITY ANALYSIS;
+   LINEAR-REGRESSION; INFERENCE; SELECTION
+ER
+
+PT S
+ER
+
+PT S
+ID INVERSE FRACTAL PROBLEM; WAVELET TRANSFORM; MULTIFRACTAL FORMALISM;
+   HEARTBEAT
+ER
+
+PT J
+DE temporal trend; earnings; analysts; small negative surprises; frequency;
+   valuation consequences; growth versus value
+ID EARNINGS; MANAGEMENT; LOSSES
+ER
+
+PT J
+DE category; learning; unsupervised; supervised; psychology; connectionist
+ID CLASSIFICATION; INFERENCE; CATEGORIZATION; MODELS; MEMORY
+ER
+
+PT J
+DE decision making; forecasting; simulation models; robust adaptive
+   planning; strategic planning; surprise
+ID POLICY ANALYSIS
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE network externality; network effect; entrepreneurial dynamics;
+   technology innovation
+ID EXTERNALITIES; COMPATIBILITY; DIRECTIONS; PARADIGMS; MARKET
+ER
+
+PT J
+DE financial analysts; forecast guidance; earnings management; forecast
+   bias; financial reporting incentives
+ID STOCK RETURNS; INSTITUTIONAL INVESTORS; MARKET EXPECTATIONS;
+   INFORMATION-CONTENT; ANALYSTS FORECASTS; DISCLOSURES; LITIGATION;
+   PRICES; LOSSES; SHARE
+ER
+
+PT J
+ER
+
+PT J
+ID BARRIER HYDROGEN-BOND; DELTA(5)-3-KETOSTEROID ISOMERASE; PROTON
+   TRANSLOCATION; MECHANISM; MITOCHONDRIA; RESOLUTION; PROTEINS; ENZYMES;
+   MODEL; DNA
+ER
+
+PT J
+ID PACKAGE COUPONS; BRAND CHOICE; BEHAVIOR; PROFITS
+ER
+
+PT J
+DE automation surprise; mode confusion; model checking; formal methods;
+   mental model; human-computer interaction
+ER
+
+PT J
+ID 2-BODY RANDOM ENSEMBLES; RANDOM POLYNOMIALS; NUCLEAR-SPECTRA; BOSON
+   MODEL; STATES
+ER
+
+PT J
+DE intrusive; withdrawn; depressed mothers; infants; EEG
+ID BEHAVIOR; ASYMMETRY; STABILITY; ADULT
+ER
+
+PT B
+DE information; surprise; relevance; Bayesian probabilities; entropy;
+   relative entropy
+ER
+
+PT B
+ER
+
+PT J
+DE jumps; diffusions; characteristic functions
+ID TERM STRUCTURE DYNAMICS; CONTINUOUS-TIME LIMIT; STOCK RETURNS; MODELS;
+   DIFFUSIONS; MARKET
+ER
+
+PT J
+DE conducting polymer; polyacetylene; field theory
+ID OPTICAL-ABSORPTION; 3-DIMENSIONAL STRUCTURE; SOLITON EXCITATIONS; DOPED
+   POLYACETYLENE; TRANS-POLYACETYLENE; INTRINSIC DEFECTS; DIATOMIC POLYMER;
+   THEORY MODELS; POLARONS; CHARGE
+ER
+
+PT J
+ID MODIFIED NEWTONIAN DYNAMICS; UNIVERSE; GALAXIES
+ER
+
+PT J
+DE strategic surprises; noncontractual relationships; heuristics; norms;
+   trust
+ID COOPERATION; TRUST; ECONOMICS
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ID RECOGNITION MEMORY; UNCONSCIOUS PERCEPTION; FALSE RECOGNITION;
+   ILLUSIONS; JUDGMENTS; FREQUENCY; RECALL; MODEL
+ER
+
+PT J
+ID CONSUMER RESPONSES; MODEL; REPETITION; IMPACT; AD; PLAYFULNESS;
+   JUDGMENTS; TOLERANCE; AMBIGUITY; ATTITUDE
+ER
+
+PT J
+ER
+
+PT J
+ID REPETITION; ATTITUDE; AD; IMPACT
+ER
+
+PT J
+DE gift giving; psychological equilibrium; reciprocity; welfare; labor
+   relations
+ID DEADWEIGHT LOSS; CHRISTMAS; EXCHANGE; FAIRNESS
+ER
+
+PT J
+ID SURFACE SEGREGATION; ALLOYS; TRANSITION; MODEL; METALS
+ER
+
+EF

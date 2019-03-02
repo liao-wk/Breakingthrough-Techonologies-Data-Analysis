@@ -1,8 +1,9 @@
+
 #  根据WOS导出的记录，得到关键词的列表和关键词出现的频数
 import re, json, os
 
 os.chdir("F:\\大道之君\\Breakingthrough-Techonologies-Data-Analysis\\关键词数据\\关键词raw")
-fileName = "Additive Manufacturing"
+fileName = "Nuclear Reprogramming"
 file = open(fileName+".txt")
 #  示例：Keywords = [ ['Physical layer security','secrecy rate','potent'],\
 # ['Optimization',' resonant converter'] ]

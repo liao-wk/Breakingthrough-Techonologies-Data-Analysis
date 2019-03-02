@@ -1,0 +1,171 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,generative adversarial networks,19,generative adversarial networks,41
+1,deep learning,15,deep learning,36
+2,generative adversarial network,12,generative adversarial network,24
+3,generative,10,generative,24
+4,generative adversarial,5,generative adversarial,12
+5,generative adversarial networks (gans),4,gan,11
+6,machine learning,3,machine learning,8
+7,generative model,3,generative model,7
+8,convolutional neural networks,3,adversarial networks,7
+9,adversarial networks,3,variational autoencoder,6
+10,gan,3,convolutional neural networks,6
+11,variational autoencoder,2,generative adversarial networks (gans),6
+12,saliency detection,2,variational,6
+13,image inpainting,2,saliency detection,5
+14,speech enhancement,2,image editing,5
+15,image editing,2,adversarial examples,5
+16,adversarial examples,2,convolutional neural network,5
+17,generative models,2,image inpainting,4
+18,adversarial learning,2,speech enhancement,4
+19,variational,2,completion,4
+20,convolutional neural network,2,semantically,4
+21,face completion,1,global,4
+22,multi-context,1,adversarial,4
+23,photovoltaic power forecasting,1,perceptual network,4
+24,weather classification,1,generative models,4
+25,multi-style transfer,1,adversarial learning,4
+26,adversarial generative networks,1,saliency prediction,4
+27,video signal processing,1,accuracy,4
+28,object tracking,1,saliency,4
+29,computer vision,1,slam,4
+30,learning,1,loop closure,4
+31,contour detection,1,unsupervised learning,4
+32,inverse design,1,feature,4
+33,closed loop,1,video signal processing,3
+34,data augmentation,1,object tracking,3
+35,probabilistic model,1,computer vision,3
+36,generative adversarial learning,1,learning,3
+37,object recognition,1,inverse design,3
+38,image data synthesizing,1,closed loop,3
+39,human-computer interaction,1,vision,3
+40,automatic modulation recognition,1,reconstruction,3
+41,semi-supervised,1,fmri,3
+42,vision,1,image dehazing,3
+43,reconstruction,1,feature learning,3
+44,fmri,1,sparse coding,3
+45,multi-scale,1,uav images,3
+46,natural language texts,1,image denoising,3
+47,representation learning,1,perceptual,3
+48,convolutional neural network (cnn),1,neural networks,3
+49,image dehazing,1,nanosats,3
+50,feature learning,1,space-based imaging,3
+51,sparse coding,1,motion deblurring,3
+52,image de-raining,1,auto encoder,3
+53,wasserstein conditional gan,1,joint loss,3
+54,generalization,1,image,3
+55,uav images,1,generative adversarial net,3
+56,image denoising,1,vgan,3
+57,perceptual,1,text,3
+58,category sentence generation,1,cgan,3
+59,facial attributes,1,adversarial autoencoder,3
+60,conditional generative adversarial networks (cgans),1,drug discovery,3
+61,convolutional,1,neural machine translation,3
+62,coupled gan,1,prior knowledge,3
+63,image transformation,1,deeplearning,3
+64,captcha,1,uyghur,3
+65,deep convolutional network,1,super-resolution,3
+66,generative adversarial nets,1,face hallucination,3
+67,semisupervised learning,1,identity guidance,3
+68,neural networks,1,image synthesis,3
+69,gans,1,stable gan,3
+70,top-n recommendation,1,image inversion,3
+71,collaborative filtering,1,computational photography,3
+72,phase reconstruction,1,scene analysis,3
+73,deep neural networks,1,adversarial training,3
+74,query keyword matching,1,information-theoretic learning,3
+75,online,1,autoencoder,3
+76,image generating,1,face completion,2
+77,wasserstein distance,1,multi-context,2
+78,dnn attack,1,photovoltaic power forecasting,2
+79,completion,1,weather classification,2
+80,semantically,1,contour detection,2
+81,global,1,data augmentation,2
+82,adversarial,1,probabilistic model,2
+83,perceptual network,1,generative adversarial learning,2
+84,convolutional neural networks (cnn),1,object recognition,2
+85,decentralized learning,1,image data synthesizing,2
+86,urban modeling,1,human-computer interaction,2
+87,global urbanization,1,automatic modulation recognition,2
+88,typhoon cloud prediction,1,semi-supervised,2
+89,synthetic aperture radar (sar),1,multi-scale,2
+90,artificial neural network,1,natural language texts,2
+91,feed forward,1,representation learning,2
+92,nanosats,1,convolutional neural network (cnn),2
+93,space-based imaging,1,image de-raining,2
+94,motion deblurring,1,wasserstein conditional gan,2
+95,face aging,1,generalization,2
+96,boundary equilibrium,1,facial attributes,2
+97,source separation,1,coupled gan,2
+98,cbct images,1,image transformation,2
+99,ring artifacts,1,captcha,2
+100,generative adversarial network (gan),1,deep convolutional network,2
+101,blind bandwidth extension,1,generative adversarial nets,2
+102,artificial bandwidth extension,1,semisupervised learning,2
+103,voice conversion,1,gans,2
+104,cycle-consistent adversarial network,1,top-n recommendation,2
+105,automatic speech recognition,1,collaborative filtering,2
+106,robust speech recognition,1,phase reconstruction,2
+107,emotion recognition,1,deep neural networks,2
+108,conditional adversarial training,1,query keyword matching,2
+109,auto encoder,1,online,2
+110,joint loss,1,image generating,2
+111,image,1,wasserstein distance,2
+112,generative adversarial net,1,dnn attack,2
+113,vgan,1,urban modeling,2
+114,text,1,global urbanization,2
+115,denoising autoencoder,1,artificial neural network,2
+116,cgan,1,feed forward,2
+117,end-to-end learning,1,face aging,2
+118,road detection,1,boundary equilibrium,2
+119,semantic segmentation,1,source separation,2
+120,acp approach,1,cbct images,2
+121,adversarial autoencoder,1,ring artifacts,2
+122,drug discovery,1,generative adversarial network (gan),2
+123,neural machine translation,1,blind bandwidth extension,2
+124,prior knowledge,1,artificial bandwidth extension,2
+125,deeplearning,1,voice conversion,2
+126,uyghur,1,cycle-consistent adversarial network,2
+127,super-resolution,1,automatic speech recognition,2
+128,face hallucination,1,robust speech recognition,2
+129,identity guidance,1,emotion recognition,2
+130,image synthesis,1,conditional adversarial training,2
+131,stable gan,1,denoising autoencoder,2
+132,saliency prediction,1,end-to-end learning,2
+133,accuracy,1,road detection,2
+134,saliency,1,semantic segmentation,2
+135,traffic scene,1,acp approach,2
+136,generated image,1,traffic scene,2
+137,slam,1,generated image,2
+138,loop closure,1,self-excited,2
+139,unsupervised learning,1,latent space understanding,2
+140,feature,1,synthetic aperture radar,2
+141,self-excited,1,despecking,2
+142,latent space understanding,1,age estimation,2
+143,synthetic aperture radar,1,convolution neural network,2
+144,despecking,1,conditional,2
+145,age estimation,1,trajectory prediction,2
+146,convolution neural network,1,conditional generative,2
+147,generative adversarial nets(gan),1,adversarial attacks,2
+148,deep neural network(dnn),1,encoder and decoder,2
+149,conditional,1,statistical parametric speech synthesis,2
+150,trajectory prediction,1,deep neural network,2
+151,conditional generative,1,residential area,2
+152,adversarial attacks,1,object extraction,2
+153,encoder and decoder,1,classification,2
+154,statistical parametric speech synthesis,1,context aware,2
+155,deep neural network,1,visual story,2
+156,residential area,1,edge,2
+157,object extraction,1,multi-style transfer,1
+158,wasserstein generative adversarial networks,1,adversarial generative networks,1
+159,gradient penalty,1,category sentence generation,1
+160,image inversion,1,conditional generative adversarial networks (cgans),1
+161,computational photography,1,convolutional,1
+162,scene analysis,1,convolutional neural networks (cnn),1
+163,adversarial training,1,decentralized learning,1
+164,classification,1,typhoon cloud prediction,1
+165,context aware,1,synthetic aperture radar (sar),1
+166,visual story,1,generative adversarial nets(gan),1
+167,edge,1,deep neural network(dnn),1
+168,information-theoretic learning,1,wasserstein generative adversarial networks,1
+169,autoencoder,1,gradient penalty,1

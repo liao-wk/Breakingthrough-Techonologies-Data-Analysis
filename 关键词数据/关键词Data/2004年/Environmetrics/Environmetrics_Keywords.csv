@@ -1,0 +1,518 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,environmetrics,25,environmetrics,81
+1,magnetic resonance imaging,14,magnetic resonance imaging,38
+2,mrfm,7,mri,29
+3,mri,7,mrfm,24
+4,magnetic resonance,7,magnetic,21
+5,magnetic resonance force microscopy,7,magnetic resonance,17
+6,magnetic,6,smoothing,16
+7,functional magnetic resonance imaging (fmri),5,magnetic resonance force microscopy,14
+8,lorentz force,5,risk,13
+9,smoothing,4,environmental,13
+10,environmental,4,esr,12
+11,cardiac magnetic resonance,3,elastography,12
+12,esr,3,lorentz force,12
+13,water quality,3,imaging,11
+14,imaging,3,sediments,11
+15,elastography,3,water,11
+16,nuclear magnetic resonance,3,air,10
+17,risk,3,modeling,10
+18,sediments,3,force detection,10
+19,cluster analysis,3,nuclear magnetic resonance,9
+20,chemometrics,3,chemometrics,9
+21,force detection,3,water quality,8
+22,exploratory data analysis,2,kriging,8
+23,image analysis,2,functional magnetic resonance imaging (fmri),8
+24,time series,2,heavy metals,8
+25,force,2,cluster analysis,8
+26,microscopy,2,safety,8
+27,detection probability,2,nanomagnets,8
+28,estimability,2,electrometer,8
+29,n-mixture model,2,magnetometer,8
+30,occupancy model,2,cardiac magnetic resonance,7
+31,kriging,2,image analysis,7
+32,cardiovascular imaging,2,time series,7
+33,autocorrelation,2,cardiac catheterization,7
+34,spatial statistics,2,force sensor,7
+35,cardiomyopathy,2,ultrasound,7
+36,coil,2,source apportionment,7
+37,heavy metals,2,mercury,7
+38,bayesian inference,2,death,7
+39,magnetic resonance force microscopy (mrfm),2,disease progression,7
+40,radionuclides,2,image segmentation,7
+41,principal,2,force,6
+42,cardiac catheterization,2,microscopy,6
+43,force sensor,2,detection probability,6
+44,ultrasound,2,estimability,6
+45,magnetic force microscopy,2,n-mixture model,6
+46,safety,2,occupancy model,6
+47,source apportionment,2,autocorrelation,6
+48,kalman filter,2,principal,6
+49,mercury,2,decision theory,6
+50,death,2,uncertainty,6
+51,disease progression,2,catastrophes,6
+52,cantilever,2,fear,6
+53,classification,2,topology,6
+54,haptic,2,axioms,6
+55,meteor,2,kalman filter,6
+56,image segmentation,2,meteor,6
+57,air,2,fuzzy logic,6
+58,water,2,land,6
+59,modeling,2,forecasting,6
+60,pollution,2,pollution,6
+61,nanomagnets,2,exploratory data analysis,5
+62,electrometer,2,silicon-nitride,5
+63,magnetometer,2,membrane,5
+64,stress-strength parameter,1,cyclic-saturation,5
+65,threshold parameter,1,cardiovascular imaging,5
+66,interval censored data,1,spatial statistics,5
+67,magnetic-resonance-force-detection,1,radionuclides,5
+68,liquids,1,mre,5
+69,angular median,1,velocity,5
+70,axial data,1,single-sided magnet,5
+71,directional data,1,stiffness,5
+72,functional magnetic resonance imaging,1,cantilever,5
+73,magnetic resonance-compatibility,1,classification,5
+74,plc,1,mr,5
+75,power line network,1,incidents,5
+76,impulsive noise,1,heating,5
+77,arma models,1,bcf,5
+78,arima models,1,dosimetry,5
+79,editorials,1,kddm,5
+80,aortic stenosis,1,meta analysis,5
+81,myocardial,1,pbtk,5
+82,cardiovascular magnetic resonance,1,stochastic modeling,5
+83,training,1,skewness,5
+84,credentialing,1,loess,5
+85,environmental science,1,surface,5
+86,environmental statistics and data,1,black sea,5
+87,mr-compatible hand exoskeleton,1,coastal area,5
+88,robot rehabilitation,1,river basin,5
+89,visualization,1,plc,4
+90,ecological forecasting,1,power line network,4
+91,hierarchical bayesian models,1,impulsive noise,4
+92,nonlinear,1,arma models,4
+93,charge transfer,1,arima models,4
+94,electrochemistry,1,visualization,4
+95,flow propagators,1,river hindon,4
+96,forced hydrodynamic,1,cpi,4
+97,deflection torque,1,pca,4
+98,displacement force,1,ca,4
+99,magnetic resonance imaging (mri),1,spatiotemporal models,4
+100,noncontact atomic force microscopy,1,bayesian methods,4
+101,ferromagnetic resonance,1,splines,4
+102,bayesian environmetrics,1,groundwater,4
+103,dynamic spatio-temporal models,1,7t,4
+104,paramagnetic,1,breast coils,4
+105,resonance,1,dual mode,4
+106,moran's index,1,forced-current excitation (fce),4
+107,waterbody-spread,1,high field,4
+108,geographical units,1,trend estimation,4
+109,hypertrophic cardiomyopathy,1,mean shift,4
+110,late gadolinium,1,hac methods,4
+111,silicon-nitride,1,climate,4
+112,membrane,1,aorta,4
+113,cyclic-saturation,1,aortic dissection,4
+114,adaptive control,1,chronic,4
+115,force control,1,cardiomyopathy,4
+116,medical robotics,1,forest fire,4
+117,pneumatic systems,1,prediction,4
+118,fractional brownian sheet,1,review,4
+119,hurst coefficient,1,wildland fire,4
+120,hypothesis test,1,coil,4
+121,data scaling,1,rock-magnetism,4
+122,moss,1,urban pollution,4
+123,pollution source impact assessment,1,magnetite,4
+124,continuous ranked probability score,1,mr tagging,4
+125,ensemble calibration,1,harp,4
+126,ensemble,1,motion tracking,4
+127,river hindon,1,strain,4
+128,cpi,1,soft tissue indentation,4
+129,pca,1,catheter,4
+130,ca,1,fiber-optic,4
+131,air pollution and health,1,magnetic force microscopy,4
+132,spatial confounding,1,particulate matter,4
+133,spatial misalignment,1,cmb,4
+134,spatiotemporal models,1,chemical,4
+135,bayesian methods,1,transient,4
+136,splines,1,radiation force,4
+137,groundwater,1,mr safety,4
+138,stream network,1,mr compatibility,4
+139,p-splines,1,rf-induced heating,4
+140,semiparametric,1,artifacts,4
+141,7t,1,ambiguity,4
+142,breast coils,1,choquet,4
+143,dual mode,1,integral,4
+144,forced-current excitation (fce),1,restricted bayes-hurwicz criterion,4
+145,high field,1,hpv chemicals,4
+146,duration,1,environmental chemicals,4
+147,earthquakes,1,ranking,4
+148,generalized linear models,1,posets,4
+149,seismic gap hypothesis,1,hasse diagram,4
+150,arvd/c,1,benthic organisms,4
+151,task force criteria,1,polychaeta,4
+152,transthoracic,1,crustacea,4
+153,air pollution,1,mollusca,4
+154,generalized additive models,1,coastal sediments,4
+155,semi-parametric models,1,actuator,4
+156,nonparametric regression,1,brake,4
+157,statistical downscaling,1,damper,4
+158,stochastic,1,electrorheological fluid (erf),4
+159,acc training statement,1,functional,4
+160,cardiovascular magnetic,1,tsunami sediment,4
+161,multivariate modelling,1,metalloids,4
+162,parallel mcmc,1,self-organizing,4
+163,sea-level rise,1,x-band,4
+164,spatio-temporal,1,dpph,4
+165,force distribution sensor,1,bioindication,4
+166,optical fiber sensors,1,sphagnum palustre,4
+167,minimally invasive,1,exposure,4
+168,mri-compatible surgical robot,1,climate change,4
+169,tendon-based transmission,1,regulations,4
+170,kinematic,1,environmental indices,4
+171,trend estimation,1,density-based clustering,4
+172,mean shift,1,optics,4
+173,hac methods,1,dbscan,4
+174,climate,1,neural gas,4
+175,estimation,1,exposure risk,4
+176,log-power-normal distribution,1,first hitting,4
+177,properties,1,force detected nmr,4
+178,aorta,1,nmr microscopy,4
+179,aortic dissection,1,gaas,4
+180,chronic,1,optical pumping,4
+181,liver,1,deformable models,4
+182,cirrhosis,1,snake,4
+183,acoustic radiation force impulse,1,gradient vector flow,4
+184,stochastic partial differential equations,1,angular median,3
+185,sea-level,1,axial data,3
+186,bundle branch block,1,directional data,3
+187,coronary disease,1,editorials,3
+188,characterization,1,aortic stenosis,3
+189,nanotechnology,1,myocardial,3
+190,spm,1,charge transfer,3
+191,ccd,1,electrochemistry,3
+192,spectroscopy,1,flow propagators,3
+193,single cells,1,forced hydrodynamic,3
+194,fluorescence,1,paramagnetic,3
+195,electrocardiography,1,resonance,3
+196,forest fire,1,adaptive control,3
+197,prediction,1,force control,3
+198,review,1,medical robotics,3
+199,wildland fire,1,pneumatic systems,3
+200,severe storms,1,data scaling,3
+201,reanalysis data,1,moss,3
+202,conditional extreme value modeling,1,pollution source impact assessment,3
+203,heart,1,stream network,3
+204,recommendations,1,p-splines,3
+205,image,1,semiparametric,3
+206,rock-magnetism,1,duration,3
+207,urban pollution,1,earthquakes,3
+208,magnetite,1,generalized linear models,3
+209,finite element model,1,seismic gap hypothesis,3
+210,integral force feedback,1,arvd/c,3
+211,oscillating cantilever-driven,1,task force criteria,3
+212,polonium po-210,1,transthoracic,3
+213,uranium u-238 plutonium pu239+240,1,nonparametric regression,3
+214,odra,1,statistical downscaling,3
+215,wastewater treatment efficiency,1,stochastic,3
+216,industrial wastewater,1,multivariate modelling,3
+217,organic,1,parallel mcmc,3
+218,mre,1,sea-level rise,3
+219,velocity,1,spatio-temporal,3
+220,single-sided magnet,1,liver,3
+221,stiffness,1,cirrhosis,3
+222,mar menor lagoon,1,acoustic radiation force impulse,3
+223,environmental pollution hazard,1,characterization,3
+224,heavy metal,1,nanotechnology,3
+225,sustainable chemistry,1,spm,3
+226,persistent organic pollutants (pops),1,ccd,3
+227,partial,1,spectroscopy,3
+228,tactile sensing,1,single cells,3
+229,piezoelectric,1,fluorescence,3
+230,magnetic resonance compatibility,1,electrocardiography,3
+231,multivariate statistics,1,heart,3
+232,spatio-temporal modeling,1,recommendations,3
+233,environmental monitoring,1,image,3
+234,surface water,1,bayesian inference,3
+235,atomic bomb test,1,magnetic resonance force microscopy (mrfm),3
+236,chernobyl,1,polonium po-210,3
+237,distance trend analysis,1,uranium u-238 plutonium pu239+240,3
+238,ecological study,1,odra,3
+239,environmental pollutant control,1,mar menor lagoon,3
+240,stochastic dynamic,1,environmental pollution hazard,3
+241,single molecule magnet,1,heavy metal,3
+242,qubit,1,multivariate statistics,3
+243,soil contamination,1,atomic bomb test,3
+244,principal components analysis,1,chernobyl,3
+245,bayesian statistics,1,distance trend analysis,3
+246,gaussian random field,1,ecological study,3
+247,hierarchical model,1,bayesian statistics,3
+248,spatial,1,gaussian random field,3
+249,ozone,1,hierarchical model,3
+250,morbidity,1,spatial,3
+251,threshold,1,ozone,3
+252,bootstrap,1,morbidity,3
+253,fiber-optic force sensor,1,threshold,3
+254,light,1,bootstrap,3
+255,magnetic field,1,fiber-optic force sensor,3
+256,mr tagging,1,light,3
+257,harp,1,magnetic field,3
+258,motion tracking,1,groundwater quality,3
+259,strain,1,multiple time series,3
+260,soft tissue indentation,1,meg-mri,3
+261,m-quantile regression,1,ultra-low-field mri,3
+262,non-parametric regression,1,prepolarization,3
+263,penalized splines,1,urban air pollution,3
+264,myopic deconvolution,1,particulate,3
+265,markov chain monte carlo,1,separability,3
+266,arrhythmogenic right ventricular dysplasia,1,spatial covariance,3
+267,spatial resolution,1,neural networks,3
+268,resonance microscopy,1,self-organising maps,3
+269,semiconductor photo etching,1,biostatistics,3
+270,catheter,1,cardiovascular disease,3
+271,fiber-optic,1,fourier series,3
+272,generalized structured models,1,uniplanar,3
+273,smooth backfitting,1,fm detection,3
+274,generalized varying,1,molecular structure imaging,3
+275,groundwater quality,1,haptic,3
+276,multiple time series,1,force chains,3
+277,cantilevers,1,mr elastography,3
+278,magnetic resonance spectroscopy,1,granular,3
+279,meg-mri,1,hasse diagram technique,3
+280,ultra-low-field mri,1,phase-contrast,3
+281,prepolarization,1,active,3
+282,optical fiber,1,microimaging,3
+283,tactile sensor,1,nmr spectroscopy,3
+284,minimally invasive robotic surgery,1,body posture,3
+285,particulate matter,1,dynamic magnetic resonance imaging,3
+286,cmb,1,lung,3
+287,chemical,1,lung function,3
+288,urban air pollution,1,self-organizing maps,3
+289,particulate,1,force transducer,3
+290,analytical ecological study,1,strain gauges,3
+291,congenital malformation,1,fmri,3
+292,decision theory,1,cardiac motion analysis,3
+293,uncertainty,1,cardiac driving forces,3
+294,catastrophes,1,on-line,3
+295,fear,1,environmental physics,3
+296,topology,1,surface waters,3
+297,axioms,1,funtional mri (fmri),3
+298,separability,1,force feedback,3
+299,spatial covariance,1,haptic interface,3
+300,transient,1,mr-compatible,3
+301,radiation force,1,agricultural field trial,3
+302,neural networks,1,asymptotic expansion,3
+303,self-organising maps,1,de wijs process,3
+304,biostatistics,1,earth,3
+305,cardiovascular disease,1,environmental sciences,3
+306,fourier series,1,activated sludge,3
+307,uniplanar,1,pls,3
+308,fm detection,1,n-way,3
+309,molecular structure imaging,1,parafac,3
+310,"vistula river (poland, southern baltic)",1,tucker3,3
+311,magnetic-resonance-imaging-compatible image-guided interventions,1,magnetism,3
+312,double-ridged horn antenna,1,hasse diagram technique (hdt),3
+313,induced,1,clustering,3
+314,force chains,1,dynamic contours,3
+315,mr elastography,1,image processing,3
+316,granular,1,binary data,3
+317,magnetic resonance compatible,1,exact test,3
+318,minimally invasive surgery,1,multiple outcomes,3
+319,tactile,1,network algorithm,3
+320,mr safety,1,single-spin detection,3
+321,mr compatibility,1,cyclic,3
+322,rf-induced heating,1,scalar dispersion,3
+323,artifacts,1,pdf,3
+324,hasse diagram technique,1,evolution of pdf,3
+325,hadamard codes,1,modelling pdf,3
+326,inorganic analytes,1,compartment syndromes,3
+327,tucker3 modeling,1,exertion,3
+328,self-organizing map,1,muscles,3
+329,ambiguity,1,bayesian prediction,3
+330,choquet,1,hierarchical,3
+331,integral,1,inverted wishart distribution,3
+332,restricted bayes-hurwicz criterion,1,matric,3
+333,hpv chemicals,1,scanning tip microscopy,3
+334,environmental chemicals,1,chemical contrast,3
+335,ranking,1,ambient,3
+336,posets,1,regression,3
+337,hasse diagram,1,extreme values,3
+338,benthic organisms,1,model validation,3
+339,polychaeta,1,cross-validation,3
+340,crustacea,1,armax models,3
+341,mollusca,1,residual,3
+342,coastal sediments,1,river water,3
+343,actuator,1,chemical analysis,3
+344,brake,1,data treatment,3
+345,damper,1,time-series analysis,3
+346,electrorheological fluid (erf),1,river water quality,3
+347,functional,1,stress-strength parameter,2
+348,diffuse radiation,1,threshold parameter,2
+349,non-parametric statistics,1,interval censored data,2
+350,quality assurance,1,magnetic-resonance-force-detection,2
+351,fuzzy c-means algorithm,1,liquids,2
+352,gustafson-kessel algorithm,1,cardiovascular magnetic resonance,2
+353,fuzzy c-varieties,1,training,2
+354,electrorheological fluids,1,credentialing,2
+355,phase-contrast,1,ecological forecasting,2
+356,active,1,hierarchical bayesian models,2
+357,magnetic resonance thermometry,1,nonlinear,2
+358,high intensity focused ultrasound,1,deflection torque,2
+359,microimaging,1,displacement force,2
+360,nmr spectroscopy,1,magnetic resonance imaging (mri),2
+361,atmospheric pollution,1,noncontact atomic force microscopy,2
+362,bulk precipitation,1,ferromagnetic resonance,2
+363,chemical composition,1,moran's index,2
+364,tsunami sediment,1,waterbody-spread,2
+365,metalloids,1,geographical units,2
+366,self-organizing,1,hypertrophic cardiomyopathy,2
+367,data glove,1,late gadolinium,2
+368,body posture,1,fractional brownian sheet,2
+369,dynamic magnetic resonance imaging,1,hurst coefficient,2
+370,lung,1,hypothesis test,2
+371,lung function,1,continuous ranked probability score,2
+372,self-organizing maps,1,ensemble calibration,2
+373,force transducer,1,ensemble,2
+374,strain gauges,1,air pollution and health,2
+375,fmri,1,spatial confounding,2
+376,mr,1,spatial misalignment,2
+377,incidents,1,air pollution,2
+378,heating,1,generalized additive models,2
+379,fuzzy logic,1,semi-parametric models,2
+380,land,1,acc training statement,2
+381,forecasting,1,cardiovascular magnetic,2
+382,x-band,1,force distribution sensor,2
+383,dpph,1,optical fiber sensors,2
+384,cardiac motion analysis,1,minimally invasive,2
+385,cardiac driving forces,1,mri-compatible surgical robot,2
+386,on-line,1,tendon-based transmission,2
+387,bioindication,1,kinematic,2
+388,sphagnum palustre,1,estimation,2
+389,displacement sensor,1,log-power-normal distribution,2
+390,single,1,properties,2
+391,environmental databases,1,stochastic partial differential equations,2
+392,high production volume chemicals (hpvcs),1,sea-level,2
+393,construction technique,1,bundle branch block,2
+394,resistive magnets,1,coronary disease,2
+395,environmental physics,1,severe storms,2
+396,surface waters,1,reanalysis data,2
+397,funtional mri (fmri),1,conditional extreme value modeling,2
+398,force feedback,1,finite element model,2
+399,haptic interface,1,integral force feedback,2
+400,mr-compatible,1,wastewater treatment efficiency,2
+401,neuronal magnetic field,1,industrial wastewater,2
+402,extracellular potential,1,organic,2
+403,agricultural field trial,1,sustainable chemistry,2
+404,asymptotic expansion,1,persistent organic pollutants (pops),2
+405,de wijs process,1,partial,2
+406,earth,1,tactile sensing,2
+407,exposure,1,piezoelectric,2
+408,climate change,1,magnetic resonance compatibility,2
+409,regulations,1,spatio-temporal modeling,2
+410,environmental indices,1,environmental monitoring,2
+411,environmental sciences,1,surface water,2
+412,activated sludge,1,environmental pollutant control,2
+413,pls,1,stochastic dynamic,2
+414,n-way,1,single molecule magnet,2
+415,parafac,1,qubit,2
+416,tucker3,1,soil contamination,2
+417,magnetism,1,principal components analysis,2
+418,principal component analysis,1,m-quantile regression,2
+419,fuzzy principal component,1,non-parametric regression,2
+420,density-based clustering,1,penalized splines,2
+421,optics,1,myopic deconvolution,2
+422,dbscan,1,markov chain monte carlo,2
+423,neural gas,1,spatial resolution,2
+424,displacement detection,1,resonance microscopy,2
+425,capacitive,1,semiconductor photo etching,2
+426,afm,1,generalized structured models,2
+427,diatoms,1,smooth backfitting,2
+428,frustule,1,generalized varying,2
+429,boston harbor,1,cantilevers,2
+430,bounded influence estimation,1,magnetic resonance spectroscopy,2
+431,kamchia river,1,optical fiber,2
+432,buried interfaces,1,tactile sensor,2
+433,thin films,1,minimally invasive robotic surgery,2
+434,hasse diagram technique (hdt),1,analytical ecological study,2
+435,exposure risk,1,congenital malformation,2
+436,first hitting,1,"vistula river (poland, southern baltic)",2
+437,clustering,1,double-ridged horn antenna,2
+438,dynamic contours,1,induced,2
+439,image processing,1,magnetic resonance compatible,2
+440,spin relaxation,1,minimally invasive surgery,2
+441,binary data,1,tactile,2
+442,exact test,1,hadamard codes,2
+443,multiple outcomes,1,inorganic analytes,2
+444,network algorithm,1,tucker3 modeling,2
+445,single-spin detection,1,self-organizing map,2
+446,cyclic,1,diffuse radiation,2
+447,scalar dispersion,1,non-parametric statistics,2
+448,pdf,1,quality assurance,2
+449,evolution of pdf,1,fuzzy c-means algorithm,2
+450,modelling pdf,1,gustafson-kessel algorithm,2
+451,the international environmetrics society,1,fuzzy c-varieties,2
+452,micro-coils,1,atmospheric pollution,2
+453,magnetic resonance force,1,bulk precipitation,2
+454,force detected nmr,1,chemical composition,2
+455,nmr microscopy,1,data glove,2
+456,gaas,1,displacement sensor,2
+457,optical pumping,1,single,2
+458,magnetic-resonance force microscope,1,construction technique,2
+459,bcf,1,resistive magnets,2
+460,dosimetry,1,neuronal magnetic field,2
+461,kddm,1,extracellular potential,2
+462,meta analysis,1,principal component analysis,2
+463,pbtk,1,fuzzy principal component,2
+464,stochastic modeling,1,displacement detection,2
+465,skewness,1,capacitive,2
+466,loess,1,afm,2
+467,surface,1,diatoms,2
+468,statistical education,1,frustule,2
+469,compartment syndromes,1,boston harbor,2
+470,exertion,1,bounded influence estimation,2
+471,muscles,1,kamchia river,2
+472,bayesian prediction,1,buried interfaces,2
+473,hierarchical,1,thin films,2
+474,inverted wishart distribution,1,spin relaxation,2
+475,matric,1,the international environmetrics society,2
+476,"mrfm, magnetic resonance force microscope",1,micro-coils,2
+477,sensitive slice,1,magnetic resonance force,2
+478,scanned,1,magnetic-resonance force microscope,2
+479,robust methods,1,"mrfm, magnetic resonance force microscope",2
+480,statistical graphics,1,sensitive slice,2
+481,deformable models,1,scanned,2
+482,snake,1,robust methods,2
+483,gradient vector flow,1,statistical graphics,2
+484,black sea,1,force-minimized,2
+485,coastal area,1,magnet design,2
+486,river basin,1,mri magnet,2
+487,force-minimized,1,magnetic resonance magnet,2
+488,magnet design,1,elliptical cross section,2
+489,mri magnet,1,maxwell forces,2
+490,magnetic resonance magnet,1,aquatic toxicology,2
+491,elliptical cross section,1,concentration-response modeling,2
+492,maxwell forces,1,dose-response,2
+493,scanning tip microscopy,1,soft magnetic material,2
+494,chemical contrast,1,new magnetic effect,2
+495,ambient,1,fuzzy functions,2
+496,regression,1,integrals of fuzzy functions,2
+497,extreme values,1,probability-weighted moments,2
+498,aquatic toxicology,1,newton-raphson,2
+499,concentration-response modeling,1,order statistics,2
+500,dose-response,1,functional magnetic resonance imaging,1
+501,model validation,1,magnetic resonance-compatibility,1
+502,cross-validation,1,environmental science,1
+503,armax models,1,environmental statistics and data,1
+504,residual,1,mr-compatible hand exoskeleton,1
+505,river water,1,robot rehabilitation,1
+506,chemical analysis,1,bayesian environmetrics,1
+507,data treatment,1,dynamic spatio-temporal models,1
+508,soft magnetic material,1,oscillating cantilever-driven,1
+509,new magnetic effect,1,arrhythmogenic right ventricular dysplasia,1
+510,fuzzy functions,1,magnetic-resonance-imaging-compatible image-guided interventions,1
+511,integrals of fuzzy functions,1,electrorheological fluids,1
+512,probability-weighted moments,1,magnetic resonance thermometry,1
+513,newton-raphson,1,high intensity focused ultrasound,1
+514,order statistics,1,environmental databases,1
+515,time-series analysis,1,high production volume chemicals (hpvcs),1
+516,river water quality,1,statistical education,1

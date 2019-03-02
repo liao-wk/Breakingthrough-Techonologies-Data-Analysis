@@ -1,0 +1,91 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,interactomics,7,interactomics,22
+1,comparative interactomics,4,interactome,14
+2,interactome,3,proteome,13
+3,proteome,3,comparative interactomics,12
+4,proteomics,3,systems,10
+5,tick,2,proteomics,9
+6,tick-borne diseases,2,tick,8
+7,vaccine,2,tick-borne diseases,8
+8,systems,2,vaccine,8
+9,protein-protein interactions,2,protein-protein interactions,7
+10,tyrosinase,2,tyrosinase,7
+11,evolution,2,vaccinomics,5
+12,fluoxetine,1,subolesin,5
+13,depressive disorder,1,immunology,5
+14,hippocampus,1,issue 77,5
+15,quantitative proteomics,1,genetics,5
+16,dynamic interactomics,1,microbiology,5
+17,ap-swath,1,biochemistry,5
+18,clustering analysis,1,molecular,5
+19,biological,1,hpv,5
+20,graphs and networks,1,e6,5
+21,optimization,1,e7,5
+22,higher-order network alignment,1,complementation,5
+23,influenza viruses,1,evolution,5
+24,ubiquitination,1,comparative genomics,5
+25,virus-host,1,genome,5
+26,vaccinomics,1,phylogeny,5
+27,subolesin,1,hox proteins,4
+28,dna virus,1,translation,4
+29,next-generation antiviral,1,dna repair,4
+30,intermolecular interactions,1,dna,4
+31,optical biosensor,1,hypoxia,4
+32,proteins',1,ischemia,4
+33,bacteriophages,1,myoglobin,4
+34,p. aeruginosa,1,neuroglobin,4
+35,affinity purifications,1,high-throughput,4
+36,protein phosphorylation,1,large-scale,4
+37,bacterial protein kinase,1,protein,4
+38,protein kinase,1,melanogenesis,4
+39,hox proteins,1,dna microarray,4
+40,translation,1,apoptosis,4
+41,dna repair,1,multiprotein complexes,4
+42,dna,1,primary metabolism,4
+43,organelle interactomics,1,14-3-3,4
+44,mitochondria,1,plant,4
+45,immunology,1,fluoxetine,3
+46,issue 77,1,depressive disorder,3
+47,genetics,1,hippocampus,3
+48,microbiology,1,quantitative proteomics,3
+49,biochemistry,1,dynamic interactomics,3
+50,molecular,1,ap-swath,3
+51,simulation,1,clustering analysis,3
+52,protein-protein interaction,1,biological,3
+53,peimap,1,influenza viruses,3
+54,hpv,1,ubiquitination,3
+55,e6,1,virus-host,3
+56,e7,1,bacteriophages,3
+57,complementation,1,p. aeruginosa,3
+58,genome-wide association studies,1,affinity purifications,3
+59,signalling cascade genes,1,simulation,3
+60,hypoxia,1,protein-protein interaction,3
+61,ischemia,1,peimap,3
+62,myoglobin,1,virus,3
+63,neuroglobin,1,virion proteomics,3
+64,parallel architectures,1,virus host interaction,3
+65,scientific workflows,1,bioinformatics,3
+66,cloud computing,1,matrix metalloproteases,3
+67,virus,1,protein ligands,3
+68,virion proteomics,1,protein interaction,3
+69,virus host interaction,1,networks,3
+70,bioinformatics,1,high-throughput experiment,3
+71,high-throughput,1,graphs and networks,2
+72,large-scale,1,optimization,2
+73,protein,1,higher-order network alignment,2
+74,genomics,1,dna virus,2
+75,melanogenesis,1,next-generation antiviral,2
+76,dna microarray,1,intermolecular interactions,2
+77,apoptosis,1,optical biosensor,2
+78,multiprotein complexes,1,proteins',2
+79,primary metabolism,1,protein phosphorylation,2
+80,14-3-3,1,bacterial protein kinase,2
+81,plant,1,protein kinase,2
+82,matrix metalloproteases,1,organelle interactomics,2
+83,protein ligands,1,mitochondria,2
+84,comparative genomics,1,parallel architectures,2
+85,genome,1,scientific workflows,2
+86,phylogeny,1,cloud computing,2
+87,protein interaction,1,genomics,2
+88,networks,1,genome-wide association studies,1
+89,high-throughput experiment,1,signalling cascade genes,1

@@ -1,0 +1,168 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,plasmonics,7,plasmonics,25
+1,nanophotonics,5,graphene,20
+2,graphene,5,nanophotonics,18
+3,2d materials,4,2d materials,14
+4,cannabinoid receptors,4,infrared,11
+5,surface plasmon resonance,3,surface plasmon resonance,9
+6,infrared,3,nanoantennas,9
+7,gold,3,gold,9
+8,lasers,3,cannabinoid receptors,9
+9,fano resonance,2,lasers,8
+10,photonic crystal,2,fano resonance,7
+11,monolayers,2,photonic crystal,7
+12,molybdenum disulfide,2,molybdenum disulfide,6
+13,nanoantennas,2,infrared detectors,6
+14,infrared detectors,2,antennas,6
+15,antennas,2,operation,6
+16,hydrolase,2,monolayers,5
+17,mid-infrared,2,lspr sensor,5
+18,quantum cascade lasers,2,silver,5
+19,intersubband transitions,2,sulfidation,5
+20,fatty acid amide hydrolase,2,plasmonic,5
+21,aberrant crypt foci,2,waveguide,5
+22,casimir effect,2,molecular,5
+23,operation,2,fluorescence,5
+24,biosensors,1,purcell,5
+25,ingan,1,mid-infrared,5
+26,quantum wells,1,quantum cascade lasers,5
+27,local,1,casimir effect,5
+28,dynamic control,1,biosensors,4
+29,trions,1,ingan,4
+30,single-layer mos2,1,quantum wells,4
+31,light-emission,1,local,4
+32,interfaces,1,dynamic control,4
+33,nonlinear optics,1,trions,4
+34,second harmonic,1,optical biosensors,4
+35,nonlinear materials,1,biosensor,4
+36,two-dimensional materials,1,nanomechanics,4
+37,optical biosensors,1,electrical sensing,4
+38,2d semiconductor,1,surface plasmon,4
+39,mos2,1,metamaterials,4
+40,photoluminesence enhancement,1,optical sensors,4
+41,microdisk optical,1,intersubband transitions,4
+42,biosensor,1,fatty acid amide hydrolase,4
+43,nanomechanics,1,aberrant crypt foci,4
+44,electrical sensing,1,mode-locking,4
+45,surface plasmon,1,frequency,4
+46,silicon nanowire,1,states,4
+47,leaky cavity mode resonances,1,microtome,4
+48,nanoantenna,1,nanotechnology,4
+49,plasmonic absorber,1,sectioning,4
+50,nanomechanical resonator,1,cuminum cyminum l.,4
+51,strong light-matter interaction,1,carum carvi l.,4
+52,rabi splitting,1,apiaceae,4
+53,graphene plasmons,1,plant extracts,4
+54,plasmonic antennas,1,essential,4
+55,thermoplasmonics,1,nonlinear optics,3
+56,thermomechanics,1,second harmonic,3
+57,infrared sensor,1,2d semiconductor,3
+58,lspr sensor,1,mos2,3
+59,silver,1,photoluminesence enhancement,3
+60,sulfidation,1,microdisk optical,3
+61,nanopatterning,1,silicon nanowire,3
+62,numerical simulation,1,leaky cavity mode resonances,3
+63,resonance,1,nanoantenna,3
+64,metamaterials,1,plasmonic absorber,3
+65,optical sensors,1,nanomechanical resonator,3
+66,plasmonic,1,plasmonic antennas,3
+67,waveguide,1,thermoplasmonics,3
+68,molecular,1,thermomechanics,3
+69,fluorescence,1,infrared sensor,3
+70,purcell,1,nanopatterning,3
+71,circular waveguides,1,numerical simulation,3
+72,fabry-perot resonators,1,resonance,3
+73,cannabinoids,1,circular waveguides,3
+74,colitis,1,fabry-perot resonators,3
+75,inflammatory bowel disease,1,cannabinoids,3
+76,gastroenterology,1,colitis,3
+77,intestinal,1,inflammatory bowel disease,3
+78,self-assembly,1,gastroenterology,3
+79,current density,1,hydrolase,3
+80,laser cavity resonators,1,self-assembly,3
+81,microcavities,1,current density,3
+82,optical chaos,1,laser cavity resonators,3
+83,electroluminescence,1,microcavities,3
+84,electron-hole recombination,1,optical chaos,3
+85,excitons,1,electroluminescence,3
+86,ii-vi,1,electron-hole recombination,3
+87,dfb lasers,1,excitons,3
+88,infrared spectroscopy,1,ii-vi,3
+89,difference-frequency generation,1,dfb lasers,3
+90,nonlinear,1,infrared spectroscopy,3
+91,atomic force microscopy,1,atomic force microscopy,3
+92,focused ion beam technology,1,focused ion beam technology,3
+93,probes,1,probes,3
+94,elasticity,1,elasticity,3
+95,microfluidics,1,microfluidics,3
+96,radiation pressure,1,radiation pressure,3
+97,zone plates,1,zone plates,3
+98,optical antenna,1,laser,3
+99,phonons,1,subwavelength aperture,3
+100,waveguide lasers,1,high-power,3
+101,pattern transfer,1,transmission,3
+102,soft lithography,1,anandamide,3
+103,metal nanoparticles,1,anandamide transport,3
+104,diffraction gratings,1,gastric,3
+105,finite difference time-domain analysis,1,electromagnetic properties,3
+106,endocannabinoid,1,mems,3
+107,gold nanoparticles,1,microelectromechanical,3
+108,near-field optics,1,single-layer mos2,2
+109,surface-enhanced raman,1,light-emission,2
+110,enhanced raman-scattering,1,nonlinear materials,2
+111,extraordinary,1,two-dimensional materials,2
+112,laser,1,strong light-matter interaction,2
+113,subwavelength aperture,1,rabi splitting,2
+114,high-power,1,graphene plasmons,2
+115,transmission,1,difference-frequency generation,2
+116,cannabidiol,1,nonlinear,2
+117,shadow evaporation,1,phonons,2
+118,nanotube arrays,1,waveguide lasers,2
+119,sers (surface-enhanced raman,1,pattern transfer,2
+120,anandamide,1,soft lithography,2
+121,anandamide transport,1,metal nanoparticles,2
+122,gastric,1,diffraction gratings,2
+123,cellular uptake,1,finite difference time-domain analysis,2
+124,2-arachidonoylglycerol,1,endocannabinoid,2
+125,cb2 cannabinoid receptor,1,gold nanoparticles,2
+126,near-field scanning optical microscopy,1,near-field optics,2
+127,scanning near-field optical,1,surface-enhanced raman,2
+128,pyramidal metal nanoparticle tip,1,enhanced raman-scattering,2
+129,differential nsom (dnsom),1,extraordinary,2
+130,near-field imaging,1,cannabidiol,2
+131,near-field scanning,1,shadow evaporation,2
+132,electromagnetic properties,1,nanotube arrays,2
+133,mems,1,sers (surface-enhanced raman,2
+134,microelectromechanical,1,2-arachidonoylglycerol,2
+135,mode-locking,1,cb2 cannabinoid receptor,2
+136,frequency,1,differential nsom (dnsom),2
+137,states,1,near-field imaging,2
+138,nanowires,1,near-field scanning,2
+139,light-emitting-diodes,1,nanowires,2
+140,impact ionization,1,light-emitting-diodes,2
+141,alzheimer's disease,1,impact ionization,2
+142,animal model,1,alzheimer's disease,2
+143,attention deficit hyperactive,1,animal model,2
+144,heart failure,1,attention deficit hyperactive,2
+145,resynchronization,1,heart failure,2
+146,ultrasound,1,resynchronization,2
+147,theory,1,ultrasound,2
+148,wave-guides,1,theory,2
+149,band-structure,1,wave-guides,2
+150,microtome,1,band-structure,2
+151,nanotechnology,1,microelectromechanical systems,2
+152,sectioning,1,vacuum fluctuations,2
+153,amidohydrolase,1,generation,2
+154,gastrointestinal motility,1,natural bactericides,2
+155,microelectromechanical systems,1,bacterial disease control,2
+156,vacuum fluctuations,1,plant pathogenic,2
+157,generation,1,multiple-wavelength emission,2
+158,cuminum cyminum l.,1,intestinal,1
+159,carum carvi l.,1,optical antenna,1
+160,apiaceae,1,near-field scanning optical microscopy,1
+161,plant extracts,1,scanning near-field optical,1
+162,essential,1,pyramidal metal nanoparticle tip,1
+163,natural bactericides,1,amidohydrolase,1
+164,bacterial disease control,1,gastrointestinal motility,1
+165,plant pathogenic,1,,
+166,multiple-wavelength emission,1,,

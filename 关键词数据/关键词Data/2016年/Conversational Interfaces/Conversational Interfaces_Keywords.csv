@@ -1,0 +1,572 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,conversational agents,24,conversational agents,56
+1,embodied conversational agents,18,conversational interfaces,34
+2,conversational interfaces,14,embodied conversational agents,34
+3,conversational agent,10,conversational agent,28
+4,embodied conversational agent,10,embodied conversational agent,22
+5,conversational interface,9,conversational interface,21
+6,dialog systems,6,dialog systems,16
+7,natural language,6,user,16
+8,conversational,6,chatbot,15
+9,natural language processing,5,natural language,14
+10,chatbot,5,conversational,14
+11,evaluation,5,evaluation,13
+12,user,5,mobile devices,12
+13,virtual humans,5,natural language processing,11
+14,mobile devices,4,virtual humans,11
+15,user modeling,4,ontology,11
+16,human-computer interaction,4,user modeling,10
+17,ontology,4,android,10
+18,conversational systems,4,human-computer interaction,10
+19,spoken dialogue,3,human-agent interaction,9
+20,human-machine,3,information,9
+21,conversational search,3,usability,9
+22,recommender systems,3,multimodal,9
+23,natural language interface,3,dialogue,9
+24,speech interaction,3,embodied,9
+25,interactive,3,human-machine,8
+26,human-agent interaction,3,psychosis,8
+27,android,3,humor,8
+28,information,3,conversational systems,8
+29,usability,3,conversational search,7
+30,multimodal,3,recommender systems,7
+31,dialogue,3,natural language interface,7
+32,user interface,3,speech interaction,7
+33,dialogue systems,3,common ground,7
+34,personal assistants,3,intelligence,7
+35,embodied,3,behavior,7
+36,spoken dialogue systems,3,user interface,7
+37,facial animation,3,dialogue systems,7
+38,human-robot interaction,2,personal assistants,7
+39,spoken interaction,2,multimodality,7
+40,mental models,2,facial,7
+41,mobile learning,2,conversation,7
+42,spoken language processing,2,conversations,7
+43,embodied conversational,2,spoken dialogue,6
+44,driving,2,spoken interaction,6
+45,chatterbot,2,driving,6
+46,communication,2,interactive,6
+47,virtual agent,2,virtual agent,6
+48,multimodal interaction,2,multimodal interaction,6
+49,natural language interfaces,2,user interfaces,6
+50,common ground,2,spoken,6
+51,psychosis,2,attention,6
+52,human-machine interaction,2,conversational avatars,6
+53,humor,2,symptoms,6
+54,conversational interaction,2,hallucinosis,6
+55,user interfaces,2,research,6
+56,spoken,2,domain,6
+57,attention,2,criteria,6
+58,emotion recognition,2,auditory,6
+59,acceptability,2,speech recognition,6
+60,intelligent tutoring systems,2,intelligent agents,6
+61,intelligence,2,design,6
+62,conversational avatars,2,spoken dialogue systems,6
+63,anthropomorphic interfaces,2,air quality,5
+64,speech recognition,2,airways,5
+65,spoken dialogue system,2,eyes,5
+66,behavior,2,humidity,5
+67,intelligent agents,2,influenza virus,5
+68,social interface,2,sensory,5
+69,robustness,2,mental models,5
+70,cognitive load,2,embodied conversational,5
+71,cscw,2,chatterbot,5
+72,multimodality,2,emotion recognition,5
+73,design,2,speech interfaces,5
+74,facial,2,tts,5
+75,speech interface,2,asr,5
+76,distributed system,2,question,5
+77,conversation,2,anthropomorphic interfaces,5
+78,conversations,2,social interface,5
+79,conversational assistant,1,cognitive load,5
+80,dialogue system,1,cellular phone,5
+81,artificial intelligence [mesh],1,sms,5
+82,medical informatics [mesh],1,text messaging,5
+83,air quality,1,wireless,5
+84,airways,1,outcomes of care,5
+85,eyes,1,process,5
+86,humidity,1,cscw,5
+87,influenza virus,1,speech interface,5
+88,sensory,1,distributed system,5
+89,multi-domain,1,human-robot interaction,4
+90,explainable intelligent user,1,mobile learning,4
+91,multimodal output,1,collaboration,4
+92,natural language generation,1,consumption,4
+93,autonomous systems,1,management,4
+94,chatbots,1,accommodation sector,4
+95,generative framework,1,online,4
+96,closed domain,1,spoken language processing,4
+97,homomorphic redaction,1,communication,4
+98,context digression,1,natural language interfaces,4
+99,form,1,human-machine interaction,4
+100,interface,1,laughter,4
+101,reminiscence,1,social bonding,4
+102,system requirements,1,evolution,4
+103,multimedia,1,context,4
+104,collaborative,1,engagement,4
+105,instant messenger,1,subjective experience,4
+106,conversational user interface,1,empathy,4
+107,stock,1,mind-reading,4
+108,domain knowledge acquisition,1,microalgae,4
+109,dialog structure annotation,1,biofuels,4
+110,computer-supported,1,production cost,4
+111,algorithms,1,economics,4
+112,journalism,1,microalgal biorefinery,4
+113,metajournalistic discourse,1,apology,4
+114,social media,1,social response to computer,4
+115,collaboration,1,synthetic voice,4
+116,consumption,1,voice gender,4
+117,management,1,vui,4
+118,accommodation sector,1,bipolar illness,4
+119,online,1,connectivity,4
+120,communicative agents,1,resting state,4
+121,hierarchical control,1,schizophrenia,4
+122,controlled natural language (cnl),1,thalamus,4
+123,older adults,1,intelligent tutoring systems,4
+124,social isolation,1,controlled english,4
+125,digital pet,1,isr,4
+126,cancellability,1,decision support,4
+127,grice,1,analyst,4
+128,pragmatics,1,spoken dialogue system,4
+129,digital assistant,1,eca,4
+130,social ais,1,distinctive,4
+131,computer supported education,1,expressive,4
+132,h.5.2 user interfaces,1,robustness,4
+133,smiles,1,ipod (tm),4
+134,jak,1,driving simulator,4
+135,janus kinase,1,distraction,4
+136,myelofibrosis,1,eye movement,4
+137,machine learning,1,academic libraries,4
+138,ensemble classifiers,1,public libraries,4
+139,recurrent,1,canada,4
+140,alice,1,creativity,4
+141,mobile assisted language,1,interface design,4
+142,process-oriented case-based reasoning,1,user behaviour,4
+143,workflow retrieval,1,music,4
+144,willingness to communicate in l2,1,autism,4
+145,recurrent neural networks,1,animated conversational agent,4
+146,long short-term memory,1,jokes,4
+147,multi-agent systems,1,japanese puns,4
+148,human agent interaction,1,pun generator,4
+149,programming by demonstration,1,intelligent interfaces,4
+150,end user development,1,kiosk,4
+151,task automation,1,rfid,4
+152,conversation generation,1,interruption,4
+153,deep-learning,1,disruption,4
+154,long short term memory (lstm),1,recovery,4
+155,automotive user interfaces,1,cognitive models,4
+156,conversational interface system,1,facial animation,4
+157,software visualization,1,discussions,4
+158,physical activity,1,electronic mail,4
+159,regular,1,email,4
+160,screen readers,1,sign language,4
+161,accessibility,1,lip reading,4
+162,synthetic,1,gesture,4
+163,automation bias,1,morphing,4
+164,complacency,1,multi-domain,3
+165,authentication,1,chatbots,3
+166,security,1,generative framework,3
+167,anonymity and privacy,1,closed domain,3
+168,impersonation attack,1,multimedia,3
+169,intelligent personal assistants,1,collaborative,3
+170,multi-party,1,instant messenger,3
+171,cultural heritage,1,conversational user interface,3
+172,virtual reality,1,stock,3
+173,gaze,1,algorithms,3
+174,orientation,1,journalism,3
+175,information retrieval,1,metajournalistic discourse,3
+176,discourse and dialogue,1,social media,3
+177,error detection and correction,1,older adults,3
+178,spoken dialog systems,1,social isolation,3
+179,virtual assistants,1,digital pet,3
+180,conversational repair,1,digital assistant,3
+181,echoborg,1,social ais,3
+182,gerontechnology,1,machine learning,3
+183,assistive technologies and devices,1,ensemble classifiers,3
+184,mental health,1,recurrent,3
+185,beverages,1,alice,3
+186,health literacy,1,mobile assisted language,3
+187,behavioral research,1,physical activity,3
+188,randomized controlled,1,regular,3
+189,persistent psychotic experiences,1,screen readers,3
+190,need for care,1,accessibility,3
+191,voicexml,1,synthetic,3
+192,dialog management,1,automation bias,3
+193,keyboard,1,complacency,3
+194,mouse,1,authentication,3
+195,or touchscreen [1],1,security,3
+196,virtual agents,1,anonymity and privacy,3
+197,conversational style,1,impersonation attack,3
+198,social,1,virtual reality,3
+199,linguistic alignment,1,gaze,3
+200,second language acquisition,1,orientation,3
+201,robot,1,conversational repair,3
+202,autism spectrum disorder,1,echoborg,3
+203,conversational virtual agent,1,beverages,3
+204,voice control system,1,health literacy,3
+205,uav,1,behavioral research,3
+206,the semantic identification of the voice,1,randomized controlled,3
+207,laughter,1,voicexml,3
+208,social bonding,1,virtual agents,3
+209,evolution,1,conversational style,3
+210,context,1,social,3
+211,spoken retrieval,1,linguistic alignment,3
+212,search result summarization,1,second language acquisition,3
+213,interactive speech synthesis,1,robot,3
+214,human-machine-interaction,1,h.5.m. information,3
+215,h.5.m. information,1,conversational interaction,3
+216,ontologies,1,human - computer dialogue,3
+217,controlled natural language,1,syntactic alignment,3
+218,search user interface,1,speech dialog system,3
+219,human - computer dialogue,1,driving simulation study,3
+220,syntactic alignment,1,driver,3
+221,speech dialog system,1,mobile multimodal,3
+222,driving simulation study,1,elderly,3
+223,driver,1,agent simulation,3
+224,collaborative conversational recommenders,1,human machine,3
+225,intelligent collaborative 3d,1,sample selection,3
+226,mobile multimodal,1,imbalanced data,3
+227,elderly,1,clustering,3
+228,natural language interface to databases (nlidb),1,human-machine interfaces,3
+229,assistive technologies,1,emotion,3
+230,agent simulation,1,digital libraries,3
+231,human machine,1,assistants,3
+232,engagement,1,acceptability,3
+233,subjective experience,1,decoupling,3
+234,empathy,1,flexure mechanisms,3
+235,mind-reading,1,long stroke,3
+236,sample selection,1,micro-/nanopositioning,3
+237,imbalanced data,1,surveillance,3
+238,clustering,1,reconnaissance,3
+239,human-machine interfaces,1,affective interfaces,3
+240,emotion,1,text,3
+241,assistive technology,1,aiml,3
+242,cognitive impairment,1,speech acts,3
+243,design methodologies,1,embedded conversational agent,3
+244,evaluation methodologies and user studies,1,dialogue strategy,3
+245,digital libraries,1,focus tree,3
+246,assistants,1,unconcious,3
+247,natural conversational interaction,1,non-intrusive interfaces,3
+248,mixed-reality,1,nonverbal cue,3
+249,multi-modal dialogue,1,cup-shaped device,3
+250,dialog system,1,lexical access,3
+251,microalgae,1,adverse conditions,3
+252,biofuels,1,signal,3
+253,production cost,1,parkinson's disease,3
+254,economics,1,evidence-based medicine,3
+255,microalgal biorefinery,1,levodopa,3
+256,apology,1,dopamine,3
+257,social response to computer,1,universal access,3
+258,synthetic voice,1,conversational system,3
+259,voice gender,1,conversational robot,3
+260,vui,1,robot intelligence,3
+261,bipolar illness,1,personal assistant agents,3
+262,connectivity,1,intelligent assistance,3
+263,resting state,1,semantic,3
+264,schizophrenia,1,game design,3
+265,thalamus,1,computational thinking,3
+266,social attitude,1,debugging,3
+267,natural interaction,1,end-user programming,3
+268,ambient conversational systems,1,dialogue model,3
+269,treatment adherence,1,reasoning model,3
+270,human-computer interface,1,multimodal interfaces,3
+271,decoupling,1,verbal communication,3
+272,flexure mechanisms,1,stress,3
+273,long stroke,1,expert system,3
+274,micro-/nanopositioning,1,knowledge engineering,3
+275,speech interfaces,1,knowledge,3
+276,tts,1,embodied agents,3
+277,asr,1,display comparison,3
+278,question,1,medical education,3
+279,surveillance,1,service robots,3
+280,reconnaissance,1,interactive robots,3
+281,dynamic serious games,1,mass collaboration,3
+282,adapdable environments,1,nlp,3
+283,embodies conversational,1,telemedicine,3
+284,mhealth,1,hypertension,3
+285,low- and middle-income countries,1,speech,3
+286,health systems,1,spoken dialog interface,3
+287,immunization,1,usability evaluation,3
+288,health communication,1,synthetic interview,3
+289,preventive health services,1,physics pathway,3
+290,hydroxamic acid,1,physics pedagogy,3
+291,histone deacetylase inhibitor,1,physics,3
+292,phase-i,1,assistant agents,3
+293,social networking sites,1,software architectures,3
+294,human-virtual human,1,physical,3
+295,automatic affect detection,1,animated agents,3
+296,affective spoken dialog system,1,knowledge management,3
+297,domestic,1,enhanced tv,3
+298,affective interfaces,1,interactive tv,3
+299,text,1,active ageing,3
+300,multimodality corpus,1,blackboard,3
+301,conversational involvement,1,in-car systems,3
+302,spontaneous speech,1,emotional responses,3
+303,aiml,1,chatterbots,3
+304,non-task oriented conversational agent,1,domestic appliances,3
+305,log analysis,1,natural,3
+306,virtual,1,knowledge visualization,3
+307,facial expression analysis,1,persistence,3
+308,sequence modeling,1,small talk,3
+309,human computer,1,dialog,3
+310,3d human pose,1,multilingual,3
+311,conversational interaction classification,1,human factors,3
+312,interaction,1,dialogue management,3
+313,spoken language understanding,1,human computer interaction,3
+314,domain detection,1,language,3
+315,controlled english,1,symbolic modeling,3
+316,isr,1,artificial,3
+317,decision support,1,avatars,3
+318,analyst,1,rea,3
+319,selection,1,embodied interface agent,3
+320,user simulation,1,communicative behavior,3
+321,statistical methodologies,1,conversational assistant,2
+322,user centered design,1,dialogue system,2
+323,incremental processing,1,explainable intelligent user,2
+324,speech generation,1,multimodal output,2
+325,speech acts,1,natural language generation,2
+326,symptoms,1,autonomous systems,2
+327,hallucinosis,1,homomorphic redaction,2
+328,research,1,context digression,2
+329,domain,1,form,2
+330,criteria,1,interface,2
+331,auditory,1,reminiscence,2
+332,antiretrovirals,1,system requirements,2
+333,biomedical hiv prevention trials,1,computer-supported,2
+334,microbicide,1,communicative agents,2
+335,conversational context,1,hierarchical control,2
+336,nonverbal behavior,1,cancellability,2
+337,brainstorming,1,grice,2
+338,artificial companions,1,pragmatics,2
+339,crowdsourcing,1,computer supported education,2
+340,embedded conversational agent,1,h.5.2 user interfaces,2
+341,dialogue strategy,1,smiles,2
+342,focus tree,1,jak,2
+343,unconcious,1,janus kinase,2
+344,non-intrusive interfaces,1,myelofibrosis,2
+345,nonverbal cue,1,willingness to communicate in l2,2
+346,cup-shaped device,1,recurrent neural networks,2
+347,lexical access,1,long short-term memory,2
+348,adverse conditions,1,multi-agent systems,2
+349,signal,1,human agent interaction,2
+350,emotional model and dynamics,1,programming by demonstration,2
+351,facial expressions,1,end user development,2
+352,human computer interface,1,task automation,2
+353,language model design,1,conversation generation,2
+354,parkinson's disease,1,deep-learning,2
+355,evidence-based medicine,1,long short term memory (lstm),2
+356,levodopa,1,automotive user interfaces,2
+357,dopamine,1,software visualization,2
+358,universal access,1,intelligent personal assistants,2
+359,conversational system,1,multi-party,2
+360,companions,1,cultural heritage,2
+361,conversational spoken,1,information retrieval,2
+362,conversational robot,1,discourse and dialogue,2
+363,robot intelligence,1,error detection and correction,2
+364,human interaction,1,spoken dialog systems,2
+365,nonverbal communication,1,virtual assistants,2
+366,virtual communication,1,gerontechnology,2
+367,implicit association test,1,assistive technologies and devices,2
+368,multimodal interface,1,mental health,2
+369,audio-video,1,persistent psychotic experiences,2
+370,personal assistant agents,1,need for care,2
+371,intelligent assistance,1,dialog management,2
+372,semantic,1,keyboard,2
+373,collaborative learning,1,mouse,2
+374,game design,1,or touchscreen [1],2
+375,computational thinking,1,autism spectrum disorder,2
+376,debugging,1,conversational virtual agent,2
+377,end-user programming,1,voice control system,2
+378,information extraction,1,uav,2
+379,knowledge trees,1,the semantic identification of the voice,2
+380,companion robot,1,spoken retrieval,2
+381,dialogue model,1,search result summarization,2
+382,reasoning model,1,interactive speech synthesis,2
+383,conversational workload,1,human-machine-interaction,2
+384,minimalism designing,1,ontologies,2
+385,hci,1,controlled natural language,2
+386,evaluation methodology,1,search user interface,2
+387,gricean maxims,1,assistive technologies,2
+388,flouting,1,assistive technology,2
+389,particularized conversational implicature,1,cognitive impairment,2
+390,eca,1,natural conversational interaction,2
+391,distinctive,1,mixed-reality,2
+392,expressive,1,multi-modal dialogue,2
+393,non-verbal communication,1,dialog system,2
+394,ipod (tm),1,social attitude,2
+395,driving simulator,1,natural interaction,2
+396,distraction,1,ambient conversational systems,2
+397,eye movement,1,human-computer interface,2
+398,transfer protein,1,dynamic serious games,2
+399,intelligent tutoring system,1,adapdable environments,2
+400,learning style,1,embodies conversational,2
+401,multimodal interfaces,1,mhealth,2
+402,verbal communication,1,low- and middle-income countries,2
+403,stress,1,health systems,2
+404,expert system,1,immunization,2
+405,knowledge engineering,1,health communication,2
+406,knowledge,1,preventive health services,2
+407,interactive genetic programming,1,hydroxamic acid,2
+408,evolutionary,1,histone deacetylase inhibitor,2
+409,embodied agents,1,phase-i,2
+410,display comparison,1,social networking sites,2
+411,medical education,1,human-virtual human,2
+412,companion,1,automatic affect detection,2
+413,affective dialogue,1,affective spoken dialog system,2
+414,intelligent agent authoring tools,1,domestic,2
+415,motivational,1,multimodality corpus,2
+416,human robot interaction,1,conversational involvement,2
+417,intuitive interface,1,spontaneous speech,2
+418,biomimetic sensing,1,non-task oriented conversational agent,2
+419,academic libraries,1,log analysis,2
+420,public libraries,1,virtual,2
+421,canada,1,facial expression analysis,2
+422,service robots,1,sequence modeling,2
+423,interactive robots,1,human computer,2
+424,mass collaboration,1,3d human pose,2
+425,visual analytics,1,conversational interaction classification,2
+426,metaphor,1,interaction,2
+427,affect detection,1,spoken language understanding,2
+428,context and character profiles,1,domain detection,2
+429,cellular phone,1,user simulation,2
+430,sms,1,statistical methodologies,2
+431,text messaging,1,user centered design,2
+432,wireless,1,incremental processing,2
+433,outcomes of care,1,speech generation,2
+434,process,1,antiretrovirals,2
+435,artificial intelligence,1,biomedical hiv prevention trials,2
+436,nlp,1,microbicide,2
+437,telemedicine,1,conversational context,2
+438,hypertension,1,nonverbal behavior,2
+439,telephony control,1,brainstorming,2
+440,lithuanian voice commands recognition,1,artificial companions,2
+441,speech,1,human computer interface,2
+442,spoken dialog interface,1,language model design,2
+443,usability evaluation,1,companions,2
+444,multimodal corpora,1,conversational spoken,2
+445,cultural usability,1,human interaction,2
+446,cultural heuristics,1,nonverbal communication,2
+447,synthetic interview,1,virtual communication,2
+448,physics pathway,1,multimodal interface,2
+449,physics pedagogy,1,audio-video,2
+450,physics,1,collaborative learning,2
+451,agents and intelligent systems,1,information extraction,2
+452,human-centered,1,knowledge trees,2
+453,embodied conversational assistants,1,companion robot,2
+454,innovative research methods,1,conversational workload,2
+455,creativity,1,minimalism designing,2
+456,interface design,1,hci,2
+457,user behaviour,1,evaluation methodology,2
+458,music,1,gricean maxims,2
+459,autism,1,flouting,2
+460,animated conversational agent,1,particularized conversational implicature,2
+461,formal language theory,1,non-verbal communication,2
+462,grammar systems,1,intelligent tutoring system,2
+463,jokes,1,learning style,2
+464,japanese puns,1,interactive genetic programming,2
+465,pun generator,1,evolutionary,2
+466,assistant agents,1,companion,2
+467,automatic processing of social media,1,affective dialogue,2
+468,discourse analysis,1,intelligent agent authoring tools,2
+469,affordances,1,motivational,2
+470,conversational interactions,1,human robot interaction,2
+471,multimodal qa systems,1,intuitive interface,2
+472,emotional and social interaction,1,biomimetic sensing,2
+473,situated cognition,1,visual analytics,2
+474,h.5.2 [information interfaces and presentation]: user interfaces,1,metaphor,2
+475,conversational engagement,1,affect detection,2
+476,eye-gaze,1,context and character profiles,2
+477,software architectures,1,artificial intelligence,2
+478,physical,1,multimodal corpora,2
+479,theory of mind,1,cultural usability,2
+480,animated agents,1,cultural heuristics,2
+481,knowledge management,1,agents and intelligent systems,2
+482,eye tracking,1,human-centered,2
+483,second life,1,embodied conversational assistants,2
+484,visual feedback,1,innovative research methods,2
+485,head gesture recognition,1,formal language theory,2
+486,contextual information,1,grammar systems,2
+487,multi-layer architectures,1,affordances,2
+488,spoken dialog system,1,conversational interactions,2
+489,assistive robotics,1,multimodal qa systems,2
+490,enhanced tv,1,emotional and social interaction,2
+491,interactive tv,1,situated cognition,2
+492,active ageing,1,conversational engagement,2
+493,blackboard,1,eye-gaze,2
+494,pattern matching,1,eye tracking,2
+495,semantic bayesian networks,1,second life,2
+496,conversational systerns,1,visual feedback,2
+497,semantic web,1,head gesture recognition,2
+498,intelligent interfaces,1,contextual information,2
+499,kiosk,1,multi-layer architectures,2
+500,rfid,1,pattern matching,2
+501,example-critiquing interfaces,1,semantic bayesian networks,2
+502,personalized search,1,conversational systerns,2
+503,in-car systems,1,semantic web,2
+504,emotional responses,1,example-critiquing interfaces,2
+505,interruption,1,personalized search,2
+506,disruption,1,sql,2
+507,recovery,1,personal medical advisor,2
+508,cognitive models,1,prescription,2
+509,sql,1,collaborative recommendations,2
+510,personal medical advisor,1,diversity,2
+511,prescription,1,talking faces,2
+512,chatterbots,1,audiovisual speech,2
+513,domestic appliances,1,personal advisor,2
+514,natural,1,m-learning,2
+515,collaborative recommendations,1,spoken dialog management,2
+516,diversity,1,voice user interface design,2
+517,talking faces,1,interactive digital storytelling,2
+518,audiovisual speech,1,authoring,2
+519,personal advisor,1,transition graph,2
+520,m-learning,1,reflective tutoring,2
+521,natural language processing (nlp),1,ambient intelligence,2
+522,artificial intelligence (ai),1,voice-active robot,2
+523,spoken dialog management,1,evaluation framework,2
+524,voice user interface design,1,children's speech,2
+525,interactive digital storytelling,1,animated software characters,2
+526,authoring,1,ecommerce.,2
+527,transition graph,1,mobile applications of,2
+528,multi-party communication,1,affective computing,2
+529,usability analysis,1,eye movement synthesis,2
+530,reflective tutoring,1,statistical modeling,2
+531,knowledge visualization,1,speech understanding systems,2
+532,persistence,1,speech understanding,2
+533,ambient intelligence,1,artificial intelligence [mesh],1
+534,about four key words or phrases in alphabetical order,1,medical informatics [mesh],1
+535,separated by,1,domain knowledge acquisition,1
+536,voice-active robot,1,dialog structure annotation,1
+537,evaluation framework,1,controlled natural language (cnl),1
+538,children's speech,1,process-oriented case-based reasoning,1
+539,animated software characters,1,workflow retrieval,1
+540,ecommerce.,1,conversational interface system,1
+541,mobile applications of,1,collaborative conversational recommenders,1
+542,small talk,1,intelligent collaborative 3d,1
+543,discussions,1,natural language interface to databases (nlidb),1
+544,electronic mail,1,design methodologies,1
+545,email,1,evaluation methodologies and user studies,1
+546,affective computing,1,treatment adherence,1
+547,sign language,1,crowdsourcing,1
+548,lip reading,1,emotional model and dynamics,1
+549,gesture,1,facial expressions,1
+550,morphing,1,implicit association test,1
+551,dialog,1,telephony control,1
+552,multilingual,1,lithuanian voice commands recognition,1
+553,eye movement synthesis,1,automatic processing of social media,1
+554,statistical modeling,1,discourse analysis,1
+555,human factors,1,theory of mind,1
+556,dialogue management,1,spoken dialog system,1
+557,human computer interaction,1,assistive robotics,1
+558,language,1,natural language processing (nlp),1
+559,automatic speech recognition for children,1,artificial intelligence (ai),1
+560,computer games,1,multi-party communication,1
+561,symbolic modeling,1,usability analysis,1
+562,artificial,1,about four key words or phrases in alphabetical order,1
+563,avatars,1,separated by,1
+564,rea,1,automatic speech recognition for children,1
+565,embodied interface agent,1,computer games,1
+566,communicative behavior,1,multimodal conversational agents,1
+567,speech understanding systems,1,personal service assistants,1
+568,multimodal conversational agents,1,,
+569,personal service assistants,1,,
+570,speech understanding,1,,

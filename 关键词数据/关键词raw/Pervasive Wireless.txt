@@ -1,0 +1,870 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE Mobile Environment; Mobile Computing; Pervasive Computing; Ubicomp;
+   Ubiquitous Computing; Pervasive Computing Environment
+ER
+
+PT J
+DE Pervasive environment; Sensor data management; Continuous query
+   processing; Wireless sensor network
+ID NETWORKS; SERVICES; QUERIES
+ER
+
+PT J
+DE Energy balanced; energy conservation; progressive decentralized single
+   hop (PDSH); system lifetime; wireless sensor networks (WSNs)
+ID MICROSENSOR NETWORKS; LOCALIZATION; MANAGEMENT; ALGORITHMS; DEPLOYMENT;
+   TRACKING
+ER
+
+PT J
+ID WIRELESS POWER TRANSMISSION; ENERGY; COMMUNICATION; DESIGN;
+   LOCALIZATION; ARCHITECTURE; INFORMATION; NETWORKS; INTERNET; SYSTEMS
+ER
+
+PT J
+ID SENSOR NETWORKS
+ER
+
+PT B
+DE WSN; Key Management; Security; IoT applications
+ID SECURITY; INTERNET; THINGS
+ER
+
+PT J
+DE location-based services; non-flat wireless broadcast; spatial air index;
+   window queries
+ID WINDOW QUERY; SCHEME; ENVIRONMENTS; CHANNEL
+ER
+
+PT J
+DE Certificate validation efficiency; PKIX; Pervasive networks; Trust
+   management; Decision engine
+ID AD HOC NETWORKS; WIRELESS; PROTOCOL; MOBILE; ENVIRONMENT
+ER
+
+PT J
+ID WIRELESS POWER TRANSMISSION; MICROWAVE-ENERGY; EFFICIENCY; DESIGN;
+   AMPLIFIERS; ANTENNAS; ARRAYS
+ER
+
+PT J
+ID COGNITIVE RADIO NETWORKS
+ER
+
+PT S
+DE Internet of Things; pervasive discovery; sensor network
+ER
+
+PT B
+DE pervasive computing; biomedical engineering
+ER
+
+PT B
+DE Healthcare; Social Network; Wireless Body Area Network
+ID PROTOCOL
+ER
+
+PT J
+DE Cognitive networks; dynamic access; channel allocation; technology
+   enhanced learning; multi-hop wireless communications
+ID ROUTING ALGORITHM; SPECTRUM ACCESS; MULTIHOP; ALLOCATION; NETWORKS
+ER
+
+PT J
+ER
+
+PT J
+DE Design; Algorithms; Security; Trajectory privacy; wireless sensor
+   networks; location-based services; geosocial networks
+ID WIRELESS SENSOR NETWORKS; LOCATION-BASED SERVICES; K-ANONYMITY;
+   GEOSOCIAL NETWORKS; SYSTEM
+ER
+
+PT J
+DE Pervasive networks; Data-centric networking; Opportunistic forwarding;
+   Context awareness; Sensing; Behavior inference
+ER
+
+PT J
+DE Pervasive sensing; Wireless sensor networks; Human-centric sensing;
+   Smartphones; Wearables
+ID SENSOR NETWORKS
+ER
+
+PT S
+DE Bluetooth; education; mobile learning; serious game; smartphone
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT B
+DE 6LoWPAN; Android; Internet of Things; Pervasive Healthcare
+ER
+
+PT J
+ER
+
+PT J
+ID TACTICAL ENVIRONMENTS OBSERVATIONS; WIRELESS NETWORKS; EXPERIENCES
+ER
+
+PT J
+ID CELLULAR NETWORKS; MIMO; CHANNELS; LTE
+ER
+
+PT B
+ER
+
+PT B
+DE renewable energy; energy storage systems; hardware in the loop;
+   pervasive monitoring and control; industrial wireless sensor networks
+ER
+
+PT B
+DE IoT; Sensors; Actuator Networks; RFID
+ID TRANSPORT; NETWORKS
+ER
+
+PT S
+DE Passive; Wireless; Sensor Network; Aerospace
+ID POWER
+ER
+
+PT B
+ID HEALTH-CARE; NETWORKS
+ER
+
+PT S
+DE Mobile Interaction; Public Display; Ad hoc; Pervasive Computing;
+   Inter-devices Communication
+ER
+
+PT J
+ID SECURITY; INTERNET; THINGS; RELIABILITY
+ER
+
+PT J
+DE Pervasive computing; dynamic service composition; semantic knowledge
+   management; ambient intelligence; internet of things; wireless sensor
+   network
+ID MIDDLEWARE
+ER
+
+PT J
+DE ubiquitous computing; mobile computing; wireless networks; pervasive
+   computing; state of research; research themes
+ID KEY ISSUES; MIS; MANAGEMENT; DIVERSITY; DISCIPLINE; JOURNALS; RIGOR
+ER
+
+PT B
+DE Internet of Things; e-Health; ZigBee; Wi-Fi; Wireless Sensor Network
+   (WSN); Remote Patient Monitoring
+ER
+
+PT B
+DE Obstructive Sleep Apnea; Heart Rate Variability; Anomaly Detection;
+   Wireless Sensors Networks
+ID ECG; LEAD
+ER
+
+PT S
+ID NETWORKS
+ER
+
+PT J
+DE pervasive grid computing; routing algorithms; mobile computing; resource
+   discovery
+ID WIRELESS; MODEL
+ER
+
+PT J
+DE Unified Trust Model; Smart Spaces; Remote Attestation; Pervasive
+   Computing; Wireless Sensor Network; Trusted Platform Module
+ID WIRELESS SENSOR NETWORKS; ATTESTATION; SECURITY
+ER
+
+PT J
+ER
+
+PT J
+DE Service Composition; Wireless Sensor Networks; Pervasive Computing;
+   Fault Resilience
+ID SERVICE COMPOSITION; WEB SERVICES
+ER
+
+PT J
+DE Handoff management; RFID; Wireless sensor and actuator networks (WSANs)
+ID WIRELESS NETWORKS; PERFORMANCE; MANAGEMENT
+ER
+
+PT J
+DE Pervasive and mobile computing; Disconnected Operation; Energy
+   Conservation
+ER
+
+PT B
+DE 21st century social sciences; ambient information; ambient intelligence
+   (AmI); ambient learning; boundary crossing; information interactions;
+   pervasive computing; social interactions; wireless grids; workplaces of
+   the future
+ER
+
+PT S
+DE pervasive computing; ubiquitous learning; content-aware
+ER
+
+PT S
+ER
+
+PT B
+DE Wireless sensor networks; ubiquitous computing; ambient intelligence;
+   healthcare pervasive applications; Alzheimer's disease
+ID HEALTH-CARE
+ER
+
+PT B
+DE Android Operating System; Database; EMR; Elliptical Curve Cryptography
+   (ECC); M-HealthCare; Wi-Fi
+ER
+
+PT S
+DE Pervasive computing; massive data sets; sublinear methods; fixed rank
+   kriging
+ER
+
+PT J
+ID SENSOR NETWORKS
+ER
+
+PT S
+DE Wireless Sensor Network (WSN); Body Area Networks (BAN); Pervasive
+   Healthcare; IEEE 802.15.4
+ER
+
+PT J
+DE Wearable Health Monitoring Systems (WHMS); Body Area Networks (BAN);
+   Wireless Sensor Networks (WSN); ubiquitous health; pervasive health;
+   e-Textile; indoor location
+ID WIRELESS SENSOR NETWORKS; BODY AREA NETWORKS; UBIQUITOUS HEALTH; CARE;
+   IMPLEMENTATION; ENVIRONMENTS; DESIGN
+ER
+
+PT J
+DE eHealth; Pervasive computing; Wireless technology; Communication
+   protocols; Standards
+ID AD HOC NETWORKING; PERFORMANCE ANALYSIS; MEDICAL APPLICATIONS; SENSOR
+   NETWORKS; WIRELESS; SYSTEM; ZIGBEE; WLAN; UWB
+ER
+
+PT J
+DE Internetworking architecture; Service-Oriented Middleware; Knowledge
+   Management; Internet of Things; Wireless Sensor and Actuator Network
+ER
+
+PT J
+DE Smart environments; Energy harvesting; Cloud computing; Smart phones;
+   Behavior modeling; Internet of things
+ID ENVIRONMENTS; MIDDLEWARE
+ER
+
+PT B
+DE Smart Home; GSM; WI-Fi; Zigbee; context-aware; Smart Sensor; and
+   Pervasive Computing
+ID AUTOMATION SYSTEM
+ER
+
+PT B
+DE component; Latino American; Developing Countries; Nomadic; pervasive;
+   communications; artificial Intelligence; Nomohi networks; applications;
+   online; tutoring; free; e-university; education
+ER
+
+PT B
+ER
+
+PT S
+DE Pervasive computing; context-aware; wireless sensor networks; wireless
+   LAN
+ER
+
+PT J
+ER
+
+PT S
+ID COVERAGE CONTROL
+ER
+
+PT B
+DE Pervasive Communication; Opportunistic Networking; Content-centric;
+   Wireless Communication
+ER
+
+PT J
+DE Pervasive healthcare; Artificial neural networks; Diabetes
+ID DISEASE; SYSTEMS
+ER
+
+PT J
+DE pervasive healthcare; medical sensor network; patient area network;
+   security; cryptography
+ID CARE
+ER
+
+PT J
+DE Collaborative traffic information processing; data association; traffic
+   information acquisition; wireless sensor networks (WSNs)
+ID VEHICLE; HIGHWAY; FUSION
+ER
+
+PT S
+ER
+
+PT B
+DE Power optimization; interactive application; wireless network; energy;
+   user interface event
+ID MANAGEMENT
+ER
+
+PT B
+DE pervasive computing; positioning; wireless LAN; signal system
+ER
+
+PT J
+DE Distributed monitoring; earth observation; environmental monitoring;
+   sensor web; wireless sensor network
+ID DESIGN
+ER
+
+PT J
+DE Authentication; ID-based; Key management; Pervasive
+ER
+
+PT J
+DE Design; Theory; Reliability; Formal specification; wireless and
+   pervasive healthcare applications; methodologies and tools
+ID 10-COMMANDMENTS
+ER
+
+PT J
+DE quality of service; pervasive service; service selection; service
+   composition; mobile wireless networks; algorithms
+ID NETWORKS; ONTOLOGY
+ER
+
+PT J
+DE Wireless sensor network; Mobile object tracking; Algorithms; Network
+   lifetime; Delay requirement
+ID POSITIONING SYSTEM
+ER
+
+PT S
+DE Pervasive systems; distributed systems; choreography; workflows
+ER
+
+PT S
+ID SENSOR NETWORKS
+ER
+
+PT S
+ER
+
+PT B
+DE Context; Information Refinement; Medical Systems; Pervasive
+ER
+
+PT J
+DE pervasive computing; authentication; visual code
+ER
+
+PT B
+ER
+
+PT S
+DE Distributed memory; RFID; NFC; Vector clocks; Pervasive game
+ID REPLICATION
+ER
+
+PT S
+DE Pervasive social computing; blog; user behavioral information; wireless
+   sensor networks
+ID SENSORS
+ER
+
+PT J
+DE Smart home environments; Wireless sensor network; Pervasive computing;
+   Ubiquitous computing; Intelligent monitoring
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE Pervasive computing; Wireless sensor network; K-means clustering;
+   Aggregation gain
+ER
+
+PT J
+ID DATA-COMPRESSION; ALGORITHM
+ER
+
+PT B
+ID 10-COMMANDMENTS
+ER
+
+PT S
+ID SENSOR NETWORKS
+ER
+
+PT S
+DE wireless sensor networks; sleep EEG system
+ER
+
+PT B
+DE Wireless Sensor Network (WSN); FPGA; sensor node; Active Node; CCU
+ER
+
+PT B
+DE pervasive computing; context; WSN; Intelligent Home-Hospital System
+ER
+
+PT B
+ER
+
+PT J
+DE RFID; Pervasive healthcare; Read rate; False reads
+ID TECHNOLOGY; ERRORS; SYSTEM; IMPACT
+ER
+
+PT B
+DE Pervasive Wireless System; Location Based Mobile Application; GPRS;
+   Bluetooth
+ER
+
+PT J
+ER
+
+PT S
+DE Pervasive computing; Wireless networks; Security; Probabilistic trust
+ER
+
+PT B
+DE wireless storage system; architecture; key technologies; data access;
+   performance analysis
+ER
+
+PT J
+ID WESTERN-AUSTRALIA
+ER
+
+PT B
+DE Pervasive Computing; OSGi; Service Gateway
+ID HOME
+ER
+
+PT S
+ER
+
+PT B
+DE ubiquitous computing; pervasive computing; wireless sensor network;
+   indoor location estimation; indoor location tracking
+ER
+
+PT J
+DE RFID; Wireless sensor network; Security; Pervasive computing
+ER
+
+PT J
+DE pervasive health care; wireless; body sensor networks
+ID BLOOD-PRESSURE; HEART-FAILURE; PREVENTION; PREVALENCE; MANAGEMENT;
+   COMMITTEE
+ER
+
+PT J
+DE pervasive grid computing; content-based middleware; associative
+   rendezvous messaging; decoupled interaction; content-based routing; JXTA
+ID CONTENT-BASED PUBLISH/SUBSCRIBE; SENSOR NETWORKS; SYSTEMS
+ER
+
+PT J
+DE computer network security; device discovery; handheld devices; pervasive
+   computing
+ID SERVICE DISCOVERY
+ER
+
+PT B
+DE Wireless sensor networks; Open architecture; SensorML; Pervasive
+   healthcare; Embebbed intelligence
+ID CARE; MANAGEMENT; SYSTEM
+ER
+
+PT B
+DE Pervasive Computing; Pervasive Healthcare; Mobile Computing; Ubiquitous
+   Computing; NFC; Zero-configuration; Cell phones; Wireless sensors
+ER
+
+PT B
+DE Pervasive Computing; Seamless Location; Wireless Sensor Network;
+   Weighted Least Squares; Data Integration
+ID EQUATIONS
+ER
+
+PT B
+DE RFID; pervasive computing; ZigBee; wireless sensor network; smart space
+ER
+
+PT B
+DE wireless; strip-like topology; protocol; pervasive devices; sensor
+   network
+ID PROTOCOLS
+ER
+
+PT S
+DE modeling; offloading; performance analysis; fault-tolerant
+ER
+
+PT B
+DE heterogeneous wireless sensor networks; pervasive healthcare; agent
+   based intellegence; interoperability
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT B
+ID COMPUTING ENVIRONMENTS; SERVICE DISCOVERY
+ER
+
+PT B
+ER
+
+PT B
+DE pervasive computing; secure sensor networks; device hierarchy; Internet
+   of things
+ER
+
+PT B
+ER
+
+PT B
+DE multi-player games; pervasive games; mobile; SUN SPOTs; wireless sensor
+   networks
+ER
+
+PT S
+ER
+
+PT S
+ID INFRASTRUCTURE
+ER
+
+PT B
+DE anycast; pervasive computing; vehicular healthcare system; multicast
+ER
+
+PT J
+DE pervasive data access; wireless and mobile computing; broadcast; caching
+ID SCHEDULING DATA BROADCAST; DEMAND DATA BROADCAST; PERFORMANCE
+   EVALUATION; CACHE INVALIDATION; STRATEGIES; ALGORITHMS; RETRIEVAL;
+   DELIVERY; SYSTEM; DISK
+ER
+
+PT J
+ER
+
+PT J
+DE mobile and wireless networks; pervasive healthcare applications;
+   location management; ad hoc wireless networks
+ID SYSTEM; MOBILE; HOME; TECHNOLOGY; SENSOR
+ER
+
+PT J
+ID CATTLE
+ER
+
+PT B
+DE pervasive computing; mobile agent; pervasive mobile devices; mobile IP
+   protocol
+ER
+
+PT B
+DE pervasive computing; wireless network; remote monitoring; OPC technology
+ER
+
+PT S
+DE wireless geolocation; localization technique and algorithms; AOA; TDOA;
+   OTDOA; UTDOA; RSS; GPS; A-GPV; pervasive computing; ubiquitous computing
+ID ENVIRONMENT
+ER
+
+PT S
+DE modeling; performance analysis; offloading system; mobile wireless
+   environment
+ER
+
+PT B
+DE wireless biomedical sensor network; pervasive medical supervision;
+   network schedule mechanism.
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT B
+DE LBS; autonomous; wireless communication; pervasive computing
+ER
+
+PT B
+DE pervasive computing; embedded and mobile devices; context awareness;
+   mobile computing
+ID SMART PHONES; APPLIANCES; ISSUES; SPACES; LAB
+ER
+
+PT B
+DE physical games; sensor networks; haptic interfaces; mashup
+ER
+
+PT J
+ER
+
+PT J
+DE measurement; wireless networks; measurement; wireless network data
+ER
+
+PT J
+ER
+
+PT B
+DE cross-media; pervasive computing; 3-D shape retrieval; moment
+   invariants; wireless network
+ID RECOGNITION
+ER
+
+PT B
+DE pervasive application; wireless networks; routing information; shortest
+   path; neural networks
+ER
+
+PT B
+DE pervasive computing; connectivity management; hybrid wireless networks
+ER
+
+PT B
+DE pervasive commerce; wireless infrastructure; inter-organizational
+   systems
+ID ELECTRONIC DATA INTERCHANGE; INFORMATION-SYSTEMS; ADOPTION; DECISION
+ER
+
+PT B
+DE business rule; pervasive computing; wireless sensor networks;
+   information acquisition system
+ID BUSINESS RULES
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT S
+DE pervasive networking; entertainment; augmented reality; ad-hoc
+   networking; wireless networking
+ER
+
+PT S
+DE 4G; AAA; context management; pervasive computing; roaming; security;
+   smart card; ubiquitous networks
+ID INTERWORKING TECHNIQUES; NETWORKS; AUTHENTICATION; SEAMLESS; FUTURE
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT B
+DE Mobile Agents; modeling of agents; performance of agents; pervasive
+   computing; security; wireless communications
+ER
+
+PT B
+DE service composition; personalization; pervasive; dynamic adaptation
+ER
+
+PT B
+DE personalized; pervasive; redirection; privacy
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT B
+ID ARCHITECTURE; MODEL
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT J
+ER
+
+PT B
+ER
+
+PT B
+DE pervasive/ubiquitous systems; content adaptation; media transformation;
+   adaptation services; adaptation graph
+ER
+
+PT S
+DE pervasive computing; wireless optical networks; the novel Intelligent
+   Pervasive Computing Technologies (IPCT); the Backbone Mobile Managing
+   Technologies (BMM); the Access Mobile Managing Technologies (AMM); the
+   Supplementary Independent Mobile Managing Technologies (SIMMT); layered
+   construction; the Motive Interfaces Technologies (MIT); the Wireless
+   Optical Agent (WOA)
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT J
+DE wireless networks; vertical handover; quality of service
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT B
+DE mobile recommender; user modeling; context modeling; product/service
+   modeling; Semantic Web
+ER
+
+PT B
+DE pervasive computing; mobile devices; consumer-supplier interaction;
+   adaptive systems
+ER
+
+PT B
+DE Database for Pervasive Computing; Database for mobile devices; embedded
+   device database; database for PDA; component based database system
+   design
+ER
+
+PT B
+ER
+
+PT B
+DE sensors; network; embedded systems; wireless telecommunication systems;
+   logic programming; instrument
+ER
+
+PT B
+ID MODEL; INTEROPERABILITY; FRAMEWORK; SOFTWARE; DESIGN
+ER
+
+PT B
+DE Bluetooth; Jini; P2P; pervasive multimedia; service discovery; media
+   streaming
+ER
+
+PT B
+ID TRUST ONLINE
+ER
+
+PT S
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT J
+DE pervasive computing; mobile computing; network awareness; sensor
+   networks; adaptive applications
+ID MOBILE
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT S
+ID MULTIPLE-ACCESS
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+EF

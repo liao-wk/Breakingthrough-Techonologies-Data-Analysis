@@ -1,0 +1,449 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,graphene,125,graphene,386
+1,transistor,20,transistor,71
+2,field effect transistor,13,field effect transistors,36
+3,field-effect transistor,13,field effect transistor,35
+4,field effect transistors,12,field-effect transistor,34
+5,field-effect transistors,9,transistors,30
+6,transistors,8,field-effect transistors,25
+7,graphene transistors,6,mobility,21
+8,mobility,6,gfet,18
+9,gfet,5,graphene transistors,17
+10,graphene transistor,5,doping,17
+11,doping,5,field-effect transistor (fet),15
+12,field-effect transistor (fet),5,graphene transistor,14
+13,graphene field effect transistor,4,nanoribbon,14
+14,contact,4,fet,14
+15,contact resistance,4,contact,13
+16,nanoribbon,4,contact resistance,13
+17,fet,4,high,10
+18,dirac point,3,graphene fet,10
+19,bilayer graphene,3,biosensors,10
+20,high,3,simulation,10
+21,thin film transistor,3,sensors,10
+22,graphene fet,3,field effect,10
+23,flexible electronics,3,current saturation,10
+24,bioelectronics,3,graphene oxide,10
+25,biosensors,3,dirac point,9
+26,simulation,3,bilayer graphene,9
+27,sensors,3,thin film transistor,9
+28,nanoelectronics,3,flexible electronics,9
+29,epitaxial graphene,3,bandgap,9
+30,field effect,3,rf transistor,9
+31,current saturation,3,interface,8
+32,graphene oxide,3,bioelectronics,8
+33,thermal,2,carbon,8
+34,graphene field-effect transistors,2,epitaxial graphene,8
+35,field-effect,2,etching,8
+36,graphene field effect transistors,2,electronic structure,8
+37,transconductance,2,multilayers,8
+38,ambipolar transistor,2,transconductance,7
+39,chemical and biological sensors,2,raman spectroscopy,7
+40,device modeling,2,carbon nanotubes,7
+41,raman spectroscopy,2,modelling,7
+42,frequency,2,graphene transfer,7
+43,cutoff frequency,2,graphene devices,7
+44,modeling,2,ballistic transport,7
+45,carbon nanotubes,2,graphene nanoribbon,7
+46,modelling,2,nanoelectronics,7
+47,interface,2,carbon nanotube (cnt),7
+48,generation rate,2,ambipolar,7
+49,graphene transfer,2,transition metal dichalcogenides,7
+50,graphene field-effect transistor,2,optoelectronic device,7
+51,reduced graphene oxide,2,tunneling,7
+52,graphene devices,2,logic gates,7
+53,ballistic transport,2,field-effect,6
+54,carbon,2,frequency,6
+55,graphene nanoribbon,2,modeling,6
+56,cut-off frequency,2,generation rate,6
+57,access resistance,2,access resistance,6
+58,thin-film transistors,2,power gain,6
+59,fluorination,2,silicon,6
+60,cvd,2,thermal,5
+61,bandgap,2,graphene field-effect transistors,5
+62,carbon nanotube (cnt),2,graphene field effect transistor,5
+63,ambipolar,2,cutoff frequency,5
+64,transition metal dichalcogenides,2,graphene field-effect transistor,5
+65,etching,2,demodulators,5
+66,power gain,2,antenna,5
+67,optoelectronic device,2,am radio receiver,5
+68,hot-electron transistor (het),2,speaker,5
+69,graphene field-effect transistors (gfets),2,niobium,5
+70,tunneling,2,transfer characteristic,5
+71,rf transistor,2,thin-film transistors,5
+72,radio frequency (rf),2,fluorination,5
+73,silicon,2,cvd,5
+74,sheets,2,wafer scale,5
+75,vapor,2,more than,5
+76,electronic structure,2,radio frequency (rf),5
+77,multilayers,2,carrier transport,5
+78,carbon transistors,2,mosfet,5
+79,logic gates,2,carbon transistors,5
+80,algan/gan,1,graphene field effect transistors,4
+81,high-electron-mobility transistors (hemts),1,ambipolar transistor,4
+82,polar organic dielectrics,1,chemical and biological sensors,4
+83,flexible,1,device modeling,4
+84,hysteresis effect,1,thermal anneal,4
+85,amorphous silicon,1,boron nitride,4
+86,electrochemically exfoliated graphene,1,photoresist,4
+87,ferroelectric,1,thermal stability,4
+88,mems,1,raman spectrum,4
+89,acousto-electric effect,1,biosensor,4
+90,lithium niobate film,1,gnr,4
+91,defect states,1,chemfet,4
+92,gas adsorption,1,isfet,4
+93,label free sensing,1,neural probes,4
+94,graphene nanomesh,1,crumpling,4
+95,electron-hole puddles,1,carrier generation,4
+96,graphene antidot lattice,1,monte,4
+97,fermi velocity,1,polydimethylsiloxane,4
+98,graphene receiver,1,hydrophobizer,4
+99,w-band,1,side gate,4
+100,infrared detectors,1,back gate,4
+101,ambipolar transistors,1,two dimensional,4
+102,frequency doublers,1,reduced graphene oxide,4
+103,graphene/mote2,1,model,4
+104,air stability,1,verilog-a,4
+105,charge carrier mobility,1,boltzmann,4
+106,graphdiyne,1,nanoribbons,4
+107,heterojunction,1,cut-off frequency,4
+108,resonant tunneling transistor,1,quantum transport,4
+109,double-gate,1,bandgap modulation,4
+110,high-pressure annealing,1,power,4
+111,oxygen,1,electrostatic gating,4
+112,graphene scaffold,1,polyallylamine,4
+113,high-k dielectrics,1,single-electron transistor,4
+114,artificially stacked bilayer graphene,1,benzene,4
+115,chemical vapor deposited,1,orientation,4
+116,ws2,1,ab initio,4
+117,al2o3 gating substrate,1,interlayer capacitance,4
+118,carbon nanotubes (cnts),1,off-current,4
+119,cnt field-effect transistor (cntfet),1,quantum,4
+120,thermal anneal,1,barrier height,4
+121,boron nitride,1,spice,4
+122,photoresist,1,on/off,4
+123,detectors,1,zigzag edge,4
+124,field effect transistor (fet),1,nickel,4
+125,submillimeter wave,1,high frequency,4
+126,parasitism,1,high power,4
+127,electronic properties,1,large scale,4
+128,junction transistor,1,nanodevices,4
+129,optical lithography,1,patterning,4
+130,graphene-based transistors,1,rotaxane,4
+131,ps,1,logic computation,4
+132,subthreshold slope,1,hot-electron transistor (het),4
+133,graphene tunnel transistor,1,carbon nanotube,4
+134,hbn,1,tunnelling,4
+135,composite materials,1,hot electrons,4
+136,carbon materials,1,hot carrier transport,4
+137,electrical properties,1,ionic liquid,4
+138,thin,1,ball milling,4
+139,solid carbon source,1,ambipolar effect,4
+140,graphene-dielectric bi-layer,1,buried gate,4
+141,developer,1,bottom gate,4
+142,analog applications,1,graphene after,4
+143,bilayer graphene nanoribbon,1,graphene nanoribbons,4
+144,electrolyte-gated device,1,synthesis,4
+145,microwave measurements,1,electronic,4
+146,lithium,1,self-aligned fabrication,4
+147,two-dimensional material,1,t-shaped gate,4
+148,compact,1,mushroom,4
+149,thermal stability,1,pyrenes,4
+150,raman spectrum,1,reduced graphene,4
+151,source drain electrode,1,single-layer,4
+152,oxide,1,solution-based,4
+153,analog rf devices,1,high-frequency,4
+154,graphene-based devices,1,liquid gating,4
+155,nanopatterned graphene,1,nanopipettes,4
+156,photodetector,1,ph,4
+157,biosensor,1,tem,4
+158,gnr,1,dielectrics,4
+159,chemfet,1,self-alignment,4
+160,isfet,1,triple-mode amplifier,4
+161,irradiation effect,1,phase shift,4
+162,oxide-graphene interface,1,sheets,4
+163,i-v,1,vapor,4
+164,neural probes,1,electrostatics,4
+165,crumpling,1,energy gap,4
+166,nanoimprint lithography,1,nanotube devices,4
+167,carrier generation,1,optical,4
+168,monte,1,boolean functions,4
+169,clean surface,1,fullerene devices,4
+170,polydimethylsiloxane,1,algan/gan,3
+171,hydrophobizer,1,high-electron-mobility transistors (hemts),3
+172,breakdown voltage,1,mems,3
+173,pmma residue,1,acousto-electric effect,3
+174,helium ion,1,lithium niobate film,3
+175,spice model,1,defect states,3
+176,defective,1,gas adsorption,3
+177,grapheme,1,label free sensing,3
+178,hfo2/al2o3,1,graphene receiver,3
+179,h2o-based atom layer,1,w-band,3
+180,photodiode,1,graphdiyne,3
+181,side gate,1,heterojunction,3
+182,back gate,1,resonant tunneling transistor,3
+183,two dimensional,1,double-gate,3
+184,sensor,1,high-pressure annealing,3
+185,graphene emitter,1,oxygen,3
+186,vacuum transistor,1,ws2,3
+187,ambipolar device,1,al2o3 gating substrate,3
+188,heterojunction transistor,1,detectors,3
+189,aluminium gallium,1,field effect transistor (fet),3
+190,model,1,submillimeter wave,3
+191,verilog-a,1,parasitism,3
+192,boltzmann,1,electronic properties,3
+193,cvd graphene,1,optical lithography,3
+194,intrinsic voltage gain,1,graphene-based transistors,3
+195,mechanically stacked,1,ps,3
+196,single-molecule electronics,1,subthreshold slope,3
+197,franck-condon blockade,1,graphene tunnel transistor,3
+198,avalanche,1,hbn,3
+199,graphene/graphene oxide/graphene,1,composite materials,3
+200,junction,1,carbon materials,3
+201,nonvolatile memory,1,electrical properties,3
+202,non-equilibrium green's function,1,thin,3
+203,demodulators,1,electrolyte-gated device,3
+204,antenna,1,microwave measurements,3
+205,am radio receiver,1,lithium,3
+206,speaker,1,two-dimensional material,3
+207,dna nanowire array-enabled lithography,1,compact,3
+208,self-assembly,1,source drain electrode,3
+209,hot electron transistors graphene base transistor,1,oxide,3
+210,gbt,1,irradiation effect,3
+211,hbt,1,oxide-graphene interface,3
+212,field-effect mobility,1,i-v,3
+213,organic thin film transistor,1,nanoimprint lithography,3
+214,transport,1,breakdown voltage,3
+215,niobium,1,helium ion,3
+216,transfer characteristic,1,spice model,3
+217,indium compounds,1,defective,3
+218,gallium compounds,1,grapheme,3
+219,thin film,1,hfo2/al2o3,3
+220,line defect,1,h2o-based atom layer,3
+221,suspended graphene,1,photodiode,3
+222,2d materials,1,cvd graphene,3
+223,nanoribbons,1,intrinsic voltage gain,3
+224,multiple channel,1,mechanically stacked,3
+225,armchair monolayer graphene nanoribbon field effect transistor,1,graphene/graphene oxide/graphene,3
+226,tight,1,junction,3
+227,quantum transport,1,nonvolatile memory,3
+228,hydrophobic,1,non-equilibrium green's function,3
+229,buffer layer,1,hot electron transistors graphene base transistor,3
+230,scattering,1,gbt,3
+231,gate dielectric,1,hbt,3
+232,bandgap modulation,1,field-effect mobility,3
+233,power,1,organic thin film transistor,3
+234,graphene fets,1,transport,3
+235,vertical stack,1,indium compounds,3
+236,pmma gate,1,gallium compounds,3
+237,semiconductor/electrode interface,1,thin film,3
+238,morphology,1,multiple channel,3
+239,organic,1,hydrophobic,3
+240,disorder,1,buffer layer,3
+241,electronic transport,1,scattering,3
+242,2d materials beyond graphene,1,graphene fets,3
+243,theory,1,vertical stack,3
+244,3d transistor,1,pmma gate,3
+245,ph sensor,1,semiconductor/electrode interface,3
+246,hafnium oxide,1,morphology,3
+247,graphene based transistors,1,organic,3
+248,pspice,1,disorder,3
+249,atk-se package,1,electronic transport,3
+250,graphene nano-ribbon,1,3d transistor,3
+251,gnrfet,1,ph sensor,3
+252,transition metal dichalcogenide,1,hafnium oxide,3
+253,molybdenum disulfide,1,graphene based transistors,3
+254,silicene,1,pspice,3
+255,millimeter-scale graphene domain,1,self-assembled monolayers,3
+256,radio-frequency transistor,1,near-field electrospinning,3
+257,cut-off,1,graphene doping,3
+258,electrostatic gating,1,strain,3
+259,polyallylamine,1,field-effect-transistor,3
+260,ionic liquid (il),1,frequency doubler,3
+261,sensing,1,graphene amplifier,3
+262,direct terahertz detection,1,fluorinated graphene,3
+263,semi-insulating silicon carbide,1,cf4 plasma,3
+264,schottky barrier,1,dopamine sensors,3
+265,single-electron transistor,1,hfo2,3
+266,benzene,1,conductance,3
+267,orientation,1,ssdna immobilization,3
+268,ab initio,1,hydrogen interclated graphene,3
+269,interlayer capacitance,1,wideband,3
+270,off-current,1,quantum theory,3
+271,quantum,1,vacancies,3
+272,functionalization,1,work function,3
+273,barrier height,1,self-assembled monolayer,3
+274,spice,1,potassium,3
+275,self-assembled monolayers,1,sodium,3
+276,near-field electrospinning,1,selective ion,3
+277,graphene doping,1,mos2,3
+278,strain,1,two-dimensional (2d) materials,3
+279,field-effect-transistor,1,electronic device,3
+280,organic field effect transistors (ofets),1,circuit,3
+281,organic semi-conducting,1,metal modification layer,3
+282,frequency doubler,1,electrode,3
+283,graphene amplifier,1,silicon carbide,3
+284,fluorinated graphene,1,ion irradiation,3
+285,cf4 plasma,1,transport gap,3
+286,dopamine sensors,1,2d crystals,3
+287,graphene field-effect transistor (gfet),1,fets,3
+288,negative differential,1,maximum frequency of oscillation,3
+289,hfo2,1,graphene/si field-effect transistor,3
+290,armchair graphene nanoribbon,1,local,3
+291,dual-channel,1,phosphorus,3
+292,on/off,1,phosphorus doping,3
+293,wafer scale,1,nucleophilicity,3
+294,more than,1,air stable n-type,3
+295,conductance,1,chemical vapor deposition,3
+296,ssdna immobilization,1,molecular doping,3
+297,graphene heterostructures,1,sic,3
+298,graphene nanoribbon (gnr),1,self-aligned gate,3
+299,zigzag edge,1,rf mixers,3
+300,nickel,1,large-area graphene,3
+301,hydrogen interclated graphene,1,radio frequency,3
+302,wideband,1,voltage gain,3
+303,high frequency,1,layer-by-layer assembly,3
+304,high power,1,nitrogen doping,3
+305,large scale,1,ambipolar to,3
+306,nanodevices,1,hydrogenation,3
+307,patterning,1,preparation,3
+308,rotaxane,1,on/off ratio,3
+309,logic computation,1,ambipolar behavior,3
+310,quantum theory,1,liquid gate,3
+311,vacancies,1,flexible transistor,3
+312,work function,1,printing,3
+313,self-assembled monolayer,1,surface energy,3
+314,graphene base transistor (gbt),1,ambipolarity,3
+315,potassium,1,phase detector,3
+316,sodium,1,adsorbate doping,3
+317,selective ion,1,noise,3
+318,carbon nanotube,1,degradation,3
+319,tunnelling,1,hysteresis,3
+320,mos2,1,electron transport,3
+321,two-dimensional (2d) materials,1,photoexcitation,3
+322,electronic device,1,conductance hysteresis,3
+323,circuit,1,charge transfer,3
+324,electro-thermal coupled transport,1,capacitive,3
+325,self-heating,1,self-aligned gate. nanowires,3
+326,metal modification layer,1,transit time,3
+327,electrode,1,cutoff,3
+328,hexagonal boron nitride (hbn),1,electrodes,3
+329,current gain,1,ferromagnetic materials,3
+330,graphene analog integrated,1,films,3
+331,hot electrons,1,tunnel transistors,3
+332,hot carrier transport,1,dual gate,3
+333,bilayer graphene transistor,1,annealing,3
+334,transfer-free growth on insulator,1,diffusion,3
+335,silicon carbide,1,carbon devices,3
+336,ionic liquid,1,soi,3
+337,ball milling,1,cmos,3
+338,ambipolar effect,1,polar organic dielectrics,2
+339,ion irradiation,1,flexible,2
+340,transport gap,1,hysteresis effect,2
+341,2d crystals,1,amorphous silicon,2
+342,fets,1,electrochemically exfoliated graphene,2
+343,graphene waveguides,1,ferroelectric,2
+344,buried gate,1,graphene nanomesh,2
+345,bottom gate,1,electron-hole puddles,2
+346,graphene after,1,graphene antidot lattice,2
+347,ion sensitive field effect transistor,1,fermi velocity,2
+348,drift coefficient,1,infrared detectors,2
+349,epitaxy,1,ambipolar transistors,2
+350,growth on insulator,1,frequency doublers,2
+351,silicon cmos compatible,1,graphene/mote2,2
+352,maximum frequency of oscillation,1,air stability,2
+353,radiation detection,1,charge carrier mobility,2
+354,graphene/si field-effect transistor,1,graphene scaffold,2
+355,local,1,high-k dielectrics,2
+356,aluminium compounds,1,solid carbon source,2
+357,chemical vapour deposition,1,graphene-dielectric bi-layer,2
+358,gallium arsenide,1,developer,2
+359,phosphorus,1,analog applications,2
+360,phosphorus doping,1,bilayer graphene nanoribbon,2
+361,nucleophilicity,1,analog rf devices,2
+362,air stable n-type,1,graphene-based devices,2
+363,coplanar-gate configuration,1,nanopatterned graphene,2
+364,transparent,1,photodetector,2
+365,graphene nanoribbons,1,clean surface,2
+366,synthesis,1,pmma residue,2
+367,electronic,1,sensor,2
+368,chemical vapor deposition,1,graphene emitter,2
+369,molecular doping,1,vacuum transistor,2
+370,transfer gate,1,ambipolar device,2
+371,sic,1,heterojunction transistor,2
+372,self-aligned gate,1,aluminium gallium,2
+373,rf mixers,1,single-molecule electronics,2
+374,large-area graphene,1,franck-condon blockade,2
+375,radio frequency,1,avalanche,2
+376,voltage gain,1,dna nanowire array-enabled lithography,2
+377,graphene nanostripe,1,self-assembly,2
+378,functionalized graphene,1,line defect,2
+379,self-aligned fabrication,1,suspended graphene,2
+380,t-shaped gate,1,2d materials,2
+381,mushroom,1,2d materials beyond graphene,2
+382,pyrenes,1,theory,2
+383,reduced graphene,1,atk-se package,2
+384,solution-exfoliated graphene,1,graphene nano-ribbon,2
+385,single-layer,1,gnrfet,2
+386,solution-based,1,transition metal dichalcogenide,2
+387,high-frequency,1,molybdenum disulfide,2
+388,layer-by-layer assembly,1,millimeter-scale graphene domain,2
+389,nitrogen doping,1,radio-frequency transistor,2
+390,ambipolar to,1,cut-off,2
+391,hydrogenation,1,ionic liquid (il),2
+392,preparation,1,sensing,2
+393,liquid gating,1,direct terahertz detection,2
+394,nanopipettes,1,semi-insulating silicon carbide,2
+395,ph,1,schottky barrier,2
+396,tem,1,functionalization,2
+397,on/off ratio,1,armchair graphene nanoribbon,2
+398,ambipolar behavior,1,dual-channel,2
+399,liquid gate,1,graphene heterostructures,2
+400,resonant channel transistor,1,graphene nanoribbon (gnr),2
+401,nano-eletromechanical system,1,graphene base transistor (gbt),2
+402,spin diode,1,electro-thermal coupled transport,2
+403,spin transistor,1,self-heating,2
+404,flexible transistor,1,graphene field-effect transistors (gfets),2
+405,printing,1,current gain,2
+406,surface energy,1,graphene analog integrated,2
+407,ambipolarity,1,graphene waveguides,2
+408,phase detector,1,ion sensitive field effect transistor,2
+409,hexagonal boron nitride,1,drift coefficient,2
+410,adsorbate doping,1,epitaxy,2
+411,dielectrics,1,growth on insulator,2
+412,self-alignment,1,silicon cmos compatible,2
+413,noise,1,aluminium compounds,2
+414,degradation,1,chemical vapour deposition,2
+415,hysteresis,1,gallium arsenide,2
+416,electron transport,1,coplanar-gate configuration,2
+417,photoexcitation,1,transparent,2
+418,conductance hysteresis,1,graphene nanostripe,2
+419,charge transfer,1,functionalized graphene,2
+420,capacitive,1,resonant channel transistor,2
+421,triple-mode amplifier,1,nano-eletromechanical system,2
+422,phase shift,1,spin diode,2
+423,self-aligned gate. nanowires,1,spin transistor,2
+424,transit time,1,epitaxial graphene gate oxide,2
+425,cutoff,1,atomic layer deposition,2
+426,electrodes,1,carbon cvd,2
+427,ferromagnetic materials,1,chemical-vapor deposition (cvd),2
+428,epitaxial graphene gate oxide,1,artificially stacked bilayer graphene,1
+429,atomic layer deposition,1,chemical vapor deposited,1
+430,films,1,carbon nanotubes (cnts),1
+431,electrostatics,1,cnt field-effect transistor (cntfet),1
+432,energy gap,1,junction transistor,1
+433,tunnel transistors,1,armchair monolayer graphene nanoribbon field effect transistor,1
+434,carrier transport,1,tight,1
+435,mosfet,1,gate dielectric,1
+436,dual gate,1,silicene,1
+437,carbon cvd,1,organic field effect transistors (ofets),1
+438,chemical-vapor deposition (cvd),1,organic semi-conducting,1
+439,annealing,1,graphene field-effect transistor (gfet),1
+440,nanotube devices,1,negative differential,1
+441,optical,1,hexagonal boron nitride (hbn),1
+442,boolean functions,1,bilayer graphene transistor,1
+443,fullerene devices,1,transfer-free growth on insulator,1
+444,diffusion,1,radiation detection,1
+445,carbon devices,1,transfer gate,1
+446,soi,1,solution-exfoliated graphene,1
+447,cmos,1,hexagonal boron nitride,1

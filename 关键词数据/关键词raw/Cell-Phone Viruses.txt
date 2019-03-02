@@ -1,0 +1,413 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE Microfluidics-based assays; Point-of-care devices; Smart-phone based
+   sensors; Low resource environments; Micropattern soft lithography;
+   Lab-on-a-chip diagnosis; Infectious microorganisms; Biomarkers of
+   infection
+ID ON-A-CHIP; HEPATITIS-B-VIRUS; CAPILLARY-ELECTROPHORESIS CHIPS; ENHANCED
+   RAMAN-SPECTROSCOPY; ESCHERICHIA-COLI O157-H7; TOTAL ANALYSIS SYSTEMS;
+   RAPID DETECTION; MYCOBACTERIUM-TUBERCULOSIS; BACTERIAL DETECTION;
+   VIBRIO-CHOLERAE
+ER
+
+PT J
+ID MEDIATED ISOTHERMAL AMPLIFICATION; POLYMERASE-CHAIN-REACTION; REVERSE
+   TRANSCRIPTION; DNA AMPLIFICATION; VISUAL DETECTION; ASSAY; INFECTION;
+   RNA; QUANTIFICATION; SEQUENCES
+ER
+
+PT J
+DE Imidacloprid; Immunochromatographic assay; Soil chemical barrier;
+   On-site detection; Termite
+ID CHROMATOGRAPHY-MASS-SPECTROMETRY; AGRICULTURAL PRODUCTS; SAMPLES;
+   INSECTICIDES; IMMUNOASSAY; RESIDUES; VIRUSES; STRIP; ELISA; WATER
+ER
+
+PT J
+DE Paper-based lateral flow device; Enzyme-linked immunosorbent assay;
+   Wax-printing method; Alpha-fetoprotein; Point-of-care testing
+ID IMMUNOCHROMATOGRAPHIC TEST STRIP; CHEMILUMINESCENT DETECTION; SENSITIVE
+   DETECTION; COMPETITIVE ELISA; SANDWICH ELISA; IMMUNOASSAY; IMMUNOSENSOR;
+   ANTIBODIES; VIRUS; MICROFLUIDICS
+ER
+
+PT B
+DE Smart phone forensic; MTK mobile phone; physical memory image; reverse
+   parsing
+ER
+
+PT B
+DE Deep Learning; Malware Detection; Signals Classification
+ER
+
+PT J
+DE Android malware; behavior analysis; dynamic detection; software
+   identification
+ID SENSOR NETWORKS
+ER
+
+PT J
+DE Android malware detection; Mobile multimedia application; Behavior
+   detection; Android platform; Mobile security
+ER
+
+PT J
+ID INFLUENZA-VIRUSES; DIGITAL PCR; REPLICATION; SYSTEM
+ER
+
+PT J
+DE Point-of-care; Smartphone; Infectious disease; Diagnostics; Sensor;
+   Detection
+ID RESOURCE-LIMITED SETTINGS; MOBILE HEALTH-CARE; SMART-PHONE; ZIKA VIRUS;
+   CELL-PHONE; LOW-COST; MICROFLUIDIC DEVICE; INSTRUMENT-FREE; INFLUENZA-A;
+   PAPER
+ER
+
+PT B
+DE Android system; quantitative detection; colloidal gold strip; image
+   processing
+ID RAPID IMMUNOCHROMATOGRAPHIC TEST; STRIP; VIRUS
+ER
+
+PT B
+DE ransomware; firebase; static analysis; android app; ransom; text
+   analysis; code analysis; extraction process
+ER
+
+PT B
+DE Zika; Crowdsensing; Smartphone; Communicable disease
+ID INFORMATION
+ER
+
+PT B
+DE Bluetooth; Virus Propagation; Node Energy Based Virus Propagation
+ER
+
+PT J
+DE Android malware; Virtual machine; Analysis Android malware; Android
+   malware detection
+ER
+
+PT J
+DE Android; WiFi; Scanning System; Network Security; Mobile Internet
+ER
+
+PT J
+DE Mobile security; Application permission; Application analysis
+ER
+
+PT J
+DE arbovirus; flavivirus; dengue viruses; Japanese encephalitis virus; West
+   Nile virus; transboundary diseases
+ID WEST-NILE-VIRUS; JAPANESE ENCEPHALITIS; HEMORRHAGIC-FEVER; KARACHI;
+   HEALTH; DENGUE; PREVALENCE; INFECTION; SCIENCE; DISEASE
+ER
+
+PT J
+DE Android security; malware detection; characterization; deep learning;
+   association rules mining
+ID MOBILE APPLICATIONS
+ER
+
+PT J
+DE Android; Permissions; Signature
+ER
+
+PT B
+DE Malware; Android; Permission; Virus; Security
+ER
+
+PT S
+DE Bluetooth networks; cellular automata; complex systems modeling;
+   smartphones security
+ID MALWARE
+ER
+
+PT B
+DE Malware detection; Machine Learning; Big Data Analytics; Feature
+   selection; Random Forest; Support Vector Machine; Neural Networks;
+   improving accuracy
+ER
+
+PT B
+DE smart phones; android; malware; machine learning
+ER
+
+PT B
+DE cybercrime; cyberlaw; Computer crime; cyber crimes in India; Information
+   Technology Act; 2000
+ER
+
+PT J
+ID SMARTPHONE; PLATFORM; ASSAYS; CHIP
+ER
+
+PT S
+DE GPS; Warning and detection; Epidemic disease; Gradual range setting and
+   score; Cumulative test score; Smart phone; GPS log analyzer
+ER
+
+PT J
+DE Africa; HIV; m-health; mobile health; SMS
+ID RANDOMIZED CONTROLLED-TRIAL; MHEALTH INTERVENTION; RURAL UGANDA;
+   RETENTION; SMS; TRANSMISSION; WORKERS; RWANDA; MALAWI; IMPACT
+ER
+
+PT J
+DE Smartphone security; Android; Malware; Variant detection; Static
+   analysis; Family signature
+ID ANDROID MALWARE
+ER
+
+PT J
+ID MALE SEX WORKERS; MEN MSM; ANAL INTERCOURSE; SAN-FRANCISCO; CHINA; RISK;
+   PREVENTION; BEHAVIOR; BARRIERS; SAMPLE
+ER
+
+PT B
+DE Cybersecurity; cyber threats; cybersecurity management; spamming;
+   hacking; phishing; viruses
+ER
+
+PT B
+DE Android; Smart phones; android permissions; android market; ios
+ER
+
+PT S
+DE Android malware; anti-virus; Static Analysis; Dynamic Analysis;
+   Behavioral Analysis; code obfuscation
+ER
+
+PT S
+DE additive manufacturing; LCD; PCL; PEG
+ID TISSUE ENGINEERING SCAFFOLDS; STEREOLITHOGRAPHY
+ER
+
+PT J
+DE Smartphone Security; Malware Analysis; Android Malware; Static Analysis;
+   Dynamic Analysis; SDK; VAD
+ER
+
+PT S
+DE Mobile botnet; Genetic algorithm; Reverse engineering; Android
+ER
+
+PT B
+DE surveillance system; Wi-Fi data; classification
+ID BACKGROUND SUBTRACTION; TARGET DETECTION
+ER
+
+PT B
+ER
+
+PT B
+DE Malware Classification; Naive Bayes; Security in Android
+ID CLASSIFIERS
+ER
+
+PT J
+DE Pathogenic bacteria; RNA amplification; Listeria monogtogenes; Bioactive
+   paper-based platform
+ID LISTERIA-MONOCYTOGENES; ESCHERICHIA-COLI; RAPID DETECTION; SMART PHONE;
+   DNA; POINT; CARE; AMPLIFICATION; DEVICES; IMMUNODEVICE
+ER
+
+PT J
+DE Smartphones; Worm containment; Influence maximization; Social
+   relationship graph; Voting algorithm; Immunization
+ID SOCIAL NETWORKS; MALWARE; DYNAMICS; VIRUS
+ER
+
+PT J
+DE Vaccine safety; Adverse Events Following Immunisation (AEFI); Post
+   marketing surveillance; Active surveillance; Online survey; Influenza
+   vaccine
+ID SAFETY
+ER
+
+PT J
+DE Google Glass; rapid diagnostic test reader; colorimetric sensor; lateral
+   flow immunochromatographic assays; HIV testing; prostate-specific
+   antigen (PSA) test; mobile health
+ID PROSTATE-SPECIFIC ANTIGEN; QUANTUM DOTS; SMART-PHONE; TEST STRIP;
+   MALARIA; CANCER; POINT; PLATFORM; READER; VIRUS
+ER
+
+PT J
+DE Dengue; Asia; Social media; mHealth; Health communication
+ID EARLY WARNING SYSTEMS; AEDES-AEGYPTI; PUBLIC-HEALTH; VIRUS; INFORMATION;
+   EPIDEMICS; MODELS
+ER
+
+PT B
+ER
+
+PT B
+DE Android; smart phone; security; permission
+ER
+
+PT J
+ID VACCINATION; NETWORK; VIRUSES
+ER
+
+PT S
+ER
+
+PT S
+DE Mobile phones; camera; Android
+ER
+
+PT B
+DE Malware; Android; Static Analysis; N-Gram; SVM; Vulnerability; CVSS
+ER
+
+PT J
+ID FLUORESCENCE MICROSCOPY; ROOM-TEMPERATURE; NANOPARTICLES; ABSORPTION;
+   SCATTERING
+ER
+
+PT J
+DE cell phone microscopy; fluorescence imaging; single nanoparticle; single
+   virus imaging
+ID PHOTON-COUNTING HISTOGRAM; DARK-FIELD MICROSCOPY; ON-CHIP MICROSCOPY;
+   CELL-PHONE; FLUCTUATION SPECTROSCOPY; COLORIMETRIC DETECTION; HUMAN
+   CYTOMEGALOVIRUS; IDENTIFICATION; PARTICLES; CELLPHONE
+ER
+
+PT J
+DE Mobile-phone viruses; Social networks; Mobile security
+ID COMMUNICATION-NETWORKS
+ER
+
+PT J
+ER
+
+PT J
+DE gay and bisexual men; HIV; sexually transmitted infections; drugs and
+   alcohol; mental health; smoking
+ID CLUB DRUG-USE; NEW-YORK-CITY; BODY-IMAGE; YOUNG MEN; HIV PREVENTION;
+   SUBSTANCE USE; ALCOHOL-USE; PSYCHOLOGICAL DISTRESS; HETEROSEXUAL MEN;
+   SEXUAL PRACTICES
+ER
+
+PT J
+DE technology; men who have sex with men; MSM; HIV prevention
+ID SEXUAL RISK BEHAVIOR; INTERNET; MEN; GUIDELINES; STATEMENT; EPIDEMIOLOGY
+ER
+
+PT J
+ID RANDOMIZED CONTROLLED-TRIAL; SMOKING-CESSATION SUPPORT; IMPROVE
+   ADHERENCE; ANTIRETROVIRAL THERAPY; DATA-COLLECTION; SMART PHONES;
+   SOUTH-AFRICA; IPHONE; INTERVENTION; GUIDELINES
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT B
+DE Android; Anti-Virus; Static/Dynamic Analysis
+ER
+
+PT S
+DE Malwar; Android Smartphones; Hacker; Anti-Virus; Cyber Threats;
+   Vulnerability
+ER
+
+PT B
+DE mobile; botnet; command and control; hybrid
+ER
+
+PT J
+DE Human factors; invasive software (viruses worms trojan horses);
+   pervasive computing; wireless
+ER
+
+PT J
+ID HIV PREVENTION; RISK BEHAVIORS; INTERNET; INFECTION; PREVALENCE;
+   EPIDEMIC; SYPHILIS; TRANSMISSION; PARTNERS; INCREASE
+ER
+
+PT B
+DE security; smartphones; smart devices; mobile security; smartphone
+   security; cloud computing; mobile devices; access control; bring your
+   own device (BYOD); access control
+ER
+
+PT S
+DE component; mobile communication; honeypot; simulatng wireless access;
+   bahavior monitoring
+ER
+
+PT B
+DE Cloud Computing; Intrusion Detection; Android Smartphone
+ER
+
+PT S
+DE Android malware; smartphone security
+ER
+
+PT B
+DE Security; Mobile phone viruses; Loopholes; Communication encryption
+ID MULTIPLE
+ER
+
+PT S
+DE Cellular Automata; complex networks; virus spreading patterns; mobile
+   phones
+ER
+
+PT S
+DE Graphical passwords; Authentication; Network Security
+ID AUTHENTICATION
+ER
+
+PT S
+ER
+
+PT S
+DE White List; Smart Phone; Mobile Malicious Code
+ER
+
+PT S
+DE Propagation Tendency; Epidemic Model; Blue-Tooth; Smart Phone; Virus
+ER
+
+PT B
+ER
+
+PT B
+DE access control; working set; network file system
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT B
+DE Smart Phone Virus; Epidemic Model; Bluetooth Worm; velocity
+ER
+
+PT S
+ER
+
+PT B
+DE mobile phone virus; epidemic model; security of wireless network;
+   bluetooth; smart phone
+ER
+
+PT S
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+EF

@@ -1,0 +1,298 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,listeria monocytogenes,5,listeria monocytogenes,13
+1,cell factory,3,atrazine,9
+2,bacillus subtilis,2,biofilm,9
+3,microbial cell factories,2,dairy,9
+4,bacterial,2,cell factory,8
+5,staphylococcus aureus,2,bacterial,8
+6,tilapia-processing facilities,2,escherichia coli,8
+7,lactic acid bacteria,2,penicillium,8
+8,microbial factory,2,bacillus subtilis,7
+9,sugar beet,2,lactic acid bacteria,7
+10,atrazine,2,sugar beet,7
+11,escherichia coli,2,hygiene,7
+12,biofilm,2,disinfection,7
+13,dairy,2,microbial factory,6
+14,penicillium,2,microbial cell factories,5
+15,hygiene,2,tilapia-processing facilities,5
+16,activated sludge,2,ribosome,5
+17,disinfection,2,translation,5
+18,pg10,1,rna helicase,5
+19,genome engineering,1,gtpase,5
+20,catalytic biofilms,1,rna,5
+21,metabolic engineering,1,atz genes,5
+22,xylose,1,bacterial community,5
+23,isomerase pathway,1,biodegradation,5
+24,weimberg pathway,1,diversity,5
+25,dahms pathway,1,trz,5
+26,single molecule real-time (smrt),1,factory environment,5
+27,milk powder,1,cleaning,5
+28,bacterial source,1,disinfectant,5
+29,dna replication,1,sanitiser,5
+30,replication factory,1,sugar cane,5
+31,cell biology,1,manitol,5
+32,bacteria,1,dextran,5
+33,zeolite,1,enzyme,5
+34,superphosphate,1,leuconostoc,5
+35,ferrous sulfate,1,zeolite,4
+36,chicken manure,1,superphosphate,4
+37,antibiotic resistance genes,1,ferrous sulfate,4
+38,soil bacterial community,1,chicken manure,4
+39,nutrients,1,staphylococcus aureus,4
+40,berries,1,glycolytic flux,4
+41,bioprospecting,1,n-butanol,4
+42,polyphenols,1,"2,3-butanediol",4
+43,enterotoxin genes,1,butyrate,4
+44,plant virus,1,utr engineering,4
+45,viral replication factories,1,biocide,4
+46,cellular remodeling,1,sugarcane,4
+47,cyanobacteria,1,sucrose loss,4
+48,small rnas,1,raw sugar factory,4
+49,stress responses,1,exopolysaccharide,4
+50,biofuels,1,biomarker,4
+51,viral factory,1,in silico,4
+52,translational regulation,1,listeria,4
+53,vaccinia virus,1,detection method,4
+54,nucleoporin,1,food contamination,4
+55,rapd,1,jinhua ham,4
+56,serogroup,1,pyrosequencing,4
+57,factory workers,1,microbial communities,4
+58,workplace intervention,1,flavor,4
+59,regular sexual partner,1,aldehydes,4
+60,condom,1,chinese paocai,4
+61,occupational outbreak,1,dgge,4
+62,human brucellosis,1,qpcr,4
+63,epidemiological investigation,1,microbial community,4
+64,glycolytic flux,1,degradation,4
+65,n-butanol,1,raoultella planticola,4
+66,"2,3-butanediol",1,toxic solvents,4
+67,butyrate,1,sludge,4
+68,utr engineering,1,wood dust,4
+69,biocide,1,ergosterol,4
+70,sugarcane,1,fungi,4
+71,sucrose loss,1,occupational diseases,4
+72,raw sugar factory,1,furniture factory,4
+73,exopolysaccharide,1,protein secretion,4
+74,biomarker,1,proteomics,4
+75,in silico,1,systems,4
+76,listeria,1,adaptor,4
+77,detection method,1,clathrin,4
+78,food contamination,1,membrane trafficking,4
+79,anaerobic-aerobic treatment,1,reovirus,4
+80,cod removal,1,viral factories,4
+81,decolorization,1,feedstuff,4
+82,mixed,1,bioaerosol,4
+83,lightly pickled vegetable,1,exposure assessment,4
+84,persistent strain,1,airborne bacteria,4
+85,growth-product coupling,1,airborne,4
+86,bacterial nanocellulose,1,airborne fungi,4
+87,komagataeibacter europaeus,1,wood,4
+88,rotten grapes,1,melamine coated board,4
+89,jinhua ham,1,aspergillus,4
+90,pyrosequencing,1,mould,4
+91,microbial communities,1,cheese,4
+92,flavor,1,air sampling,4
+93,aldehydes,1,activated sludge,4
+94,rna polymerase,1,flotation tailings,4
+95,bacterial nucleolus,1,chalcopyrite,4
+96,3d organization of transcription,1,pyrite,4
+97,synthetic biology standards,1,biotechnology,4
+98,plasmid backbone exchange,1,dna combing,4
+99,standard parts,1,microarrays,4
+100,biofilms as cell factories,1,initiation,4
+101,living together,1,replication origin,4
+102,surfactants,1,factory model,4
+103,protein blsa,1,paper industry,4
+104,chinese paocai,1,wood chips,4
+105,dgge,1,pulp,4
+106,qpcr,1,occupational exposure,4
+107,microbial community,1,bioaerosols,4
+108,feed,1,food industry,4
+109,pfge,1,resistance,4
+110,salmonella spp.,1,pg10,3
+111,rdar morphotypes,1,genome engineering,3
+112,dairy industry,1,xylose,3
+113,milk coagulation property,1,isomerase pathway,3
+114,titratable acidity,1,weimberg pathway,3
+115,casein,1,dahms pathway,3
+116,noncoding rna,1,dna replication,3
+117,synthetic rna,1,replication factory,3
+118,gene silencing,1,cell biology,3
+119,nucleic-acids,1,bacteria,3
+120,escherichia-coli hfq,1,berries,3
+121,multiple locus variable number of tandem repeats analysis,1,bioprospecting,3
+122,cassava factory wastewater,1,polyphenols,3
+123,aerobic degradation,1,cyanobacteria,3
+124,cyanide degrading,1,small rnas,3
+125,cell factories,1,stress responses,3
+126,cell line engineering,1,biofuels,3
+127,chinese hamster ovary cells,1,viral factory,3
+128,bacterial cell factory,1,translational regulation,3
+129,biorefining,1,vaccinia virus,3
+130,indole,1,nucleoporin,3
+131,metabolite production,1,rapd,3
+132,bacterial spatial distribution,1,serogroup,3
+133,fermented grains,1,factory workers,3
+134,plfa,1,workplace intervention,3
+135,pcr-dgge,1,regular sexual partner,3
+136,extraction,1,condom,3
+137,nitrite pathways,1,anaerobic-aerobic treatment,3
+138,degradation,1,cod removal,3
+139,raoultella planticola,1,decolorization,3
+140,toxic solvents,1,mixed,3
+141,sludge,1,biofilms as cell factories,3
+142,ribosome,1,living together,3
+143,translation,1,surfactants,3
+144,rna helicase,1,protein blsa,3
+145,gtpase,1,feed,3
+146,rna,1,pfge,3
+147,c. vulgaris,1,salmonella spp.,3
+148,p. putida,1,rdar morphotypes,3
+149,polyacrylate polyalcohol,1,dairy industry,3
+150,sugar factory,1,milk coagulation property,3
+151,wood dust,1,titratable acidity,3
+152,ergosterol,1,casein,3
+153,fungi,1,noncoding rna,3
+154,occupational diseases,1,synthetic rna,3
+155,furniture factory,1,gene silencing,3
+156,raw milk,1,bacterial cell factory,3
+157,lighvan cheese,1,biorefining,3
+158,iran,1,indole,3
+159,coliform bacteria,1,metabolite production,3
+160,real-time pcr,1,bacterial spatial distribution,3
+161,beta-galactosidase,1,fermented grains,3
+162,analysis of flora,1,plfa,3
+163,biomaterial,1,pcr-dgge,3
+164,genetic design,1,c. vulgaris,3
+165,metabolic circuit,1,p. putida,3
+166,clinical isolates,1,polyacrylate polyalcohol,3
+167,genotyping,1,sugar factory,3
+168,mlva profiles,1,raw milk,3
+169,bacillus species,1,lighvan cheese,3
+170,microbial cell factory,1,iran,3
+171,systems metabolic engineering,1,coliform bacteria,3
+172,protein secretion,1,real-time pcr,3
+173,proteomics,1,beta-galactosidase,3
+174,systems,1,analysis of flora,3
+175,myxobacteria,1,biomaterial,3
+176,natural products,1,genetic design,3
+177,drug discovery,1,metabolic circuit,3
+178,chemical space,1,clinical isolates,3
+179,histamine,1,genotyping,3
+180,histamine-forming bacteria,1,mlva profiles,3
+181,hazard analysis critical control,1,myxobacteria,3
+182,adaptor,1,natural products,3
+183,clathrin,1,drug discovery,3
+184,membrane trafficking,1,chemical space,3
+185,reovirus,1,quorum sensing,3
+186,viral factories,1,bacterial signaling,3
+187,bacterial cellulose,1,caco 2,3
+188,gluconacetobacter sacchari,1,silage,3
+189,cellulose producing,1,sourdough,3
+190,quorum sensing,1,total mixed ration,3
+191,bacterial signaling,1,do reduction,3
+192,caco 2,1,reduced sludge production,3
+193,silage,1,community,3
+194,sourdough,1,mannitol,3
+195,total mixed ration,1,sugarcane deterioration,3
+196,atz genes,1,mannitol dehydrogenase,3
+197,bacterial community,1,fuel alcohol,3
+198,biodegradation,1,virus identification,3
+199,diversity,1,electric chips,3
+200,trz,1,multiplex magnetic beads,3
+201,factory environment,1,sandwich,3
+202,cleaning,1,yoghurt manufacturing,3
+203,disinfectant,1,contamination source,3
+204,sanitiser,1,haccp,3
+205,virus factories,1,e. coli,3
+206,viroplasm,1,salmonella sp.,3
+207,viral replication complex,1,fish feed,3
+208,sugar cane,1,air-drying,3
+209,manitol,1,nasal carriage,3
+210,dextran,1,methicillin-resitant,3
+211,enzyme,1,staphylococcus aureaus,3
+212,leuconostoc,1,smoking,3
+213,feedstuff,1,fiberboard factories,3
+214,bioaerosol,1,chipboard factories,3
+215,exposure assessment,1,woodworkers,3
+216,airborne bacteria,1,occupational,3
+217,airborne,1,reduction of germs,3
+218,airborne fungi,1,plastic cutting boards,3
+219,wood,1,secondary,3
+220,melamine coated board,1,catalytic biofilms,2
+221,aspergillus,1,metabolic engineering,2
+222,biosynthesis,1,single molecule real-time (smrt),2
+223,crocatus,1,milk powder,2
+224,mould,1,bacterial source,2
+225,cheese,1,antibiotic resistance genes,2
+226,air sampling,1,soil bacterial community,2
+227,staphylococcal enterotoxins,1,nutrients,2
+228,fishery products,1,enterotoxin genes,2
+229,do reduction,1,plant virus,2
+230,reduced sludge production,1,viral replication factories,2
+231,community,1,cellular remodeling,2
+232,flotation tailings,1,occupational outbreak,2
+233,chalcopyrite,1,human brucellosis,2
+234,pyrite,1,epidemiological investigation,2
+235,biotechnology,1,lightly pickled vegetable,2
+236,mannitol,1,persistent strain,2
+237,sugarcane deterioration,1,bacterial nanocellulose,2
+238,mannitol dehydrogenase,1,komagataeibacter europaeus,2
+239,fuel alcohol,1,rotten grapes,2
+240,liquid egg,1,rna polymerase,2
+241,salmonella,1,bacterial nucleolus,2
+242,bacterial contamination,1,3d organization of transcription,2
+243,high-throughput strain,1,synthetic biology standards,2
+244,protein complexes,1,plasmid backbone exchange,2
+245,protein interaction,1,standard parts,2
+246,fluorescent in situ hybridization (fish),1,cassava factory wastewater,2
+247,probes,1,aerobic degradation,2
+248,water treatment plants,1,cyanide degrading,2
+249,phylogenetic,1,cell factories,2
+250,ozone water,1,cell line engineering,2
+251,disinfection of surfaces,1,chinese hamster ovary cells,2
+252,dna combing,1,extraction,2
+253,microarrays,1,nitrite pathways,2
+254,initiation,1,bacillus species,2
+255,replication origin,1,microbial cell factory,2
+256,factory model,1,systems metabolic engineering,2
+257,medical fabrics factory,1,histamine,2
+258,air-conditioning system,1,histamine-forming bacteria,2
+259,improper ventilation,1,hazard analysis critical control,2
+260,mutagenic activity,1,bacterial cellulose,2
+261,ames test,1,gluconacetobacter sacchari,2
+262,industrial waste mutagenicity,1,cellulose producing,2
+263,whey proteins,1,virus factories,2
+264,shampoo,1,viroplasm,2
+265,virus identification,1,viral replication complex,2
+266,electric chips,1,staphylococcal enterotoxins,2
+267,multiplex magnetic beads,1,fishery products,2
+268,sandwich,1,liquid egg,2
+269,yoghurt manufacturing,1,salmonella,2
+270,contamination source,1,bacterial contamination,2
+271,haccp,1,high-throughput strain,2
+272,e. coli,1,protein complexes,2
+273,salmonella sp.,1,protein interaction,2
+274,fish feed,1,probes,2
+275,air-drying,1,water treatment plants,2
+276,minas frescal cheese,1,phylogenetic,2
+277,critical control points,1,medical fabrics factory,2
+278,paper industry,1,air-conditioning system,2
+279,wood chips,1,improper ventilation,2
+280,pulp,1,mutagenic activity,2
+281,occupational exposure,1,ames test,2
+282,bioaerosols,1,industrial waste mutagenicity,2
+283,food industry,1,minas frescal cheese,2
+284,resistance,1,critical control points,2
+285,nasal carriage,1,growth-product coupling,1
+286,methicillin-resitant,1,nucleic-acids,1
+287,staphylococcus aureaus,1,escherichia-coli hfq,1
+288,smoking,1,biosynthesis,1
+289,fiberboard factories,1,crocatus,1
+290,chipboard factories,1,fluorescent in situ hybridization (fish),1
+291,woodworkers,1,ozone water,1
+292,occupational,1,disinfection of surfaces,1
+293,reduction of germs,1,whey proteins,1
+294,plastic cutting boards,1,shampoo,1
+295,secondary,1,,
+296,listeria spp. (indicator microorganisms),1,,

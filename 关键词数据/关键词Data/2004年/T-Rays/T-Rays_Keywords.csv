@@ -1,0 +1,165 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,t-rays,25,t-rays,71
+1,terahertz,21,terahertz,66
+2,t-ray,9,t-ray,27
+3,terahertz time-domain spectroscopy,6,thz-tds,19
+4,terahertz spectroscopy,5,composites,14
+5,composites,5,terahertz time-domain spectroscopy,14
+6,thz-tds,5,terahertz spectroscopy,13
+7,t-ray imaging,4,terahertz imaging,13
+8,terahertz radiation,4,thz,12
+9,imaging,4,t-ray imaging,11
+10,terahertz ray,4,imaging,10
+11,terahertz imaging,4,terahertz ray,10
+12,tomography,4,spectroscopy,10
+13,terahertz waves,3,terahertz radiation,9
+14,nde,3,tomography,9
+15,thz,3,terahertz waves,8
+16,support vector machines,3,nde,8
+17,spectroscopy,3,interference filter,8
+18,cfrp composites,2,characteristic matrix,8
+19,c-scan images,2,support vector machines,8
+20,real-time imaging,2,gyrotron,7
+21,material characterization,2,cfrp composites,6
+22,gyrotron,2,c-scan images,6
+23,fiber reinforced plastics,2,fiber reinforced plastics,6
+24,material,2,material,6
+25,signal modeling,2,pairwise classification,6
+26,interference filter,2,optical,6
+27,characteristic matrix,2,fabry-perot removal,6
+28,pairwise classification,2,chirped pulse,6
+29,antireflection coating,2,linear-filter modelling,6
+30,biomolecules,2,real-time imaging,5
+31,optical,2,signal modeling,5
+32,fabry-perot removal,2,antireflection coating,5
+33,terahertz (thz) time-domain spectroscopy,2,structure,5
+34,ultrafast photonics,2,disorder,5
+35,chirped pulse,2,crystal,5
+36,linear-filter modelling,2,zncdte,5
+37,metamaterials,1,semiconductor,5
+38,multicolor imaging,1,x-ray diffraction,5
+39,laser,1,material characterization,4
+40,focal-plane array,1,real-time,4
+41,aluminum wires,1,food inspection,4
+42,hybrid metamaterial,1,antenna,4
+43,carbon fiber-reinforced plastics,1,multi-band,4
+44,thermal degradation,1,detector,4
+45,wind energy,1,image,4
+46,photomixers,1,optical rectification,4
+47,terahertz (thz) communications,1,gaas,4
+48,unitraveling carrier,1,explosives,4
+49,unidirectional cfrp composites,1,thz generation,4
+50,carbon fiber,1,thz detection,4
+51,resonance frequency,1,thz spectroscopy,4
+52,penetration,1,biomolecules,4
+53,thick frp composites,1,rna,4
+54,absorption coefficient,1,absorption line,4
+55,hemagglutinin,1,water-vapor-induced,4
+56,hydration shell,1,measurement uncertainty,4
+57,frp,1,models,4
+58,photomixer,1,simulation,4
+59,nanoelectrodes,1,stratified media,4
+60,low temperature gaas,1,pt,4
+61,real-time,1,multiphase flow,4
+62,food inspection,1,infrared,4
+63,thz radiation,1,art,4
+64,particle acceleration,1,terahertz (thz) time-domain spectroscopy,4
+65,relativistic plasmas,1,ultrafast photonics,4
+66,fiber direction,1,detectors,4
+67,sub-terahertz,1,infrared history,4
+68,distributed point source method,1,instrumentation,4
+69,dpsm,1,sources,4
+70,electromagnetic wave propagation,1,aluminum wires,3
+71,antenna,1,wind energy,3
+72,multi-band,1,resonance frequency,3
+73,detector,1,penetration,3
+74,image,1,thick frp composites,3
+75,terahertz time domain spectroscopy,1,absorption coefficient,3
+76,time of flight diffraction,1,hemagglutinin,3
+77,non,1,hydration shell,3
+78,dielectric properties,1,frp,3
+79,electromagnetic scattering by absorbing media,1,photomixer,3
+80,fourier transform infrared spectroscopy,1,nanoelectrodes,3
+81,brain imaging,1,low temperature gaas,3
+82,terahertz sources,1,fiber direction,3
+83,submillimiter detectors,1,sub-terahertz,3
+84,reflection mode,1,water vapour,3
+85,optical rectification,1,osteosarcoma,3
+86,gaas,1,adaptive,3
+87,system and material characterization,1,space shuttle foam inspection,3
+88,water vapour,1,point,3
+89,moisture content,1,biosensing,3
+90,osteosarcoma,1,femtosecond laser systems,3
+91,adaptive,1,microwires,3
+92,space shuttle foam inspection,1,near-field phenomena,3
+93,point,1,glasses and polymer,3
+94,auto regressive moving average (arma),1,microwire,3
+95,yule-walker algorithm,1,reflection,3
+96,ribonucleic acid (rna),1,terahertz time-domain,3
+97,biosensing,1,discrete wavelet transform,3
+98,femtosecond laser systems,1,wavelet shrinkage de-noising,3
+99,microwires,1,stein's,3
+100,near-field phenomena,1,space shuttle foam insulation,3
+101,mahalanobis distance classifier,1,t-ray modeling,3
+102,wavelet denoising,1,time-domain spectroscopy,3
+103,wavelet transform,1,bayesian classification,3
+104,explosives,1,range profile,3
+105,thz generation,1,high-resolution radar,3
+106,thz detection,1,diffraction,3
+107,thz spectroscopy,1,fresnel lens,3
+108,liquid dtds,1,wavelet de-noising,3
+109,hydrogen-bonds,1,wiener deconvolution,3
+110,intermolecular,1,metamaterials,2
+111,rna,1,multicolor imaging,2
+112,absorption line,1,laser,2
+113,water-vapor-induced,1,focal-plane array,2
+114,measurement uncertainty,1,hybrid metamaterial,2
+115,glasses and polymer,1,carbon fiber-reinforced plastics,2
+116,microwire,1,thermal degradation,2
+117,reflection,1,photomixers,2
+118,terahertz time-domain,1,terahertz (thz) communications,2
+119,terahertz computed tomography,1,unitraveling carrier,2
+120,segmentation feature extraction,1,unidirectional cfrp composites,2
+121,models,1,carbon fiber,2
+122,simulation,1,thz radiation,2
+123,stratified media,1,particle acceleration,2
+124,discrete wavelet transform,1,relativistic plasmas,2
+125,wavelet shrinkage de-noising,1,distributed point source method,2
+126,stein's,1,dpsm,2
+127,space shuttle foam insulation,1,electromagnetic wave propagation,2
+128,t-ray modeling,1,terahertz time domain spectroscopy,2
+129,structure,1,time of flight diffraction,2
+130,disorder,1,non,2
+131,crystal,1,brain imaging,2
+132,zncdte,1,terahertz sources,2
+133,semiconductor,1,submillimiter detectors,2
+134,x-ray diffraction,1,reflection mode,2
+135,pt,1,system and material characterization,2
+136,multiphase flow,1,moisture content,2
+137,infrared,1,auto regressive moving average (arma),2
+138,art,1,yule-walker algorithm,2
+139,time-domain spectroscopy,1,ribonucleic acid (rna),2
+140,bayesian classification,1,mahalanobis distance classifier,2
+141,range profile,1,wavelet denoising,2
+142,high-resolution radar,1,wavelet transform,2
+143,terahertz time-domain spectroscopy (thz-tds),1,liquid dtds,2
+144,t-rays liquid spectroscopy,1,hydrogen-bonds,2
+145,synchrotron,1,intermolecular,2
+146,biomedical applications,1,synchrotron,2
+147,biomolecules detection,1,biomedical applications,2
+148,differential thz time-domain spectroscopy,1,biomolecules detection,2
+149,detectors,1,coherent electromagnetic radiation,2
+150,infrared history,1,thz time-domain,2
+151,instrumentation,1,lasers,2
+152,sources,1,mode-locked operation,2
+153,coherent electromagnetic radiation,1,terahertz detection,2
+154,thz time-domain,1,statistical pattern classification,2
+155,lasers,1,terahertz t-ray,2
+156,mode-locked operation,1,dielectric properties,1
+157,diffraction,1,electromagnetic scattering by absorbing media,1
+158,fresnel lens,1,fourier transform infrared spectroscopy,1
+159,terahertz detection,1,terahertz computed tomography,1
+160,statistical pattern classification,1,segmentation feature extraction,1
+161,terahertz t-ray,1,terahertz time-domain spectroscopy (thz-tds),1
+162,wavelet de-noising,1,t-rays liquid spectroscopy,1
+163,wiener deconvolution,1,differential thz time-domain spectroscopy,1

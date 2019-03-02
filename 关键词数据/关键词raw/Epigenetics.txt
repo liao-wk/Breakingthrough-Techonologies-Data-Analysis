@@ -1,0 +1,1256 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE epigenetics; leukemia; non coding RNA
+ID ACUTE MYELOID-LEUKEMIA; MICRORNA EXPRESSION; GENE-EXPRESSION; CPG
+   ISLAND; PROMOTER METHYLATION; MOLECULAR-GENETICS; DNA METHYLATION;
+   DOWN-REGULATION; POOR-PROGNOSIS; CELL-LINES
+ER
+
+PT J
+DE epigenetics; aging; plasticity; developmental programming; biopolitics;
+   social class
+ID HEALTH; INHERITANCE; SCIENCE; RACE; MECHANISMS; PLASTICITY; DEMENTIA;
+   ENVIRONMENT; HALLMARKS; ORIGINS
+ER
+
+PT J
+DE epigenetics; privacy; responsibility; equity; biosocial
+ID HEALTH; METHYLATION; INHERITANCE; EQUALITY; JUSTICE; ORIGINS
+ER
+
+PT J
+ER
+
+PT J
+DE Epigenetics; Epigenesis; Waddington; Pictorial representations;
+   Evo-devo; Development
+ID PHYSICOCHEMICAL EXPERIMENTS; AMPHIBIAN ORGANIZER; REGULATORY NETWORKS;
+   CONRAD WADDINGTON; LANDSCAPE; ORIGIN; LIFE
+ER
+
+PT J
+DE assisted reproduction; epigenetics; hypertension; in vitro
+   fertilization; vascular aging
+ID DNA METHYLATION
+ER
+
+PT J
+DE epigenetics; environments; prenatal interventions; clinical trials
+ID DEVELOPMENTAL ORIGINS; POLITICS; SCIENCE; DISEASE; HEALTH; LIFE; CARE;
+   RACE; PERSPECTIVE; PLASTICITY
+ER
+
+PT J
+DE Forensic Science; Forensic genetics; Epigenetics; DNA methylation;
+   microRNA
+ER
+
+PT J
+DE DNA methylation; epigenetics; histone modifications; microRNA;
+   nociception
+ID UNITED-STATES; CONTRIBUTES
+ER
+
+PT J
+DE Epigenetics; Natural compounds; Methylation; Histone acetylization;
+   miRNAs
+ID TUMOR-SUPPRESSOR GENES; CANCER CELLS; NONCODING RNAS; HISTONE
+   DEACETYLASE; DNA METHYLATION; BREAST-CANCER; ENHANCES CHEMOSENSITIVITY;
+   ALZHEIMERS-DISEASE; TEA POLYPHENOLS; CARCINOMA CELLS
+ER
+
+PT J
+DE DNA methylation; epigenetics; epigenetic clock; aging; biological aging;
+   progeria; fibroblast
+ID CELLS; LIFE
+ER
+
+PT J
+DE Genomics; Epigenetics; Subtypes; Transcriptome
+ER
+
+PT J
+ER
+
+PT J
+ID OSSEOINTEGRATED IMPLANTS; MUCOSITIS; DISEASES; THERAPY
+ER
+
+PT J
+ID METHYLATION; HOLOCAUST; EXPOSURE; GENE
+ER
+
+PT J
+DE genetics; epigenetics
+ER
+
+PT J
+DE chronic kidney disease; epigenetics; pediatric nephrology
+ID INJURY; CHILDREN
+ER
+
+PT J
+DE ART; Epigenetic; Frozen embryo transfer; Crypreservation; Birth weight
+ID IN-VITRO FERTILIZATION; BECKWITH-WIEDEMANN-SYNDROME; ASSISTED
+   REPRODUCTIVE TECHNOLOGIES; INTRACYTOPLASMIC SPERM INJECTION;
+   GENE-EXPRESSION PROFILES; POPULATION-BASED COHORT; GERMINAL VESICLE
+   STAGE; ENDOMETRIAL THICKNESS; IMPRINTING DISORDERS; OOCYTE VITRIFICATION
+ER
+
+PT J
+ER
+
+PT J
+DE epigenetics; environment; review; narrative
+ID PIONEER TRANSCRIPTION FACTORS; GENOMIC DNA METHYLATION; GENE-EXPRESSION;
+   EARLY-LIFE; ENVIRONMENTAL EPIGENETICS; HEMATOLOGICAL MALIGNANCIES;
+   GLUCOCORTICOID-RECEPTOR; HISTONE MODIFICATIONS; CANCER EPIGENETICS;
+   EPITHELIAL-CELLS
+ER
+
+PT J
+DE Childhood asthma; epigenetics; DNA methylation; maternal exposure;
+   phthalates; transgenerational inheritance
+ID ASTHMA
+ER
+
+PT J
+DE bioinformatics; ecological epigenetics; methylation; stress experiments;
+   transposable elements
+ID DNA METHYLATION; PATTERNS
+ER
+
+PT J
+DE Mitochondria; Mitochondrial DNA; Epigenetics; Stem cell
+ID MESENCHYMAL STEM-CELLS; LONG NONCODING RNA; PIWI-INTERACTING RNAS;
+   IN-VITRO; OXIDATIVE STRESS; DNA METHYLATION; CPG METHYLATION; OSTEOGENIC
+   DIFFERENTIATION; TRANSCRIPTION FACTOR; ANTIOXIDANT ENZYMES
+ER
+
+PT J
+DE neuroimaging epigenetics; cognitive neuroscience; neuroimaging; fMRI;
+   behavioral epigenetics; epigenetics
+ID HUMAN BRAIN-FUNCTION; DNA METHYLATION; RECEPTOR GENE; PSYCHIATRIC
+   CONDITIONS; HISTONE DEACETYLASE; TEMPORAL STABILITY; MEMORY FORMATION;
+   FALSE POSITIVES; MOUSE EMBRYO; CPG ISLANDS
+ER
+
+PT J
+DE asthma; DNA-damage; epigenetics
+ID CHILDHOOD ASTHMA; PUERTO-RICAN; HAY-FEVER; GENE; METHYLATION;
+   EXPRESSION; EXPOSURE; REPAIR; SENSITIZATION; HERITABILITY
+ER
+
+PT J
+DE congenital hypothyroidism; thyroid dysgenesis; thyroid ectopy;
+   epigenetics; DNA methylation
+ID DYSGENESIS
+ER
+
+PT J
+DE Machine learning; precision medicine; epigenetics; deep learning;
+   genome; Human Genome Project (HGP)
+ID DNA METHYLATION; GENE-EXPRESSION; GENOME; CANCER; CLASSIFICATION;
+   INHIBITORS; PREDICTION; DISCOVERY; IDENTIFICATION; INFORMATION
+ER
+
+PT J
+DE ARID1A; ovarian cancer; epigenetics; HDAC; EZH2; SWI/SNF
+ID CLEAR-CELL CARCINOMA; SWI/SNF COMPLEXES; ARID1A EXPRESSION; MUTATIONS;
+   PROGRESSION; EZH2
+ER
+
+PT J
+ID TUMOR-SUPPRESSOR GENES; HISTONE DEACETYLASES; DRUG-RESISTANCE; DNA
+   METHYLATION; THERAPY; EPIGENOME; THERAPEUTICS; EPIDEMIOLOGY; EXPRESSION;
+   BIOMARKERS
+ER
+
+PT J
+DE neurogenesis; HSV-1; hippocampus; schizophrenia; epigenetics mechanisms
+   of plasticity
+ID GENE-EXPRESSION; ADULT NEUROGENESIS; LATENCY; SYSTEM; ENCEPHALITIS;
+   BRAINS; REACTIVATION; HIPPOCAMPUS; INFECTION; NEURONS
+ER
+
+PT J
+DE Epigenetics; Concepts of epigenetics; Waddington; Embryology and
+   genetics; Development; Nanney; Molecular biology; Evo-devo; Epigenetic
+   inheritance
+ID TRANSGENERATIONAL INHERITANCE; NONGENETIC INHERITANCE; X-CHROMOSOME;
+   GENE-ACTION; EVOLUTION; MECHANISMS; METHYLATION; PLASTICITY; PHYSIOLOGY;
+   HEREDITY
+ER
+
+PT J
+DE Epigenetics; biology; early intervention; foetal programming; child
+   protection; surveillance
+ID STRESS; METHYLATION; DEPRESSION; ADVERSITY; RESPONSES; SCIENCE; POLICY
+ER
+
+PT J
+DE DNA methylation; epigenetics; personalized nutrition
+ID DNA METHYLATION; DISEASE
+ER
+
+PT J
+DE congenital heart disease; DNA methylation; Epigenetics; histone
+   modification; microRNA; precision medicine
+ID HISTONE DEACETYLASE INHIBITORS; CONGENITAL HEART-DISEASE; AORTIC-VALVE
+   DISEASE; CARDIOVASCULAR-DISEASE; DNA METHYLATION; CIRCULATING MICRORNA;
+   HDAC INHIBITORS; EXPRESSION; HYPERTROPHY; MUTATIONS
+ER
+
+PT J
+DE Ciliates; Cortical inheritance; DNA processing; Mating type
+   determination; Serotype inheritance; Transgenerational epigenetics
+ID PARAMECIUM-AURELIA; TETRAHYMENA-THERMOPHILA; GENOME REARRANGEMENTS; COPY
+   NUMBER; DNA; EVOLUTION; EXPRESSION; ARCHITECTURE; TETRAURELIA;
+   INHERITANCE
+ER
+
+PT J
+ER
+
+PT J
+DE Epigenetics; Developmental systems; Nature-nurture concept
+ID PROBABILISTIC EPIGENESIS; BEHAVIORAL-DEVELOPMENT; MATERNAL-BEHAVIOR;
+   GENE-EXPRESSION; DNA METHYLATION; INHERITANCE; ENVIRONMENT; EXPERIENCE;
+   METABOLISM; SYSTEMS
+ER
+
+PT J
+DE Epigenetics; Evolution; Neo-Darwinism; Punctuated equilibria
+ID PROBABILISTIC EPIGENESIS; THEORY NEED; DEFINITION; LANDSCAPE; RETHINK
+ER
+
+PT J
+DE Epigenetics; Relational developmental systems; Reductionism; Coaction;
+   Fusion
+ID REPRODUCTIVE STRATEGY; EXPLANATORY PLURALISM; DEVELOPMENTAL SCIENCE;
+   LIFE-SPAN; PERSONALITY; NURTURE; WITHERINGTON; DISORDERS; EVOLUTION;
+   LICKLITER
+ER
+
+PT J
+DE Chinese medicine; epigenetics; methylation; histone modification;
+   Chinese herbal medicine; Chinese herbal formula; Chinese medicine
+   syndrome
+ID CANCER CELLS; DNA METHYLTRANSFERASE; GENE-EXPRESSION; HISTONE H3;
+   CURCUMIN; METHYLATION; PROTEIN; ACETYLATION; INHIBITOR; APOPTOSIS
+ER
+
+PT J
+ER
+
+PT J
+DE epigenetics; health and disease; microbiome
+ID METABOLITES; CHALLENGES; DYNAMICS; INSIGHTS; ECOLOGY; DISEASE; HEALTH
+ER
+
+PT J
+ER
+
+PT J
+DE Heart disease; Epigenetics; Histone Methyltransferase; Inhibitor
+ID METHYLATION; CELLS
+ER
+
+PT J
+DE 5hmc; DNA methylation; histone modification; imprinting; noncoding RNA;
+   RNA methylation
+ID 5-HYDROXYMETHYLCYTOSINE; HYPERMETHYLATION; TET2
+ER
+
+PT J
+DE environment; epigenetics; reproduction; Africa
+ER
+
+PT J
+DE Epigenetics; 'hard' inheritance; representation; science and society;
+   'soft' inheritance
+ID SOCIOECONOMIC-STATUS; INHERITANCE; EVOLUTION; BEHAVIOR; HEALTH;
+   MECHANISMS; RESPONSES; NURTURE; LAMARCK; STRESS
+ER
+
+PT J
+DE behavioral epigenetics; early-life stress; DNA methylation
+ID RECEPTOR GENE PROMOTER; DNA METHYLATION; DIFFERENTIAL SUSCEPTIBILITY;
+   MATERNAL STRESS; CHILD-ABUSE; ENVIRONMENT; NR3C1; REPLICATION;
+   ASSOCIATION; PERSPECTIVE
+ER
+
+PT J
+DE Alzheimer's disease; Cancer; Diabetes; Epigenetics; Imprinting disorders
+ID SYSTEMIC-LUPUS-ERYTHEMATOSUS; LOW-BIRTH-WEIGHT; HUMAN INSULIN GENE; DNA
+   METHYLATION; RHEUMATOID-ARTHRITIS; PRADER-WILLI; TUMOR-SUPPRESSOR;
+   PROTEIN EXPRESSION; ANGELMAN-SYNDROMES; SYNOVIAL TISSUE
+ER
+
+PT J
+DE epigenetics; gene expression; imprinting disorders; development;
+   assisted reproductive technology (ART)
+ID IMPRINTING DISORDERS; DNA-METHYLATION; EPIGENOME; PREGNANCY
+ER
+
+PT J
+DE epigenetics; autoimmune thyroid diseases; pathogenesis; DNA methylation;
+   histone modifications; microRNAs; long non-coding RNAs
+ID X-CHROMOSOME INACTIVATION; BLOOD MONONUCLEAR-CELLS; LONG NONCODING RNAS;
+   FIBROBLAST-LIKE SYNOVIOCYTES; GENOME-WIDE ASSOCIATION; DNA METHYLATION
+   LEVELS; REGULATORY T-CELL; GRAVES-DISEASE; HASHIMOTOS-THYROIDITIS;
+   GENE-EXPRESSION
+ER
+
+PT J
+DE DNA methylation; drug discovery; epigenetics; histone modifications;
+   miRNA; RNA interference
+ID CANCER; THERAPY; DECITABINE; MICRORNAS; PATHWAYS
+ER
+
+PT J
+DE Epigenetics; Chromatin; Non-coding RNA; Histones; Lipid metabolism;
+   Nutrition
+ID IMPROVES INSULIN SENSITIVITY; EPIGENOME-WIDE ASSOCIATION;
+   SKELETAL-MUSCLE CELLS; BODY-MASS INDEX; HIGH-FAT DIET; DNA METHYLATION;
+   ADIPOSE-TISSUE; IN-UTERO; HISTONE MODIFICATIONS; DIABETES-MELLITUS
+ER
+
+PT J
+DE Fibrosis; Epigenetics; Methylation; Histones
+ID HEPATIC STELLATE CELLS; SYSTEMIC-SCLEROSIS PATHOGENESIS; HISTONE
+   DEACETYLASE INHIBITOR; ACTIVATED RECEPTOR-GAMMA; SCLERODERMA DERMAL
+   FIBROBLASTS; FIBROTIC LUNG FIBROBLASTS; PULMONARY-FIBROSIS; RENAL
+   FIBROSIS; COLLAGEN EXPRESSION; CARDIAC FIBROSIS
+ER
+
+PT J
+DE Functional genomics; Translational regulation; Epigenetics;
+   Developmental programming; Ribosome
+ER
+
+PT J
+ER
+
+PT J
+DE oncogenesis; hepatocellular carcinoma; cancer epigenetics; LSF; DNA
+   methylation
+ID INHIBITORS; LSF
+ER
+
+PT J
+DE Epigenetics; pathogenesis; social psychiatry
+ID GLUCOCORTICOID-RECEPTOR GENE; POSTTRAUMATIC-STRESS-DISORDER; DNA
+   METHYLATION; MENTAL-DISORDERS; CHILDHOOD MALTREATMENT; PSYCHOSOCIAL
+   FACTORS; HUMAN BRAIN; BEHAVIOR; PSYCHOTHERAPY; MECHANISMS
+ER
+
+PT S
+DE Telemedicine; Genetics; Epigenetics; Telegenetics; Teleepigenetics
+ER
+
+PT J
+DE Epigenetics; maternal nutrition; methyl donors; developmental
+   programming; DNA methylation
+ER
+
+PT J
+DE Epigenetics; Obesity; Nutrition; Environment; Diet
+ER
+
+PT J
+DE Thyroid Cancer; Nutrigenetics; Epigenetics
+ER
+
+PT B
+ID INHERITANCE; SCIENCE
+ER
+
+PT B
+ID PARTICIPATION; SCIENCE; TECHNOLOGY
+ER
+
+PT B
+ER
+
+PT B
+ID MALE SEXUAL ORIENTATION; TWINS
+ER
+
+PT J
+ER
+
+PT S
+ID ONE-CARBON METABOLISM; DNA METHYLATION; DAPHNIA-PULEX; GENE; PATTERNS;
+   MAGNA; DROSOPHILA; EVOLUTION; CLADOCERA; CRUSTACEA
+ER
+
+PT J
+ID ENVIRONMENTAL EPIGENETICS
+ER
+
+PT J
+ER
+
+PT J
+DE longevity; aging; biomarkers; geroprotectors; epigenetics;
+   transcriptomics
+ER
+
+PT J
+DE Epigenetics; Epigenesis; Epigenetic inheritance; Exogenetic inheritance;
+   Genetic assimilation; Genetic accommodation
+ID DEVELOPMENTAL PLASTICITY; GENE-EXPRESSION; PHENOTYPIC ACCOMMODATION;
+   MOLECULAR EPIGENESIS; MATERNAL-CARE; EVOLUTION; INHERITANCE;
+   SPECIFICITY; MECHANISMS; DISEASE
+ER
+
+PT J
+DE Placenta; Transport; Mitochondria; Epigenetics
+ER
+
+PT J
+DE epigenetics; chronic kidney disease; children; therapeutic pathways
+ID GLOMERULAR NUMBER; UNITED-STATES; BIRTH-WEIGHT; FOLIC-ACID;
+   GLOMERULOSCLEROSIS; METHYLATION; PHOSPHORYLATION; DIMETHYLATION;
+   ACETYLATION
+ER
+
+PT J
+DE Schizophrenia; Post-mortem; Morphology; Proteomics; Gene expression;
+   Epigenetics
+ER
+
+PT J
+DE biology of cancer; epigenetics; nutri-epigenetics; nutrition; DNA
+   methylation
+ID DNA METHYLATION; PROSTATE-CANCER; COLORECTAL-CANCER; DIALLYL DISULFIDE;
+   COLON-CANCER; CELL; PROGRESSION; METABOLISM; GROWTH; FOLATE
+ER
+
+PT J
+ER
+
+PT J
+DE cardiac muscle; epigenetics; histones; protein kinases
+ER
+
+PT J
+DE epigenetics; foetal programming; CNVs
+ER
+
+PT J
+DE Epigenetics; Environment; Asthma - mechanism
+ER
+
+PT J
+DE bipolar disorder; epigenetics; major depressive disorder; mood disorders
+ID BIPOLAR DISORDER; NEUROPROGRESSION; STRESS
+ER
+
+PT J
+DE transgenerational epigenetics; CVD; IGF; chromatin-memory
+ID HIGH-FAT DIET; CARDIOVASCULAR-DISEASE RISK; DNA METHYLATION; MATERNAL
+   OBESITY; PPAR-GAMMA; IGF-I; GENE-EXPRESSION; STEM-CELLS;
+   TRANSGENERATIONAL INHERITANCE; ENVIRONMENTAL EPIGENETICS
+ER
+
+PT J
+DE Epigenetics; Chromatin; Transcription factors; Neo-Lamarckism;
+   Neo-Lysenkoism
+ID DNA METHYLATION; CELLS; INHERITANCE; MECHANISMS; HISTORY; VIEW
+ER
+
+PT J
+ID NEUROTROPHIC FACTOR; CHILDHOOD ABUSE; MATERNAL-CARE; BRAIN; GENE;
+   METHYLATION; LITHIUM; DEPRESSION; DISORDERS; INCREASES
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE Epigenetics; Epitherapeutics; Medicine
+ID DNA METHYLATION; CELL-DIFFERENTIATION; HUMAN BRAIN; DISEASE; MECHANISMS;
+   BEHAVIOR; GENOME; RNA; HYPOMETHYLATION; EPIDEMIOLOGY
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE DNA methylation; epigenetics; MS-AFLP; bisulfite sequencing; local
+   adaptation; phenotypic plasticity; transgenerational inheritance
+ID DNA METHYLATION; TRANSPOSABLE ELEMENTS; EVOLVING TRAIT; COMPLEX TRAITS;
+   GENOME SIZE; INHERITANCE; PLANT; PATTERNS; ADAPTATION; PLASTICITY
+ER
+
+PT J
+DE DNA methylation; Epigenetics; Early life stress; Translational science;
+   Interventions; Gene environment; Transgenerational; Prevention science
+ID NURSE HOME VISITATION; DNA METHYLATION; EARLY-LIFE; MATERNAL-BEHAVIOR;
+   BINDING; BRAIN; 5-HYDROXYMETHYLCYTOSINE; DEMETHYLATION; ENVIRONMENT;
+   NEURONS
+ER
+
+PT J
+DE Epigenetics; Atherosclerosis; Methytation; DNA; Histones; micro RNA
+ID MUSCLE-CELL PROLIFERATION; CORONARY-ARTERY-DISEASE; REGULATES
+   CARDIAC-HYPERTROPHY; ENDOTHELIAL PROGENITOR CELLS; EPIGENOME-WIDE
+   ASSOCIATION; MODERATE FOLATE-DEPLETION; PROMOTER DNA METHYLATION;
+   NITRIC-OXIDE SYNTHASE; LIPID-LOWERING DRUGS; LONG NONCODING RNAS
+ER
+
+PT J
+DE BET; BRD2; chromatin; epigenetics; H2A.Z; histone variants; macroH2A;
+   melanoma
+ID DRIVER MUTATIONS; PROLIFERATION; EXPRESSION; CANCER
+ER
+
+PT J
+DE prevention; translation; genetics; epigenetics; substance use; mental
+   health
+ER
+
+PT J
+ER
+
+PT J
+DE epigenetics; lupus
+ID LONG NONCODING RNAS; NEUTROPHIL EXTRACELLULAR TRAPS; WIDE DNA
+   METHYLATION; CD4(+) T-CELLS; GENE-EXPRESSION; HUMAN-DISEASE; IN-VIVO;
+   PATHOGENESIS; RESPONSES; PROTEINS
+ER
+
+PT J
+DE AID; B cell; class switch DNA recombination; epigenetics;
+   immunoglobulin; memory B cell; plasma cell; somatic hypermutation; V(D)J
+   recombination
+ID SWITCH DNA RECOMBINATION; AID; EXPRESSION
+ER
+
+PT J
+DE Epigenetics; Methylation; Breast cancer; Iran
+ID ESTROGEN-RECEPTOR-ALPHA; TUMOR-SUPPRESSOR GENE; PROMOTER
+   HYPERMETHYLATION; METHYLATION STATUS; POOR-PROGNOSIS; EXPRESSION;
+   ASSOCIATION; RASSF1A; CARCINOMA; REGION
+ER
+
+PT J
+DE DNA methylation; Epigenetics; Multiple sclerosis; Methylocytosine;
+   Autoimmunity
+ID PERIPHERAL-BLOOD; RHEUMATOID-ARTHRITIS; PROMOTER-IV; GENOME; RISK;
+   PATHOGENESIS; EXPRESSION; SUSCEPTIBILITY; EPIGENETICS; MICRORNAS
+ER
+
+PT J
+DE evolution; epigenetics; prokaryotes; eukaryotes; mammals; diseases
+ID TUMOR-SUPPRESSOR GENES; WIDE DNA METHYLATION; ESCHERICHIA-COLI; HISTONE
+   DEACETYLASE; CYTOSINE METHYLATION; CHROMATIN PROTEIN; BINDING PROTEIN;
+   CANCER; SEQA; DISEASE
+ER
+
+PT J
+DE developmental trajectory; early developmental programming; epigenetics;
+   stress
+ID RECEPTOR GENE NR3C1; IOWA ADOPTEE SAMPLE; CHILD SEX ABUSE;
+   GLUCOCORTICOID-RECEPTOR; DNA METHYLATION; SOCIOECONOMIC POSITION;
+   PRENATAL EXPOSURE; BIRTH-WEIGHT; HUMAN BRAIN; DEPRESSION
+ER
+
+PT J
+ID GLUCOCORTICOID-RECEPTOR GENE; PITUITARY-ADRENAL AXIS; DNA METHYLATION;
+   NEUROBEHAVIORAL OUTCOMES; BEHAVIORAL EPIGENETICS; MATERNAL-CARE; STRESS;
+   EXPOSURE; HUMANS; DEPRESSION
+ER
+
+PT S
+ER
+
+PT J
+DE Chronic disease; epigenetics; global health; migration
+ER
+
+PT J
+DE Epigenetics; Learning; Physical exercise; School staff; Stress
+ID EARLY-LIFE STRESS; DNA METHYLATION; SYNAPTIC PLASTICITY;
+   PHYSICAL-FITNESS; MEMORY FORMATION; ACADEMIC-ACHIEVEMENT; BDNF GENE;
+   MECHANISMS; BRAIN
+ER
+
+PT J
+DE Epigenetics; identity; inheritance; intergenerational responsibility;
+   rights and duties
+ER
+
+PT J
+ER
+
+PT J
+DE epigenetics; fibrosis; methylation; systemic sclerosis
+ID TRANSLOCATION TET
+ER
+
+PT J
+ER
+
+PT J
+DE autism; neuroimmune interactions; epigenetics; monocytes; cytokines
+ER
+
+PT J
+ER
+
+PT J
+DE biomarkers; DNA methylation; epigenetics; hepatocellular carcinoma;
+   liver cancer; targeted therapy
+ID PROMOTER METHYLATION; GENOME; TUMORS
+ER
+
+PT J
+ER
+
+PT J
+DE mitochondrial epigenetics; mitoepigenetics; DNA methylation; DNA
+   hydroxymethylation; mtDNMT1; mtDNA
+ID DNA; METHYLATION; TRANSCRIPTION; DISEASE; SHOWS
+ER
+
+PT J
+ID CPG-BINDING PROTEIN-2; RETT-SYNDROME; METHYLATION; DNA; GENOME; MECP2
+ER
+
+PT J
+DE Darwinism; epigenetics; evolution; genetics; Lamarck
+ID EVOLUTIONARY-THEORY NEED; RETHINK
+ER
+
+PT J
+DE epigenetics; epigenotype; modelling; systems biology
+ER
+
+PT J
+ER
+
+PT J
+DE histone; acetylation; epigenetics; cancer
+ID RNA-POLYMERASE-II; STEM-CELLS; CHROMATIN; DIFFERENTIATION; DEMETHYLASE;
+   LEUKEMIA; RECRUITMENT; INHIBITION; ABSENCE; GENES
+ER
+
+PT J
+DE epigenetics; Lamarck; Darwin; natural selection; environment; review
+ID DNA METHYLATION PROFILE; ADAPTIVE EVOLUTION; TRANSGENERATIONAL
+   INHERITANCE; NONGENETIC INHERITANCE; COMPLEX TRAITS; MUTATION;
+   MECHANISMS; SELECTION; FINCHES; GENOME
+ER
+
+PT J
+DE Sirtuins; Spondyloarthritis; Cytokines; Epigenetics
+ID SIRTUIN 1; OSTEOARTHRITIS; EXPRESSION
+ER
+
+PT J
+DE epigenetics; behaviour; Gender; Butler; embodiment; genetics; culture;
+   transgender; performativity; Feinberg
+ER
+
+PT J
+DE 'The Four Year Old Girl'; poetry; Epigenetics; Michael Byers; amateur
+   poetry; Angelman Syndrome; disability; Mei-mei Berssenbrugge
+ID CELLS; METHYLATION; HISTORY
+ER
+
+PT J
+DE Plasmonic biosensors; Gold nanostars; DNA methylation; Peptide nucleic
+   acid; Plasmon coupling; Epigenetics
+ID DNA METHYLATION; GENE-EXPRESSION; TRANSCRIPTION; NANOPARTICLES; COMPLEX;
+   ISLANDS; P53; CPG
+ER
+
+PT J
+DE epigenetics revolution; epigenetic determinism; genetic determinism;
+   epigenetics
+ID EVOLUTIONARY-THEORY NEED; DEVELOPMENTAL PLASTICITY; PHENOTYPIC
+   PLASTICITY; GRANDMAS GENETICS; GENES; INHERITANCE; RESEARCHERS;
+   MECHANISMS; EPIGENOME; RETHINK
+ER
+
+PT J
+DE media; epigenetics; metaphors
+ID SYNTHETIC BIOLOGY; DIABETES-MELLITUS; LANDSCAPE; EPIGENOTYPE; LANGUAGE;
+   PROJECT; GENE
+ER
+
+PT J
+ID BIO-OBJECTS; METHYLATION
+ER
+
+PT J
+DE Synthetic epigenetics; Targeted epigenome modification; Zinc fingers;
+   TALE; CRISPR; Cell fate; Epigenetics; Epigenetic editing
+ID ZINC-FINGER PROTEINS; DNMT3A DNA METHYLTRANSFERASE;
+   BECKWITH-WIEDEMANN-SYNDROME; PLURIPOTENT STEM-CELLS; TRANSCRIPTIONAL
+   REGULATORY CIRCUITRY; III EFFECTORS; CRISPR-CAS; HISTONE MODIFICATIONS;
+   CYTOSINE METHYLATION; BINDING SPECIFICITY
+ER
+
+PT J
+DE behavioral epigenetics; neonatal intensive care unit; preterm birth;
+   stress
+ID NEONATAL INTENSIVE-CARE; TO-SKIN CONTACT; DNA METHYLATION; BIRTH-WEIGHT;
+   BRAIN-DEVELOPMENT; MATERNAL-CARE; LIFE; DEPRESSION; PLASTICITY; QUALITY
+ER
+
+PT J
+DE Cell biology; Chemical biology; Chromatin; Epigenetics; Structure
+ER
+
+PT J
+DE kidney cancer; DNA methylation; histone modification; microRNA
+   regulation
+ID RENAL-CELL CARCINOMA; CPG ISLAND METHYLATION; TUMOR-SUPPRESSOR GENE;
+   CLEAR-CELL; PROMOTER HYPERMETHYLATION; DNA HYPERMETHYLATION; MICRORNA
+   EXPRESSION; INHIBITOR; CANCER; PROGRESSION
+ER
+
+PT J
+ER
+
+PT J
+DE abnormality; biological plasticity; epigenetics; race; reproduction
+ID ENVIRONMENTAL EPIGENETICS; HEALTH; GENE; EPIGENOME; BODIES;
+   TECHNOLOGIES; GEOGRAPHIES; BIOPOLITICS; EMBODIMENT; LANDSCAPE
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE HiC; proximity ligation; genome organization; nutrition; epigenetics;
+   estrogen; cohesion; CTCF
+ID NUCLEAR LAMINA INTERACTIONS; GENE-EXPRESSION; CHROMATIN INTERACTOME;
+   HISTONE MODIFICATIONS; DNA METHYLATION; YEAST GENOME; GLOBIN GENES; 3
+   DIMENSIONS; MITOCHONDRIAL; EPIGENETICS
+ER
+
+PT J
+DE Alzheimer dementia; Cognition; Stress; Epigenetics diet; Nutraceuticals
+ID MILD COGNITIVE IMPAIRMENT; SUPPLEMENTATION IMPROVES MEMORY;
+   RISK-FACTORS; MEDITERRANEAN DIET; DNA METHYLATION; INSULIN-RESISTANCE;
+   METABOLIC SYNDROME; GLUCOCORTICOID-RECEPTOR; HISTONE ACETYLATION;
+   ADENOSINE RECEPTORS
+ER
+
+PT J
+DE neuroscience; epigenetics; expectations; critique
+ER
+
+PT J
+DE epigenetics; imaginaries; molecularization; plasticity; responsibility;
+   social policy
+ID ENVIRONMENTAL EPIGENETICS; GENE-REGULATION; EPIDEMIOLOGY; EXPECTATIONS;
+   SOCIOLOGY; NURTURE; INHERITANCE; HEALTH; PROSPECTS; MOSAICISM
+ER
+
+PT J
+DE Bone; DNA methylation; Epigenetics; Homocysteine; Mitochondria
+ID SYSTEMIC-LUPUS-ERYTHEMATOSUS; HISTONE DEACETYLASE INHIBITORS; HUMAN
+   ARTICULAR CHONDROCYTES; MATRIX-METALLOPROTEINASE 13; COLLAGEN
+   CROSS-LINKING; RHEUMATOID-ARTHRITIS; POSTMENOPAUSAL WOMEN; OSTEOBLAST
+   DIFFERENTIATION; DNA METHYLATION; MINERAL DENSITY
+ER
+
+PT J
+DE lncRNAs; Epigenetics; Transcriptional repression; Chromatin
+ID CHROMATIN-MODIFYING COMPLEXES; TUMOR-SUPPRESSOR MICRORNAS;
+   CEREBRAL-ARTERY OCCLUSION; X-CHROMOSOME INACTIVATION; PLURIPOTENT
+   STEM-CELLS; GENOME-WIDE ANALYSIS; DNA METHYLATION; GENE-EXPRESSION;
+   MESSENGER-RNA; HEPATOCELLULAR-CARCINOMA
+ER
+
+PT J
+DE epigenetics; macrophages; toll-like receptors
+ID MICE; PROTEIN
+ER
+
+PT J
+DE differentiation; epigenetics; regeneration; reprogramming; stem cells
+ID PLURIPOTENT STEM-CELLS; DIFFERENTIATION; CARDIOMYOCYTES
+ER
+
+PT J
+DE Epigenetics; genetics; curriculum; instruction; technology; DNA
+ER
+
+PT J
+ID DIRECTED DNA METHYLATION; TRITHORAX GROUP PROTEINS; ABIOTIC STRESS
+   RESPONSES; ARABIDOPSIS-THALIANA; PLANT DEVELOPMENT; TRANSPOSABLE
+   ELEMENTS; SMALL RNAS; NATURAL VARIATION; CYTOSINE METHYLATION; POLYCOMB
+   GROUP
+ER
+
+PT J
+DE schizophrenia; adolescence; risk; epigenetics; brain networks
+ER
+
+PT J
+DE Epigenetics; methylation; acetylation; oral health; dentistry
+ID DNA METHYLATION; MISSING HERITABILITY; GENE-EXPRESSION; MAMMALIAN
+   DEVELOPMENT; CANCER EPIGENETICS; MONOZYGOTIC TWINS; CLEFT-PALATE; HUMAN
+   GENOME; DISEASE; INHERITANCE
+ER
+
+PT J
+DE epigenetics; Meaney; methylation; neuroepigenetics; postgenomics;
+   plasticity; social neuroscience
+ID SOCIOECONOMIC-STATUS; DNA METHYLATION; INDIVIDUAL-DIFFERENCES; PRENATAL
+   EXPOSURE; MATERNAL-CARE; DEVELOPMENTAL PLASTICITY; EVOLUTIONARY
+   SYNTHESIS; CHROMATIN PLASTICITY; STRESS RESPONSES; MEMORY FORMATION
+ER
+
+PT J
+ER
+
+PT J
+DE Epigenetics; Chemical safety; DNA methylation micro RNA
+ID DNA METHYLATION; PRENATAL EXPOSURE; HUMANS
+ER
+
+PT J
+DE Epigenetics; Memigenetics; Cell memory; Definition of epigenetics
+ID GENE-EXPRESSION; IMPRINTED GENES; AGOUTI LOCUS; MOUSE; CHROMATIN;
+   INHERITANCE; CELLS; H3.3; LINE; DNA
+ER
+
+PT J
+ER
+
+PT J
+DE 3,6-dihydrodeoxycytidine derivatives; DNA demethylation; epigenetics;
+   5-hydroxymethylcytosine (5hmC) derivatives; TET-enzymes
+ID DNA DEMETHYLATION; TET PROTEINS; MAMMALIAN DNA; 5-CARBOXYLCYTOSINE;
+   5-METHYLCYTOSINE; METHYLATION; BRAIN; OLIGONUCLEOTIDES; NUCLEOSIDES;
+   CONVERSION
+ER
+
+PT J
+DE DNA methylation; exercise epigenetics; maternal environment; offspring
+   health
+ID FETOPLACENTAL GROWTH; REGULAR EXERCISE; PREGNANCY; GENE
+ER
+
+PT J
+DE checkpoint blockade; epigenetics; immune evasion; immunotherapy; PD-1;
+   PD-L1
+ID CANCER; ESCAPE; EXPRESSION; 5-AZACYTIDINE; MECHANISMS; MELANOMA
+ER
+
+PT S
+ER
+
+PT S
+DE Epigenetics; Ecology; Phenotypic variation
+ID DNA METHYLATION PATTERNS; TRANSPOSABLE ELEMENTS; SPARTINA POACEAE;
+   TRANSGENERATIONAL ACTIONS; HISTONE MODIFICATIONS; ACQUIRED CHARACTERS;
+   PASSER-DOMESTICUS; GENE-EXPRESSION; HOUSE SPARROWS; INHERITANCE
+ER
+
+PT J
+DE epigenetics; genetics; gene-environment interaction
+ID UNCERTAINTY; DISEASE
+ER
+
+PT J
+DE epigenetics; promise; novelty; social science; cancer; methylation
+ID SCIENCE-AND-TECHNOLOGY; PUBLIC SOCIOLOGY; DEVELOPMENTAL ORIGINS; DNA
+   METHYLATION; ADULT DISEASE; HUMAN BRAIN; HEALTH; BIOLOGY; CANCER;
+   NEUROSCIENCE
+ER
+
+PT J
+DE epigenetics; multi-stability; steady state
+ID COVALENT MODIFICATION; IN-VIVO; METHYLATION; MODEL; MEMORY; CELLS;
+   ACTIVATION; EMERGENCE; CIRCUITS; SYSTEMS
+ER
+
+PT J
+ID HUMAN PANCREATIC-ISLETS; VARIANT
+ER
+
+PT J
+DE Anorexia; Epigenetics; Dopamine; DRD2; DAT1; Proopiomelanocortin
+ER
+
+PT J
+ID YEAST SURFACE DISPLAY; SYNTHETIC ANTIBODIES; H3; HETEROCHROMATIN;
+   IDENTIFICATION; METHYLATION; LIBRARIES; GENOME; DOMAIN; MOUSE
+ER
+
+PT J
+DE Epigenetics; Biomarkers; Diagnostics; Preclinical; Clinical; Drug
+   discovery
+ER
+
+PT J
+ER
+
+PT J
+DE adaptive evolution; domestication; psychobiology; cultural epigenetics
+ER
+
+PT J
+ID TEMPERAMENT; EXPRESSION; MOTHERS
+ER
+
+PT J
+ER
+
+PT J
+DE epigenetics; gene; behavioral epigenetics; memory; schizophrenia
+ID MEMORY FORMATION; DNA-METHYLATION; HUMAN GENOME; MECHANISMS; GENE;
+   SCHIZOPHRENIA; PSYCHOSIS; BRAIN; PLASTICITY; BIOLOGY
+ER
+
+PT J
+ID METHYLATION STATUS; PROMOTER; PCR
+ER
+
+PT J
+ER
+
+PT S
+DE genetics; gene-environment interaction; socioeconomic status; life
+   course; embodiment; health behavior; nature-nurture controversy;
+   postgenomics
+ID POSTTRAUMATIC-STRESS-DISORDER; DNA METHYLATION; SOCIOECONOMIC-STATUS;
+   PRENATAL EXPOSURE; GLUCOCORTICOID-RECEPTOR; DEVELOPMENTAL ORIGINS;
+   MEDICAL SOCIOLOGY; HEALTH; LIFE; EPIDEMIOLOGY
+ER
+
+PT J
+DE homeoproteins; Otx2; axonal transport; trans-synaptic; exosomes; PVs;
+   epigenetics
+ER
+
+PT J
+ER
+
+PT J
+DE DNA methylation; environmental factors; epigenetics; histone
+   modification; inflammatory bowel diseases
+ID DNA METHYLATION; CROHNS-DISEASE; ULCERATIVE-COLITIS; T-CELLS; GENOME;
+   METHYLTRANSFERASE; INHERITANCE; CHROMATIN; MOUSE; SUSCEPTIBILITY
+ER
+
+PT J
+DE Chromatin; Epigenetics; Gene transcription; Inflammatory bowel disease;
+   Inflammation
+ID HISTONE DEACETYLASE INHIBITOR; INFLAMMATORY-BOWEL-DISEASE; MAMMALIAN DNA
+   METHYLTRANSFERASES; SUBEROYLANILIDE HYDROXAMIC ACID;
+   SYSTEMIC-LUPUS-ERYTHEMATOSUS; CPG ISLAND HYPERMETHYLATION; HEPATIC
+   STELLATE CELLS; GENE-SPECIFIC CONTROL; KAPPA-B RECRUITMENT;
+   ULCERATIVE-COLITIS
+ER
+
+PT J
+ER
+
+PT J
+DE epigenetics; developmental psychopathology; phases of development;
+   genetics; clinical child psychology
+ID GENE-ENVIRONMENT INTERACTIONS; EARLY-LIFE STRESS; DNA-METHYLATION;
+   GLUCOCORTICOID-RECEPTOR; HISTONE ACETYLATION; MATERNAL-BEHAVIOR; MEMORY
+   FORMATION; DEPRESSION; EXPRESSION; MODERATION
+ER
+
+PT J
+ER
+
+PT J
+ID DNMT3A DNA METHYLTRANSFERASE; TRANSFORMED-CELLS; METHYLATION; DOMAIN
+ER
+
+PT J
+ER
+
+PT J
+DE epigenetics; molecularisation; ethnography; embedded body; biosociality
+ID DISEASE; BRAIN; LIFE; HYPERMETHYLATION; ANTHROPOLOGY; SOCIOLOGY;
+   ORGANISM; POLITICS; CULTURE; HEALTH
+ER
+
+PT J
+ID PLASTICITY; CANCER; MODEL
+ER
+
+PT J
+DE Chromosomal structure; colloidologist; epigenetics; Lysenko;
+   macromolecules
+ID EPIGENETICS; BIOLOGY
+ER
+
+PT J
+ID DNA METHYLATION; ARABIDOPSIS; RETROTRANSPOSITION; GENETICS
+ER
+
+PT J
+DE Epigenetics; waddington; history; epigenetic landscape; canalization;
+   DNA methylation; histone modification; noncoding RNA
+ID TRANSCRIPTIONALLY ACTIVE CHROMATIN; MURINE ERYTHROLEUKEMIA-CELLS;
+   BINDING PROTEIN MECP2; EMBRYONIC STEM-CELLS; DOUBLE-STRANDED-RNA; MOUSE
+   H19 GENE; DNA METHYLTRANSFERASE; CAENORHABDITIS-ELEGANS; DE-NOVO;
+   CHROMOSOMAL PROTEIN
+ER
+
+PT J
+ID MUTATIONS; ARID1A; TET2
+ER
+
+PT J
+DE epigenetics; DNA methylation; histone modification; microRNA;
+   pharmacoepigenetics; epigenetic drugs and chemopreventive agents
+ID BREAST-CANCER CELLS; ESTROGEN-RECEPTOR-ALPHA; HISTONE-DEACETYLASE
+   INHIBITORS; HUMAN PROSTATE-CANCER; DNA METHYLATION; GENE-EXPRESSION;
+   MESSENGER-RNA; INTERINDIVIDUAL DIFFERENCES; TRANSCRIPTIONAL ACTIVATION;
+   EPIGENETIC MECHANISMS
+ER
+
+PT J
+DE companion diagnostics; epigenetics; loss of imprinting; next-generation
+   sequencing; technology
+ID CYTOSINE METHYLATION; HUMAN CANCER; 5-METHYLCYTOSINE CONTENT;
+   TRANSPOSABLE ELEMENTS; HUMAN GENOME; HUMAN-CELLS; TUMOR RISK; WIDE;
+   GENE; HYPOMETHYLATION
+ER
+
+PT J
+DE biosensors; enzymes; epigenetics; FRET; nanoparticles
+ID RESONANCE ENERGY-TRANSFER; MODIFYING ENZYMES; ANACARDIC ACID; ASSAY;
+   EPIGENETICS; INHIBITORS; DISEASE; KINASE; P300; ASSEMBLIES
+ER
+
+PT J
+DE Epigenetics; Chromatin; Stress responsivity; Behavior;
+   Hypothalamic-pituitary-adrenal axis
+ID POSTTRAUMATIC-STRESS-DISORDER; GYRUS GRANULE NEURONS; NEURAL-IMMUNE
+   INTERACTIONS; RECEPTOR-ALPHA EXPRESSION; MEDIAL PREOPTIC AREA;
+   EARLY-LIFE STRESS; C-FOS INDUCTION; GLUCOCORTICOID-RECEPTOR; DNA
+   METHYLATION; MATERNAL-CARE
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE Epigenetics; Drosophila; diet; longevity
+ID DNA METHYLATION; DROSOPHILA; RESTRICTION; ENVIRONMENT; EPIGENOME
+ER
+
+PT J
+ID METHYLATION; HYPOMETHYLATION; EPIGENOME; CELLS
+ER
+
+PT J
+DE demethylation; DNA methylation; DNA modification; epigenetics;
+   hydroxymethylcytosine
+ID METHYLATION; EPIGENETICS; 5-HYDROXYMETHYLCYTOSINE; 5-METHYLCYTOSINE;
+   OXIDATION; PRODUCTS; ANALOGS
+ER
+
+PT S
+DE epigenetics; neuropsychiatric; neural networks
+ID SCHIZOPHRENIA; HEALTH; BRAIN
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE epigenetics; epimutations; imprinting disorders
+ID BECKWITH-WIEDEMANN-SYNDROME; IN-VITRO FERTILIZATION; INTRACYTOPLASMIC
+   SPERM INJECTION; ABERRANT DNA METHYLATION; IMPRINTED GENES; PLACENTAL
+   EXPRESSION; ANGELMAN-SYNDROME; SYNDROME BORN; FETAL-GROWTH; TECHNOLOGY
+ER
+
+PT J
+DE Epigenetics; DNA methylation; noncoding RNA; histone modification;
+   histone variant
+ER
+
+PT J
+ER
+
+PT J
+ID DNA METHYLATION; GENE; TRANSCRIPTION; REPRESSION
+ER
+
+PT J
+DE mitochondrial DNA copy number; mtDNA depletion; DNA methylation; cancer
+   epigenetics; folate metabolism; S-Adenosyl methionine (SAM) metabolism
+ID METHYLATED REGIONS TDMS; BREAST-CANCER; EXPRESSION; YEAST
+ER
+
+PT J
+DE epigenetics; miRNA; histones; DNA methylation; cancer
+ER
+
+PT J
+ID MIGRAINE; ADOLESCENTS
+ER
+
+PT J
+ID CANCER
+ER
+
+PT J
+ER
+
+PT J
+DE presbycusis; hair cells; organ of corti; DNA methylation; histone
+   modifications; deafness
+ID FACIOSCAPULOHUMERAL MUSCULAR-DYSTROPHY; BECKWITH-WIEDEMANN-SYNDROME;
+   RECOMBINANT HUMAN DNA; DE-NOVO METHYLATION; MONOZYGOTIC TWINS
+   DISCORDANT; CPG ISLAND METHYLATION; INNER-EAR; HISTONE DEACETYLASE;
+   BETA-CATENIN; CYTOSINE-5 METHYLTRANSFERASE
+ER
+
+PT J
+ID DNA METHYLATION; INHERITANCE
+ER
+
+PT J
+DE maternal nutrition; epigenetics; imprinting; methylation; acetylation;
+   DNA; histones; expression; behavior; stress; glucocorticoid;
+   hypothalamic-pituitary-adrenal; glucose; diabetes; metabotomics;
+   reproduction; development; diet; mouse; rat; fox; human; agouti; axin;
+   star; phenotype; genotype; GATACCA
+ID PROSTATE-CANCER CELLS; CPG ISLAND HYPERMETHYLATION; AGOUTI
+   GENE-EXPRESSION; TRANSGENIC MICE; IN-VITRO; HUMAN RHABDOMYOSARCOMAS;
+   TRANSCRIPTION FACTORS; CALORIC RESTRICTION; MATERNAL-BEHAVIOR;
+   MONOZYGOTIC TWINS
+ER
+
+PT J
+DE epigenetics; DNA methylation; gene silencing
+ID DNA METHYLATION; HISTONE MODIFICATIONS; TRANSPOSABLE ELEMENT; NONCODING
+   RNAS; GENOME; METHYLTRANSFERASE; EPIGENOMICS; MAIZE; HETEROCHROMATIN;
+   TRANSCRIPTION
+ER
+
+PT J
+DE epigenetics; DNA methylation; inheritable changes in gene expression;
+   transgenerational carcinogenesis; environmental influence on memory
+   formation
+ID REPRESENTATIONAL DIFFERENCE ANALYSIS; SEXUAL-DIFFERENTIATION; CANCER
+   EPIGENETICS; MATERNAL-BEHAVIOR; HUMAN-DISEASE; CPG ISLANDS; CHROMATIN;
+   GENOME; MEMORY; METHYLTRANSFERASES
+ER
+
+PT J
+ER
+
+PT J
+DE epigenetics; imprinting; histone modifications; chromosomal silencing;
+   heterochromatin; PcG proteins; forum domains; RNA interference; siRNA;
+   miRNA; RISC; RITS; mobile elements
+ID DOUBLE-STRANDED-RNA; IMPRINTING CONTROL REGION; TRITHORAX GROUP
+   PROTEINS; DNA METHYLATION; HISTONE H3; DROSOPHILA-MELANOGASTER;
+   CHROMATIN-STRUCTURE; REMODELING COMPLEX; GENE-EXPRESSION;
+   HETEROCHROMATIN FORMATION
+ER
+
+PT J
+ID METHYLATION
+ER
+
+PT J
+DE stem cells; epigenetics; chromatin; histone modification; DNA
+   methylation; gene expression
+ID DEACETYLASE INHIBITOR TRICHOSTATIN; DNA CYTOSINE-5 METHYLTRANSFERASES;
+   HISTONE LYSINE METHYLATION; DE-NOVO METHYLATION; CPG-BINDING DOMAIN;
+   TRANSCRIPTIONAL REGULATION; MUSCLE DIFFERENTIATION; X-CHROMOSOME;
+   IN-VITRO; PROTEIN METHYLTRANSFERASE
+ER
+
+PT J
+ID REMODELING FACTOR; DNA-REPLICATION; HISTONE; COMPLEX; CELLS; H3;
+   INHERITANCE; EXCHANGE; REPAIR; ISWI
+ER
+
+PT S
+DE acetylation; biomarker; cancer detection; epigenetics; methylation;
+   microarray; prevention; risk assessment
+ID ESOPHAGEAL ADENOCARCINOMA; PROMOTER HYPERMETHYLATION; METHYLATION; DNA;
+   ACETYLTRANSFERASES; TUMORIGENESIS; PROGRESSION; CHROMATIN; PATTERNS;
+   DELETION
+ER
+
+PT J
+DE epigenetics; meeting review; imprinting
+ER
+
+PT J
+ID DNA METHYLATION; DROSOPHILA-MELANOGASTER; INHERITANCE
+ER
+
+PT J
+DE acid phosphatase; dominance; Drosophila malerkotliana; epigenetics;
+   heterodimeric allozymes; subunit interaction
+ID MOLECULAR MARKERS; HETEROSIS; MAIZE; COMPLEMENTATION
+ER
+
+PT S
+DE dynamic systems; epigenetics; gene-centrism; gene regulation
+ER
+
+PT S
+DE operon model; prion; post-genomic; regulatory mechanisms
+ID YEAST
+ER
+
+PT S
+DE development; epigenesis; epigenetics; gene-centrism; genomic context;
+   genotype; phenotype; preformationism; Waddington
+ER
+
+PT S
+DE epigenetics; reproduction; Weismannism
+ER
+
+PT J
+DE cancer epigenetics; chromatin; polycomb; trithorax
+ID CHROMOSOME-BINDING-SITES; DROSOPHILA-MELANOGASTER; HISTONE DEACETYLASE;
+   ACUTE-LEUKEMIA; CELL-GROWTH; SET DOMAINS; HUMAN ALL-1; GROUP GENE;
+   PROTEIN; POLYCOMB
+ER
+
+EF

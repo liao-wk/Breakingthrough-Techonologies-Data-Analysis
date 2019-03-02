@@ -1,0 +1,651 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+ID OUTCOMES
+ER
+
+PT J
+DE Eminescu; poetry translation; exegesis; Spanish versions; Lambert-Van
+   Gorp model
+ER
+
+PT J
+DE Translation; Self-translation; Mythology; Finnegans Wake;
+   Translatability; Reception; Joyce; Punning; Latin Anglicus
+ER
+
+PT J
+DE Leibniz; Apocatastasis; Borges; allegory; concept; universal library
+ER
+
+PT J
+DE Shakespeare; sonnets; translation; Europe
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE corpus-based interpreting studies; simultaneous interpreting;
+   translation universals; explicitation; simplification
+ID TRANSLATION
+ER
+
+PT J
+DE second language (L2) writing; translation universals; mental
+   translation; comparable corpora; corpus linguistics; journal abstract;
+   L2 writers texts
+ID 1ST LANGUAGE; KNOWLEDGE; CORPUS; 2ND-LANGUAGE
+ER
+
+PT J
+DE Amazigh language; machine translation; universal networking language;
+   UNL; Amazigh-UNL dictionary; inflectional paradigm; subcategorisation
+   frame; universal word; Morocco
+ER
+
+PT J
+DE collocation; translational business English; corpus-driven approach;
+   translation universals; contrastive analysis
+ER
+
+PT J
+DE Image; Enlightenment Historiography; Universal History
+ER
+
+PT J
+DE the Italian language; the Serbian language; language for specific
+   purposes (LSP) translation; translation universals; economy
+ER
+
+PT J
+DE manner of motion; 'Thinking for Translating'; translation techniques;
+   translation universals; corpus linguistics
+ID PARALLEL CORPUS; ENGLISH; SPEAKING; SPANISH
+ER
+
+PT J
+DE universality; community; anthropological difference; translation; unity;
+   multiverse
+ER
+
+PT J
+ER
+
+PT J
+DE hypercyclic operator; translation operator
+ER
+
+PT J
+DE Thurston geometries; <(SL2(R))over tilde> geometry; density of ball
+   packing under space group; regular prism tiling; volume in <(SL2(R))over
+   tilde> space
+ID SPACE; GEOMETRIES; SPHERES
+ER
+
+PT J
+DE linguistic universals; comparisons; matchings; the Bible text; the
+   languages of Dagestan; the languages of the Caspian region; paronymy;
+   the theory of translation
+ER
+
+PT J
+ER
+
+PT B
+ER
+
+PT S
+DE Parallel corpus; Translation studies; Translation teaching; Foreign
+   language
+ER
+
+PT J
+DE translational hypothesis; corpus-based; statistical; semantic
+   differences; semantic field; translation universals; inchoativity
+ID MARKERS; PROSODY
+ER
+
+PT J
+DE Biblioteca Universal; translation; classics dissemination
+ER
+
+PT J
+ID TERMINATION
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE Design; algorithms; performance; languages; machine translation; UNL;
+   enconverter; deconverter; morphological generator; POS tagger; hybrid
+   approach
+ER
+
+PT J
+DE Simplification; universals; sentence length; interlingual translation;
+   intralingual translation
+ER
+
+PT B
+DE machine translation; Universal Networking Language (UNL); inter-language
+   translation; natural language processing; encoding
+ER
+
+PT J
+DE Biblioteca Universal; translation; classics dissemination; Greek and
+   Latin Literature
+ER
+
+PT B
+DE UNL system; Universal Networking Language (UNL); IAN; EnCo; EUGENE; DeCo
+ER
+
+PT S
+ID RESOLUTION; FORM
+ER
+
+PT J
+DE translation; untranslatables; sophistics; homonymy; performativity;
+   French theory; Austin; Derrida; Globish; human sciences; diversity;
+   consistent relativism
+ER
+
+PT J
+DE kernel methods; universal kernels; characteristic kernels; density;
+   translation-invariant kernels; weighted polynomial kernels; 41A30; 68T05
+ID BANACH-SPACES; L(1) NORM; THEOREM; SETS
+ER
+
+PT J
+DE translation universal; psycholinguistic model; translator's cognitive
+   style; dominant channel of perception
+ER
+
+PT J
+DE translation universal; corpus; explicitation; discourse markers
+ER
+
+PT J
+DE corpus-based approaches; state-of-the-art research; new types of
+   translation data; interpreting and subtitling
+ER
+
+PT J
+DE contrastive data; corpus-based translation studies; cognitive theory of
+   translation
+ID CORPUS LINGUISTICS; LANGUAGE; CORPORA
+ER
+
+PT J
+DE explicitation; general tendencies; translation universals; corpus-based
+   translation studies; translation and cognition
+ER
+
+PT J
+DE Bessel convolution; Delsarte translation operator; Fourier-Bessel
+   transformation; Radial basis function network; Universal approximation;
+   Wiener tauberian theorems
+ID UNIVERSAL APPROXIMATION; NEURAL-NETWORKS
+ER
+
+PT J
+ER
+
+PT J
+DE Bible translation; translation history; oral-written interfaces;
+   orality; oral versus literate cultures
+ER
+
+PT J
+DE Neuro-QoL; Translation methodology; Linguistic validation
+ID FUNCTIONAL ASSESSMENT
+ER
+
+PT J
+DE Screw translation; Hyperbolic 4-space; Horoball; Cusp; Margulis region;
+   Continued fractions
+ID MOBIUS TRANSFORMATIONS
+ER
+
+PT S
+DE Knowledge representation and reasoning; Semantic data models;
+   Knowledge-based natural language processing
+ID UNIVERSAL NETWORKING LANGUAGE
+ER
+
+PT J
+DE translation universals; corpora; adjective position; simplification;
+   untypical collocations
+ID ENGLISH
+ER
+
+PT S
+ER
+
+PT J
+ID TEXTS
+ER
+
+PT S
+DE Universal Networking Language; Amazigh language; Universal Word; Verb
+   morphology; Inflectional paradigms
+ER
+
+PT J
+DE Bessel convolution; Delsarte translation operator; Fourier-Bessel
+   transformation; Radial basis function network; Universal approximation
+ER
+
+PT J
+DE translation universals; explicitation; discourse connectives; causality;
+   corpus-based translation studies
+ID COHERENCE RELATIONS; CAUSAL CONNECTIVES; FRENCH
+ER
+
+PT B
+DE module; program; code-translation; NUSA; form of software
+ER
+
+PT J
+DE cohesion; shifts; news translation; news story; event structure
+ER
+
+PT J
+DE universality; rational and meromorphic approximation; Vitushkin's
+   theorem; 30E10; 30K99; 30D30
+ER
+
+PT J
+ER
+
+PT J
+DE interlingual translation; Natural Semantic Metalanguage; reductive
+   paraphrase; semantic analysis; universal semantic primes;
+   untranslatability
+ER
+
+PT J
+DE Universal entire functions; Punctured plane; Universal sequence of
+   operators; Hypercyclic functions; Boundedness; Frequent universality
+ID FREQUENTLY HYPERCYCLIC OPERATORS; HOLOMORPHIC-FUNCTIONS; VECTORS;
+   THEOREM; SETS
+ER
+
+PT S
+DE Knowledge Discovery; Linguistic Data Mining; Knowledge Representation;
+   Semantic Networks; Machine Translation
+ID DATR; MORPHOLOGY
+ER
+
+PT B
+DE Network Address Translation
+ER
+
+PT S
+DE obfuscation; assembly code; intermediate representation; low-level
+   analysis; alias analysis
+ER
+
+PT S
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE Hypercyclic operators; Mixing operators; Disjoint mixing
+ID HYPERCYCLIC OPERATORS; BANACH-SPACES; EXISTENCE
+ER
+
+PT J
+ID SMALL RIBOSOMAL-SUBUNIT; SACCHAROMYCES-CEREVISIAE; MESSENGER-RNA;
+   NUCLEAR GENE; PROTEIN-SYNTHESIS; ESCHERICHIA-COLI; ATP SYNTHASE;
+   PLASMODIUM-FALCIPARUM; PARKINSONS-DISEASE; ACTIVATOR PROTEINS
+ER
+
+PT J
+DE Interpolation; Prescribed values; Universal Taylor series; Universal
+   functions with respect to translations and derivatives; Hypercyclic
+   operators
+ID DOUBLY CONNECTED DOMAINS; TAYLOR-SERIES; HOLOMORPHIC-FUNCTIONS;
+   OPERATORS; SPACES; ZEROS
+ER
+
+PT J
+ER
+
+PT J
+ID UPDATE SEMANTICS; VIEWS
+ER
+
+PT S
+DE Thai ASR; mobile speech; speech translation
+ER
+
+PT J
+DE Universal functions; boundedness on every line
+ID HOLOMORPHIC-FUNCTIONS; OPERATORS; SETS
+ER
+
+PT J
+DE Jean Laurent (1816-86); universal language; geometry; cultural
+   translation; Spain; vagueness; pragmatism
+ER
+
+PT J
+DE Stiffness; Parallel manipulator; Constrained forces
+ID KINEMATICS; PKMS
+ER
+
+PT J
+DE variant genetic codes; translation termination; ciliated protozoa;
+   eukaryotic translation termination factor eRF1
+ID RELEASE FACTORS; GENETIC-CODE; EUPLOTES; CELLS
+ER
+
+PT J
+DE Multiset rewriting; Universal computations; Small register machines; P
+   systems; Symport; Antiport
+ID P-SYSTEMS
+ER
+
+PT S
+DE Universal solution; Nonlinear elasticity; Cosserat shell; Micropolar
+   shell
+ER
+
+PT J
+DE explicitation; tendencies in translation; universal hypotheses; web
+   localization; corpus-based translation studies; comparable corpora
+ID CORPORA
+ER
+
+PT J
+DE explicitation; implicitation; connective; addition; omission; shift;
+   translation universals
+ID ENGLISH
+ER
+
+PT J
+DE Platonism; A. Berman; Translation; Language; Signifier; Signified;
+   Letter; Sense; Multiplicity
+ER
+
+PT J
+DE EnConverter; DeConverter; Machine Translation; Universal Networking
+   Language
+ER
+
+PT S
+DE Anaphora; Zero Pronominal Anaphora; Machine Learning; Translationese;
+   Translation Theory; Explicitation Universal
+ER
+
+PT S
+DE Translation studies; Malay-English translation; comparable corpus
+ER
+
+PT J
+DE Translation; Emic/etic; Anthropological theory; Ethnography; Multiagent
+   computer models
+ER
+
+PT J
+DE quality of life; cross-cultural; translation; validation; universal
+   Spanish; gastric cancer
+ID CROSS-CULTURAL RESEARCH; FUNCTIONAL ASSESSMENT; TRANSLATION; INSTRUMENT;
+   ISSUES; ORGANIZATION; DIMENSIONS; PSYCHOLOGY; SURVIVORS; AMERICAN
+ER
+
+PT J
+DE explicitation; implicitation; translation universals; translation theory
+ID EXPLICITNESS
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE Genetic counseling; Diversity; Ethics; Universal approach
+ER
+
+PT J
+DE International; Transnational; Core competencies; Cultural differences;
+   Global expansion
+ER
+
+PT J
+DE Vector valued reproducing kernel Hilbert spaces; universal
+   approximation; operator valued feature maps
+ER
+
+PT J
+DE propositional quantification; IPC(2)
+ID CLASSICAL NATURAL DEDUCTION; STRONG NORMALIZATION
+ER
+
+PT J
+DE Universal common ancestor; Domains of life; Translation initiation
+   factors; mRNA structure; Initiator tRNA
+ID PROKARYOTIC PROTEIN-SYNTHESIS; TRANSFER-RNA METHIONINE; ARCHAEON
+   SULFOLOBUS-SOLFATARICUS; LEADERLESS MESSENGER-RNA; FACTOR IF2;
+   NUCLEOTIDE-SEQUENCE; FUNCTIONAL-ANALYSIS; ALPHA-SUBUNIT; GAMMA-SUBUNIT;
+   BETA-SUBUNIT
+ER
+
+PT J
+ID TRANSLATION; SYSTEM; INITIATION
+ER
+
+PT J
+ER
+
+PT J
+DE applied translation; metaphors; equivalence; close translation
+ER
+
+PT S
+DE translation; proxy server; URL web-proxy; security; accessibility
+ER
+
+PT J
+DE explicitness; explicitation; translation; interpreting; translation
+   universals
+ID CONTEXT
+ER
+
+PT J
+ER
+
+PT J
+DE eukaryotic release factor; genetic code deviation; litostome ciliate;
+   stop codon reassignment; translation termination
+ID STOP CODON RECOGNITION; RELEASE FACTOR ERF1; EUKARYOTIC TRANSLATION
+   TERMINATION; MACRONUCLEAR DNA MOLECULE; SACCHAROMYCES-CEREVISIAE;
+   EUPLOTES-OCTOCARINATUS; YEAST; TETRAHYMENA; PARAMECIUM; EVOLUTION
+ER
+
+PT J
+DE edeine; fMet-tRNA; GE81112; kasugamycin; mRNA; orthosomycin;
+   oxazolidinones; pactamycin; thiostrepton; trimethoprim
+ID 30S RIBOSOMAL-SUBUNIT; ESCHERICHIA-COLI RIBOSOMES; MESSENGER-RNA
+   TRANSLATION; ELONGATION-FACTOR-G; CRYSTAL-STRUCTURE; STRUCTURAL BASIS;
+   FACTOR IF2; OXAZOLIDINONE ANTIBIOTICS; PEPTIDE DEFORMYLASE; BINDING-SITE
+ER
+
+PT J
+ID FINITE-SEMIGROUPS; GRAPH ALGEBRAS; VARIETIES; QUASIVARIETIES;
+   PSEUDOVARIETIES; CONGRUENCES; IDENTITIES; COMPLEXITY; LATTICE; BASES
+ER
+
+PT J
+DE Hypercyclic operator; Holomorphic functions; Translation and dilation
+   operators; Smoothness of functions; Baire's category theorem; Algebraic
+   genericity
+ER
+
+PT J
+DE translation; social science; critique of universalism
+ER
+
+PT J
+DE genetic code; translation; peptidyl-RNA; peptidyl transfer; amphiphiles
+ID PROTEIN-SYNTHESIS; SELF-ORGANIZATION; GENETIC-CODE; ORIGIN; RNA
+ER
+
+PT J
+DE hypercyclic vectors; universal functions
+ID UNIVERSAL FUNCTIONS; THEOREM
+ER
+
+PT J
+DE device conversion; message translation; UMB; universal middleware
+   bridge; home network
+ID HOME NETWORK MIDDLEWARE; INTEROPERABILITY; BRIDGE
+ER
+
+PT J
+ID LEADERLESS MESSENGER-RNAS; 30S RIBOSOMAL-SUBUNITS; C-TERMINAL DOMAIN;
+   ESCHERICHIA-COLI; FACTOR IF2; PROTEIN-SYNTHESIS;
+   SULFOLOBUS-SOLFATARICUS; IN-VIVO; FLUORESCENCE POLARIZATION; GUANOSINE
+   TRIPHOSPHATE
+ER
+
+PT J
+DE hypercyclic operators; Baire Category; type; subgaussian processes
+ID HYPERCYCLIC OPERATORS; HOLOMORPHIC-FUNCTIONS; DENSE
+ER
+
+PT J
+DE density; translation invariant kernels; radial kernels
+ID SETS
+ER
+
+PT J
+DE TT expansion factors; parallel corpus; ANOVA-tests; working language
+   combination direction; readership relations
+ER
+
+PT J
+ER
+
+PT J
+DE universal function; arakelian set; bounded holomorphic function;
+   inscribed radius; infinite-order differential operator
+ID HOLOMORPHIC-FUNCTIONS; UNIFORM APPROXIMATION; OPERATORS; VECTORS
+ER
+
+PT B
+ID FIBER; AMPLIFIER
+ER
+
+PT S
+ID FULL ABSTRACTION; PCF
+ER
+
+PT J
+ID OPTICAL LATTICES; ATOMS
+ER
+
+PT J
+DE community; conflict; consciousness; domination; enunciation; ideology;
+   individuality; institution; meaning; reciprocity; translation;
+   universality; university; usage
+ER
+
+PT J
+ID COMPUTER
+ER
+
+PT J
+ER
+
+PT J
+DE translations; translation methodology; linguistic validation;
+   decentering; cross-cultural comparisons
+ID QUALITY-OF-LIFE; FUNCTIONAL ASSESSMENT; INSTRUMENTS; ADAPTATION;
+   GUIDELINES
+ER
+
+PT J
+DE archaea; leaderless mRNA; translation initiation; translation initiation
+   factors; last universal common ancestor
+ID SULFOLOBUS-SOLFATARICUS P2; LEADERLESS MESSENGER-RNAS;
+   PYROCOCCUS-HORIKOSHII OT3; ELONGATION-FACTOR SELB; PROTEIN-SYNTHESIS;
+   BETA-SUBUNIT; FUNCTIONAL INTERACTION; CRYSTAL-STRUCTURE;
+   ESCHERICHIA-COLI; DOWNSTREAM BOX
+ER
+
+PT J
+ER
+
+PT B
+DE machine translation; sign; genotype; phenotype; syntax; semantics;
+   transfer
+ER
+
+PT B
+ER
+
+PT B
+DE hyperholomorphic B-p,B-q-functions; harmonic majorants
+ER
+
+PT J
+ID ANOSOV-FLOWS; 3-MANIFOLDS; TOPOLOGY; STABILITY
+ER
+
+PT J
+ID TREES; DEGENERATIONS; 3-MANIFOLDS; COMPACT
+ER
+
+PT S
+DE machine translation; variable; invariable; template; universal algorithm
+ER
+
+PT B
+DE multilingual acoustic modeling; data-driven; IPA; multilingual n-gram
+   language modeling
+ER
+
+PT J
+ER
+
+PT S
+DE personal pronouns; inflectional categories; syntactic features; semantic
+   components; agreement; translation; disambiguation
+ER
+
+PT J
+DE spectral set; tiling; orthogonal basis
+ID SETS; RN
+ER
+
+PT J
+DE splicing system; DNA computer; post system
+ID DNA
+ER
+
+PT J
+DE universal Horn class; quasivariety; essentially equational theory;
+   essentially algebraic theory
+ER
+
+EF

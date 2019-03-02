@@ -1,0 +1,873 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE Bio-desalination; Scenedesmus abundans; Total dissolved solids;
+   Immobilized cells
+ID BIOMASS PRODUCTION; NUTRIENT REMOVAL; P-REMOVAL; RED ALGA; WATER;
+   ALGINATE; BIODESALINATION; TOLERANCE; GROWTH; NA+
+ER
+
+PT J
+DE Seawater desalination; Reverse osmosis; Water stress; Desalination
+   energy
+ID REVERSE-OSMOSIS DESALINATION; WATER DESALINATION; CLIMATE-CHANGE;
+   THERMOPHYSICAL PROPERTIES; WASTE-WATER; RO MEMBRANE; FUTURE;
+   TECHNOLOGIES; IMPACTS; EFFICIENCY
+ER
+
+PT J
+DE Seawater desalination; Condenser; Modeling
+ID HUMIDIFICATION; SYSTEM
+ER
+
+PT J
+DE Reverse osmosis seawater desalination system; Virtual reality; Analogue
+   simulation
+ER
+
+PT J
+DE Seawater desalination; Pollution control; Power plant
+ID DESALINATION; CHINA
+ER
+
+PT J
+DE Multi-effect distillation; Sustainable desalination; Renewable energy;
+   Thermocline energy; Universal performance ratio
+ID ALGAL BLOOMS; PERFORMANCE ANALYSIS; HEAT; WATER; CYCLE; ENVIRONMENT;
+   TECHNOLOGY; CHALLENGES; GENERATION; MEDAD
+ER
+
+PT J
+DE Multiple-criteria decision making; MCDM; AHP; ELECTRE; TOPSIS; seawater
+   desalination
+ID WATER DESALINATION; DECISION-MAKING; SELECTION; PLANTS; COST
+ER
+
+PT J
+DE Desalination; Reverse osmosis; Energy recovery; Membranes; Pumps; Energy
+   use; Seawater; Brine; Reuse; Collocation
+ID REVERSE-OSMOSIS; SWRO; RO; PRETREATMENT; PLANTS; WATER
+ER
+
+PT J
+DE Desalination; Energy; Ocean mechanical force; Ocean thermal gradient;
+   Ocean salinity gradient; Sustainability
+ID PRESSURE-RETARDED OSMOSIS; SALINITY-GRADIENT ENERGY; AMMONIA-CARBON
+   DIOXIDE; OF-THE-ART; REVERSE-OSMOSIS; THERMAL-ENERGY; MEMBRANE
+   DISTILLATION; VAPOR COMPRESSION; WASTE-WATER; POWER PRODUCTION
+ER
+
+PT J
+DE Reverse osmosis; Fouling; Pretreatment; Ultrafiltration; Coagulation;
+   Critical flux
+ID REVERSE-OSMOSIS DESALINATION; CAKE RESISTANCE; PRETREATMENT
+   TECHNOLOGIES; ULTRAFILTRATION MEMBRANE; WATER TREATMENT;
+   MICROFILTRATION; PREDICTION; SYSTEMS
+ER
+
+PT J
+DE Seawater desalination; Freezing desalination; Watering parameters;
+   Combined desalination process; LNG cold energy
+ID LNG COLD ENERGY; FREEZE-CONCENTRATION; HEAT-PUMP; SYSTEM
+ER
+
+PT J
+DE Desalination; Non-condensable gas release; Passive vacuum; Solar energy;
+   Specific energy consumption; Vacuum evaporation
+ID NON-CONDENSABLE GASES; OF-THE-ART; WATER DESALINATION; REVERSE-OSMOSIS;
+   DISTILLATION SYSTEM; DRIVEN DESALINATION; CO2 SOLUBILITY;
+   CLIMATE-CHANGE; IMPROVED MODEL; PLANT
+ER
+
+PT J
+DE Forward osmosis; Reverse osmosis; Membrane desalination; Impaired water;
+   Seawater; Brackish water; Economic evaluation
+ID MUNICIPAL WASTE-WATER; SEAWATER DESALINATION; RECOVERY
+ER
+
+PT J
+DE Seawater desalination; Pretreatment; Mathematical modeling; Simulation;
+   Freeze crystallization; Population balance; Parametric sensitivity; SSHE
+ID FREEZE-CONCENTRATION; WATER DESALINATION; AQUEOUS-SOLUTIONS;
+   HEAT-EXCHANGER; SYSTEM; CONSUMPTION; TECHNOLOGY; MECHANISMS; INDUSTRY;
+   PUMP
+ER
+
+PT J
+DE seawater desalination; production cost; feasibility; modeling; long-term
+   scenario
+ID WATER SCARCITY; RO DESALINATION; ENERGY; COST; DEMAND; FUTURE;
+   SUSTAINABILITY; AVAILABILITY; RESOURCES; OPTIONS
+ER
+
+PT J
+DE Decanting centrifuge; Silt; Water quality; Turbidity
+ID REVERSE-OSMOSIS
+ER
+
+PT J
+DE Ocean thermal energy; Thermodynamics; Desalination; Exergy; Flash
+   evaporation
+ID SEAWATER DESALINATION; EXERGY ANALYSIS; PERFORMANCE ANALYSIS;
+   CONVERSION; OSMOSIS; HEAT; DISTILLATION; VAPORIZATION; DESIGN; PLANT
+ER
+
+PT J
+DE Membrane distillation; Zero thermal energy input; Waste-free;
+   Desalination; Feasibility
+ID REVERSE-OSMOSIS DESALINATION; HYDROPHOBIC POROUS MEMBRANES; SEAWATER
+   DESALINATION; ECONOMIC-EVALUATION; SOLAR DESALINATION;
+   ENERGY-CONSUMPTION; RENEWABLE-ENERGY; CAPACITIVE DESALINATION; DRIVEN
+   DESALINATION; EXERGETIC ANALYSIS
+ER
+
+PT J
+DE Core-shell Au@TiO2 nanoparticles; Solar energy; Seawater evaporation;
+   Photocatalytic; Clean water
+ID DESALINATION SYSTEMS; ENERGY-STORAGE; TIO2; AG-AT-TIO2; INTERFACE;
+   POLLUTANT; HEAT; AG
+ER
+
+PT J
+DE Small-scale desalination; reverse osmosis; energy recovery device;
+   statistics
+ID ENERGY RECOVERY DEVICE; SYSTEM; CONSUMPTION; PLANTS; MOTOR; PUMP
+ER
+
+PT J
+DE Seawater desalination; inter-basin diversion; water policy; supply cost;
+   China
+ID SEAWATER DESALINATION; WATER MANAGEMENT; MIDDLE ROUTE; RIVER-BASIN;
+   SOUTH; PROJECT; ENVIRONMENT; IMPACT; SPAIN
+ER
+
+PT J
+ID REVERSE-OSMOSIS DESALINATION; PRESSURE RETARDED OSMOSIS;
+   FUTURE-PROSPECTS; WATER; MEMBRANES; TECHNOLOGY; RECOVERY; PRETREATMENT;
+   PERFORMANCE; CONSUMPTION
+ER
+
+PT J
+DE Vacuum generation; Seawater desalination; Multiple-effect distillation;
+   Low-enthalpy geothermal energy; Brackish water desalination
+ER
+
+PT J
+DE Membrane desalination; Seawater intake systems; Biofouling; Arabian Gulf
+   region
+ID WATER-QUALITY IMPROVEMENT; SAUDI-ARABIA; JEDDAH
+ER
+
+PT J
+DE Membrane distillation; Vacuum membrane distillation module; Solar
+   thermal desalination; Solar collector area
+ID PLANTS
+ER
+
+PT J
+DE Desalination; Hydrate; Reverse osmosis; Membrane; Hydrate-induced Ice
+   Desalination (HIID)
+ID PROGRESSIVE FREEZE-CONCENTRATION; WATER DESALINATION; REMOVAL;
+   TEMPERATURE; PERFORMANCE; TECHNOLOGY; EFFLUENTS; BRINES; FUTURE; ART
+ER
+
+PT J
+DE optimization; reverse osmosis; seawater desalination; simulation;
+   variable power
+ID REVERSE-OSMOSIS DESALINATION; RO SYSTEMS; DESIGN; NETWORKS; ENERGY;
+   PLANTS
+ER
+
+PT J
+DE Freeze desalination; LNG cold energy; Seawater desalination
+ID REVERSE-OSMOSIS DESALINATION; WASTE-WATER TREATMENT; OF-THE-ART;
+   MEMBRANE DISTILLATION; SEA-WATER; ICE; COUNTERWASHERS; DESIGN; SYSTEM;
+   PLANT
+ER
+
+PT J
+DE Desalination; Nuclear; Cogeneration; Economics; CRP
+ID SEAWATER DESALINATION; INTEGRATED MEMBRANE; HEAT-PIPE; SYSTEM;
+   SELECTIVITY
+ER
+
+PT J
+DE Graphene oxide membranes; Graphene oxide framework membrane; Covalent
+   modification; Seawater desalination; Pervaporation
+ID ZEOLITE MEMBRANES; NANOPOROUS GRAPHENE; HYBRID MEMBRANE; GRAPHITE OXIDE;
+   ACETIC-ACID; PERVAPORATION; WATER; SEPARATION; DEHYDRATION; ULTRATHIN
+ER
+
+PT J
+DE Specific energy consumption; Thermodynamic bound; Seawater desalination;
+   Thermal desalination; Reverse osmosis desalination
+ID WATER DESALINATION; REVERSE-OSMOSIS; RO MEMBRANE; HEAT; OPTIMIZATION;
+   TEMPERATURE; RECOVERY; WORK
+ER
+
+PT J
+DE Metal-organic frameworks; Zeolitic imidazolate framework; Seawater
+   desalination; Covalent functionalization
+ID METAL-ORGANIC FRAMEWORK; REVERSE-OSMOSIS; SEPARATION PERFORMANCE;
+   HYDROGEN SELECTIVITY; HIGH PERMEABILITY; ZIF-8 MEMBRANES; FORCE-FIELD;
+   WATER; STABILITY; PERVAPORATION
+ER
+
+PT J
+DE High recovery; SWRO; Low energy; Closed-circuit desalination; RO; Ocean
+   seawater desalination; Desalination; Reverse osmosis; CCD
+ID TECHNOLOGY; RECOVERY; NEED
+ER
+
+PT J
+ID REVERSE-OSMOSIS MEMBRANES; WATER-QUALITY IMPROVEMENT; SAUDI-ARABIA;
+   BORON REMOVAL; FRESH-WATER; CONVENTIONAL PRETREATMENT; SEAWATER
+   DESALINATION; MEDITERRANEAN SEA; PROTEIN-SYNTHESIS; ORGANIC-CARBON
+ER
+
+PT J
+DE Seawater desalination; Economic effects; Input-output analysis; China
+ID WATER DESALINATION; NUCLEAR; PLANTS; SYSTEM; PRICE; COST
+ER
+
+PT J
+DE Seawater; Reverse osmosis; Desalination plants; Operating data;
+   Normalization
+ID REVERSE-OSMOSIS DESALINATION; SEAWATER DESALINATION; WATER COST;
+   OPTIMIZATION; ECONOMICS; SYSTEM
+ER
+
+PT J
+DE Hybrid desalination; Seawater; Freezing; Reverses osmosis; Ice
+   crystallization; Energy consumption
+ID SEA-ICE; PRETREATMENT; FUTURE; BRINE; WATER
+ER
+
+PT J
+DE Nanofiltration; Lower cost; Seawater desalination; Integrated process
+ID REVERSE-OSMOSIS DESALINATION; INTEGRATED MEMBRANE OPERATIONS;
+   PRESSURE-RETARDED OSMOSIS; ION-EXCHANGE-RESINS; OF-THE-ART; BORON
+   REMOVAL; SEA-WATER; ECONOMIC-EVALUATION; SODIUM-CHLORIDE; DISTILLATION
+ER
+
+PT J
+DE Desalination; DBPs; Chlorine; Bromide; Iodide; Toxicity
+ID REVERSE-OSMOSIS MEMBRANE; IODINATED TRIHALOMETHANE FORMATION;
+   N-NITROSODIMETHYLAMINE NDMA; DRINKING-WATER TREATMENT; NATURAL
+   ORGANIC-MATTER; I-THM FORMATION; HALOACETIC ACIDS; CHLORINE DIOXIDE;
+   AQUEOUS-SOLUTIONS; POTASSIUM-PERMANGANATE
+ER
+
+PT J
+DE Microbial desalination cell; Wastewater treatment; Seawater
+   desalination; Bioelectricity; Bioenergy
+ID WASTE-WATER TREATMENT; CHEMICAL-PRODUCTION CELL; ION-EXCHANGE-RESIN;
+   HYDROGEN GAS-PRODUCTION; OF-THE-ART; ELECTRICITY-GENERATION; FUEL-CELL;
+   BIOELECTROCHEMICAL DESALINATION; ELECTROLYSIS DESALINATION; SEAWATER
+   DESALINATION
+ER
+
+PT J
+DE Specific energy consumption; Energy efficiency; Seawater desalination;
+   Brackish water desalination; Reverse osmosis; Desalination; Desalination
+   thermodynamics; Membrane desalination; Specific energy breakdown;
+   Thermodynamic minimum energy of separation; Gibbs free energy
+ID SOLUTION-DIFFUSION-MODEL; SPIRAL WOUND MODULES; CONCENTRATION
+   POLARIZATION; MASS-TRANSFER; CROSS-FLOW; COMPOSITE MEMBRANES;
+   THERMODYNAMIC PROPERTIES; EXPERIMENTAL VALIDATION; PERVAPORATION
+   PROCESS; SEPARATION PROCESSES
+ER
+
+PT J
+DE Performance ratio; Gain output ratio; Energy consumption; Desalination
+   processes
+ID GAS MEMBRANE DISTILLATION; MULTISTAGE FLASH DESALINATION; AMMONIA-CARBON
+   DIOXIDE; HUMIDIFICATION-DEHUMIDIFICATION DESALINATION; OF-THE-ART;
+   SEAWATER DESALINATION; SOLAR DESALINATION; WATER DESALINATION; STAGE
+   FLASH; OSMOSIS DESALINATION
+ER
+
+PT J
+DE Seawater desalination; Vapour Compression; Flash; Performance
+   enhancement; Exergy analysis
+ER
+
+PT J
+DE seawater; desalination; reverse osmosis modules; supersaturation;
+   scaling assessment
+ID WATER
+ER
+
+PT J
+DE Forward osmosis; Seawater softening; Forward osmosis power consumption;
+   FO-MSF hybrid system
+ID INTERNAL CONCENTRATION POLARIZATION; SEAWATER DESALINATION; MEMBRANE;
+   OSMOSIS
+ER
+
+PT J
+DE Desalination; Reverse osmosis; Sludge disposal; Brine management;
+   Corrosion
+ID REVERSE-OSMOSIS; BORON REMOVAL; MEMBRANE DISTILLATION;
+   ENVIRONMENTAL-IMPACT; BRINE DISPOSAL; RO MEMBRANES; PLANTS; WATER;
+   PRETREATMENT; SYSTEMS
+ER
+
+PT J
+DE Seawater desalination; RO; MED; Economic analysis; Prospect
+ID PLANT; RO; PURIFICATION; TECHNOLOGY; MEMBRANE
+ER
+
+PT J
+DE Nuclear desalination; Heat-only; Dedicated; DEEP; UAE; MED-TVC
+ER
+
+PT J
+DE Dual-stage nanofiltration (NF); Seawater desalination; Scaling; Energy
+   consumption
+ID DEWVAPORATION TECHNIQUE; PERFORMANCE; TECHNOLOGIES; PRETREATMENT;
+   MEMBRANE
+ER
+
+PT B
+DE Seawater desalination; static electric field; insulation film; divalent
+   ion
+ER
+
+PT J
+DE Global diffusion; Politics; Seawater desalination
+ID RIVER-BASIN CLOSURE; WATER DESALINATION; CHINA; POLICY; TECHNOLOGY;
+   CHALLENGES; AUSTRALIA; ALGERIA; PLANTS; SPAIN
+ER
+
+PT J
+DE boron rejection; forward osmosis; membrane fouling; scaling; seawater
+   desalination
+ID AMMONIA-CARBON DIOXIDE; SEA-WATER; MEMBRANES; ENERGY
+ER
+
+PT J
+DE Seawater desalination; Integrated coastal management (ICM);
+   Environmental impact assessment (EIA); Stakeholder participation
+ID MARINE RESOURCE-MANAGEMENT; PARTICIPATORY COASTAL; FOREST MANAGEMENT;
+   WATER-RESOURCES; SUSTAINABILITY; EFFLUENTS
+ER
+
+PT J
+DE Seawater desalination; Membrane; Distillation; Solar energy; Modeling
+ID SEAWATER DESALINATION; WATER DESALINATION; SYSTEMS
+ER
+
+PT J
+DE Hybridization; Optimization; Literature review; Thermal desalination;
+   Seawater reverse osmosis; Nanofiltration
+ID DUAL-PURPOSE POWER; SEAWATER RO SYSTEMS; MULTI-STAGE FLASH; OF-THE-ART;
+   OPTIMAL-DESIGN; DESALTING SYSTEMS; PERFORMANCE EVALUATION; SCALE
+   FORMATION; THERMOECONOMIC OPTIMIZATION; NANOFILTRATION MEMBRANES
+ER
+
+PT J
+DE Scaling; Prevention; Control; Seawater; Calcite; Pellet softening; RSI;
+   Supersaturation; Pretreatment; Particles growth
+ID PRETREATMENT; ARAGONITE; PRECIPITATION; PERFORMANCE; MEMBRANE; CALCITE;
+   SYSTEM
+ER
+
+PT J
+DE Seawater desalination; Activity coefficients; Osmotic coefficients; TEC;
+   Thermodynamic analysis
+ID EXERGY ANALYSIS; ACTIVITY-COEFFICIENTS; PLANT; 25-DEGREES-C; DESIGN;
+   WATER
+ER
+
+PT J
+DE Seawater desalination; RO membrane; Biofouling indicator; Biofilm;
+   Chlorophyll; Total organic carbon
+ID REVERSE-OSMOSIS MEMBRANES; BIOFILM FORMATION; WATER-TREATMENT;
+   NANOFILTRATION; ALGAE
+ER
+
+PT J
+DE Energy technology; Seawater desalination; Evaluation
+ID REVERSE-OSMOSIS DESALINATION; WIND-POWERED DESALINATION; ORGANIC
+   RANKINE-CYCLE; RENEWABLE ENERGIES; WATER PRODUCTION; FEASIBILITY;
+   SYSTEMS; DRIVEN; UNIT
+ER
+
+PT J
+DE Carbon capture and sequestration; Membrane-based oxy-combustion cycles;
+   Desalination; Multi-effect distillation; Process integration
+ID THERMOECONOMIC OPTIMIZATION; PERFORMANCE EVALUATION; SEAWATER
+   DESALINATION; WATER DESALINATION; CO2 CAPTURE; PART I; SYSTEMS; ENERGY;
+   PLANTS; SIMULATION
+ER
+
+PT J
+DE Ultrafiltration; Seawater desalination; Reverse osmosis
+ER
+
+PT J
+DE Seawater desalination; Direct contact membrane distillation (DCMD);
+   Permeate flux; Hydrophobic membrane; Polarization
+ID OF-THE-ART; VACUUM MEMBRANE; PERFORMANCE; SIMULATION; ENERGY
+ER
+
+PT J
+DE Life cycle assessment; Forward osmosis; Osmotic dilution; Reverse
+   osmosis; Potable water reuse; Wastewater treatment; Seawater
+   desalination; Energy recovery
+ID REVERSE-OSMOSIS DESALINATION; PRESSURE RETARDED OSMOSIS; DRIVEN MEMBRANE
+   PROCESSES; PRODUCTION TECHNOLOGIES; SALINITY GRADIENTS; POWER-GENERATION
+ER
+
+PT J
+DE Thin-film composite membrane; Seawater desalination; Interfacial
+   polymerization; Reverse osmosis membrane
+ID ENHANCED OSMOTIC-PRESSURE; TFC RO MEMBRANES; BORON REMOVAL;
+   NANOFILTRATION MEMBRANES; SURFACE MODIFICATION; POLYAMIDE MEMBRANES;
+   INTERFACIAL POLYMERIZATION; NANOCOMPOSITE MEMBRANES;
+   CHLORINE-RESISTANCE; OXIDATIVE-DEGRADATION
+ER
+
+PT J
+DE Desalination; Multi-objective optimization; Life cycle assessment; Solar
+   energy; Modeling; Rankine cycle
+ID RENEWABLE ENERGIES; WATER DESALINATION; TECHNOLOGIES; DESIGN; PLANTS;
+   UNCERTAINTY; COLLECTORS; SIMULATION; FRAMEWORK; SYSTEMS
+ER
+
+PT B
+DE seawater desalination; pretreatment; ultrafiltration
+ER
+
+PT J
+DE Seawater desalination; Water conveyance; Energy consumption; Carbon
+   footprint; Reverse osmosis
+ID REVERSE-OSMOSIS DESALINATION; LIFE-CYCLE; SEAWATER DESALINATION; SYSTEM
+   DYNAMICS; RESOURCES MANAGEMENT; RO DESALINATION; LAS-VEGAS; ENERGY;
+   MODEL; SIMULATION
+ER
+
+PT J
+ID REVERSE-OSMOSIS MEMBRANE; CARBON NANOTUBE MEMBRANES; WATER DESALINATION;
+   THERMODYNAMIC RESTRICTION; RO; PURIFICATION; POLYAMIDE; PROTEIN; DESIGN;
+   DERIVATIVES
+ER
+
+PT J
+DE Metallic materials; Stainless steels; Corrosion; Seawater; Reverse
+   osmosis desalination
+ID STEELS
+ER
+
+PT J
+DE Wind energy; Reverse osmosis desalination; Medium scale; Gradual
+   capacity
+ID CANARY-ISLANDS; ENERGY; TECHNOLOGY; SYSTEM
+ER
+
+PT J
+ID FUEL-CELLS; HYDROGEN; SYSTEMS
+ER
+
+PT J
+DE Seawater desalination; Power plant; CCHP system; Solar energy;
+   Distillation; Reverse Osmosis; Comprehensive application
+ER
+
+PT J
+DE By-products; Bromate; Perchlorate; Electrolysis; Seawater desalination
+ID WATER ELECTROLYSIS; DRINKING-WATER; HYDROXYL RADICALS; CHLORINE DIOXIDE;
+   ANODIC-OXIDATION; ELECTRODES; PERCHLORATE; MECHANISM; OZONATION;
+   PLATINUM
+ER
+
+PT J
+DE Boron removal; Seawater; Reverse osmosis; Adsorption-membrane filtration
+   hybrid process
+ID ION-EXCHANGE-RESINS; REJECTION SWRO MEMBRANES; REVERSE-OSMOSIS PERMEATE;
+   GEOTHERMAL WASTE-WATER; HYBRID PROCESS; SORPTION-ELUTION; RO PERMEATE;
+   POWER-PLANT; REMOVAL; ADSORPTION
+ER
+
+PT J
+DE Desalination; Synthetic membrane processes; Permeate iodide
+   concentration; Seawater; Catalytic reduction analysis
+ID DISINFECTION BY-PRODUCTS; SPECIATION; WATERS; OXIDATION
+ER
+
+PT J
+DE Seawater; Pretreatment; Desalination; Membranes; Biofouling; Reverse
+   osmosis; SWRO; Ultrafiltration; Microfiltration
+ID WATERS
+ER
+
+PT J
+DE Arabian Gulf; Evaporation; Hypersaline; Mathematical model; Seawater
+   desalination; Semi-enclosed sea
+ID PERSIAN-GULF; WATER; OCEANOGRAPHY; CIRCULATION; EVAPORATION; HORMUZ;
+   KUWAIT; OMAN; PART
+ER
+
+PT J
+DE Natural vacuum; Distillation; Desalination; Renewable energy
+ER
+
+PT J
+DE Heat pipe; Tritium-related safety; Nuclear seawater desalination
+ID STORAGE
+ER
+
+PT J
+DE desalination; estuaries; membranes; sea; variable salinity; water
+   production
+ER
+
+PT J
+DE Heat pipe; Nuclear; Seawater desalination
+ID PLANTS; STORAGE; IMPACT
+ER
+
+PT J
+DE Seawater desalination; Alternative energy; Integration technology;
+   Sustainable development
+ID REVERSE-OSMOSIS DESALINATION; WIND-POWERED DESALINATION; NUCLEAR HEATING
+   REACTOR; WATER DESALINATION; RENEWABLE ENERGY; MEMBRANE DISTILLATION;
+   HYDROSTATIC-PRESSURE; ECONOMIC-FEASIBILITY; SYSTEM; DRIVEN
+ER
+
+PT J
+DE Australia; Desalination plant; Perth; Reverse osmosis; Review; Sydney
+ID SEAWATER DESALINATION; FUTURE
+ER
+
+PT J
+DE Desalination; Membrane process; Renewable energy; Solar energy; Wind
+   energy; Membrane distillation; Reverse osmosis
+ID REVERSE-OSMOSIS DESALINATION; BRACKISH-WATER DESALINATION; WAVE-POWERED
+   DESALINATION; OF-THE-ART; REMOTE AUSTRALIAN COMMUNITIES; WIND ENERGY;
+   SEAWATER DESALINATION; PHOTOVOLTAIC DESALINATION; HYDROSTATIC-PRESSURE;
+   INTEGRATED MEMBRANE
+ER
+
+PT J
+DE MF/UF seawater pre-treatment; Harbour seawater; Hollow-fibre membranes;
+   Dead-end operation; Fouling control
+ID DESALINATION; FILTRATION
+ER
+
+PT J
+DE Nanofiltration; Modeling; Desalination; Process simulation; Seawater
+ID SIMULATION PROGRAM NANOFLUX; DIELECTRIC EXCLUSION; SINGLE SALTS;
+   MEMBRANES; NF; PERFORMANCE; TRANSPORT
+ER
+
+PT J
+DE Desalination; Reverse osmosis; Engineering; Seawater; Design
+ER
+
+PT J
+DE Boron; Desalination; Reverse osmosis; Seawater; SWRO; Water
+ID ION-EXCHANGE-RESINS; GEOTHERMAL WASTE-WATER; BORON REMOVAL;
+   REVERSE-OSMOSIS; PERMEATE; MEMBRANES; RECOVERY; TESTS
+ER
+
+PT J
+DE Desalination; Seawater desalination; Reverse osmosis; Fouling mechanism;
+   Process simulation; Optimization
+ID REVERSE-OSMOSIS; OPTIMIZATION; REJECTION; NETWORKS; MODULES; DESIGN
+ER
+
+PT J
+DE Desalination; Reverse osmosis membrane; Seawater; SWRO; Optimization;
+   Systems engineering approach
+ID SPIRAL-WOUND MODULES; HOLLOW-FIBER MODULE; RO MEMBRANES; OPTIMAL-DESIGN;
+   BORON REMOVAL; CONCENTRATION POLARIZATION; NUMERICAL TECHNIQUES; MODEL
+   PARAMETERS; UF PRETREATMENT; HYBRID SYSTEMS
+ER
+
+PT J
+DE Seawater desalination; Concentrating solar power; Solar energy;
+   Multi-effect desalination; Reverse osmosis
+ID POWER
+ER
+
+PT J
+DE Desalination; Salinity tolerance; Discharge; Concentrate; Seawater;
+   brine
+ER
+
+PT J
+DE adsorption-membrane filtration (AMF) hybrid process; boron; boron
+   selective ion exchange resin; desalination; reverse osmosis (RO);
+   seawater
+ID ION-EXCHANGE-RESINS; GEOTHERMAL WASTE-WATER; REVERSE-OSMOSIS;
+   SORPTION-ELUTION; POWER-PLANT; FLY-ASH; OPTIMIZATION; DESALINATION;
+   RECOVERY; PERMEATE
+ER
+
+PT J
+DE seawater desalination technologies; multi-stage flash distillation
+   desalination; multiple-effect distillation desalination; vapor
+   compression distillation desalination; reverse osmosis desalination;
+   freezing desalination; solar evaporation desalination; potabilization;
+   desalination research and development
+ID OF-THE-ART; MSF DISTILLATION PLANTS; SEA-WATER DESALINATION; YANBU
+   AL-SINAIYAH; REVERSE-OSMOSIS; DEVELOPMENT PROGRAM; SOLAR DESALINATION;
+   SYSTEMS; RO; PRETREATMENT
+ER
+
+PT J
+DE brine discharges; mathematical model; sea outfall; seawater
+   desalination; tidal flow
+ID DESALINATION PLANT; EFFLUENTS
+ER
+
+PT J
+DE desalination; reverse osmosis; operating parameters; unit costs
+ER
+
+PT J
+ER
+
+PT J
+DE growth inducement; policy analysis; technology development
+ID WATER DESALINATION; MANAGEMENT; FACILITIES; CALIFORNIA; TRANSFERS;
+   SCARCITY; PROJECTS; KUWAIT/; REGIONS; PLANTS
+ER
+
+PT J
+DE desalination; ANN model; heat pump
+ID HEAT; UNIT
+ER
+
+PT J
+DE BWRO systems; boron removal resins; high boron rejection membranes
+ER
+
+PT J
+DE seawater disalination costs; nuclear desalination costs; DEEP
+ER
+
+PT J
+DE seawater reverse osmosis desalination; plant design; seawater supply;
+   pretreatment; reverse osmosis module; permeate posttreatment; Yanbu
+   Industrial City
+ID SAUDI-ARABIA; WATER; DESIGN
+ER
+
+PT S
+DE desalination; heat pump; humidification-dehumidification
+ER
+
+PT J
+DE desalination of marginal sources; environmental impact; SWRO technology;
+   desalination cost comparison
+ER
+
+PT J
+DE reverse osmosis; desalination; hydrostatic pressure; seawater
+   desalination
+ID SUBMARINE
+ER
+
+PT J
+DE environmental; impact; seawater; reverse osmosis; desalination plants
+ER
+
+PT J
+DE Arabian Gulf; mathematical model; Red Sea; seawater desalination
+ID RED-SEA; GULF; STRAIT; FLOW; OCEANOGRAPHY; CIRCULATION; DISPERSION;
+   ESTUARIES; HORMUZ; MANDAB
+ER
+
+PT J
+DE seawater desalination; nuclear reactor; fossil fuel; oil price;
+   desalination economic evaluation program (DEEP); economic
+   competitiveness
+ER
+
+PT J
+DE desalination; seawater; membrane; flash vaporization
+ER
+
+PT J
+DE seawater desalination; brine discharge; marine environment; system
+   engineering
+ER
+
+PT J
+DE seawater desalination; criteria; gulf cooperation council; analytical
+   hierarchy process
+ER
+
+PT J
+DE discussion; desalination; heat pump; seawater
+ER
+
+PT J
+DE pollutants; seawater desalination; south Mediterranean
+ER
+
+PT J
+DE oil spill pollution; seawater; desalination
+ER
+
+PT J
+DE humidification; humidifier; desalination
+ER
+
+PT J
+DE hybrid process; sewater desalination; reverse osmosis
+ER
+
+PT J
+DE water resources; freshwater shortage; seawater desalination;
+   multi-effect distillation; nuclear desalination; nuclear heating reactor
+ER
+
+PT J
+DE seawater desalination; clean development mechanism (CDM); desalination
+   economic evaluation program; (DEEP); nuclear power plant (NPP)
+ER
+
+PT J
+DE seawater desalination; SWRO; BOT desalination; privatization
+ER
+
+PT J
+DE seawater desalination plants; infuents; effluents; Libya
+ER
+
+PT J
+DE optimised desalination; seawater; reverse osmosis; decentralised water
+   supply
+ER
+
+PT J
+DE wavepower; renewable energy; desalination; hydro-ram; sustainable
+   development
+ID REVERSE-OSMOSIS; DESIGN; PUMP
+ER
+
+PT J
+DE thermal desalination; membrane desalination; hybrids; water cost; power
+   to water ratio; optimization
+ER
+
+PT J
+DE nuclear heating reactor (NHR); seawater desalination; economic
+   feasibility analysis; desalination economic evaluation program (DEEP);
+   North Africa
+ER
+
+PT J
+DE wastewater reuse; seawater; desalination; costs
+ER
+
+PT B
+DE desalination; fouling; pre-treatment; reverse osmosis; seawater;
+   ultrafiltration
+ID UF PRETREATMENT
+ER
+
+PT J
+DE LTE desalination; waste heat utilization; nuclear research reactor;
+   primary coolant water
+ER
+
+PT J
+DE seawater; reverse osmosis; MSF; MED; electrodialysis; pretreatment;
+   environmental impact; hybrid processes; fouling
+ID REVERSE-OSMOSIS PLANT; MULTIEFFECT DISTILLATION; SOLAR-ENERGY;
+   ECONOMIC-ASSESSMENT; CORROSION BEHAVIOR; WATER DESALINATION;
+   STAINLESS-STEELS; GULF SEAWATER; SULFURIC-ACID; WASTE-WATER
+ER
+
+PT J
+DE Seawater desalination; renewable energies; wind power; solar energy
+ID SOLAR-ASSISTED DESALINATION; WIND-POWERED DESALINATION; WATER
+   DESALINATION; ECONOMIC-ANALYSIS; PLANT; DISTILLATION; DESIGN; SYSTEMS;
+   HEAT; ENVIRONMENT
+ER
+
+PT J
+DE solar desalination; solar thermal collectors; multi-effect distillation;
+   multi-stage flash desalination
+ID PARABOLIC TROUGH COLLECTOR; DIRECT STEAM-GENERATION; DISTILLATION PLANT;
+   MULTIEFFECT DISTILLATION; THERMOECONOMIC ANALYSIS; ASSISTED
+   DESALINATION; ENERGY; ENVIRONMENT; SYSTEM
+ER
+
+PT J
+DE seawater desalination plant; performance; cost
+ER
+
+PT J
+DE heat pump; thermal desalination plant; seawater; desalination
+ER
+
+PT J
+DE desalination of marginal water; environmental impact; cost
+ER
+
+PT J
+DE wavepower; seawater desalination; hydro-ram; water hammer; renewable
+   resource
+ER
+
+PT J
+DE desalination; seawater; renewable energy; cooperation; reverse osmosis
+ER
+
+PT J
+DE solar desalination; multi-effect distillation; solar parabolic troughs;
+   thermodynamics
+ID MULTISTAGE FLASH DISTILLATION; PARABOLIC TROUGH COLLECTOR; DESALINATION
+   PLANTS; WATER DESALINATION; MULTIEFFECT DISTILLATION; THERMOECONOMIC
+   ANALYSIS; ENERGY; ENVIRONMENT; TECHNOLOGY; DESIGN
+ER
+
+PT J
+DE seawater; desalination; MSF; operation; maintenance; development;
+   production and consumption
+ER
+
+PT J
+DE seawater desalination; hollow fiber type reverse osmosis; spiral wound
+   type reverse osmosis; high-pressure single-pass method; brine conversion
+   two stage methods; high recovery ratio
+ER
+
+PT J
+DE submarine; desalination unit; energy efficiency; reverse osmosis;
+   hydrostatic pressure
+ER
+
+PT J
+DE heat pumps; desalination plant; seawater; power station
+ER
+
+PT J
+DE nuclear desalination; IAEA; southern Europe
+ER
+
+PT J
+DE Saudi Arabia; desalination; cost; process
+ER
+
+PT J
+DE nuclear energy; heating reactor; LT-MED; pool-type reactor
+ER
+
+PT J
+DE desalination; integrated systems; membranes
+ID DISTILLATION
+ER
+
+PT J
+DE brackish water; desalination; membrane technology; reverse osmosis;
+   seawater
+ER
+
+EF

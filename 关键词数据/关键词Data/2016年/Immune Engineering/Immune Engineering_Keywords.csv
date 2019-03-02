@@ -1,0 +1,411 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,tissue engineering,11,tissue engineering,33
+1,artificial immune system,11,artificial immune system,29
+2,immune response,8,immune response,26
+3,immune system,8,immune system,23
+4,inflammation,7,immunotherapy,22
+5,immunotherapy,6,inflammation,21
+6,nanoparticles,5,macrophage,16
+7,fault diagnosis,5,cancer,13
+8,cancer,3,nanoparticles,12
+9,mesenchymal stem cells,3,cd47,12
+10,transplantation,3,fault diagnosis,12
+11,macrophage,3,transplantation,10
+12,optimization,3,allogeneic,9
+13,artificial immune systems,3,stem cells,8
+14,cell proliferation,2,hydrogel,8
+15,osteogenic,2,regenerative medicine,8
+16,biocompatibility,2,optimization,8
+17,clonal selection algorithm,2,antibodies,8
+18,vaccination,2,scaffold,8
+19,stem cells,2,osteogenic,7
+20,3d printing,2,3d printing,7
+21,hydrogel,2,hiv,7
+22,hiv,2,gene,7
+23,gene,2,graft-versus-host disease,7
+24,graft-versus-host disease,2,immunology,7
+25,graft,2,macrophages,7
+26,allogeneic,2,immunosuppression,7
+27,regenerative medicine,2,xenotransplantation,7
+28,immunology,2,cell proliferation,6
+29,macrophages,2,biocompatibility,6
+30,vascularization,2,st6gal,6
+31,cancer immunotherapy,2,st3gal,6
+32,immune checkpoint,2,sialyllactose,6
+33,cd47,2,poikilotherm,6
+34,immune,2,ella,6
+35,innate immunity,2,hilic-hplc,6
+36,dendritic cells,2,cho,6
+37,identification,2,mesenchymal stem cells,6
+38,particulate,2,graft,6
+39,immunosuppression,2,cancer immunotherapy,6
+40,antibodies,2,b cell,6
+41,biomaterials,2,human,6
+42,xenotransplantation,2,humanized mouse,6
+43,scaffold,2,miniature swine,6
+44,artificial immune,2,mixed,6
+45,antigen,2,immune,6
+46,electrospinning,1,innate immunity,6
+47,xeno-free scaffold,1,identification,6
+48,human umbilical cord,1,particulate,6
+49,collagen,1,artificial immune systems,6
+50,cytotoxicity,1,antibody,6
+51,cell adhesion,1,sirpa,6
+52,alumina,1,phagocytosis,6
+53,cell responses,1,antigen,6
+54,protein adsorption,1,vaccination,5
+55,probiotic yeasts,1,hcv,5
+56,olive oil yeasts,1,cd81,5
+57,virgin olive oil,1,retrovirus,5
+58,bacterial infection in mussels,1,e2,5
+59,copper oxide nanoparticles,1,e1,5
+60,hemocytes,1,transport,5
+61,complete receptor editing,1,hcmv,5
+62,quantum,1,tcr,5
+63,computer-aided antibody engineering,1,cd8 t cell,5
+64,affinity improvement,1,ifn-gamma,5
+65,ibalizumab,1,hsct,5
+66,hybrid hydrogels,1,nanomaterials,5
+67,microporous network,1,stealth,5
+68,reverse thermal gel,1,biomimetic,5
+69,neural tube defects,1,bio-corona,5
+70,myelomeningocele,1,targeting,5
+71,prenatal,1,fasl,5
+72,tumor necrosis factor receptor,1,immune tolerance,5
+73,anti-tnf effect,1,plg,5
+74,prokaryotic expression,1,polymer scaffold,5
+75,chondrocytes,1,islet,5
+76,hypertrophy,1,vascularization,5
+77,arthritis,1,immune checkpoint,5
+78,wnt/beta-catenin,1,biomaterials,5
+79,angiogenesis,1,clonal selection algorithm,4
+80,microfluidics,1,chondrocytes,4
+81,blood brain barrier,1,hypertrophy,4
+82,permeability,1,arthritis,4
+83,chitosan,1,wnt/beta-catenin,4
+84,articular cartilage,1,chitosan,4
+85,decellularized spleen matrix,1,articular cartilage,4
+86,bioartificial liver,1,sesbania aegyptica,4
+87,hemocompatibility,1,silver nanoparticles,4
+88,sesbania aegyptica,1,peg,4
+89,silver nanoparticles,1,arginase,4
+90,peg,1,mdsc,4
+91,gold nanomaterial,1,arginine,4
+92,iodine-124,1,metabolic checkpoint,4
+93,radioactive imaging tracers,1,aminoacid,4
+94,positron,1,tat,4
+95,st6gal,1,methamphetamine,4
+96,st3gal,1,tata-box,4
+97,sialyllactose,1,tata-box binding peptide,4
+98,poikilotherm,1,glioma,4
+99,ella,1,tumorsphere,4
+100,hilic-hplc,1,microscale niche,4
+101,cho,1,time series assessment,4
+102,"alpha-2,6-sialyltransferase",1,hypoxic,4
+103,linked lectin assay,1,t,4
+104,iron oxide,1,hepatitis c virus,4
+105,dendron,1,ns3,4
+106,oligoethyleneglycol,1,helicase,4
+107,polyethylene-glycol peg,1,immunodiagnostic,4
+108,in-vitro toxicity,1,seroconversion,4
+109,hcv,1,immunomodulation,4
+110,cd81,1,immunogenicity,4
+111,retrovirus,1,chondrogenic,4
+112,e2,1,immune subsets,4
+113,e1,1,allografts,4
+114,transport,1,outcomes,4
+115,3d encapsulation,1,relapse,4
+116,advanced technologies,1,dendritic cells,4
+117,adoptive t-cell therapy,1,organoids,4
+118,tumour microenvironment,1,spatio-temporal,4
+119,arginase,1,adhesive,4
+120,mdsc,1,lymph node,4
+121,arginine,1,editorial,4
+122,metabolic checkpoint,1,personal viewpoint,4
+123,aminoacid,1,immunobiology,4
+124,immobilized,1,adjuvant,4
+125,antibacterial activity,1,exosomes,4
+126,imipenem,1,nef,4
+127,gold nanoparticles,1,hpv-e6,4
+128,tat,1,cd8(+) t immune response,4
+129,methamphetamine,1,fab fragments,4
+130,tata-box,1,monobodies,4
+131,tata-box binding peptide,1,nanobodies,4
+132,hcmv,1,protein engineering,4
+133,tcr,1,implant,4
+134,cd8 t cell,1,stem cell,4
+135,ifn-gamma,1,engineered heart tissue,4
+136,hsct,1,rat,4
+137,bioactive nanoparticles,1,rejection,4
+138,peptide,1,glioblastoma,4
+139,nanodrug,1,vaccines,4
+140,anti-inflammatory,1,monoclonal,4
+141,recombination-activating gene 2,1,artificial immune,4
+142,vdj recombination,1,mhc class i,4
+143,severe combined,1,learning,4
+144,bispecific,1,hierarchy,4
+145,lymph nodes,1,clonal,4
+146,cure,1,finite element,4
+147,glioma,1,mesh-distortion,4
+148,tumorsphere,1,isoparametric,4
+149,microscale niche,1,shape functions,4
+150,time series assessment,1,element,4
+151,hypoxic,1,tolerance,4
+152,imatinib,1,tissue,4
+153,discontinuation,1,pig,4
+154,naive t cells,1,primate,4
+155,t-lymphocyte subsets,1,humoral rejection,4
+156,nanomaterials,1,genetic,4
+157,stealth,1,electrospinning,3
+158,biomimetic,1,xeno-free scaffold,3
+159,bio-corona,1,human umbilical cord,3
+160,targeting,1,collagen,3
+161,m cell,1,cytotoxicity,3
+162,engineered materials,1,cell adhesion,3
+163,mucosal vaccination,1,alumina,3
+164,mucosa-associated,1,cell responses,3
+165,fasl,1,protein adsorption,3
+166,immune tolerance,1,hybrid hydrogels,3
+167,plg,1,microporous network,3
+168,polymer scaffold,1,reverse thermal gel,3
+169,islet,1,neural tube defects,3
+170,t,1,myelomeningocele,3
+171,brain tissue,1,prenatal,3
+172,brain damage,1,angiogenesis,3
+173,human bone marrow derived mesenchymal stromal cells,1,microfluidics,3
+174,chondrogenesis,1,blood brain barrier,3
+175,lipopolysaccharide (lps),1,permeability,3
+176,structure elucidation,1,gold nanomaterial,3
+177,nmr,1,iodine-124,3
+178,mass spectrometry,1,radioactive imaging tracers,3
+179,poria cocos,1,positron,3
+180,immunomodulatory protein,1,iron oxide,3
+181,pichia pastoris,1,dendron,3
+182,purification,1,oligoethyleneglycol,3
+183,vessel development,1,adoptive t-cell therapy,3
+184,macrophage phenotypes,1,tumour microenvironment,3
+185,photobiomodulation,1,immobilized,3
+186,low level light therapy,1,antibacterial activity,3
+187,hepatitis c virus,1,imipenem,3
+188,ns3,1,gold nanoparticles,3
+189,helicase,1,bioactive nanoparticles,3
+190,immunodiagnostic,1,peptide,3
+191,seroconversion,1,nanodrug,3
+192,crispr-cas systems,1,anti-inflammatory,3
+193,adaptive immunity,1,bispecific,3
+194,self versus non-self,1,lymph nodes,3
+195,3d human placenta-on-a-chip,1,cure,3
+196,nanoparticle exposure,1,imatinib,3
+197,organ-on-a -chip,1,discontinuation,3
+198,porous tracheal scaffold,1,naive t cells,3
+199,pcl,1,t-lymphocyte subsets,3
+200,surface modifications,1,m cell,3
+201,lymphangiogenesis,1,engineered materials,3
+202,disease modeling,1,mucosal vaccination,3
+203,wound healing,1,mucosa-associated,3
+204,oncolytic viruses,1,brain tissue,3
+205,immune therapy,1,brain damage,3
+206,transgenes,1,lipopolysaccharide (lps),3
+207,cell therapy,1,structure elucidation,3
+208,drug delivery,1,nmr,3
+209,b cell,1,mass spectrometry,3
+210,human,1,poria cocos,3
+211,humanized mouse,1,immunomodulatory protein,3
+212,miniature swine,1,pichia pastoris,3
+213,mixed,1,purification,3
+214,intelligent manufacturing system,1,vessel development,3
+215,immune monitoring model,1,macrophage phenotypes,3
+216,immunomodulation,1,porous tracheal scaffold,3
+217,immunogenicity,1,pcl,3
+218,chondrogenic,1,surface modifications,3
+219,nanogold,1,lymphangiogenesis,3
+220,rheumatoid arthritis,1,disease modeling,3
+221,transcription factor,1,wound healing,3
+222,immune subsets,1,cell therapy,3
+223,allografts,1,drug delivery,3
+224,outcomes,1,nanogold,3
+225,relapse,1,rheumatoid arthritis,3
+226,engineered nanoparticles,1,transcription factor,3
+227,immunosafety,1,engineered nanoparticles,3
+228,in-vivo,1,immunosafety,3
+229,engineered,1,in-vivo,3
+230,hybridization,1,engineered,3
+231,tissue-engineered vascular graft,1,hybridization,3
+232,congenital cardiac,1,bacteria,3
+233,bacteria,1,biomimetic engineering,3
+234,biomimetic engineering,1,polymeric scaffolds,3
+235,engineered heart muscle,1,tissue engineered scaffolds,3
+236,pluripotent stemcells,1,inflammatory responses,3
+237,polymeric scaffolds,1,protein,3
+238,organoids,1,cytokines,3
+239,spatio-temporal,1,immuno-engineering,3
+240,adhesive,1,autoimmune disease,3
+241,lymph node,1,genome,3
+242,editorial,1,engineering,3
+243,personal viewpoint,1,editing,3
+244,immunobiology,1,immune modulation,3
+245,tissue engineered scaffolds,1,cell,3
+246,inflammatory responses,1,aero-engine,3
+247,protein,1,artificial immune theory,3
+248,cytokines,1,oil analysis,3
+249,t cellular immunotherapies,1,micropatterning,3
+250,hepatocellular carcinoma,1,epithelial,3
+251,adjuvant,1,t lymphocyte,3
+252,exosomes,1,immune synapse,3
+253,nef,1,specific immunotherapy,3
+254,hpv-e6,1,guided missile,3
+255,cd8(+) t immune response,1,myasthenia gravis,3
+256,fab fragments,1,dendritic,3
+257,monobodies,1,baculovirus,3
+258,nanobodies,1,adipose-derived stem cells,3
+259,protein engineering,1,clonal selection,3
+260,t cell,1,fuzzy k-nn,3
+261,t cell receptor (tcr),1,artificial immunity,3
+262,chimeric antigen receptor (car),1,independent components analysis,3
+263,immuno-engineering,1,ais-ica,3
+264,autoimmune disease,1,fault,3
+265,genome,1,genetic engineering,3
+266,engineering,1,scid,3
+267,editing,1,acquired immunity,3
+268,immunocytokines,1,adoptive t cell therapy,3
+269,bispecific antibodies,1,t cell receptor,3
+270,immunotherapy of cancer,1,graft versus leukaemia,3
+271,artificial immune algorithm,1,heart valve,3
+272,selective ensemble,1,extracellular matrix,3
+273,immune modulation,1,parallel,3
+274,cell,1,motor fault diagnosis,3
+275,implant,1,wavelet energy,3
+276,stem cell,1,rbf,3
+277,engineered heart tissue,1,composite scaffold,3
+278,rat,1,peg-collagen,3
+279,rejection,1,cell migration,3
+280,heart valve tissue engineering,1,freeway,3
+281,decellularization,1,ramp metering,3
+282,cellular reseeding,1,artificial immune controller,3
+283,immune cells,1,traffic flow model,3
+284,glioblastoma,1,immune engineering,3
+285,vaccines,1,natural,3
+286,monoclonal,1,reconstructive surgery,3
+287,fault detection,1,cartilage,3
+288,distributed artificial intelligent,1,polyelectrolyte,3
+289,spinal cord injury,1,self,3
+290,immunoengineering,1,non-self,3
+291,mechanical and electrical equipment,1,strings,3
+292,self-healing,1,probiotic yeasts,2
+293,immune principle,1,olive oil yeasts,2
+294,awareness,1,virgin olive oil,2
+295,autonomic computing,1,bacterial infection in mussels,2
+296,multi-objectice,1,copper oxide nanoparticles,2
+297,aero-engine,1,hemocytes,2
+298,artificial immune theory,1,complete receptor editing,2
+299,oil analysis,1,quantum,2
+300,antibody,1,computer-aided antibody engineering,2
+301,sirpa,1,affinity improvement,2
+302,phagocytosis,1,ibalizumab,2
+303,rockbolts,1,tumor necrosis factor receptor,2
+304,nondestructive detection,1,anti-tnf effect,2
+305,immune danger theory,1,prokaryotic expression,2
+306,nonnegative matrix factorization,1,decellularized spleen matrix,2
+307,relative warmth index,1,bioartificial liver,2
+308,transitional spaces,1,hemocompatibility,2
+309,non-steady state thermal,1,polyethylene-glycol peg,2
+310,micropatterning,1,in-vitro toxicity,2
+311,epithelial,1,3d encapsulation,2
+312,t lymphocyte,1,advanced technologies,2
+313,immune synapse,1,recombination-activating gene 2,2
+314,particle swarm optimization,1,vdj recombination,2
+315,specific immunotherapy,1,severe combined,2
+316,guided missile,1,photobiomodulation,2
+317,myasthenia gravis,1,low level light therapy,2
+318,dendritic,1,crispr-cas systems,2
+319,baculovirus,1,adaptive immunity,2
+320,adipose-derived stem cells,1,self versus non-self,2
+321,clonal selection,1,3d human placenta-on-a-chip,2
+322,fuzzy k-nn,1,nanoparticle exposure,2
+323,immune genetic algorithm (iga),1,organ-on-a -chip,2
+324,bp neural network model,1,oncolytic viruses,2
+325,dynamic,1,immune therapy,2
+326,artificial immunity,1,transgenes,2
+327,independent components analysis,1,intelligent manufacturing system,2
+328,ais-ica,1,immune monitoring model,2
+329,fault,1,tissue-engineered vascular graft,2
+330,genetic engineering,1,congenital cardiac,2
+331,scid,1,engineered heart muscle,2
+332,acquired immunity,1,pluripotent stemcells,2
+333,adoptive t cell therapy,1,t cellular immunotherapies,2
+334,t cell receptor,1,hepatocellular carcinoma,2
+335,graft versus leukaemia,1,t cell,2
+336,mhc class i,1,t cell receptor (tcr),2
+337,learning,1,chimeric antigen receptor (car),2
+338,hierarchy,1,immunocytokines,2
+339,clonal,1,bispecific antibodies,2
+340,ship parts,1,immunotherapy of cancer,2
+341,remaining rectangle matching,1,artificial immune algorithm,2
+342,particle swarm algorithm,1,selective ensemble,2
+343,constrained optimization,1,heart valve tissue engineering,2
+344,metaheuristics,1,decellularization,2
+345,heart valve,1,cellular reseeding,2
+346,extracellular matrix,1,immune cells,2
+347,cartilage tissue engineering,1,fault detection,2
+348,foreign body response,1,distributed artificial intelligent,2
+349,finite element,1,spinal cord injury,2
+350,mesh-distortion,1,immunoengineering,2
+351,isoparametric,1,mechanical and electrical equipment,2
+352,shape functions,1,self-healing,2
+353,element,1,immune principle,2
+354,machine learning,1,awareness,2
+355,frequency-variable air,1,autonomic computing,2
+356,parallel,1,multi-objectice,2
+357,motor fault diagnosis,1,rockbolts,2
+358,wavelet energy,1,nondestructive detection,2
+359,rbf,1,immune danger theory,2
+360,parametric modelling,1,nonnegative matrix factorization,2
+361,flexible plate,1,relative warmth index,2
+362,immune clustering,1,transitional spaces,2
+363,electric load,1,non-steady state thermal,2
+364,division,1,particle swarm optimization,2
+365,packing optimization,1,immune genetic algorithm (iga),2
+366,niche skill,1,bp neural network model,2
+367,immune genetic algorithm,1,dynamic,2
+368,flt3 ligand,1,ship parts,2
+369,expansion,1,remaining rectangle matching,2
+370,natural immune systems,1,particle swarm algorithm,2
+371,composite scaffold,1,constrained optimization,2
+372,peg-collagen,1,metaheuristics,2
+373,cell migration,1,cartilage tissue engineering,2
+374,cortex,1,foreign body response,2
+375,adhesion,1,machine learning,2
+376,dynamic characteristic clustering,1,frequency-variable air,2
+377,fuzzy artificial immune network,1,parametric modelling,2
+378,dynamic clustering,1,flexible plate,2
+379,artificial immune network,1,immune clustering,2
+380,kernel-based possibility,1,electric load,2
+381,tolerance,1,division,2
+382,tissue,1,packing optimization,2
+383,electromagnetic radiation,1,niche skill,2
+384,radiation intensity,1,immune genetic algorithm,2
+385,immune feedback control,1,flt3 ligand,2
+386,main steam temperature system,1,expansion,2
+387,autonomous guided vehicle,1,natural immune systems,2
+388,multi-agent control,1,cortex,2
+389,freeway,1,adhesion,2
+390,ramp metering,1,dynamic clustering,2
+391,artificial immune controller,1,artificial immune network,2
+392,traffic flow model,1,kernel-based possibility,2
+393,immune engineering,1,electromagnetic radiation,2
+394,natural,1,radiation intensity,2
+395,reconstructive surgery,1,immune feedback control,2
+396,cartilage,1,main steam temperature system,2
+397,polyelectrolyte,1,autonomous guided vehicle,2
+398,pig,1,multi-agent control,2
+399,primate,1,statistical mechanics,2
+400,humoral rejection,1,original antigenic sin,2
+401,genetic,1,"alpha-2,6-sialyltransferase",1
+402,statistical mechanics,1,linked lectin assay,1
+403,original antigenic sin,1,human bone marrow derived mesenchymal stromal cells,1
+404,self,1,chondrogenesis,1
+405,non-self,1,dynamic characteristic clustering,1
+406,strings,1,fuzzy artificial immune network,1
+407,bioengineered tissue,1,bioengineered tissue,1
+408,graft rejection,1,graft rejection,1
+409,antigen-presenting cells,1,antigen-presenting cells,1

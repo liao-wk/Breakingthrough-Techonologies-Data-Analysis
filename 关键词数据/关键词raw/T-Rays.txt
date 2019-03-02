@@ -1,0 +1,664 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE metamaterials; multicolor imaging; T-ray imaging
+ID QUANTUM CASCADE LASER; FOCAL-PLANE ARRAY; TERAHERTZ SPECTROSCOPY;
+   SECURITY APPLICATIONS; REAL-TIME; CMOS; TEMPERATURE; DETECTORS; DESIGN;
+   REGIME
+ER
+
+PT J
+ID TIME-DOMAIN SPECTROSCOPY; TERAHERTZ ABSORPTION-SPECTROSCOPY;
+   BLOOD-COAGULATION; WATER; DYNAMICS; ACTIVATION; DISEASE; PLASMA
+ER
+
+PT S
+DE Terahertz Waves; Aluminum wires; CFRP Composites; C-scan Images
+ID TEMPERATURE-GROWN GAAS; ELECTRICAL-CONDUCTIVITY; GENERATION
+ER
+
+PT B
+DE Terahertz; Hybrid metamaterial; Real-time imaging
+ER
+
+PT J
+DE Carbon fiber-reinforced plastics; Composites; Material characterization;
+   Paint thickness; Reflection mode; Terahertz ray
+ER
+
+PT S
+ID ELECTROMAGNETIC PULSES
+ER
+
+PT J
+ID MAGNETIC-RESONANCE ELASTOGRAPHY; OPTICAL COHERENCE ELASTOGRAPHY;
+   REFLECTION TOMOGRAPHY; HEPATIC-FIBROSIS; YOUNGS MODULUS; TISSUE;
+   ELASTICITY; STRAIN
+ER
+
+PT J
+ID TIME-DOMAIN SPECTROSCOPY; PAINTINGS; DENSITY; PLASMA; WOOD
+ER
+
+PT J
+ID BOND ORBITAL ANALYSIS; DUSCHINSKY ROTATION; (CO2)-C-13 LASER; AB-INITIO;
+   SPECTROSCOPY; TRANSISTORS; MOLECULES; LINES
+ER
+
+PT S
+ID SKIN
+ER
+
+PT S
+DE Terahertz radiation; T-ray; thermal degradation
+ID TIME-DOMAIN SPECTROSCOPY; MAHALANOBIS DISTANCE; NONDESTRUCTIVE
+   EVALUATION; DESIGN
+ER
+
+PT J
+DE Wind energy; Terahertz radiation; NDE; Composites
+ID TEMPERATURE-GROWN GAAS; ELECTRICAL-CONDUCTIVITY; GENERATION
+ER
+
+PT J
+DE Photomixers; terahertz (THz) communications; unitraveling carrier
+   photo-diode (UTC-PD)
+ID DATA-TRANSMISSION; HORN ANTENNA; 300 GHZ; LASER; MW
+ER
+
+PT J
+DE terahertz waves; unidirectional CFRP composites; carbon fiber;
+   reflection; transmission mode
+ID TEMPERATURE-GROWN GAAS; NONDESTRUCTIVE EVALUATION
+ER
+
+PT S
+DE Resonance Frequency; Penetration; Thick FRP Composites; Terahertz Waves
+ID TEMPERATURE-GROWN GAAS; ELECTRICAL-CONDUCTIVITY; GENERATION; CFRP
+ER
+
+PT J
+ID CYCLE ELECTROMAGNETIC PULSES; TERAHERTZ RADIATION; SUBPICOSECOND;
+   IONIZATION; TARGETS; ENERGY
+ER
+
+PT J
+ER
+
+PT J
+DE T-rays; absorption coefficient; hemagglutinin; hydration shell
+ID TIME-DOMAIN SPECTROSCOPY; TERAHERTZ PULSE SPECTROSCOPY; MODES; THZ; DNA
+ER
+
+PT J
+ID TERAHERTZ RADIATION; ELECTROMAGNETIC PULSES; GENERATION; TECHNOLOGY;
+   MEDIA; BEAM
+ER
+
+PT J
+DE NDE; T-ray; FRP; Composites
+ID TEMPERATURE-GROWN GAAS; ELECTRICAL-CONDUCTIVITY; GENERATION
+ER
+
+PT S
+DE Terahertz; photomixer; nanoelectrodes; low temperature GaAs
+ID ENHANCED RAMAN-SCATTERING; TERAHERTZ; NANOPARTICLES; ARRAYS; TIME; WAVE;
+   SPECTROSCOPY; PERFORMANCE; ELECTRODES; SILICON
+ER
+
+PT B
+DE gyrotron; real-time; T-ray; imaging; food inspection
+ER
+
+PT B
+ID DISJOINT SPANNING-TREES; METRO ETHERNET; PREPLANNED RECOVERY; REDUNDANT
+   TREES
+ER
+
+PT S
+DE THz radiation; particle acceleration; relativistic plasmas
+ID ELECTROMAGNETIC PULSES; OPTICAL RECTIFICATION; GENERATION; TARGETS
+ER
+
+PT S
+DE Terahertz Radiation; Fiber Direction; CFRP Composites; C-scan Images
+ID TEMPERATURE-GROWN GAAS; ELECTRICAL-CONDUCTIVITY; GENERATION
+ER
+
+PT S
+ER
+
+PT J
+DE Fiber reinforced plastics; Composites; Terahertz ray; Material
+   characterization; Reflection mode
+ID TEMPERATURE-GROWN GAAS; GENERATION
+ER
+
+PT J
+ID OPTICAL COHERENCE TOMOGRAPHY; DEPTH RESOLUTION; TERAHERTZ
+ER
+
+PT J
+DE T-ray; Real-time imaging; Sub-terahertz; Gyrotron
+ID FOCAL-PLANE ARRAY; WAVE; SYSTEM
+ER
+
+PT J
+DE Distributed Point Source Method; DPSM; Electromagnetic wave propagation;
+   Gaussian beam; THz ray
+ID POINT-SOURCE METHOD; AUXILIARY SOURCES; FDTD METHOD; COMPUTATION;
+   SCATTERING; CAVITY; BEAM
+ER
+
+PT B
+DE Antenna; THz; multi-band; detector; image
+ID FOCAL-PLANE ARRAY; CIRCUITS
+ER
+
+PT S
+DE Terahertz Time Domain Spectroscopy; Time of Flight Diffraction; Non
+   Destructive Testing; Polymers; Probability of Detection; THz Tomography
+ER
+
+PT S
+DE Fiber reinforced plastics; Composites; Terahertz Ray; Material
+   Characterization; Reflection mode
+ID TEMPERATURE-GROWN GAAS; GENERATION
+ER
+
+PT S
+ER
+
+PT J
+ER
+
+PT J
+DE dielectric properties; electromagnetic scattering by absorbing media;
+   electromagnetic scattering by dispersive media; nondestructive testing;
+   THz time-domain spectroscopy
+ID TIME-DOMAIN SPECTROSCOPY; TERAHERTZ; TOMOGRAPHY; FOAM
+ER
+
+PT J
+ER
+
+PT S
+ID TERAHERTZ
+ER
+
+PT S
+ER
+
+PT S
+ID SPECTROSCOPY; THICKNESS
+ER
+
+PT S
+DE Terahertz Radiation; Fourier Transform Infrared Spectroscopy;
+   Delamination Evaluation; Signal Modeling; Material Characterization
+ER
+
+PT J
+ID SINGLE-SHOT MEASUREMENT; CHIRPED PROBE PULSE; RADIATION; BEAM; GAP
+ER
+
+PT J
+ER
+
+PT B
+ID RADIATION
+ER
+
+PT S
+DE Brain imaging; Terahertz sources; submillimiter detectors
+ER
+
+PT S
+DE Terahertz Ray; Material Characterization; Reflection Mode
+ER
+
+PT B
+ID BEAM
+ER
+
+PT B
+DE Terahertz; THz; T-ray; optical rectification; GaAs
+ER
+
+PT S
+DE Terahertz Ray; System and Material Characterization; Signal Modeling
+ID SPECTROSCOPY
+ER
+
+PT J
+ID TERAHERTZ RADIATION; GENERATION
+ER
+
+PT J
+ER
+
+PT J
+DE T-rays; terahertz; terahertz time-domain spectroscopy; water vapour;
+   rotational transitions
+ID SPECTRAL-LINE CATALOG; WAVE MEASUREMENTS; THZ; SUBMILLIMETER;
+   MILLIMETER; REGION; LINEWIDTHS; RESOLUTION; FOREIGN; SHIFTS
+ER
+
+PT J
+ER
+
+PT J
+ID NOISE CHARACTERIZATION; PROPAGATION; THICKNESS; LASER
+ER
+
+PT J
+ID REFLECTION SPECTROSCOPY; DIELECTRIC-PROPERTIES; CHEMICAL RECOGNITION;
+   THZ; NOISE; WATER; RESOLUTION; RANGE
+ER
+
+PT J
+DE THz-TDS; T-rays; terahertz; interference filter; characteristic matrix;
+   time-resolved signal
+ID TIME-DOMAIN SPECTROSCOPY; FAR-INFRARED FILTERS; BAND-GAP CRYSTALS;
+   DICHROIC FILTERS; MIRRORS; RANGE
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT B
+ID TIME-DOMAIN SPECTROSCOPY
+ER
+
+PT S
+DE moisture content; terahertz spectroscopy; T-rays
+ER
+
+PT S
+DE terahertz time-domain spectroscopy; T-rays; osteosarcoma; adaptive
+   wavelets; rational MRA; feature extraction; signal classification;
+   cancer detection; Bayesian classifier
+ID TRANSFORM
+ER
+
+PT S
+DE THz-TDS; T-rays; terahertz; interference filter; characteristic matrix
+ID TIME-DOMAIN SPECTROSCOPY; FAR-INFRARED FILTERS; BAND-GAP CRYSTALS;
+   DICHROIC FILTERS; MIRRORS; RANGE
+ER
+
+PT S
+DE terahertz imaging; space shuttle foam inspection; signal modeling; point
+   source synthesis models
+ER
+
+PT J
+DE Terahertz; Auto Regressive Moving Average (ARMA); Yule-Walker algorithm;
+   Prony's method; soft threshold wavelet shrinkage de-noising; discrete
+   wavelet transform (DWT); wavelet packet transform (WPT); Mahalanobis
+   distance classifier
+ID SPECTROSCOPY
+ER
+
+PT J
+DE pairwise classification; ribonucleic acid (RNA); support vector machines
+   (SVMs); terahertz; terahertz time-domain spectroscopy
+ID TIME-DOMAIN SPECTROSCOPY; CLASSIFICATION; RECOGNITION; EXTRACTION
+ER
+
+PT J
+DE antireflection coating; T-rays; terahertz; THz-TDS
+ID SPECTROSCOPY
+ER
+
+PT J
+ER
+
+PT J
+DE biosensing; femtosecond laser systems; microwires; near-field phenomena;
+   retection; sub-wavelength effects; terahertz; tomography; T-ray imaging;
+   T-rays; waveguides
+ID TIME-DOMAIN SPECTROSCOPY; TERAHERTZ PULSE-PROPAGATION; MATERIAL
+   PARAMETER-ESTIMATION; NEAR-FIELD MICROSCOPY; WAVE-GUIDES; DIFFRACTION
+   TOMOGRAPHY; VIBRATIONAL-SPECTRA; ALL-TRANS; DIELECTRIC-RELAXATION;
+   OPTICAL RECTIFICATION
+ER
+
+PT J
+ER
+
+PT J
+DE Mahalanobis distance classifier; wavelet denoising; T-rays
+ER
+
+PT J
+DE tomography; T-rays; wavelet transform
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT B
+ID SPECTROSCOPY
+ER
+
+PT B
+ID TERAHERTZ PULSE-PROPAGATION; WAVE-GUIDES; ROUGHNESS; FIBERS
+ER
+
+PT S
+DE terahertz; explosives; THz generation; THz detection; THz spectroscopy
+ER
+
+PT J
+ER
+
+PT S
+DE liquid DTDS; T-rays; spectroscopy
+ID DIELECTRIC-RELAXATION; THIN-FILMS; THZ
+ER
+
+PT S
+DE terahertz time-domain spectroscopy; hydrogen-bonds; biomolecules;
+   intermolecular vibrations; T-rays
+ID TERAHERTZ SPECTROSCOPY; REFLECTION SPECTROSCOPY; THZ
+ER
+
+PT S
+DE terahertz time-domain spectroscopy; biomolecules; intermolecular
+   vibrations; T-rays
+ID TIME-DOMAIN SPECTROSCOPY; TERAHERTZ PULSED SPECTROSCOPY; PHARMACEUTICAL
+   MATERIALS; REFLECTION SPECTROSCOPY
+ER
+
+PT S
+DE terahertz; T-rays; support vector machines; pairwise classification; RNA
+ID TIME-DOMAIN SPECTROSCOPY; RECOGNITION
+ER
+
+PT S
+DE antireflection coating; terahertz time-domain spectroscopy; T-rays
+ID OPTICAL-CONSTANTS; TERAHERTZ FREQUENCIES; INFRARED MATERIALS;
+   MILLIMETER; MIRRORS; FILTERS; FILMS; GE
+ER
+
+PT S
+DE THz-TDS; T-rays; terahertz; absorption line; water-vapor-induced
+   fluctuations; femtosecond laser systems; fluctuation ratio
+ID TIME-DOMAIN SPECTROSCOPY; REFLECTION SPECTROSCOPY; TERAHERTZ
+ER
+
+PT S
+DE THz-TDS; T-rays; spectroscopy; measurement uncertainty; optical
+   constants; noise; ultrafast laser systems
+ID TIME-DOMAIN SPECTROSCOPY; ANTENNAS; NOISE; GENERATION; PULSES
+ER
+
+PT S
+DE terahertz; NDE; imaging
+ER
+
+PT S
+DE terahertz spectroscopy; T-rays; glasses and polymer; microwire;
+   normalized field distribution; power fraction and effective loss
+ID WAVE-GUIDES; TERAHERTZ PULSES; PROPAGATION; INTERCONNECT
+ER
+
+PT J
+ER
+
+PT J
+ID PULSES; SUBPICOSECOND; SPECTROSCOPY
+ER
+
+PT J
+ER
+
+PT J
+DE Fabry-Perot removal; reflection; T-rays; terahertz time-domain
+   spectroscopy; gradient-based parameter estimation; noise in photonic
+   measurement systems
+ID TIME-DOMAIN SPECTROSCOPY; TERAHERTZ BEAMS; EXTRACTION
+ER
+
+PT S
+ER
+
+PT B
+DE terahertz computed tomography; segmentation feature extraction;
+   Mahalanobis distance classifier
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT S
+DE models; simulation; terahertz; T-rays; stratified media
+ID THZ REFLECTION SPECTROSCOPY; DIELECTRIC-PROPERTIES; BIOLOGICAL TISSUES;
+   LIQUID WATER; HUMAN-BODY; HUMAN SKIN; PROPAGATION; PHANTOM; VIVO;
+   CONSTANTS
+ER
+
+PT S
+DE terahertz time-domain spectroscopy; T-rays; support vector machines;
+   feature selection; osteosarcoma; signal classification; cancer
+   detection; curse of dimensionality
+ID SUPPORT VECTOR MACHINES/; TIME-DOMAIN SPECTROSCOPY; FEATURE
+   SUBSET-SELECTION; TERAHERTZ RADIATION; CANCER; TISSUE
+ER
+
+PT S
+DE T-ray; discrete wavelet transform; wavelet shrinkage de-noising; Stein's
+   unbias risk estimator; wavelet maxima
+ID NOISE
+ER
+
+PT S
+DE Terahertz imaging; space shuttle foam insulation; T-ray modeling; T-ray
+   signal processing
+ER
+
+PT S
+DE structure; disorder; crystal; ZnCdTe; semiconductor; x-ray diffraction;
+   XAFS; tera hertz
+ID BAND
+ER
+
+PT B
+DE T-Ray; PT; multiphase flow; infrared; ART
+ER
+
+PT B
+ER
+
+PT S
+DE T-rays; terahertz; time-domain spectroscopy; Fabry-Perot removal
+ID TIME-DOMAIN SPECTROSCOPY
+ER
+
+PT B
+ER
+
+PT S
+DE terahertz; Bayesian classification; range profile; high-resolution radar
+ER
+
+PT S
+DE terahertz; THz; terahertz imaging; terahertz spectroscopy; T-rays
+ID TIME-DOMAIN SPECTROSCOPY; HUMAN SKIN; IN-VIVO; TERAHERTZ SPECTROSCOPY;
+   MAGNETIC-RESONANCE; VIBRATIONAL-MODES; DNA; THZ; TECHNOLOGY; TISSUE
+ER
+
+PT J
+DE terahertz time-domain spectroscopy (THz-TDS); T-rays liquid spectroscopy
+ID THZ REFLECTION SPECTROSCOPY; SYSTEM TRADE-OFFS; MOLECULAR-DYNAMICS;
+   TERAHERTZ SPECTROSCOPY; TEMPERATURE-DEPENDENCE; DIELECTRIC-RELAXATION;
+   BIOAFFINITY DETECTION; NONAQUEOUS MIXTURES; DIPOLAR LIQUIDS; POLAR
+   LIQUIDS
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT S
+DE T-rays; terahertz (THz) time-domain spectroscopy; ultrafast photonics
+ID NOISE; RADIATION; COHERENT; SYSTEM
+ER
+
+PT S
+DE synchrotron; terahertz; T-rays
+ID RADIATION; TISSUE
+ER
+
+PT S
+DE T-rays; terahertz (THz) time-domain spectroscopy; ultrafast photonics;
+   liquid
+ID TIME-DOMAIN SPECTROSCOPY; THZ REFLECTION SPECTROSCOPY;
+   MOLECULAR-DYNAMICS; TEMPERATURE-DEPENDENCE; DIELECTRIC-RELAXATION;
+   NONAQUEOUS MIXTURES; DIPOLAR LIQUIDS; POLAR LIQUIDS; RESOLVED THZ; WATER
+ER
+
+PT S
+DE terahertz spectroscopy; biomedical applications; biomolecules detection
+   & identification
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT S
+DE T-ray; differential THz time-domain spectroscopy
+ID TIME-DOMAIN SPECTROSCOPY; THZ REFLECTION SPECTROSCOPY; SYSTEM
+   TRADE-OFFS; MOLECULAR-DYNAMICS; TERAHERTZ SPECTROSCOPY;
+   TEMPERATURE-DEPENDENCE; DIELECTRIC-RELAXATION; BIOAFFINITY DETECTION;
+   NONAQUEOUS MIXTURES; DIPOLAR LIQUIDS
+ER
+
+PT J
+DE detectors; infrared history; instrumentation; sources; spectroscopy
+ID FAR INFRA-RED; TEMPERATURE; PHOTOCONDUCTIVITY; BOLOMETER; EMISSION;
+   LASER; INSB
+ER
+
+PT J
+DE imaging; tomography; T-rays
+ER
+
+PT J
+ER
+
+PT S
+DE terahertz; T-ray imaging; chirped pulse; linear-filter modelling;
+   classification
+ID TIME-DOMAIN SPECTROSCOPY; TERAHERTZ WAVES; SENSOR; BEAMS
+ER
+
+PT S
+ER
+
+PT J
+DE terahertz; T-ray imaging; chirped pulse; linear-filter modelling;
+   classification
+ID TIME-DOMAIN SPECTROSCOPY; TERAHERTZ BEAMS; WAVES
+ER
+
+PT J
+ID SPACE ELECTROOPTIC DETECTION; OPTICAL RECTIFICATION; ZINCBLENDE
+   CRYSTALS; THZ RADIATION; COHERENT; PULSES; TECHNOLOGY; GENERATION;
+   SENSORS; TISSUE
+ER
+
+PT J
+ID TERAHERTZ; PULSES; BEAM
+ER
+
+PT J
+DE terahertz; coherent electromagnetic radiation; THz time-domain
+   spectroscopy; T-ray imaging
+ID TIME-DOMAIN SPECTROSCOPY; POLED LITHIUM-NIOBATE; DIELECTRIC-CONSTANT
+   MEASUREMENT; QUANTUM-CASCADE LASERS; MODE-LOCKED OPERATION; OPTICAL
+   RECTIFICATION; THZ RADIATION; PHOTOCONDUCTING ANTENNAS; ELECTROMAGNETIC
+   PULSES; FEMTOSECOND PULSES
+ER
+
+PT J
+ER
+
+PT J
+ID TERAHERTZ
+ER
+
+PT S
+ID PHASE-SHIFT; TERAHERTZ; GENERATION; PULSES; RADIATION; THZ
+ER
+
+PT S
+DE Terahertz imaging; tomography; diffraction; Fresnel lens
+ID TERAHERTZ WAVES; TIME-REVERSAL; THZ; PULSES
+ER
+
+PT S
+DE terahertz detection; T-rays; statistical pattern classification
+ER
+
+PT B
+ID TIME-DOMAIN SPECTROSCOPY; THZ
+ER
+
+PT B
+ID KAUFFMAN NETWORKS; NEURAL NETWORKS; PROBABILITIES; COMPUTATION;
+   ATTRACTORS; COMPLEXITY; ALGORITHMS; FORMULA; SEARCH
+ER
+
+PT B
+DE terahertz T-ray; tomography; Imaging
+ER
+
+PT J
+DE terahertz; T-ray imaging; wavelet de-noising; Wiener deconvolution
+ID TIME-DOMAIN SPECTROSCOPY; SYSTEM
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+EF

@@ -1,0 +1,262 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,connectomics,23,connectomics,77
+1,connectome,17,connectome,53
+2,connectivity,12,connectivity,42
+3,functional connectivity,11,dti,41
+4,network,11,graph theory,31
+5,dti,9,brain connectivity,31
+6,graph theory,9,functional connectivity,26
+7,brain connectivity,8,fmri,25
+8,tractography,7,tractography,23
+9,fmri,7,network,18
+10,diffusion mri,4,adhd,16
+11,diffusion tensor imaging,4,human,15
+12,brain mapping,4,neuroimaging,15
+13,neuroimaging,4,hardi,14
+14,brain,3,diffusion mri,13
+15,human,3,neuroanatomy,12
+16,functional,3,brain mapping,12
+17,human connectome,3,development,12
+18,functional mri,3,rs-fmri,12
+19,neuroanatomy,3,autism,12
+20,hardi,3,diffusion tensor imaging,11
+21,adhd,3,brain,10
+22,rat,2,functional mri,10
+23,structural,2,structural,9
+24,functional magnetic resonance,2,functional,9
+25,cortex,2,cortex,9
+26,brain networks,2,psychosis,9
+27,diffusion-weighted imaging,2,resting state,9
+28,cortex parcellation,2,human connectome,8
+29,functional magnetic resonance imaging,2,brain network,8
+30,diffusion,2,cerebral cortex,8
+31,machine learning,2,schizophrenia,8
+32,brain network,2,mri,8
+33,cerebral cortex,2,rat,7
+34,diffusion tractography,2,brain networks,7
+35,macaque,2,macaque,7
+36,structural connectivity,2,magnetic resonance imaging,7
+37,effective,2,anatomy,5
+38,psychosis,2,cerebrum,5
+39,schizophrenia,2,connectome organization,5
+40,alzheimer's disease,2,cytoarchitecture,5
+41,development,2,mouse,5
+42,rs-fmri,2,coil,5
+43,autism,2,connectivity matrix,5
+44,diffusion-tensor,2,mouse brain,5
+45,sex-differences,2,throughput,5
+46,magnetic resonance imaging,2,diffusion-weighted imaging,5
+47,resting state,2,cortex parcellation,5
+48,mri,2,diffusion,5
+49,functional connectomes,2,machine learning,5
+50,meta-analysis,1,diffusion tractography,5
+51,obsessive-compulsive disorder,1,effective,5
+52,precuneus,1,graph analysis,5
+53,seizures,1,complex network,5
+54,kinetopsia,1,dementia,5
+55,nihilism,1,alzheimer's disease,5
+56,resting state fmri,1,complex,5
+57,diffuse low-grade glioma,1,small world,5
+58,awake mapping,1,surfaces,5
+59,quality of life,1,atlases,5
+60,anatomy,1,visualization,5
+61,cerebrum,1,precuneus,4
+62,fiber dissection,1,seizures,4
+63,connectome organization,1,kinetopsia,4
+64,cytoarchitecture,1,nihilism,4
+65,mouse,1,resting state fmri,4
+66,brain tumor,1,growth and shape,4
+67,high-grade glioma,1,morphome,4
+68,molecular biomarker,1,kinetcome,4
+69,global fiber tracking,1,functional magnetic resonance imaging,4
+70,neurocircuitry,1,motor learning,4
+71,graph theory method,1,dynamic networks,4
+72,mental disorder,1,microvesicles,4
+73,coil,1,volume transmission,4
+74,connectivity matrix,1,wiring,4
+75,mouse brain,1,centrality,4
+76,throughput,1,regional homogeneity,4
+77,brain connectome,1,local,4
+78,diffusion mri imaging,1,structural connectivity,4
+79,streamline variation,1,tract-tracing,4
+80,epilepsy,1,ferrets,4
+81,electrical source localization,1,databases as,4
+82,neural networks,1,interactive,4
+83,white matter hyperintensities,1,api,4
+84,ageing,1,diffusion imaging,4
+85,growth and shape,1,tract tracing,4
+86,morphome,1,brain graphs,4
+87,kinetcome,1,open data,4
+88,structural/functional patterns,1,open science,4
+89,spatial normalization,1,life span,4
+90,cell-specific connectivity,1,big data,4
+91,effective connectivity,1,normative charts,4
+92,autism spectrum disorder,1,discovery science,4
+93,resting-state functional magnetic resonance,1,neuroscience,4
+94,spectrum,1,data abstraction,4
+95,small-world network,1,multi-trees,4
+96,network neuroscience,1,focus plus,4
+97,aphasia,1,small-world,4
+98,stroke,1,claustrum,4
+99,motor learning,1,macro-scale,4
+100,dynamic networks,1,micro-scale,4
+101,multicore programming,1,wilson's disease,4
+102,big-data,1,diffusion-tensor,4
+103,translational mri,1,sex-differences,4
+104,in vivo animal model,1,major depression,4
+105,neurodegeneration,1,multimodal,4
+106,resting fmri,1,cortical network,4
+107,node identification,1,networks,4
+108,subject-specific rois,1,validation,4
+109,alzheimer's,1,database,4
+110,cardiac surgical procedures,1,open access,4
+111,coronary artery bypass,1,reproducibility,4
+112,microvesicles,1,diffuse low-grade glioma,3
+113,volume transmission,1,awake mapping,3
+114,wiring,1,quality of life,3
+115,dwi,1,brain tumor,3
+116,structural connectomes,1,high-grade glioma,3
+117,philosophy of neuroscience,1,molecular biomarker,3
+118,epistemic object,1,global fiber tracking,3
+119,dense connectome analysis,1,neurocircuitry,3
+120,resting-state fmri,1,graph theory method,3
+121,haloperidol,1,mental disorder,3
+122,resting-state,1,functional magnetic resonance,3
+123,pharmacological connectomics,1,neural networks,3
+124,phmri,1,white matter hyperintensities,3
+125,resting human brain,1,ageing,3
+126,nucleus-accumbens,1,spatial normalization,3
+127,brain functional connectivity,1,small-world network,3
+128,graph theoretical methods,1,network neuroscience,3
+129,independent,1,aphasia,3
+130,resting-state networks,1,stroke,3
+131,alzheimers-disease,1,multicore programming,3
+132,lewy,1,big-data,3
+133,centrality,1,translational mri,3
+134,regional homogeneity,1,in vivo animal model,3
+135,local,1,neurodegeneration,3
+136,autism spectrum disorders,1,resting fmri,3
+137,child brain connectome,1,node identification,3
+138,covariance mapping,1,subject-specific rois,3
+139,free electron lasers,1,alzheimer's,3
+140,photoionisation,1,philosophy of neuroscience,3
+141,coulomb,1,epistemic object,3
+142,spectral clustering,1,haloperidol,3
+143,group-wise analysis,1,resting-state,3
+144,whole-brain,1,pharmacological connectomics,3
+145,sample preparation,1,phmri,3
+146,ultramicrotomy,1,resting-state networks,3
+147,electron microscopy,1,alzheimers-disease,3
+148,in vivo,1,lewy,3
+149,functional connectome,1,covariance mapping,3
+150,human brainstem nuclei,1,free electron lasers,3
+151,high spatial,1,photoionisation,3
+152,tract-tracing,1,coulomb,3
+153,ferrets,1,spectral clustering,3
+154,databases as,1,group-wise analysis,3
+155,lesion-derived network mapping,1,whole-brain,3
+156,decision-making,1,sample preparation,3
+157,structural network connections,1,ultramicrotomy,3
+158,traumatic brain,1,electron microscopy,3
+159,default-mode network,1,in vivo,3
+160,executive-control network,1,functional connectome,3
+161,module,1,human brainstem nuclei,3
+162,cytoarchitectonics,1,high spatial,3
+163,gene expression,1,default-mode network,3
+164,functional brain network,1,executive-control network,3
+165,resting-state network,1,module,3
+166,volume shape,1,cytoarchitectonics,3
+167,neurosurgery,1,gene expression,3
+168,disorders of consciousness,1,functional brain network,3
+169,network analysis,1,resting-state network,3
+170,interactive,1,volume shape,3
+171,api,1,disorders of consciousness,3
+172,extreme prematurity,1,network analysis,3
+173,human brain,1,extreme prematurity,3
+174,multiscale fingerprinting,1,human brain,3
+175,pneumotaxic center,1,mild traumatic brain injury,3
+176,diffusion imaging,1,meg,3
+177,tract tracing,1,tensors,3
+178,graph analysis,1,computational connectomics,3
+179,complex network,1,structural mri,3
+180,dementia,1,mild cognitive,3
+181,glioma,1,connectome datasets,3
+182,superior longitudinal fasciculus,1,intrinsic geometry,3
+183,anterior,1,neuroplasticity,3
+184,brain graphs,1,brain connectomics,3
+185,open data,1,serial mappings,3
+186,open science,1,awake surgery,3
+187,mild traumatic brain injury,1,multi-scale connectome,3
+188,meg,1,neuron tracer,3
+189,tensors,1,functional connectomics,3
+190,computational connectomics,1,lifespan trajectory,3
+191,structural mri,1,rich club,3
+192,mild cognitive,1,group study,3
+193,traumatic brain injury,1,cortical architecture,3
+194,connectome datasets,1,cortical landmark,3
+195,intrinsic geometry,1,network theory,3
+196,life span,1,pipeline,3
+197,big data,1,brainbow,3
+198,normative charts,1,storm,3
+199,discovery science,1,super-resolution imaging,3
+200,neuroscience,1,functional connectomes,3
+201,data abstraction,1,structural networks,3
+202,multi-trees,1,neuroinformatics,3
+203,focus plus,1,data mining,3
+204,small-world,1,data collation and,3
+205,claustrum,1,region of interests,3
+206,macro-scale,1,meta-analysis,2
+207,micro-scale,1,obsessive-compulsive disorder,2
+208,wilson's disease,1,fiber dissection,2
+209,transport,1,brain connectome,2
+210,striate cortex,1,diffusion mri imaging,2
+211,neuroplasticity,1,streamline variation,2
+212,brain connectomics,1,epilepsy,2
+213,serial mappings,1,electrical source localization,2
+214,awake surgery,1,structural/functional patterns,2
+215,gliomas,1,cell-specific connectivity,2
+216,supplementary motor area,1,effective connectivity,2
+217,intraoperative electrical,1,cardiac surgical procedures,2
+218,attention-deficit/hyperactivity disorder,1,coronary artery bypass,2
+219,multi-scale connectome,1,dwi,2
+220,neuron tracer,1,structural connectomes,2
+221,functional connectomics,1,dense connectome analysis,2
+222,lifespan trajectory,1,resting-state fmri,2
+223,rich club,1,resting human brain,2
+224,network-based signature,1,nucleus-accumbens,2
+225,group study,1,brain functional connectivity,2
+226,cortical architecture,1,graph theoretical methods,2
+227,cortical landmark,1,independent,2
+228,network theory,1,autism spectrum disorders,2
+229,pipeline,1,child brain connectome,2
+230,major depression,1,lesion-derived network mapping,2
+231,multimodal,1,decision-making,2
+232,brainbow,1,structural network connections,2
+233,storm,1,traumatic brain,2
+234,super-resolution imaging,1,neurosurgery,2
+235,complex,1,multiscale fingerprinting,2
+236,small world,1,pneumotaxic center,2
+237,surfaces,1,glioma,2
+238,atlases,1,superior longitudinal fasciculus,2
+239,visualization,1,anterior,2
+240,laterality,1,traumatic brain injury,2
+241,fetal growth restriction,1,transport,2
+242,brain reorganization,1,striate cortex,2
+243,postnatal development,1,gliomas,2
+244,cortical network,1,supplementary motor area,2
+245,structural networks,1,intraoperative electrical,2
+246,neuroinformatics,1,laterality,2
+247,data mining,1,fetal growth restriction,2
+248,data collation and,1,brain reorganization,2
+249,region of interests,1,postnatal development,2
+250,1000 functional connectomes,1,caenorhabditis-elegans,2
+251,complex networks,1,circuit reconstruction,2
+252,networks,1,nervous-system,2
+253,validation,1,autism spectrum disorder,1
+254,resting state functional mri connectivity,1,resting-state functional magnetic resonance,1
+255,database,1,spectrum,1
+256,open access,1,attention-deficit/hyperactivity disorder,1
+257,reproducibility,1,network-based signature,1
+258,caenorhabditis-elegans,1,1000 functional connectomes,1
+259,circuit reconstruction,1,complex networks,1
+260,nervous-system,1,resting state functional mri connectivity,1

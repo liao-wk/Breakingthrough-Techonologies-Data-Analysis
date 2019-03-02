@@ -1,0 +1,237 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,magnetic resonance imaging,14,magnetic resonance imaging,38
+1,mrfm,7,mri,29
+2,mri,7,mrfm,24
+3,magnetic resonance,7,magnetic,21
+4,magnetic resonance force microscopy,7,magnetic resonance,17
+5,magnetic,6,magnetic resonance force microscopy,14
+6,functional magnetic resonance imaging (fmri),5,esr,12
+7,lorentz force,5,elastography,12
+8,cardiac magnetic resonance,3,lorentz force,12
+9,esr,3,imaging,11
+10,imaging,3,force detection,10
+11,elastography,3,nuclear magnetic resonance,9
+12,nuclear magnetic resonance,3,functional magnetic resonance imaging (fmri),8
+13,force detection,3,safety,8
+14,force,2,nanomagnets,8
+15,microscopy,2,electrometer,8
+16,cardiovascular imaging,2,magnetometer,8
+17,cardiomyopathy,2,cardiac magnetic resonance,7
+18,coil,2,cardiac catheterization,7
+19,bayesian inference,2,force sensor,7
+20,magnetic resonance force microscopy (mrfm),2,ultrasound,7
+21,cardiac catheterization,2,image segmentation,7
+22,force sensor,2,force,6
+23,ultrasound,2,microscopy,6
+24,magnetic force microscopy,2,silicon-nitride,5
+25,safety,2,membrane,5
+26,cantilever,2,cyclic-saturation,5
+27,haptic,2,cardiovascular imaging,5
+28,image segmentation,2,mre,5
+29,nanomagnets,2,velocity,5
+30,electrometer,2,single-sided magnet,5
+31,magnetometer,2,stiffness,5
+32,magnetic-resonance-force-detection,1,cantilever,5
+33,liquids,1,mr,5
+34,functional magnetic resonance imaging,1,incidents,5
+35,magnetic resonance-compatibility,1,heating,5
+36,editorials,1,7t,4
+37,aortic stenosis,1,breast coils,4
+38,myocardial,1,dual mode,4
+39,cardiovascular magnetic resonance,1,forced-current excitation (fce),4
+40,training,1,high field,4
+41,credentialing,1,aorta,4
+42,mr-compatible hand exoskeleton,1,aortic dissection,4
+43,robot rehabilitation,1,chronic,4
+44,charge transfer,1,cardiomyopathy,4
+45,electrochemistry,1,coil,4
+46,flow propagators,1,mr tagging,4
+47,forced hydrodynamic,1,harp,4
+48,deflection torque,1,motion tracking,4
+49,displacement force,1,strain,4
+50,magnetic resonance imaging (mri),1,soft tissue indentation,4
+51,noncontact atomic force microscopy,1,catheter,4
+52,ferromagnetic resonance,1,fiber-optic,4
+53,paramagnetic,1,magnetic force microscopy,4
+54,resonance,1,transient,4
+55,hypertrophic cardiomyopathy,1,radiation force,4
+56,late gadolinium,1,mr safety,4
+57,silicon-nitride,1,mr compatibility,4
+58,membrane,1,rf-induced heating,4
+59,cyclic-saturation,1,artifacts,4
+60,adaptive control,1,actuator,4
+61,force control,1,brake,4
+62,medical robotics,1,damper,4
+63,pneumatic systems,1,electrorheological fluid (erf),4
+64,7t,1,functional,4
+65,breast coils,1,x-band,4
+66,dual mode,1,dpph,4
+67,forced-current excitation (fce),1,force detected nmr,4
+68,high field,1,nmr microscopy,4
+69,arvd/c,1,gaas,4
+70,task force criteria,1,optical pumping,4
+71,transthoracic,1,deformable models,4
+72,acc training statement,1,snake,4
+73,cardiovascular magnetic,1,gradient vector flow,4
+74,force distribution sensor,1,editorials,3
+75,optical fiber sensors,1,aortic stenosis,3
+76,minimally invasive,1,myocardial,3
+77,mri-compatible surgical robot,1,charge transfer,3
+78,tendon-based transmission,1,electrochemistry,3
+79,kinematic,1,flow propagators,3
+80,aorta,1,forced hydrodynamic,3
+81,aortic dissection,1,paramagnetic,3
+82,chronic,1,resonance,3
+83,liver,1,adaptive control,3
+84,cirrhosis,1,force control,3
+85,acoustic radiation force impulse,1,medical robotics,3
+86,bundle branch block,1,pneumatic systems,3
+87,coronary disease,1,arvd/c,3
+88,characterization,1,task force criteria,3
+89,nanotechnology,1,transthoracic,3
+90,spm,1,liver,3
+91,ccd,1,cirrhosis,3
+92,spectroscopy,1,acoustic radiation force impulse,3
+93,single cells,1,characterization,3
+94,fluorescence,1,nanotechnology,3
+95,electrocardiography,1,spm,3
+96,risk,1,ccd,3
+97,heart,1,spectroscopy,3
+98,recommendations,1,single cells,3
+99,image,1,fluorescence,3
+100,finite element model,1,electrocardiography,3
+101,integral force feedback,1,risk,3
+102,oscillating cantilever-driven,1,heart,3
+103,mre,1,recommendations,3
+104,velocity,1,image,3
+105,single-sided magnet,1,bayesian inference,3
+106,stiffness,1,magnetic resonance force microscopy (mrfm),3
+107,tactile sensing,1,fiber-optic force sensor,3
+108,piezoelectric,1,light,3
+109,magnetic resonance compatibility,1,magnetic field,3
+110,single molecule magnet,1,meg-mri,3
+111,qubit,1,ultra-low-field mri,3
+112,fiber-optic force sensor,1,prepolarization,3
+113,light,1,fourier series,3
+114,magnetic field,1,uniplanar,3
+115,mr tagging,1,fm detection,3
+116,harp,1,molecular structure imaging,3
+117,motion tracking,1,haptic,3
+118,strain,1,force chains,3
+119,soft tissue indentation,1,mr elastography,3
+120,myopic deconvolution,1,granular,3
+121,markov chain monte carlo,1,phase-contrast,3
+122,arrhythmogenic right ventricular dysplasia,1,active,3
+123,spatial resolution,1,microimaging,3
+124,resonance microscopy,1,nmr spectroscopy,3
+125,semiconductor photo etching,1,body posture,3
+126,catheter,1,dynamic magnetic resonance imaging,3
+127,fiber-optic,1,lung,3
+128,cantilevers,1,lung function,3
+129,magnetic resonance spectroscopy,1,force transducer,3
+130,meg-mri,1,strain gauges,3
+131,ultra-low-field mri,1,fmri,3
+132,prepolarization,1,cardiac motion analysis,3
+133,optical fiber,1,cardiac driving forces,3
+134,tactile sensor,1,kalman filter,3
+135,minimally invasive robotic surgery,1,on-line,3
+136,transient,1,funtional mri (fmri),3
+137,radiation force,1,force feedback,3
+138,fourier series,1,haptic interface,3
+139,uniplanar,1,mr-compatible,3
+140,fm detection,1,magnetism,3
+141,molecular structure imaging,1,clustering,3
+142,magnetic-resonance-imaging-compatible image-guided interventions,1,dynamic contours,3
+143,double-ridged horn antenna,1,image processing,3
+144,induced,1,single-spin detection,3
+145,force chains,1,cyclic,3
+146,mr elastography,1,compartment syndromes,3
+147,granular,1,exertion,3
+148,magnetic resonance compatible,1,muscles,3
+149,minimally invasive surgery,1,scanning tip microscopy,3
+150,tactile,1,chemical contrast,3
+151,mr safety,1,ambient,3
+152,mr compatibility,1,magnetic-resonance-force-detection,2
+153,rf-induced heating,1,liquids,2
+154,artifacts,1,cardiovascular magnetic resonance,2
+155,hadamard codes,1,training,2
+156,actuator,1,credentialing,2
+157,brake,1,deflection torque,2
+158,damper,1,displacement force,2
+159,electrorheological fluid (erf),1,magnetic resonance imaging (mri),2
+160,functional,1,noncontact atomic force microscopy,2
+161,electrorheological fluids,1,ferromagnetic resonance,2
+162,phase-contrast,1,hypertrophic cardiomyopathy,2
+163,active,1,late gadolinium,2
+164,magnetic resonance thermometry,1,acc training statement,2
+165,high intensity focused ultrasound,1,cardiovascular magnetic,2
+166,microimaging,1,force distribution sensor,2
+167,nmr spectroscopy,1,optical fiber sensors,2
+168,data glove,1,minimally invasive,2
+169,body posture,1,mri-compatible surgical robot,2
+170,dynamic magnetic resonance imaging,1,tendon-based transmission,2
+171,lung,1,kinematic,2
+172,lung function,1,bundle branch block,2
+173,force transducer,1,coronary disease,2
+174,strain gauges,1,finite element model,2
+175,fmri,1,integral force feedback,2
+176,mr,1,tactile sensing,2
+177,incidents,1,piezoelectric,2
+178,heating,1,magnetic resonance compatibility,2
+179,x-band,1,single molecule magnet,2
+180,dpph,1,qubit,2
+181,cardiac motion analysis,1,myopic deconvolution,2
+182,cardiac driving forces,1,markov chain monte carlo,2
+183,kalman filter,1,spatial resolution,2
+184,on-line,1,resonance microscopy,2
+185,displacement sensor,1,semiconductor photo etching,2
+186,single,1,cantilevers,2
+187,construction technique,1,magnetic resonance spectroscopy,2
+188,resistive magnets,1,optical fiber,2
+189,funtional mri (fmri),1,tactile sensor,2
+190,force feedback,1,minimally invasive robotic surgery,2
+191,haptic interface,1,double-ridged horn antenna,2
+192,mr-compatible,1,induced,2
+193,neuronal magnetic field,1,magnetic resonance compatible,2
+194,extracellular potential,1,minimally invasive surgery,2
+195,magnetism,1,tactile,2
+196,displacement detection,1,hadamard codes,2
+197,capacitive,1,data glove,2
+198,afm,1,displacement sensor,2
+199,diatoms,1,single,2
+200,frustule,1,construction technique,2
+201,buried interfaces,1,resistive magnets,2
+202,thin films,1,neuronal magnetic field,2
+203,clustering,1,extracellular potential,2
+204,dynamic contours,1,displacement detection,2
+205,image processing,1,capacitive,2
+206,spin relaxation,1,afm,2
+207,single-spin detection,1,diatoms,2
+208,cyclic,1,frustule,2
+209,micro-coils,1,buried interfaces,2
+210,magnetic resonance force,1,thin films,2
+211,force detected nmr,1,spin relaxation,2
+212,nmr microscopy,1,micro-coils,2
+213,gaas,1,magnetic resonance force,2
+214,optical pumping,1,magnetic-resonance force microscope,2
+215,magnetic-resonance force microscope,1,"mrfm, magnetic resonance force microscope",2
+216,compartment syndromes,1,sensitive slice,2
+217,exertion,1,scanned,2
+218,muscles,1,force-minimized,2
+219,"mrfm, magnetic resonance force microscope",1,magnet design,2
+220,sensitive slice,1,mri magnet,2
+221,scanned,1,magnetic resonance magnet,2
+222,deformable models,1,elliptical cross section,2
+223,snake,1,maxwell forces,2
+224,gradient vector flow,1,soft magnetic material,2
+225,force-minimized,1,new magnetic effect,2
+226,magnet design,1,functional magnetic resonance imaging,1
+227,mri magnet,1,magnetic resonance-compatibility,1
+228,magnetic resonance magnet,1,mr-compatible hand exoskeleton,1
+229,elliptical cross section,1,robot rehabilitation,1
+230,maxwell forces,1,oscillating cantilever-driven,1
+231,scanning tip microscopy,1,arrhythmogenic right ventricular dysplasia,1
+232,chemical contrast,1,magnetic-resonance-imaging-compatible image-guided interventions,1
+233,ambient,1,electrorheological fluids,1
+234,soft magnetic material,1,magnetic resonance thermometry,1
+235,new magnetic effect,1,high intensity focused ultrasound,1

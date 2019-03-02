@@ -1,0 +1,241 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE C-2 subdivision surface; Almost everywhere parametrically C-2; Good
+   highlight line distribution; Fast convergence
+ID DIMENSION
+ER
+
+PT J
+ER
+
+PT J
+DE Borderline personality disorder; Mindfulness; Humor styles; Awareness;
+   Nonreactivity
+ID DIALECTICAL BEHAVIOR-THERAPY; EMOTION REGULATION; DISORDER; PREDICTORS;
+   MEDIATOR; ANGER; AGGRESSION; DEPRESSION; RUMINATION; AWARENESS
+ER
+
+PT J
+ID MECHANICAL-PROPERTIES; NANOPARTICLES; DESIGN; FABRICATION; IMPACT;
+   GROWTH
+ER
+
+PT J
+DE Botulinum neurotoxin A; Peptide; Superparamagnetic beads; Fluorescence
+   detection
+ID LINKED-IMMUNOSORBENT-ASSAY; CLOSTRIDIUM-BOTULINUM; RAPID DETECTION;
+   ENDOPEP-MS; TOXIN-F; SEROTYPE; QUANTIFICATION; NANOPARTICLES; SERUM;
+   FRET
+ER
+
+PT J
+DE [F-18]IUR-1602 ((S)-N-(2-chloro-3-(trifluoromethyl)benzyl)-1-(2-[F-18]
+   fluoropropyl)-5-oxopyrrolidine-2-carboxamide); Purinergic P2X7 receptor
+   (P2X7R); Radiosynthesis; Competitive binding assay; Positron emission
+   tomography (PET)
+ID PRELIMINARY BIOLOGICAL EVALUATION; FULLY AUTOMATED SYNTHESIS;
+   BETA-CIT-FP; PRECLINICAL EVALUATION; RECEPTOR ANTAGONIST; PET; TRACER;
+   MODEL; NEUROINFLAMMATION; TRANSPORTERS
+ER
+
+PT J
+DE Mercury; Pollucite; Thin-layer cap; Tracer
+ER
+
+PT J
+DE dielectric spectroscopy; electron diffraction; polar tweed; relaxor
+   ferroelectric
+ID DIFFUSE PHASE-TRANSITIONS; FERROELECTRIC PEROVSKITES PB(SC1/2NB1/2)O3;
+   LEAD SCANDIUM TANTALATE; DISORDER; PB(SC1/2TA1/2)O3; CERAMICS; BEHAVIOR;
+   MODEL; TEM
+ER
+
+PT J
+ID CONSERVED AROMATIC RESIDUES; WILD-TYPE; CATALYZED HYDROLYSIS;
+   MEMBRANE-PROTEINS; HALF-LIFE; ACETYLCHOLINESTERASE; FLUORESCENCE;
+   TRYPTOPHAN; COMPLEXITIES; ASSOCIATION
+ER
+
+PT J
+ID TB
+ER
+
+PT J
+ID REPRESSION; ELEMENT; TOOLS
+ER
+
+PT J
+ID GUANYLATE-BINDING PROTEINS; NF-KAPPA-B; NLRP3 INFLAMMASOME;
+   HOST-DEFENSE; MYD88-DEFICIENT MICE; TRANSCRIPTION FACTOR; AIM2
+   INFLAMMASOME; GENE INDUCTION; CUTTING EDGE; T-CELL
+ER
+
+PT J
+DE modelling and simulation; pharmacokinetic-pharmacodynamic;
+   pharmacometrics; ropinirole; therapeutics
+ID DOPAMINE AGONIST; TRICUSPID REGURGITATION; HEART-DISEASE; CV 205-502;
+   BROMOCRIPTINE; CABERGOLINE; PHARMACOLOGY; RESISTANT; HYPERPROLACTINEMIA;
+   PREVALENCE
+ER
+
+PT J
+DE bedside US; bronchiolitis; pediatrics; pneumonia; thoracic US
+ID LUNG ULTRASOUND; CHEST RADIOGRAPHY; RESPIRATORY-DISTRESS; DIAGNOSING
+   PNEUMONIA; CHILDREN; ULTRASONOGRAPHY; CONSOLIDATION; EMERGENCY
+ER
+
+PT J
+ID ANAPHASE-PROMOTING COMPLEX; SPINDLE ASSEMBLY CHECKPOINT; CHAIN
+   ELONGATION; SUBSTRATE-BINDING; COACTIVATOR CDH1; LIGASE ACTIVITY; TPR
+   SUBUNITS; MECHANISM; PROTEIN; CDC20
+ER
+
+PT J
+DE hospital; metaphors; nurse practitioner; nursing; oncological and
+   palliative care; patients' experiences; patients' meaning;
+   phenomenological perspective
+ID SATISFACTION
+ER
+
+PT J
+DE Electronics; Noise; Radiation detector; Semiconductor
+ID 1/F NOISE; CHARGE MEASUREMENTS; ROOM-TEMPERATURE; A(3)M(2)I(9);
+   PEROVSKITES; RESOLUTION; 1/F-NOISE; DEFECTS; RAY; CS
+ER
+
+PT J
+DE decision making; food intake; hypothalamus; obesity; reward; sleep
+   deprivation
+ID STIMULATES LOCOMOTOR-ACTIVITY; DES-ACYL GHRELIN; DIFFUSION-MODEL;
+   ORBITOFRONTAL CORTEX; INSULIN-RESISTANCE; ELEVATED GHRELIN; PLASMA
+   GHRELIN; REACTION-TIME; WEIGHT-GAIN; DURATION
+ER
+
+PT J
+DE Neurotechnique; Topology; Micro-level; Macro-level; Neural correlates
+ID ULAM IMPLIES BROUWER; ARTURO TOZZI; TOPODYNAMICS; EMERGENCE
+ER
+
+PT J
+ID ISCHEMIC-STROKE; IMPACT SCALE; TELEPHONE; CLASSIFICATION; DEPRESSION;
+   VALIDATION; VALIDITY; VERSION
+ER
+
+PT J
+ID PEDIATRIC HIGH-GRADE; NEURAL PROGENITOR CELLS; SET ENRICHMENT ANALYSIS;
+   READ ALIGNMENT; NERVOUS-SYSTEM; MUTATIONS; TUMORS; MODEL; ACVR1; EZH2
+ER
+
+PT J
+DE ventilation; collective behaviour; bee behaviour
+ID COLONIES; BEES; THERMOREGULATION; CLIMATE; REINFORCEMENT; ENVIRONMENT
+ER
+
+PT J
+DE Chewing; complete denture; denture adhesive; denture retention;
+   electromagnetic articulograph; EMA; kinematics; micromovement
+ID QUALITY-OF-LIFE; SATISFACTION; EDENTULISM; ASSOCIATION; MOVEMENT; SPEECH
+ER
+
+PT J
+ID PREVENTION
+ER
+
+PT J
+DE protein scaffold; carbon dioxide hydrogenation; rhodium complex;
+   metalloenzyme
+ID ARTIFICIAL METALLOENZYMES; MOLECULAR ELECTROCATALYSTS; MOLYBDENUM;
+   MECHANISM; FORMATE
+ER
+
+PT J
+DE left ventricular ejection fraction; low-gradient aortic stenosis;
+   mortality; transfemoral aortic valve implantation
+ID LONG-TERM OUTCOMES; EUROPEAN ASSOCIATION; TRANSVALVULAR GRADIENT;
+   TASK-FORCE; LOW-FLOW; TAVI; REPLACEMENT; VALVULOPLASTY; SOCIETY; HEART
+ER
+
+PT J
+DE Ebola virus disease; environmental temperature; mortality; viral
+   haemorrhagic fever
+ID TREATMENT UNITS; SURVIVAL; AFRICA
+ER
+
+PT J
+DE asthma; COPD; overlap; therapy
+ID OBSTRUCTIVE PULMONARY-DISEASE; BLOOD EOSINOPHILS; DOUBLE-BLIND; INHALED
+   CORTICOSTEROIDS; FLUTICASONE FUROATE; LUNG-FUNCTION; ACTING
+   BETA(2)-AGONIST; EARLY INTERVENTION; ALLERGIC-ASTHMA; TIOTROPIUM
+ER
+
+PT S
+ER
+
+PT S
+ID MANIPULATION; EXPLORATION
+ER
+
+PT S
+ID LANGUAGE MODEL; RECOGNITION
+ER
+
+PT J
+DE Natural language generation; Failure detection; Failure handling;
+   Assembly; Human-robot interaction
+ER
+
+PT J
+ID 3D OBJECT RECOGNITION; MOBILE ROBOT; TRACKING; MOTION; FEATURES;
+   INTERFACE; VEHICLE; CARRIER; TEAM
+ER
+
+PT B
+ER
+
+PT J
+DE Semantic mapping; Rao-Blackwellization; mapping; particle filter;
+   natural language understanding; human-robot interaction
+ID EXTENDED INFORMATION FILTERS; SIMULTANEOUS LOCALIZATION; PLACE
+   CLASSIFICATION; MOBILE ROBOTS; HIERARCHY; SPACE
+ER
+
+PT J
+DE Robotics; Language; Machine learning; Probabilistic graphical models
+ID LANGUAGE; ROBOT
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+DE robots; furniture assembly; natural language
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT S
+ID SPATIAL LANGUAGE; NAVIGATION
+ER
+
+PT S
+DE spatial language; direction understanding; route instructions
+ID SPATIAL LANGUAGE
+ER
+
+PT J
+DE object schema; language grounding; human-robot interaction; semantics
+ID SPATIAL LANGUAGE; PERCEPTION; INTELLIGENCE
+ER
+
+PT S
+ER
+
+EF

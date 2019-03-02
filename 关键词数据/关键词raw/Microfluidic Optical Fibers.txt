@@ -1,0 +1,1083 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+ID SENSOR; BIREFRINGENCE; SENSITIVITY
+ER
+
+PT J
+DE photonic crystal fiber; surface plasmon resonance; refractive index
+   sensor; high-sensitivity; wide detection range
+ID SURFACE-PLASMON-RESONANCE
+ER
+
+PT J
+DE Optofluidic laser; hollow optical fiber; whispering gallery mode;
+   biochemical sensor
+ID RESONATOR; MICROLASERS; POLYMER
+ER
+
+PT J
+ID GRAPHENE OXIDE; MANIPULATION; NANOPARTICLES; VIRUSES; TIP
+ER
+
+PT J
+ID SPECTROSCOPY; DEPOSITION; PROBES; TIP
+ER
+
+PT J
+DE Fabry-Perot etalon; Optical biosensors; Refractive index; Microfluidic
+   device
+ID FIBER-BRAGG GRATINGS; REFRACTIVE-INDEX; CLADDING MODES; REFRACTOMETER;
+   SENSOR; INTERFEROMETER; LASER; WRITTEN
+ER
+
+PT J
+DE Hollow optical fiber; Microfluidic; Biosensor; In-fiber integrated
+   interferometer; Label free sensing
+ID REFRACTIVE-INDEX SENSOR; PHOTONIC CRYSTAL FIBER; BROAD-BAND; TECHNOLOGY;
+   LASER
+ER
+
+PT J
+ID INJECTION ANALYSIS
+ER
+
+PT J
+DE photonic crystal fiber; surface plasmon resonance; refractive index
+   sensor; dual-polarized; high sensitivity; ultra-wide detection range
+ID SURFACE-PLASMON RESONANCE; OPTIMIZATION; BIOSENSOR
+ER
+
+PT J
+ID CORE FIBER; CRYSTAL FIBER; GRATINGS
+ER
+
+PT J
+ID PHOTONIC-CRYSTAL-FIBER; REFRACTOMETER
+ER
+
+PT J
+ID SILVER NANOPARTICLES; ELECTRODE; CORE
+ER
+
+PT J
+DE aligned fibers; microfluidic spinning; in suit microreactor; fluorescent
+   coding; wearable device
+ID POLY(LACTIC ACID); COMPOSITE FIBERS; QUANTUM DOTS; LARGE-SCALE;
+   CIRCUITS; NANOPARTICLES; FABRICATION; MORPHOLOGY; NANOFIBERS; SHELL
+ER
+
+PT J
+DE Digital microfluidics; Electrowetting-on-a-dielectric; On-chip sensing;
+   Lab-on-a-chip devices; Microelectromechanical systems
+ID SYSTEMS; DIAGNOSTICS; SURFACE
+ER
+
+PT J
+DE Hollow core micro-fiber; Optical waveguide; Microfluidic channel;
+   Fluorescent detection; Ultra-low-volume
+ID NANOFIBER; SENSOR; SENSITIVITY; FABRICATION; NANOWIRES; TAPERS; DEVICE
+ER
+
+PT J
+ID 2-PHOTON POLYMERIZATION; STATISTICAL-ANALYSIS; LITHOGRAPHY; FABRICATION;
+   SINGLE; ALIGNMENT; MICROSTRUCTURES; EMISSION; SILICON
+ER
+
+PT J
+DE 3D-Printed; Microfluidic; Additive manufacturing; Particle analysis;
+   Genetic algorithm
+ID 3D-PRINTED FLUIDIC DEVICES; GENETIC ALGORITHM; FLOW-CYTOMETRY; CHIP;
+   OPTIMIZATION; FABRICATION; ELECTRODES; SCIENCES; CHANNEL; SCATTERING
+ER
+
+PT J
+ID PHOTONIC-CRYSTAL FIBERS; CARDIAC TROPONIN-T; ACUTE
+   MYOCARDIAL-INFARCTION; METHYLENE-BLUE; OPTICAL-FIBER; MICROFLUIDIC
+   INTEGRATION; SAGNAC INTERFEROMETER; REFRACTIVE-INDEX; LASER;
+   REFRACTOMETER
+ER
+
+PT J
+DE Microfluidic sensor; helical structure; refractive index measurement
+ID GRATINGS; TEMPERATURE; BIOSENSOR
+ER
+
+PT J
+DE Long period fiber grating; mach-zehnder interferometer; sensor;
+   embedded-core optical fiber
+ID REFRACTIVE-INDEX SENSOR; PHOTONIC CRYSTAL FIBER; HIGH-SENSITIVITY;
+   OPTICAL-FIBER; STRAIN SENSOR; TEMPERATURE; PAIR
+ER
+
+PT J
+ID PHOTONIC CRYSTAL FIBER; FABRY-PEROT-INTERFEROMETER; FEMTOSECOND
+   LASER-PULSES; CAVITATION BUBBLE; SENSOR; TEMPERATURE; COLLAPSE; GLASS
+ER
+
+PT J
+DE Doped fibers; fiber Bragg gratings (FBGs); microstructured optical
+   fibers (MOFs); optical fiber sensors; photonic crystal fibers (PCFs);
+   sagnac interferometer; specialty optical fibers
+ID PHOTONIC-CRYSTAL-FIBER; FABRY-PEROT-INTERFEROMETER; SUSPENDED-CORE
+   FIBER; LONG-PERIOD GRATINGS; HIGH-PRESSURE SENSOR; BRAGG GRATINGS;
+   SAGNAC INTERFEROMETER; HYDROSTATIC-PRESSURE; TORSION SENSOR; AIR HOLES
+ER
+
+PT J
+DE microfluidic chip; fluorescence radiation characteristics; evanescent
+   wave; tri-band fluorescent light sources
+ID LIGHT-SOURCES; GUIDES; LASERS; SYSTEMS
+ER
+
+PT J
+DE Surface plasmon resonance; Photonic crystal fibers; Optical fiber
+   sensors; Biosensors
+ID MICROSTRUCTURED OPTICAL-FIBER; SPR IMAGING MEASUREMENTS;
+   REFRACTIVE-INDEX SENSOR; CONDUCTING METAL-OXIDE; RESONANCE SENSOR;
+   SENSITIVITY ENHANCEMENT; BIOSENSING APPLICATIONS; THEORETICAL-ANALYSIS;
+   SURFACE-PLASMONS; SILVER NANOWIRES
+ER
+
+PT J
+ER
+
+PT J
+DE Fiber optics sensors; polydimethylsiloxane (PDMS); surface plasmon
+   resonance (SPR); temperature measurement
+ID SENSOR; THICKNESS
+ER
+
+PT J
+ID PHOTONIC CRYSTAL FIBER; SINGLE-MODE FIBER; OPTICAL-FIBER; GRATING
+   SENSORS; PLASMON RESONANCE; TEMPERATURE
+ER
+
+PT S
+DE Collagen networks; confocal reflection microscopy; fiber reconstruction
+   algorithm; microfluidic devices
+ID BIOPOLYMER NETWORKS
+ER
+
+PT B
+DE Microfluidic device; optical readout; refractive index sensing; glass
+   capillary; spectral measurements; low coherence reflectometry
+ER
+
+PT S
+DE microfluidics; microresonator; optical sensing
+ID OPTICAL BOTTLE; RESONATORS
+ER
+
+PT S
+ID PARTICLES; TWEEZERS; SPANNER
+ER
+
+PT S
+DE Femtosecond laser; ultrafast laser; micromachining; waveguide
+   fabrication; optofluidics; lab in fiber; lab on chip; 3D fabrication;
+   optical sensing
+ID GRATING WAVE-GUIDES; BRAGG GRATINGS; FUSED-SILICA; HEAT ACCUMULATION;
+   REPETITION-RATE; INSCRIPTION; GLASS; FABRICATION; SENSOR
+ER
+
+PT S
+DE coagulation; biosensor; optical read out; MEMS; fiber sensor; aPTT;
+   point of care
+ER
+
+PT S
+DE point-of-care testing; microfluidic cytometer; on-chip microlens;
+   optical fiber; red blood cells; platelets
+ID FLUORESCENCE DETECTION; OPTOFLUIDIC DEVICE; FLOW CYTOMETER; FABRICATION;
+   SCATTERING; LIGHT
+ER
+
+PT J
+DE Micro-fluidic-channel; whispering gallery modes; microresonator;
+   hollow-core photonic crystal fiber
+ID WHISPERING-GALLERY MODES; OPTICAL RING-RESONATOR; LABEL-FREE DETECTION;
+   SINGLE MOLECULES; MICRORESONATORS; EXCITATION; SENSOR
+ER
+
+PT J
+ID PROTEIN-KINASE-B; ON-A-CHIP; HIGH-THROUGHPUT; MONOLITHIC INTEGRATION;
+   WAVE-GUIDES; ACTIVATION; CYTOMETRY; PEPTIDES; LEUKEMIA; PATHWAY
+ER
+
+PT J
+DE single cell analysis; label-free methods; impedance spectroscopy;
+   refractometry; optical absorption; hybrid microfluidic chip
+ID MICROFABRICATED FLOW CYTOMETER; REFRACTIVE-INDEX; SPECTROSCOPY; CHIP;
+   SU-8; LITHOGRAPHY; PHOTORESIST; FABRICATION; ELECTRODES; PARTICLES
+ER
+
+PT J
+ID SINGLE CELLS; WAVE-GUIDES; MANIPULATION; STRETCHER; CHIP; HETEROGENEITY;
+   INTEGRATION
+ER
+
+PT J
+DE Fiber optics sensors; Fabry-Perot (F-P); medical optics instrumentation
+ID PHOTONIC CRYSTAL FIBER; MACH-ZEHNDER INTERFEROMETER; HIGH-SENSITIVITY;
+   REFRACTOMETRIC SENSOR; MODAL INTERFEROMETER; TEMPERATURE
+ER
+
+PT J
+ER
+
+PT J
+DE micro gas sensor; MEMS; micro Fabry-Perot cavity; optical fiber;
+   microfluidic channel
+ID SURFACE-PLASMON RESONANCE; REFRACTIVE-INDEX; CHROMATOGRAPHY DETECTION;
+   INTERFEROMETRIC SENSORS; DETECTOR; CHEMIRESISTOR; MICROCHANNEL;
+   PERFORMANCE; SELECTIVITY; GRAPHENE
+ER
+
+PT J
+DE optical fiber sensor; microstructured fiber; evaporation of acetone;
+   water vapor
+ER
+
+PT J
+DE Optofluidics; fiber optic sensors; optical fiber microstructure; optical
+   manipulation
+ID OPTICAL TWEEZERS; PARTICLES; PROBE
+ER
+
+PT S
+DE Femtosecond laser micromachining; microfluidic fiber sensors
+ID FABRY-PEROT-INTERFEROMETER; REFRACTIVE-INDEX
+ER
+
+PT S
+DE Microfluidic flowmeter; microfiber coupler; gold film
+ID SILVER-COATED FIBER; OPTICAL-FIBER
+ER
+
+PT S
+DE optical trap; lab-on-chip; optofluidics; stability test
+ID FEMTOSECOND LASER; STRETCHER; DEFORMABILITY; MANIPULATION; CELLS
+ER
+
+PT S
+DE Raman spectroscopy; optical trapping; optics; polymer; microfluidic;
+   confocal detection; diamond machining; microstructure fabrication
+ID PARTICLES; MANIPULATION; TWEEZERS
+ER
+
+PT S
+DE trapping; polymers; diamond machining; microstructure fabrication;
+   micro-optical devices
+ID MANIPULATION; TWEEZERS; FORCES
+ER
+
+PT S
+DE Optical trapping; Optical fibers; Integrated photonics; Fiber tapers
+ID RESONATOR
+ER
+
+PT S
+DE flow cell system; plastic optical fiber; optical sensors; surface
+   plasmon resonance; biosensors
+ID BIOSENSORS
+ER
+
+PT S
+DE Osteoblast cells; microfluidic; drug screening; scaffold; tissue
+   engineering; spectroscopy; fluorescence imaging
+ID MICROFLUIDIC DEVICE; CULTURE; DIFFERENTIATION; TECHNOLOGY; ARRAY
+ER
+
+PT J
+DE optical fiber sensors; fluidic microchannels; optical trapping;
+   microfluidics; lab-on-chip
+ID PLASMON RESONANCE BIOSENSOR; ENHANCED RAMAN-SCATTERING; LABEL-FREE
+   DETECTION; REFRACTIVE-INDEX; WAVE-GUIDE; GRATING SENSOR; HEAT-TRANSFER;
+   FLUID-FLOW; REFRACTOMETER; CHIP
+ER
+
+PT J
+DE SERS; Fiber optic; Light induced; Nano-particle; Microfluidic
+ID ENHANCED RAMAN-SPECTROSCOPY; SCATTERING; SENSORS; NANOSTRUCTURES;
+   OPTOFLUIDICS; FABRICATION; NOBLE; TIPS; LAB
+ER
+
+PT J
+DE Escherichia coli; laser-induced fluorescence; marine sewage;
+   microfluidic chip
+ID FLOW CYTOMETERS; DEVICE; FIBERS
+ER
+
+PT J
+DE Biophotonics; circulating tumor cell; microfluidic chip; optical fiber;
+   optofluidic cytometer; point of care
+ID MICRO FLOW CYTOMETER; OPTICAL WAVE-GUIDES; HUMAN-PAPILLOMAVIRUS;
+   MICROFLUIDIC DEVICE; CERVICAL-CANCER
+ER
+
+PT J
+ID FUEL-CELL; LAMINAR-FLOW; TRANSPORT; DEVICES; ENZYMES; LAYER; POWER
+ER
+
+PT J
+ID PHOTONIC CRYSTAL FIBERS; SENSITIVE BIOMOLECULAR DETECTION;
+   MICROCAVITIES; RESONATOR; EMISSION; FUTURE; GAIN
+ER
+
+PT J
+ID FIBER BRAGG GRATINGS; FLOW SENSOR; OPTICAL-FIBER; SYSTEMS; CANTILEVER
+ER
+
+PT J
+DE Flat fibre; Femtosecond laser; Integrated optics; Micro optical
+   components; Planar Bragg grating; Sensors
+ID WAVE-GUIDES; SILICA; GLASS; MICROFABRICATION; FABRICATION
+ER
+
+PT J
+DE Microfluidics; Optical fibers; Phalaenopsis orchid; Pathogen detection;
+   Reverse transcription loop-mediated; isothermal amplification
+ID MEDIATED-ISOTHERMAL-AMPLIFICATION; ODONTOGLOSSUM RINGSPOT TOBAMOVIRUS;
+   CYMBIDIUM MOSAIC POTEXVIRUS; QUANTITATIVE DETECTION; DIAGNOSTIC DEVICE;
+   VIRUS; PCR; DNA; ELISA; ASSAY
+ER
+
+PT B
+ID CELLS; CHIP
+ER
+
+PT S
+ID TWEEZERS
+ER
+
+PT S
+DE Optical fiber sensor; microstructured fiber; evaporation of acetone
+ER
+
+PT S
+DE twin-core fiber; surface plasmon resonance; a frustum wedge structure;
+   refractive index test
+ID SURFACE-PLASMON RESONANCE; CHEMICAL SENSOR
+ER
+
+PT S
+DE Fabry-Perot; flowermeter; fiber Bragg grating; microfluidic flow rate
+ID FIBER BRAGG GRATINGS; SENSOR; SYSTEMS; CANTILEVER
+ER
+
+PT S
+DE Open-cavity; Fabry-Perot Interferometer; Microfluidic; Refractive Index;
+   Etching; Side-hole Fiber; High RI sensitivity; Temperature-insensitive
+ID PHOTONIC CRYSTAL FIBER; TEMPERATURE; SENSOR; STRAIN; PRESSURE; CAVITY
+ER
+
+PT S
+DE microfluidics; optical fibre; thermofluidic; FEA; mode analysis
+ID MICROCHANNELS; SIMULATION; LASER
+ER
+
+PT J
+DE Hollow-core photonic crystal fiber; micro structure gas sensor;
+   slow-light; microfluidic
+ID ON-A-CHIP; SLOW-LIGHT; WAVE-GUIDES; BANDGAP FIBERS; INFILTRATION;
+   ABSORPTION; METHANE; SILICON; OPTICS
+ER
+
+PT J
+ID RESONANCE ENERGY-TRANSFER; PROTEIN-PROTEIN INTERACTIONS; TRANSFER BRET;
+   FLUORESCENT PROTEIN; RENILLA LUCIFERASE; BIOSENSORS; SYSTEM; ASSAY; FRET
+ER
+
+PT J
+DE microstructure optical fibers; heat transfer; microfluidics
+ID MICROCHANNELS; SIMULATION; LASER
+ER
+
+PT J
+ID FABRY-PEROT-INTERFEROMETER; OPTICAL WAVE-GUIDES; REFRACTIVE-INDEX
+   MEASUREMENT; SURFACE-PLASMON RESONANCE; SINGLE-CELL DETECTION;
+   FUSED-SILICA; BRAGG GRATINGS; TRANSPARENT MATERIALS; MICROFLUIDIC
+   CHANNEL; REPETITION-RATE
+ER
+
+PT J
+ID COHERENCE TOMOGRAPHY; FIBER; INTERFEROMETER; OPTIMIZATION; PROBE; OCT
+ER
+
+PT J
+DE SERS; porous structure; photoinduced growth; on-chip detection;
+   microfluidic chip
+ID PHOTOINITIATED POLYMERIZATION; GOLD NANOPARTICLES; CAPILLARY COLUMNS;
+   CHEMICAL SENSORS; SERS SUBSTRATE; FIBER TIP; SPECTROSCOPY; MONOLITHS;
+   FILM; DEPOSITION
+ER
+
+PT J
+ID RATIOMETRIC FLUORESCENT PH; SOL-GEL FILM; MESOPOROUS SILICA
+   NANOPARTICLES; INTRACELLULAR PH; IN-VIVO; RUTHENIUM(II) COMPLEX;
+   MICROFLUIDIC DEVICES; IMAGING TECHNIQUES; CARBON NANODOTS; LIVING CELLS
+ER
+
+PT S
+DE fiber-optic sensor; optofluidics; photonic crystal fiber
+ID INTERFEROMETER; DEVICES; SENSOR
+ER
+
+PT S
+DE optical fiber sensor; microfluidic; suspended core; in-fiber integrated
+   sensor
+ID PHOTONIC CRYSTAL FIBER; PROBE
+ER
+
+PT S
+ID LASER
+ER
+
+PT J
+ID MICROSTRUCTURED OPTICAL-FIBER; REFRACTIVE-INDEX SENSORS; BANDGAP FIBERS;
+   CORE FIBER; INTERFEROMETER; OPTOFLUIDICS; RESONANCE; DEVICES; FUSION;
+   LIQUID
+ER
+
+PT S
+DE Femtosecond laser inscription; optical fibres; flat fibre; integrated
+   optics; microfluidics; sensors
+ER
+
+PT S
+DE Simplified hollow-core microstructural optical fiber; Fiber laser;
+   Side-pumping scheme; Micro ring; Radiating field pattern
+ID RING-RESONATOR LASERS; FLUIDIC DYE-LASER; MICROCAVITY LASER
+ER
+
+PT J
+ID IN-SITU HYBRIDIZATION; FISSION YEAST; CHROMOSOMAL DNA; CENP-A;
+   MOLECULES; MANIPULATION; CHIP; POLY(DIMETHYLSILOXANE); MICROSTRUCTURES;
+   NUCLEOSOMES
+ER
+
+PT S
+ER
+
+PT J
+DE period gratings; Optical fiber sensors; Microstructured fibers;
+   Refractometry
+ID PHOTONIC-CRYSTAL-FIBER; REFRACTOMETER; BIREFRINGENCE
+ER
+
+PT J
+ID TWEEZERS; BACTERIA; TENSION; PROBE; CELLS
+ER
+
+PT J
+DE Photonic crystal fiber; Fiber optics; Surface plasmon resonance; Silver
+   nanowire; Refractive index
+ID MICROSTRUCTURED-OPTICAL-FIBER; PLASMON-RESONANCE SENSORS; SURFACE;
+   DESIGN
+ER
+
+PT S
+DE Femtosecond laser inscription; micro-optic devices; Bragg gratings;
+   optical fibres; flat fibre
+ER
+
+PT S
+DE Microfluidics; PDMS Chip; Liquid Waveguides; Optofluidics; Ray tracing
+ID OPTICAL-FIBER; POLY(DIMETHYLSILOXANE); MANIPULATION; TECHNOLOGY
+ER
+
+PT S
+DE Biosensors; Whispering Gallery Mode; Microstructured Optical Fiber
+ID WHISPERING-GALLERY MODE; MICROSPHERES; MICROCAVITY; POLYSTYRENE;
+   RESONATORS; SHIFT; SIZE
+ER
+
+PT J
+ID THICK PHOTORESIST; IMAGE-FORMATION; SYSTEMS; FORCES; FLOW; MANIPULATION;
+   FABRICATION; EXPOSURE; MEMS
+ER
+
+PT S
+DE Microfluidic chip; Bioluminescence detection; ATP; Fiber optics; Micro
+   mixer; Biosensor
+ID SURFACE CLEANLINESS; RAPID DETECTION; DEVICES
+ER
+
+PT J
+ID CELLS; MICROSPECTROSCOPY; SPECTROSCOPY
+ER
+
+PT J
+ID GRADIENT FORCE; PARTICLES; TWEEZERS; LIGHT; ACTUATION; ROTATION; DRIVEN;
+   TRAP; BEAM
+ER
+
+PT J
+ID OPTICAL TWEEZERS; MANIPULATION; DRIVEN; FORCE; CELLS; LIGHT
+ER
+
+PT J
+ID FUSED-SILICA; WAVE-GUIDES; CELLS; CHIP; BEAM; DEFORMABILITY;
+   INTEGRATION; TRAP
+ER
+
+PT J
+ID PHOTONIC BANDGAP FIBERS; OPTICAL-DEVICES; LASER; MODE
+ER
+
+PT J
+ID ACOUSTIC-WAVES SSAW; CELLS; SEPARATION; GUIDES; DEVICE; MICROCHANNELS;
+   LOCOMOTION; APOPTOSIS; DISEASES; CHANNEL
+ER
+
+PT J
+ID MASS-SPECTROMETRY
+ER
+
+PT J
+ID PHOTONIC BANDGAP FIBERS; CYLINDRICAL MICROCAVITY; POLYMER
+ER
+
+PT B
+DE photonic crystal fiber; microfluidic; sensors
+ER
+
+PT S
+DE femtosecond laser ablation; fiber drilling; optofluidics; waveguides;
+   micro-fabrication; industrial applications
+ID PHOTONIC CRYSTALS; MICROFABRICATION; FABRICATION; SENSORS
+ER
+
+PT J
+DE photonic-crystal-fiber; surface-plasmon-resonance; sensor; finite
+   element method
+ID MICROSTRUCTURED-OPTICAL-FIBER; DESIGN
+ER
+
+PT J
+ID EMULSION DROPLETS; COLLOIDAL CRYSTALS; ELECTRIC-FIELD; PARTICLES;
+   MONODISPERSE; COLORS; ARRAYS; POLYMERIZATION; DISPLAYS; SIZES
+ER
+
+PT S
+DE Optical tweezers; fiber optic trap; optical micromanipulation; optical
+   spanner
+ID ANGULAR-MOMENTUM; PARTICLES; TWEEZERS; CELLS; LIGHT; BEAM
+ER
+
+PT S
+DE PDMS microcantilever; integrated optical waveguide; Multilayer PDMS
+   fabrication; biosensor; force sensor
+ID FORCE MEASUREMENT; CANTILEVER; SENSOR; MICROCHANNELS; READOUT; ARRAY
+ER
+
+PT J
+ID OPTICAL WAVE-GUIDES; BANDGAP FIBERS; DEVICES
+ER
+
+PT J
+DE Lamination; optofluidics; polymer waveguides; waveguide arrays
+ID PHOTONIC CRYSTAL FIBERS; FABRICATION
+ER
+
+PT J
+DE Optical fiber chemical sensor; Microfluidics; Tripodal; Hg(II); Water
+   samples
+ID BULK OPTODE MEMBRANE; MERCURY ION; TRIACETYLCELLULOSE MEMBRANE; SENSOR;
+   IMMOBILIZATION; SYSTEMS; 5,10,15,20-TETRAPHENYLPORPHYRIN; PERFORMANCE;
+   TECHNOLOGY; IONOPHORE
+ER
+
+PT J
+DE optical tweezers; fiber optic tweezers; optical manipulation; two-photon
+   fluorescence
+ID FORCES; CELLS
+ER
+
+PT J
+ID MASS-TRANSPORT; RESONANCE BIOSENSORS; SURFACE; SENSOR; SENSITIVITY;
+   BINDING
+ER
+
+PT J
+DE Biosensor; Fiber optic-particle plasmon resonance (FO-PPR); Microfluidic
+   chip; Gold nanopanicle; Silver nanoparticle
+ID FIELD ABSORPTION SENSOR; OSTEOARTHRITIC CARTILAGE; SILVER NANOPARTICLES;
+   IMAGING MEASUREMENTS; ANALYSIS SYSTEMS; DNA MICROARRAYS; SYNOVIAL-FLUID;
+   DYNAMIC-RANGE; GOLD NANORODS; SURFACE
+ER
+
+PT J
+DE Dielectrophoresis; Microfluidics; Nanoparticles; Polymeric waveguide;
+   Tuneability
+ID MICROFLUIDIC CHANNELS; SOFT LITHOGRAPHY; REFRACTIVE-INDEX;
+   OPTICAL-FIBER; MANIPULATION; CORE; CHIP; FABRICATION; INTEGRATION;
+   SYSTEMS
+ER
+
+PT J
+ID PHOTONIC-CRYSTAL-FIBER; LONG-PERIOD GRATINGS; REFRACTOMETER; TEMPERATURE
+ER
+
+PT S
+DE microfluidic; particle; sorting; optic fiber
+ER
+
+PT S
+DE Multiple trapping; all fiber Bessel-like beam generator; multimode
+   interference; optical potential well; self-reconstruction; optical
+   lining
+ER
+
+PT S
+DE Optical tweezers; fiber optic trap; optical micromanipulation; digital
+   holography; microfluidics
+ID DIGITAL HOLOGRAPHIC MICROSCOPY; CELLS
+ER
+
+PT S
+ID MICROREACTOR; CERAMICS
+ER
+
+PT S
+DE single cell analysis; microfluidics; spectroscopy; Fabry-Perot cavity;
+   optical fiber sensors
+ER
+
+PT S
+DE Fluorescence detector; Microfluidic chip; LED; optical fiber; thin film
+   filter; PIN photodetector
+ID DEVICES; SEPARATIONS; CHIP
+ER
+
+PT S
+DE Whispering gallery modes; Optical resonators; Optical coupling
+ID WHISPERING-GALLERY MODES; EXCITATION; RESONANCES
+ER
+
+PT J
+DE LTCC (low temperature co-fired ceramics); microfluidic; absorbance; CFD
+   (computational fluid dynamics)
+ID OPTICAL-DETECTION; SYSTEM; FABRICATION; TECHNOLOGY; MICROSYSTEMS
+ER
+
+PT S
+DE Flow sensor; Integrated optical detection; PDMS microcantilever; Optical
+   fiber
+ID FLOW SENSOR
+ER
+
+PT J
+ID ACCURACY; MONITOR
+ER
+
+PT J
+DE Lab-on-a-Chip; Biophotonics; Microfluidics; Spectrometer-on-Chip;
+   Laser-induced fluorescence; Alexafluor 647; Hybrid integration
+ID ON-A-CHIP; TOTAL ANALYSIS SYSTEMS; WAVE-GUIDE; SILICON; PLATFORM;
+   POLY(DIMETHYLSILOXANE); BIOCHIP; DEVICE
+ER
+
+PT J
+DE Agglutination assay; Aptamer; Microfluidic device; Oxytetracycline;
+   Static light scattering
+ID MICROFLUIDIC DEVICE; IMMUNOAGGLUTINATION ASSAY; APTAMERS; DIAGNOSTICS
+ER
+
+PT J
+DE Directional coupler; fiber sensor; photonic bandgap fiber; refractive
+   index sensor
+ID POLYMER OPTICAL-FIBER; CRYSTAL-FIBER; COUPLING CHARACTERISTICS;
+   BIOSENSORS; COUPLERS; SENSORS; DESIGN; AIR
+ER
+
+PT J
+ID LOSSY METAL-FILMS; SUBWAVELENGTH OPTICS; RANGE; POLYMER; THIN;
+   RESONANCE; POLARITONS; EXCITATION; MEMBRANES; SENSORS
+ER
+
+PT J
+ID IN-VIVO; CHIP; LAB
+ER
+
+PT J
+DE diffraction gratings; microfluidics; optical fibres; refractometers
+ID RECENT PROGRESS; BIOSENSORS
+ER
+
+PT S
+DE Microchip-based; Flow cytometry; Photonic integrated waveguides; lenses;
+   beam shaping
+ID FLUORESCENCE DETECTION; OPTICAL-DETECTION; HIGH-THROUGHPUT; WAVE-GUIDES;
+   CHIP
+ER
+
+PT S
+DE Optofluidics; ice; optical manipulation; microfluidics
+ID MICROFLUIDICS; AEROSOLS
+ER
+
+PT J
+DE Cell culture; Fiber optic sensor; Immunoagglutination assay;
+   Microfluidic device; Mycoplasma pneumonia
+ID SOFT-LITHOGRAPHY; CELL-CULTURES; CONTAMINATION; MICROSPHERES; SYSTEM;
+   SIZE
+ER
+
+PT J
+DE integrated optics; light reflection; light refraction; microfluidics;
+   optical attenuators; optical fabrication; optical fibres; polymers; soft
+   lithography
+ID WAVE-GUIDES; FIBER; DEVICES; SWITCH
+ER
+
+PT J
+ID TRAP; PARTICLE; CELL; OBJECT; TOOL
+ER
+
+PT J
+DE microfluidic; biosensor; fiber-optic localized plasmon resonance
+ID MODIFIED OPTICAL-FIBER; NANOPARTICLES; SURFACE; SENSOR
+ER
+
+PT J
+ID FLUORESCENCE DETECTION SYSTEM; ON-A-CHIP; FLOW CYTOMETERS; FUSED-SILICA;
+   INTEGRATION; POLY(DIMETHYLSILOXANE); NETWORKS; DEVICES; LIGHT
+ER
+
+PT J
+DE Microfluidic; Biosensor; Fiber-optic localized plasma resonance
+ID MODIFIED OPTICAL-FIBER
+ER
+
+PT J
+DE RBC; Agglutination; Transfusion; Cross-matching; Scattering;
+   Microfluidics; Fiberoptics; Optointerruption; Blood typing
+ID BEDSIDE COMPATIBILITY TEST; SPECTROPHOTOMETRIC APPROACH; TRANSFUSION;
+   RELIABILITY; ERRORS
+ER
+
+PT J
+DE Optical sensor; Optical fiber; pH; Microfluidic devices; On-line
+   monitoring
+ID MICROFLUIDIC DEVICE; BIOREACTOR SYSTEM; LACTATE; MICROPHYSIOMETER;
+   MICROBIOREACTORS; MEMBRANE; GLUCOSE
+ER
+
+PT J
+ID MICROSTRUCTURED OPTICAL-FIBERS
+ER
+
+PT B
+ID PHOTONIC-CRYSTAL FIBERS; DEVICES
+ER
+
+PT B
+ER
+
+PT B
+DE microfluidic; biosensor; fiber-optic localized plasma resonance
+ID MODIFIED OPTICAL-FIBER
+ER
+
+PT B
+ER
+
+PT S
+DE Lab-on-a-chip; microfluidic; optical detection; optical fiber;
+   microsensor; food substance particles
+ID MICROFLUIDICS
+ER
+
+PT J
+DE Microfluidics; Micropump; Microvalve; Dielectrophoresis; Dual-beam
+   optical trap; MEMS
+ID THERMOPNEUMATIC MICROPUMP; DIELECTRIC PARTICLES; BIOLOGICAL CELLS;
+   ALIGNMENT; TWEEZERS; DIELECTROPHORESIS; MANIPULATION; FIBERS
+ER
+
+PT J
+DE claddings; fibre optic sensors; microfluidics; micro-optomechanical
+   devices; optical waveguides; refractive index
+ER
+
+PT J
+DE lactate; microfluidic chip; mixing on chip; optaical fibre detecting;
+   mircoeletromechanical system (MEMS)
+ID CULTURE; DEVICE; OXYGEN; CELL
+ER
+
+PT J
+ID PHOTONIC-CRYSTAL FIBER; WRITTEN WAVE-GUIDES; FEMTOSECOND-LASER;
+   MICROCHANNELS; SILICA; SENSOR; GLASS; FLUORESCENCE
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT S
+DE ultrafast lasers; fiber lasers; laser micromachining; microfliddic
+   networks
+ER
+
+PT J
+ID MINIMAL DEAD-VOLUME; FLUIDIC INTERCONNECTS; HIGH-TEMPERATURE;
+   HIGH-PRESSURE; SYSTEMS; ELECTROPHORESIS; INTEGRATION; TECHNOLOGY;
+   MICROCHIPS; INTERFACES
+ER
+
+PT J
+ER
+
+PT S
+DE immunoassay; lab-on-a-chip; proximity optical fibers; microspheres; BVD;
+   BVDV
+ER
+
+PT J
+ID WAVE-GUIDES; ELECTROOPTIC MODULATOR; NANOCRYSTALS; HYDROGEN; SILANE
+ER
+
+PT J
+DE optical traps; optical stretcher; microfluidics; cell handling; cancer
+   diagnostics
+ID OPTICAL FORCE-FIELD; RADIATION PRESSURE; SINGLE CELLS; FIBER TRAP;
+   MANIPULATION; DEFORMABILITY; PARTICLES; STRETCHER; MOTILITY; SURFACE
+ER
+
+PT J
+DE poly(dimethylsiloxane) PDMS; fiber; microfluidic chip; fabrication
+   technology
+ER
+
+PT J
+ID WAVE-GUIDE; SINGLE-MODE; REFRACTIVE-INDEX; EXCITATION
+ER
+
+PT J
+DE microfluidic devices; optical fibre; sensor; PDMS; lactate; on-line
+   monitoring
+ID MICRO FLOW CYTOMETERS; CELL-CULTURE-MEDIUM; CAPILLARY-ELECTROPHORESIS;
+   MICROFLUIDIC DEVICE; CROSS-TALK; GLUCOSE; BIOSENSOR; SYSTEM;
+   INTERFERENCE; ELECTRODE
+ER
+
+PT J
+ID CRYSTAL FIBERS; BRAGG GRATINGS; OPTICAL-FIBER; FILTERS
+ER
+
+PT B
+ID MANIPULATION
+ER
+
+PT S
+DE twice exposal; poly(dimethylsiloxane) PDMS; fiber; fabrication
+   technology; separation
+ER
+
+PT J
+ID ON-A-CHIP; TOTAL ANALYSIS SYSTEMS; CAPILLARY-ZONE-ELECTROPHORESIS;
+   MONOLITHIC INTEGRATION; SOFT-LITHOGRAPHY; SEPARATION; MOLECULES; LIGHT;
+   ARRAY
+ER
+
+PT S
+ID ESCHERICHIA-COLI O157-H7; MICROSPHERES
+ER
+
+PT J
+DE microfluidic chip; optical fiber; DNA separation; LED detection
+ID CAPILLARY-ELECTROPHORESIS; MICROFLUIDIC DEVICES; FABRICATION;
+   SEPARATION; POLY(DIMETHYLSILOXANE); TECHNOLOGY; ABSORBENCY; POLYESTER;
+   SYSTEMS; CHIPS
+ER
+
+PT J
+DE microfluidic chip; light-emitting diode; optical fiber; detector
+ID FLUORESCENCE DETECTION; ELECTROPHORESIS
+ER
+
+PT J
+DE droplet microfluidics; polymeric micromachining; lab on chip; optical
+   detection
+ID MONODISPERSE DOUBLE EMULSIONS
+ER
+
+PT J
+ID SENSOR
+ER
+
+PT J
+ID FIELD-EFFECT TRANSISTORS; PHOTONIC CRYSTAL FIBERS; WAVE-GUIDES; SILICON
+   NANOWIRES; DEPOSITION; LOSSES; FILMS
+ER
+
+PT J
+DE fibers; lipids; liquid crystals; microfluidics; optical microscopy
+ID MICROSTRUCTURES; NANOTUBES; DISCLINATIONS; ARCHITECTURES; NANOFIBERS;
+   RELEASE; RIBBONS
+ER
+
+PT J
+ID FIBER
+ER
+
+PT J
+ER
+
+PT S
+DE droplet microfluidics; polymeric micromachining; lab on chip; optical
+   detection
+ID MONODISPERSE DOUBLE EMULSIONS; DROPLETS
+ER
+
+PT J
+ID MICROFLUIDIC CHANNELS; SYSTEM; DEVICE
+ER
+
+PT S
+DE fluorescence detection system; optical fiber sensor; microfluidic
+   channel
+ID MICROFLUIDIC CHANNELS; DETECTION SYSTEM; DEVICE; CHIP
+ER
+
+PT J
+DE microfluidic device; SU-8; PDMS; optical fibre; online monitoring;
+   lactate
+ID MICRO FLOW CYTOMETERS; CELL-CULTURE-MEDIUM; WAVE-GUIDES; CROSS-TALK;
+   GLUCOSE; BIOSENSOR; SENSORS; INTERFERENCE; ELECTRODE; OXYGEN
+ER
+
+PT J
+ID WAVE-GUIDES; FIBER; SILICON; DEVICES; GLASS
+ER
+
+PT J
+DE LTCC; fiber optics; microfluidic; detector
+ID CERAMICS; TECHNOLOGY; SENSOR
+ER
+
+PT J
+ID PHOTOSTRUCTURABLE GLASS; PHOTOSENSITIVE GLASS
+ER
+
+PT J
+ID HIGH-DENSITY; MICROSPHERE ARRAY; SENSOR ARRAYS; FABRICATION; SYSTEMS;
+   CHIPS; OLIGONUCLEOTIDES; TECHNOLOGIES; DEVICES
+ER
+
+PT J
+DE fluorescence; microfluidic chip; cross-talk
+ID FLUOROPHORE CONCENTRATION; MEDIA
+ER
+
+PT J
+ER
+
+PT J
+DE fibre optic coupler; refractometric measurements; fluorescence
+   measurements
+ER
+
+PT J
+ID CORE WAVE-GUIDE; ON-A-CHIP; SOFT LITHOGRAPHY; DEVICES
+ER
+
+PT S
+ID CULTURE-MEDIUM; BIOSENSORS
+ER
+
+PT J
+DE microfluidics; PDMS; optical fiber; lab-on-a-chip; particle detection;
+   micro flow cytometer
+ID MICRO FLOW CYTOMETERS; WAVE-GUIDES; INTEGRATION
+ER
+
+PT S
+ID DROPLETS; GUIDES
+ER
+
+PT S
+DE micro-structured fibers; nonlinear optics; polymer; microfluidic optics;
+   spectroscopy
+ID PHOTONIC CRYSTAL FIBERS; UP-CONVERSION; LASER
+ER
+
+PT J
+DE silicon; microfluidic; optical detectors; fluorescence measurement;
+   absorbance measurement; optical fibers; chemical microsystems; mu TAS
+ER
+
+PT J
+ID CRYSTALS
+ER
+
+PT S
+DE microfluidic; bioreactor; laser micromachining; PDMS; integrated optical
+   waveguides; digital printing
+ID POLY(DIMETHYLSILOXANE); SYSTEM; ASSAY
+ER
+
+PT S
+ID WAVE-GUIDES; MONOLITHIC INTEGRATION; MICROFLUIDIC CHANNELS; CELL SORTER
+ER
+
+PT S
+DE microfluidics; dye laser; soft lithography; PDMS; optical fiber cavity
+ID SYSTEMS; POLY(DIMETHYLSILOXANE); FABRICATION; COMPONENTS
+ER
+
+PT J
+ID FLUORESCENCE DETECTION; WAVE-GUIDES; FABRICATION; BIOLOGY
+ER
+
+PT J
+DE fabrication; gratings; holographic gratings; integrated optics; tunable
+   filters
+ID DISPERSION COMPENSATOR; BRAGG GRATINGS; FIBER
+ER
+
+PT J
+DE reagent lifetime; microfluidic manifold; stopped flow; UV-LED;
+   environmental monitoring; phosphate
+ID INDUSTRIAL SENSING SYSTEM; FLOW; TECHNOLOGY
+ER
+
+PT J
+ER
+
+PT S
+DE microsystems; optical fiber; microfluidics; microparticles; biochips;
+   photomultiplier tube; velocimetry
+ID FLUORESCENCE DETECTION; WAVE-GUIDES; FABRICATION; BIOLOGY
+ER
+
+PT J
+DE fluidics; gratings; micropumps; optical-fiber devices; optical waveguide
+   components
+ER
+
+PT J
+ER
+
+PT J
+ID ELECTROPHORESIS; CHIPS
+ER
+
+PT J
+ID WAVE-GUIDE MODES; TRANSIENT GRATING TECHNIQUE; ISOTROPIC ELASTIC-MODULI;
+   THIN-FILMS; THERMAL SCATTERING; EXCITATION; GENERATION; DYNAMICS;
+   SCHOLTE; SOLIDS
+ER
+
+EF

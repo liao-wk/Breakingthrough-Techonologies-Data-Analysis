@@ -1,0 +1,1578 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE Stress-strength parameter; Threshold parameter; Interval censored data;
+   Profile likelihood function; Parametric Bootstrap; Wilcoxon-Mann-Whitney
+   statistic
+ID MAXIMUM-LIKELIHOOD; STRENGTH
+ER
+
+PT J
+DE Magnetic-resonance-force-detection; MRFM; Liquids
+ID DIFFUSION MEASUREMENTS; MECHANICAL DETECTION; NMR; TEMPERATURE; WATER
+ER
+
+PT J
+DE Angular median; Axial data; Directional data; Exploratory data analysis;
+   Graphical summary; Rose diagram
+ER
+
+PT J
+DE Functional magnetic resonance imaging; magnetic resonance-compatibility;
+   haptics; hand-controller; task performance; surgical training
+ID TOOL-TISSUE INTERACTION; PIEZOELECTRIC ACTUATOR; UPPER EXTREMITY;
+   PERFORMANCE EVALUATION; MOBILE MANIPULATORS; HUMAN BRAIN; MRI; DESIGN;
+   ROBOT; MOTOR
+ER
+
+PT J
+DE PLC; power line network; impulsive noise; ARMA models; ARIMA models;
+   SARIMA models; autocorrelation function
+ID MODEL
+ER
+
+PT J
+DE Editorials; aortic stenosis; cardiac magnetic resonance; myocardial
+   fibrosis; outcomes
+ID VALVE-REPLACEMENT; AMERICAN-COLLEGE; TASK-FORCE; MANAGEMENT
+ER
+
+PT J
+DE Cardiovascular magnetic resonance; Training; Credentialing;
+   Certification
+ID AMERICAN-COLLEGE; TASK-FORCE; ASSOCIATION; STATEMENT
+ER
+
+PT J
+ER
+
+PT J
+DE environmental science; environmental statistics and data;
+   environmetrics; impact and decision making; multidisciplinary;
+   quantitative methods
+ID SPECIAL-ISSUE; STATISTICAL-METHODS
+ER
+
+PT J
+ID FERROMAGNETIC-RESONANCE
+ER
+
+PT J
+DE MR-compatible hand exoskeleton; Robot rehabilitation;
+   Metacarpophalangeal (MCP); Proximal interphalangeal joint (PIP);
+   Functional magnetic resonance image (fMRI)
+ID MAGNETIC-RESONANCE; FINGER EXOSKELETON; FORCE MEASUREMENT; STROKE;
+   THERAPY; SENSORS; DESIGN
+ER
+
+PT J
+DE environmetrics; image analysis; smoothing; time series; visualization
+ID MULTIRESOLUTION ANALYSIS; TEMPERATURE; EXTRACTION; VIEW
+ER
+
+PT J
+DE ecological forecasting; hierarchical Bayesian models; nonlinear
+   forecasting; waterfowl settling patterns
+ID NONNEGATIVE MATRIX FACTORIZATION; POPULATION-DYNAMICS; WATERFOWL
+ER
+
+PT J
+DE charge transfer; electrochemistry; flow propagators; forced hydrodynamic
+   conditions; interfaces
+ID IMMISCIBLE ELECTROLYTE-SOLUTIONS; FACILITATED ION TRANSFER; ORGANIC
+   SOLUTION INTERFACE; ROTATING DIFFUSION CELL; LIQUID-LIQUID INTERFACE;
+   POTASSIUM-ION; LIQUID/LIQUID INTERFACES; WATER-NITROBENZENE;
+   SOLVENT-EXTRACTION; CYCLIC VOLTAMMETRY
+ER
+
+PT J
+DE deflection torque; displacement force; magnetic resonance imaging (MRI);
+   ultrasonic motor; MRI-compatibility
+ID COMPATIBILITY; ARTIFACTS; IMPLANTS; DEVICES; FERROMAGNETISM;
+   INFORMATION; SAFETY
+ER
+
+PT J
+DE noncontact atomic force microscopy; ferromagnetic resonance; magnetic
+   resonance force microscopy
+ID SURFACE
+ER
+
+PT J
+ER
+
+PT J
+DE Bayesian environmetrics; Dynamic spatio-temporal models;
+   Integro-difference equation; Markov chain Monte Carlo
+ID COVARIANCE FUNCTIONS; TIME; DISPERSAL; OZONE
+ER
+
+PT J
+DE Paramagnetic; Resonance; Force; Microscopy
+ER
+
+PT J
+ID ATOMIC-FORCE MICROSCOPY; MAGNETIC-RESONANCE; CANTILEVERS
+ER
+
+PT J
+ID SUPPLEMENTARY MOTOR AREA; ANTICIPATORY POSTURAL ADJUSTMENTS;
+   PARKINSONS-DISEASE; MOVEMENT PREPARATION; ANKLE DORSIFLEXION; GAIT
+   INITIATION; HAND MOVEMENTS; FUNCTIONAL MRI; CORTEX; COORDINATION
+ER
+
+PT J
+ER
+
+PT S
+DE Moran's Index; waterbody-spread; geographical units
+ID SPATIAL INTERACTION
+ER
+
+PT J
+DE cardiac magnetic resonance; hypertrophic cardiomyopathy; late gadolinium
+   enhancement; meta-analysis; myocardial fibrosis
+ID CARDIOVASCULAR MAGNETIC-RESONANCE; SUDDEN CARDIAC DEATH; HYPERTROPHIC
+   CARDIOMYOPATHY; CARDIOVERTER-DEFIBRILLATORS; EUROPEAN-SOCIETY;
+   TASK-FORCE; RISK; ENHANCEMENT; STRATEGIES; GUIDELINES
+ER
+
+PT J
+ER
+
+PT J
+DE Silicon-nitride; Membrane; MRFM; Cyclic-saturation; ESR; MRI;
+   Quality-factor
+ID NUCLEAR-SPIN NOISE; MICROSCOPY; SILICON
+ER
+
+PT J
+DE Adaptive control; force control; medical robotics; pneumatic systems
+ID TISSUE; BIOPSY; ROBOT
+ER
+
+PT J
+DE Fractional Brownian sheet; Hurst coefficient; Hypothesis test;
+   Multi-self-similarity; Random fields; Stationarity
+ID TIME-SERIES; FRACTAL DIMENSION; 2ND-ORDER STATIONARITY; SPATIAL DATA;
+   INCREMENTS; ROUGHNESS; MODELS
+ER
+
+PT J
+DE data scaling; environmetrics; moss; pollution source impact assessment;
+   Sphagnum palustre
+ID PRINCIPAL COMPONENT ANALYSIS; AIR; QUALITY; MOSSES; GDANSK; BIOMONITORS;
+   DEPOSITION; INDUSTRIAL; POLLUTION; ELEMENTS
+ER
+
+PT J
+DE continuous ranked probability score; ensemble calibration; ensemble
+   model output statistics; truncated normal distribution; log-normal
+   distribution
+ID PROBABILISTIC FORECASTS; DENSITY FORECASTS
+ER
+
+PT J
+ID TASK-FORCE; GUIDELINES; DIAGNOSIS
+ER
+
+PT J
+DE detection probability; estimability; N-mixture model; occupancy model;
+   population survey; replication; sampling
+ID N-MIXTURE MODELS
+ER
+
+PT S
+ID SIMULATION; ACTUATION
+ER
+
+PT J
+DE River Hindon; CPI; PCA; CA; Water quality
+ID MULTIVARIATE STATISTICAL TECHNIQUES; PRINCIPAL COMPONENT ANALYSIS;
+   SYSTEM; IDENTIFICATION; JAPAN; CHINA; LAKE
+ER
+
+PT J
+DE air pollution and health; spatial confounding; spatial misalignment
+ID MORTALITY; EXPOSURE; MODELS
+ER
+
+PT J
+DE spatiotemporal models; Bayesian methods; smoothing; splines; groundwater
+ID BAYESIAN P-SPLINES; STRUCTURED ADDITIVE REGRESSION; MODELS; PENALTIES
+ER
+
+PT J
+DE stream network; kriging; P-splines; semiparametric
+ID STATISTICAL-MODELS; RIVER NETWORK; TEMPERATURES; DISTANCE
+ER
+
+PT J
+DE 7T; breast coils; dual mode; forced-current excitation (FCE); high field
+   MRI
+ID MAGNETIC-RESONANCE-SPECTROSCOPY; CONTRALATERAL BREAST; HIGH-FIELD;
+   TRANSMIT; TESLA; ARRAY; RF; CANCER; LIMITS; WOMEN
+ER
+
+PT J
+DE Duration; Earthquakes; Generalized linear models; Seismic gap hypothesis
+ID UNIFIED SCALING LAW; SEISMIC GAP HYPOTHESIS; INTEREVENT-TIME
+   DISTRIBUTION; FREQUENCY-DISTRIBUTION; SOUTHERN-CALIFORNIA; MOMENT
+   DISTRIBUTION; STOCHASTIC-MODELS; SIZE DISTRIBUTION; RANDOM STRESS;
+   RECURRENCE
+ER
+
+PT J
+DE ARVD/C; Task Force Criteria; Cardiovascular imaging; Transthoracic
+   echocardiography; Cardiac MRI; RV angiography
+ID TASK-FORCE CRITERIA; MAGNETIC-RESONANCE; DYSPLASIA; INSIGHTS; ARVD/C
+ER
+
+PT J
+DE air pollution; generalized additive models; semi-parametric models;
+   multitaper spectrum estimation; natural cubic regression splines;
+   mortality; Slepians
+ID GENERALIZED ADDITIVE-MODELS; SPHEROIDAL WAVE-FUNCTIONS; TIME-SERIES;
+   HOSPITAL ADMISSIONS; FOURIER-ANALYSIS; RESPIRATORY-DISEASES; PARTICULATE
+   MATTER; MORTALITY; UNCERTAINTY
+ER
+
+PT J
+DE nonparametric regression; smoothing; statistical downscaling; stochastic
+   processes; weather generator
+ID ESTIMATING EQUATIONS; BANDWIDTH SELECTION; THAMES CATCHMENT; REGRESSION;
+   REANALYSIS
+ER
+
+PT J
+ID SPECTROSCOPY
+ER
+
+PT J
+ID ELECTRON-SPIN; DEFECT CENTERS; OXYGEN VACANCY; AMORPHOUS SIO2;
+   QUANTUM-DOT; SILICON; RELAXATION; NANOSCALE; READOUT; SENSOR
+ER
+
+PT J
+DE ACC Training Statement; cardiovascular imaging; cardiovascular magnetic
+   resonance; COCATS; steady-state free precession
+ID GUIDELINES; SOCIETY; CMR
+ER
+
+PT J
+DE Multivariate modelling; parallel MCMC; sea-level rise; spatio-temporal
+   statistics; stochastic partial differential equations
+ID GLACIAL ISOSTATIC-ADJUSTMENT; SHEET MASS-BALANCE; DRONNING-MAUD-LAND;
+   ICE-SHEET; SURFACE; GRACE; FLOW; INTERFEROMETRY; DYNAMICS; DATASETS
+ER
+
+PT J
+ID NEPHROGENIC SYSTEMIC FIBROSIS; DEEP BRAIN-STIMULATION; IMPLANTABLE
+   CARDIOVERTER-DEFIBRILLATORS; PROSTHETIC HEART-VALVES;
+   IN-VITRO-EVALUATION; CHLORAL HYDRATE SEDATION; PROPOFOL-BASED SEDATION;
+   ACR GUIDANCE DOCUMENT; CARDIAC-PACEMAKERS; PEDIATRIC-PATIENTS
+ER
+
+PT J
+DE detection probability; estimability; N-mixture model; occupancy model;
+   population survey; replication
+ID SITE OCCUPANCY; ESTIMATING ABUNDANCE; DETECTION ERROR; MIXTURE-MODELS;
+   COUNTS; SIZE
+ER
+
+PT J
+DE Force distribution sensor; Optical fiber sensors; Minimally invasive
+   robotic surgery; Lump/artery detection; MRI compatible
+ER
+
+PT J
+DE MRI-compatible surgical robot; tendon-based transmission; kinematic
+   analysis; resolution of redundant tendon forces
+ID INTERVENTIONS; SYSTEM
+ER
+
+PT S
+ID MAGNETIC-RESONANCE; REHABILITATION; DEVICE; STROKE; TRIAL; FORCE
+ER
+
+PT S
+ID RTMS
+ER
+
+PT J
+ER
+
+PT J
+DE autocorrelation; trend estimation; mean shift; HAC methods; climate
+   models
+ID TIME-SERIES; CHANGEPOINT DETECTION; TEMPERATURE TRENDS; NUISANCE
+   PARAMETER; HETEROSKEDASTICITY; TESTS; HYPOTHESES; REGRESSION; MODELS
+ER
+
+PT J
+ID SPIN RELAXATION
+ER
+
+PT J
+ID CORONARY-ARTERY-DISEASE; TRUSTEES TASK-FORCE; MYOCARDIAL-INFARCTION;
+   CONTRAST; ANGIOGRAPHY; PERFUSION; OUTCOMES; SOCIETY; BOARD
+ER
+
+PT J
+ID AMERICAN-COLLEGE; CARDIOLOGY/EUROPEAN-SOCIETY; PRACTICE GUIDELINES;
+   TASK-FORCE; IDENTIFICATION; ENHANCEMENT; DIAGNOSIS
+ER
+
+PT J
+DE estimation; log-power-normal distribution; properties
+ID BETA-NORMAL-DISTRIBUTION
+ER
+
+PT J
+ID MAGNETIC-RESONANCE; NOISE; SPECTROSCOPY; MICROSCOPY; RESOLUTION; PULSES;
+   PROBE
+ER
+
+PT J
+DE Imaging; Magnetic resonance imaging; Aorta; Aortic dissection; Chronic
+   aortic dissection
+ID TASK-FORCE; ECHOCARDIOGRAPHY; RECOMMENDATIONS; MANAGEMENT; CARDIOLOGY;
+   DIAGNOSIS; SOCIETY
+ER
+
+PT J
+ID CARDIAC AMYLOIDOSIS; DILATED CARDIOMYOPATHY; TASK-FORCE; DIAGNOSIS;
+   SOCIETY; REPRODUCIBILITY; HYPERTROPHY; FAILURE
+ER
+
+PT J
+DE Liver; Cirrhosis; Elastography; Acoustic radiation force impulse
+   imaging; Magnetic resonance elastography
+ID RADIATION FORCE IMPULSE; CHRONIC HEPATITIS-C; LIVER STIFFNESS
+   MEASUREMENT; MAGNETIC-RESONANCE ELASTOGRAPHY; TIME TISSUE ELASTOGRAPHY;
+   GD-EOB-DTPA; SHEAR-WAVE ELASTOGRAPHY; P-31 MR SPECTROSCOPY; SUSTAINED
+   VIROLOGICAL RESPONSE; CHRONIC VIRAL-HEPATITIS
+ER
+
+PT J
+DE spatial statistics; stochastic partial differential equations; sea-level
+   rise; source separation; remote sensing
+ID ICE-SHEET; RANDOM-FIELDS; MASS-BALANCE; RADAR; GRACE; OCEAN; FLOW;
+   PREDICTION; SIGNAL; UPLIFT
+ER
+
+PT J
+DE Bundle branch block; cardiac magnetic resonance; coronary disease;
+   stress echocardiography
+ID CARDIOVASCULAR MAGNETIC-RESONANCE; CORONARY-ARTERY-DISEASE; EMISSION
+   COMPUTED-TOMOGRAPHY; HEART-DISEASE; TASK-FORCE; DIAGNOSIS;
+   ECHOCARDIOGRAPHY; ASSOCIATION; ADENOSINE; SOCIETY
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT S
+ER
+
+PT S
+ID MINIMALLY INVASIVE SURGERY; TUBE CONTINUUM ROBOTS
+ER
+
+PT J
+DE Characterization; Nanotechnology; SPM; CCD
+ID FIBEROPTIC INTERFEROMETER; MECHANICAL DETECTION; RESOLUTION
+ER
+
+PT J
+DE Spectroscopy; Single cells; Nuclear magnetic resonance; Fluorescence
+   microscopy; Atomic force microscopy
+ID ATOMIC-FORCE MICROSCOPY; NUCLEAR-MAGNETIC-RESONANCE; RAMAN SCATTERING
+   MICROSCOPY; RESOLUTION NMR-SPECTROSCOPY; FLUORESCENCE MICROSCOPY; LIVE
+   CELLS; LIVING CELLS; ILLUMINATION MICROSCOPY; PROTEIN-PHOSPHORYLATION;
+   INFRARED-SPECTROSCOPY
+ER
+
+PT J
+DE cardiomyopathy; electrocardiography; magnetic resonance imaging; risk
+   stratification; tachyarrhythmias
+ID TASK-FORCE CRITERIA; IMPACT
+ER
+
+PT J
+DE Environmetrics; forest fire; prediction; review; wildland fire
+ID AGE-CLASS DISTRIBUTION; WESTERN UNITED-STATES; FOREST-FIRE; WILDLAND
+   FIRE; GROWTH-MODEL; CROWN FIRE; SIZE-DISTRIBUTION; BRITISH-COLUMBIA;
+   POINT-PROCESSES; RISK-ASSESSMENT
+ER
+
+PT J
+DE severe storms; reanalysis data; conditional extreme value modeling;
+   river flow
+ID MAX-STABLE PROCESSES; SURFACE-LEVEL OZONE; PRECIPITATION EXTREMES;
+   MULTIVARIATE EXTREMES; SEVERE THUNDERSTORM; HIERARCHICAL MODEL; REGIONAL
+   CLIMATE; FORECAST ERRORS; SIMULATIONS; REANALYSIS
+ER
+
+PT J
+DE Coil; functional magnetic resonance imaging (fMRI); Lorentz force;
+   stress; transcranial magnetic stimulation (TMS)
+ID MOTOR CORTEX; BRAIN; TMS
+ER
+
+PT J
+DE Magnetic resonance imaging; Heart; Recommendations; Image
+   interpretation; Post processing
+ID STATE FREE PRECESSION; CORONARY-ARTERY-DISEASE; EXTRACELLULAR CONTRAST
+   AGENT; DIFFUSE MYOCARDIAL FIBROSIS; IRON-OVERLOADED THALASSEMIA;
+   INVESTIGATE OPTIMAL METHODS; BASE-LINE CORRECTION; QUANTITATIVE
+   ASSESSMENT; BLOOD-FLOW; VOLUME MEASUREMENTS
+ER
+
+PT J
+DE environmetrics; rock-magnetism; heavy metals; urban pollution; magnetite
+   aggregate
+ID HEAVY-METALS CONTAMINATION; POWER-PLANT; TREE LEAVES; FLY-ASH;
+   SUSCEPTIBILITY MEASUREMENTS; PARTICULATE MATTER; AIRBORNE PARTICLES;
+   STREAM-SEDIMENTS; SOUTH FRANCE; ROAD DUST
+ER
+
+PT J
+ID NMR IMAGING METHODS; SPECTROSCOPY
+ER
+
+PT J
+DE Coil; functional magnetic resonance imaging (fMRI); Lorentz force;
+   transcranial magnetic stimulation (TMS)
+ID MOTOR CORTEX; BRAIN; TMS
+ER
+
+PT J
+DE Finite element model; integral force feedback; magnetic resonance
+   imaging; MRI; piezoelectric actuator; vibration isolation
+ID COIL
+ER
+
+PT J
+DE Bayesian inference; magnetic resonance force microscopy (MRFM)
+   experiment; Markov chain Monte Carlo (MCMC) methods; semi-blind (myopic)
+   sparse deconvolution
+ID RESONANCE FORCE MICROSCOPE; NUCLEAR-MAGNETIC-RESONANCE; PARTIALLY KNOWN
+   BLURS; DECONVOLUTION; RESTORATION; PRIORS
+ER
+
+PT J
+DE Magnetic resonance force microscopy; oscillating cantilever-driven
+   adiabatic reversal technique; single nuclear spin
+ID RESONANCE FORCE MICROSCOPY; SPIN QUANTUM COMPUTER
+ER
+
+PT J
+ER
+
+PT J
+DE Radionuclides; Polonium Po-210; Uranium U-238 plutonium Pu239+240; Odra
+   river (Poland, southern Baltic); Classification; Environmetrics
+ID WATER; CLASSIFICATION; PO-210; U-238; FALLOUT; RADIUM; POLAND; LEAD
+ER
+
+PT J
+DE Wastewater treatment efficiency; Industrial wastewater; Organic
+   pollutants; Environmetrics; Multivariate statistics
+ID PETROLEUM REFINERY; NEURAL-NETWORK; PERFORMANCE; EMISSIONS
+ER
+
+PT J
+ID FORCE MICROSCOPY; FERROMAGNETIC-RESONANCE; TOMOGRAPHY; RESOLUTION;
+   SIGNAL; PROBE; CELLS
+ER
+
+PT J
+DE elastography; MRE; MRI; velocity; single-sided magnet; stiffness;
+   elastometry
+ID MR-ELASTOGRAPHY; SKELETAL-MUSCLE; MYOCARDIAL STIFFNESS; BREAST-LESIONS;
+   UNILATERAL NMR; ULTRASOUND; TISSUE; ELASTICITY; PHANTOM; LIVER
+ER
+
+PT J
+DE Mar Menor lagoon; Environmental pollution hazard; Sediments; Heavy metal
+   distribution; Ecotoxicological tests; Self organizing maps; Hasse
+   diagram technique; Ranking; Simimarity analysis; Environmetrics
+ID PARTIALLY ORDERED SETS; RIVER; FRACTIONATION; TOXICITY; RANKING
+ER
+
+PT J
+ID FORCE MICROSCOPY; ZEUGMATOGRAPHY; CANTILEVERS
+ER
+
+PT J
+ER
+
+PT J
+DE Sustainable chemistry; Persistent Organic Pollutants (POPs); partial
+   order; PyHasse software; Chemometrics; environmental health
+ID GREEN CHEMISTRY; CRYPTORCHIDISM; MILK
+ER
+
+PT J
+DE Tactile sensing; piezoelectric; magnetic resonance compatibility;
+   minimally invasive surgery
+ID MINIMALLY INVASIVE SURGERY; OF-THE-ART; NEEDLE INSERTION; FORCE
+   FEEDBACK; ROBOTIC SYSTEM; CONTACT FORCE; MRI; SENSOR; DESIGN; ACTUATION
+ER
+
+PT J
+DE environmetrics; multivariate statistics; cluster analysis; principal
+   components analysis; PCA; data mining; monitoring
+ER
+
+PT B
+ID CHANGE-POINT; REGRESSION
+ER
+
+PT J
+ID FORCE MICROSCOPE CANTILEVERS; MAGNETIC-RESONANCE; SYSTEMS
+ER
+
+PT J
+DE Spatio-temporal modeling; Environmental monitoring; Surface water
+   quality; Environmetrics
+ID WATER-QUALITY ASSESSMENT; REMOTE-SENSING TECHNIQUES; THEMATIC MAPPER;
+   CHLOROPHYLL; LAKES; TM; FINLAND; IMAGERY; GULF; CDOM
+ER
+
+PT J
+DE Atomic bomb test; Chernobyl; Distance trend analysis; Ecological study;
+   Environmental health; Environmetrics; Logistic regression; Low-level
+   ionizing radiation; Male proportion; Nuclear facility; Radiation
+   epidemiology; Radiation-induced genetic effect; Sex ratio;
+   Spatial-temporal analysis
+ID DOWN-SYNDROME; IONIZING-RADIATION; LOTHIAN REGION; RATIO; ACCIDENT;
+   PREVALENCE; GERMANY; EUROPE; POPULATION; TRISOMY-21
+ER
+
+PT J
+DE environmetrics; environmental pollutant control; stochastic dynamic
+   games; optimal abatement policies
+ID CLIMATE-CHANGE; AGREEMENTS
+ER
+
+PT J
+ID CANTILEVERS; FLUCTUATIONS; DISSIPATION
+ER
+
+PT J
+DE Single Molecule Magnet; Magnetic Resonance Force Microscopy; Qubit;
+   Quantum State Measurement
+ER
+
+PT J
+DE Soil contamination; Cluster analysis; Principal components analysis;
+   Environmetrics; Spatial variation
+ID HEAVY-METAL CONTAMINATION; POLLUTED SOILS; BULGARIA; IDENTIFICATION;
+   INFORMATION; URBAN; PLANT; INDIA; LEAD; ZN
+ER
+
+PT J
+DE Bayesian statistics; Gaussian random field; Hierarchical model; Spatial
+   prediction; Non-methane hydrocarbons
+ID OZONE LEVELS; INTERPOLATION; MODEL; VANCOUVER; EXPOSURE; PM10
+ER
+
+PT J
+DE Ozone; Morbidity; Threshold; Bootstrap
+ID AIR-POLLUTION; DAILY MORTALITY; TIME-SERIES; HEALTH; METAANALYSIS;
+   UNCERTAINTY; INFERENCE; SELECTION
+ER
+
+PT J
+DE Cardiac catheterization; fiber-optic force sensor; force sensor; light
+   intensity modulation; magnetic resonance imaging (MRI)-compatible
+ID ABLATION
+ER
+
+PT J
+DE Lorentz force; magnetic field; ultrasound; magnetic resonance imaging;
+   conductivity; magneto-acoustic imaging
+ID INDUCED LORENTZ FORCE; IMAGING ELECTRICAL-IMPEDANCE; INDUCTION MAT-MI;
+   MAGNETOACOUSTIC TOMOGRAPHY; BIOELECTRIC CURRENTS; CURRENT-DENSITY;
+   RECONSTRUCTION; TISSUE; FEASIBILITY; RESONANCE
+ER
+
+PT S
+DE MR tagging; HARP; motion tracking; strain; soft tissue indentation
+ID CARDIAC MR-IMAGES; TAG; PROPAGATION
+ER
+
+PT J
+DE M-quantile regression; non-parametric regression; penalized splines;
+   robust regression; simulation study; unit-level models
+ID SPLINES; ERROR
+ER
+
+PT S
+DE Myopic deconvolution; Bayesian inference; Markov Chain Monte Carlo
+   (MCMC) methods; MRFM experiment
+ID RESONANCE FORCE MICROSCOPE; NUCLEAR-MAGNETIC-RESONANCE; DECONVOLUTION;
+   SEGMENTATION; MODEL
+ER
+
+PT J
+DE arrhythmogenic right ventricular dysplasia; cardiomyopathy;
+   electrocardiography; standards; electrophysiology; mapping; magnetic
+   resonance imaging; Editorials
+ID RIGHT-VENTRICULAR CARDIOMYOPATHY; TASK-FORCE CRITERIA;
+   MAGNETIC-RESONANCE; HYPERTROPHIC CARDIOMYOPATHY; DIAGNOSIS; FAMILIES;
+   DISEASE
+ER
+
+PT J
+DE spatial resolution; resonance microscopy; semiconductor photo etching;
+   EBL fabric
+ID TOFFOLI GATE; LOGIC GATES; 2 ATOMS; ELECTRODYNAMICS; SCHEME; FIBERS;
+   FIELD
+ER
+
+PT J
+DE Cardiac catheterization; catheter; fiber-optic; force sensor; magnetic
+   resonance imaging (MRI); miniaturization; MRI-compatibility; pressure
+   sensor
+ID MINIMALLY INVASIVE SURGERY; CARDIAC-CATHETERIZATION; MAGNETIC-RESONANCE;
+   PRESSURE SENSOR; ABLATION; SYSTEM; INTERVENTION; FEASIBILITY;
+   EXPERIENCE; POSITION
+ER
+
+PT J
+DE Generalized structured models; Smooth backfitting; Generalized varying
+   coefficients; Generalized additive models; Computational statistics
+ID ADDITIVE-MODELS; ASYMPTOTIC PROPERTIES; NONPARAMETRIC MODELS;
+   REGRESSION; INTEGRATION
+ER
+
+PT J
+DE Groundwater quality; Environmetrics; Multiple time series; Environmental
+   monitoring; Mann-Kendall test
+ID SERIES; TAU
+ER
+
+PT J
+DE cantilevers; magnetic force microscopy; magnetic resonance spectroscopy;
+   micromechanical devices; nuclear spin
+ID CANTILEVERS
+ER
+
+PT S
+DE MEG-MRI; ultra-low-field MRI; prepolarization; safety
+ER
+
+PT S
+ID ROBOTIC SURGERY
+ER
+
+PT S
+DE optical fiber; tactile sensor; minimally invasive robotic surgery;
+   lump/artery detection; MRI compatible
+ER
+
+PT J
+DE environmetrics; particulate matter; source apportionment; CMB; chemical
+   mass balance; PMF; positive matrix factorisation; UNMIX; Cracow; Poland;
+   Vienna; Austria
+ID MULTIVARIATE STATISTICAL ASSESSMENT; SOURCE APPORTIONMENT; PARTICULATE
+   MATTER; NORTHERN GREECE; AMBIENT PM2.5; WATER QUALITY; HONG-KONG;
+   POLLUTION; IDENTIFICATION; SEDIMENT
+ER
+
+PT J
+DE urban air pollution; source apportionment; environmetrics; particulate
+   matter; carcinogenic polyaromatic hydrocarbons
+ID RECEPTOR MODEL; LUNG-CANCER; HONG-KONG; POLLUTION; PM2.5; HYDROCARBONS;
+   CITIES; PM10; FINE; SITE
+ER
+
+PT B
+ID NANOPARTICLES
+ER
+
+PT S
+DE analytical ecological study; congenital malformation; environmental
+   health; environmetrics; exposure-response relation; low-level ionizing
+   radiation; male proportion; radiation epidemiology; radiation-induced
+   genetic effects; sex ratio; spatial-temporal logistic regression
+ID POWER-PLANT ACCIDENT; PERINATAL-MORTALITY; GERMANY; STILLBIRTH;
+   TRISOMY-21; RANKING; TRENDS
+ER
+
+PT J
+DE Decision theory; Risk; Uncertainty; Catastrophes; Fear; Topology; Axioms
+   of decision theory; Representation theory; Rare events; Equity premium
+   puzzle; Allais paradox; Experimental work; Functional MRIs; Rare events;
+   Catastrophes
+ID EQUITY PREMIUM; FUNCTIONAL-ANALYSIS; KNOWLEDGE ECONOMY; EQUILIBRIUM;
+   PUZZLE; UNCERTAINTY; VOLATILITY; CHOICE
+ER
+
+PT J
+ER
+
+PT J
+DE Separability; Spatial covariance; Kalman filter; Environmental
+   statistics; Distributed computing
+ID DYNAMIC-MODELS; SERIES
+ER
+
+PT J
+DE Elastography; MRI; Transient; Radiation force; Ultrasound
+ER
+
+PT J
+ID RESONANCE FORCE MICROSCOPY; NUCLEAR-MAGNETIC-RESONANCE; SPIN NOISE;
+   SPECTROSCOPY; NANOTUBES; DIAMOND
+ER
+
+PT J
+DE Environmetrics; Neural networks; Self-organising maps; Mercury;
+   Fractionation; Sequential extraction; Sediments; Floodplain soils;
+   Poznan city; Warta River; Poland
+ID CONTAMINATED FLOODPLAIN SOILS; HUMIC SUBSTANCES; ORGANIC-MATTER;
+   SEDIMENTS; POLAND; FRACTIONATION; MOBILITY; POZNAN
+ER
+
+PT J
+DE Biostatistics; Cardiovascular disease; Death; Disease progression;
+   Environmetrics; Epidemiology; Exposure risk; First hitting time; Health
+   status; Healthy worker effect; Kaplan-Meier plot; Latent process; Lung
+   cancer; Occupational health; Stochastic process; Survival analysis;
+   Wiener process; Work environment
+ID LUNG-CANCER; TIME MODELS; DISEASE; DRIVERS; DENMARK
+ER
+
+PT J
+ID RESONANCE FORCE MICROSCOPY
+ER
+
+PT J
+ID HEART-ASSOCIATION; AMERICAN-COLLEGE; TASK-FORCE; COMMITTEE; CARDIOLOGY
+ER
+
+PT J
+DE Fourier series; Lorentz force; magnetic resonance imaging; uniplanar
+   gradient coil
+ER
+
+PT J
+DE MRFM; ESR; cantilever; FM detection
+ID MODULATION
+ER
+
+PT J
+ID DIAMOND
+ER
+
+PT J
+DE MRFM; MRI; nuclear magnetic resonance; molecular structure imaging
+ID MOSAIC-VIRUS PARTICLE; NUCLEAR-SPIN NOISE; FORCE MICROSCOPY; MECHANICAL
+   DETECTION; RESOLUTION
+ER
+
+PT J
+DE Radionuclides; Vistula river (Poland, southern Baltic); Classification;
+   Self-organizing map; Environmetrics
+ID SELF-ORGANIZING MAP; URANIUM; SOM; PLUTONIUM; ISOTOPES; PB-210; LEAD;
+   ENVIRONMENT; ALGORITHM; PATTERNS
+ER
+
+PT J
+DE magnetic-resonance-imaging-compatible image-guided interventions; haptic
+   unit; master-slave; medical robotics
+ID MR ELASTOGRAPHY; NEEDLE; SYSTEM; COMPATIBILITY; FEASIBILITY; TISSUES;
+   DEVICES; MOTION; ROBOT
+ER
+
+PT S
+ID CARDIAC-CATHETERIZATION
+ER
+
+PT B
+ID FMRI
+ER
+
+PT S
+DE Double-ridged horn antenna; magnetic resonance imaging; induced
+   electromotive force; radiation pattern
+ER
+
+PT J
+DE Force chains; MR elastography; MRI; Granular
+ID MAGNETIC-RESONANCE ELASTOGRAPHY; BREAST-CANCER; BEAD PACKS;
+   FLUCTUATIONS; VISUALIZATION
+ER
+
+PT S
+ID SURGERY; STATE
+ER
+
+PT J
+DE magnetic resonance compatible; minimally invasive surgery; tactile
+   sensing; piezoelectric
+ID ROBOTICS; GRASPER; SENSORS; DESIGN
+ER
+
+PT S
+DE MR safety; MR compatibility; RF-induced heating; artifacts; magnetic
+   resonance imaging
+ER
+
+PT J
+DE Chemometrics; environmetrics; Hasse diagram technique; METEOR;
+   multi-criteria decision support system; pharmaceuticals; chemical
+   databases; environmental databases; ranking
+ID HASSE DIAGRAM TECHNIQUE; RANDOM LINEAR EXTENSIONS; ORGANIC-COMPOUNDS;
+   AVERAGED RANKS; DRINKING-WATER; CHEMICALS; DECISION; REMOVAL; METEOR
+ER
+
+PT J
+DE Hadamard codes; magnetic force microscopy; magnetic resonance imaging
+ID NMR IMAGING METHODS; ZEUGMATOGRAPHY; SYSTEMS
+ER
+
+PT J
+DE inorganic analytes; Tucker3 modeling; self-organizing map;
+   environmetrics; Silesian Beskid
+ID SELF-ORGANIZING MAP; COMPONENT ANALYSIS; CHEMICAL-COMPOSITION;
+   IDENTIFICATION; ALGORITHMS; TUCKER3; FRANCE; POLAND; SPEED; AIR
+ER
+
+PT J
+DE Ambiguity; Risk; Choquet; Integral; Restricted Bayes-Hurwicz Criterion;
+   Precautionary Principle
+ID EXPECTED UTILITY; UNCERTAINTY; PROBABILITY; AMBIGUITY
+ER
+
+PT J
+ER
+
+PT J
+ID MONTE-CARLO SAMPLERS; DISTRIBUTIONS; MODELS; INFERENCE
+ER
+
+PT J
+DE HPV chemicals; environmental chemicals; ranking; posets; Hasse diagram
+   technique (HDT); Decision Support Systems; cluster analysis; Method of
+   Evaluation by Order Theory (METEOR); stability fields; environmetrics;
+   environmental software
+ID RANDOM LINEAR EXTENSIONS; HASSE DIAGRAM TECHNIQUE; PARTIALLY ORDERED
+   SETS; DECISION-SUPPORT; AVERAGED RANKS; TOOL; DATABASES; SYSTEMS;
+   INTEGRATION; SUBSTANCES
+ER
+
+PT J
+DE benthic organisms; polychaeta; crustacea; mollusca; coastal sediments;
+   chemometrics
+ID COASTAL; POLLUTION; ESTUARINE; SHALLOW
+ER
+
+PT J
+ID SAMPLE; QUARTZ
+ER
+
+PT J
+ER
+
+PT J
+DE actuator; brake; damper; electrorheological fluid (ERF); functional
+   magnetic resonance imaging (fMRI); magnetic resonance (MR) compatible
+   robotic/mechatronic systems; magnetic resonance imaging (MRI)
+ID INTRAOPERATIVE MRI; REHABILITATION; FIELD
+ER
+
+PT J
+ID SPECTRUM; WAVES; FILMS; DISK
+ER
+
+PT J
+ID MAGNETIC-RESONANCE; FORCE MICROSCOPY
+ER
+
+PT J
+DE diffuse radiation; non-parametric statistics; quality assurance;
+   mathematical model; quadratic programming
+ID FRACTION
+ER
+
+PT J
+ID PRECIPITATION DATA; MODEL
+ER
+
+PT J
+DE fuzzy c-means algorithm; Gustafson-Kessel algorithm; fuzzy c-varieties
+   algorithm; clustering validity; soil and plant samples; traffic-emitted
+   lead pollution
+ID SOLVENT SYSTEMS; SETS; VALIDITY
+ER
+
+PT J
+ID ELECTRON-SPIN-RESONANCE; CRYSTAL SILICON CANTILEVERS; STATE
+   NMR-SPECTROSCOPY; FORCE MICROSCOPE CANTILEVERS; FERROMAGNETIC-RESONANCE;
+   ENERGY-DISSIPATION; ROOM-TEMPERATURE; SINGLE-MOLECULE; MICROMECHANICAL
+   OSCILLATORS; ULTRASENSITIVE CANTILEVERS
+ER
+
+PT J
+DE electrorheological fluids; functional magnetic resonance imaging (fMRI);
+   motor control; magnetic resonance (MR)-compatible devices
+ID FORCE; FMRI; INTERVENTIONS; ACTIVATION; FEEDBACK; SYSTEM
+ER
+
+PT S
+DE Magnetic resonance imaging; image segmentation; phase-contrast; active
+   models; external force
+ID ACTIVE CONTOUR MODELS; FLOW; BALLOONS; IMAGES; SNAKES
+ER
+
+PT S
+DE Magnetic Resonance Thermometry; High Intensity Focused Ultrasound;
+   Magnetic Resonance Elastography; Radiation Force Localization; in vivo;
+   turkey breast; rat; brain
+ID ULTRASOUND
+ER
+
+PT J
+DE imaging; microimaging; microscopy; NMR spectroscopy
+ID MECHANICAL DETECTION; SPIN SYSTEMS; RESOLUTION; FIELD; SPECTRA; SOLIDS
+ER
+
+PT J
+DE atmospheric pollution; bulk precipitation; chemical composition;
+   environmetrics; source apportioning model; time series analysis;
+   transboundary pollutants
+ID AIRBORNE PARTICULATE MATTER; HEAVY-METAL CONCENTRATIONS; NATIONAL-PARK
+   POLAND; ACID-RAIN; CHEMICAL-COMPOSITION; SOURCE APPORTIONMENT; WET
+   PRECIPITATION; TRICITY POLAND; AIR-POLLUTION; TIME-SERIES
+ER
+
+PT J
+DE tsunami sediment; heavy metals; mercury; metalloids; self-organizing
+   mapping; environmetrics
+ID ARTIFICIAL NEURAL-NETWORKS; DECEMBER 2004 TSUNAMI; COASTAL ZONE;
+   THAILAND; MAPS; CHEMOMETRICS; SEDIMENTS; PATTERNS; DEPOSITS; CLUSTER
+ER
+
+PT J
+ID MAGNETIC-RESONANCE; PROBE
+ER
+
+PT J
+DE data glove; functional magnetic resonance imaging (fMRI); haptic;
+   virtual reality
+ID FREQUENCY-DEPENDENT CHANGES; CEREBRAL BLOOD-FLOW; FINGER MOVEMENTS;
+   FUNCTIONAL MRI; MOTOR CORTEX; RECOVERY; STROKE; AREAS
+ER
+
+PT J
+ID MAGNETIC-RESONANCE; ROTATING-FRAME; NMR; POLARIZATION; SOLIDS; ENERGY;
+   CAF2
+ER
+
+PT J
+DE body posture; dynamic magnetic resonance imaging; lung; lung function
+   tests; magnetic resonance-compatible-spirometry; pulmonary mechanics
+ID PULMONARY-FUNCTION TESTS; COMPUTED-TOMOGRAPHY; HEALTHY-SUBJECTS;
+   CYSTIC-FIBROSIS; LUNG-VOLUME; SPIROMETRY; OBSTRUCTION; DIAPHRAGM;
+   AGREEMENT
+ER
+
+PT J
+ID SPECTROSCOPIC IMAGING TECHNIQUE; NOBEL LECTURE; NMR; CANTILEVERS
+ER
+
+PT J
+DE classification; self-organizing maps; cluster analysis; principal
+   components analysis; water quality; monitoring; river; environmetrics
+ID TIME-SERIES ANALYSIS; SOM NEURAL-NETWORK; RIVER WATER;
+   STATISTICAL-METHODS; YANTRA RIVER; K-MEANS; QUALITY; CHEMOMETRICS;
+   ALGORITHM; BULGARIA
+ER
+
+PT J
+DE force transducer; strain gauges; fMRI; force
+ID HUMAN BRAIN ACTIVITY; HUMAN HAND MUSCLE; FUNCTIONAL MRI; CORTICAL
+   ACTIVITY; INDEX FINGER; FMRI; FATIGUE; CONTRACTIONS; ACTIVATION;
+   PRECISION
+ER
+
+PT J
+DE magnetic resonance imaging; safety; MRI; MR; incidents; heating;
+   projectiles; burns; exposure; occupational
+ID RADIOLOGY WHITE PAPER; HIGH-FIELD MRI; ACOUSTIC NOISE; INTERVENTIONAL
+   MRI; AMERICAN-COLLEGE; ABSORPTION RATE; 1.5 TESLA; EXPOSURE; BODY;
+   SCANNERS
+ER
+
+PT J
+ID ROTATING-FRAME; MICROSCOPY; NMR; POLARIZATION; SOLIDS
+ER
+
+PT J
+DE environmetrics; fuzzy logic; air; water; land; forecasting; modeling;
+   classification
+ID WATER TREATMENT-PLANT; ARTIFICIAL NEURAL-NETWORKS; DISINFECTION
+   BY-PRODUCTS; DECISION-SUPPORT-SYSTEM; RAINFALL-RUNOFF MODELS; SYNTHETIC
+   EVALUATION; AIR-POLLUTION; EXPERT-SYSTEM; AEROSOL-PARTICLES; SOLUTE
+   TRANSPORT
+ER
+
+PT J
+DE MRFM; X-band; ESR; DPPH; imaging
+ER
+
+PT J
+ID SUDDEN-DEATH; MYOCARDIAL-INFARCTION; IRREVERSIBLE INJURY;
+   AMERICAN-COLLEGE; CARDIAC DEATH; TASK-FORCE; HEART; DISARRAY; RISK;
+   SUBSTRATE
+ER
+
+PT S
+DE cardiac motion analysis; cardiac driving forces; Kalman filter; on-line
+   estimation; recursive least-squares
+ER
+
+PT S
+ID FUNCTIONAL MRI; INTERVENTIONS; STIMULATOR; DESIGN; MOTION; SYSTEM; MOTOR
+ER
+
+PT J
+DE environmetrics; modeling; bioindication; Sphagnum palustre; air
+   pollution; trace metals
+ID HEAVY-METAL DEPOSITION; TRACE-ELEMENTS; LICHENS; CONTAMINATION;
+   POLLUTION; SOILS; SPAIN; BAGS; AIR
+ER
+
+PT B
+ID KNEE
+ER
+
+PT B
+DE displacement sensor; magnetic resonance force microscopy (MRFM); single
+   electron transistor (SET); thermornechanical noise
+ER
+
+PT J
+DE environmental databases; High Production Volume Chemicals (HPVCs);
+   pharmaceuticals; Hasse Diagram Technique; ProRank; decision-support
+   tool; environmetrics; chemometrics; multi-criteria evaluation
+ID DECISION-SUPPORT-SYSTEM; WORLD-WIDE-WEB; CHEMICAL DATABASES; MANAGEMENT
+   STRATEGIES; WATER MANAGEMENT; POTSDAM GERMANY; EXAMPLE BERLIN;
+   INFORMATION; ONLINE; PHARMACEUTICALS
+ER
+
+PT J
+DE construction technique; resistive magnets; magnetic resonance imaging
+ID TO-NOISE RATIO; NOBLE-GAS; DESIGN; NMR; MRI; CONSTRUCTION; IMAGER;
+   SYSTEM
+ER
+
+PT J
+DE environmental physics; environmetrics; sediments; surface waters;
+   aerosols
+ID WATER-QUALITY; ATMOSPHERIC PARTICLES; WET PRECIPITATION; YANTRA RIVER;
+   BULGARIA; CHEMISTRY; NETWORK; SULFUR; CARBON; BASIN
+ER
+
+PT J
+ID VENTRICULAR-ANEURYSMS; TASK-FORCE; CARDIOMYOPATHIES; MYOCARDITIS
+ER
+
+PT J
+ID DILUTE SPINS; NMR; SPECTROSCOPY; SOLIDS
+ER
+
+PT J
+DE funtional MRI (fMRI); force feedback; haptic interface; MR-compatible
+   sensors and actuators; magnetic resonance imaging (MRI); neuroscience;
+   robotics
+ID DYNAMICS
+ER
+
+PT J
+DE neuronal magnetic field; Lorentz force; extracellular potential
+   recording; snail ganglia; electrical stimulation; volume selection MRI;
+   fMRI
+ID MRI DETECTION; HUMAN BRAIN; FIELD; CURRENTS
+ER
+
+PT S
+ER
+
+PT J
+DE agricultural field trial; asymptotic expansion; De Wijs process; earth
+   science; environmetrics; geographical epidemiology; geostatistics;
+   intrinsic autoregression; Markov random field; variogram
+ID LATTICE
+ER
+
+PT J
+ID SPIN RELAXATION; MICROSCOPY; OSCILLATORS; CRYSTAL; MICROFABRICATION;
+   TEMPERATURE; SYSTEMS
+ER
+
+PT J
+ID TASK-FORCE
+ER
+
+PT J
+DE pollution; exposure; climate change; regulations; environmental indices;
+   extreme events; models
+ER
+
+PT J
+DE environmental sciences; activated sludge; image analysis; PLS;
+   environmetrics
+ER
+
+PT J
+ER
+
+PT J
+DE N-way; PARAFAC; Tucker3; environmetrics
+ID PRINCIPAL COMPONENT ANALYSIS; ALGORITHMS; PARAFAC; WATERS
+ER
+
+PT J
+ID NOBEL LECTURE; MECHANICAL DETECTION; NMR; SOLIDS; FIELDS; SPECTRA; ECHO
+ER
+
+PT J
+ID SPIN RELAXATION; DYNAMICS
+ER
+
+PT J
+DE magnetism; nuclear magnetic resonance; magnetic resonance; magnetic
+   resonance tomography; history
+ER
+
+PT J
+DE water quality; principal component analysis; fuzzy principal component
+   analysis
+ID MULTIVARIATE DATA-ANALYSIS; CLUSTERING-ALGORITHM; DISPERSION MATRICES;
+   REGRESSION; CLASSIFICATION; CHEMOMETRICS; LOCATION; SETS; PCA
+ER
+
+PT J
+DE environmetrics; density-based clustering; OPTICS; DBSCAN; neural gas
+   network; Kohonen network
+ID NEURAL-GAS NETWORK; PROJECTION PURSUIT; NATURAL PATTERNS; LOOKING;
+   DENSITY
+ER
+
+PT J
+DE magnetic resonance force microscopy; displacement detection; capacitive
+   displacement detection; ESR; EPR; silicon
+ID SILICON
+ER
+
+PT J
+ID RESONANCE FORCE MICROSCOPY; MAGNETIC-RESONANCE
+ER
+
+PT S
+DE AFM; diatoms; frustule
+ID ATOMIC-FORCE MICROSCOPY; HIGHLY-CHARGED IONS; MAGNETIC-RESONANCE;
+   TUNNELING-MICROSCOPY; SMALL CANTILEVERS; SPIN-RESONANCE; ELECTRON-SPIN;
+   SLOW; SURFACES; SPECTROSCOPY
+ER
+
+PT B
+ER
+
+PT J
+ID FLUORESCENCE; RESOLUTION
+ER
+
+PT J
+DE autocorrelation; Boston Harbor; bounded influence estimation;
+   environmetrics; robust estimation; time series; water monitoring
+ID PARAMETER; OUTCOMES; COUNTS
+ER
+
+PT J
+DE environmetrics; Kamchia River; water quality
+ID WATER-QUALITY; SEDIMENT
+ER
+
+PT J
+DE magnetic resonance force microscopy; buried interfaces; thin films;
+   nanomagnetism; nondemolishing quantum measurements
+ID ELECTRON-SPIN-RESONANCE; FERROMAGNETIC-RESONANCE; THIN-FILMS; MECHANICAL
+   DETECTION; ROOM-TEMPERATURE; INTERLAYER EXCHANGE; QUANTUM INTERFERENCE;
+   ADIABATIC INVERSION; FIELD FLUCTUATIONS; CO FILMS
+ER
+
+PT J
+ID MAGNETIC-RESONANCE
+ER
+
+PT J
+DE chemometrics; environmetrics; Hasse diagram technique (HDT); METEOR;
+   environmental chemicals; environmental chemical databases
+ID SYSTEMS; RANKING
+ER
+
+PT J
+ER
+
+PT J
+DE death; disease progression; environmetrics; exposure risk; first hitting
+   time; health status; latent process; lung cancer; stochastic process;
+   survival analysis; Wiener process; work environment
+ID DIESEL EXHAUST EXPOSURE; RETROSPECTIVE COHORT; MARKER
+ER
+
+PT J
+ID RESONANCE FORCE MICROSCOPY; MAGNETIC-RESONANCE
+ER
+
+PT J
+ID SPIN RELAXATION
+ER
+
+PT J
+DE clustering; dynamic contours; image processing; magnetic resonance
+   imaging (MRI); segmentation; thalamus
+ID EDGE-DETECTION; MEDICAL IMAGES; SHAPE-MODEL
+ER
+
+PT J
+DE magnetic resonance force microscopy; spin relaxation; magnetic resonance
+   imaging
+ID ANGULAR-MOMENTUM DETECTION; FERROMAGNETIC-RESONANCE; MECHANICAL
+   DETECTION; CARBON NANOTUBES; NANOLITER-VOLUME; SPIN RELAXATION;
+   TEMPERATURE; MICROCOIL; FIELDS; SIGNAL
+ER
+
+PT J
+DE binary data; exact test; multiple outcomes; network algorithm
+ID FUNCTIONAL OBSERVATIONAL BATTERY; LOGISTIC-REGRESSION; MODELS
+ER
+
+PT J
+ID MICROSCOPE CANTILEVERS
+ER
+
+PT J
+ID INTEGRAL APPROACH; BROWNIAN-MOTION; TEMPERATURES; SYSTEM
+ER
+
+PT J
+ID COMPUTER
+ER
+
+PT B
+ID ARTERIES; VEINS
+ER
+
+PT S
+DE magnetic resonance force microscopy; MRFM; single-spin detection; cyclic
+   adiabatic inversion; quantum measurement; quantum computation; quantum
+   trajectories; stochastic Schrodinger equation; quantum state diffusion;
+   quantum master equation
+ID QUANTUM-STATE DIFFUSION; BROWNIAN-MOTION; ADIABATIC INVERSION; MASTER
+   EQUATION; SYSTEMS
+ER
+
+PT J
+DE scalar dispersion; PDF; evolution of PDF; modelling PDF
+ID PROBABILITY DENSITY-FUNCTION; PASSIVE SCALAR; DIFFUSION; MODEL; FLOWS
+ER
+
+PT B
+ID POLLUTION; NETWORK
+ER
+
+PT J
+ID RELAXATION
+ER
+
+PT J
+DE environmetrics; The International Environmetrics Society; pollution
+   control and regulation; applied statistics; multidisciplinary research
+ID NIAGARA RIVER; ONTARIO; MODELS
+ER
+
+PT J
+ID QUANTUM-STATE DIFFUSION; BROWNIAN-MOTION; MASTER EQUATION; COMPUTATION;
+   COMPUTER; SYSTEMS
+ER
+
+PT J
+ID RESONANCE-FORCE-MICROSCOPY; MAGNETIC-RESONANCE
+ER
+
+PT J
+DE magnetic resonance force microscopy; magnetic resonance; cantilever;
+   quantum measurement; Schrodinger cat state; decoherence; single-spin
+   measurement
+ER
+
+PT J
+DE micro-coils; magnetic resonance imaging; magnetic resonance force
+   microscope
+ID SOLENOIDAL MICROCOIL DESIGN; TAILORED RF PULSES; NMR MICROSCOPY; FORCE
+   MICROSCOPE; SINGLE NEURONS; MECHANICAL DETECTION; APPARENT DIFFUSION;
+   FIELD GRADIENT; XENOPUS-OOCYTE; MR MICROSCOPY
+ER
+
+PT J
+DE MRFM; force detected NMR; NMR microscopy; GaAs; optical pumping
+ID GAAS; POLARIZATION; NMR
+ER
+
+PT J
+DE force detection; magnetic resonance; magnetic-resonance force microscope
+   (MRFM); scanning probe; spin; spintronics
+ID FERROMAGNETIC-RESONANCE; MECHANICAL DETECTION; RECONSTRUCTION; PIXON;
+   INJECTION; FILMS
+ER
+
+PT J
+DE BCF; dosimetry; KDDM; meta analysis; PBTK; stochastic modeling;
+   toxicology
+ID MODELS
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT B
+ER
+
+PT S
+DE force detection; nanomagnets; electrometer; magnetometer; magnetic
+   resonance force microscopy; MRFM
+ID NUCLEAR-MAGNETIC-RESONANCE; MICROSCOPY; CANTILEVERS; DISSIPATION;
+   SILICON
+ER
+
+PT S
+DE force detection; nanomagnets; electrometer; magnetometer; magnetic
+   resonance force microscopy; MRFM
+ID NUCLEAR-MAGNETIC-RESONANCE; MICROSCOPY; CANTILEVERS; DISSIPATION;
+   SILICON
+ER
+
+PT S
+ER
+
+PT J
+ID HALL PROBE MICROSCOPY; SINGLE-CRYSTAL SILICON; FORCE MICROSCOPE;
+   FERROMAGNETIC-RESONANCE; ANGULAR-MOMENTUM; NMR DIFFRACTION; SENSITIVITY;
+   FIELD; TEMPERATURES; OSCILLATORS
+ER
+
+PT J
+ID QUANTUM COMPUTER
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE smoothing; kriging; skewness; loess; environmental; surface
+ER
+
+PT J
+ER
+
+PT J
+ID REGULAR STEP ARRAYS; MAGNETIC-RESONANCE; COMPUTATION; MICROSCOPY; STATES
+ER
+
+PT J
+DE environmetrics; statistical education
+ER
+
+PT J
+DE compartment syndromes; exertion; muscles; magnetic resonance imaging
+ID SKELETAL-MUSCLE; RELAXATION-TIMES; LEG PAIN; DIAGNOSIS; EXERCISE; WATER;
+   PERFUSION
+ER
+
+PT J
+ER
+
+PT J
+DE Bayesian prediction; hierarchical; inverted Wishart distribution; matric
+   t distribution; method of moments; posterior distribution; predictive
+   distribution; spatial interpolation
+ID AIR-POLLUTION; ACID AEROSOLS; INTERPOLATION; MORTALITY; VANCOUVER;
+   HEALTH
+ER
+
+PT J
+DE MRFM, magnetic resonance force microscope; sensitive slice; scanned
+   probe microscopy
+ID FERROMAGNETIC-RESONANCE; MECHANICAL DETECTION; NORMAL-PRESSURE; NMR;
+   TEMPERATURE
+ER
+
+PT J
+ER
+
+PT J
+DE robust methods; exploratory data analysis; statistical graphics;
+   biweight; boxplot; Gaussian distributions; long-tailed distributions;
+   contaminated normal distributions
+ER
+
+PT B
+DE MRI; deformable models; snake; gradient vector flow; image segmentation
+ER
+
+PT B
+ER
+
+PT J
+DE Black Sea; coastal area; environmetrics; river basin; sediments; water
+   quality
+ER
+
+PT J
+ER
+
+PT J
+DE force-minimized; magnet design; MRI magnet
+ID SET
+ER
+
+PT J
+DE magnetic resonance magnet; elliptical cross section; Maxwell forces;
+   superconducting
+ID MRI; SYSTEMS; COIL
+ER
+
+PT J
+ID SCANNING TUNNELING MICROSCOPE; SINGLE-MOLECULE; CANTILEVERS; ELECTRON;
+   GRADIENT
+ER
+
+PT J
+ER
+
+PT J
+DE magnetic resonance; scanning tip microscopy; chemical contrast; ambient
+   conditions; MRFM
+ID RESONANCE FORCE MICROSCOPY; NUCLEAR-MAGNETIC-RESONANCE;
+   ELECTRON-PARAMAGNETIC-RESONANCE; GAAS QUANTUM-WELLS;
+   FERROMAGNETIC-RESONANCE; OPTICAL TWEEZERS; SINGLE-MOLECULE;
+   NORMAL-PRESSURE; SPIN; DIFFUSION
+ER
+
+PT J
+DE regression; extreme values; time series; spatial statistics;
+   environmetrics
+ID GROUND-LEVEL OZONE; SURFACE OZONE; URBAN OZONE; POPULATION-DENSITY;
+   BRITISH-COLUMBIA; HARRIS COUNTY; AIR-QUALITY; ADDITIVE-MODELS;
+   UNITED-STATES; TIME-SERIES
+ER
+
+PT J
+ER
+
+PT J
+DE functional magnetic resonance imaging (FMRI); magnetic resonance imaging
+   (MRI); magnetic resonance spectroscopy( MRS); medical education;
+   neuroimaging
+ID DIFFUSION-WEIGHTED MRI; SPINAL-CORD ATROPHY; NORMAL WHITE-MATTER; LIVING
+   HUMAN BRAIN; MULTIPLE-SCLEROSIS; FUNCTIONAL MRI; ALZHEIMERS-DISEASE;
+   ACUTE STROKE; CLINICAL-APPLICATIONS; INTRAOPERATIVE MRI
+ER
+
+PT J
+ER
+
+PT J
+ID RESONANCE FORCE MICROSCOPE; MAGNETIC-RESONANCE; FERROMAGNETIC-RESONANCE;
+   NORMAL-PRESSURE; TEMPERATURE
+ER
+
+PT J
+ID GROUP REORIENTATION; T-BUTYL; METHYL; STATE; SOLIDS
+ER
+
+PT J
+DE aquatic toxicology; concentration-response modeling; dose-response
+   modeling; ecotoxicology, environmental carcinogenesis; environmental
+   health; environmental statistics; environmental carcinogenesis;
+   environmetrics; interdisciplinary collaboration; NOEC; NOEL; potency
+   estimation; quantitative risk assessment; response inhibition; risk
+   analysis; stochastic modeling; trend tests
+ID TUMOR-INCIDENCE RATE; INCREASED CARCINOGENICITY; SACRIFICE EXPERIMENTS;
+   STATISTICAL-ANALYSIS; HISTORICAL CONTROLS; TOXICITY TEST; TREND;
+   REGRESSION; SURVIVAL; MODELS
+ER
+
+PT J
+ID FERROMAGNETIC-RESONANCE; ERROR-CORRECTION; COMPUTATION
+ER
+
+PT J
+DE model validation; cross-validation; ARMAX models; residual
+   autocovariance; portmanteau statistic
+ID TIME-SERIES MODELS
+ER
+
+PT J
+ER
+
+PT J
+DE river water; chemical analysis; data treatment; environmetrics;
+   multivariate statistics; cluster analysis; principal components analysis
+ER
+
+PT J
+DE soft magnetic material; new magnetic effect; magnetic resonance imaging;
+   magnetic force microscope; magnetic levitation train
+ER
+
+PT J
+ER
+
+PT J
+ID FERROMAGNETIC-RESONANCE; NORMAL-PRESSURE; TEMPERATURE; CANTILEVER
+ER
+
+PT J
+ID NUCLEAR-MAGNETIC-RESONANCE; DIFFUSION; SYSTEMS; POLYMER; MICROSTRUCTURE
+ER
+
+PT J
+ER
+
+PT J
+DE environmetrics; fuzzy functions; integrals of fuzzy functions;
+   statistics
+ER
+
+PT J
+DE probability-weighted moments; Newton-Raphson; order statistics
+ID PROBABILITY-WEIGHTED MOMENTS
+ER
+
+PT J
+DE environmetrics; chemometrics; time-series analysis; river water quality;
+   chemical analysis
+ER
+
+EF

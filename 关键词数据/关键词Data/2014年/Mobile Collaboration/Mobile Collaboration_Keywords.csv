@@ -1,0 +1,370 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,collaboration,26,collaboration,81
+1,mobile collaboration,26,mobile collaboration,62
+2,mobile computing,18,mobile computing,48
+3,mobile,9,mobile,27
+4,mobile devices,6,mobile devices,20
+5,mobile learning,5,mobile learning,16
+6,cloud computing,4,cloud computing,11
+7,middleware,4,social networks,11
+8,security,3,collaborative,11
+9,social networks,3,cscw,11
+10,collaborative,3,security,10
+11,cscw,3,middleware,10
+12,wireless networks,3,web service,10
+13,wiki,3,authenticity,9
+14,context-awareness,3,wireless networks,8
+15,mobile collaboration computing,3,context-awareness,8
+16,mobility,3,mobility,8
+17,mobile social networks,2,ad-hoc,8
+18,authenticity,2,learning,7
+19,learning,2,crowdsourcing,7
+20,mobile applications,2,linked data,7
+21,task allocation,2,html5,7
+22,traffic balancing,2,performance,7
+23,mobile social network,2,task allocation,6
+24,mobile film,2,traffic balancing,6
+25,mobile collaborative,2,mobile social network,6
+26,crowdsourcing,2,mobile technology,6
+27,mobile technology,2,wiki,6
+28,ubiquitous collaboration,2,manet,6
+29,linked data,2,mobile collaboration computing,6
+30,html5,2,remote collaboration,6
+31,web,2,resource,6
+32,manet,2,ebooks,5
+33,performance,2,education,5
+34,device collaboration,2,ipads,5
+35,coordination patterns,2,mobile applications,5
+36,group collaboration,2,ubiquitous collaboration,5
+37,remote collaboration,2,virtual reality (vr),5
+38,service composition,2,virca,5
+39,resource,2,eeg,5
+40,web services,2,ecg,5
+41,web service,2,eye-tracking,5
+42,user group model,2,web,5
+43,service-oriented mobile units,2,device collaboration,5
+44,ad-hoc,2,service composition,5
+45,collaboration services,2,framework,5
+46,home servers,2,service,5
+47,malicious behavior detection,1,uddi,5
+48,trust and,1,messenger,5
+49,usability testing,1,software agent,5
+50,cooperative application,1,co-learn,5
+51,3d mobile,1,collaborated,5
+52,ebooks,1,pervasive,5
+53,education,1,life long,5
+54,ipads,1,mobile social networks,4
+55,privacy,1,privacy,4
+56,fog computing,1,fog computing,4
+57,mobile edge,1,mobile edge,4
+58,caching performances,1,personalization,4
+59,collaborative mobile learning,1,teacher,4
+60,decision-making tool,1,mobile film,4
+61,ad-hoc based collaboration,1,mobile collaborative,4
+62,mobile server,1,tabletop,4
+63,value-focused thinking,1,multi-mobile system,4
+64,mobile commerce,1,interactivity,4
+65,mobile commerce applications,1,bezel,4
+66,bibliometric analysis,1,scientometric analysis,4
+67,resource collaboration,1,author productivity,4
+68,inter-cell interference coordination,1,rgr,4
+69,personalization,1,dt,4
+70,teacher,1,co2 capture,4
+71,communication,1,dry adsorbent,4
+72,instant messaging application,1,carbon materials,4
+73,android,1,zeolite,4
+74,interactive collaboration,1,silica,4
+75,program,1,smart city,4
+76,user collaboration scheme,1,apps,4
+77,multimedia application,1,handheld devices,4
+78,positioning techniques,1,video,4
+79,mobile interactions,1,smart home,4
+80,collocated ad-hoc collaboration,1,home collaboration,4
+81,multi-mobile devices,1,home activity,4
+82,tabletop,1,ubiquitous service,4
+83,multi-mobile system,1,home,4
+84,interactivity,1,coordination patterns,4
+85,bezel,1,group collaboration,4
+86,interactive surfaces,1,cartography,4
+87,large display walls,1,mobile mapping,4
+88,tabletops,1,collaboration model,4
+89,indoor positioning,1,mobile device,4
+90,social collaboration,1,user,4
+91,ils,1,web services,4
+92,indoor localization,1,user group model,4
+93,wi-fi fingerprinting,1,service-oriented mobile units,4
+94,localization techniques,1,collaborative systems,4
+95,scientometric analysis,1,cell phones,4
+96,author productivity,1,web 2.0,4
+97,rgr,1,soap infoset,4
+98,dt,1,xgsp,4
+99,information seeking,1,audio/video,4
+100,user studies,1,collaboration services,4
+101,information infrastructure,1,home servers,4
+102,theory,1,mobile colllaboration,4
+103,mobile phone sensing,1,adaptability,4
+104,cross-space sensing and mining,1,mcws,4
+105,mobile payment,1,usability testing,3
+106,collective action,1,cooperative application,3
+107,banks,1,3d mobile,3
+108,telecom operators,1,communication,3
+109,security and privacy,1,instant messaging application,3
+110,delay tolerant network,1,android,3
+111,vanets,1,interactive collaboration,3
+112,co2 capture,1,program,3
+113,dry adsorbent,1,interactive surfaces,3
+114,carbon materials,1,large display walls,3
+115,zeolite,1,tabletops,3
+116,silica,1,indoor positioning,3
+117,interactive shared whiteboard,1,social collaboration,3
+118,body sensor networks,1,ils,3
+119,spine,1,mobile payment,3
+120,collaborative computing,1,collective action,3
+121,multi-sensor data,1,banks,3
+122,peer-to-peer,1,telecom operators,3
+123,collaborative editing,1,security and privacy,3
+124,cloud,1,delay tolerant network,3
+125,cardiopulmonary resuscitation(cpr),1,vanets,3
+126,mobile health,1,interactive shared whiteboard,3
+127,machine to,1,body sensor networks,3
+128,virtual reality (vr),1,spine,3
+129,virca,1,collaborative computing,3
+130,eeg,1,multi-sensor data,3
+131,ecg,1,peer-to-peer,3
+132,eye-tracking,1,collaborative editing,3
+133,m-learning,1,cloud,3
+134,behavioral intention,1,m-learning,3
+135,technology adoption,1,behavioral intention,3
+136,human computation games,1,technology adoption,3
+137,location-based content,1,distributed applications,3
+138,mobile multiplayer,1,service scalability,3
+139,distributed applications,1,collaborative memory,3
+140,service scalability,1,memory aid,3
+141,smart city,1,counseling,3
+142,apps,1,pedagogical issues,3
+143,collaborative memory,1,secondary education,3
+144,memory aid,1,elementary,3
+145,counseling,1,awareness,3
+146,scientific mobile infrastructures,1,design case study,3
+147,digital collaboration,1,emergency management,3
+148,handheld devices,1,caching,3
+149,video,1,d2d communication,3
+150,pedagogical issues,1,video streaming,3
+151,secondary education,1,mhealth,3
+152,elementary,1,telemedicine,3
+153,authentication,1,access to healthcare services,3
+154,ubiquitous convergence,1,africa,3
+155,awareness,1,green networking,3
+156,design case study,1,mobile operator collaboration,3
+157,emergency management,1,energy saving,3
+158,real-time collaboration,1,sleeping,3
+159,augmented reality,1,location-based crowdsourcing,3
+160,mobile multimedia,1,lbcs,3
+161,multi-touch,1,e-business,3
+162,caching,1,enterprise,3
+163,d2d communication,1,mobile collaboration technologies,3
+164,video streaming,1,mobile learning in higher education,3
+165,mobile video production,1,social media,3
+166,collaboration prototyping,1,ad-hoc networks,3
+167,field studies,1,vanet,3
+168,mhealth,1,multi-uav,3
+169,telemedicine,1,mobile group,3
+170,access to healthcare services,1,fuzzy measurement,3
+171,africa,1,access control,3
+172,green networking,1,cross domain authentication,3
+173,mobile operator collaboration,1,authorization,3
+174,energy saving,1,n-screen,3
+175,sleeping,1,web browser extension,3
+176,location-based crowdsourcing,1,trust management,3
+177,lbcs,1,mobile ad hoc networks,3
+178,information granularity,1,cognitive,3
+179,resource semantic,1,bim,3
+180,location-based services,1,remote gestures,3
+181,collaboration evaluation,1,augmented,3
+182,quality of service,1,concurrency control,3
+183,social networking application,1,data consistency,3
+184,user collaboration framework,1,health information technologies,3
+185,web collaboration,1,ehealth,3
+186,software engineering methodology,1,health communication,3
+187,mobile service,1,behavior,3
+188,e-business,1,mixed reality,3
+189,enterprise,1,3d applications,3
+190,mobile collaboration technologies,1,advanced visualization,3
+191,bioinformatics,1,remote,3
+192,tumor board,1,group,3
+193,smart home,1,lamoc,3
+194,home collaboration,1,children,3
+195,home activity,1,collaborative configurations,3
+196,ubiquitous service,1,epidemiology investigation,3
+197,home,1,wenchuan earthquake,3
+198,mobile learning in higher education,1,pda,3
+199,social media,1,ajax,3
+200,hessian eigenmaps and support vector machines,1,mobile meeting,3
+201,manifold,1,phone platform capabilities,3
+202,ad-hoc networks,1,remote file access,3
+203,vanet,1,context elements,3
+204,multi-uav,1,software requirement,3
+205,mobile group,1,house of,3
+206,fuzzy measurement,1,pervasive technologies,3
+207,access control,1,ad-hoc collaboration,3
+208,cross domain authentication,1,collaborative applications,3
+209,authorization,1,multi robots,3
+210,collaboration technology,1,robot numbers,3
+211,engineering asset,1,optimized partition,3
+212,frameworks and methodologies for collaboration,1,multi-agent,3
+213,collaboration enabling,1,pervasive computing,3
+214,mobile agent,1,content adaptation,3
+215,mobile grid,1,mobile computer,3
+216,mobile collaborative working environments,1,incentive mechanism,3
+217,interaction design,1,npr,3
+218,map,1,customization,3
+219,n-screen,1,xml,3
+220,web browser extension,1,mobile workflow,3
+221,industrial control systems,1,decentralized workflow,3
+222,remote monitoring,1,mobile business,3
+223,list key index terms here,1,shared field of view,3
+224,no more than 5,1,mobile robot,3
+225,distributed workflow management system,1,camera and,3
+226,content,1,polymorphic computing,3
+227,patterns system,1,embedded,3
+228,dynamic security service,1,mobile collaborative environment,3
+229,compact distributed,1,pocket pcs,3
+230,u-health agent node,1,remote code,3
+231,mobile collaboration frameworks,1,malicious behavior detection,2
+232,agent uml,1,trust and,2
+233,resources sharing,1,caching performances,2
+234,loosely-coupled work,1,collaborative mobile learning,2
+235,trust management,1,decision-making tool,2
+236,mobile ad hoc networks,1,ad-hoc based collaboration,2
+237,cognitive,1,mobile server,2
+238,bim,1,value-focused thinking,2
+239,remote gestures,1,mobile commerce,2
+240,augmented,1,mobile commerce applications,2
+241,concurrency control,1,bibliometric analysis,2
+242,data consistency,1,user collaboration scheme,2
+243,health information technologies,1,multimedia application,2
+244,ehealth,1,positioning techniques,2
+245,health communication,1,mobile interactions,2
+246,behavior,1,collocated ad-hoc collaboration,2
+247,system architecture,1,multi-mobile devices,2
+248,collaborative mobile environment,1,indoor localization,2
+249,location-awareness,1,wi-fi fingerprinting,2
+250,collaboration software,1,localization techniques,2
+251,nomadic collaboration,1,information seeking,2
+252,mixed reality,1,user studies,2
+253,3d applications,1,information infrastructure,2
+254,advanced visualization,1,theory,2
+255,remote,1,mobile phone sensing,2
+256,group,1,cross-space sensing and mining,2
+257,lamoc,1,cardiopulmonary resuscitation(cpr),2
+258,children,1,mobile health,2
+259,collaborative configurations,1,machine to,2
+260,collaborative virtual environments,1,human computation games,2
+261,ubiquitous computing,1,location-based content,2
+262,modeling language,1,mobile multiplayer,2
+263,design of mobile groupware,1,authentication,2
+264,mobile shared workspace,1,ubiquitous convergence,2
+265,mobile groupware design,1,real-time collaboration,2
+266,cartography,1,augmented reality,2
+267,mobile mapping,1,mobile multimedia,2
+268,collaboration model,1,multi-touch,2
+269,mobile device,1,mobile video production,2
+270,user,1,collaboration prototyping,2
+271,location-aware computing,1,field studies,2
+272,mobile collaboration tools,1,information granularity,2
+273,cooperative autonomous mobile robots system (camrs),1,resource semantic,2
+274,holonic system,1,location-based services,2
+275,epidemiology investigation,1,collaboration evaluation,2
+276,wenchuan earthquake,1,quality of service,2
+277,pda,1,social networking application,2
+278,ajax,1,user collaboration framework,2
+279,mobile meeting,1,web collaboration,2
+280,phone platform capabilities,1,software engineering methodology,2
+281,remote file access,1,mobile service,2
+282,communication support,1,bioinformatics,2
+283,communication patterns,1,tumor board,2
+284,context elements,1,hessian eigenmaps and support vector machines,2
+285,software requirement,1,manifold,2
+286,house of,1,collaboration technology,2
+287,ontology,1,engineering asset,2
+288,ambient calculus,1,mobile agent,2
+289,mixed sensor networks,1,mobile grid,2
+290,distributed path-planning,1,mobile collaborative working environments,2
+291,crisis management,1,interaction design,2
+292,unstructured work activities,1,map,2
+293,pervasive technologies,1,industrial control systems,2
+294,ad-hoc collaboration,1,remote monitoring,2
+295,collaborative applications,1,distributed workflow management system,2
+296,speech collaboration,1,content,2
+297,framework,1,patterns system,2
+298,service,1,dynamic security service,2
+299,multi robots,1,compact distributed,2
+300,robot numbers,1,u-health agent node,2
+301,optimized partition,1,mobile collaboration frameworks,2
+302,asynchronous audio-mediated collaboration,1,agent uml,2
+303,drawing viewing,1,resources sharing,2
+304,svg,1,loosely-coupled work,2
+305,groupware mobile applications,1,system architecture,2
+306,design guidelines,1,collaborative mobile environment,2
+307,web services platform,1,location-awareness,2
+308,middleware for,1,collaboration software,2
+309,design patterns,1,nomadic collaboration,2
+310,collaborative mobile applications,1,collaborative virtual environments,2
+311,collaborative systems,1,ubiquitous computing,2
+312,cell phones,1,mobile shared workspace,2
+313,web 2.0,1,mobile groupware design,2
+314,multi-agent,1,location-aware computing,2
+315,uddi,1,mobile collaboration tools,2
+316,messenger,1,communication support,2
+317,software agent,1,ontology,2
+318,pervasive computing,1,ambient calculus,2
+319,content adaptation,1,mixed sensor networks,2
+320,mobile computer,1,distributed path-planning,2
+321,incentive mechanism,1,crisis management,2
+322,informal interactions,1,unstructured work activities,2
+323,mobile informal co-located collaboration,1,speech collaboration,2
+324,npr,1,asynchronous audio-mediated collaboration,2
+325,customization,1,drawing viewing,2
+326,xml,1,svg,2
+327,mobile workflow,1,groupware mobile applications,2
+328,decentralized workflow,1,design guidelines,2
+329,mobile business,1,web services platform,2
+330,co-learn,1,middleware for,2
+331,collaborated,1,context-aware collaboration,2
+332,pervasive,1,mobile enterprise,2
+333,life long,1,seamless mobility,2
+334,collaborative services and processes,1,mobile groupware client,2
+335,distribution and mobility,1,cvw,2
+336,context-aware collaboration,1,middleware for mobile groupware,2
+337,mobile enterprise,1,migration decision,2
+338,seamless mobility,1,fuzzy control,2
+339,shared field of view,1,spontaneous collaboration,2
+340,mobile robot,1,peer-to-peer networks,2
+341,camera and,1,mobile environments,2
+342,mobile groupware client,1,software agents,2
+343,cvw,1,and multimedia,2
+344,middleware for mobile groupware,1,service-oriented collaboration,2
+345,migration decision,1,peer-to-peer collaboration,2
+346,fuzzy control,1,multimedia,2
+347,soap infoset,1,resource collaboration,1
+348,xgsp,1,inter-cell interference coordination,1
+349,audio/video,1,scientific mobile infrastructures,1
+350,spontaneous collaboration,1,digital collaboration,1
+351,peer-to-peer networks,1,frameworks and methodologies for collaboration,1
+352,mobile environments,1,collaboration enabling,1
+353,polymorphic computing,1,list key index terms here,1
+354,embedded,1,no more than 5,1
+355,software agents,1,modeling language,1
+356,mobile collaborative environment,1,design of mobile groupware,1
+357,pocket pcs,1,cooperative autonomous mobile robots system (camrs),1
+358,remote code,1,holonic system,1
+359,and multimedia,1,communication patterns,1
+360,service-oriented collaboration,1,design patterns,1
+361,peer-to-peer collaboration,1,collaborative mobile applications,1
+362,multimedia,1,informal interactions,1
+363,mobile colllaboration,1,mobile informal co-located collaboration,1
+364,adaptability,1,collaborative services and processes,1
+365,mcws,1,distribution and mobility,1
+366,coordination,1,coordination,1
+367,real-time distributed collaboration,1,real-time distributed collaboration,1
+368,optimistic concurrency control,1,optimistic concurrency control,1

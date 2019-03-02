@@ -1,0 +1,209 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,self-healing,8,self-healing,26
+1,wound healing,5,wound healing,19
+2,al2o3,5,al2o3,19
+3,chitosan,4,chitosan,14
+4,hydroxyapatite,4,high-temperature oxidation,12
+5,microcapsules,3,crack-healing,12
+6,rabbits,3,hydroxyapatite,11
+7,high-temperature oxidation,3,rabbits,10
+8,crack-healing,3,tissue,8
+9,self-healing coating,2,ni,8
+10,healing index,2,microcapsules,7
+11,healing,2,wound dressing,7
+12,wound dressing,2,fatigue,7
+13,fatigue,2,carbon nanotubes,7
+14,carbon nanotubes,2,wound,7
+15,wound,2,nanostructures,7
+16,tissue,2,nanocomposite,7
+17,bone healing,2,healing,6
+18,nanostructures,2,bone healing,6
+19,crack healing,2,crack healing,6
+20,nanocomposite,2,self-healing coating,5
+21,ni,2,healing index,5
+22,ethyl cellulose microcapsules,1,microencapsulation,4
+23,nanocapsules,1,polyurethane,4
+24,response surface methodology,1,butyl acetate,4
+25,polyvinyl (alcohol),1,nanoclay,4
+26,zno,1,skin wound healing,4
+27,bio-inspired,1,nano-grooves topography,4
+28,bacillus subtilis,1,ecis,4
+29,iron oxide particles,1,cell migration,4
+30,insulin,1,cell,4
+31,protein nanoparticles interactions,1,hydrogel membrane,4
+32,diabetes,1,poly vinyl alcohol,4
+33,carbon fiber polypropylene/carbon nanotube nano-composite,1,starch,4
+34,addressable,1,nano-sized copper,4
+35,microencapsulation,1,lysyl oxidise,4
+36,polyurethane,1,osteogenesis,4
+37,butyl acetate,1,fracture healing,4
+38,nanoclay,1,callus,4
+39,nano-al2o3,1,bitumen,4
+40,epoxy resin coating,1,rejuvenator,4
+41,micro-nano capsule,1,nano-composite,4
+42,calcium alginate,1,bituminous binders,4
+43,polymer matrix composite,1,nanoclays,4
+44,jute fiber,1,amyloid hydrogel,4
+45,tensile strength,1,nanofibrils,4
+46,compressive,1,self-assembly,4
+47,nanosilica,1,stem cell,4
+48,taguchi doe method,1,gum tragacanth,4
+49,ferulic acid,1,polyvinyl alcohol,4
+50,diabetic wound healing,1,nano-clay,4
+51,central-composite design,1,electrospinning,4
+52,bone defects,1,nano dressing,4
+53,calvaria healing,1,cytotoxicity,4
+54,nano composites,1,in vivo,4
+55,chronic ulcer,1,hydroxyapatites,4
+56,nano silver particles,1,cartilage,4
+57,conventional dressing,1,articular,4
+58,bone tissue engineering,1,antibacterial,4
+59,scaffold,1,bandage,4
+60,steroidal saponins,1,nano zno,4
+61,sustained release,1,beta-chitin hydrogel,4
+62,skin wound healing,1,in situ gelling system,4
+63,nano-grooves topography,1,nano-curcumin,4
+64,ecis,1,cross-linking,4
+65,cell migration,1,in,4
+66,cell,1,nano-silver,4
+67,warm mix asphalt (wma),1,nano-zirconium,4
+68,nano-scale evaluation,1,antimicrobial,4
+69,schiff base,1,cotton gauze,4
+70,reversible thermochromism,1,elastase inhibition,4
+71,contact angle,1,microspheres,4
+72,nano silica,1,proteins,4
+73,taguchi method,1,sonochemistry,4
+74,hot mix asphalt,1,hybrid materials,4
+75,self-healing concrete,1,bending,4
+76,high performance concrete,1,nanocomposites,4
+77,encapsulated,1,dental implant,4
+78,self healing composites,1,bic,4
+79,nanoreinforced healing agents,1,surface treatment,4
+80,carbon,1,ha,4
+81,hydrogel membrane,1,animal study,4
+82,poly vinyl alcohol,1,composites,4
+83,starch,1,sic,4
+84,nano-sized copper,1,strength,4
+85,lysyl oxidise,1,multi-layer,4
+86,osteogenesis,1,silica,4
+87,fracture healing,1,swelling clay,4
+88,callus,1,corrosion phenomena,4
+89,tooth powder,1,response surface methodology,3
+90,bone repair,1,polyvinyl (alcohol),3
+91,graft material,1,zno,3
+92,histologic analysis,1,bio-inspired,3
+93,histomorphometrical analysis,1,bacillus subtilis,3
+94,bitumen,1,iron oxide particles,3
+95,rejuvenator,1,insulin,3
+96,nano-composite,1,protein nanoparticles interactions,3
+97,impedance measurement,1,diabetes,3
+98,keratinocytes,1,nano-al2o3,3
+99,nano-patterned porous silicon,1,epoxy resin coating,3
+100,"healing, rheology",1,polymer matrix composite,3
+101,bituminous mastics,1,jute fiber,3
+102,self-healing core shell fibers,1,tensile strength,3
+103,solution blowing nano-/microfibers,1,compressive,3
+104,nitrocellulose liquid bandage,1,bone tissue engineering,3
+105,nano porous,1,scaffold,3
+106,chitosan nano-green tea,1,steroidal saponins,3
+107,bio-nano particle,1,sustained release,3
+108,hepatocytes,1,schiff base,3
+109,transmission,1,reversible thermochromism,3
+110,bituminous binders,1,contact angle,3
+111,nanoclays,1,nano silica,3
+112,silicate-/borate-based bioactive glass fibers,1,taguchi method,3
+113,glass conversion,1,hot mix asphalt,3
+114,amyloid hydrogel,1,tooth powder,3
+115,nanofibrils,1,bone repair,3
+116,self-assembly,1,graft material,3
+117,stem cell,1,"healing, rheology",3
+118,nanotubes,1,bituminous mastics,3
+119,beta-protein,1,nitrocellulose liquid bandage,3
+120,alzheimers-disease,1,nano porous,3
+121,bioceramic,1,chitosan nano-green tea,3
+122,nano,1,bio-nano particle,3
+123,bioactivity,1,hepatocytes,3
+124,biocompatibility,1,transmission,3
+125,gum tragacanth,1,bioceramic,3
+126,polyvinyl alcohol,1,nano,3
+127,nano-clay,1,bioactivity,3
+128,electrospinning,1,biocompatibility,3
+129,asphalt pavements,1,asphalt pavements,3
+130,induction heating,1,induction heating,3
+131,micro-capsules,1,micro-capsules,3
+132,microwave,1,microwave,3
+133,automotive clearcoats,1,zirconia-stabilized yttria,3
+134,scratch resistance,1,histological changes,3
+135,polyhedral oligomeric,1,nano reinforcing material,3
+136,zirconia-stabilized yttria,1,composite material,3
+137,histological changes,1,mechanical,3
+138,nano reinforcing material,1,bone marrow,3
+139,composite material,1,ulnar,3
+140,mechanical,1,bone nonunion,3
+141,biomaterial,1,nano-hydroxyapatite,3
+142,artificial bone materials,1,dental implants,3
+143,porous n-ha/pa66 composite,1,osseointegration,3
+144,bone marrow,1,histomorphometry,3
+145,ulnar,1,microcapsule,3
+146,bone nonunion,1,nanocapsule,3
+147,nano-hydroxyapatite,1,linseed oil (lo),3
+148,nano dressing,1,high temperature oxidation resistance,3
+149,cytotoxicity,1,crack,3
+150,in vivo,1,bone defect,3
+151,hydroxyapatites,1,nanotopography,3
+152,cartilage,1,angiogenesis,3
+153,articular,1,goat,3
+154,dental implants,1,bactericidal (sterilization) kinetics,3
+155,osseointegration,1,biodegradable,3
+156,histomorphometry,1,dermis,3
+157,antibacterial,1,ethyl cellulose microcapsules,2
+158,bandage,1,nanocapsules,2
+159,nano zno,1,micro-nano capsule,2
+160,beta-chitin hydrogel,1,calcium alginate,2
+161,copper,1,nanosilica,2
+162,molecular dynamics simulation,1,taguchi doe method,2
+163,microcapsule,1,ferulic acid,2
+164,nanocapsule,1,diabetic wound healing,2
+165,linseed oil (lo),1,central-composite design,2
+166,in situ gelling system,1,bone defects,2
+167,nano-curcumin,1,calvaria healing,2
+168,cross-linking,1,nano composites,2
+169,in,1,chronic ulcer,2
+170,oscillatory shear,1,nano silver particles,2
+171,poly-l-tyrosine,1,conventional dressing,2
+172,circular dichroism,1,warm mix asphalt (wma),2
+173,nano-silver,1,nano-scale evaluation,2
+174,nano-zirconium,1,self-healing concrete,2
+175,antimicrobial,1,high performance concrete,2
+176,cotton gauze,1,encapsulated,2
+177,elastase inhibition,1,self healing composites,2
+178,microspheres,1,nanoreinforced healing agents,2
+179,proteins,1,carbon,2
+180,sonochemistry,1,histologic analysis,2
+181,high temperature oxidation resistance,1,histomorphometrical analysis,2
+182,crack,1,impedance measurement,2
+183,morphine,1,keratinocytes,2
+184,solid lipid nanoparticles,1,nano-patterned porous silicon,2
+185,reconstructed full-thickness skin,1,nanotubes,2
+186,hybrid materials,1,beta-protein,2
+187,bending,1,alzheimers-disease,2
+188,nanocomposites,1,automotive clearcoats,2
+189,bone defect,1,scratch resistance,2
+190,nanotopography,1,polyhedral oligomeric,2
+191,angiogenesis,1,biomaterial,2
+192,goat,1,artificial bone materials,2
+193,bactericidal (sterilization) kinetics,1,porous n-ha/pa66 composite,2
+194,biodegradable,1,copper,2
+195,dermis,1,molecular dynamics simulation,2
+196,dental implant,1,oscillatory shear,2
+197,bic,1,poly-l-tyrosine,2
+198,surface treatment,1,circular dichroism,2
+199,ha,1,morphine,2
+200,animal study,1,solid lipid nanoparticles,2
+201,composites,1,reconstructed full-thickness skin,2
+202,sic,1,carbon fiber polypropylene/carbon nanotube nano-composite,1
+203,strength,1,addressable,1
+204,multi-layer,1,self-healing core shell fibers,1
+205,silica,1,solution blowing nano-/microfibers,1
+206,swelling clay,1,silicate-/borate-based bioactive glass fibers,1
+207,corrosion phenomena,1,glass conversion,1

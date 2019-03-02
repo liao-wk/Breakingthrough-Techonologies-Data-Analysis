@@ -1,0 +1,161 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,virtual reality,24,virtual reality,66
+1,oculus rift,15,oculus rift,53
+2,augmented reality,5,virtual,19
+3,virtual,5,augmented reality,15
+4,head mounted display,5,mixed reality,14
+5,mixed reality,4,head mounted display,14
+6,vr,3,unity3d,11
+7,virtual reality headset,3,vr,10
+8,unity3d,3,presence,9
+9,kinect,2,virtual reality headset,9
+10,head-mounted displays,2,immersion,9
+11,presence,2,kinect,8
+12,latency,2,telepresence,7
+13,telepresence,2,cybersickness,7
+14,immersion,2,distraction,6
+15,cybersickness,2,fear,6
+16,assembling,2,immunization,6
+17,interactive narrative,2,pain,6
+18,digital storytelling,2,pediatric,6
+19,scriptwriting,2,procedure,6
+20,content,2,psychology,6
+21,vr devices,1,assembling,6
+22,weight,1,interactive narrative,6
+23,subjective discomfort evaluation,1,digital storytelling,6
+24,calibration,1,scriptwriting,6
+25,natural image matting,1,content,6
+26,real time,1,latency,5
+27,distance perception,1,immersive,5
+28,field-of-view,1,non-immersive,5
+29,distraction,1,teleoperation,5
+30,fear,1,robotics,5
+31,immunization,1,interactive cinema,5
+32,pain,1,video games,5
+33,pediatric,1,enjoyment,5
+34,procedure,1,flow,5
+35,psychology,1,calibration,4
+36,notifications,1,natural image matting,4
+37,interruptibility,1,real time,4
+38,multi-modal,1,head-mounted displays,4
+39,feedback,1,notifications,4
+40,head mounted displays,1,interruptibility,4
+41,stroke,1,multi-modal,4
+42,telerehabilitation,1,feedback,4
+43,educational resources,1,perception,4
+44,electron microscopy,1,awss,4
+45,endocytosis,1,air to,4
+46,building information modeling,1,film,4
+47,cloud computing,1,storytelling,4
+48,perception,1,narrative,4
+49,vergence accommodation conflict,1,videogames,4
+50,head set,1,communication,4
+51,ar,1,audiovisual language,4
+52,rgb-d,1,perspective,4
+53,slam,1,crowdfunding,4
+54,vr/ar/mixed reality experiences with mobile devies in performance,1,kickstarter,4
+55,headset removal,1,anchor values,4
+56,facial synthesis,1,grounded theory,4
+57,recognizability,1,3ds max,4
+58,virtual reality headsets,1,high-altitude escape,4
+59,video editing,1,oculus rift dk2,4
+60,minimally invasive surgery,1,brain imaging,4
+61,real-time image processing,1,diffusion tensor imaging,4
+62,awss,1,cave,4
+63,air to,1,hci,4
+64,mobile vr headset,1,gimbal,4
+65,user experience,1,playstation eye,4
+66,computational thinking,1,virtual museum,4
+67,curriculum contents,1,head-mounted device,4
+68,unity,1,3d reconstruction,4
+69,task performance,1,360,4
+70,qoe,1,health technology,4
+71,double hand-gesture interaction (dhgi),1,prosthetics,4
+72,walk-through,1,myoelectric,4
+73,computational geometry,1,head mounted displays,3
+74,stereoscopic 3d,1,stroke,3
+75,physics visualisation,1,telerehabilitation,3
+76,resolution,1,educational resources,3
+77,headset,1,electron microscopy,3
+78,freeform optics,1,endocytosis,3
+79,i.3.7 [computer graphics]: three-dimensional graphics and realism,1,ar,3
+80,experimental methodology,1,rgb-d,3
+81,ethnography,1,slam,3
+82,image-based rendering,1,headset removal,3
+83,motion-to-photon latency,1,facial synthesis,3
+84,end-to-end latency,1,mobile vr headset,3
+85,film,1,user experience,3
+86,storytelling,1,computational thinking,3
+87,narrative,1,curriculum contents,3
+88,videogames,1,unity,3
+89,communication,1,computational geometry,3
+90,audiovisual language,1,stereoscopic 3d,3
+91,perspective,1,physics visualisation,3
+92,affective virtual reality,1,resolution,3
+93,autonomic nervous reactivity,1,headset,3
+94,biofeedback,1,freeform optics,3
+95,crowdfunding,1,augmentd reality,3
+96,kickstarter,1,photogrammetry,3
+97,anchor values,1,3d,3
+98,grounded theory,1,personal social robots,3
+99,immersive,1,virtual agents,3
+100,non-immersive,1,physical presence,3
+101,teleoperation,1,computing methodologies,3
+102,robotics,1,head-mounted display,3
+103,augmentd reality,1,subjective vertical test,3
+104,photogrammetry,1,head tilt,3
+105,3d,1,binaural,3
+106,3ds max,1,ir headset,3
+107,high-altitude escape,1,3d audio,3
+108,oculus rift dk2,1,head tracking,3
+109,personal social robots,1,stereoscopic vision,3
+110,virtual agents,1,oculus rift headset,3
+111,physical presence,1,clinical,3
+112,brain imaging,1,visual guidance,3
+113,diffusion tensor imaging,1,display precision,3
+114,cave,1,medical assistive,3
+115,computing methodologies,1,digital heritage,3
+116,360-degree camera,1,industrial shop-floor,3
+117,physiology,1,component,3
+118,hci,1,imu,3
+119,gimbal,1,ins,3
+120,playstation eye,1,head mounted displays (hmd),3
+121,head-mounted display,1,wearable displays,3
+122,subjective vertical test,1,optical combiners,3
+123,head tilt,1,smart,3
+124,binaural,1,vr devices,2
+125,ir headset,1,weight,2
+126,3d audio,1,subjective discomfort evaluation,2
+127,head tracking,1,distance perception,2
+128,stereoscopic vision,1,field-of-view,2
+129,oculus rift headset,1,building information modeling,2
+130,clinical,1,cloud computing,2
+131,visual guidance,1,vergence accommodation conflict,2
+132,human - computer interaction,1,head set,2
+133,head - mounted display,1,recognizability,2
+134,display precision,1,virtual reality headsets,2
+135,medical assistive,1,minimally invasive surgery,2
+136,virtual museum,1,real-time image processing,2
+137,head-mounted device,1,task performance,2
+138,3d reconstruction,1,qoe,2
+139,360,1,double hand-gesture interaction (dhgi),2
+140,3d interactive games,1,walk-through,2
+141,digital heritage,1,image-based rendering,2
+142,augmented virtuality,1,motion-to-photon latency,2
+143,immersive user experience,1,end-to-end latency,2
+144,health technology,1,affective virtual reality,2
+145,prosthetics,1,autonomic nervous reactivity,2
+146,myoelectric,1,biofeedback,2
+147,interactive cinema,1,360-degree camera,2
+148,video games,1,physiology,2
+149,enjoyment,1,human - computer interaction,2
+150,flow,1,head - mounted display,2
+151,human-robot interaction,1,3d interactive games,2
+152,industrial shop-floor,1,augmented virtuality,2
+153,component,1,immersive user experience,2
+154,imu,1,human-robot interaction,2
+155,ins,1,video editing,1
+156,head mounted displays (hmd),1,experimental methodology,1
+157,wearable displays,1,ethnography,1
+158,optical combiners,1,,
+159,smart,1,,

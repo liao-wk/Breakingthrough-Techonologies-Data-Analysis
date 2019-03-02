@@ -1,0 +1,62 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+ID HIV-POSITIVE MEN; RECENT HCV INFECTION; G ANTIBODY AVIDITY;
+   VIRUS-INFECTION; PEGYLATED INTERFERON; PROSPECTIVE COHORT;
+   COST-EFFECTIVENESS; NATURAL-HISTORY; HOMOSEXUAL-MEN; UNITED-STATES
+ER
+
+PT S
+ER
+
+PT J
+DE Alzheimer's disease; Mitochondria; Oxidative stress; Ascorbate; Energy
+   production
+ID MILD COGNITIVE IMPAIRMENT; OXIDATIVE DNA-DAMAGE; VITAMIN-C;
+   LIPID-PEROXIDATION; CYTOCHROME-C; PROTEIN OXIDATION; TRANSGENIC MOUSE;
+   FREE-RADICALS; CELL-DEATH; A-BETA
+ER
+
+PT J
+DE Band size estimation; Gel electrophoresis; Image processing; Image
+   segmentation; Monte Carlo Tree Search with Upper Confidence Bound
+ID GAMES
+ER
+
+PT J
+ER
+
+PT J
+ID PROTEIN-INTERACTION NETWORKS; STRUCTURAL SYSTEMS BIOLOGY; MACROMOLECULAR
+   ASSEMBLIES; UCSF-CHIMERA; PREDICTION; UNIVERSE; COMPLEXES; ALIGNMENT;
+   RESIDUES; ANALYZE
+ER
+
+PT B
+ID ERROR
+ER
+
+PT J
+ER
+
+PT J
+DE Network enrichment; Protein-protein interaction; Multi-omics; Key
+   pathways
+ID COLORECTAL-CANCER
+ER
+
+PT J
+DE alzheimer's disease; amyloid precursor protein; calcium; calnuc; Golgi
+ID TRANS-GOLGI NETWORK; NEUROFIBRILLARY TANGLES; ENDOPLASMIC-RETICULUM;
+   CA2+-BINDING PROTEIN; CA2+ STORES; DISEASE; CELLS; NUCLEOBINDIN; MICE;
+   APP
+ER
+
+PT J
+DE reverse hybridization; microplates; oligonucleotides; probes; ribosomal
+   RNA; immobilization; differential washing; rehybridization
+ID RIBOSOMAL-RNA; POLYSTYRENE MICROWELLS; PLATE HYBRIDIZATION; CHIP
+   TECHNOLOGY; IDENTIFICATION; DNA; PCR; ASSAY; IMMOBILIZATION; AMPLICONS
+ER
+
+EF

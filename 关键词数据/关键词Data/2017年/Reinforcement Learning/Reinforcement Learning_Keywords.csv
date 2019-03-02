@@ -1,0 +1,113 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,reinforcement learning,14,reinforcement learning,36
+1,reward,3,reward,12
+2,markov decision process,2,aversion,10
+3,dynamic,2,dopamine,9
+4,reinforcement,2,learning,9
+5,dopamine,2,reinforcement,6
+6,aversion,2,markov decision process,5
+7,learning,2,accumbens,5
+8,data-driven,1,opioid,5
+9,dual-rate,1,basal forebrain,5
+10,hardware-in-the-loop,1,operant,5
+11,lifting technology,1,pavlovian,5
+12,cooperative spectrum sensing,1,arousal,5
+13,visual tracking,1,novelty,5
+14,motion model,1,dynamic,4
+15,coarse-to-fine,1,medial temporal,4
+16,decision making system,1,entorhinal,4
+17,autonomous robots,1,perirhinal,4
+18,human-robot interaction,1,object recognition,4
+19,development,1,spatial,4
+20,advice taking,1,q-learning,4
+21,social reinforcement learning,1,fuzzy q-learning,4
+22,learning from,1,instruction,4
+23,autonomous agents,1,pso,4
+24,deep learning in robotics and automation,1,plasticity,4
+25,search and,1,attention,4
+26,meta-modeling,1,data-driven,3
+27,traction-separation law,1,dual-rate,3
+28,data-driven computational,1,hardware-in-the-loop,3
+29,motor skill transfer,1,lifting technology,3
+30,ordering,1,visual tracking,3
+31,motion complexity,1,motion model,3
+32,surgical robotics,1,coarse-to-fine,3
+33,laparoscopy,1,development,3
+34,learning from demonstration,1,advice taking,3
+35,deep,1,social reinforcement learning,3
+36,medial temporal,1,learning from,3
+37,entorhinal,1,motor skill transfer,3
+38,perirhinal,1,ordering,3
+39,object recognition,1,motion complexity,3
+40,spatial,1,surgical robotics,3
+41,bayesian reinforcement learning,1,laparoscopy,3
+42,factored representation,1,learning from demonstration,3
+43,adaptation,1,deep,3
+44,visuomotor rotation,1,adaptation,3
+45,ataxia,1,visuomotor rotation,3
+46,multiple actions,1,ataxia,3
+47,ingnet,1,multiple actions,3
+48,khepera,1,ingnet,3
+49,motivated learning,1,khepera,3
+50,goal creation,1,motivated learning,3
+51,pain signals,1,goal creation,3
+52,deep learning,1,pain signals,3
+53,supervised learning,1,deep learning,3
+54,unsupervised learning,1,supervised learning,3
+55,autonomous exploration,1,unsupervised learning,3
+56,intrinsic rewards,1,r-learning,3
+57,q-learning,1,striatum,3
+58,fuzzy q-learning,1,stereotypy,3
+59,instruction,1,procedural learning,3
+60,pso,1,prefrontal cortex,3
+61,ewa learning,1,orbitofrontal cortex,3
+62,stable strategy combinations,1,inhibitory control,3
+63,belief learning,1,cognition,3
+64,semi-markov decision processes,1,genetic algorithms,3
+65,performance potential,1,neural networks,3
+66,relative value,1,neuroevolution,3
+67,perceptual aliasing,1,network topologies,3
+68,complex-valued,1,cooperative spectrum sensing,2
+69,quantum reinforcement learning,1,decision making system,2
+70,storage,1,autonomous robots,2
+71,r-learning,1,human-robot interaction,2
+72,swarm reinforcement learning,1,autonomous agents,2
+73,sarsa,1,deep learning in robotics and automation,2
+74,swarm intelligence,1,search and,2
+75,striatum,1,meta-modeling,2
+76,stereotypy,1,traction-separation law,2
+77,procedural learning,1,data-driven computational,2
+78,ventral striatum,1,bayesian reinforcement learning,2
+79,ventral tegmental area,1,factored representation,2
+80,caudal linear nucleus,1,autonomous exploration,2
+81,accumbens,1,intrinsic rewards,2
+82,opioid,1,ewa learning,2
+83,basal forebrain,1,stable strategy combinations,2
+84,concurrent learning,1,belief learning,2
+85,behavior based control,1,semi-markov decision processes,2
+86,relational learning,1,performance potential,2
+87,relational regression,1,relative value,2
+88,prefrontal cortex,1,perceptual aliasing,2
+89,orbitofrontal cortex,1,complex-valued,2
+90,inhibitory control,1,quantum reinforcement learning,2
+91,cognition,1,storage,2
+92,multiagent learning,1,swarm reinforcement learning,2
+93,robot foraging,1,sarsa,2
+94,genetic algorithms,1,swarm intelligence,2
+95,neural networks,1,ventral striatum,2
+96,neuroevolution,1,ventral tegmental area,2
+97,network topologies,1,caudal linear nucleus,2
+98,learning theory,1,concurrent learning,2
+99,pavlovian conditioning,1,behavior based control,2
+100,instrumental conditioning,1,relational learning,2
+101,bandit problems,1,relational regression,2
+102,adaptive allocation rules,1,multiagent learning,2
+103,finite horizon regret,1,robot foraging,2
+104,inductive logic programming,1,learning theory,2
+105,planning,1,pavlovian conditioning,2
+106,plasticity,1,instrumental conditioning,2
+107,attention,1,bandit problems,2
+108,operant,1,adaptive allocation rules,2
+109,pavlovian,1,finite horizon regret,2
+110,arousal,1,inductive logic programming,2
+111,novelty,1,planning,2

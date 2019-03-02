@@ -1,0 +1,1111 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE Directional coupler; power combiner; Riblet coupler; three-dimensional
+   (3-D) metal printing; waveguide
+ID FIELD-THEORY DESIGN; SLOT ANTENNA-ARRAY; BROAD-BAND; DIVIDERS
+ER
+
+PT J
+DE 100 Gb/s; 3-D printing; high-speed interconnects; packaging; terahertz
+   (THz); waveguides
+ID PHOTONICS; MODES; LASER
+ER
+
+PT J
+DE Printing; bandpass filter; millimeter-wave band; gap waveguide;
+   waffle-iron; Polyjet
+ID HIGH-PERFORMANCE; BANDWIDTH; DESIGN; CAVITY; TECHNOLOGY
+ER
+
+PT J
+DE Additive manufacturing (AM); 3-D printing; Electron beam melting (EBM);
+   Laser powder bed fusion (LPBF); Total joint arthroplasty; Orthopedics;
+   Metal implants
+ID TOTAL KNEE; HIP-ARTHROPLASTY; IMPLANT; FABRICATION; COMPONENTS;
+   TITANIUM; SURFACES
+ER
+
+PT J
+DE 3-D printing; Cleanroom; Silicon; Semiconductor processing; Polymers;
+   Particle detection, Contamination
+ID MODELING 3D PRINTERS; OPEN-SOURCE HARDWARE; PARTICLE EMISSIONS;
+   SILICON-WAFERS; DOPED SILICON; CONTAMINATION; IMPACT; SPECTROMETRY;
+   TEMPERATURE; ACTIVATION
+ER
+
+PT J
+DE Binder inkjet printing; corona discharge; direct metal laser sintering;
+   lost-wax micromolding; Kingdon trap; metal 3-D printing
+ID 316L STAINLESS-STEEL; ORBITRAP MASS-SPECTROMETRY; MECHANICAL-PROPERTIES;
+   SURFACE QUALITY; ION-TRAP; LASER; PARTS; DENSITY; OPTIMIZATION;
+   PERFORMANCE
+ER
+
+PT J
+DE Antenna arrays; artificial neural network; slotted waveguide; W-band;
+   3-D printing
+ID DESIGN; NETWORKS
+ER
+
+PT J
+DE Additive manufacturing (AM); feeds; horn antennas; selective laser
+   melting (SLM); three-dimensional (3-D) printing
+ID WAVE-GUIDE; EFFICIENCY; ARRAYS; DESIGN
+ER
+
+PT J
+DE Additive manufacturing (AM); lattice structure; lightweight antenna;
+   three-dimensional (3-D) printing
+ID DESIGN
+ER
+
+PT J
+DE Additive manufacturing (AM); antenna; electrically small antenna (ESA);
+   electron beammelting (EBM); freeform antenna; spherical antennas;
+   surface roughness
+ID SURFACE-ROUGHNESS; WAVE; MICROWAVE
+ER
+
+PT J
+DE Antenna radiation patterns; aperture antennas; horn antennas; printed
+   circuit fabrication
+ID SURFACE-ROUGHNESS
+ER
+
+PT J
+DE Attenuation; bends; direct metal laser sintering (DMLS); double-ridge
+   waveguide; millimeter-wave frequency; power handling; roughness;
+   termination load; transmission line; twist
+ID E-PLANE BENDS; H-PLANE; COMPACT; TWISTS; DESIGN; SINGLE; CAD
+ER
+
+PT J
+DE Inkjet-printing; metal-insulator-metal (MIM); ring resonator; via-hole
+   interconnections
+ID SINTERING PROCESS; RESONATOR; SUBSTRATE
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE Consumer-grade 3-D printers; liquid metal; microwave waveguide
+   components
+ER
+
+PT J
+DE 3-D printing; CAD/CAM; Rapid prototyping; Orthognathic surgery;
+   Mandibular surgery
+ID COMPUTER-AIDED-DESIGN; ORTHOGNATHIC SURGERY; TITANIUM MESH;
+   RECONSTRUCTION; SPLINT; BONE; FABRICATION; TEMPLATES; ACCURACY; TISSUES
+ER
+
+PT J
+DE Dual-polarization; orthomode transducer (OMT); three-dimensional (3-D)
+   metal printing; wideband feed
+ID GUIDE ORTHOMODE TRANSDUCER; WAVE-GUIDE; INDUSTRIAL APPLICATIONS;
+   MONOPULSE ANTENNA; TRACKING; SYSTEM
+ER
+
+PT J
+DE 3D printed; Stripping voltammetry; Zinc; Tap water
+ID ATOMIC-ABSORPTION-SPECTROMETRY; ANALYTICAL-CHEMISTRY; TRACE
+   DETERMINATION; FILM ELECTRODE; HEAVY-METALS; TAP WATER; SYSTEM; COPPER;
+   LEAD; BEHAVIOR
+ER
+
+PT J
+DE coded apertures; coded masks; x-ray backscatter; three-dimensional
+   printing
+ID ARRAYS
+ER
+
+PT J
+DE Implant; CAD; CAM; Rapid prototyping; CT
+ID RECONSTRUCTION; MODELS
+ER
+
+PT J
+DE 3-D printing defect detection; additive manufacturing (AM); amperage
+   measurement; fused deposition modeling (FDM); material extrusion
+ID SIGNATURE ANALYSIS; MOTOR
+ER
+
+PT J
+DE Additive manufacturing (AM); filters; metal plating; resonator filters
+ID INTEGRATED WAVE-GUIDE; DIELECTRIC RESONATORS; MODE; CIRCUITS
+ER
+
+PT J
+DE Bandwidth improvement; broadband applications; conical inductor;
+   electroless plating; 3-D printing
+ID SPIRAL INDUCTORS; SILICON; DESIGN
+ER
+
+PT J
+DE Selective laser melting; Laser power; 3-D Printing; Energy efficiency;
+   Surface roughness prediction; Surface waviness
+ID RAPID PRODUCT; OPTIMIZATION; PARAMETERS; DESIGN; ALGORITHMS; ENERGY
+ER
+
+PT J
+DE 3-D printed electronics; Paper electronics; Metal printing; Inkjet;
+   Origami
+ID SUBSTRATE
+ER
+
+PT J
+DE 3-D printing; Accelerator; Additive construction by extrusion;
+   Hydration; Isothermal calorimetry; Open time; Retarder; Rheology
+ID C-S-H; CONCRETE; PERFORMANCE; THIXOTROPY; VISCOSITY; MIXTURES; GROWTH;
+   PASTES
+ER
+
+PT J
+DE Nanocomposites; Fused deposition modelling; Electromagnetic interference
+   shielding
+ID NANOCOMPOSITES; PERFORMANCE; NANOTUBES; PEEK
+ER
+
+PT J
+DE Pellet extrusion; Biopolymer printing; Extruder design; Fused deposition
+   modeling; Polylactic acid
+ID FUSED DEPOSITION; MECHANICAL-PROPERTIES; SURFACE-ROUGHNESS; 3-D
+   PRINTERS; PARTS; FILAMENTS; QUALITY
+ER
+
+PT J
+DE Diagnosis-Based Geometry(DBG); Mobile Parts Hospital(MPH); STL
+   Quote(STL)
+ER
+
+PT J
+DE Material extrusion; Low pressure; Vacuum chamber; Tensile strength
+ID ACRYLONITRILE-BUTADIENE-STYRENE; MECHANICAL-PROPERTIES; BEHAVIOR; PLA;
+   FDM; PROPERTY; TENSILE; ABS
+ER
+
+PT J
+DE Ni-Mn-Ga; Magnetic shape-memory effect; Metal powders; Binder jetting;
+   4D printing
+ID FIELD-INDUCED STRAIN; SPARK-EROSION; MICROSTRUCTURAL EVOLUTION;
+   MARTENSITIC-TRANSFORMATION; CRYOGENIC LIQUIDS; PARTICLES; PHASE;
+   DEFORMATION; FABRICATION; SCAFFOLDS
+ER
+
+PT J
+DE 3-D printed antenna; dual band; dual-circularly polarized (CP);
+   inhomogeneous substrate; stacked patch antenna
+ID 3-D-PRINTED DIELECTRICS; POLARIZER; RF
+ER
+
+PT J
+DE 3-D printing; additive manufacturing (AM); microwave components;
+   waveguide bends; waveguide filters; waveguide twists
+ID RECTANGULAR WAVE-GUIDES; KA-BAND; STEREOLITHOGRAPHY; ANTENNAS;
+   COMPONENTS; DESIGN; PERFORMANCE
+ER
+
+PT J
+DE 3-D printing; array antenna; coaxial feed network; liquid metal; vacuum
+   filling
+ID GALLIUM; INDIUM; ALLOY
+ER
+
+PT J
+DE light-emitting diode thermal management; three-dimensional printing;
+   thermal conductivity; fused filament fabrication; additive manufacturing
+ID CONDUCTIVITY
+ER
+
+PT J
+ID SENSORS
+ER
+
+PT J
+DE FCLED; cooling oil encapsulation; stacking module; transparent glass
+   circuit board
+ID EFFICIENCY DROOP; BLUE LEDS; IMPLEMENTATION; PERFORMANCE; DESIGN;
+   LAYERS; GREEN; RED
+ER
+
+PT J
+DE Direction of arrival; horn antennas; millimeterwave technology;
+   stability analysis; three-dimensional (3-D) printing
+ER
+
+PT J
+DE Direct metal laser sintering (DMLS); isolation improvement;
+   millimeter-wave repeaters; quad-ridge horn; reactive impedance surface
+   (RIS)
+ID HORN
+ER
+
+PT S
+DE Direct Metal Laser Sintering (DMLS); Laser Additive Manufacturing (LAM);
+   Low Laser Power; Iron Powder; Pulsed Fiber Laser
+ER
+
+PT J
+DE 3-D printing; antenna array; direct metal laser sintering; slot antenna;
+   waveguide
+ID GAP WAVE-GUIDE; WIDE-BAND; ANTENNA
+ER
+
+PT J
+DE 3D printing; metallization; conductive paint; corrugations
+ID KA-BAND; WAVE
+ER
+
+PT S
+DE 3D Printing; Additive Manufacturing; Metal Coated Plastics; mm-Wave;
+   Stereolithography; dielectric lens; ceramic; beam forming ring
+ID BAND
+ER
+
+PT S
+DE Additive manufacture; LENS; PBF; SS316L
+ER
+
+PT J
+DE Yb-fiber laser; AISI 304 stainless steel; acrylonitrile butadiene
+   styrene (ABS); polymer; joining; three-dimensional (3-D) printing;
+   dissimilar; fused deposition modeling (FDM); analysis of variance
+   (ANOVA)
+ID DISSIMILAR MATERIALS; METAL; ABS
+ER
+
+PT J
+DE Advanced manufacturing technologies; Fused deposition modelling; Health;
+   Exposure
+ID VOLATILE ORGANIC-COMPOUNDS; 3D PRINTER; ULTRAFINE PARTICLES; EMISSIONS;
+   SENSITIZERS; HEALTH
+ER
+
+PT B
+DE additive manufacturing; 3-D printing; metal printing; waveguide antenna;
+   antenna arrays
+ER
+
+PT B
+DE Sine waveguide (SWG); slow-wave structure (SWS); 3-D printing; rapid
+   investment casting (RIC)
+ID TUBE
+ER
+
+PT J
+ID POLYMERS; INK
+ER
+
+PT J
+ER
+
+PT J
+DE Open-source slicer; Metal 3-D printing; Low cost metal 3-D printer;
+   Open-source metal 3-D printer; GMAW 3-D printing
+ID SUBSTRATE RELEASE MECHANISMS; FORMING PROCESSES; LASER; FABRICATION;
+   TECHNOLOGY; DEPOSITION; COMPONENTS; PROPERTY
+ER
+
+PT J
+DE Additively manufactured microelectromechanical systems (MEMS);
+   biocompatible MEMS; biodegradable MEMS; cantilever; electrospray;
+   microfluidics; multi-material 3-D printed microsystems
+ID ELECTROSPRAY EMITTERS; 3D; PLANAR; ELECTRODEPOSITION; TECHNOLOGIES;
+   CANTILEVERS; FABRICATION
+ER
+
+PT J
+DE Additive manufacturing (AM); magnetic components; magnetic-filled
+   polymer composite paste; nanosilver paste; power electronics integration
+ER
+
+PT J
+DE 3-D printing; Fe-Ga alloy (Galfenol); magnetostriction; powders
+ER
+
+PT J
+DE Additive manufacturing (AM); stereolithography; waveguide filters
+ID MICROWAVE
+ER
+
+PT J
+DE Additive manufacturing; distribution network; groove gap waveguide
+   (GGW); Ka-band; low cost; low loss; low weight; low-profile antenna;
+   metallized 3-D printed technology; milling; roughness; thermal
+ID ELECTRONICS
+ER
+
+PT J
+DE 3-D module; eddy-current sensor; inductive displacement measurement;
+   structural health monitoring; system in package
+ID SENSOR
+ER
+
+PT J
+DE 3-D printing (3-D P) fractal antenna; additive manufacturing (AM);
+   multiband antenna
+ID MONOPOLE ANTENNA; SURFACE; FABRICATION; MULTILAYER; ELEMENTS; GASKET
+ER
+
+PT J
+ER
+
+PT J
+DE 3-D printing; additive manufacturing; aluminum; alloy development; metal
+   casting; casting
+ID AL-SI ALLOYS; SOLIDIFICATION MICROSTRUCTURE SELECTION; SUBSTRATE RELEASE
+   MECHANISMS; GRAIN-REFINEMENT; FOUNDRY ALLOYS; COOLING RATE;
+   HETEROGENEOUS NUCLEATION; EUTECTIC NUCLEATION; POROSITY FORMATION;
+   COMBINED ADDITIONS
+ER
+
+PT J
+DE Additive manufacturing (AM); binder jetting (BJ); reflector antenna; 3-D
+   printing
+ID SURFACE-ROUGHNESS; RESONATORS; MICROWAVE; TECHNOLOGY; DEVICES; LINES
+ER
+
+PT J
+DE Multifunctional composites; Microstructures; 3-D printing; Weaving
+ID INTERNAL SENSOR CAVITIES; SELF-HEALING MATERIALS; HOLLOW GLASS-FIBERS;
+   POLY(LACTIC ACID); NETWORKS; DAMAGE; VASCULATURE; TENSILE
+ER
+
+PT J
+DE Metallic lattice truss materials; Mechanical properties; 3-D printing;
+   Porous materials
+ID TRUSS STRUCTURES; HOLLOW TRUSSES; COMPOSITE
+ER
+
+PT J
+DE 3-D printing; direct metal printing; horn antenna; lightweight;
+   perforated waveguide
+ID ANTENNA-ARRAY; NETWORK; FEED; BAND
+ER
+
+PT J
+DE Airy beam; terahertz; three-dimensional printing
+ID LASER
+ER
+
+PT J
+DE Gap waveguide; microstrip circuit packaging; parallel plate mode
+   suppression
+ID ELECTROMAGNETIC-BANDGAP; BED
+ER
+
+PT J
+DE Additive layer manufacturing; Fabry-Perot cavity; fiber optic sensor;
+   selective laser melting; sensor packaging; smart metal; temperature
+   sensor
+ID PERFORMANCE
+ER
+
+PT J
+DE Metallic lattice materials; 3-D printing; Infiltration; Porous metals;
+   Mechanical properties
+ID TRUSS STRUCTURES; SANDWICH STRUCTURE
+ER
+
+PT J
+DE open source; 3D printing; RepRap; composite; manufacturing
+ID SUBSTRATE RELEASE MECHANISMS; SOURCE 3-D PRINTERS; CERAMIC SCAFFOLDS;
+   FABRICATION; COMPONENTS; ELECTRONICS; TECHNOLOGY; SYSTEM; REPRAP; WIRE
+ER
+
+PT J
+DE Additive manufacturing (AM); air substrate; damascene process;
+   lightweight; low loss; radio frequency (RF) components
+ID COMPUTATIONAL ELECTROMAGNETICS CEM; SELECTIVE VALIDATION FSV;
+   RECTANGULAR WAVE-GUIDES; PATCH ANTENNA; PERFORMANCE; FILTER
+ER
+
+PT J
+ID ITO THIN-FILMS; SOL-GEL PROCESS; NANOIMPRINT LITHOGRAPHY; PHOTONIC
+   CRYSTALS; TRANSPARENT; FABRICATION; POLYMER; CELLS
+ER
+
+PT J
+DE Dual polarization; magnetic-electric resonances; magnetoelectric (ME)
+   dipole antenna; wideband antenna
+ID LOW CROSS-POLARIZATION; PATCH ANTENNA
+ER
+
+PT J
+DE Additive manufacturing; Composite materials; 3-D printing; Manufacturing
+   techniques; Molds
+ER
+
+PT J
+DE Mechanical properties; Distributed manufacturing; RepRap; Polymers; 3D
+   printing
+ID RAPID PROTOTYPING TECHNOLOGIES; 3-D PRINTERS; MECHANICAL-PROPERTIES;
+   SOFTWARE; PROJECT; REPRAP; WASTE
+ER
+
+PT J
+ID TEMPERATURE; MILLIMETER; GAIN
+ER
+
+PT J
+DE additive manufacturing; dendritic; LENS (R); porosity; stainless steel
+ID THERMAL-BEHAVIOR; LASER DEPOSITION; MICROSTRUCTURE; EVOLUTION
+ER
+
+PT J
+DE Additive manufacturing; fused deposition modeling (FDM); metal-pipe
+   rectangular waveguide (MPRWG); optoelectronics; Polyjet; quaternary
+   amplitude modulation (QAM); silicon; selective laser melting (SLM);
+   selective laser sintering (SLS); stereolithographic apparatus (SLA);
+   terahertz (THz); 3-D printing; vector modulator
+ID RECTANGULAR WAVE-GUIDES; MILLIMETER-WAVE; TERAHERTZ TECHNOLOGY;
+   PHASE-SHIFTER; BAND; GHZ; COMPONENTS
+ER
+
+PT J
+DE Metal 3-D printing; Corrosion; Hydrogen embrittlement; Austenitic steel;
+   Mechanical properties
+ID STRAIN-INDUCED MARTENSITE; ENVIRONMENT EMBRITTLEMENT; DEFORMATION;
+   MICROSTRUCTURE
+ER
+
+PT J
+DE Additive manufacturing (AM); air gap substrate; antennas; damascene;
+   radio frequency (RF) circuits
+ID STRUCTURAL ELECTRONICS; ANTENNA; FABRICATION; FILTER; TAG
+ER
+
+PT J
+DE Additive manufacturing; Direct metal laser sintering; Thermo-mechanical
+   simulation; Transient melt pool; Residual stress; Finite element
+   analysis
+ER
+
+PT J
+DE Metal 3D Printing; Long and Narrow Feature; Tool Path Verification;
+   Build Part Verification
+ER
+
+PT J
+DE 3-D printing; Porous Ti6Al4V; Micro-arc oxidation; Hydrothermal
+   treatment; Osseointegration
+ID MICRO-ARC OXIDATION; HYDROTHERMAL TREATMENT; SURFACE MODIFICATION;
+   VERTEBRAL BODY; TITANIUM; VIVO; ALLOY; HYDROXYAPATITE; PERFORMANCE;
+   FABRICATION
+ER
+
+PT J
+DE 3-D printing; binder jetting; high efficiency; waveguide-based antenna
+ID SLOT ARRAY ANTENNA; 60-GHZ BAND; LOW-PROFILE; NETWORK
+ER
+
+PT J
+DE Additive manufacturing; 3D printed electronics; hybrid manufacturing
+ER
+
+PT B
+DE artificial dielectrics; dielectric mixtures; reinforced substrates;
+   uniaxial anisotropy; textile fabrics; 3D printed materials
+ER
+
+PT S
+DE 3-D printer; direct metal laser sintering; hexagonal waveguide; branch
+   line coupler
+ER
+
+PT S
+DE Helical resonator; bandpass filter; 3-D printing; stereolighography
+ER
+
+PT S
+DE 3-D printing; high-efficiency; antenna array; waveguide
+ER
+
+PT J
+ID LIQUID-METAL; ROBUST
+ER
+
+PT S
+DE Additive manufacturing; 3D Printing; LNA; Package
+ID TECHNOLOGIES
+ER
+
+PT J
+DE Direct digital manufacturing; on-metal tag; read range; RFID tags; UHF
+   antennas
+ID ANTENNAS
+ER
+
+PT J
+DE Additive technology; electro-textile; flexible antenna; liquid metal;
+   UHF; wearable antenna
+ID FREQUENCY
+ER
+
+PT J
+DE 3-D printing; 5G; metal plating; multiple-input-multiple-output (MIMO)
+   antenna
+ID BASE STATIONS; BAND; TECHNOLOGIES
+ER
+
+PT J
+DE Co-Cr alloy; CAD/CAM milled; laser sintering; marginal accuracy;
+   internal fit
+ID FIXED DENTAL PROSTHESES; METAL-CERAMIC CROWNS; COBALT-CHROMIUM;
+   IN-VITRO; MECHANICAL-PROPERTIES; TITANIUM COPINGS; HEAT-TREATMENT; BOND
+   STRENGTH; CAST; CEMENT
+ER
+
+PT J
+DE Bull's-Eye (BE) antenna; corrugated surface; leaky wave horn antenna;
+   millimeter-waves; off-axis beaming; stereolitography
+ID LEAKY-WAVE ANTENNAS; CORRUGATED FEEDER ANTENNA; LOW-PROFILE; BROADSIDE
+   RADIATION; TRANSMISSION; SURFACE; OPTIMIZATION; COLLIMATION; APERTURE;
+   DESIGN
+ER
+
+PT J
+DE 3-D printing; additive manufacturing (AM); hollow waveguide (WG); liquid
+   metal; WG switch
+ID MILLIMETER-WAVE; LIQUID-METAL; ANTENNA; TECHNOLOGY
+ER
+
+PT J
+DE Cell printing; Tissue engineering; Regenerative medicine; 3-D tissue
+   model
+ID MESENCHYMAL STEM-CELLS; RAPID PROTOTYPING TECHNIQUES; CARDIAC PROGENITOR
+   CELLS; FREEFORM FABRICATION; BIOPRINTING TECHNOLOGY; ENGINEERING
+   CONSTRUCTS; PHOSPHATE SCAFFOLDS; HYDROGEL SCAFFOLDS; CALCIUM-PHOSPHATE;
+   BONE REGENERATION
+ER
+
+PT J
+DE Antenna array; high efficiency; monopulse system; three-dimensional
+   (3-D) printing
+ID WAVE-GUIDE ARRAY; BAND; FEED; DIVIDER; DESIGN
+ER
+
+PT J
+DE Laminated manufacturing; Delta robot; PC-MEMS
+ER
+
+PT J
+DE 3-D printing; additive manufacturing; FDM; metal-pipe rectangular
+   waveguide; phase shifter; X-Band
+ID RECTANGULAR WAVE-GUIDES
+ER
+
+PT J
+DE 3-D printing; Additive manufacturing; Aluminum; Mechanical properties;
+   Tensile test; Compression test
+ID SUBSTRATE RELEASE MECHANISMS; LASER; COMPONENTS; FABRICATION; IRON
+ER
+
+PT J
+DE Dielectrophoresis (DEP); microelectrode; microfluidic
+ID CIRCUIT BOARD DEVICE; STEM-CELLS; SEPARATION; DIELECTROPHORESIS; BLOOD
+ER
+
+PT J
+DE Filter; laser micromachining; micromachining; 3-D printing; waveguide;
+   W-band
+ID GHZ; STEREOLITHOGRAPHY; INTEGRATION; COMPONENTS; DESIGN; PLANE
+ER
+
+PT J
+DE Dual monopulse; dual polarization; high efficiency; wideband monopulse
+   array; 3-D printing
+ID ANTENNA-ARRAY
+ER
+
+PT J
+ID NEGATIVE POISSONS RATIO
+ER
+
+PT J
+DE Hybrid materials; cellular materials; microtruss; 3D printing;
+   stereolithography; buckling; fracture; size effects
+ID STRUCTURAL PERFORMANCE; SANDWICH STRUCTURES; CELLULAR METALS; SIZE;
+   HYBRIDS; MATRIX
+ER
+
+PT J
+DE Tissue engineering (TE); Scaffold; Additive manufacturing (AM);
+   Polycaprolactone (PCL)
+ID POLYCAPROLACTONE SCAFFOLDS; DESIGN
+ER
+
+PT J
+ID SCAFFOLDS; STEREOLITHOGRAPHY; FABRICATION; DESIGN; NANOCOMPOSITES;
+   COMPOSITE; CHEMISTRY; HYDROGELS; DEVICES; METALS
+ER
+
+PT J
+DE Beam-scanning; high-gain; lens; millimeter-wave (MMW); terahertz (THz);
+   three-dimensional (3-D) printing
+ID REFLECTARRAY; ANTENNAS; BAND; GUIDE; FUTURE; FEED
+ER
+
+PT J
+DE 3D printing; ceramic product; precise forming; creative cup of pineapple
+ER
+
+PT B
+DE gap waveguide; horn array antenna; 3-D metal printing; high efficiency;
+   millimeter-wave
+ER
+
+PT S
+DE Bandpass filter; microwave; spherical cavity resonators; 3-D printing;
+   waveguide
+ER
+
+PT S
+DE Compact wideband 16-way power combiner; Riblet coupler; 3-D metal
+   printing
+ER
+
+PT S
+DE 3-D printing; lightweight; metal-sheet perforation; horn antenna
+ID WAVE-GUIDE ANTENNA; ARRAY; BAND
+ER
+
+PT B
+ER
+
+PT S
+DE helix antenna; 3-D printing; antenna array
+ER
+
+PT B
+DE Metallic 3-D printing; waveguide directional coupler; light-weight;
+   perforated waveguide
+ID BANDWIDTH
+ER
+
+PT S
+DE 3-D printing; corrugated horn.; metal sintering; horn; surface
+   roughness; waveguide attenuation; W-band; WR-10 waveguide
+ER
+
+PT B
+DE Reprap; 3D print; Fused deposition modelling; PLA filament; Open-source
+ER
+
+PT J
+DE Slot arrays; waveguide arrays
+ER
+
+PT J
+DE 3-D printing; antenna; inkjet; multijet; silver nanoparticle; UV-curable
+   polymer
+ID HIGH-GAIN ANTENNAS; MONOPOLE ANTENNA; PAPER SUBSTRATE; HORN ANTENNA;
+   WIDE-BAND; TECHNOLOGY
+ER
+
+PT J
+DE 3-D printed waveguide array; direct metal laser sintering;
+   high-efficiency
+ID FEED
+ER
+
+PT J
+DE 3-D printing; dual-band antennas; patch antennas; reconfigurable
+   antennas
+ER
+
+PT J
+DE 3-D interposers; glass interposers; logic memory bandwidth; power
+   delivery; through-package-vias; TSVs
+ID DECOUPLING CAPACITOR; SILICON; INTEGRITY; SIGNAL
+ER
+
+PT S
+DE Locally resonant acoustic metamaterial; Phononic crystals; Structural
+   vibrations; Band gaps; 3D printing
+ID RESONANT SONIC MATERIALS; NEGATIVE POISSONS RATIO; LATTICES; BEHAVIOR
+ER
+
+PT J
+DE 3-D-printed air-core inductor; high-frequency power converters
+ID DC-DC CONVERTER; SILICON; DESIGN; WINDINGS; BOARD; MEMS
+ER
+
+PT J
+DE 3D metal printing; Directed energy deposition (DED); Multi-axis machine;
+   Overhangs; Slicing; Three dimensional layer (3DL)
+ID FABRICATION; DEPOSITION
+ER
+
+PT J
+DE 3-D printing; additive manufacturing; data logging; GMAW; metal
+   printing; open-source hardware; quality control; RepRap; welder; welding
+ER
+
+PT J
+DE 3-D printing; Additive manufacturing; Aluminum; Steel; In situ
+   formation; Distributed manufacturing; Gas metal arc weld; GMAW; Metal
+   processing; Metal inert gas welding; MIG welding; Open-source;
+   Open-source electronics; Open-source hardware; Personal fabrication;
+   Rapid prototyping
+ID RESIDUAL-STRESSES; FABRICATION; TECHNOLOGY; STEEL; MODEL
+ER
+
+PT J
+DE Additive manufacturing; Computer-aided design; Cranial implant;
+   Cranioplasty; 3-D printing; Regenerative medicine; Tissue engineering
+ID BONE MORPHOGENETIC PROTEIN-2; COMPUTER-AIDED-DESIGN; DECOMPRESSIVE
+   CRANIECTOMY; MECHANICAL-PROPERTIES; CRANIOFACIAL SURGERY; TITANIUM
+   CRANIOPLASTY; BIOACTIVE IMPLANT; CLINICAL ARTICLE; TECHNICAL NOTE;
+   RISK-FACTORS
+ER
+
+PT J
+ER
+
+PT J
+DE 3-D printing; additive manufacturing; fused deposition modeling (FDM);
+   metal-pipe rectangular waveguide (MPRWG); rapid manufacturing;
+   rectangular waveguide; stereolithography apparatus (SLA)
+ID MILLIMETER-WAVE; CERAMIC STEREOLITHOGRAPHY; FABRICATION; COMPONENTS;
+   ANTENNAS; FILTERS; PHOTORESIST; DESIGN; GHZ; THZ
+ER
+
+PT J
+DE CPW folded slot antenna; frequency reconfigurable antenna; Galinstan;
+   microfluidic tuning; miniaturization
+ID MECHANISM; RANGE
+ER
+
+PT J
+DE Custom 3-D printed acetabular cages; Tri-flange; Revision total hip
+   replacement
+ID TRABECULAR METAL AUGMENTS; PELVIC DISCONTINUITY; BONE LOSS; REVISION;
+   ARTHROPLASTY; DEFECTS; RECONSTRUCTION; MANAGEMENT; COMPONENTS; OPTION
+ER
+
+PT J
+DE Filter; spherical resonators; stereolithography; 3-D printing; waveguide
+ER
+
+PT J
+DE 3-D printing; 3D printing; Additive manufacturing; Intellectual
+   property; Ethics
+ER
+
+PT J
+DE 3-D printing; dental implants; guided surgery
+ID ACCURACY; PLACEMENT; DENTISTRY
+ER
+
+PT S
+DE niobium oxide; anodizing; porous alumina; 3-dimentional nanostructure;
+   hydrogen; ethanol; gas sensor
+ID LAYERS; GROWTH
+ER
+
+PT S
+DE 3-D metal-direct-printing; waveguide antenna; high-efficiency
+ER
+
+PT S
+DE 3-D printing; waveguide antenna; X-ray scanning
+ER
+
+PT B
+DE Aerosol Jet printing; Additive Manufacturing; Sub mm wavelength
+   antennas; 3-D antennas; chip to chip communication
+ER
+
+PT S
+ER
+
+PT S
+ID SLOT ANTENNA-ARRAY
+ER
+
+PT S
+DE 3D printed antenna; direct-metal-laser-sintering; high-efficiency;
+   waveguide-fed array; wideband
+ID KU-BAND
+ER
+
+PT S
+DE additive manufacturing (AM); 3D-printing; direct metal laser sintering
+   (DMLS); electron beam melting (EBM); binder jetting; dimensional
+   stability; coefficient of thermal expansion (CTE) isotropy; beryllium;
+   aluminum beryllium; metal matrix composites (MMC); metal optics;
+   precision structures; diamond point turning (DPT); laser interferometry;
+   topological optimization; bio-inspired design; hot isostatic pressing
+   (HIP)
+ER
+
+PT J
+DE Wires; Three-dimensional displays; Patch antennas; Antenna measurements;
+   Microwave antennas; Printing; Microwave theory and techniques;
+   microwave; 3-D printing; additive manufacturing; microstrip patch
+   antenna
+ER
+
+PT J
+DE 3-D printing; fluidics; large-scale; metamaterials; periodic structures
+ID FREQUENCY-SELECTIVE SURFACE; BAND
+ER
+
+PT B
+DE microwave; plasma; heating; launcher; metalworking
+ID SYSTEM
+ER
+
+PT J
+DE CP-Ti; Ti6Al4V; titanium; biocompatibility; powder metallurgy; metal
+   injection moulding; additive manufacturing; 3-D printing; cytotoxicity;
+   implants
+ID BEAM MELTED TI-6AL-4V; MECHANICAL-PROPERTIES; POROUS TITANIUM;
+   BIOMEDICAL APPLICATIONS; POWDER-METALLURGY; MEDICAL DEVICES; BONE
+   RESPONSE; ALLOYS; MICROSTRUCTURE; BIOMATERIALS
+ER
+
+PT J
+ER
+
+PT J
+DE Magnetic shielding; numerical simulation; soft magnetic materials
+ER
+
+PT J
+DE Microstencil; BioMEMS; thin films; shadow mask; cell culture; cell
+   patterning; protein patterning; tissue engineering; metallization
+ID PULSED-LASER DEPOSITION; SHADOW MASK TECHNOLOGY; THIN-FILM TRANSISTORS;
+   PARYLENE-C STENCILS; ELASTOMERIC MEMBRANES; CELL-CULTURE; PDMS;
+   NETWORKS; CHIP; FABRICATION
+ER
+
+PT J
+DE electrohydrodynamic jet printing; 3-D surface; metal mesh transparent
+   electrode; transparent heater
+ID NANOSCALE; HEATERS
+ER
+
+PT J
+ER
+
+PT J
+DE three-dimensional microstructure; metal contact printing; silicon bulk
+   machining; light-emitting diode
+ID LIGHT-EMITTING-DIODES; ANTIREFLECTION STRUCTURES; LITHOGRAPHY;
+   EFFICIENCY; ARRAY
+ER
+
+PT S
+DE Liquid Metal; 3d Printing; 3-D Printing; Additive Manufacturing;
+   Direct-write; Gallium; EGaIn; Oxide Skin
+ID GALLIUM SURFACES; CONDUCTIVITY; TEMPERATURE; TOXICOLOGY; RHEOLOGY;
+   ANTENNAS; MERCURY; INDIUM; ALLOY; FILMS
+ER
+
+PT J
+DE Hot embossing; inkjet printing; replication; silver nanostructure; soft
+   mold
+ID LITHOGRAPHY; STAMPS; LAYER
+ER
+
+PT S
+ID SINGLE SUBWAVELENGTH APERTURE; TRANSMISSION
+ER
+
+PT J
+DE Bone replacement material; 3-D inkjet printing; Biodegradable metal;
+   Iron-manganese; Porous scaffold
+ID FE-MN ALLOYS; IN-VITRO; MECHANICAL-PROPERTIES; MEDICAL APPLICATIONS;
+   CELL VIABILITY; STENTS; DESIGN; METAL; BONE; EMBRITTLEMENT
+ER
+
+PT J
+DE Above-IC; BPN; copper; electroplating; high-Q; inductor; interconnect;
+   monolithic microwave integrated circuit (MMIC); photoresist; process;
+   SU-8
+ID WIRELESS APPLICATIONS; INDUCTORS
+ER
+
+PT B
+DE silver dendrites; 3-D fractal structure; electrically conductive
+   adhesives; percolation threshold; low-temperature sintering
+ID AG; ELECTRONICS; COMPOSITES; POLYMER; SPHERES; LEAD
+ER
+
+PT S
+DE additive manufacturing; stereolithography; tool path; 3-D printer;
+   numerical control; G-code
+ER
+
+PT J
+DE 3-D printing; additive manufacturing; distributed manufacturing; metal
+   processing; MIG welding; open-source; open-source electronics;
+   open-source hardware; personal fabrication; printing; rapid prototyping;
+   scientific hardware; scientific instruments
+ER
+
+PT J
+DE Metals; Printing; Plastics; Printers; Robots; Production
+ER
+
+PT J
+DE Force sensors; rapid prototyping; sensor design
+ER
+
+PT J
+DE Anodic stripping voltammetry; Cadmium; Lead; Bismuth film;
+   Screen-printed electrode
+ID ANODIC-STRIPPING VOLTAMMETRY; GLASSY-CARBON ELECTRODE; BISMUTH FILM
+   ELECTRODE; FLOW SYSTEM; NANOTUBE ELECTRODE; PASTE ELECTRODE; WATER
+   SAMPLES; HEAVY-METALS; TRACE-METALS; ZINC
+ER
+
+PT J
+DE Automated test equipment (ATE); crosstalk noise; pin patterns; pogo pin;
+   return loss; signal integrity; test socket
+ER
+
+PT J
+ID ELECTRODE ARRAY; STIMULATION; FABRICATION; CULTURES; MEMS
+ER
+
+PT J
+DE videogrammetric technique; close-range photogrammetry; dynamic
+   deformation measurement; welding deformation; camera self-calibration
+ID RESIDUAL-STRESS; FEM PREDICTION; STEEL; CALIBRATION; DISTORTION
+ER
+
+PT B
+ER
+
+PT S
+DE X-ray; Image reconstruction; ART; Binary ART; Mixed ART
+ER
+
+PT S
+DE Laminated sacrificial layer; Positive photoresist; 3-D metal
+   microstructure; Movable suspension; Surface micromachining
+ER
+
+PT B
+DE ink-jet printing; liquid drops; fabrication methods
+ID DROPLET DEPOSITION; FREEFORM FABRICATION; TECHNOLOGY; SURFACES;
+   PATTERNS; MICROSTRUCTURE; MICROLENSES; CIRCUITS; POLYMERS; SYSTEM
+ER
+
+PT J
+DE solder joint reliability; three-dimensional (3-D) silicon micro module;
+   pb-free solder
+ER
+
+PT J
+ER
+
+PT S
+DE titanium; porous; rapid prototyping; scaffold
+ER
+
+PT J
+DE 3-D microtabrication; spray coating; fuel cell; 3-D electrode; mu DMFC
+ER
+
+PT J
+DE chemical surface activation; horizontal elements; microcontacts;
+   selective electrochemical growth; stud; ultraviolet lithography;
+   electroplating; and molding (UV-LIGA)
+ER
+
+PT S
+DE ROIC; 3-D laser-radar; chirped amplitude modulation; CTIA; active sensor
+ER
+
+PT J
+DE aqueous solution inks; conductive inks; continuous inkjet printing
+   (CIJ); electrical circuits; metallo-organic decomposition (MOD)
+ID TECHNOLOGY; METALLIZATION
+ER
+
+PT J
+DE copper; gold; laser; low-temperature cofired ceramic (LTCC);
+   metallization; nanoparticle; silver
+ID VAPOR-DEPOSITION; SINTERED ALUMINA; METAL-DEPOSITION; POLYMERS; FILMS
+ER
+
+PT J
+ID INDUCTORS
+ER
+
+PT B
+DE 3-D microfabrication; spray coating; fuel cell; 3-D electrode; mu DMFC
+ER
+
+PT J
+DE 3-D micromesh structures; multiple inclined UV exposure; SU-8;
+   photoresist molds; electroplating
+ID POROUS POLYMER
+ER
+
+PT B
+ER
+
+PT B
+DE MOSFET; quad flat no-lead (QFN); multi-chip module (MCM); thermal;
+   compact model; solder joint; reliability; fatigue; visco-plastic;
+   metal-core board; finite-element
+ER
+
+PT J
+ID SELF-ASSEMBLED MONOLAYERS; X-RAY-LITHOGRAPHY; PATTERN TRANSFER;
+   METAL-DEPOSITION; FILMS; FABRICATION; SURFACES; GLASS; NANOPARTICLES;
+   NIB
+ER
+
+PT J
+ID WAVE-GUIDES; INFRARED WAVELENGTHS; LIGHT; FABRICATION; SILICA;
+   ABSORPTION; SPECTRUM; GRATINGS; TITANIA; FILMS
+ER
+
+PT J
+DE wireless interconnects; integrated antennas; clock distribution;
+   transmission gain; interference; ULSI
+ID PRINTED DIPOLES; IMPEDANCE
+ER
+
+PT B
+ER
+
+PT S
+DE LIGA technology; 3-D high aspect ratio structures; laser micromachining;
+   laminar AX resist; SU-8
+ID X-RAY-LITHOGRAPHY; EXCIMER-LASER; SOFT LITHOGRAPHY; CERAMICS; METALS;
+   SU-8
+ER
+
+PT J
+DE colloid; electrostatic motor; heatuator; ink-jet printing; metal jet;
+   nanocrystal; nanoparticle
+ID PARTICLES; POLYMERS; MICROACTUATORS; DEVICES
+ER
+
+PT S
+DE 3-D photolithography; stitching; high topography; UV exposure;
+   microsystems; MEMS
+ER
+
+PT J
+ID MICROSTRUCTURES; HINGES
+ER
+
+PT J
+DE adhesion; interconnect; multilevel processing; photoresist;
+   planarization; polyimide; thick film; 3-D packaging; via
+ER
+
+EF

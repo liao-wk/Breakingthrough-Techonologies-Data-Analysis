@@ -1,0 +1,89 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,c-2 subdivision surface,1,decision making,5
+1,almost everywhere parametrically c-2,1,food intake,5
+2,good,1,hypothalamus,5
+3,borderline personality disorder,1,obesity,5
+4,mindfulness,1,reward,5
+5,humor styles,1,sleep,5
+6,awareness,1,bedside us,4
+7,botulinum neurotoxin a,1,bronchiolitis,4
+8,peptide,1,pediatrics,4
+9,superparamagnetic beads,1,pneumonia,4
+10,fluorescence,1,thoracic us,4
+11,[f-18]iur-1602 ((s)-n-(2-chloro-3-(trifluoromethyl)benzyl)-1-(2-[f-18],1,hospital,4
+12,mercury,1,metaphors,4
+13,pollucite,1,nurse practitioner,4
+14,thin-layer cap,1,nursing,4
+15,tracer,1,oncological and,4
+16,dielectric spectroscopy,1,neurotechnique,4
+17,electron diffraction,1,topology,4
+18,polar tweed,1,micro-level,4
+19,relaxor,1,macro-level,4
+20,modelling and simulation,1,neural correlates,4
+21,pharmacokinetic-pharmacodynamic,1,borderline personality disorder,3
+22,bedside us,1,mindfulness,3
+23,bronchiolitis,1,humor styles,3
+24,pediatrics,1,awareness,3
+25,pneumonia,1,botulinum neurotoxin a,3
+26,thoracic us,1,peptide,3
+27,hospital,1,superparamagnetic beads,3
+28,metaphors,1,fluorescence,3
+29,nurse practitioner,1,mercury,3
+30,nursing,1,pollucite,3
+31,oncological and,1,thin-layer cap,3
+32,electronics,1,tracer,3
+33,noise,1,dielectric spectroscopy,3
+34,radiation detector,1,electron diffraction,3
+35,semiconductor,1,polar tweed,3
+36,decision making,1,relaxor,3
+37,food intake,1,electronics,3
+38,hypothalamus,1,noise,3
+39,obesity,1,radiation detector,3
+40,reward,1,semiconductor,3
+41,sleep,1,chewing,3
+42,neurotechnique,1,complete denture,3
+43,topology,1,denture adhesive,3
+44,micro-level,1,denture retention,3
+45,macro-level,1,ebola virus disease,3
+46,neural correlates,1,environmental temperature,3
+47,ventilation,1,mortality,3
+48,collective behaviour,1,viral,3
+49,bee behaviour,1,asthma,3
+50,chewing,1,copd,3
+51,complete denture,1,overlap,3
+52,denture adhesive,1,therapy,3
+53,denture retention,1,semantic mapping,3
+54,protein scaffold,1,rao-blackwellization,3
+55,carbon dioxide hydrogenation,1,mapping,3
+56,rhodium complex,1,particle filter,3
+57,left ventricular ejection fraction,1,robotics,3
+58,low-gradient aortic stenosis,1,language,3
+59,ebola virus disease,1,machine learning,3
+60,environmental temperature,1,probabilistic graphical models,3
+61,mortality,1,object schema,3
+62,viral,1,language grounding,3
+63,asthma,1,human-robot interaction,3
+64,copd,1,semantics,3
+65,overlap,1,c-2 subdivision surface,2
+66,therapy,1,almost everywhere parametrically c-2,2
+67,natural language generation,1,good,2
+68,failure detection,1,ventilation,2
+69,failure handling,1,collective behaviour,2
+70,semantic mapping,1,bee behaviour,2
+71,rao-blackwellization,1,protein scaffold,2
+72,mapping,1,carbon dioxide hydrogenation,2
+73,particle filter,1,rhodium complex,2
+74,robotics,1,natural language generation,2
+75,language,1,failure detection,2
+76,machine learning,1,failure handling,2
+77,probabilistic graphical models,1,robots,2
+78,robots,1,furniture assembly,2
+79,furniture assembly,1,natural language,2
+80,natural language,1,spatial language,2
+81,spatial language,1,direction understanding,2
+82,direction understanding,1,route instructions,2
+83,route instructions,1,modelling and simulation,1
+84,object schema,1,pharmacokinetic-pharmacodynamic,1
+85,language grounding,1,left ventricular ejection fraction,1
+86,human-robot interaction,1,low-gradient aortic stenosis,1
+87,semantics,1,,

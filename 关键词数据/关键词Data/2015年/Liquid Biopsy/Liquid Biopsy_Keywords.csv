@@ -1,0 +1,199 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,liquid biopsy,77,liquid biopsy,219
+1,circulating tumor cells,20,circulating tumor cells,51
+2,circulating tumor dna,10,exosomes,37
+3,exosomes,10,ctdna,32
+4,ctdna,9,circulating tumor dna,27
+5,lung cancer,9,lung cancer,26
+6,nsclc,7,cancer,26
+7,cancer,7,nsclc,21
+8,cell-free dna,6,cell-free dna,19
+9,liquid biopsies,5,egfr,16
+10,egfr,5,biomarkers,16
+11,biomarkers,5,liquid,14
+12,non-small cell lung cancer,4,liquid biopsies,13
+13,circulating tumor cell,4,circulating tumor cell,13
+14,liquid,4,early detection,13
+15,breast cancer,4,breast cancer,13
+16,t790m,3,non-small cell lung cancer,11
+17,early detection,3,ctcs,11
+18,extracellular vesicles,3,cell free dna,10
+19,exosome,3,exosome,9
+20,cell free dna,3,mutation,8
+21,circulating tumor dna (ctdna),2,t790m,8
+22,egfr mutation,2,screening,8
+23,ctc,2,extracellular vesicles,8
+24,biomarker,2,cfdna,8
+25,cancer screening,2,biomarker,7
+26,minimal residual disease,2,microrna,7
+27,mutation,2,cerebrospinal fluid,7
+28,progression,2,circulating tumor cell (ctc),7
+29,microrna,2,mirna,7
+30,next generation sequencing,2,precision medicine,6
+31,circulating tumour cells (ctcs),2,circulating free dna,6
+32,cerebrospinal fluid,2,molecular profile,6
+33,personalized medicine,2,driver mutations,6
+34,screening,2,ctrna,6
+35,epidermal growth factor receptor,2,tumor-educated platelets,6
+36,circulating,2,mutations,6
+37,next-generation sequencing,2,gene,6
+38,precision medicine,2,egfr mutations,6
+39,circulating free dna,2,circulating tumor dna (ctdna),5
+40,molecular profile,2,ctc,5
+41,driver mutations,2,cancer screening,5
+42,circulating tumor cell (ctc),2,minimal residual disease,5
+43,ctcs,2,progression,5
+44,circulating tumor cells (ctcs),2,personalized medicine,5
+45,mirna,2,sclc transformation,5
+46,cfdna,2,1790m,5
+47,egfr mutations,2,ddpcr,5
+48,pancreas cancer,1,circulating,5
+49,plasma dna tissue mapping,1,peptide nucleic acid,5
+50,epigenome,1,biosensors,5
+51,copy number,1,dna,5
+52,plasma genotyping,1,next-generation sequencing,5
+53,pleural effusion,1,minimal residual,5
+54,pulmonary adenocarcinoma,1,egfr mutation,4
+55,extracellular,1,colorectal carcinoma,4
+56,microfluidics,1,prognostic,4
+57,solid-phase amplification,1,predictive,4
+58,risk stratification,1,alk,4
+59,prostate,1,ros1,4
+60,colorectal carcinoma,1,resistance,4
+61,prognostic,1,next generation sequencing,4
+62,predictive,1,liquid biosources,4
+63,egfr testing,1,diagnostic,4
+64,sclc,1,circulating tumour cells (ctcs),4
+65,cdx,1,central nervous system,4
+66,monitoring,1,cns,4
+67,alk,1,csf,4
+68,ros1,1,circulating dna,4
+69,resistance,1,epidermal growth factor receptor,4
+70,pcr,1,t790m mutation,4
+71,early disease detection,1,cobas ver2,4
+72,monitoring of egfr tki treatment,1,pna-lna pcr clamp,4
+73,egfr t790m mutation,1,her2,4
+74,dynamic monitoring,1,personalized therapy,4
+75,alk mutation,1,oncolbx,4
+76,hepatocellular carcinoma,1,cfrna,4
+77,bladder cancer,1,urine,4
+78,advanced nsclc,1,markers,4
+79,egfr/t790m,1,extracellular rna,4
+80,digital droplet pcr,1,cancer biomarkers,4
+81,outcomes,1,exrna,4
+82,histopathology,1,dna methylation,4
+83,urooncology,1,ncrna,4
+84,personalizing therapy,1,epigenetic marker,4
+85,liquid biosources,1,plasma tumor dna,4
+86,diagnostic,1,brain tumor,4
+87,uterine aspirate,1,plasma dna tissue mapping,3
+88,central nervous system,1,epigenome,3
+89,cns,1,copy number,3
+90,csf,1,plasma genotyping,3
+91,germline mutation,1,pleural effusion,3
+92,hereditary cancer,1,pulmonary adenocarcinoma,3
+93,urological cancer,1,extracellular,3
+94,colon cancer,1,microfluidics,3
+95,gene mutation,1,solid-phase amplification,3
+96,genomic evolution,1,risk stratification,3
+97,re-biopsy,1,prostate,3
+98,oral cancer,1,pcr,3
+99,circulating tumour dna,1,advanced nsclc,3
+100,single cell analysis,1,egfr/t790m,3
+101,deep-sequencing,1,digital droplet pcr,3
+102,tumor marker,1,outcomes,3
+103,cancer diagnostics,1,histopathology,3
+104,egfr t790 m-positive nsclc,1,urooncology,3
+105,osimertinib,1,personalizing therapy,3
+106,circulating dna,1,germline mutation,3
+107,tumor biomarkers,1,hereditary cancer,3
+108,clinical trials,1,colon cancer,3
+109,peptide nucleic acid-locked,1,gene mutation,3
+110,primary brain tumor,1,genomic evolution,3
+111,glioma,1,re-biopsy,3
+112,bronchoalveolar lavage fluid,1,single cell analysis,3
+113,prognosis,1,deep-sequencing,3
+114,treatment responses,1,tumor marker,3
+115,cell-free nucleic acid,1,cancer diagnostics,3
+116,t790m mutation,1,egfr t790 m-positive nsclc,3
+117,cobas ver2,1,osimertinib,3
+118,pna-lna pcr clamp,1,clinical trials,3
+119,sclc transformation,1,primary brain tumor,3
+120,1790m,1,glioma,3
+121,ddpcr,1,prognosis,3
+122,genetic,1,treatment responses,3
+123,cell-free ctdna,1,cell-free nucleic acid,3
+124,ovarian cancer,1,genetic,3
+125,circulating cell-free dna,1,cell-free ctdna,3
+126,peptide nucleic acid,1,ovarian cancer,3
+127,biosensors,1,circulating cell-free dna,3
+128,dna,1,liquid biopsy diagnostics,3
+129,nanosheet,1,molecular markers,3
+130,long,1,metastasis,3
+131,pulmonary fibrosis,1,cell free tumor dna,3
+132,cell-free dna (cfdna),1,clinical application,3
+133,nipple aspirate fluid,1,afatinib,3
+134,liquid biopsy diagnostics,1,digital pcr,3
+135,molecular markers,1,prospective study,3
+136,metastasis,1,droplet pcr,3
+137,cell free tumor dna,1,next generation,3
+138,clinical application,1,lung adenocarcinoma,3
+139,her2,1,cancer surveillance,3
+140,personalized therapy,1,genomics,3
+141,oncolbx,1,translational medical research,3
+142,afatinib,1,circulating tumor cells (ctcs),3
+143,digital pcr,1,exosomal isolation,3
+144,prospective study,1,nsclc biomarker,3
+145,molecular diagnostics,1,intra-tumor heterogeneity,3
+146,immunotherapy liquid biopsy,1,disease,3
+147,pd-l1 circulating tumor cells,1,targeted therapy,3
+148,droplet pcr,1,eml4-alk,3
+149,next generation,1,rt-qpcr,3
+150,lung adenocarcinoma,1,mirna analysis,3
+151,epidermal growth factor receptor (egfr),1,curative treatment,3
+152,non-small cell,1,tumor,3
+153,cfrna,1,circulating biomarker,3
+154,liquid-based endometrial cytology,1,epigenetics,3
+155,intrauterine sampling,1,pancreas cancer,2
+156,surepath (tm),1,egfr testing,2
+157,cancer surveillance,1,sclc,2
+158,genomics,1,cdx,2
+159,ctrna,1,monitoring,2
+160,tumor-educated platelets,1,early disease detection,2
+161,mutations,1,monitoring of egfr tki treatment,2
+162,gene,1,egfr t790m mutation,2
+163,urine,1,dynamic monitoring,2
+164,markers,1,alk mutation,2
+165,free circulating dna,1,hepatocellular carcinoma,2
+166,extracellular rna,1,bladder cancer,2
+167,cancer biomarkers,1,uterine aspirate,2
+168,exrna,1,urological cancer,2
+169,translational medical research,1,oral cancer,2
+170,next-generation sequencing (ngs),1,circulating tumour dna,2
+171,non-small cell lung cancer (nsclc),1,tumor biomarkers,2
+172,exosomal isolation,1,peptide nucleic acid-locked,2
+173,nsclc biomarker,1,bronchoalveolar lavage fluid,2
+174,dna methylation,1,pulmonary fibrosis,2
+175,ncrna,1,cell-free dna (cfdna),2
+176,epigenetic marker,1,nipple aspirate fluid,2
+177,plasma tumor dna,1,molecular diagnostics,2
+178,metastatic breast,1,immunotherapy liquid biopsy,2
+179,brain tumor,1,pd-l1 circulating tumor cells,2
+180,minimal residual,1,epidermal growth factor receptor (egfr),2
+181,intra-tumor heterogeneity,1,non-small cell,2
+182,disease,1,liquid-based endometrial cytology,2
+183,targeted therapy,1,intrauterine sampling,2
+184,breast liquid biopsy cancer,1,surepath (tm),2
+185,eml4-alk,1,free circulating dna,2
+186,rt-qpcr,1,metastatic breast,2
+187,mirna analysis,1,alk rearranged lung cancer,2
+188,curative treatment,1,circulating tumor-derived dna,2
+189,alk rearranged lung cancer,1,egf receptor,2
+190,circulating tumor-derived dna,1,brush biopsy,2
+191,egf receptor,1,liquid-based cytology,2
+192,tumor,1,slide-based cytology,2
+193,circulating biomarker,1,nanosheet,1
+194,epigenetics,1,long,1
+195,brush biopsy,1,next-generation sequencing (ngs),1
+196,liquid-based cytology,1,non-small cell lung cancer (nsclc),1
+197,slide-based cytology,1,breast liquid biopsy cancer,1

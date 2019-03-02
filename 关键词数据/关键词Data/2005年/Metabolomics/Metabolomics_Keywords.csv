@@ -1,0 +1,305 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,metabolomics,90,metabolomics,262
+1,mass spectrometry,13,mass spectrometry,40
+2,biomarkers,11,biomarkers,38
+3,metabolome,9,metabolome,32
+4,nmr,6,nmr,25
+5,lc-ms,6,lc-ms,20
+6,metabolite profiling,6,metabolite profiling,19
+7,metabolic profiling,6,metabolic profiling,19
+8,biomarker,5,biomarker,14
+9,association,4,gc-ms,13
+10,nuclear magnetic resonance,4,metabolites,12
+11,liquid,4,data,11
+12,mass,3,lipidomics,11
+13,data,3,nuclear magnetic resonance,11
+14,data processing,3,data processing,10
+15,gc-ms,3,metabolic,10
+16,lipidomics,3,genomics,10
+17,biomarker discovery,3,ce-ms,10
+18,metabolic,3,liquid,10
+19,metabolism,3,mass,9
+20,genomics,3,metabolism,9
+21,nsclc,3,systems biology,9
+22,metabolites,3,nsclc,8
+23,multivariate analysis,3,drug discovery,8
+24,systems biology,3,drug,8
+25,pharmacometabolomics,2,annotation,8
+26,lc-ms/ms,2,pca,8
+27,metabolite,2,chromatography,8
+28,toxicity,2,pharmacometabolomics,7
+29,disease,2,metabolite,7
+30,liquid chromatography,2,omics,7
+31,microbiomics,2,biomarker discovery,7
+32,omics,2,stem cells,7
+33,hepatocellular carcinoma,2,multivariate analysis,7
+34,stem cells,2,exposome,7
+35,cardiovascular diseases,2,databases,7
+36,egfr mutation,2,drug efficacy,7
+37,drug discovery,2,functional genomics,7
+38,drug,2,minimum,7
+39,ce-ms,2,lc-ms/ms,6
+40,exposome,2,toxicity,6
+41,annotation,2,liquid chromatography,6
+42,databases,2,microbiomics,6
+43,data analysis,2,hepatocellular carcinoma,6
+44,cancer,2,study design,6
+45,pca,2,sample extraction,6
+46,chromatography,2,data analysis,6
+47,traditional chinese medicine,2,cancer,6
+48,oncology,2,metabonomics,6
+49,drug efficacy,2,association,5
+50,functional genomics,2,disease,5
+51,metabonomics,2,network,5
+52,minimum,2,software,5
+53,epidemiology,1,statistics,5
+54,early-career scientists,1,visualization,5
+55,challenges,1,workflow,5
+56,als,1,cardiovascular diseases,5
+57,therapeutic,1,egfr mutation,5
+58,creatinine,1,preclinical,5
+59,eye disease,1,clinical,5
+60,traditional chinese medicines,1,gc/ms,5
+61,cirrhosis,1,psoriasis,5
+62,liver,1,psoriatic arthritis,5
+63,mortality,1,skin,5
+64,crop plant breeding,1,urine,5
+65,metabolic traits,1,comprehensive coverage,5
+66,nuclear,1,data quality,5
+67,quantitative trait loci,1,ms,5
+68,nitrogen-metabolism,1,plama,5
+69,ambient mass spectrometry,1,reliability,5
+70,lc-ms-based metabolomics,1,sample,5
+71,medicine,1,als,4
+72,autism spectrum disorder,1,therapeutic,4
+73,autism,1,creatinine,4
+74,rheumatic,1,eye disease,4
+75,"nuclear magnetic resonance, biomolecular",1,aquaculture,4
+76,melanoma,1,marine,4
+77,network,1,alzheimer's disease,4
+78,software,1,animal models,4
+79,statistics,1,scale-free networks,4
+80,visualization,1,complex systems,4
+81,workflow,1,pathways,4
+82,asthma,1,modelling,4
+83,respiratory tract infections,1,pharmaceutical,4
+84,systems approach,1,smartphone,4
+85,pathway,1,schisandra sinensis,4
+86,network analysis,1,uv-vis,4
+87,correlation network,1,nutritional metabolomics,4
+88,association network,1,cat,4
+89,aquaculture,1,dog,4
+90,marine,1,animals,4
+91,alzheimer's disease,1,cancer diagnosis,4
+92,animal models,1,diagnostic biomarkers,4
+93,quality control,1,integrated approach,4
+94,unwanted variation,1,plant metabolomics,4
+95,bias,1,diagnostic biomarker,4
+96,standard operating procedures,1,transgenic,4
+97,remote ischemic preconditioning,1,food,4
+98,drosophila,1,genetically modified organism,4
+99,state of the art,1,crops,4
+100,scale-free networks,1,food composition,4
+101,complex systems,1,foodomics,4
+102,pathways,1,food quality,4
+103,modelling,1,food safety,4
+104,diagnosis and therapy,1,traditional chinese medicine,4
+105,stroke,1,oncology,4
+106,free radicals/free-radical scavengers,1,drug discovery and development,4
+107,heart failure metabolomics,1,environment,4
+108,arginine,1,human health,4
+109,nitric oxide,1,life-course epidemiology,4
+110,myocardial energy,1,biomaterials,4
+111,gdm,1,regenerative,4
+112,newborn,1,global,4
+113,liquid chromatography-mass spectrometry,1,untargeted,4
+114,peak alignment,1,metaolomics,4
+115,breast milk,1,metabolic fingerprinting,4
+116,in-stent restenosis,1,pls,4
+117,cdx,1,chemical diversity,4
+118,artificial intelligence,1,ecology,4
+119,bayesian inference networks,1,evolution,4
+120,aha scientific statements,1,herbivore,4
+121,precision medicine,1,ions,4
+122,high resolution metabolomics,1,ion suppression,4
+123,prognostic prediction,1,targeted metabolomics,4
+124,chemotherapy,1,genetics,4
+125,preclinical,1,personalized medicine,4
+126,clinical,1,standard,4
+127,gc/ms,1,environmental,4
+128,system biology,1,reporting requirements,4
+129,high-throughput screening,1,controlled vocabulary,4
+130,psoriasis,1,terminology,4
+131,psoriatic arthritis,1,semantic,4
+132,skin,1,metadata,4
+133,urine,1,epidemiology,3
+134,medium chain fatty acids,1,early-career scientists,3
+135,traumatic brain injury,1,challenges,3
+136,small molecules,1,traditional chinese medicines,3
+137,spectroscopy,1,cirrhosis,3
+138,principal component analysis,1,liver,3
+139,myocardial,1,mortality,3
+140,pharmaceutical,1,crop plant breeding,3
+141,personalized,1,metabolic traits,3
+142,chemical derivatization,1,nuclear,3
+143,in-house endogenous databases,1,ambient mass spectrometry,3
+144,id-based metabolomics analysis,1,lc-ms-based metabolomics,3
+145,data pre-processing,1,medicine,3
+146,univariate analysis,1,autism spectrum disorder,3
+147,male infertility,1,autism,3
+148,metabolomics technologies,1,asthma,3
+149,study design,1,respiratory tract infections,3
+150,sample extraction,1,systems approach,3
+151,penetrating ballistic-like brain injury,1,pathway,3
+152,smartphone,1,network analysis,3
+153,schisandra sinensis,1,correlation network,3
+154,uv-vis,1,association network,3
+155,comprehensive coverage,1,quality control,3
+156,data quality,1,unwanted variation,3
+157,ms,1,bias,3
+158,plama,1,standard operating procedures,3
+159,reliability,1,drosophila,3
+160,sample,1,state of the art,3
+161,cancer metabolomics,1,diagnosis and therapy,3
+162,human metabolome database (hmdb),1,stroke,3
+163,amyotrophic lateral sclerosis,1,free radicals/free-radical scavengers,3
+164,diagnosis,1,heart failure metabolomics,3
+165,data acquisition and analysis,1,arginine,3
+166,informatics techniques,1,nitric oxide,3
+167,preterm birth,1,myocardial energy,3
+168,nursing,1,breast milk,3
+169,complex mixture analysis,1,cdx,3
+170,metabolite databases,1,artificial intelligence,3
+171,ms of,1,bayesian inference networks,3
+172,network-based,1,precision medicine,3
+173,database design,1,high resolution metabolomics,3
+174,targeted and untargeted metabolomics,1,prognostic prediction,3
+175,dissolved organic matter,1,chemotherapy,3
+176,bioindicators,1,system biology,3
+177,environmental metabolomics,1,high-throughput screening,3
+178,metabolomic,1,small molecules,3
+179,principal components,1,spectroscopy,3
+180,individualized medicine,1,principal component analysis,3
+181,energy,1,myocardial,3
+182,nutritional metabolomics,1,male infertility,3
+183,cat,1,metabolomics technologies,3
+184,dog,1,amyotrophic lateral sclerosis,3
+185,animals,1,diagnosis,3
+186,toxicometabolomics,1,preterm birth,3
+187,quality assurance,1,nursing,3
+188,human toxome,1,complex mixture analysis,3
+189,cancer diagnosis,1,metabolite databases,3
+190,diagnostic biomarkers,1,ms of,3
+191,anti-infective,1,bioindicators,3
+192,antimicrobial,1,environmental metabolomics,3
+193,drug mechanism,1,metabolomic,3
+194,infectious diseases,1,principal components,3
+195,statistical methods,1,individualized medicine,3
+196,gas chromatography-mass spectrometry,1,energy,3
+197,extreme environments,1,toxicometabolomics,3
+198,mitochondria,1,quality assurance,3
+199,extracellular vesicles,1,human toxome,3
+200,exosomes,1,anti-infective,3
+201,microvesicles,1,antimicrobial,3
+202,integrated approach,1,drug mechanism,3
+203,plant metabolomics,1,infectious diseases,3
+204,diagnostic biomarker,1,statistical methods,3
+205,lychnophorinae,1,extracellular vesicles,3
+206,transgenic,1,exosomes,3
+207,food,1,microvesicles,3
+208,genetically modified organism,1,lychnophorinae,3
+209,crops,1,mammalian cells,3
+210,chinese medicine theory,1,sample processing,3
+211,chinese medicine syndrome,1,protists,3
+212,food composition,1,gas and liquid,3
+213,foodomics,1,metabolic pathways,3
+214,food quality,1,metabotype,3
+215,food safety,1,personalised health,3
+216,pathways of toxicity,1,kidney disease,3
+217,toxicity testing for the 21st,1,therapeutic target,3
+218,mammalian cells,1,toxicology,3
+219,sample processing,1,preclinical research,3
+220,processing technology,1,regulatory toxicology,3
+221,pediatrics,1,isa-tab,3
+222,drug discovery and development,1,isa commons,3
+223,protists,1,chemicals,3
+224,gas and liquid,1,characterisation,3
+225,metabolomics society,1,multivariate data analysis,3
+226,global initiatives,1,chemometrics,3
+227,national programmes,1,adverse drug reactions,3
+228,metabolic pathways,1,drug discovery and,3
+229,metabotype,1,analytical methods,3
+230,personalised health,1,gas chromatography,3
+231,kidney disease,1,in vivo sampling,3
+232,therapeutic target,1,colorectal cancer,3
+233,toxicology,1,diagnostic test,3
+234,preclinical research,1,metabolomics screening,3
+235,regulatory toxicology,1,serum tissue,3
+236,isa-tab,1,atherosclerosis,3
+237,isa commons,1,coronary artery disease,3
+238,environment,1,biological samples,3
+239,human health,1,data treatment,3
+240,life-course epidemiology,1,standardization,3
+241,biomaterials,1,metabolite identification,3
+242,regenerative,1,environmental microorganism,3
+243,future of medicine,1,biodegradation,3
+244,information and communication,1,pattern recognition,3
+245,biomarker identification,1,quantitative trait loci,2
+246,biology,1,nitrogen-metabolism,2
+247,global,1,rheumatic,2
+248,untargeted,1,"nuclear magnetic resonance, biomolecular",2
+249,kernel methods,1,melanoma,2
+250,fisher discriminant analysis (fda),1,remote ischemic preconditioning,2
+251,chemicals,1,gdm,2
+252,characterisation,1,newborn,2
+253,multivariate data analysis,1,liquid chromatography-mass spectrometry,2
+254,chemometrics,1,peak alignment,2
+255,metabolic flux analysis,1,in-stent restenosis,2
+256,mass isotopomer distribution,1,aha scientific statements,2
+257,adverse drug reactions,1,medium chain fatty acids,2
+258,drug discovery and,1,traumatic brain injury,2
+259,screening and diagnosis,1,chemical derivatization,2
+260,personalized cancer care,1,in-house endogenous databases,2
+261,tumorigenesis,1,id-based metabolomics analysis,2
+262,analytical methods,1,data pre-processing,2
+263,gas chromatography,1,univariate analysis,2
+264,in vivo sampling,1,cancer metabolomics,2
+265,bacterial and plant applications,1,human metabolome database (hmdb),2
+266,biomedical and clinical applications,1,data acquisition and analysis,2
+267,metaolomics,1,informatics techniques,2
+268,metabolic fingerprinting,1,database design,2
+269,pls,1,targeted and untargeted metabolomics,2
+270,colorectal cancer,1,dissolved organic matter,2
+271,diagnostic test,1,gas chromatography-mass spectrometry,2
+272,metabolomics screening,1,extreme environments,2
+273,serum tissue,1,mitochondria,2
+274,atherosclerosis,1,chinese medicine theory,2
+275,coronary artery disease,1,chinese medicine syndrome,2
+276,chemical diversity,1,pathways of toxicity,2
+277,ecology,1,toxicity testing for the 21st,2
+278,evolution,1,processing technology,2
+279,herbivore,1,pediatrics,2
+280,ions,1,metabolomics society,2
+281,ion suppression,1,global initiatives,2
+282,targeted metabolomics,1,national programmes,2
+283,biological samples,1,future of medicine,2
+284,data treatment,1,information and communication,2
+285,genetics,1,biomarker identification,2
+286,personalized medicine,1,biology,2
+287,quantitative systems biology,1,kernel methods,2
+288,"high-throughput ""omic"" techniques",1,fisher discriminant analysis (fda),2
+289,standardization,1,metabolic flux analysis,2
+290,standard,1,mass isotopomer distribution,2
+291,environmental,1,screening and diagnosis,2
+292,reporting requirements,1,personalized cancer care,2
+293,metabolite identification,1,tumorigenesis,2
+294,data exchange,1,quantitative systems biology,2
+295,data format,1,"high-throughput ""omic"" techniques",2
+296,metabolomics standards initiative,1,data exchange,2
+297,controlled vocabulary,1,data format,2
+298,terminology,1,metabolomics standards initiative,2
+299,semantic,1,personalized,1
+300,metadata,1,penetrating ballistic-like brain injury,1
+301,environmental microorganism,1,network-based,1
+302,biodegradation,1,bacterial and plant applications,1
+303,pattern recognition,1,biomedical and clinical applications,1

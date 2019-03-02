@@ -1,0 +1,1232 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT S
+DE Remote labs; Smart grid; Wind turbine; Solar panel; System control;
+   LabVIEW
+ER
+
+PT J
+DE smart grid; wind power; synchronized measurements; PMU; data mining
+ER
+
+PT J
+DE Microgrid; distributed energy resources; memory-based genetic algorithm
+ID OPERATION; SYSTEM
+ER
+
+PT J
+ID GLOBAL OPTIMIZATION; OFFSHORE WIND; POWER; SUNLIGHT; WATER; MODEL
+ER
+
+PT J
+DE cuckoo search algorithm; demand side management; heuristic algorithms;
+   power trading; strawberry algorithm; load management; home energy
+   management
+ID DEMAND-SIDE MANAGEMENT; ELECTRIC VEHICLES; SMART; GENERATION; HOUSEHOLD;
+   STORAGE; SYSTEM; MODEL
+ER
+
+PT J
+DE Artificial neural network (ANN); genetic algorithm back propagation
+   neural network; local linear estimation (LLE); online adaptive learning;
+   solar intensity forecasting
+ER
+
+PT J
+DE Smart metering; energy efficiency; reliability; sustainability;
+   renewable energy
+ER
+
+PT J
+DE Power system reliability; Productive analysis; Cooperative relationship;
+   Citation analysis; Keywords frequency analysis
+ID SMART GRID ENVIRONMENTS; WIND POWER; CENTERED MAINTENANCE; COMPREHENSIVE
+   SCHEME; COMPOSITE GENERATION; TRANSMISSION-SYSTEMS; ENERGY-SYSTEMS;
+   NETWORK; MANAGEMENT; OPERATION
+ER
+
+PT J
+DE Smart grid; Renewable energy; Photovoltaic; Grid management; Consumer
+   behaviour
+ID ENERGY; CHALLENGES; TRANSITION; SYSTEMS
+ER
+
+PT B
+DE Lead acid battery; State of charge; Feature Selection; Forecasting
+ID STATE-OF-CHARGE; PREDICTION MODEL; STORAGE
+ER
+
+PT B
+DE sustainable energy; integration of renewable energy; combined heat and
+   power; cost of energy; optimal solution
+ER
+
+PT J
+ID DYNAMIC PERFORMANCE; RADIATION; ANFIS
+ER
+
+PT J
+DE thermoelectric and hydroelectric unit; smart power grid; wind and solar
+   energy; smart power metering sensor; improved priority method; unit
+   commitment; filtering-constraint implicit enumeration algorithm; ramp
+   rate
+ID WIND
+ER
+
+PT J
+DE virtual power plant; smart grid; solar photovoltaic; wind energy;
+   renewable energy
+ID SYSTEM
+ER
+
+PT S
+DE DEG; Solar; Wind turbines; Smart grid; Power transmission; Renewable
+   energy; Sustainable
+ER
+
+PT B
+DE Smart Grid; Demand Response; AJK; Distributed generation; Renewable
+   Energy System
+ER
+
+PT S
+ER
+
+PT J
+DE Smart grid; electrical systems; voltage quality; electric vehicle; ac/dc
+   conversion
+ER
+
+PT J
+DE Smart grid; renewable energy resources; monitoring; impedance
+   measurement; reactive power capability
+ID HIGH PV PENETRATION; DISTRIBUTION FEEDERS
+ER
+
+PT J
+DE Smart Grid; Smart User; Genetic algorithm; CHP operation managing;
+   Performance evaluation
+ID REAL-TIME MANAGEMENT; CHP (COMBINED HEAT; DEMAND RESPONSE; THERMAL
+   STORAGE; POWER-PLANTS; SYSTEM; OPERATION; GRIDS; NETWORKS; MODEL
+ER
+
+PT J
+DE Regional smart energy grid; Coordinated operational technology; Economic
+   evaluation
+ID WIND POWER; STORAGE
+ER
+
+PT J
+DE renewable energy; microgrid; smart grid; localized weather forecasting;
+   demand side management; electricity tariff; building energy
+ID POWER OUTPUT; MODEL; PERFORMANCE; MANAGEMENT; SYSTEM; WIND;
+   OPTIMIZATION; VALIDATION; FRAMEWORK; DEMAND
+ER
+
+PT J
+DE Fuel cell hybrid power source; Energy management; Smart home; Load
+   demand management
+ID PORTABLE APPLICATIONS; POWER MANAGEMENT; HYDROGEN; STRATEGIES;
+   EFFICIENCY; ALGORITHM
+ER
+
+PT J
+DE energy management systems; electric vehicles; multi-agent systems; smart
+   power grids; energy storage; power system stability; voltage control;
+   pricing; oligopoly; solar power stations; wind turbines; wind power
+   plants; multiagent transactive energy management system; renewable
+   energy source; electric vehicles; smart grids; EVs; energy storage
+   systems; ESSs; voltage stability; TEMS; profit maximization; real-time
+   pricing; Cournot oligopoly competition model; voltage regulation
+   constraints; merit order effect; indirect control method; modified IEEE
+   37-bus test system; wind turbines; solar plants; RESs oscillation;
+   customer cost minimization; capacitor bank
+ID GRID INTEGRATION; GENERATION; BEHAVIOR; STORAGE; DEVICES; DEMAND;
+   AGENTS; HOME
+ER
+
+PT J
+DE Hybrid energy system; Renewable energy; Storage battery; Fuzzy logic;
+   Smart management
+ID DISTRIBUTED GENERATION; DISTRIBUTION NETWORK; CONTROL STRATEGIES;
+   MANAGEMENT; UNCERTAINTY; PERFORMANCE; MICROGRIDS; ALGERIA
+ER
+
+PT J
+DE Carbon tax; Economics; Social cost of CO2; Smart meter, solar panel;
+   Wind turbine
+ID PRICE ELASTICITY; DEMAND; POLICY; SYSTEMS; CONSUMPTION
+ER
+
+PT J
+DE distribution networks; wind power; load flow; smart power grids; power
+   factor; nonlinear programming; integer programming; computational
+   complexity; optimisation; distributed power generation; on load tap
+   changers; smart distribution networks; wind generation; convex
+   probabilistic allocation; probabilistic optimisation model; renewable
+   distributed generation allocation; radial distribution networks;
+   probabilistic generation; wind-based DG units; multiobjective
+   performance index; energy losses reduction; voltage improvement;
+   probabilistic AC optimal power flow; optimal allocation; smart grids;
+   load tap changer control; adaptive power factor control; mixed-integer
+   nonlinear programming; MINLP; computationally NP-hard problem;
+   second-order cone programming problem; IEEE 4-bus radial distribution
+   systems; IEEE 33-bus radial distribution systems
+ID DISTRIBUTION-SYSTEMS; RECONFIGURATION; PENETRATION; PLACEMENT;
+   ALGORITHM; BENEFITS; IMPROVE
+ER
+
+PT J
+DE Optimization; Electric vehicle charging station; Renewable energy
+   sources; Hybrid GA-PSO algorithm; Smart Grids
+ID DISTRIBUTION NETWORK; DISTRIBUTION-SYSTEMS; PARKING LOTS; OPTIMIZATION;
+   RESOURCES
+ER
+
+PT J
+DE optimal power flow; renewable energy; wind energy; photovoltaic (PV);
+   particle swarm optimization (PSO)
+ID FROG LEAPING ALGORITHM; GENETIC-ALGORITHM; GLOBAL OPTIMIZATION; LOSS
+   MINIMIZATION; SYSTEM; EVOLUTIONARY; RECONFIGURATION; NETWORK
+ER
+
+PT J
+ER
+
+PT J
+DE Wind power; Photovoltaic generation; Support vector machine; Combined
+   forecasting; Smart community
+ID EXTREME LEARNING-MACHINE; WAVELET TRANSFORM; NEURAL-NETWORK; HYBRID PSO;
+   OPTIMIZATION; REGRESSION; ALGORITHM; MANAGEMENT; DESIGN
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ID VEHICLES
+ER
+
+PT J
+DE Smart microgrid; Renewable generation; Demand side management; Demand
+   response program
+ID ENERGY MANAGEMENT; DISTRIBUTION-SYSTEMS; WIND POWER; PERFORMANCE;
+   OPERATION; MARKET
+ER
+
+PT J
+DE Integrated renewable energy systems; Wind power; Solar energy;
+   Stochastic mixed-integer optimization; Uncertainty
+ID STOCHASTIC UNIT COMMITMENT; CONNECTED PHOTOVOLTAIC SYSTEMS;
+   ECONOMIC-ANALYSIS; DEMAND RESPONSE; OPTIMAL-DESIGN; OPTIMIZATION;
+   PENETRATION; TRANSMISSION; SIMULATION; ALLOCATION
+ER
+
+PT J
+DE Smart materials; Tensegrity structures; Solar facades; Wind generators
+ID CEMENT MORTARS; METALLIC FIBERS; REINFORCEMENT; BUILDINGS; POLYMER;
+   DESIGN; POWDER
+ER
+
+PT J
+DE Autoencoders; electric vehicles; EPSO; evolutionary particle swarm
+   optimization; forecasting voltage/var control; large-scale integration;
+   reliability; renewables; smart grids; solar power; state estimation;
+   storage; wind power
+ID STATE ESTIMATION; WIND POWER; AUTOENCODERS; GRIDS
+ER
+
+PT J
+DE Hybrid nanogenerator; Triboelectric nanogenerator; Wind energy;
+   Self-powered; Sensing
+ID HARVESTING WIND ENERGY; TRIBOELECTRIC NANOGENERATOR; WEARABLE
+   ELECTRONICS; GENERATOR; SENSOR; DRIVEN; SYSTEMS; SOLAR
+ER
+
+PT J
+DE Smart grid; microgrid; renewable energy; solar; wind; energy storage;
+   demand response; investment; pricing
+ID WIND POWER INVESTMENT; ENERGY-STORAGE; SMART GRIDS; GENERATION CAPACITY;
+   RENEWABLE ENERGY; OPTIMIZATION; INTEGRATION; MANAGEMENT; SYSTEMS
+ER
+
+PT J
+DE Demand Response; Renewable energy sources; Benefits and barriers;
+   Enabling technologies; Practical evidence
+ID RENEWABLE ENERGY-SOURCES; SMART GRID TECHNOLOGIES; ELECTRICITY MARKETS;
+   SIDE MANAGEMENT; DATA CENTERS; COMMUNICATION TECHNOLOGIES; ANCILLARY
+   SERVICES; CHALLENGES; EFFICIENCY; BENEFITS
+ER
+
+PT S
+ID DISTRIBUTION-SYSTEM RECONFIGURATION; POWER LOSS MINIMIZATION; VOLTAGE
+   STABILITY IMPROVEMENT; RADIAL-DISTRIBUTION SYSTEMS; CAPACITOR PLACEMENT;
+   OPTIMIZATION ALGORITHM; GENERATION; LOSSES
+ER
+
+PT B
+DE Cyber-Attack; Microgrid; OPTICS; Demand Dispatch; Anomaly Detection;
+   Renewable Energy
+ER
+
+PT B
+DE Conventional power System; load demands; solar systems; wind system;
+   Smart Grid; ZigBee Module
+ER
+
+PT S
+DE Distributed model predictive control; wind and solar generation system;
+   automatic generation control
+ID PREDICTIVE CONTROL; NONLINEAR-SYSTEMS; NEURAL-NETWORK; ENERGY; CHINA;
+   MODEL
+ER
+
+PT S
+DE Decentralized control; energy storage; power system control; power
+   system simulation; solar energy; wind integration
+ER
+
+PT B
+ER
+
+PT S
+DE payback period; power output; reflector positioning; effective
+   radiation; temperature effect
+ER
+
+PT B
+DE Micro-grid; Energy Management; Multi Agent System; JADE; Grid Outage
+ID ENERGY MANAGEMENT; OPERATION; TRENDS
+ER
+
+PT B
+DE Smart Grid; Photovoltaic System; Cost of Energy; Net Present Cost;
+   Hybrid Optimization Model for Electric Renewables; Wind Turbines
+ID RENEWABLE ENERGY SYSTEM; SIZE OPTIMIZATION; STAND-ALONE; MANAGEMENT;
+   SOLAR
+ER
+
+PT B
+DE Micro-grid; Energy Management; Multi Agent System; JADE; robustness
+ID OPERATION; TRENDS
+ER
+
+PT B
+DE sensor node; savonius wind turbine; wind enhancement device (WED);
+   open-circuit wind tunnel
+ER
+
+PT B
+DE smart city; microgrid simulation; PV panel; wind turbine
+ER
+
+PT S
+DE Smart City; Software Defined Radio; Cellular Networks; IoT; Autonomous
+   Systems
+ID FRAMEWORK
+ER
+
+PT B
+DE Green power Distributed generators; Microgrid; Mathematical model;
+   Distribution system; optimization problem; optimization methods
+ID SMART DISTRIBUTION-SYSTEMS; WIND POWER; OPTIMAL ALLOCATION; RELIABILITY
+   EVALUATION; RENEWABLE ENERGY; FORECASTING METHODS; UNIT COMMITMENT;
+   PLACEMENT; STORAGE; PENETRATION
+ER
+
+PT J
+DE Smart Grid; Smart Meter; Blockchain; Renewable Energy; Energy Market
+ER
+
+PT S
+DE Autonomous Agent; Energy management; Multi Agent System; Micro-grid;
+   JADE; Grid Outage Management
+ID ENERGY MANAGEMENT; OPERATION
+ER
+
+PT S
+DE Insulated Conductor; Proximity Effect; Frequency Domain Measurements;
+   Time Domain Measurements
+ER
+
+PT J
+DE Weather Logger; Wind Energy; Solar Energy; Hybrid Power Generation
+ID GENERATION
+ER
+
+PT B
+DE Smart boat; Renewable energy; Pollution; Fossil fuel
+ER
+
+PT S
+DE Energy; HOMER model; rural electrification; sustainable development
+   smart grid
+ER
+
+PT B
+DE 6-switched 3-level inverter; Hybrid power system; Smart grid; Solar
+   panel; Wind turbine
+ID WIND; PV
+ER
+
+PT J
+DE Smart grids; Markov decision process; scheduling algorithms;
+   time-varying systems
+ID MANAGEMENT; ALGORITHM; MECHANISM; CAPACITY; ISSUES
+ER
+
+PT J
+DE Control; conversion; energy management; hybrid system; solar energy;
+   storage; wind energy
+ID SMART POWER-SYSTEM; FEEDBACK LINEARIZATION; OPTIMIZATION; GENERATION;
+   RESOURCES; STORAGE; DESIGN
+ER
+
+PT J
+DE energy saving method; variable speed control; ventilation system;
+   subway; renewable energy
+ID ENERGY-CONSUMPTION; SYSTEMS; SOLAR; WIND; OPTIMIZATION; BUILDINGS;
+   TECHNOLOGY; GENERATION; MANAGEMENT; MODEL
+ER
+
+PT J
+DE Stochastic optimization; Power system operation; Planning; Smart grids;
+   Uncertainty
+ID CONSTRAINED UNIT COMMITMENT; SPINNING RESERVE REQUIREMENTS; OPTIMAL
+   BIDDING STRATEGIES; INCORPORATING WIND POWER; ECONOMIC-DISPATCH MODEL;
+   ROBUST OPTIMIZATION; ELECTRICITY MARKET; PRICE UNCERTAINTY; DEMAND
+   RESPONSE; TRANSMISSION
+ER
+
+PT J
+DE Electricity storage; Renewable energy integration; Sustainable energy
+   systems
+ID LI-ION BATTERIES; POWER-TO-GAS; RENEWABLE ENERGY; WIND POWER;
+   COMPRESSED-AIR; ELECTRICITY STORAGE; FLOW BATTERIES; COST-ANALYSIS;
+   SMART GRIDS; SYSTEMS
+ER
+
+PT J
+DE multi-agent technology; co-evolution agents; cost-emission unit
+   commitment; plug-in hybrid electric vehicles; renewable energy
+ID DYNAMIC-PROGRAMMING APPROACH; GENETIC ALGORITHM; GENERATION
+ER
+
+PT J
+ID TRIBOELECTRIC NANOGENERATOR; CONTACT ELECTRIFICATION; WEARABLE
+   ELECTRONICS; HYBRID CELL; FIBER; GENERATOR; CHARGE; WIRES; CONJUNCTION;
+   FABRICATION
+ER
+
+PT J
+DE District heating (DH) network; intelligent energy networks (IENs);
+   natural gas (NG) network; smart gas meter; smart grid; smart heat meter;
+   smart meter
+ID DISTRICT-HEATING SYSTEMS; DEMAND-SIDE MANAGEMENT; CHALLENGES; CHINA;
+   LOAD
+ER
+
+PT J
+DE Renewable energy; Home energy management system; Home energy storage
+   system; Home appliance scheduling; Smart house
+ID DEMAND RESPONSE; POWER-SYSTEM; OPTIMIZATION; GENERATION; VEHICLE;
+   DESIGN; IMPLEMENTATION; ENVIRONMENTS; SERVICES; PRICE
+ER
+
+PT J
+DE Smart grid; V2G; Congestions management; PEM; PTDFs; VDFs
+ID IN ELECTRIC VEHICLES; POWER-SYSTEM; DISTRIBUTION NETWORKS;
+   ENERGY-SOURCES; FLOW; INTEGRATION; IMPACT
+ER
+
+PT J
+ER
+
+PT J
+DE triboelectric nanogenerator; solar cells; smart city; hybridized
+   nanogenerator; Li-ion battery; self-powered
+ID TRIBOELECTRIC NANOGENERATOR; CELLS; GENERATION
+ER
+
+PT J
+DE Island power; Microgrid; Renewable energy; Grid integration; Energy
+   storage
+ID PUMPED HYDRO STORAGE; SUSTAINABLE ENERGY; REMOTE ISLAND; TECHNICAL
+   FEASIBILITY; DEVELOPING STATES; HIGH PENETRATION; CLIMATE-CHANGE; WIND
+   POWER; ELECTRICITY; SYSTEMS
+ER
+
+PT J
+ER
+
+PT J
+DE Renewable energy; Solar energy; Wind energy; Biomass and biogas;
+   Geothermal energy; Problems and challenges; Sichuan Province
+ID BIOMASS POWER-GENERATION; JATROPHA-CURCAS; SUPPLY CHAIN; SOLAR; WIND;
+   SITUATION; INDUSTRY; POLICIES; COUNTERMEASURES; CURTAILMENT
+ER
+
+PT J
+DE asymmetric multilevel inverter; Storage; wind energy; solar energy
+ID MODEL; SYSTEMS; PERFORMANCE; GENERATORS; SIMULATION
+ER
+
+PT J
+DE Smart grid; Cogeneration; Experimental analysis; Control systems;
+   Real-time optimization
+ID DISTRIBUTED POWER-GENERATION; ENERGY MANAGEMENT; ELECTRICITY PRICE;
+   OPTIMIZATION; SYSTEMS; GRIDS; CHALLENGES; OPERATION; STORAGE; STATE
+ER
+
+PT J
+ID DISTRIBUTION-SYSTEMS; AVAILABILITY; SIMULATION; PROTECTION; MODEL
+ER
+
+PT J
+DE Demand response; Microgrid; Thermal comfort optimization; Occupancy
+   information
+ID MULTIAGENT CONTROL-SYSTEM; BUILDING CLIMATE CONTROL; MODEL-PREDICTIVE
+   CONTROL; CONTROL STRATEGIES; MANAGEMENT-SYSTEM; SMART; INFORMATION;
+   PERFORMANCE; SIMULATION; VALIDATION
+ER
+
+PT J
+DE Smart grid; Hybrid renewable energy systems; Load shifting; Load
+   priority; Sizing; Optimization
+ID POWER-SYSTEM; WIND; OPTIMIZATION; SOLAR
+ER
+
+PT B
+DE microgrid; forecasting; resource scheduling; dynamic economic dispatch
+ID ENERGY MANAGEMENT; POWER-SYSTEM; ISLAND
+ER
+
+PT B
+DE ARM7; 8051; LCD; Solar panel; Battery; Wind
+ER
+
+PT S
+DE renewable energy microgrid; smartgrid; hierarchical structure; energy
+   managemnet strategy; technical and economical criteria
+ID FUEL-CELL; MANAGEMENT STRATEGY; HYBRID SYSTEM; GENERATION
+ER
+
+PT S
+DE Cultural algorithm (CA); Energy management system (EMS); Proportional
+   integral (PI); Smart house; Solar power; Wind energy
+ID HYBRID; SIMULATION; RESOURCE
+ER
+
+PT B
+DE Support Vector Regression; Mean Average Percentage Error; Genetic
+   Algorithm; Particle Swarm Optimization; Solar Power
+ER
+
+PT B
+DE Smart Grid; Renewable Energy; Power Quality; Multilevel Inverter;
+   MATLAB/Simulink
+ER
+
+PT S
+DE Wind Energy; Solar Energy; Economic Analysis; NPW; IRR
+ER
+
+PT S
+DE component; Vehicle-to-grid; Primary frequency control; primary reserve;
+   smart grid
+ID POWER-SYSTEM; VEHICLES; RESERVE
+ER
+
+PT B
+DE Dynamic rating; Distributed generation; Energy storage; Smart Grid;
+   Solar power generation; Weather Correlations; Wind power generation;
+   Transfer limits
+ID WIND POWER INTEGRATION; TRANSFORMERS; DEMAND; FARMS
+ER
+
+PT S
+DE Electric vehicle; wind and solar power integration; emissions; unit
+   commitment
+ER
+
+PT S
+DE Elastic load; optimization; smart community; renewables; uncertainty
+ID DEMAND RESPONSE; MANAGEMENT-SYSTEM; OPTIMIZATION
+ER
+
+PT B
+DE Active Network Management; Advanced Metering System; Distributed
+   Generation; Grid Integration; Information and Communication Technology;
+   Microgrid; Renewable Energy; Smart Grid; Supervisory Control and Data
+   Acquisition System
+ER
+
+PT S
+DE Renewable energy; photovoltaic panel; LFT; Performance ratio; Heliostat;
+   Pylon; RSSI
+ER
+
+PT S
+DE distributed generation; electric distribution system; knowledge; smart
+   grids
+ER
+
+PT B
+DE Inverter; solar power farm; wind power farm; SSSC; renewable energy
+ER
+
+PT B
+DE Virtual Power Plant; Solar micro-grid; Energy Management; Multi Agent
+   System; Java Agent Development Environment(JADE)
+ID MICROGRID CONTROL; OPERATION
+ER
+
+PT S
+DE DEVS formalism; smart grid; renewable energy; automatic decision
+ER
+
+PT S
+ID RENEWABLE ENERGY-SOURCES
+ER
+
+PT S
+DE Electric vehicle charging; Grid capacity constrain; charging
+   optimization; Renewable mergy
+ER
+
+PT B
+DE DFIG wind farm; Smart Grid's Generation Technologies; SPVG; and VRES
+ER
+
+PT S
+DE Reliability; Wind Power; PV Energy; Hybrid Systems; Demand Side
+   Management; Monte Carlo Simulation
+ER
+
+PT B
+DE Arduino Due; grid control; low voltage electric grids; smart grids;
+   smart metering
+ER
+
+PT S
+DE Smart nanogrid systems; Deployable Disaster Devices (D-3); renewable
+   energy harvesting; wind turbines; solar panels; sensors; controllers;
+   invertors; actuators
+ID MEMBRANE FUEL-CELLS; CARBON NANOTUBES; GAS-DIFFUSION; LAYERS
+ER
+
+PT J
+DE Distributed renewable energy generation; grid tied hybrid power system;
+   smart grid; renewable energy sources; smart premises
+ID DIESEL-BATTERY SYSTEM; ENERGY SYSTEM; ECONOMIC-ANALYSIS;
+   REMOTE-VILLAGES; PV; MANAGEMENT; MODEL; INDIA; BANGLADESH; ALGORITHM
+ER
+
+PT B
+DE capacity utilization factor; energy storage; hybrid system; renewable
+   energy; solar photo-voltaic; wind energy convertor
+ER
+
+PT J
+DE Solar power; Forecasting; Smart grid; Distributed sensors;
+   Probabilistic; Gradient boosting
+ID POINT ESTIMATE METHOD; DISTRIBUTION-SYSTEM; WIND; GENERATION
+ER
+
+PT J
+DE Decision making; genetic algorithm (GA); prediction interval (PI);
+   scenario generation; smart grid; stochastic model; uncertainties; unit
+   commitment (UC); wind power
+ID PARTICLE SWARM OPTIMIZATION; GENETIC ALGORITHM; LAGRANGIAN-RELAXATION;
+   GENERATION; SYSTEMS; PENETRATION; LOAD
+ER
+
+PT J
+DE microgrid; smart-house; smart-building; small-scale wind turbine;
+   photovoltaic; communication network; Ethernet; WiFi; ZigBee
+ID MULTIAGENT SYSTEMS; MICROGRIDS; FUTURE; DESIGN
+ER
+
+PT J
+DE Fuzzy logic; Neuro-fuzzy; ANFIS; Fuzzy AHP; Fuzzy MCDM
+ID MAXIMUM POWER POINT; PARTICLE SWARM OPTIMIZATION; ECONOMIC EMISSION
+   DISPATCH; SMART GRID APPLICATIONS; WIND TURBINE POWER;
+   ARTIFICIAL-INTELLIGENCE TECHNIQUES; CONNECTED PHOTOVOLTAIC SYSTEM;
+   MULTICRITERIA DECISION-MAKING; AIR-CONDITIONING SYSTEM; FED INDUCTION
+   GENERATOR
+ER
+
+PT J
+DE hydrogen; electric power system; wind power; PV cell; smart grid; wave
+   energy; solar power; wind generator; 10-year predictions; 2025 trends;
+   photovoltaic array; power converters; power electronics; renewable
+   energy; fuel cells
+ID POWER ELECTRONICS
+ER
+
+PT J
+DE future trends; demonstration projects; policy; renewable energy; Chinese
+   smart grid
+ID 12TH 5-YEAR PLAN; SMART GRIDS; GENERATION; SYSTEMS
+ER
+
+PT J
+DE Smart grid; Thermal unit commitment; Smart houses; Wind power
+   uncertainty; Electric vehicle; Battery energy storage
+ID POWER-GENERATION; STORAGE-SYSTEM; ENERGY; CONTROLLER; MICROGRIDS;
+   MANAGEMENT; STRATEGY; DESIGN
+ER
+
+PT J
+DE Smart Energy Systems; 100% Renewable energy systems; Energy storage;
+   Smart grids; Thermal grids; Gas grids
+ER
+
+PT J
+DE Energy system flexibility; DSM; Energy storage; Ancillary service;
+   Electricity market; Smart grid
+ID DEMAND-SIDE MANAGEMENT; WIND POWER INTEGRATION; OF-THE-ART; STORAGE
+   TECHNOLOGIES; SMART GRIDS; HEAT-PUMPS; THERMAL STORAGE; LOAD-MANAGEMENT;
+   DISTRIBUTION NETWORKS; CONTROLLABLE LOADS
+ER
+
+PT J
+DE Continuous-time Markov decision process; conventional power system;
+   in-home smart grid; renewable power system
+ID MANAGEMENT; RELIABILITY; CONSUMPTION; SYSTEM
+ER
+
+PT J
+DE Wind power; Solar power; Forecasting; Uncertainty principles;
+   Probability distribution; Wind forecasting; Solar forecasting; Smart
+   grids; Uncertainty; Spatial and temporal correlation
+ID KERNEL DENSITY-ESTIMATION; DISTRIBUTION MODEL; RADIATION; MULTIVARIATE;
+   SELECTION
+ER
+
+PT J
+DE HOMER; Renewable energy sources; hybrid system; PV; Wind & Economic
+   Viability
+ER
+
+PT J
+DE Battery energy storage; Cost of energy storage; Electricity market;
+   Electricity storage; Renewable energy integration; Smart grid;
+   Techno-economic analysis
+ID REDOX FLOW BATTERY; WIND POWER INTEGRATION; RESEARCH-AND-DEVELOPMENT;
+   DEMAND-SIDE MANAGEMENT; DEEP EUTECTIC SOLVENTS; RENEWABLE-ENERGY;
+   COMPRESSED-AIR; OPTIMAL OPERATION; PRICE ARBITRAGE; SMART GRIDS
+ER
+
+PT J
+DE Thermal energy storage; Load shifting; Renewable energy; Smart grid;
+   Operation strategy
+ID SYSTEMS
+ER
+
+PT S
+ER
+
+PT B
+DE dynamic rating; distributed generation; energy storage; smart grid;
+   solar power generation; transfer limits; weather correlations; wind
+   power generation
+ID RELIABILITY
+ER
+
+PT B
+DE multiple renewable energy; frequency control; smart grid; on-line
+   adaptive dynamic programming; sliding mode regulator
+ER
+
+PT B
+DE distributed generation; photovoltaic system; power quality; smart city;
+   wind generator
+ID SOLAR-ENERGY; WIND; PV
+ER
+
+PT B
+DE Electrical energy; Smart metering; Power Grid; Renewable energy;
+   Wireless; Communication; ZigBee
+ER
+
+PT B
+DE Hybrid system; CUK-SEPIC converter; quasi Z-source inverter; renewable
+   energy; Maximum power point tracking (MPPT)
+ER
+
+PT S
+ID HYBRID ELECTRIC VEHICLES; MANAGEMENT; STRATEGY; PRICE; MODEL
+ER
+
+PT B
+DE Frequency control; PID controller; Firefly algorithm; Smart load control
+ID AUTOMATIC-GENERATION CONTROL
+ER
+
+PT S
+DE Renewable sources; Smart Home; Energy Management Systems
+ER
+
+PT S
+DE Load shedding; undervoltage; underfrequency
+ER
+
+PT B
+DE Load Management; Solar; Wind; Reliability; Restoration
+ER
+
+PT S
+DE Energy efficiency; production planning and control; job shop scheduling
+ID POWER-CONSUMPTION
+ER
+
+PT B
+DE Responsive Demand; renewable energy; price signal; simulation; power
+   system
+ER
+
+PT B
+DE demand response; learning tool; renewable resource
+ER
+
+PT B
+DE Smart Grid; Renewable Energy Sources; Distributed Sources; Grid
+   Interconnection
+ID SYSTEM; WIND
+ER
+
+PT S
+ER
+
+PT J
+DE Energy harvesting; renewable energy; smart grid; wind farm planning;
+   wind power
+ID MULTICRITERIA DECISION-MAKING; RENEWABLE ENERGY; SELECTION; SYSTEMS;
+   FARMS; METHODOLOGY; GENERATION; TURBINES; DESIGN; REGION
+ER
+
+PT J
+DE Biomass energy; Geothermal energy; Hydropower energy; Marine energy;
+   Solar energy; Wind energy; Smart grid
+ID POWER-ELECTRONICS; BIOMASS; ELECTRICITY; IMPACT
+ER
+
+PT J
+DE Microgrid; Demand response; Stochastic optimization; Renewable
+   generation; Reserve
+ID SMART DISTRIBUTION-SYSTEMS; ENERGY MANAGEMENT-SYSTEM; WIND
+   POWER-GENERATION; STOCHASTIC SECURITY; SIDE MANAGEMENT; CONSUMPTION;
+   LOAD; OPERATION; MARKET; PENETRATION
+ER
+
+PT J
+DE Massive energy storage; renewable energy; smart grid
+ID RESEARCH-AND-DEVELOPMENT; WIND POWER; PRECAUTIONARY PRINCIPLE; ADIABATIC
+   CAES; SOLAR-ENERGY; CO2 CAPTURE; AIR; BATTERY; ELECTRICITY; FUTURE
+ER
+
+PT J
+DE Microgrid; plug-in electric vehicle (PEV); renewable energy; smart grid;
+   stochastic programming
+ID WIND POWER; DEMAND RESPONSE; UNIT COMMITMENT; MANAGEMENT; SYSTEMS
+ER
+
+PT J
+DE Vehicle to grid (V2G); Electric vehicle (EV); Smart grid; Advanced
+   metering infrastructure; Smart charging; Renewable energy sources
+ID DISTRIBUTION NETWORKS; IMPACTS; GENERATION; SYSTEMS; COORDINATION;
+   TECHNOLOGIES; MICROGRIDS; BATTERIES; TRANSPORT; SERVICES
+ER
+
+PT J
+ER
+
+PT J
+DE Context awareness; energy management; fault tolerant systems; green
+   design; hybrid power systems; smart grids
+ER
+
+PT J
+DE Appliance scheduling; demand side management; household energy
+   management; microgrid; renewable energy
+ID GENERATION; SYSTEM; LOAD
+ER
+
+PT S
+ID RENEWABLE ENERGY; SELECTION; TURBINES; SYSTEMS; DESIGN; FARMS
+ER
+
+PT S
+DE Renewable energy; Smart grids; Machine learning
+ID COORDINATED STABILIZING CONTROL; HEAD HYDROPOWER PLANTS; WIND-SPEED
+   PREDICTION; POWER-GENERATION; NEURAL-NETWORKS; GOVERNOR LOOPS;
+   TIME-SERIES; EXCITER; SYSTEMS; MODELS
+ER
+
+PT S
+DE Solar Building; Solar Energy; Thermal Energy Storage; System Analysis;
+   Solar Panel
+ID WIND; DESIGN; SOLAR
+ER
+
+PT S
+DE Institute of Electrical Engineers of Japan (IEEJ); Simulations; Smart
+   Grids and; Standard models
+ER
+
+PT S
+DE Household Appliance; Improved Particle Swarm Optimization; Renewable
+   Energy Resources; Real-time Energy Management
+ER
+
+PT B
+DE Smart grid; demand response; solar power; constrained optimization;
+   Kuhn-Tucker conditions
+ID PERFORMANCE ASSESSMENT; WIND POWER
+ER
+
+PT B
+DE Smart grids; Power distribution; Energy management; Distributed power
+   generator
+ER
+
+PT S
+DE smart microgrid; renewable energy; loss of power supply probability;
+   levalized cost of energy
+ID ENERGY-CONVERSION SYSTEMS; POWER-GENERATION SYSTEMS; HYBRID;
+   OPTIMIZATION; TURBINE; ARRAY; MODEL
+ER
+
+PT S
+DE Electric Vehicle; Unit Commitment; RES integration; solar power
+   generation; wind power generation
+ID RENEWABLE ENERGY
+ER
+
+PT S
+DE Three-level buck-boost converter; Renewable energy conversion; Smart
+   grid integration; Neutral-point-clamped inverter
+ID VOLTAGE; INVERTERS
+ER
+
+PT S
+DE Smart grid; Distributed energy resources; Demand response; Battery
+   storage system; Operational planning
+ER
+
+PT S
+ER
+
+PT S
+ID DEMAND RESPONSE; SMART GRIDS; INTEGRATION; GENERATION; MANAGEMENT
+ER
+
+PT B
+DE smart grid; renewable energy; wireless communication; smart technologies
+ID CHINA; ENERGY
+ER
+
+PT J
+DE Bayesian approach; forecasting methods; point estimate method;
+   probabilistic steady-state analysis; smart grid
+ID POINT ESTIMATE METHOD; PROBABILISTIC ANALYSIS; DISTRIBUTION-SYSTEM;
+   ANCILLARY SERVICES; NEURAL-NETWORKS; WIND FARMS; LOAD
+ER
+
+PT J
+DE Fuzzy logic; plug-in hybrid electric vehicle (PHEV); quantum algorithm;
+   solar power; unit commitment; wind power
+ID THERMAL UNIT COMMITMENT; PARTICLE SWARM OPTIMIZATION; RENEWABLE
+   ENERGY-SOURCES; LAGRANGIAN-RELAXATION; ALGORITHM; CONSTRAINTS; SYSTEMS
+ER
+
+PT J
+DE Domestic distributed generation; Renewable source integration; Smart
+   house; Smart grid
+ID CONTROL STRATEGY; NEW-ZEALAND; MICROGRIDS; SYSTEM; GENERATION; DEMAND;
+   GRIDS
+ER
+
+PT J
+ID SPINEL LIMN2O4 NANOWIRES; GOOD CYCLING PERFORMANCE; EXCELLENT RATE
+   CAPABILITY; LI-ION BATTERIES; ELECTROCHEMICAL-BEHAVIOR; ANODE MATERIAL;
+   CATHODE MATERIAL; HYDROTHERMAL SYNTHESIS; HIGH-POWER; LINO3 SOLUTION
+ER
+
+PT J
+DE Power generation; Power storage; Power distribution; Fuel cells; Wind
+   turbines; Rechargeable batteries; Smart grids
+ID UNIT COMMITMENT PROBLEM; MEMBRANE FUEL-CELL; SOLAR-CELLS; ELECTRICITY
+   MARKETS; STEADY-STATE; HYDROGEN ENERGY; OBSERVER DESIGN; WIND TURBINES;
+   ION BATTERY; TRANSMISSION
+ER
+
+PT J
+ER
+
+PT J
+DE Distributed control; distributed energy generation; electrical grid;
+   solar energy systems; supervisory model predictive control; wind energy
+   systems
+ID HYBRID GENERATION SYSTEM; POWER-SYSTEM; MODE CONTROL; ARCHITECTURES
+ER
+
+PT J
+DE Electric vehicle; Solar energy; Renewable energy; Wind energy; Smart
+   grid
+ID DRIVE VEHICLES; POWER-SYSTEMS; WIND POWER; TRANSPORT; BIOELECTRICITY;
+   DEMAND
+ER
+
+PT B
+DE Wind energy conversion; wind turbines; power electronics; control;
+   reliability
+ER
+
+PT S
+ER
+
+PT B
+DE Battery energy storage system (BESS); Power quality; Smart energy meter;
+   Wind energy generating system (WEGS); Static compensator (STATCOM)
+ER
+
+PT B
+DE Smart Grid; Hybrid System; Sensitivity Coefficient; Distributed
+   Generation
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT J
+DE Smart grid; communication infrastructure; intelligent network;
+   interconnected power system; monitoring; sensing; cyber security
+ID POWER-LINE COMMUNICATION; MICRO-GENERATION; SYSTEMS; TRANSMISSION;
+   NETWORKS
+ER
+
+PT J
+DE Energy efficiency; genetic-algorithm (GA)-based optimization approach;
+   HVAC load; probabilistic modeling; smart-grid strategy; two-point
+   estimate method
+ID 2-POINT ESTIMATE METHOD; OPTIMAL POWER-FLOW; SYSTEM; METHODOLOGY;
+   SIMULATION
+ER
+
+PT S
+DE UAV; architecture; Solar cells; intelligent control
+ID COLLISION-AVOIDANCE; SYSTEMS
+ER
+
+PT B
+DE PHEV; APLR; Charging Cost; Multi-Objective Particle Swarm Optimization;
+   Load Demand; Distribution Network
+ER
+
+PT J
+DE Building energy saving; discrete event dynamic system; simulationbased
+   policy improvement; smart grid
+ID STATE AGGREGATION; PROPERTY; MODEL
+ER
+
+PT J
+ID POWER-SYSTEM
+ER
+
+PT J
+DE Smart grid; Smart energy systems; Large-scale integration of wind and
+   solar; Electricity market; Flexible Combined Heat and Power production
+   (CHP)
+ID RENEWABLE ENERGY; DRIVE VEHICLES; POWER; STRATEGIES; STORAGE; PRICES
+ER
+
+PT J
+DE Distributed generation; energy storage device; linear programming;
+   renewable energy; smart grid; time of day pricing
+ER
+
+PT J
+DE Battery; electric economy; energy storage; pumped hydro
+ID LITHIUM-ION BATTERIES; ELECTROCHEMICAL CAPACITORS; CATHODE MATERIALS;
+   PERFORMANCE; ELECTRODES; CONVERSION; ANODES
+ER
+
+PT J
+DE Cost; emissions; plug-in electric vehicles; renewable energy; scenario;
+   smart grid; uncertainty; unit commitment
+ID ELECTRIC-DRIVE VEHICLES; FUEL-CELL VEHICLES; UNIT COMMITMENT; ENERGY;
+   POWER; OPPORTUNITIES; OPTIMIZATION; CONSTRAINTS; MANAGEMENT
+ER
+
+PT J
+DE Smart grid; DC smart house; Optimal operation; Interconnection point
+   power flow
+ID RENEWABLE ENERGY; ISOLATED ISLAND
+ER
+
+PT B
+DE Smart grid; communication network; renewable energy; energy management
+ER
+
+PT B
+DE DC smart grid; PMSG; controllable loads; DC distribution voltage; pitch
+   angle control; Load shading
+ID RENEWABLE ENERGY-SOURCES; WIND TURBINE-GENERATOR; PITCH-ANGLE CONTROL;
+   SYSTEM; ISLAND; CONFIGURATION; STORAGE; WTG
+ER
+
+PT S
+ID OPTIMIZATION
+ER
+
+PT S
+DE smart grid; community-driven energy sharing
+ID MANAGEMENT
+ER
+
+PT S
+DE New Energy Power Station; Ocean Currents Generation; Intelligent
+   Monitoring; Energy Management; IEC61850; IEC 61400-25
+ER
+
+PT S
+DE Smart Grid Management; Energy Efficiency; Service Oriented Architecture
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT S
+ID GENERATION
+ER
+
+PT B
+DE smart grid; heat; simulation; energy balance
+ER
+
+PT S
+DE Power management circuits; Maximum Power Point; Multi energy harvesters;
+   Solar harvester; Wind harvester; Wake-up Receiver; Radio trigger;
+   Wireless sensor network
+ID WAKE-UP RECEIVER
+ER
+
+PT J
+DE Electrical grid; Renewables-based energy generation systems; Water
+   systems; Supervisory predictive control
+ID MODEL-PREDICTIVE CONTROL; NONLINEAR PROCESS SYSTEMS; HYBRID GENERATION
+   SYSTEM; POWER POINT TRACKING; WATER DESALINATION; CONTROL STRATEGIES;
+   COST OPTIMIZATION; CONVERSION SYSTEM; WIND; SPEED
+ER
+
+PT J
+ID SOLAR-RADIATION; WIND POWER; MODELS; IRRADIANCE
+ER
+
+PT J
+ID INORGANIC SOLID-ELECTROLYTE; THIO-LISICON; IONIC-CONDUCTIVITY; POLYMER
+   ELECTROLYTES; POWDER DIFFRACTION; BATTERIES; CRYSTALS; SYSTEM; GLASSES;
+   LI3N
+ER
+
+PT J
+DE DC smart house; interconnection point power flow; optimal operation;
+   smart grid
+ER
+
+PT J
+DE Isolated power grids; light-emitting diodes; lighting systems;
+   mini-grids; renewable power sources; smart loads
+ER
+
+PT J
+ER
+
+PT J
+DE Constraints; cost; emission; gridable vehicles (GVs); load leveling;
+   optimization; plug-in electric vehicles (EVs); renewable energy; smart
+   grid; solar farm; wind farm
+ID PARTICLE SWARM OPTIMIZATION; ELECTRIC-DRIVE VEHICLES; FUEL-CELL
+   VEHICLES; POWER; MANAGEMENT; CONSTRAINTS; GENERATION; SYSTEMS
+ER
+
+PT S
+DE Control systems; Hybrid power systems; MATLAB; Modeling; Photovoltaic
+   systems; Power electronics; Smart grids; Wind power generation
+ID POWER-GENERATION SYSTEM; SIMULATION; DESIGN
+ER
+
+PT S
+ER
+
+PT S
+DE solar energy; wind energy; smart grid; conserving oil; megawatt
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT S
+DE Tidal energy conversion system; smart grid; power system modeling; power
+   system simulation
+ER
+
+PT S
+DE Battery; photovoltaic (PV) system; roadway microgrid; smart grid; wind
+   turbine generator
+ER
+
+PT J
+ER
+
+PT J
+ID SOLAR-ENERGY; OXYGEN REDUCTION; FUEL-CELLS; STORAGE; FUTURE; WATER;
+   ELECTRICITY; CONVERSION; PROSPECTS; CATALYSTS
+ER
+
+PT J
+DE Smart grid; Micro-grid; FACTS; HVDC; UPS; STATCOM; APF; DVR; UPQC; Solar
+   power; Wind generation
+ID ACTIVE POWER FILTER; TRANSMISSION NETWORK; SIMULATION RESEARCH; SERIES
+   COMPENSATOR; CONTROL STRATEGY; SYSTEM; FACTS; PERFORMANCE; SCHEME; APF
+ER
+
+PT J
+DE Controllable loads; droop characteristic; smart grid
+ER
+
+PT J
+ID CONVERTERS; ISSUES
+ER
+
+PT S
+DE wind power; wireless sensor; structural health monitoring; energy
+   harvesting
+ER
+
+PT B
+DE Power Quality; Voltage Quality; EMC; Electromagnetic Compatibility;
+   Smart Grid; Smart Grids; SmartGrid; SmartGrids; Renewables
+ER
+
+PT J
+DE rural development; sustainable energy policy; solar; biomass; wind power
+ID DEVELOPING-WORLD; PHOTOVOLTAIC MARKET; SOLAR POWER; CHINA; EXPERIENCE;
+   INDIA; TECHNOLOGY; LESSONS; POLICY; COOKSTOVES
+ER
+
+EF

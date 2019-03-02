@@ -1,0 +1,300 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,pervasive computing,34,pervasive computing,89
+1,pervasive,11,pervasive,33
+2,wireless sensor network,8,wireless sensor network,22
+3,wireless sensor networks,7,rfid,19
+4,pervasive healthcare,6,security,18
+5,rfid,6,mobile computing,15
+6,mobile computing,5,wireless sensor networks,15
+7,security,5,pervasive healthcare,15
+8,wireless,5,wireless,15
+9,wireless networks,5,wireless networks,14
+10,internet of things,3,zigbee,14
+11,ubiquitous computing,3,wi-fi,10
+12,zigbee,3,internet of things,9
+13,wsn,2,bluetooth,9
+14,key management,2,context-aware,9
+15,pervasive networks,2,design,8
+16,sensor network,2,wireless sensor,8
+17,design,2,algorithms,7
+18,algorithms,2,ubiquitous computing,7
+19,wireless sensor,2,sensor,7
+20,bluetooth,2,wsn,6
+21,sensors,2,key management,6
+22,wi-fi,2,sensors,6
+23,pervasive grid computing,2,wireless sensor network (wsn),6
+24,service composition,2,smart home,6
+25,energy,2,gsm,6
+26,ambient intelligence,2,smart sensor,6
+27,wireless sensor network (wsn),2,and,6
+28,body area networks (ban),2,wireless network,6
+29,context-aware,2,network,6
+30,wireless network,2,context,6
+31,authentication,2,modeling,6
+32,quality of service,2,performance analysis,6
+33,network,2,measurement,6
+34,context,2,pervasive networks,5
+35,sensor,2,sensor network,5
+36,modeling,2,pervasive grid computing,5
+37,performance analysis,2,service composition,5
+38,measurement,2,energy,5
+39,mobile environment,1,authentication,5
+40,ubicomp,1,quality of service,5
+41,pervasive environment,1,4g,5
+42,sensor data management,1,aaa,5
+43,continuous query,1,context management,5
+44,energy balanced,1,roaming,5
+45,energy conservation,1,jini,5
+46,progressive decentralized single,1,p2p,5
+47,iot applications,1,pervasive multimedia,5
+48,location-based services,1,service discovery,5
+49,non-flat wireless broadcast,1,media,5
+50,spatial air index,1,trajectory privacy,4
+51,certificate validation efficiency,1,education,4
+52,pkix,1,mobile learning,4
+53,trust,1,serious game,4
+54,pervasive discovery,1,smartphone,4
+55,biomedical engineering,1,e-health,4
+56,healthcare,1,ambient intelligence,4
+57,social network,1,component,4
+58,wireless body area network,1,latino american,4
+59,cognitive networks,1,developing countries,4
+60,dynamic access,1,nomadic,4
+61,channel allocation,1,theory,4
+62,technology,1,reliability,4
+63,trajectory privacy,1,formal specification,4
+64,data-centric networking,1,wireless and,4
+65,opportunistic forwarding,1,distributed memory,4
+66,pervasive sensing,1,nfc,4
+67,human-centric sensing,1,vector clocks,4
+68,education,1,pervasive game,4
+69,mobile learning,1,fpga,4
+70,serious game,1,sensor node,4
+71,smartphone,1,active node,4
+72,6lowpan,1,ccu,4
+73,android,1,smart space,4
+74,renewable energy,1,strip-like topology,4
+75,energy storage systems,1,protocol,4
+76,hardware in the loop,1,pervasive devices,4
+77,iot,1,multi-player games,4
+78,actuator networks,1,pervasive games,4
+79,passive,1,mobile,4
+80,aerospace,1,sun spots,4
+81,mobile interaction,1,mobile environment,3
+82,public display,1,ubicomp,3
+83,ad hoc,1,iot applications,3
+84,dynamic service composition,1,certificate validation efficiency,3
+85,semantic knowledge,1,pkix,3
+86,e-health,1,trust,3
+87,obstructive sleep apnea,1,cognitive networks,3
+88,heart rate variability,1,dynamic access,3
+89,anomaly detection,1,channel allocation,3
+90,routing algorithms,1,technology,3
+91,resource,1,6lowpan,3
+92,unified trust model,1,android,3
+93,smart spaces,1,iot,3
+94,remote attestation,1,actuator networks,3
+95,handoff management,1,passive,3
+96,wireless sensor and actuator networks (wsans),1,aerospace,3
+97,pervasive and mobile computing,1,mobile interaction,3
+98,disconnected operation,1,public display,3
+99,21st century social sciences,1,ad hoc,3
+100,ambient information,1,routing algorithms,3
+101,ubiquitous learning,1,resource,3
+102,content-aware,1,unified trust model,3
+103,android operating system,1,smart spaces,3
+104,database,1,remote attestation,3
+105,emr,1,android operating system,3
+106,elliptical curve cryptography,1,database,3
+107,massive data sets,1,emr,3
+108,sublinear methods,1,elliptical curve cryptography,3
+109,fixed rank,1,massive data sets,3
+110,wearable health monitoring systems (whms),1,sublinear methods,3
+111,ehealth,1,fixed rank,3
+112,wireless technology,1,body area networks (ban),3
+113,communication,1,ehealth,3
+114,internetworking architecture,1,wireless technology,3
+115,service-oriented middleware,1,communication,3
+116,knowledge,1,smart environments,3
+117,smart environments,1,energy harvesting,3
+118,energy harvesting,1,cloud computing,3
+119,cloud computing,1,smart phones,3
+120,smart phones,1,power optimization,3
+121,smart home,1,interactive application,3
+122,gsm,1,positioning,3
+123,smart sensor,1,wireless lan,3
+124,and,1,signal system,3
+125,component,1,id-based,3
+126,latino american,1,pervasive service,3
+127,developing countries,1,service selection,3
+128,nomadic,1,service,3
+129,pervasive communication,1,mobile object tracking,3
+130,opportunistic networking,1,pervasive systems,3
+131,content-centric,1,distributed systems,3
+132,artificial neural networks,1,choreography,3
+133,diabetes,1,workflows,3
+134,medical sensor network,1,information refinement,3
+135,patient area network,1,medical systems,3
+136,collaborative traffic information processing,1,pervasive social computing,3
+137,data association,1,blog,3
+138,traffic,1,user behavioral information,3
+139,power optimization,1,intelligent home-hospital system,3
+140,interactive application,1,read rate,3
+141,positioning,1,false reads,3
+142,wireless lan,1,probabilistic trust,3
+143,signal system,1,wireless storage system,3
+144,distributed monitoring,1,architecture,3
+145,earth observation,1,key technologies,3
+146,environmental monitoring,1,data access,3
+147,id-based,1,computer network security,3
+148,theory,1,device discovery,3
+149,reliability,1,handheld devices,3
+150,formal specification,1,open architecture,3
+151,wireless and,1,sensorml,3
+152,pervasive service,1,ubiquitous,3
+153,service selection,1,offloading,3
+154,service,1,fault-tolerant,3
+155,mobile object tracking,1,secure sensor networks,3
+156,pervasive systems,1,device hierarchy,3
+157,distributed systems,1,internet,3
+158,choreography,1,anycast,3
+159,workflows,1,vehicular healthcare system,3
+160,information refinement,1,multicast,3
+161,medical systems,1,pervasive data access,3
+162,visual code,1,wireless and mobile computing,3
+163,distributed memory,1,broadcast,3
+164,nfc,1,caching,3
+165,vector clocks,1,mobile agent,3
+166,pervasive game,1,pervasive mobile devices,3
+167,pervasive social computing,1,mobile ip,3
+168,blog,1,remote monitoring,3
+169,user behavioral information,1,opc technology,3
+170,smart home environments,1,wireless geolocation,3
+171,k-means clustering,1,localization technique and algorithms,3
+172,sleep eeg system,1,aoa,3
+173,fpga,1,tdoa,3
+174,sensor node,1,offloading system,3
+175,active node,1,mobile wireless,3
+176,ccu,1,lbs,3
+177,intelligent home-hospital system,1,autonomous,3
+178,read rate,1,wireless communication,3
+179,false reads,1,physical games,3
+180,pervasive wireless system,1,sensor networks,3
+181,location based mobile application,1,haptic interfaces,3
+182,gprs,1,mashup,3
+183,probabilistic trust,1,wireless network data,3
+184,wireless storage system,1,cross-media,3
+185,architecture,1,3-d shape retrieval,3
+186,key technologies,1,moment,3
+187,data access,1,pervasive application,3
+188,osgi,1,routing information,3
+189,service gateway,1,shortest,3
+190,pervasive health care,1,pervasive networking,3
+191,body sensor networks,1,entertainment,3
+192,content-based middleware,1,augmented reality,3
+193,associative,1,ad-hoc,3
+194,computer network security,1,mobile agents,3
+195,device discovery,1,modeling of agents,3
+196,handheld devices,1,performance of agents,3
+197,open architecture,1,personalization,3
+198,sensorml,1,dynamic adaptation,3
+199,ubiquitous,1,personalized,3
+200,seamless location,1,redirection,3
+201,smart space,1,privacy,3
+202,strip-like topology,1,mobile recommender,3
+203,protocol,1,user modeling,3
+204,pervasive devices,1,context modeling,3
+205,offloading,1,product/service,3
+206,fault-tolerant,1,embedded systems,3
+207,heterogeneous wireless sensor networks,1,wireless telecommunication systems,3
+208,agent,1,network awareness,3
+209,secure sensor networks,1,pervasive environment,2
+210,device hierarchy,1,sensor data management,2
+211,internet,1,continuous query,2
+212,multi-player games,1,energy balanced,2
+213,pervasive games,1,energy conservation,2
+214,mobile,1,progressive decentralized single,2
+215,sun spots,1,location-based services,2
+216,anycast,1,non-flat wireless broadcast,2
+217,vehicular healthcare system,1,spatial air index,2
+218,multicast,1,pervasive discovery,2
+219,pervasive data access,1,healthcare,2
+220,wireless and mobile computing,1,social network,2
+221,broadcast,1,wireless body area network,2
+222,caching,1,data-centric networking,2
+223,mobile and wireless networks,1,opportunistic forwarding,2
+224,pervasive healthcare applications,1,pervasive sensing,2
+225,mobile agent,1,human-centric sensing,2
+226,pervasive mobile devices,1,renewable energy,2
+227,mobile ip,1,energy storage systems,2
+228,remote monitoring,1,hardware in the loop,2
+229,opc technology,1,dynamic service composition,2
+230,wireless geolocation,1,semantic knowledge,2
+231,localization technique and algorithms,1,obstructive sleep apnea,2
+232,aoa,1,heart rate variability,2
+233,tdoa,1,anomaly detection,2
+234,offloading system,1,handoff management,2
+235,mobile wireless,1,wireless sensor and actuator networks (wsans),2
+236,wireless biomedical sensor network,1,pervasive and mobile computing,2
+237,pervasive medical supervision,1,disconnected operation,2
+238,lbs,1,21st century social sciences,2
+239,autonomous,1,ambient information,2
+240,wireless communication,1,ubiquitous learning,2
+241,embedded and mobile devices,1,content-aware,2
+242,context awareness,1,internetworking architecture,2
+243,physical games,1,service-oriented middleware,2
+244,sensor networks,1,knowledge,2
+245,haptic interfaces,1,pervasive communication,2
+246,mashup,1,opportunistic networking,2
+247,wireless network data,1,content-centric,2
+248,cross-media,1,artificial neural networks,2
+249,3-d shape retrieval,1,diabetes,2
+250,moment,1,medical sensor network,2
+251,pervasive application,1,patient area network,2
+252,routing information,1,collaborative traffic information processing,2
+253,shortest,1,data association,2
+254,connectivity management,1,traffic,2
+255,hybrid wireless networks,1,distributed monitoring,2
+256,pervasive commerce,1,earth observation,2
+257,wireless infrastructure,1,environmental monitoring,2
+258,inter-organizational,1,visual code,2
+259,business rule,1,smart home environments,2
+260,pervasive networking,1,k-means clustering,2
+261,entertainment,1,pervasive wireless system,2
+262,augmented reality,1,location based mobile application,2
+263,ad-hoc,1,gprs,2
+264,4g,1,osgi,2
+265,aaa,1,service gateway,2
+266,context management,1,pervasive health care,2
+267,roaming,1,body sensor networks,2
+268,mobile agents,1,content-based middleware,2
+269,modeling of agents,1,associative,2
+270,performance of agents,1,seamless location,2
+271,personalization,1,heterogeneous wireless sensor networks,2
+272,dynamic adaptation,1,agent,2
+273,personalized,1,embedded and mobile devices,2
+274,redirection,1,context awareness,2
+275,privacy,1,connectivity management,2
+276,pervasive/ubiquitous systems,1,hybrid wireless networks,2
+277,content adaptation,1,pervasive commerce,2
+278,media transformation,1,wireless infrastructure,2
+279,wireless optical networks,1,inter-organizational,2
+280,the novel intelligent,1,business rule,2
+281,vertical handover,1,pervasive/ubiquitous systems,2
+282,mobile recommender,1,content adaptation,2
+283,user modeling,1,media transformation,2
+284,context modeling,1,wireless optical networks,2
+285,product/service,1,the novel intelligent,2
+286,mobile devices,1,vertical handover,2
+287,consumer-supplier interaction,1,mobile devices,2
+288,database for pervasive computing,1,consumer-supplier interaction,2
+289,database for mobile devices,1,database for pervasive computing,2
+290,embedded,1,database for mobile devices,2
+291,embedded systems,1,embedded,2
+292,wireless telecommunication systems,1,biomedical engineering,1
+293,jini,1,wearable health monitoring systems (whms),1
+294,p2p,1,sleep eeg system,1
+295,pervasive multimedia,1,mobile and wireless networks,1
+296,service discovery,1,pervasive healthcare applications,1
+297,media,1,wireless biomedical sensor network,1
+298,network awareness,1,pervasive medical supervision,1

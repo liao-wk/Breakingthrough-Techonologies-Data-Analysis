@@ -1,0 +1,553 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE Self-healing coating; ethyl cellulose microcapsules; nanocapsules;
+   corrosion resistance
+ID LINSEED OIL; MICROCAPSULES; ENCAPSULATION; NANOPARTICLES; NANOCAPSULES;
+   SHELL; RESIN
+ER
+
+PT J
+DE Response surface methodology; Polyvinyl (alcohol); Chitosan; ZnO
+   nanoparticles; Freeze-thaw process; Nanocomposite hydrogel
+ID NANOPARTICLES; CHITOSAN; POLYSACCHARIDE; NANOCOMPOSITE; SCAFFOLDS;
+   DRESSINGS; MEMBRANES; DELIVERY; FILMS
+ER
+
+PT J
+ID DENDRITIC MOLECULAR GLUE; HYDROXYAPATITE; NANOCOMPOSITES; STABILIZATION;
+   COMPOSITES; NANOCLAYS; PHOSPHATE; SCAFFOLD
+ER
+
+PT J
+ID MICROCAPSULES; MICROENCAPSULATION; POLYURETHANE; ROBUST
+ER
+
+PT J
+DE bio-inspired; self-healing; Bacillus subtilis; iron oxide particles;
+   limestone particles; siliceous sand; calcium lactate; compressive
+   strength
+ID COMPRESSIVE STRENGTH; BACTERIA; CONCRETE; LIMESTONE; TECHNOLOGIES;
+   IMPROVE
+ER
+
+PT J
+DE Insulin; Wound healing; Protein nanoparticles interactions; Diabetes;
+   Inflammation; Silver nanoparticles
+ID GOLD NANOPARTICLES; DRESSINGS; INFLAMMATION; ABSORPTION; DELIVERY;
+   RELEASE; REPAIR; MODEL
+ER
+
+PT J
+ID CORROSION PROTECTION; MICROVASCULAR NETWORKS; SMART COATINGS; EIS
+   ANALYSIS; MILD-STEEL; COMPOSITES; ALLOY; MICROCAPSULE; INHIBITION;
+   RESISTANCE
+ER
+
+PT J
+DE Carbon fiber polypropylene/carbon nanotube nano-composite; Addressable
+   conducting network; Electrical resistance change method; Damage
+   monitoring; Self-healing
+ID NONDESTRUCTIVE EVALUATION; PIEZORESISTIVE PROPERTIES;
+   MECHANICAL-PROPERTIES; AIRCRAFT STRUCTURES; FRACTURE-TOUGHNESS;
+   MULTI-DELAMINATION; RESISTANCE; SPECTROSCOPY; TEMPERATURE; DISPERSION
+ER
+
+PT J
+DE Microencapsulation; Self-healing; Polyurethane; Butyl acetate; Nanoclay
+ID LAYERED SILICATE NANOCOMPOSITES; UREA-FORMALDEHYDE MICROCAPSULES;
+   LINSEED OIL; MECHANICAL-PROPERTIES; CORROSION PERFORMANCE;
+   FRACTURE-TOUGHNESS; POLYMER COMPOSITE; ACRYLIC LATEX; AGENTS;
+   MICROENCAPSULATION
+ER
+
+PT J
+ID ORGANS-ON-CHIPS; CONTACT GUIDANCE; CELL-MIGRATION; HUMAN SKIN; IN-VITRO;
+   DECISION-MAKING; SOFT-TISSUE; REPAIR; MECHANOTRANSDUCTION; REGENERATION
+ER
+
+PT J
+ER
+
+PT J
+ID AGED BITUMEN; MICROPCMS; ASPHALT
+ER
+
+PT J
+DE microcapsules; nano-Al2O3; epoxy resin coating; self-healing
+ID OIL
+ER
+
+PT J
+ID X-RAY-SCATTERING; MINERAL CRYSTAL SIZE; MORPHOGENETIC PROTEINS;
+   INFRARED-SPECTROSCOPY; MODEL; FRAGILITY; TISSUE; WOMEN; HYDROXYAPATITE;
+   ZOLEDRONATE
+ER
+
+PT S
+DE self-healing; micro-nano capsule; calcium alginate
+ER
+
+PT J
+DE Polymer Matrix composite; Jute fiber; Tensile strength; Compressive
+   strength; self healing resin
+ID DELAMINATION DAMAGE; POLYMER COMPOSITE
+ER
+
+PT J
+DE Nanosilica; healing index; Taguchi DOE method;
+   styrene-butadiene-styrene; healing index; dissipated creep strain energy
+ID NANOPARTICLES
+ER
+
+PT J
+DE Ferulic acid; diabetic wound healing; central-composite design;
+   plackett-burman design; polymeric nanoparticles; design of experiment
+ID SOLID LIPID NANOPARTICLES; VITRO DRUG-RELEASE; CELLULAR UPTAKE; CHITOSAN
+   NANOPARTICLES; CELLS; RATS; STREPTOZOTOCIN; ENCAPSULATION; EFFICIENCY;
+   MELLITUS
+ER
+
+PT J
+DE Bone defects; Calvaria healing; Nano composites
+ID GRAFT SUBSTITUTES; STEM-CELLS; IN-VIVO; RATS; RISEDRONATE; CHITOSAN;
+   REPAIR; OSTEOARTHRITIS; ALENDRONATE; SCAFFOLDS
+ER
+
+PT J
+ID CORE-SHELL NANOFIBERS; POLYMERIC MATERIALS; PENDANT DROP; COATINGS;
+   PERFORMANCE; COMPOSITES; TENSION; REPAIR; WATER; OIL
+ER
+
+PT J
+ER
+
+PT J
+DE Chronic Ulcer; Nano Silver Particles; Conventional Dressing
+ID BACTERIA
+ER
+
+PT J
+ER
+
+PT J
+DE bone tissue engineering; scaffold; steroidal saponins; sustained release
+ID NERVE GROWTH-FACTOR; OSTEOBLASTIC CELL-LINE; GENE-RELATED PEPTIDE;
+   THUNB. KER-GAWL; SUBSTANCE-P; INNERVATION; COMPOSITE; TISSUE
+ER
+
+PT J
+DE Skin wound healing; Nano-grooves topography; ECIS; Cell migration; Cell
+   proliferation
+ID MAMMALIAN-CELLS; IN-VITRO; GUIDANCE; REGENERATION; SPECTROSCOPY;
+   BIOSENSORS; MIGRATION; ALIGNMENT; SURFACES; MOTILITY
+ER
+
+PT J
+DE warm mix asphalt (WMA); nano-scale evaluation; healing
+ER
+
+PT J
+DE Self-healing; Schiff base; Reversible thermochromism; Contact angle;
+   Sensor array
+ID FLAME-RETARDANT; COATINGS; HYDROGELS; SURFACES; CHITOSAN; RESISTANCE;
+   SCRATCHES; PROPERTY; STRENGTH; CU(II)
+ER
+
+PT J
+DE nano silica; healing index; Taguchi method; hot mix asphalt
+ID NANOPARTICLES
+ER
+
+PT J
+DE Self-healing concrete; High performance concrete; Encapsulated
+   additions; Characterization; Mechanical performance; Durability
+ID FUNCTIONALIZED SILICA-NANOPARTICLES; CEMENTITIOUS MATERIALS; SYSTEM;
+   MICROSTRUCTURE; PERMEABILITY; ADHESIVE; CRACKS; TESTS
+ER
+
+PT J
+ID MUSSEL-INSPIRED FUNCTIONALIZATION; IN-VITRO; MULTIFUNCTIONAL COATINGS;
+   EGG-SHELL; NANOPARTICLES; SKIN; REEPITHILIALIZATION; REGENERATION;
+   CHEMISTRY; POLYMERS
+ER
+
+PT J
+ID GENE-EXPRESSION; IN-VITRO; CELLS; SKIN; DKK-1; INHIBITOR; PATHWAY;
+   MODEL; CARE; RAT
+ER
+
+PT J
+DE Self healing composites; Nanoreinforced healing agents; Carbon
+   nanotubes; Vascular network; Double cantilever beam tests
+ID INTERLAMINAR FRACTURE-TOUGHNESS; UNSATURATED POLYESTER RESIN; CARBON
+   NANOTUBES; MECHANICAL-PROPERTIES; EPOXY-RESINS; DAMAGE; ENHANCEMENT;
+   SUSPENSIONS; DISPERSION; RHEOLOGY
+ER
+
+PT J
+DE Chitosan; hydrogel membrane; poly vinyl alcohol; starch; wound dressing
+ID MECHANICAL-PROPERTIES; POLYVINYL-ALCOHOL; BIOMEDICAL APPLICATIONS;
+   CHITOSAN COMPOSITE; CONTROLLED-RELEASE; IN-VITRO; CHITIN; NANOPARTICLES;
+   ALGINATE; STARCH
+ER
+
+PT J
+DE nano-sized copper; lysyl oxidise; osteogenesis; fracture healing; callus
+   evolution
+ID IN-VIVO; DELAYED UNION; LYSYL OXIDASE; BONE-FRACTURE; CELLS;
+   DIFFERENTIATION; REPAIR; MODULATION; SCAFFOLDS; MECHANISM
+ER
+
+PT J
+DE Tooth powder; Bone repair; Rabbits; Graft material
+ID CALCIUM-PHOSPHATE; HYDROXYAPATITE; COMPOSITE; TRANSPLANTATION;
+   AUGMENTATION; TRANSMISSION; MORBIDITY; IMPLANTS; BEHAVIOR; REPAIR
+ER
+
+PT J
+ID THERMAL-CONDUCTIVITY; CARBON NANOTUBES; DISPERSIONS; NANOFLUIDS;
+   STRENGTH; BEHAVIOR; FLUIDS
+ER
+
+PT J
+ID REDUCED GRAPHENE OXIDE; TRANSPARENT CONDUCTORS; SILVER NANOPARTICLES;
+   METAL NANOPARTICLES; LIGHT IRRADIATION; SHAPE-MEMORY; FILMS; COMPOSITE;
+   ULTRATHIN; ELECTRODES
+ER
+
+PT J
+DE histologic analysis; histomorphometrical analysis; hydroxyapatite;
+   postextraction site development; randomized controlled trial
+ID FREEZE-DRIED BONE; ALVEOLAR RIDGE PRESERVATION; HUMAN EXTRACTION
+   SOCKETS; TOOTH EXTRACTION; AUTOLOGOUS BONE; DIMENSIONAL CHANGES; TISSUE
+   ALTERATIONS; BIOACTIVE GLASS; BEAGLE DOG; MAGNESIUM
+ER
+
+PT J
+DE Self-healing; Bitumen; Rejuvenator; Microcapsules; Nano-composite
+ID COMPOSITE MICROCAPSULES; ASPHALT CONCRETE; BITUMEN; PERFORMANCE;
+   STABILITY; CAPSULES; DESIGN
+ER
+
+PT J
+DE Impedance measurement; keratinocytes; nano-patterned porous silicon
+   substrate; wound healing
+ID COLLECTIVE CELL-MIGRATION; CORNEAL EPITHELIAL-CELLS; SCALE TOPOGRAPHY;
+   IN-VITRO; ADHESION; MODEL; BIOMATERIALS; GEOMETRY; ASSAY
+ER
+
+PT J
+DE Fatigue; Healing, rheology; Bituminous mastics; Carbon nanotubes;
+   Nanoclay
+ID DYNAMIC SHEAR RHEOMETER; LAYERED SILICATE NANOCOMPOSITES; ASPHALT
+   MIXTURES; CARBON NANOTUBES; RHEOLOGICAL PROPERTIES; AGING PROPERTIES;
+   ENERGY APPROACH; BINDERS; BITUMEN; BEHAVIOR
+ER
+
+PT J
+DE self-healing core shell fibers; solution blowing nano-/microfibers;
+   adhesion
+ID TOUGHENED EPOXY COMPOSITE; MICROVASCULAR NETWORKS; FATIGUE CRACKS;
+   NANOFIBERS; COATINGS; ADHESION; RETARDATION; POLYMERS; FIBERS; REPAIR
+ER
+
+PT J
+ER
+
+PT J
+DE Nitrocellulose liquid bandage; Wound dressing; Nano porous; Wound
+   healing
+ID POLYMER SURFACES; DRUG-DELIVERY; MACROPHAGES; DIFFERENTIATION;
+   ANGIOGENESIS; REGENERATION; FIBROBLASTS; NEUTROPHIL; EXPRESSION; MATS
+ER
+
+PT J
+ID ENDOTHELIAL-CELL PROLIFERATION; ZNO NANOPARTICLES; SKIN SUBSTITUTES;
+   CROSS-LINKING; ANTIBACTERIAL ACTIVITY; GROWTH-FACTOR; COLLAGEN;
+   NANOFIBERS; BEHAVIOR; BIOCOMPATIBILITY
+ER
+
+PT J
+DE Chitosan Nano-Green Tea; Bio-Nano Particle; Hepatocytes; Transmission
+   Electron Microscope; Scanning Electron Microscope; ImageJ Software
+ID CANCER PREVENTION; LIVER FIBROSIS; CHEMOPREVENTION; GROWTH; IMAGE; MICE
+ER
+
+PT J
+DE Bituminous binders; Carbon nanotubes; Nanoclays; Fatigue; Healing
+ID WALLED CARBON NANOTUBES; ASPHALT MIXTURES; DAMAGE; COMPOSITES;
+   SONICATION; BITUMEN; POLYURETHANE; ENHANCEMENT; MECHANISMS; LIFE
+ER
+
+PT J
+DE Silicate-/borate-based bioactive glass fibers; Glass conversion;
+   Hydroxyapatite formation; Dynamic flow module; Cell
+   proliferation/migration; Soft tissue wound-healing
+ID ANGIOGENIC GROWTH-FACTORS; SIMULATED BODY-FLUID; BONE-FORMATION;
+   CONTROLLABLE DEGRADATION; BOROSILICATE GLASSES; MINERAL METABOLISM;
+   SILICATE 45S5; MAGNESIUM; HYDROXYAPATITE; MECHANISMS
+ER
+
+PT J
+ER
+
+PT J
+ID PERIPHERAL-NERVE REGENERATION; N-CADHERIN; NEURONAL DIFFERENTIATION;
+   NEURITE ALIGNMENT; ADHESION; GROWTH; TOPOGRAPHY; REPAIR; MIGRATION;
+   MYELINATION
+ER
+
+PT J
+ER
+
+PT J
+DE Amyloid hydrogel; Nanofibrils; Self-assembly; Stem cell; Tissue
+   engineering
+ID ASSEMBLED PEPTIDE NANOTUBES; BETA-PROTEIN; ALZHEIMERS-DISEASE;
+   FMOC-DIPHENYLALANINE; ALPHA-SYNUCLEIN; BIOSENSOR APPLICATIONS; NANOFIBER
+   SCAFFOLD; DESIGN; TISSUE; AGGREGATION
+ER
+
+PT J
+DE Bioceramic; Nano; Bioactivity; Biocompatibility
+ER
+
+PT S
+DE Gum tragacanth; Polyvinyl alcohol; Nano-clay; Electrospinning; Tissue
+   engineering; Wound healing
+ID DRUG-DELIVERY; BIONANOTECHNOLOGY; HYDROGELS
+ER
+
+PT J
+ID GRAPHITE OXIDE; STEM-CELLS; SKIN; FILMS; DELIVERY; SHEETS; BONE;
+   DIFFERENTIATION; ADSORPTION; REDUCTION
+ER
+
+PT J
+ID REINFORCED POLYMER COMPOSITE; CORE-SHELL NANOFIBERS; MATRIX; DAMAGE;
+   CATALYST; DESIGN; AMINE; ENCAPSULATION; FABRICATION; METATHESIS
+ER
+
+PT J
+DE Asphalt pavements; induction heating; micro-capsules; microwave
+   absorption; road engineering; self-healing; carbon nanotubes; graphite;
+   silicon dioxide; titanium dioxide
+ID FATIGUE; CONCRETE; MIXTURES; MICROCAPSULES; REJUVENATOR; BEHAVIOR;
+   DAMAGE
+ER
+
+PT J
+ID CHEMICAL-VAPOR-DEPOSITION; METAL NANOPARTICLES; POLYMER NANOCOMPOSITES;
+   REINFORCED COMPOSITES; STRENGTH; LIGHT; CANCER; NANOLITHOGRAPHY;
+   MICROCAPSULES; IRRADIATION
+ER
+
+PT J
+DE Automotive clearcoats; Scratch resistance; Polyhedral oligomeric
+   silsesquioxane nano-structures (POSS); Healing; Thermo-mechanical
+   properties
+ID MECHANICAL-PROPERTIES; MAR RESISTANCE; INTERFACIAL INTERACTION;
+   POLYMERIC COATINGS; MELAMINE; POSS; NANOCOMPOSITES; POLYURETHANE;
+   MORPHOLOGY; NANO-SIO2
+ER
+
+PT J
+ER
+
+PT J
+DE zirconia-stabilized yttria; bone healing; histological changes; rabbits
+ID GRAFT SUBSTITUTES; ZIRCONIA; IMPLANT; BIOMATERIALS; OSTEOBLAST; CERAMICS
+ER
+
+PT J
+ID NMR-SPECTROSCOPY; POLYMERS; NANOCOMPOSITES; DESIGN; NANOPARTICLES;
+   STRATEGY; CLUSTERS
+ER
+
+PT S
+DE Nano Reinforcing Material; Self-healing; Composite Material; Mechanical
+   Properties
+ER
+
+PT J
+DE biomaterial; artificial bone materials; porous n-HA/PA66 composite
+   (n-HA/PA66); bone defects healing; bone grafting
+ID ENGINEERING SCAFFOLD MATERIAL; GRAFT SUBSTITUTES
+ER
+
+PT J
+ER
+
+PT J
+DE Bone Marrow; Ulnar; Bone Nonunion; Nano-Hydroxyapatite
+ID MINERALIZED COLLAGEN; NONUNION; CELLS
+ER
+
+PT J
+DE Chitosan; Nano dressing; Cytotoxicity; In vivo; Wound healing
+ID BIOMEDICAL APPLICATIONS; BLOOD COMPATIBILITY; CYTOTOXICITY; CHITIN;
+   PARTICLES; TOXICITY; HYDROGEL; NANOMATERIALS; PERMEABILITY; MEMBRANES
+ER
+
+PT J
+DE Nanostructures; Hydroxyapatites; Cartilage; Articular; Rabbits
+ID OSTEOCHONDRAL DEFECTS; POROUS HYDROXYAPATITE; HIGH-STRENGTH; IN-VIVO;
+   REPAIR; TISSUE; SCAFFOLD; ZIRCONIA; MODEL; COMPOSITES
+ER
+
+PT J
+DE Dental implants; Osseointegration; Hydroxyapatite; Histomorphometry;
+   Nanotopography; Implant surface; Rabbit study
+ID EARLY BONE-FORMATION; COATED IMPLANTS; IN-VIVO; TITANIUM IMPLANTS;
+   SURFACES; PHOSPHATE; RESPONSES
+ER
+
+PT J
+ER
+
+PT J
+DE antibacterial; bandage; nano ZnO; wound healing; beta-chitin hydrogel
+ID IN-VITRO; BIOMEDICAL APPLICATIONS; DRESSING APPLICATIONS; CHITOSAN;
+   NANOPARTICLES; SCAFFOLDS; KERATINOCYTES; ALGINATE; PROLIFERATION;
+   FIBROBLASTS
+ER
+
+PT S
+DE Crack healing; Copper; Molecular dynamics simulation
+ID CRACK; BEHAVIOR; CERAMICS
+ER
+
+PT J
+DE Self-healing coating; Microcapsule; Nanocapsule; Linseed oil (LO);
+   Corrosion
+ER
+
+PT J
+DE In situ gelling system; Nano-curcumin; Cross-linking; Wound healing; In
+   vivo
+ID HYALURONIC-ACID; DRUG-DELIVERY; NANOPARTICLES; ANTIOXIDANT; ACCELERATOR;
+   MECHANISM; EXTRACT; DISEASE; HEPARIN; CHITIN
+ER
+
+PT J
+ER
+
+PT J
+ID GROWTH-FACTOR COMPLEXES; RED DUROC PIG; COLLOIDAL LITHOGRAPHY;
+   INTERACTIVE DRESSINGS; SURFACE-TOPOGRAPHY; HYPERTROPHIC SCAR; EPITHELIAL
+   TISSUE; CELL-ADHESION; PORE-SIZE; MODEL
+ER
+
+PT J
+ER
+
+PT J
+ID AMPLITUDE OSCILLATORY SHEAR; POLY-L-TYROSINE; CIRCULAR DICHROISM;
+   ABSORPTION SPECTRA; ASSEMBLY SYSTEM; SOFT MATERIALS; GEL FORMATION;
+   DERIVATIVES; FLUIDS; CONFORMATION
+ER
+
+PT J
+DE nano-silver; nano-zirconium; antimicrobial; wound healing; cotton gauze
+ID PHOTOCROSSLINKABLE CHITOSAN HYDROGEL; FIBROBLAST GROWTH FACTOR-2;
+   IMPAIRED DB/DB MICE; ESCHERICHIA-COLI; TEXTILE FABRICS; THIN-FILMS;
+   NANOPARTICLES; IONS; WEAR; DEPOSITION
+ER
+
+PT S
+DE Elastase inhibition; Microspheres; Proteins; Sonochemistry; Wound
+   healing
+ID SERUM-ALBUMIN; DRESSINGS; ELASTASE; INHIBITION
+ER
+
+PT J
+ID MICROPARTICLES; RESOLVINS
+ER
+
+PT S
+DE Al2O3; Nanocomposite; High temperature oxidation resistance; Crack
+   healing; Bending strength; Pulsed electric current sintering; Grain
+   boundary diffusion
+ID CREEP RESISTANCE; AL2O3; ALUMINA; COMPOSITES; DIFFUSION; PARTICLES;
+   BEHAVIOR; YTTRIUM
+ER
+
+PT S
+ID BENDING STRENGTH; COMPOSITE CERAMICS
+ER
+
+PT J
+ID NF-KAPPA-B; FILTERING SURGERY; POTENTIAL APPLICATIONS; TRANSCRIPTION
+   FACTOR; RNA INTERFERENCE; FIBROSIS; DISEASE; CELLS; ENDOPHTHALMITIS;
+   PROLIFERATION
+ER
+
+PT J
+DE Morphine; Solid lipid nanoparticles; Reconstructed full-thickness skin;
+   Wound healing model; UGT2B7; Alternatives to animal experiments
+ID MU-OPIATE RECEPTOR; SKIN PENETRATION ENHANCEMENT; ILIACA COMPARTMENT
+   BLOCK; DELTA-OPIOID-RECEPTOR; HUMAN EPIDERMIS; DRUG-DELIVERY; TOPICAL
+   USE; PARELECTRIC SPECTROSCOPY; GRAFTING PROCEDURES; ANALGESIC EFFICACY
+ER
+
+PT J
+ER
+
+PT S
+DE High-Temperature Oxidation; Crack-Healing; Ni; Al2O3; Hybrid Materials
+ID NI-TOUGHENED AL2O3; DOPED ALUMINA; ALPHA-AL2O3; COMPOSITES; DIFFUSION;
+   BEHAVIOR
+ER
+
+PT S
+DE Al2O3; Nanocomposite; High-temperature oxidation; Crack-healing; Bending
+   strength; Pulsed electric current sintering
+ID GRAIN-BOUNDARY; COMPOSITE; BEHAVIOR
+ER
+
+PT J
+DE high-temperature oxidation; crack healing; nanocomposites; Ni; Al2O3
+ID TOUGHENED AL2O3; DOPED ALUMINA; ALPHA-AL2O3; COMPOSITES; RESISTANCE;
+   DIFFUSION; BEHAVIOR
+ER
+
+PT J
+DE bone defect; nanotopography; nanostructures; hydroxyapatite;
+   osseointegration; in vivo test
+ID CALCIUM-PHOSPHATE; NANOCRYSTALLINE HYDROXYAPATITE; IN-VIVO; OSTEOBLAST
+   ADHESION; NANOPHASE CERAMICS; SURFACES; BEHAVIOR; CELLS; FIBROBLASTS;
+   OSTEOLYSIS
+ER
+
+PT J
+DE angiogenesis; bone healing; goat; hydroxyapatite
+ID CALCIUM-PHOSPHATE; POROUS HYDROXYAPATITE; CERAMIC IMPLANTS; GRAFTS;
+   SUBSTITUTE; PERFORMANCE
+ER
+
+PT J
+DE bactericidal (sterilization) kinetics; biodegradable; chitosan; dermis
+   injury recovery; nano-titanium oxide
+ER
+
+PT J
+DE dental implant; BIC; surface treatment; HA; animal study
+ID BONE; TISSUE
+ER
+
+PT J
+ER
+
+PT J
+DE crack-healing; composites; Al2O3; SiC; strength
+ID FATIGUE-STRENGTH; MECHANICAL-BEHAVIOR; NANOCOMPOSITES; TEMPERATURE;
+   STRESS; ALUMINA
+ER
+
+PT J
+DE self-healing; multi-layer; silica; swelling clay; corrosion phenomena
+ID COMPOSITES
+ER
+
+EF

@@ -1,0 +1,1294 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT B
+DE Augmented Reality; Vuforia SDK; Modeling; Unity3D
+ER
+
+PT J
+DE location based data; augmented reality; architectural design
+ID CONTEXT
+ER
+
+PT J
+DE augmented reality; virtual reality; teacher's candidate; teacher
+   education; ICT
+ID ANATOMY
+ER
+
+PT J
+DE Augmented reality; Virtual reality; New technologies; Real constructs;
+   Possible constructs; Information shadow
+ER
+
+PT J
+DE augmented reality; lumber fact joints; injections; spine; phantom; mixed
+   reality
+ID IMAGE OVERLAY TECHNOLOGY; 1.5 T; VISUALIZATION; SYSTEM; REGISTRATION;
+   PERFORMANCE; NAVIGATION; MODEL
+ER
+
+PT J
+DE immigration; mixed reality; augmented reality; positive technology;
+   integration
+ID AUGMENTED REALITY; SOCIAL NETWORKS; IMMIGRANTS; HOMESICKNESS; PSYCHOLOGY
+ER
+
+PT J
+DE Augmented Reality; Co-Creation; Experiences; Interactivity Marketing;
+   Models; Service-Dominant Logic; Technology
+ID SERVICE-DOMINANT LOGIC; DIALOGUE; TRUST; MOUTH
+ER
+
+PT J
+DE HoloLens; ultrasound; education; augmented reality; virtual reality;
+   simulator
+ID VIRTUAL-REALITY; SIMULATOR; BODY; SKIN
+ER
+
+PT J
+DE augmented reality; neurosurgery; immersive environment
+ID SYSTEM; SIMULATION; NEURONAVIGATION; SURGERY; MODEL
+ER
+
+PT B
+DE Augmented Reality; Virtual Reality; Highway Systems; Project Delivery
+ER
+
+PT B
+DE augmented reality; mobile application; cross-platform engine Unity;
+   advertising booklet; target
+ER
+
+PT B
+DE education; learning; augmented reality
+ID CHALLENGES; SYSTEM
+ER
+
+PT S
+ER
+
+PT S
+DE Augmented reality; Interactive mobile augmented reality application;
+   Advertising domain; Mobile device; Articulated naturality web
+ER
+
+PT S
+DE Mobile robot; Teleoperation; HMD; Oculus Rift; Hololens; Virtual
+   reality; Augmented reality
+ER
+
+PT S
+DE Augmented reality; Mars exploration; Augmenting Mars
+ER
+
+PT J
+DE augmented reality; interactive design; visual communication; user
+   experience
+ID CHILDREN; SYSTEM
+ER
+
+PT S
+DE Mobile terminal; Cloud computing; Augmented reality Image recognition
+ER
+
+PT J
+DE Augmented Reality; Human Heart; Teaching; Biology
+ER
+
+PT J
+DE Kit preparation; Mixed-model assembly; Picking information; Augmented
+   reality
+ID ORDER PICKING; LINE STOCKING; SYSTEMS; FRAMEWORK
+ER
+
+PT J
+ID TRACKING
+ER
+
+PT J
+DE Augmented reality; pervasive augmented reality; context-awareness;
+   adaptivity; context; taxonomy; survey; mixed reality
+ID SYSTEMS; MOBILE; ENVIRONMENT; PERCEPTION; LOCATION; TRACKING; AR
+ER
+
+PT J
+DE Survey; Augmented reality; Laparoscopic surgery
+ID MINIMALLY INVASIVE SURGERY; IMAGE-GUIDED SURGERY; ASSISTED PARTIAL
+   NEPHRECTOMY; SOFT-TISSUE SURGERY; SURFACE RECONSTRUCTION; ENDOSCOPIC
+   SURGERY; NAVIGATION SYSTEM; COMPUTED-TOMOGRAPHY; ROBOTIC SURGERY;
+   3-DIMENSIONAL ULTRASOUND
+ER
+
+PT S
+DE Augmented reality; Learning objects; SCORM; Moodle
+ER
+
+PT S
+DE Augmented reality; Learning objects; E-learning
+ER
+
+PT B
+DE Augmented reality; Mobile augmented reality; Smart materials; Sensors
+   and actuators
+ER
+
+PT B
+DE Halftone Pattern Coding; Augmented Reality Application; Steganography
+ER
+
+PT B
+DE Augmented Reality; Hand Gesture; Tracking; Virtual Objects; Real world
+ER
+
+PT S
+DE Augmented reality analytics; User behavior Analysis; Data Analysis
+ID REALITY
+ER
+
+PT S
+DE Generation Z; shopping experience; virtual reality; augmented reality
+ER
+
+PT B
+DE Augmented Reality; Unity; Vuforia; Learning experience
+ER
+
+PT S
+DE augmented reality; instructional software; instructional design;
+   experiential learning
+ER
+
+PT B
+DE Mixed Reality; Human Computer Interaction; 4R; learnability; usability;
+   Augmented Reality; Immersive environment; Mobile Augmented Reality
+ER
+
+PT S
+DE augmented reality; mobile technologies; project based learning;
+   collaborative learning; online communication
+ER
+
+PT S
+DE augmented reality learning; augmented reality authoring tools;
+   technology-enhanced education
+ER
+
+PT S
+DE Mobile Augmented Reality; Augmented Virtuality; Natural Features
+ID TRACKING; SYSTEM; MIXAR
+ER
+
+PT B
+DE Mediated Reality; Augmented Reality; Wearable Computing; EyeTap; Open
+   Source; Open Innovation; Maker; Developer; Tinkerer; Open Source
+   Community
+ID OPEN-SOURCE SOFTWARE
+ER
+
+PT B
+DE Augmented Reality
+ER
+
+PT B
+DE Augmented Reality; AR; SARO; CARE; Semantic Web; CARE Modeler; Unity
+ID 3D CONTENT; ENVIRONMENTS
+ER
+
+PT B
+DE Augmented reality; virtual reality; immersive learning
+ER
+
+PT S
+DE Augmented reality Sandbo; Geoscience; Experiential Learning; Spatial
+   Cognition
+ER
+
+PT B
+DE Computing methodologies; Mixed / augmented reality; Applied computing;
+   Interactive learning environments; Computing methodologies; Object
+   recognition
+ID DESIGN
+ER
+
+PT B
+DE Mixed reality; computational thinking; curriculum contents; Unity
+   engine; watershed
+ID COMPUTATIONAL THINKING; STUDENTS
+ER
+
+PT J
+DE augmented reality; teaching materials; musical ensemble; independent
+   learning
+ER
+
+PT S
+ID DRIVE
+ER
+
+PT B
+DE Augmented Reality; Mobile Applications; Cognitive Computing; Smart
+   E-Commerce
+ER
+
+PT B
+DE Augmented Reality; pervasive computing; the Web of Things; the Web of
+   Augmented Things
+ID REALITY; CHALLENGES; VISION
+ER
+
+PT B
+DE Embodied Cognition; Embodiment; Children; Interaction Design;
+   Physicality; Tangible Interfaces; Augmented Reality; Education;
+   Teaching; Pedagogy
+ER
+
+PT B
+DE Augmented Reality; Mechanical Engineering; Software
+ID DESIGN; FRAMEWORK; TRACKING; DEVICES
+ER
+
+PT B
+DE Augmented Reality (AR); Marker based augmented Reality (MAR); Conceptual
+   Schooling; Augmented Reality Technique
+ER
+
+PT J
+ID IMAGE-GUIDED SURGERY; MINIMALLY INVASIVE SURGERY; SENTINEL NODE BIOPSY;
+   NAVIGATION SYSTEM; LAPAROSCOPIC SURGERY; ENDOSCOPIC SURGERY;
+   MAXILLOFACIAL SURGERY; PARATHYROID ADENOMAS; CLINICAL-APPLICATION;
+   PULSATILE MOTION
+ER
+
+PT S
+DE Mixed Reality; Augmented Reality; HMD; 3D Interaction
+ER
+
+PT S
+DE 3D Interaction; Augmented Reality; Mobile
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+DE Augmented Reality; literature review; trends of Augmented Reality
+ID SCIENCE LABORATORIES; INQUIRY ACTIVITIES; LEARNING-SYSTEM; INSTRUCTION;
+   MUSEUM; TECHNOLOGY
+ER
+
+PT J
+DE Augmented Reality; Emergency Management; Hands-Free; Healthcare;
+   ICTH-2015; Rescue
+ID MIXED REALITY
+ER
+
+PT S
+DE Augmented reality; Location-based AR; Geo-based AR; AR-SDK
+ER
+
+PT B
+DE Virtual Reality; Augmented Reality; Content curation
+ER
+
+PT J
+ID DRIVING BEHAVIORS
+ER
+
+PT J
+DE Augmented Reality; Smart Classrooms; Multiagent Systems
+ID EDUCATION
+ER
+
+PT J
+DE Augmented reality; Instructional media; Manual task; Comparative test
+ID MAINTENANCE; DESIGN
+ER
+
+PT J
+DE Spatial augmented reality; sleep deprivation; procedural task
+   performance
+ID DECISION-MAKING; SHIFT WORK; PERFORMANCE; NIGHT; IMPACT; RESTRICTION;
+   MODAFINIL; FATIGUE; SYSTEMS; TASKS
+ER
+
+PT J
+DE Philosophy; Augmented reality; Ubiquitous computing; Phenomenology;
+   Post-phenomenology; Philosophy of technology
+ID SCIENCE; NOEMA
+ER
+
+PT J
+DE Augmented reality; Virtual reality; Computer-mediated communication;
+   Avatar
+ER
+
+PT B
+DE Augmented Reality; Interation; Leap Motion; Marker-less; Interaction
+   Framework; Hand Detection
+ER
+
+PT J
+DE Building Information Modelling; Virtual Reality; Augmented Reality;
+   Artificial Vision
+ID AUGMENTED REALITY
+ER
+
+PT B
+DE Augmentd Reality; Photogrammetry; Virtual Reality Headset; 3D
+   reconstruction
+ER
+
+PT S
+DE Augmented reality; Mixed reality; Gaming; User experience; Museum
+ER
+
+PT S
+DE mobile augmented reality; mobile HCI; marker design
+ER
+
+PT S
+DE Augmented reality; virtual reality; mixed reality; augmented reality
+   books; printed books
+ER
+
+PT B
+ER
+
+PT B
+DE Augmented Reality; Virtual Reality; Mixed Reality; Cloud; NDT; Remote
+   Maintenance; Robot Maintenance; Wearable Maintenance Gadgets
+ID VIRTUAL-REALITY; ENVIRONMENTS
+ER
+
+PT S
+DE Augmented reality; Classroom teaching; Interactivity; Application
+ER
+
+PT B
+DE agents; augmented reality; learning; review
+ID SYSTEM; HERITAGE; USER
+ER
+
+PT J
+DE augmented reality; tracking systems; mobile device; network streaming;
+   client-server architecture
+ER
+
+PT S
+DE Augmented Reality; Sensors; Galileo; Photogrammetry
+ER
+
+PT J
+DE augmented reality; 3D medical imaging; radiology; depth perception
+ID ADVANCED BREAST-CANCER; CT ANGIOGRAPHY; TOMOSYNTHESIS; CHEMOTHERAPY;
+   RESOLUTION; TRIAL
+ER
+
+PT S
+DE Block Puzzle Education System; Educations using Augmented Reality;
+   Enhance Learning Effects; Creativity of Infants
+ER
+
+PT S
+DE Collaborative design; Mobile augmented reality; Protocol analysis
+ER
+
+PT S
+DE Touchless interface; Freehand interaction; Wearable augmented reality;
+   Depth ray; SQUAD
+ID VIRTUAL ENVIRONMENTS; SELECTION
+ER
+
+PT B
+DE augmented reality; augmented reality materials; augmented reality
+   learning; English teaching
+ER
+
+PT B
+DE Augmented Reality; Cognition; Virtual Data; Virtual Information
+ER
+
+PT S
+DE Mobile augmented reality application; Experiential marketing; Usability;
+   Mobile-specific heuristic evaluation
+ER
+
+PT S
+DE Augmented reality; in-vehicle; head-up display; forward collision
+   warning; lane change guide information
+ID SAFETY; SYSTEM
+ER
+
+PT S
+DE H.5.1 [Information Interfaces and Presentation (e.g., HCI)]: Multimedia
+   Information Systems-Artificial, augmented and virtual realities; I.3.7
+   [Computer Graphics]: Three-Dimensional Graphics and Realism-Virtual
+   reality
+ID PERFORMANCE; DISPLAY; LATENCY; DESIGN; TASKS
+ER
+
+PT B
+DE augmentedreality; augmented reality materials; augmented reality
+   learning; English teaching
+ER
+
+PT J
+ER
+
+PT J
+DE Mobile augmented reality; mobile devices; render; mobile computation
+   offloading
+ID GUIDE
+ER
+
+PT J
+DE Augmented reality; displays; integral imaging; micro display; 3D display
+ID HEAD-MOUNTED DISPLAY; RESOLUTION LIMITATION; DEPTH; FIELD;
+   VISUALIZATION; PHOTOGRAPHY; LENS
+ER
+
+PT J
+DE Design; Experimentation; Human Factors; Auditory display; spatial sound;
+   localization; distance perception
+ID PERCEPTION; NAVIGATION; SPEECH; NOISE
+ER
+
+PT S
+DE Virtual Reality; Augmented Reality; Motor and Cognitive Disabilities
+ER
+
+PT B
+DE virtual and augmented reality; learning about inquiry; learning to do
+   inquiry; practitioner research
+ER
+
+PT B
+DE Augmented Reality; Deformation; Cutting; Tearing; H.5.1 [Information
+   Interfaces and Presentation]: Multimedia Information Systems;
+   Artificial, augmented, and virtual realities; I.3.5 [Computer Graphics]:
+   Computational Geometry and Object Modeling; Physically based modeling
+ID MODELS
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT S
+DE augmented reality; mobile technologies; iOS; smart environments; smart
+   classrooms
+ER
+
+PT S
+DE Phenomenology; Intersubjectivity; Augmented Reality; Paramount Reality;
+   Lifeworld; Husserl; Schutz; H.1.2 [Information Systems]: Models and
+   Principles; User/Machine Systems; I.2.0 [Computer Application]: Social
+   and Behavioural Sciences; Psychology
+ID REALITY; DEPICTION
+ER
+
+PT B
+DE Design collaboration; augmented reality; visualization
+ER
+
+PT S
+DE augmented reality; gamification; learning strategies; experiential
+   learning
+ID GUIDANCE
+ER
+
+PT S
+ER
+
+PT B
+DE augmented reality; projection; angular velocity sensor
+ID AUGMENTED REALITY
+ER
+
+PT B
+DE Augmented Reality; 3D Applications; Window Management
+ER
+
+PT S
+DE Augmented reality; Art; Sculpture; Perlin noise
+ID MIXED REALITY
+ER
+
+PT S
+DE Virtual Reality; Augmented Reality; Camera Calibration; 3D Human
+   Interaction
+ER
+
+PT B
+ER
+
+PT S
+ID INFORMATION VISUALIZATION
+ER
+
+PT S
+DE Augmented Reality (AR); Mobile Augmented Reality (HAR); Cloud Computing
+ER
+
+PT S
+DE educational content; electronic educational recourses; augmented
+   reality; 3D; exciting reality; virtual lessons; virtual laboratories
+ER
+
+PT S
+DE Augmented reality; Pipeline prospect; ARGIS; Neural network
+ID FEATURES; TRACKING; MODEL
+ER
+
+PT S
+DE H.5.1 [Multimedia Information Systems]: Artificial; Augmented; Virtual
+   Realities; Life Cycle
+ER
+
+PT S
+DE Augmented Reality; modelling; maintenance; training
+ER
+
+PT S
+DE Autism spectrum disorder; Augmented reality; Augmented and alternative
+   communication; Human-computer interaction
+ID EXCHANGE COMMUNICATION-SYSTEM; JOINT ATTENTION; ACQUISITION; PARENTS;
+   SKILLS
+ER
+
+PT S
+ER
+
+PT S
+DE Augmented Reality; Virtual Reality; Interaction; Art Works
+ER
+
+PT S
+DE Balinese folklore; Miths; Legends; Augmented reality story book; Android
+ER
+
+PT S
+DE Augmented book; User evaluation; Augmented reality; Computer graphics
+ER
+
+PT S
+DE Spatial augmented reality; Pointing devices
+ER
+
+PT S
+ID INTERFACES
+ER
+
+PT S
+DE Mobile semantic web; Augmented reality; Data integration; Ontology
+ID ENTITY RESOLUTION; INTEGRATION
+ER
+
+PT S
+DE Sensor; Mobile; Device; Embedded; Augmented; Reality
+ID SENSOR NETWORK; SYSTEM
+ER
+
+PT S
+DE EUD; End-User Development; AR; Augmented reality; Adaptive systems; AAR;
+   Adaptive Augmented Reality
+ID REALITY
+ER
+
+PT J
+ID VIRTUAL-REALITY; EATING-DISORDERS; COGNITIVE IMPAIRMENTS; EMOTIONAL
+   RESPONSES; COCKROACH PHOBIA; SPIDER PHOBIA; SMALL ANIMALS; SYSTEM;
+   EXPOSURE; ANXIETY
+ER
+
+PT S
+DE Augmented Reality; Cloud; Cloud plugin; Augmented Reality browser
+ER
+
+PT B
+DE Augmented Reality; Augmented Reality technologies; challenges; AR
+   acceptance
+ER
+
+PT J
+DE augmented reality; socio-political; India; global
+ER
+
+PT J
+DE Augmented reality; mobile game; user engagement
+ER
+
+PT S
+DE Augmented Reality; ATC Surveillance; Airport Tower; Safety Assessment
+ER
+
+PT J
+ER
+
+PT J
+DE Augmented reality; Systematic review; Trends of AR; Personalization;
+   Inclusive learning in augmented reality
+ID INSTRUCTION; EXPERIENCES; STUDENTS
+ER
+
+PT J
+ER
+
+PT J
+DE Augmented reality; Library management; Mobile computing; Agent
+   programming; Context-aware
+ID INFORMATION; AGENTS; USER
+ER
+
+PT J
+DE Augmented reality; error analysis; mirror metaphor augmented reality;
+   reflective half-mirror displays; registration error
+ER
+
+PT S
+DE Augmented reality; adaptive systems; information visualization; system
+   architecture
+ID HYPERMEDIA
+ER
+
+PT B
+DE augmented reality game; augmented public space; art game; augmented
+   urban space; hybrid space
+ER
+
+PT S
+DE Augmented reality; enhanced reality; mediated reality; visual
+   perception; information; education
+ER
+
+PT B
+DE Augmented Reality; Ethics; Information Ethics; Information Systems;
+   Mixed Reality
+ER
+
+PT B
+DE Media Psychology; Psychology; Cognitive; Augmented Reality; Immersive
+   Technology; Privacy; Singularity; Ownership; Facial Recognition; Ethics
+ER
+
+PT B
+DE Augmented Reality; Mathematics; Geometry Application; OpenCV
+ER
+
+PT S
+DE Augmented reality; Industrial shop-floor; Assembling; Oculus rift
+ER
+
+PT S
+DE Augmented Reality; Heuristics; ISO 9241-11; Usability; Usability
+   Inspection
+ID USABILITY
+ER
+
+PT B
+ER
+
+PT S
+DE H. 5.1 [Information Interfaces and Presentation]: Multimedia Information
+   Systems-Artificial, augmented, and virtual realities
+ER
+
+PT S
+DE Autostereoscopy; mobile devices; depth perception; augmented reality;
+   user study; H.5.1 [Information Interfaces and Presentation]: Multimedia
+   Information Systems-Artificial, augmented, and virtual realities; H.5.2
+   [Information Interfaces and Presentation]: User Interfaces-Ergonomics
+ER
+
+PT S
+DE Mixed/Augmented Reality; Displays and Imagers; Computer Vision;
+   Interaction Techniques; H.5.1 [Multimedia Information Systems]:
+   Artificial, augmented, and virtual realities; H.5.2 [User Interfaces]:
+   Interaction Styles; I.4.0 [Image Processing and Computer Vision]:
+   General; Image Displays
+ER
+
+PT S
+DE QR code; Interaction; Augmented Reality; H.5.1 [Information Interfaces
+   and Presentation] : Multimedia Information Systems; artificial,
+   augmented, and virtual realities
+ER
+
+PT S
+DE In-situ authoring; modeling; augmented reality; gesture recognition;
+   interaction
+ER
+
+PT B
+DE SaaS; Augmented reality; OCR; Image Processing
+ER
+
+PT S
+DE Intelligent Tourist Guide Application; Augmented Reality; Android Smart
+   Phone; GPS
+ER
+
+PT B
+DE augmented reality; computer aided design; markerless tracking; virtual
+   manufacturing
+ID MAINTENANCE
+ER
+
+PT S
+DE Metadata; Augmented Reality; Schema; Information Processing
+ER
+
+PT S
+DE interactive narrative; augmented reality; digital games
+ID VIRTUALITY
+ER
+
+PT B
+DE augmented reality; exercise; game; architecture
+ER
+
+PT S
+DE Augmented Reality; Molding tool; Assembly
+ER
+
+PT B
+DE Augmented Reality; M-learning; hybrid urban space
+ER
+
+PT S
+DE augmented reality; spatial skills; mobile devices; engineering graphics
+ID ABILITY
+ER
+
+PT B
+DE Immersive Augmented Reality; Smart Education; Edutainment; Augmented
+   Reality; Interactive Learning
+ER
+
+PT B
+DE augmented reality; deaf children; ARToolkit
+ER
+
+PT S
+DE teleoperation; simulator; augmented reality; virtual fixtures; 3D
+   sensing and modeling
+ER
+
+PT J
+DE usability; augmented reality; mobile applications; mobile computing;
+   user experience; user interfaces
+ER
+
+PT J
+DE Data Analysis and Techniques; Tutorial
+ID FIELD SPECTROGRAPH WIFES; EDUCATION; ASTRONOMY; TECHNOLOGY
+ER
+
+PT J
+DE Context immersion; Augmented reality; Ubiquitous computing; Mobile
+   computing; Embodied interaction
+ID VIRTUAL ENVIRONMENTS
+ER
+
+PT S
+DE Educational; Augmented Reality; Unity; Vuforia; 3D; IoS; Android; Mobile
+ER
+
+PT S
+DE Augmented Reality; Mobile Learning; Cloud Computing
+ER
+
+PT S
+DE Augmented Reality; E-Commerce; real-time interaction; three-dimensional
+   display
+ER
+
+PT S
+DE augmented reality; AR-aided design; interior design; architecture; HCI
+ER
+
+PT S
+DE Augmented Reality; Classroom Communication System
+ER
+
+PT S
+DE augmented reality; augmented reality learning experience; authoring;
+   learning object; participatory design
+ER
+
+PT B
+DE metrology; virtual reality; augmented reality; surface morphology
+ER
+
+PT S
+DE Augmented reality; Mexican Secondary Education; Mobile computing
+ER
+
+PT B
+DE Cloud Computing; Augmented Reality; Mobile Device; Android System
+ID AUGMENTED REALITY
+ER
+
+PT S
+DE H.5.1 [Information Interfaces and Presentation]: Artificial, Augmented,
+   Virtual Realities; I.4.8 [Image Processing and Computer Vision]:
+   Photometric registration-3D Reconstruction; I.3.3 [Computer Graphics]:
+   Image Generation; Ray Tracing-Spherical Harmonics
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT S
+DE Mobile augmented reality; agriculture; technical framework; key
+   technology
+ER
+
+PT S
+DE Outdoor Augmented Reality; Underground Visualization; X-Ray
+   Visualization; Multi-View Augmented Reality
+ER
+
+PT B
+DE Spatial Augmented Reality; User Interfaces; Architecture
+ER
+
+PT B
+DE Augmented reality; Virtual reality; Smart phone; 3D modeling; Museum
+ER
+
+PT B
+DE Contextual QR Code; Augmented Reality; Ubiquitous computing
+ER
+
+PT S
+DE Picture Postcards; Augmented Reality; Emotional Expression
+ER
+
+PT S
+DE Augmented Reality; Perspective helmet-mounted display; visual
+   registration; affine transformation
+ER
+
+PT S
+DE augmented reality; Interaction promotional content; QCAR
+ER
+
+PT B
+DE Augmented Reality; Occlusion between Virtual Scene and Real Object;
+   Occlusion Recovery
+ER
+
+PT S
+DE augmented reality; humain-interaction machine; speech recognition
+   system; wavelet networks
+ER
+
+PT S
+DE Augmented Reality; AR; Pedagogy; Mobile; Design Based Learning; Higher
+   Order Thinking
+ID DESIGN
+ER
+
+PT B
+DE Mobile Augmented Reality; Outdoor Illumination; Real-time Rendering
+ID PRECOMPUTED RADIANCE TRANSFER; SHAPE
+ER
+
+PT B
+DE 3D; virtual reality; VR; augmented reality; AR; human augmentation;
+   augmented human; AH; cyborg; telexistence; A.1 [INTRODUCTORY AND
+   SURVEY]; 1.2.9 [Robotics]: Operator interfaces; 1.3.7 [Three-Dimensional
+   Graphics and Realism]: Virtual reality; H.4.3 [Communications
+   Applications]: Computer conferencing, teleconferencing, and
+   videoconferencing
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ID INFORMATION
+ER
+
+PT S
+DE Collaborative mixed/augmented reality; referencing technique
+ER
+
+PT S
+DE Augmented reality; interactive book with augmented reality; educational
+   software
+ER
+
+PT S
+DE Augmented reality; mobile computing; application framework
+ER
+
+PT S
+DE Landscape simulation; augmented reality; mobile device; virtual reality
+ER
+
+PT J
+DE immersive learning games; augmented reality; augmented virtuality
+ER
+
+PT S
+DE Mobile Learning; Mobile Augmented Reality; Mobile Applications and
+   Android Augmented Reality
+ER
+
+PT B
+DE Augmented Reality; Visual SLAM; Outdoor User Tracking
+ER
+
+PT B
+DE Augmented reality; interactive book with augmented reality; educational
+   software
+ER
+
+PT S
+DE Geographic Information System(GIS); Augment Reality(AR); Augment Reality
+   Geographical Information System(ARGIS); Intelligent Transport
+   Systems(ITS)
+ER
+
+PT S
+DE Augmented reality; virtual; locative; public art; collective;
+   intervention; global; international
+ER
+
+PT S
+ER
+
+PT S
+ID MODEL
+ER
+
+PT S
+DE Augmented Reality; Computer Vision; Visual Tracking; Survey
+ID INVARIANT; FEATURES
+ER
+
+PT B
+DE augmented reality; tour; navigation
+ER
+
+PT J
+DE Augmented reality; Rapid prototyping; Software framework
+ER
+
+PT J
+DE augmented reality; mixed reality; virtual reality; visualisation
+ID CONTROLLED-TRIAL; GASTROINTESTINAL ENDOSCOPY; IMAGE OVERLAY; SIMULATOR;
+   SURGERY; SYSTEM; PERFORMANCE; CALIBRATION; NAVIGATION; PLACEMENT
+ER
+
+PT J
+DE augmented reality; virtual object; help; guide; simulator
+ID FIDELITY SIMULATION; NEUROREHABILITATION; PERSPECTIVE; DISPLAYS; SURGERY
+ER
+
+PT S
+DE Augmented Reality; Computer Vision; E-Commerce
+ER
+
+PT S
+DE Augmented Reality; Image Processing; Marker; Neural Network; Mobile
+   Devices
+ER
+
+PT S
+ER
+
+PT S
+DE augmented reality; diminished reality; physically-based simulation
+ER
+
+PT S
+DE depth perception; augmented reality; optical see-through display; x-ray
+   vision
+ER
+
+PT J
+DE Augmented reality; Augmented reality technologies; Augmented reality
+   systems; Augmented reality applications; Augmented reality iphone4; AR;
+   Augmented reality on mobile devices
+ID MOBILE
+ER
+
+PT B
+DE Augmented Reality; Maintenance operations
+ID TECHNOLOGY
+ER
+
+PT S
+DE augmented reality; brain-machine interface; wearable systems
+ID SIGNAL
+ER
+
+PT S
+DE Augmented Reality; Motion Capture; Virtual Characters
+ER
+
+PT S
+DE Augmented reality; interaction; augmented mirror
+ER
+
+PT B
+DE Intelligent tutoring systems; Augmented reality; Adaptive systems;
+   Virtual agents
+ER
+
+PT S
+ER
+
+PT J
+DE augmented reality (AR); smartphone; virtual reality (VR); point of
+   interest (POI); 3D
+ER
+
+PT B
+ID SPACE
+ER
+
+PT J
+ER
+
+PT S
+DE Context-Aware; Augmented reality; Gravity sensor; u-Healthcare;
+   Monitoring system; Service contents
+ER
+
+PT B
+DE augmented reality; 3D user interface
+ER
+
+PT S
+DE Mixed Reality; Augmented Reality; Mirror Worlds
+ER
+
+PT S
+DE Augmented Reality; Virtual Reality; Education
+ER
+
+PT J
+DE API specification; Augmented reality; Location-based services; Games;
+   Mobile technology
+ER
+
+PT B
+DE Education; Augmented Reality; Mixed Reality; Mobile Entertainment; user
+   interaction; wireless; web-service; editor; design
+ER
+
+PT S
+ER
+
+PT B
+ID HEAD-MOUNTED DISPLAY; H.264/AVC
+ER
+
+PT S
+ER
+
+PT B
+DE augmented reality; ubiquitous computing; wireless sensor networks
+ER
+
+PT S
+DE Art; Ludic; Installation; Virtual; Augmented; Reality
+ER
+
+PT S
+DE Augmented Reality; E-maintenance; Global Maintenance Platform; Task
+   tree; IRVO Modelling
+ER
+
+PT S
+DE Transversal dramaturgy; embodied interaction; audio augmented reality;
+   spatialized sound; Ambisonics; immersion; audio-plays; virtuality
+ER
+
+PT S
+DE Augmented Reality; Usability; Head-mounted displays; Trackers; Immersion
+ID SYSTEM
+ER
+
+PT S
+DE Tangible Augmented Reality; Tangible User Interface; Augmented Reality;
+   virtual environment; tangible interaction
+ER
+
+PT S
+DE Augmented reality; Virtual environment; Rare books and manuscripts;
+   Tangible User Interface
+ID VIRTUALITY
+ER
+
+PT J
+DE Logistics; Order picking; Process planning; Virtual Reality; Augmented
+   Reality
+ER
+
+PT S
+DE H.5.1 [Information interfaces and presentation]: Multimedia Information
+   systems; Artificial, augmented, and virtual realities
+ER
+
+PT S
+DE Augmented reality; tracking; interaction; calibration and registration;
+   AR application; AR display
+ER
+
+PT S
+DE stiffness modulation; haptic augmented reality; mixed reality
+ID SYSTEM; TOUCH
+ER
+
+PT S
+DE Augmented Reality; serious game; edutainment
+ER
+
+PT B
+DE remote control; Internet; augmented reality
+ER
+
+PT B
+DE augmented reality; communication and interaction
+ER
+
+PT B
+DE virtual and augmented reality; mechanism; simulation
+ER
+
+PT B
+DE remote control; Internet; augmented reality
+ER
+
+PT S
+DE augmented reality; visualization; ARToolKit; virtual reality
+ER
+
+PT B
+DE collaborative augmented reality environments; augmented reality; virtual
+   reality; educational applications
+ER
+
+PT S
+DE augmented reality; AR streaming; AR/MR user interface
+ER
+
+PT S
+DE augmented reality; usability engineering; formative evaluation; geometry
+   education
+ID GEOMETRY EDUCATION
+ER
+
+PT S
+ER
+
+PT J
+DE augmented reality; augmented reality authoring; media art; physical
+   programming
+ID AUGMENTED-REALITY
+ER
+
+PT S
+DE augmented reality; collaboration; user interfaces; registration
+ER
+
+PT B
+DE mobile interfaces; augmented and virtual environments; virtual tours;
+   human-computer interaction
+ER
+
+PT S
+DE Augmented Reality; virtuality; reality; perceptual reality; second-order
+   reality; possible world theory
+ER
+
+PT S
+DE augmented reality; video object tracking; surface marker; head and face
+   tracking
+ER
+
+PT S
+ER
+
+PT S
+DE outdoor augmented reality; optical see-through display; text drawing
+   styles; background textures
+ID LUMINANCE CONTRAST; DISPLAYS
+ER
+
+PT J
+ER
+
+PT J
+ID DISPLAY
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT B
+DE augmented reality; safe; secure and reliable society; hazard information
+   display
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT S
+DE augment reality; 3D registration; projection algorithm
+ER
+
+PT J
+ID IMAGE REGISTRATION
+ER
+
+PT B
+DE authoring augmented realities; prototyping
+ER
+
+PT S
+ER
+
+PT S
+DE augmented reality; wearable computing; usability engineering; virtual
+   reality; domain analysis; HCI
+ER
+
+PT J
+ER
+
+EF

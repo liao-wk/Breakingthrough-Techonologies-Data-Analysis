@@ -1,0 +1,351 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,probabilistic,10,probabilistic,30
+1,reliability,8,reliability,27
+2,performance,5,performance,15
+3,network-on-chip (noc),3,fpga,11
+4,fpga,3,network-on-chip,10
+5,chip-seq,3,scheduling,9
+6,scheduling,3,network-on-chip (noc),8
+7,data,3,real-time,8
+8,network-on-chip,3,chip-seq,8
+9,surface roughness,3,mpsoc,8
+10,degradation,2,data,8
+11,real-time,2,surface roughness,8
+12,system-on-chip,2,energy,7
+13,motif,2,failure,7
+14,dna,2,design,7
+15,mpsoc,2,degradation,6
+16,stt-mram,2,dna,6
+17,fairness,2,stt-mram,6
+18,bayesian network,2,real-time systems,6
+19,real-time systems,2,genome,6
+20,energy,2,task,6
+21,genome,2,solder joint,6
+22,task,2,failure probability,6
+23,failure,2,cte,6
+24,design space exploration,2,dnp,6
+25,probabilistic design,2,form,6
+26,grinding,2,sorm,6
+27,noise,2,in vitro,5
+28,design,2,in vivo,5
+29,transcription factor binding sites,2,extrapolation,5
+30,wormhole switching,1,pbpk,5
+31,power-gating (pg),1,benchmark dose,5
+32,shift-add multiplier,1,computational,5
+33,bz-fad,1,fairness,5
+34,switching activity,1,embedded system,5
+35,parallel prefix adder,1,reconfiguration,5
+36,embedded factor graph,1,co-design,5
+37,hardware accelerator,1,probabilistic design,5
+38,gene regulatory networks,1,grinding,5
+39,maximal information coefficient,1,noise,5
+40,conditional,1,transcription factor binding sites,5
+41,mechanochemistry,1,system-on-chip,4
+42,depolymerization,1,motif,4
+43,wear-induced,1,bayesian learning,4
+44,arbiter physical unclonable function (puf),1,incremental learning,4
+45,delay fault,1,fuzzy artmap,4
+46,diagnostic,1,opencl,4
+47,long-range (lora),1,parallel,4
+48,low-power wide-area (lpwa),1,trng,4
+49,fingerprint algorithm,1,thermal noise,4
+50,embedded image processing,1,pvt variations,4
+51,line segment detector,1,probabilistic switches,4
+52,ink drop spread (ids) operator,1,pcmos,4
+53,radial basis function (rbf),1,bayesian network,4
+54,multivariate gaussian mixture model (mvgmm),1,fifo buffers,4
+55,multivariate linear,1,in-field test,4
+56,association,1,noc,4
+57,cancer-cell-line,1,permanent fault,4
+58,drug-sensitivity,1,transparent test,4
+59,complex,1,proteins,4
+60,discrete factor graph,1,microarrays,4
+61,population coding,1,multi-core,4
+62,in vitro,1,task partitions,4
+63,in vivo,1,harmonic,4
+64,extrapolation,1,many-core,4
+65,pbpk,1,mapping,4
+66,benchmark dose,1,memory constraint,4
+67,computational,1,design space exploration,4
+68,active vision,1,hitting time,4
+69,dynamic reconfiguration,1,random walk,4
+70,embedded vision systems,1,reliable,4
+71,anomaly detection,1,embedded systems,4
+72,general purpose graphics processing unit (gpgpu),1,displacement,4
+73,efficient high-quality object proposal,1,finite element,4
+74,object detection,1,interconnects,4
+75,sequential,1,shift-add multiplier,3
+76,bayesian learning,1,bz-fad,3
+77,incremental learning,1,switching activity,3
+78,fuzzy artmap,1,parallel prefix adder,3
+79,opencl,1,embedded factor graph,3
+80,parallel,1,hardware accelerator,3
+81,analog circuit,1,mechanochemistry,3
+82,interval arithmetic,1,depolymerization,3
+83,process variations,1,wear-induced,3
+84,satisfiability,1,embedded image processing,3
+85,digital microfluidics,1,line segment detector,3
+86,error recovery,1,association,3
+87,micro-electrode-dot-array(meda),1,cancer-cell-line,3
+88,formal verification,1,drug-sensitivity,3
+89,data dynamics,1,complex,3
+90,hybrid automata,1,analog circuit,3
+91,hypertension,1,interval arithmetic,3
+92,cost-effectiveness analysis,1,process variations,3
+93,health disparities,1,satisfiability,3
+94,primary,1,formal verification,3
+95,deep learning,1,data dynamics,3
+96,neural network applications,1,hybrid automata,3
+97,discrete state transition,1,hypertension,3
+98,dielectrophoresis,1,cost-effectiveness analysis,3
+99,cytometry,1,health disparities,3
+100,microfluidics,1,primary,3
+101,lab-on-chip,1,dielectrophoresis,3
+102,trng,1,cytometry,3
+103,thermal noise,1,microfluidics,3
+104,pvt variations,1,lab-on-chip,3
+105,probabilistic switches,1,bank conflicts,3
+106,pcmos,1,bank group conflicts,3
+107,bank conflicts,1,duplication,3
+108,bank group conflicts,1,set-associative,3
+109,duplication,1,iot security,3
+110,set-associative,1,puf,3
+111,flexible transmission systems,1,hardware security,3
+112,coherent systems,1,cracking models,3
+113,iot security,1,crack initiation,3
+114,puf,1,crack progression,3
+115,hardware security,1,multilevel models,3
+116,online learning,1,hybrid main memory,3
+117,probabilistic spiking neural network,1,flat migrating organization,3
+118,crossbar architecture,1,uncertain reasoning,3
+119,convolutional neural networks,1,conditionals,3
+120,neural network,1,conditional events,3
+121,cracking models,1,coherent,3
+122,crack initiation,1,dram,3
+123,crack progression,1,row-hammering,3
+124,multilevel models,1,refresh,3
+125,hybrid main memory,1,copper (cu),3
+126,flat migrating organization,1,electromigration (em),3
+127,probabilistic graphical model,1,lognormal,3
+128,causal effects,1,power grid,3
+129,uncertain reasoning,1,markov random field (mrf),3
+130,conditionals,1,ultra-low voltage,3
+131,conditional events,1,noise immunity,3
+132,coherent,1,alignment and coupling,3
+133,embedded system,1,hough transform,3
+134,reconfiguration,1,least squares algorithm,3
+135,co-design,1,line,3
+136,dram,1,markov chain,3
+137,row-hammering,1,logistic regression,3
+138,refresh,1,pavement surface distress,3
+139,mixed criticality systems,1,asphalt,3
+140,semiconductor device reliability,1,bioinformatics,3
+141,reliability engineering,1,classification,3
+142,copper (cu),1,expectation maximization,3
+143,electromigration (em),1,networks-on-chip,3
+144,lognormal,1,routing algorithm,3
+145,power grid,1,fault-tolerant routing,3
+146,markov random field (mrf),1,next generation sequencing,3
+147,ultra-low voltage,1,transcription factor,3
+148,noise immunity,1,ranking,3
+149,artificial nose,1,cytomorphic,3
+150,colorimetric sensor,1,molecular circuits,3
+151,machine learning,1,quantitative cellular models,3
+152,alignment and coupling,1,reaction,3
+153,hough transform,1,hard real-time,3
+154,least squares algorithm,1,wcet,3
+155,line,1,static probabilistic analysis,3
+156,markov chain,1,faulty caches,3
+157,logistic regression,1,core mapping,3
+158,pavement surface distress,1,multiprocessor systems on chip (mpsoc),3
+159,asphalt,1,synthesis,3
+160,bioinformatics,1,physics of failure (pof),3
+161,classification,1,power electronic modules,3
+162,expectation maximization,1,error correction,3
+163,selection,1,probabilistic switching,3
+164,regression,1,penetration rate,3
+165,probabilistic timed automata,1,fracture,3
+166,timed markov decision process,1,probabilistic numerical approach,3
+167,imca model,1,dfn-dem,3
+168,spiking neural networks,1,deadlock,3
+169,liquid state machines,1,probabilistic odd-even routing,3
+170,time series forecasting,1,routing,3
+171,networks-on-chip,1,wafer-dicing,3
+172,routing algorithm,1,damages,3
+173,fault-tolerant routing,1,bare-chip assemblies,3
+174,fifo buffers,1,data mining,3
+175,in-field test,1,expert systems,3
+176,noc,1,probabilistic rules,3
+177,permanent fault,1,semiconductor market,3
+178,transparent test,1,electronic package,3
+179,probabilistic matrix factorization algorithm,1,fatigue life,3
+180,collaborative filtering,1,availability,3
+181,next generation sequencing,1,built-in tests,3
+182,transcription factor,1,error-checking,3
+183,ranking,1,fault tolerance,3
+184,proteins,1,modelling,3
+185,microarrays,1,grinding zone,3
+186,cytomorphic,1,gene regulatory network,3
+187,molecular circuits,1,data integration,3
+188,quantitative cellular models,1,gene expression,3
+189,reaction,1,chip,3
+190,hard real-time,1,color naming,3
+191,wcet,1,image annotation,3
+192,static probabilistic analysis,1,image retrieval,3
+193,faulty caches,1,probabilistic latent,3
+194,core mapping,1,burnishing processing,3
+195,multiprocessor systems on chip (mpsoc),1,rigid burnishing,3
+196,synthesis,1,markov processes,3
+197,physics of failure (pof),1,queues,3
+198,power electronic modules,1,arbitration policy,3
+199,fault propagation analysis,1,stochastic modeling,3
+200,error prediction,1,chip-pet,3
+201,approximate computing,1,human genome,3
+202,3d nocs,1,mixture,3
+203,resistive-open tsvs,1,cutting forces,3
+204,error correction,1,tool malfunctions,3
+205,probabilistic switching,1,feature extraction,3
+206,wcet analysis,1,boltzmann machine,3
+207,random cache replacement,1,continuous-valued probabilistic vlsi,3
+208,static probabilistic timing,1,on-chip,3
+209,elements,1,low-energy computing,3
+210,multi-core,1,noise tolerance,3
+211,task partitions,1,power supply noise,3
+212,harmonic,1,algorithms,3
+213,probabilistic models,1,embedded multiprocessors,3
+214,recognising enose signals,1,interconnect synthesis,3
+215,scalable architecture,1,dvs,3
+216,penetration rate,1,buffer management,3
+217,fracture,1,qos,3
+218,probabilistic numerical approach,1,predictable design,3
+219,dfn-dem,1,neuro-hardware,3
+220,deadlock,1,pulsed neuron,3
+221,probabilistic odd-even routing,1,coding digital circuit,3
+222,routing,1,burr formation,3
+223,wafer-dicing,1,face milling,3
+224,damages,1,empirical equations,3
+225,bare-chip assemblies,1,bayesian probability,3
+226,arbitration,1,wormhole switching,2
+227,equality-of-service (eos),1,power-gating (pg),2
+228,data mining,1,gene regulatory networks,2
+229,expert systems,1,maximal information coefficient,2
+230,probabilistic rules,1,conditional,2
+231,semiconductor market,1,arbiter physical unclonable function (puf),2
+232,many-core,1,delay fault,2
+233,mapping,1,diagnostic,2
+234,memory constraint,1,long-range (lora),2
+235,analytical modeling,1,low-power wide-area (lpwa),2
+236,chip multiprocessing,1,fingerprint algorithm,2
+237,electronic package,1,discrete factor graph,2
+238,fatigue life,1,population coding,2
+239,probabilistic neural network,1,active vision,2
+240,crbm,1,dynamic reconfiguration,2
+241,on-line learning,1,embedded vision systems,2
+242,analysis,1,efficient high-quality object proposal,2
+243,integrative,1,object detection,2
+244,markov random field,1,sequential,2
+245,probabilistic transfer matrices,1,digital microfluidics,2
+246,arbitrarily small programming bit error rate (ber),1,error recovery,2
+247,high capacity,1,micro-electrode-dot-array(meda),2
+248,genetic algorithms,1,deep learning,2
+249,performance evaluation,1,neural network applications,2
+250,chip multiprocessors,1,discrete state transition,2
+251,probabilistic cognition,1,flexible transmission systems,2
+252,children's predictions,1,coherent systems,2
+253,extensional reasoning,1,crossbar architecture,2
+254,availability,1,convolutional neural networks,2
+255,built-in tests,1,neural network,2
+256,error-checking,1,probabilistic graphical model,2
+257,fault tolerance,1,causal effects,2
+258,graphical models,1,mixed criticality systems,2
+259,hybrid generative/discriminative models,1,semiconductor device reliability,2
+260,hitting time,1,reliability engineering,2
+261,random walk,1,artificial nose,2
+262,reliable,1,colorimetric sensor,2
+263,distributed person tracking,1,machine learning,2
+264,probabilistic framework,1,selection,2
+265,distributed smart,1,regression,2
+266,identification,1,probabilistic timed automata,2
+267,on-chip network,1,timed markov decision process,2
+268,age-based arbitration,1,imca model,2
+269,modelling,1,spiking neural networks,2
+270,grinding zone,1,liquid state machines,2
+271,gene regulatory network,1,time series forecasting,2
+272,data integration,1,fault propagation analysis,2
+273,gene expression,1,error prediction,2
+274,chip,1,approximate computing,2
+275,color naming,1,3d nocs,2
+276,image annotation,1,resistive-open tsvs,2
+277,image retrieval,1,wcet analysis,2
+278,probabilistic latent,1,random cache replacement,2
+279,probabilistic vlsi,1,static probabilistic timing,2
+280,scalable and programmable systems,1,elements,2
+281,minimising contrastive divergence,1,probabilistic models,2
+282,dynamic current mirrors,1,recognising enose signals,2
+283,burnishing processing,1,scalable architecture,2
+284,rigid burnishing,1,arbitration,2
+285,sound source localization,1,equality-of-service (eos),2
+286,dsp,1,analytical modeling,2
+287,location,1,chip multiprocessing,2
+288,saccharomyces-cerevisiae,1,probabilistic neural network,2
+289,markov processes,1,crbm,2
+290,queues,1,on-line learning,2
+291,arbitration policy,1,markov random field,2
+292,stochastic modeling,1,probabilistic transfer matrices,2
+293,embedded systems,1,genetic algorithms,2
+294,accuracy,1,performance evaluation,2
+295,chip-pet,1,chip multiprocessors,2
+296,human genome,1,probabilistic cognition,2
+297,mixture,1,children's predictions,2
+298,solder joint,1,extensional reasoning,2
+299,failure probability,1,graphical models,2
+300,cte,1,hybrid generative/discriminative models,2
+301,dnp,1,distributed person tracking,2
+302,form,1,probabilistic framework,2
+303,sorm,1,distributed smart,2
+304,dna sequence motifs,1,on-chip network,2
+305,cutting forces,1,age-based arbitration,2
+306,tool malfunctions,1,probabilistic vlsi,2
+307,feature extraction,1,scalable and programmable systems,2
+308,boltzmann machine,1,sound source localization,2
+309,continuous-valued probabilistic vlsi,1,dsp,2
+310,on-chip,1,accuracy,2
+311,low-energy computing,1,dna sequence motifs,2
+312,noise tolerance,1,arrays,2
+313,power supply noise,1,normalization,2
+314,algorithms,1,variance,2
+315,arrays,1,die cracking,2
+316,normalization,1,finite element method (fem),2
+317,variance,1,fourpoint bending,2
+318,die cracking,1,nanotechnologies,2
+319,finite element method (fem),1,defect tolerance,2
+320,fourpoint bending,1,subthreshold leakage power distribution,2
+321,embedded multiprocessors,1,yield estimation,2
+322,interconnect synthesis,1,process,2
+323,dvs,1,grinding chip,2
+324,buffer management,1,integrate-and-fire neuron,2
+325,qos,1,spiking neuron,2
+326,predictable design,1,probabilistic synapse,2
+327,crosstalk delay,1,ink drop spread (ids) operator,1
+328,probabilistic estimation,1,radial basis function (rbf),1
+329,nanotechnologies,1,multivariate gaussian mixture model (mvgmm),1
+330,defect tolerance,1,multivariate linear,1
+331,subthreshold leakage power distribution,1,anomaly detection,1
+332,yield estimation,1,general purpose graphics processing unit (gpgpu),1
+333,process,1,online learning,1
+334,grinding chip,1,probabilistic spiking neural network,1
+335,statistical timing,1,probabilistic matrix factorization algorithm,1
+336,yield prediction,1,collaborative filtering,1
+337,displacement,1,analysis,1
+338,finite element,1,integrative,1
+339,interconnects,1,arbitrarily small programming bit error rate (ber),1
+340,neuro-hardware,1,high capacity,1
+341,pulsed neuron,1,minimising contrastive divergence,1
+342,coding digital circuit,1,dynamic current mirrors,1
+343,burr formation,1,location,1
+344,face milling,1,saccharomyces-cerevisiae,1
+345,empirical equations,1,crosstalk delay,1
+346,bayesian probability,1,probabilistic estimation,1
+347,integrate-and-fire neuron,1,statistical timing,1
+348,spiking neuron,1,yield prediction,1
+349,probabilistic synapse,1,,

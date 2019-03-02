@@ -1,0 +1,690 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE air space; coupled magnetic resonance; magnetic field analysis;
+   undersea; wireless power transfer
+ER
+
+PT J
+DE steam air heater; energy power losses; energy efficiency; exergy
+   destruction; exergy efficiency
+ID THERMAL POWER-PLANT; EXERGY ANALYSIS; THERMOHYDRAULIC PERFORMANCE;
+   EXERGOECONOMIC ANALYSIS; ENERGY; OPTIMIZATION; TURBINE; SYSTEM
+ER
+
+PT J
+DE Air pollution; Avoidance behaviors; Electricity usage; Power-station
+   emissions
+ID ELECTRICITY CONSUMPTION; CHINA; CLIMATE
+ER
+
+PT J
+DE Demand response; system flexibility; ancillary service; controllable
+   load; air conditioner; renewable energy
+ER
+
+PT J
+DE unit commitment; power dispatch; regional air quality; air pollutant
+   dispersion; threshold concentration
+ID ATMOSPHERIC ENVIRONMENTAL CAPACITY; INCORPORATING WIND POWER; HAZE-FOG
+   POLLUTION; CRITICAL LOADS; CHINA; EMISSIONS; DISPATCH; MODEL;
+   MANAGEMENT; PLANTS
+ER
+
+PT J
+DE Triboelectric nanogenerator; Power source; Particulate matter; Air
+   cleaning; Nanofiber filter
+ID PARTICULATE MATTER EMISSIONS; HARVESTING ENERGY; HIGH-EFFICIENCY; AIR
+   FILTER; ELECTROSPINNING PROCESS; CONVERSION EFFICIENCY; ULTRAFINE
+   PARTICLES; ON-ROAD; SENSOR; TRANSPARENT
+ER
+
+PT J
+DE Electronics cooling; Hysteresis loss; Piezoelectric fan; Power
+   efficiency; Wearable electronics
+ID THERMAL PERFORMANCE; BIMORPH BEAM; CANTILEVER; HYSTERESIS; OPTIMIZATION;
+   PLATE
+ER
+
+PT J
+DE Air-conditioning system; Thermal energy storage; Wind power forecast
+   errors; Load management
+ID FLUCTUATIONS; INTEGRATION; GENERATION
+ER
+
+PT B
+DE Wind energy harvesting; wind contraction; wind diffuser; wind tamer;
+   cooling towers
+ER
+
+PT S
+ER
+
+PT S
+DE Liquid desiccant dehumidification; photovoltaic/thermal collector;
+   two-stage dehumidification
+ID AIR-CONDITIONING SYSTEM; COOLING SYSTEM; REGENERATION; ENERGY; DRIVEN;
+   STAGE
+ER
+
+PT S
+DE electrolytic capacitor-less inverter; input current harmonics;
+   repetitive control; spatial harmonics
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT J
+DE Renewable energy storage; waste heat; CO2 reduction; thermal power
+   plants; nuclear plant safety; improved power plant efficiency; power
+   plant design
+ER
+
+PT J
+ID PENETRATIONS; STRATEGY; SYSTEMS
+ER
+
+PT S
+ER
+
+PT B
+DE Air Conditioning Control System; Arduino Microcontroller; Fuzzy Logic
+   Control; Light Dimming System; Microgrid; Power Switching System; Pulse
+   Width Modulation; Supercapacitor
+ER
+
+PT J
+DE Energy analysis; exergy analysis; exergy destruction; hybrid power
+   generation; solid-oxide fuel cell
+ID MICRO GAS-TURBINE; TRIGENERATION SYSTEM; COMBINED HEAT; THERMODYNAMIC
+   ANALYSIS; HYBRID; PLANT; CYCLE; PERFORMANCE; COGENERATION; AIRCRAFT
+ER
+
+PT J
+DE Containment; computer room air handler (CRAH) bypass (BP); data center;
+   flow network modeling (FNM); optimization; thermodynamic modeling
+ID MODEL
+ER
+
+PT J
+DE air gap; centrifugal force; hydropower unit; magnetic force
+ER
+
+PT J
+DE Electricity trade; Interconnected markets; Imperfect competition; Air
+   emissions; Welfare; Microdata
+ID SUPPLY FUNCTION EQUILIBRIUM; ELECTRICITY INDUSTRY; INTERNATIONAL-TRADE;
+   MARKET POWER; SPOT MARKET; AUCTIONS; ENVIRONMENT; POLLUTION; CAPACITY;
+   TEXAS
+ER
+
+PT J
+DE Battery-free smart-sensor module; Long-range smart-sensor tag; Energy
+   harvester; Temperature and humidity sensor; Air quality monitoring
+ID WIRELESS SENSOR
+ER
+
+PT J
+DE Power generation; Fuel consumption; Air quality; Emissions; China
+ID ANTHROPOGENIC ATMOSPHERIC POLLUTANTS; SECONDARY ORGANIC AEROSOL; SOURCE
+   APPORTIONMENT; PARTICULATE MATTER; SOUTHEAST TEXAS; PM2.5 NITRATE;
+   UNITED-STATES; POLLUTION; CALIFORNIA; MORTALITY
+ER
+
+PT J
+DE Thermoelectric (TE); Thermophotovoltaic (TPV); Fuel-air equivalence
+   ratio; Performance
+ID SUPER-ADIABATIC COMBUSTION; FLAME STABILIZATION TECHNIQUE; HEAT-RECOVERY
+   SYSTEM; FUEL-FILM COMBUSTOR; POROUS INERT MEDIA; WASTE HEAT;
+   COGENERATION SYSTEM; GENERATION SYSTEM; RESIDENTIAL BUILDINGS; CATALYTIC
+   COMBUSTION
+ER
+
+PT J
+DE Compressed air engine; output power; efficiency; air distribution
+ID FUEL-CELL VEHICLES; HYDROPNEUMATIC TRANSFORMER; HYBRID; PERFORMANCE;
+   STORAGE; DESIGN
+ER
+
+PT J
+DE air pollutants; carbon dioxide; coal-fired power plants; co-effects;
+   China
+ID CARBON-DIOXIDE EMISSIONS; ENERGY-CONSUMPTION; CLIMATE-CHANGE;
+   EFFICIENCY; BENEFITS; IMPACT; MITIGATION; GAS; POPULATION; ABATEMENT
+ER
+
+PT J
+DE Thermal Power Plant; Air Quality Model; Meteorological Model; Nitrogen
+   Dioxide; Sulfur Dioxide
+ER
+
+PT J
+DE Air power technology; Compressed air powered vehicle; Pneumatic hybrid;
+   Technology; Experimental air powered vehicles; Compressed air
+ID PERFORMANCE; VEHICLES; DESIGN; MOTORS; MODEL
+ER
+
+PT S
+DE Inlet air cooling; boosting combined cycle performance; Evaporative
+   cooling; Fogging; Electrical chillers; Convectional absorption chillers;
+   Solar-assisted absorption chillers; Average performance; hourly
+   performance
+ER
+
+PT S
+ER
+
+PT S
+DE Photovoltaic; Direct driven; Air conditioning; Test
+ID TECHNOECONOMIC ANALYSIS; PERFORMANCE; ZONE
+ER
+
+PT S
+DE air conditioner load; static voltage stability; voltage stability
+   margin; control strategy
+ER
+
+PT B
+DE Nanogenerator; wireless sensor network; power management; air flow;
+   ultra-low power application
+ID GENERATOR
+ER
+
+PT J
+DE Cogeneration; Environment; Efficiency
+ID THERMODYNAMIC PERFORMANCE; POWER-GENERATION; SYSTEMS
+ER
+
+PT S
+ER
+
+PT J
+DE Air-borne ultrasound; Sewage sludge; Thin-layer drying; Kinetics; Forced
+   convection
+ID WASTE-ACTIVATED-SLUDGE; FALLING RATE PERIOD; INDUCED DEFLOCCULATION;
+   MOISTURE DIFFUSIVITY; MASS-TRANSFER; WATER SLUDGE; FIXED-BED; KINETICS;
+   PRETREATMENT; TEMPERATURE
+ER
+
+PT J
+DE Hydroquinone; Plasma; Wire-cylinder dielectric barrier discharge
+   reactor; Oxidative degradation; Catalytic effect
+ID GASIFICATION WASTE-WATER; PHENOL DEGRADATION; PLASMA SYSTEM; IMPACT
+ER
+
+PT J
+ID TURBINE; SYSTEM; FARMS
+ER
+
+PT J
+DE Combined cooling and power; Compressed air energy storage; Air
+   compression refrigeration cycle refrigeration; Air cooling;
+   Thermodynamic analysis; Inter-cooling
+ID EVAPORATOR REFRIGERATION SYSTEM; PRESSURE RECOVERY; ADJUSTABLE EJECTOR;
+   HEAT-RECOVERY; WASTE HEAT; OPTIMIZATION; OIL
+ER
+
+PT J
+DE Air-cooled condenser; Steam condenser; Power plant; Dry cooling; Hybrid
+   cooling; Water conservation
+ID HEAT-TRANSFER ENHANCEMENT; VORTEX GENERATORS; CHAOTIC ADVECTION; JET
+   IMPINGEMENT; THERMAL PERFORMANCE; EXCHANGER DESIGN; STEAM CONDENSER;
+   FLAT TUBE; OPTIMIZATION; CONVECTION
+ER
+
+PT J
+DE air-powered vehicle; power system; HP transformer; hydraulic motor;
+   dynamic characteristic
+ID COMPRESSED-AIR; ENERGY-STORAGE; DRIVEN; DESIGN
+ER
+
+PT J
+DE Solar cooling; Solar air conditioning; Solar PV cooling
+ID PERFORMANCE; REFRIGERATOR; SYSTEM
+ER
+
+PT J
+DE Compressed air power; automobile; experimental platform; speed control
+ID COMPRESSED-AIR; DRIVEN; DESIGN; SYSTEM; GAS; PERFORMANCE; SIMULATION;
+   FRICTION; EQUATION; MODEL
+ER
+
+PT J
+DE Social costs; Air pollution; Coal mining; Oil and gas extraction; Oil
+   refining; Power generation
+ID UNITED-STATES; LIFE; VALUATION; MORTALITY
+ER
+
+PT J
+DE data center; power consumption reduction; workload assignment; air
+   conditioner; computational fluid dynamics
+ER
+
+PT J
+DE Air Quality; Power Station Emissions; OMI NO2
+ID EMISSIONS; NO2; VARIABILITY
+ER
+
+PT B
+DE air-cooled steam condenser; fan array; net power; numerical model;
+   rotating speed regulation
+ID STEAM CONDENSER; PERFORMANCE; DESIGN; WIND
+ER
+
+PT S
+ID TRACE-ELEMENTS; PARTICLES
+ER
+
+PT B
+ER
+
+PT J
+DE thermal power plants; air pollution; eco-efficiency; Eastern Balkan
+   countries; energy policies
+ID IMPLEMENTATION; TRANSPORT; LIGNITE
+ER
+
+PT J
+DE Air pollutants; air quality; dispersion; emissions; power plants
+ER
+
+PT S
+DE NILM; Load Disaggregate; Smart Meter
+ER
+
+PT J
+DE Air breakdown; circular aperture antenna; maximum radiation power;
+   high-power microwave; field equivalent principle; global model
+ID MICROWAVE BREAKDOWN; ATMOSPHERE; PROPAGATION; PULSE; MODEL
+ER
+
+PT J
+DE Cyclic blackouts; Outage management; Multi-agent systems; Load
+   management; Energy efficiency; Rationing smart meters
+ER
+
+PT J
+DE Air-cooled power plant; Economic analysis; Lignite pre-drying;
+   Thermodynamic analysis; Waste heat recovery
+ID ECONOMIC-ANALYSIS; COAL; TECHNOLOGY; EMISSIONS; ENERGY; SYSTEM; CO2
+ER
+
+PT J
+DE Ultrasound; Hot air drying; Flos Lonicerae; Drying characteristics
+ID HIGH-INTENSITY ULTRASOUND; MICROSTRUCTURAL CHANGES; WATER TRANSPORT;
+   ORANGE PEEL; KINETICS; JAPONICA; INTERMITTENT; ENHANCEMENT; ANTIOXIDANT;
+   DIFFUSIVITY
+ER
+
+PT J
+DE CO2 capture; Climate change; Optimization; Wind power
+ID CO2 CAPTURE; ENERGY MANAGEMENT; AMBIENT AIR; THERMODYNAMIC ANALYSIS;
+   DIOXIDE; STORAGE; SYSTEM; SEQUESTRATION; OPTIMIZATION; MICROGRIDS
+ER
+
+PT J
+DE Air pollution; Triboelectric nanogenerator; Self-powered
+ID CORONA DISCHARGE; ENERGY; SENSOR; PERFORMANCE; REMOVAL; SYSTEM;
+   TEMPERATURE; ELECTRONICS; NANOSENSOR; OXIDATION
+ER
+
+PT B
+DE Air density; Kite power estimation; Mathematical equations for kite
+   motion
+ER
+
+PT B
+DE Air leakage; Air heater; Power plant; Boiler
+ER
+
+PT J
+DE Thermodynamic optimization; Waste heat utilization; Organic working
+   fluid; Combined cycle
+ID WORKING FLUIDS; EQUATIONS; STATE; ORC
+ER
+
+PT J
+DE Air-cooled steam condenser; Meteorological conditions; Rotating speed;
+   Fan consumption; Thermal efficiency
+ID INLET FLOW DISTORTIONS; STEAM CONDENSER; HEAT-EXCHANGERS
+ER
+
+PT J
+DE Air pollution; Respiratory health; Exposure assessment
+ID OUTDOOR AIR-POLLUTION; HEALTH SURVEY; CASE-CROSSOVER; UNITED-STATES;
+   LONG-TERM; ASTHMA; MORTALITY; CHILDREN; ISRAEL; VARIABILITY
+ER
+
+PT S
+ER
+
+PT S
+DE distributed generation; energy hub; energy sources; power plant
+ID SYSTEM
+ER
+
+PT J
+DE health; health impact assessment; HIA; biomass; power plant
+ID EMISSIONS; EXPOSURE; FUELS
+ER
+
+PT S
+ER
+
+PT S
+DE Power Management; Blackouts; Demand Side Management; Supply Demand
+   Matching; Adaptive clustering; Multi-Agent Systems
+ID LOAD MANAGEMENT; POWER; ENERGY; CHINA
+ER
+
+PT S
+DE Air Power; Command and Control; Operational Level; Air Campaign;
+   Centralized Control; Decentralized Execution
+ER
+
+PT S
+DE Data center; Power consumption reduction; Work-load assignment; Air
+   conditioning; Computational fluid dynamics simulation
+ER
+
+PT J
+DE Arid; Humid; Dynamics; Meteorology; Pressure; Temperature; Wind power
+ID ELECTRICITY-GENERATION; SAUDI-ARABIA; TURKEY; EGYPT
+ER
+
+PT J
+DE Air-cooled power plant; Wind conditions; Blade installation angle;
+   Prevailing wind angle; Windward fan
+ID STEAM CONDENSER; NUMERICAL-SIMULATION; FLOW
+ER
+
+PT S
+DE air density; power curve; wind turbine; output power
+ER
+
+PT B
+DE Power Generation; Air Humidifier; Exhaust Gases; Wind Turbine
+ER
+
+PT S
+DE thermal storage; air-conditioning; operating mode; system integration
+ID ENERGY STORAGE
+ER
+
+PT J
+DE Atomizer Wheel; Spray Dryer; Air Gap; Atomizer Speed; Differential
+   Pressure
+ID SPRAY DRYER; PREDICTION
+ER
+
+PT J
+DE Compressed air energy storage; CCHP systems; Renewable energy;
+   Standalone power system
+ID POWER-SYSTEM; ENGINE; MODEL; OPTIMIZATION; FEASIBILITY; DRIVEN; DESIGN;
+   CHP
+ER
+
+PT J
+DE Statistical power; Time-series studies; Air pollution epidemiology
+ID EMERGENCY-DEPARTMENT VISITS; PARTICULATE MATTER; HOSPITAL ADMISSIONS;
+   STATISTICAL POWER; SAMPLE-SIZE; POLLUTANTS; MORTALITY; EXPOSURE;
+   DISEASES; DESIGNS
+ER
+
+PT J
+ID ELECTRONICS; GENERATOR
+ER
+
+PT J
+DE MCC; CO2 sequestration; Flue gas; Anion exchange membrane; pH imbalance
+ID FUEL-CELLS; PERFORMANCE
+ER
+
+PT S
+DE Air-powered swashplate engine; oil-free; piston rings; life prediction
+ER
+
+PT J
+DE Industrial compressed air; solar power; energy efficiency; emissions
+   impact
+ID ENERGY SAVINGS
+ER
+
+PT S
+DE climate change; air conditioning; power load; load forecasting
+ER
+
+PT S
+DE Energy Storage Sub-system; CAES Power Plant; Performance Analysis; Wind
+   Power
+ER
+
+PT J
+ID FEMTOSECOND; FILAMENTATION; PLASMA; MICROPLASMA; DYNAMICS; PULSES
+ER
+
+PT J
+DE Energy; Exergy; Fogging system; Social cost of air pollution
+ID AIR COOLING SYSTEMS; PERFORMANCE IMPROVEMENT; PART I; CYCLE;
+   OPTIMIZATION; ENGINES; TECHNOLOGY; HEAT
+ER
+
+PT J
+DE Energetically enhanced combustion; microwave plasma; planar
+   laser-induced fluorescence (PLIF); plasma-assisted combustion (PAC);
+   Rayleigh scattering thermometry
+ID GLIDING ARC PLASMA; DIFFUSION FLAMES; HUMID-AIR; DISCHARGE; IGNITION;
+   ENHANCEMENT; DYNAMICS; REACTOR; FLOWS
+ER
+
+PT J
+DE air-cooled condenser; axial flow fan; cluster effect; cluster factor;
+   wind speed and direction
+ID HEAT-EXCHANGERS; PERFORMANCE; INLET; DISTORTIONS; SIMULATION; LOSSES;
+   WIND
+ER
+
+PT J
+DE Aperture antennas; dielectric breakdown; microwave power transmission;
+   microwave propagation
+ID SURFACE FLASHOVER; MICROWAVE; INTERFACE; WINDOW
+ER
+
+PT J
+DE Ceramic membranes; Oxygen separation from air; Power generation; CO2
+   capture; Coal gasification; GTL
+ID CHEMICAL-LOOPING COMBUSTION; PRESSURE SWING ADSORPTION; CONDUCTING
+   MEMBRANES; REACTOR; CARRIER; PLANT; PERFORMANCE; CAPTURE; DESIGN; SYSTEM
+ER
+
+PT J
+DE emissions; thermal power plant; fossil fuel; CO; NOx; SO2; TSP; ambient
+   air quality
+ID AIR-POLLUTION; ENVIRONMENTAL-IMPACT; HEALTH; OZONE; EXPOSURE;
+   VARIABILITY; PERSPECTIVE; THAILAND
+ER
+
+PT J
+DE Zero emission; Road transportation; Compressed air; Liquid air; Engine
+ER
+
+PT J
+DE Single-chamber MFC; Cellulose; Electricity generation; Hydrolysis;
+   Microaerophilic
+ID MICROBIAL FUEL-CELLS; ELECTRICITY-GENERATION; HYDROGEN-PRODUCTION;
+   ELECTROHYDROGENESIS
+ER
+
+PT J
+DE power cable ampacity; thermal model method; ventilation in tunnel
+ER
+
+PT J
+DE Combined cycle; Inlet air cooling; Inter-cooling; Low-grade waste heat
+   recovery; LNG; Thermodynamic analysis; IPSEpro
+ID LIQUEFIED NATURAL-GAS; WASTE HEAT; AUGMENTATION; EXERGY; SYSTEM
+ER
+
+PT J
+DE Distributed generation; Central generation; Air quality modeling;
+   Reactivity
+ID SECONDARY ORGANIC AEROSOL; MOLECULAR CONSTITUENTS;
+   ELECTRICITY-GENERATION; OZONE FORMATION; MODEL; SIZE; PLUME; POLLUTION
+ER
+
+PT B
+DE Power factor; induction motor drives; fan
+ER
+
+PT S
+DE Electric generating units; CMAQ; air quality; pollutants control
+ID NITROGEN-OXIDES; REDUCTION; OPTIONS; PLUME
+ER
+
+PT J
+DE zero pollution; compressed air; air turbine; energy conversion;
+   injection angle
+ID WIND TURBINES
+ER
+
+PT J
+DE Urban heat island; Air temperature; Air humidity; Electric power
+   consumption; Business district; Dehumidifying; Tokyo
+ID HEATING DEGREE-DAYS; ENERGY-CONSUMPTION; USA; LOAD
+ER
+
+PT S
+DE Compressed air energy storage; compressors; power stations
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT B
+DE Organic Rankine Cycle; geothermal power; moderate temperature heat; air
+   conditioning hardware; renewable power; waste heat power recovery
+ER
+
+PT B
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT B
+DE Rremote Terminal Air-Conditioner Unit; PIC1617628A microcontroller;
+   power management
+ER
+
+PT J
+DE corona discharge; DBD; atmospheric pressure plasma; pin to plate; OES
+ID ATMOSPHERIC-PRESSURE PLASMA; CORONA DISCHARGE; GLOW-DISCHARGE;
+   SURFACE-TREATMENT; GENERATION; POINT; DERIVATION; UNIFORM; AIR; LAW
+ER
+
+PT J
+DE air-conditioning; condenser; evaporative cooling; energy conservation;
+   power consumption
+ER
+
+PT J
+DE infrared; convective; drying rate; effective moisture diffusivity;
+   rehydration ratio
+ER
+
+PT J
+DE solar Rankine cycle; air chimney; pneumatic tube; solar concentrator;
+   heliostat; waste heat recovery power generation; Bernoulli (venturi)
+   tube; open-pit mining; land remediation
+ER
+
+PT B
+DE air spikes; high power millimeter wave; high resolution; WARLOC
+ID TURBULENCE
+ER
+
+PT J
+ID CARBON-DIOXIDE; RECOVERY
+ER
+
+PT J
+ER
+
+PT J
+DE HVAC noise; sound power measurements; air-conditioner noise; flow noise
+ID CENTRIFUGAL FAN NOISE
+ER
+
+PT J
+DE hybrid-PV systems; PV-air-conditioning; cost analysis; PV-off grid
+   applications
+ER
+
+PT J
+ER
+
+PT J
+DE IPMSM; air-conditioning; IPQC
+ID SYNCHRONOUS MOTOR; RECTIFIERS
+ER
+
+PT J
+ID GREENHOUSE-GAS EMISSIONS; ATMOSPHERIC AEROSOLS; ENERGY-CONSUMPTION;
+   AIR-POLLUTION; BLACK CARBON; ACID-RAIN; CHINA; DEPOSITION; MODEL
+ER
+
+PT S
+ER
+
+PT J
+DE air-drying; heat acclimatization; heat stress; individual control;
+   personal cooling; solar power
+ER
+
+PT J
+DE compressed air; power tools; bacteria; contamination
+ER
+
+PT J
+DE multistage biofuel drying system; power-to-heat ratio; CHP; integrated
+   pulp and paper mill; decreasing emissions
+ER
+
+PT J
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT J
+ER
+
+EF

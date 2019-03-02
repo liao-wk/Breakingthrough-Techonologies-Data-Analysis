@@ -1,0 +1,327 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,seawater desalination,47,desalination,139
+1,desalination,41,seawater desalination,122
+2,seawater,31,seawater,114
+3,reverse osmosis,25,reverse osmosis,86
+4,solar energy,7,solar energy,21
+5,renewable energy,5,pretreatment,19
+6,membranes,5,renewable energy,17
+7,pretreatment,5,membranes,17
+8,modeling,4,swro,17
+9,forward osmosis,4,modeling,14
+10,swro,4,scaling,13
+11,heat pump,4,forward osmosis,12
+12,multi-effect distillation,3,reverse,12
+13,energy,3,energy,11
+14,ultrafiltration,3,membrane,11
+15,membrane desalination,3,membrane desalination,10
+16,arabian gulf,3,arabian gulf,10
+17,membrane,3,optimization,10
+18,optimization,3,mathematical model,10
+19,scaling,3,water,10
+20,reverse,3,heat pump,10
+21,mathematical model,3,msf,10
+22,boron,3,ro,9
+23,cost,3,med,9
+24,power plant,2,boron,9
+25,fouling,2,fouling,8
+26,simulation,2,ultrafiltration,8
+27,flash,2,biofouling,8
+28,membrane distillation,2,desalination plant,8
+29,biofouling,2,wavepower,8
+30,solar,2,hydro-ram,8
+31,nuclear,2,flash,7
+32,specific energy consumption,2,desalination plants,7
+33,ro,2,nanofiltration,7
+34,desalination plants,2,nuclear desalination,7
+35,nanofiltration,2,deep,7
+36,energy efficiency,2,distillation,7
+37,energy consumption,2,thermal desalination,7
+38,performance,2,cost,7
+39,med,2,multi-effect distillation,6
+40,nuclear desalination,2,simulation,6
+41,deep,2,nuclear,6
+42,distillation,2,energy consumption,6
+43,thermal desalination,2,prevention,6
+44,life cycle assessment,2,control,6
+45,heat pipe,2,calcite,6
+46,water,2,pellet softening,6
+47,desalination plant,2,rsi,6
+48,environmental impact,2,life cycle assessment,6
+49,wavepower,2,power plant,5
+50,hydro-ram,2,multiple-criteria decision making,5
+51,msf,2,mcdm,5
+52,solar desalination,2,ahp,5
+53,bio-desalination,1,electre,5
+54,scenedesmus abundans,1,topsis,5
+55,total dissolved solids,1,energy recovery,5
+56,water stress,1,pumps,5
+57,condenser,1,solar,5
+58,reverse osmosis seawater desalination system,1,high recovery,5
+59,virtual reality,1,low energy,5
+60,analogue,1,closed-circuit desalination,5
+61,pollution control,1,ocean,5
+62,sustainable desalination,1,dbps,5
+63,multiple-criteria decision making,1,chlorine,5
+64,mcdm,1,bromide,5
+65,ahp,1,iodide,5
+66,electre,1,toxicity,5
+67,topsis,1,energy efficiency,5
+68,energy recovery,1,performance,5
+69,pumps,1,heat-only,5
+70,ocean mechanical force,1,dedicated,5
+71,ocean thermal gradient,1,uae,5
+72,coagulation,1,med-tvc,5
+73,freezing desalination,1,estuaries,5
+74,watering parameters,1,sea,5
+75,non-condensable gas release,1,variable salinity,5
+76,passive vacuum,1,australia,5
+77,impaired water,1,perth,5
+78,mathematical modeling,1,review,5
+79,production cost,1,sydney,5
+80,feasibility,1,electrodialysis,5
+81,long-term,1,operation,5
+82,decanting centrifuge,1,maintenance,5
+83,silt,1,development,5
+84,water quality,1,coagulation,4
+85,turbidity,1,production cost,4
+86,ocean thermal energy,1,feasibility,4
+87,thermodynamics,1,long-term,4
+88,exergy,1,ocean thermal energy,4
+89,zero thermal energy input,1,thermodynamics,4
+90,waste-free,1,exergy,4
+91,core-shell au@tio2 nanoparticles,1,membrane distillation,4
+92,seawater evaporation,1,hydrate,4
+93,small-scale desalination,1,hydrate-induced ice,4
+94,energy recovery device,1,cogeneration,4
+95,inter-basin diversion,1,economics,4
+96,water policy,1,crp,4
+97,supply cost,1,specific energy consumption,4
+98,vacuum generation,1,hybrid desalination,4
+99,multiple-effect distillation,1,freezing,4
+100,seawater intake systems,1,reverses osmosis,4
+101,vacuum membrane distillation module,1,ice,4
+102,hydrate,1,economic analysis,4
+103,hydrate-induced ice,1,prospect,4
+104,freeze desalination,1,boron rejection,4
+105,lng cold energy,1,membrane fouling,4
+106,cogeneration,1,metallic materials,4
+107,economics,1,stainless steels,4
+108,crp,1,corrosion,4
+109,graphene oxide membranes,1,by-products,4
+110,graphene oxide framework membrane,1,bromate,4
+111,covalent,1,perchlorate,4
+112,thermodynamic bound,1,electrolysis,4
+113,metal-organic frameworks,1,evaporation,4
+114,zeolitic imidazolate framework,1,hypersaline,4
+115,high recovery,1,heat pipe,4
+116,low energy,1,membrane process,4
+117,closed-circuit desalination,1,wind,4
+118,ocean,1,process simulation,4
+119,economic effects,1,engineering,4
+120,input-output analysis,1,design,4
+121,china,1,reverse osmosis membrane,4
+122,operating data,1,salinity tolerance,4
+123,hybrid desalination,1,discharge,4
+124,freezing,1,concentrate,4
+125,reverses osmosis,1,environmental impact,4
+126,ice,1,environmental,4
+127,lower cost,1,impact,4
+128,integrated process,1,sustainable,4
+129,dbps,1,hybrids,4
+130,chlorine,1,water cost,4
+131,bromide,1,power,4
+132,iodide,1,pre-treatment,4
+133,toxicity,1,solar desalination,4
+134,microbial desalination cell,1,water hammer,4
+135,wastewater treatment,1,renewable,4
+136,performance ratio,1,cooperation,4
+137,gain output ratio,1,water stress,3
+138,vapour compression,1,ocean mechanical force,3
+139,reverse osmosis modules,1,ocean thermal gradient,3
+140,supersaturation,1,non-condensable gas release,3
+141,seawater softening,1,passive vacuum,3
+142,forward osmosis power consumption,1,impaired water,3
+143,sludge disposal,1,mathematical modeling,3
+144,brine management,1,decanting centrifuge,3
+145,economic analysis,1,silt,3
+146,prospect,1,water quality,3
+147,heat-only,1,turbidity,3
+148,dedicated,1,inter-basin diversion,3
+149,uae,1,water policy,3
+150,med-tvc,1,supply cost,3
+151,dual-stage nanofiltration (nf),1,seawater intake systems,3
+152,static electric field,1,economic effects,3
+153,insulation film,1,input-output analysis,3
+154,divalent,1,china,3
+155,global diffusion,1,operating data,3
+156,politics,1,lower cost,3
+157,boron rejection,1,integrated process,3
+158,membrane fouling,1,performance ratio,3
+159,integrated coastal management (icm),1,gain output ratio,3
+160,hybridization,1,vapour compression,3
+161,literature review,1,reverse osmosis modules,3
+162,prevention,1,supersaturation,3
+163,control,1,sludge disposal,3
+164,calcite,1,brine management,3
+165,pellet softening,1,dual-stage nanofiltration (nf),3
+166,rsi,1,static electric field,3
+167,activity coefficients,1,insulation film,3
+168,osmotic coefficients,1,divalent,3
+169,tec,1,hybridization,3
+170,ro membrane,1,literature review,3
+171,biofouling indicator,1,activity coefficients,3
+172,biofilm,1,osmotic coefficients,3
+173,energy technology,1,tec,3
+174,evaluation,1,ro membrane,3
+175,carbon capture and sequestration,1,biofouling indicator,3
+176,membrane-based oxy-combustion cycles,1,biofilm,3
+177,direct contact membrane distillation (dcmd),1,osmotic dilution,3
+178,osmotic dilution,1,multi-objective optimization,3
+179,thin-film composite membrane,1,water conveyance,3
+180,interfacial,1,carbon,3
+181,multi-objective optimization,1,wind energy,3
+182,water conveyance,1,reverse osmosis desalination,3
+183,carbon,1,medium scale,3
+184,metallic materials,1,gradual,3
+185,stainless steels,1,cchp system,3
+186,corrosion,1,boron removal,3
+187,wind energy,1,adsorption-membrane filtration,3
+188,reverse osmosis desalination,1,natural vacuum,3
+189,medium scale,1,fouling mechanism,3
+190,gradual,1,brine discharges,3
+191,cchp system,1,sea outfall,3
+192,by-products,1,operating parameters,3
+193,bromate,1,unit costs,3
+194,perchlorate,1,hydrostatic pressure,3
+195,electrolysis,1,red sea,3
+196,boron removal,1,nuclear reactor,3
+197,adsorption-membrane filtration,1,fossil fuel,3
+198,synthetic membrane processes,1,oil price,3
+199,permeate iodide,1,flash vaporization,3
+200,evaporation,1,brine discharge,3
+201,hypersaline,1,marine environment,3
+202,natural vacuum,1,system,3
+203,tritium-related safety,1,criteria,3
+204,nuclear seawater desalination,1,gulf cooperation council,3
+205,estuaries,1,analytical,3
+206,sea,1,discussion,3
+207,variable salinity,1,bot desalination,3
+208,alternative energy,1,privatization,3
+209,integration technology,1,seawater desalination plants,3
+210,australia,1,infuents,3
+211,perth,1,effluents,3
+212,review,1,libya,3
+213,sydney,1,optimised desalination,3
+214,membrane process,1,decentralised water,3
+215,wind,1,wastewater reuse,3
+216,mf/uf seawater pre-treatment,1,costs,3
+217,harbour seawater,1,renewable energies,3
+218,hollow-fibre membranes,1,wind power,3
+219,process simulation,1,thermal desalination plant,3
+220,engineering,1,submarine,3
+221,design,1,desalination unit,3
+222,fouling mechanism,1,heat pumps,3
+223,reverse osmosis membrane,1,power station,3
+224,concentrating solar power,1,saudi arabia,3
+225,salinity tolerance,1,process,3
+226,discharge,1,nuclear energy,3
+227,concentrate,1,heating reactor,3
+228,adsorption-membrane filtration (amf) hybrid process,1,lt-med,3
+229,seawater desalination technologies,1,pool-type reactor,3
+230,multi-stage flash distillation,1,brackish water,3
+231,brine discharges,1,membrane technology,3
+232,sea outfall,1,bio-desalination,2
+233,operating parameters,1,scenedesmus abundans,2
+234,unit costs,1,total dissolved solids,2
+235,growth inducement,1,condenser,2
+236,policy analysis,1,reverse osmosis seawater desalination system,2
+237,technology development,1,virtual reality,2
+238,ann model,1,analogue,2
+239,bwro systems,1,pollution control,2
+240,boron removal resins,1,sustainable desalination,2
+241,high boron rejection membranes,1,freezing desalination,2
+242,seawater disalination costs,1,watering parameters,2
+243,nuclear desalination costs,1,zero thermal energy input,2
+244,seawater reverse osmosis desalination,1,waste-free,2
+245,plant design,1,core-shell au@tio2 nanoparticles,2
+246,seawater supply,1,seawater evaporation,2
+247,humidification-dehumidification,1,small-scale desalination,2
+248,desalination of marginal sources,1,energy recovery device,2
+249,swro technology,1,vacuum generation,2
+250,hydrostatic pressure,1,multiple-effect distillation,2
+251,environmental,1,vacuum membrane distillation module,2
+252,impact,1,freeze desalination,2
+253,red sea,1,lng cold energy,2
+254,nuclear reactor,1,graphene oxide membranes,2
+255,fossil fuel,1,graphene oxide framework membrane,2
+256,oil price,1,covalent,2
+257,flash vaporization,1,thermodynamic bound,2
+258,brine discharge,1,metal-organic frameworks,2
+259,marine environment,1,zeolitic imidazolate framework,2
+260,system,1,microbial desalination cell,2
+261,criteria,1,wastewater treatment,2
+262,gulf cooperation council,1,seawater softening,2
+263,analytical,1,forward osmosis power consumption,2
+264,discussion,1,global diffusion,2
+265,pollutants,1,politics,2
+266,south mediterranean,1,energy technology,2
+267,oil spill pollution,1,evaluation,2
+268,humidification,1,thin-film composite membrane,2
+269,humidifier,1,interfacial,2
+270,hybrid process,1,synthetic membrane processes,2
+271,sewater desalination,1,permeate iodide,2
+272,water resources,1,tritium-related safety,2
+273,freshwater shortage,1,nuclear seawater desalination,2
+274,clean development mechanism (cdm),1,alternative energy,2
+275,bot desalination,1,integration technology,2
+276,privatization,1,mf/uf seawater pre-treatment,2
+277,seawater desalination plants,1,harbour seawater,2
+278,infuents,1,hollow-fibre membranes,2
+279,effluents,1,concentrating solar power,2
+280,libya,1,adsorption-membrane filtration (amf) hybrid process,2
+281,optimised desalination,1,growth inducement,2
+282,decentralised water,1,policy analysis,2
+283,sustainable,1,technology development,2
+284,hybrids,1,ann model,2
+285,water cost,1,bwro systems,2
+286,power,1,boron removal resins,2
+287,nuclear heating reactor (nhr),1,high boron rejection membranes,2
+288,economic,1,seawater disalination costs,2
+289,wastewater reuse,1,nuclear desalination costs,2
+290,costs,1,seawater reverse osmosis desalination,2
+291,pre-treatment,1,plant design,2
+292,lte desalination,1,seawater supply,2
+293,waste heat utilization,1,humidification-dehumidification,2
+294,nuclear research reactor,1,desalination of marginal sources,2
+295,electrodialysis,1,swro technology,2
+296,renewable energies,1,pollutants,2
+297,wind power,1,south mediterranean,2
+298,solar thermal collectors,1,oil spill pollution,2
+299,seawater desalination plant,1,humidification,2
+300,thermal desalination plant,1,humidifier,2
+301,desalination of marginal water,1,hybrid process,2
+302,water hammer,1,sewater desalination,2
+303,renewable,1,water resources,2
+304,cooperation,1,freshwater shortage,2
+305,solar parabolic troughs,1,clean development mechanism (cdm),2
+306,operation,1,nuclear heating reactor (nhr),2
+307,maintenance,1,economic,2
+308,development,1,lte desalination,2
+309,hollow fiber type reverse osmosis,1,waste heat utilization,2
+310,spiral wound,1,nuclear research reactor,2
+311,submarine,1,solar thermal collectors,2
+312,desalination unit,1,seawater desalination plant,2
+313,heat pumps,1,desalination of marginal water,2
+314,power station,1,solar parabolic troughs,2
+315,iaea,1,hollow fiber type reverse osmosis,2
+316,southern europe,1,spiral wound,2
+317,saudi arabia,1,iaea,2
+318,process,1,southern europe,2
+319,nuclear energy,1,integrated systems,2
+320,heating reactor,1,integrated coastal management (icm),1
+321,lt-med,1,carbon capture and sequestration,1
+322,pool-type reactor,1,membrane-based oxy-combustion cycles,1
+323,integrated systems,1,direct contact membrane distillation (dcmd),1
+324,brackish water,1,seawater desalination technologies,1
+325,membrane technology,1,multi-stage flash distillation,1

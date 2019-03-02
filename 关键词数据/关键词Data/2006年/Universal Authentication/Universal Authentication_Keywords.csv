@@ -1,0 +1,405 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,authentication,59,authentication,198
+1,security,16,security,63
+2,umts,12,umts,44
+3,universal hash,8,privacy,21
+4,key agreement,7,key agreement,21
+5,privacy,6,rfid,19
+6,universal hashing,6,universal hash,19
+7,message authentication codes,6,universal hashing,18
+8,cryptography,5,usability,17
+9,usability,5,mac,17
+10,user authentication,5,cryptography,16
+11,mac,5,authorization,16
+12,rfid,5,biometrics,15
+13,message authentication,4,user authentication,15
+14,biometrics,4,message authentication codes,13
+15,authorization,4,identity,13
+16,aka,4,aka,13
+17,mutual authentication,3,universal,10
+18,authentication code,3,web,10
+19,universal composability,3,wireless lan,10
+20,confidentiality,3,mutual authentication,9
+21,identity,3,message authentication,9
+22,universal,3,accounting,9
+23,smart card,3,smart card,9
+24,wireless lan,3,wlan,9
+25,3g,3,aaa,9
+26,privacy preservation,2,3g,9
+27,internet of things,2,authentication code,8
+28,two-factor authentication,2,password,8
+29,key,2,galois/counter mode,8
+30,game theory,2,cycling attacks,8
+31,phy-layer authentication,2,weak keys,8
+32,password,2,usim,8
+33,authentication technologies,2,wireless,8
+34,authenticated encryption,2,information,8
+35,galois/counter mode,2,protocol,8
+36,cycling attacks,2,confidentiality,7
+37,weak keys,2,identity management,7
+38,cognitive radio,2,mobile,7
+39,key exchange,2,identification,7
+40,accounting,2,privacy preservation,6
+41,quantum key distribution,2,internet of things,6
+42,universal hash function,2,game theory,6
+43,identity management,2,phy-layer authentication,6
+44,mobile,2,authentication technologies,6
+45,authentication protocol,2,authenticated encryption,6
+46,authenticity,2,universal composability,6
+47,message authentication code (mac),2,key exchange,6
+48,usim,2,steganography,6
+49,message authentication code,2,3gpp aka,6
+50,steganography,2,ims aka,6
+51,web,2,design,6
+52,identification,2,theory,6
+53,3gpp aka,2,epcgen2,6
+54,ims aka,2,forward,6
+55,wireless,2,anonymous,6
+56,information,2,3gpp,6
+57,mutual,2,gprs,6
+58,anonymous,2,anonymous roaming,6
+59,wlan,2,ban,6
+60,conditional privacy,2,conditional privacy,6
+61,universal network,2,universal network,6
+62,pervasive service,2,pervasive service,6
+63,provably secure,2,provably secure,6
+64,random oracle,2,random oracle,6
+65,aaa,2,fido,5
+66,protocol,2,security analysis,5
+67,square hash,2,trusted computing,5
+68,universal 2nd factor (u2f),1,tpm,5
+69,trust,1,remote,5
+70,token,1,consumer storage,5
+71,blockchain,1,mass storage device,5
+72,distributed data storage,1,usb,5
+73,face authentication,1,flash,5
+74,android application,1,cognitive radio,5
+75,secure,1,universal hash function,5
+76,authentication code with secrecy,1,authentication protocol,5
+77,restricted linear,1,uid,5
+78,machine vision,1,validation,5
+79,modelling of light,1,registration,5
+80,elliptic curve,1,mutual,5
+81,data integrity,1,2fa,5
+82,crc,1,emv,5
+83,soft biometrics,1,sign-on,5
+84,data protection,1,sso,5
+85,human rights,1,trust,4
+86,gdpr,1,token,4
+87,continuous authentication,1,blockchain,4
+88,universal feature representations,1,distributed data storage,4
+89,fragile watermarking,1,soft biometrics,4
+90,image authentication,1,data protection,4
+91,perceptual hash,1,human rights,4
+92,tamper,1,gdpr,4
+93,secret sharing,1,two-factor authentication,4
+94,universal construction,1,key,4
+95,rushing cheater,1,caesar,4
+96,embedded security,1,elmd,4
+97,public,1,forgery attack,4
+98,security threat,1,key recovery,4
+99,computer security,1,physical layer,4
+100,device-to-device (d2d) communications,1,primary user,4
+101,lte-advanced network,1,man-in-the-middle,4
+102,fido,1,dos,4
+103,security analysis,1,redirection,4
+104,trusted computing,1,convergence,4
+105,tpm,1,behavioral biometrics,4
+106,remote,1,dna,4
+107,real time communications,1,bioinformatics,4
+108,webrtc,1,biomolecular,4
+109,universal hash-function families,1,sequence alignment,4
+110,fido uaf protocol,1,attacks,4
+111,online authentication,1,overheads,4
+112,impersonation attack,1,authenticity,4
+113,reinforcement learning,1,message authentication code (mac),4
+114,spoofing,1,user equipment,4
+115,consumer storage,1,security protocol,4
+116,mass storage device,1,iptv,4
+117,usb,1,java card,4
+118,flash,1,mobile identity,4
+119,number-theoretic transforms (ntt),1,mobile id,4
+120,quantum key,1,message authentication code,4
+121,almost universal hash function,1,g-lets,4
+122,related-key attack,1,copyright protection,4
+123,related-key almost,1,mean square,4
+124,mimo,1,chaos,4
+125,spoofing detection,1,hash function,4
+126,caesar,1,chebyshev,4
+127,elmd,1,password guessing attack,4
+128,forgery attack,1,xor network coding,4
+129,key recovery,1,pollution attack,4
+130,verifiable computation,1,denial of services,4
+131,universal hash functions,1,trees,4
+132,homomorphic,1,revocation,4
+133,two-server password-based authentication,1,key establishment,4
+134,mobile computing environment,1,universal access,4
+135,multimedia information security,1,integrity verification,4
+136,speech,1,merkle tree,4
+137,m2m,1,wh,4
+138,gbs-aka,1,speculative,4
+139,bandwidth consumption,1,flexibility,4
+140,signaling congestion,1,framework,4
+141,field buses,1,cellular network,4
+142,authorisation,1,eap,4
+143,secure control protocol,1,authentication and key agreement,4
+144,password smart card,1,ssl,4
+145,remote authentication,1,pki,4
+146,physical layer,1,mobile security,4
+147,primary user,1,rf-ucard,4
+148,man-in-the-middle,1,role,4
+149,dos,1,ims,4
+150,redirection,1,sip,4
+151,almost universal forgery,1,automatic,4
+152,alred,1,efficiency,4
+153,pelican,1,rfid reader,4
+154,multi-domain authentication,1,usb key,4
+155,direct product decomposition,1,gsm,4
+156,bilinear,1,handover,4
+157,blind-signcryption,1,high-speed,4
+158,message recovery,1,third generation (3g),4
+159,assistive environments,1,square hash,4
+160,authentication protocol and aaa key agreement,1,data security,4
+161,convergence,1,micropayments,4
+162,mobile identity authentication,1,universal 2nd factor (u2f),3
+163,eid,1,face authentication,3
+164,nfc,1,android application,3
+165,potentilla discolor bge.,1,secure,3
+166,its,1,machine vision,3
+167,trnl-f,1,modelling of light,3
+168,sequencing: authentication,1,elliptic curve,3
+169,almost strongly universal hash,1,data integrity,3
+170,ownership transfer privacy,1,crc,3
+171,pseudo random,1,fragile watermarking,3
+172,behavioral biometrics,1,image authentication,3
+173,strong authentication,1,perceptual hash,3
+174,identity federation,1,tamper,3
+175,cloud computing,1,embedded security,3
+176,shared,1,public,3
+177,dna,1,security threat,3
+178,bioinformatics,1,computer security,3
+179,biomolecular,1,real time communications,3
+180,sequence alignment,1,webrtc,3
+181,mobile network,1,reinforcement learning,3
+182,universal mobile telecommunication system,1,spoofing,3
+183,information theory,1,mimo,3
+184,privacy amplification,1,spoofing detection,3
+185,strongly universal hash functions,1,m2m,3
+186,partially known key,1,gbs-aka,3
+187,attacks,1,bandwidth consumption,3
+188,overheads,1,signaling congestion,3
+189,communication network,1,field buses,3
+190,secure authentication protocol,1,authorisation,3
+191,one time password,1,secure control protocol,3
+192,usb storage devices,1,almost universal forgery,3
+193,saas,1,alred,3
+194,multi-tenancy,1,pelican,3
+195,integrity,1,blind-signcryption,3
+196,user equipment,1,message recovery,3
+197,security protocol,1,assistive environments,3
+198,off-line password guessing attack,1,potentilla discolor bge.,3
+199,user privacy,1,its,3
+200,common,1,trnl-f,3
+201,universal hash family,1,sequencing: authentication,3
+202,pn function,1,quantum key distribution,3
+203,multi-output bent function,1,strong authentication,3
+204,message,1,identity federation,3
+205,security and privacy,1,cloud computing,3
+206,roaming service,1,shared,3
+207,wireless and,1,saas,3
+208,iptv,1,multi-tenancy,3
+209,java card,1,integrity,3
+210,mobile identity,1,off-line password guessing attack,3
+211,mobile id,1,user privacy,3
+212,hash functions,1,common,3
+213,multiple input shift,1,universal hash family,3
+214,machine-to-machine (m2m) communications,1,pn function,3
+215,3rd generation partnership,1,multi-output bent function,3
+216,steganalysis,1,message,3
+217,network authentication protocol,1,security and privacy,3
+218,model checking,1,roaming service,3
+219,spin,1,wireless and,3
+220,pkm protocol,1,network authentication protocol,3
+221,uid,1,model checking,3
+222,validation,1,spin,3
+223,registration,1,pkm protocol,3
+224,verification,1,verification,3
+225,universal identification,1,universal identification,3
+226,g-lets,1,synchronization,3
+227,copyright protection,1,identity card,3
+228,mean square,1,universal print driver,3
+229,chaos,1,data encryption,3
+230,hash function,1,cloud print,3
+231,chebyshev,1,password-based,3
+232,password guessing attack,1,remote access,3
+233,xor network coding,1,tamper-resistant,3
+234,pollution attack,1,identity authentication,3
+235,denial of services,1,single sign-on,3
+236,trees,1,dynamic password,3
+237,synchronization,1,cryptanalysis,3
+238,universal authentication framework,1,diffie-hellman key exchange,3
+239,archive management,1,digital signature,3
+240,secure access,1,self-verified,3
+241,potentilla,1,mobile authentication,3
+242,trnl sequence,1,group signature,3
+243,identity card,1,identity-based key,3
+244,universal print driver,1,otp,3
+245,data encryption,1,wireless broadband internet,3
+246,cloud print,1,authentication mechanism,3
+247,heterogeneous networks,1,mobile-otp,3
+248,extensible authentication protocol,1,hash chain,3
+249,lightweight,1,mobile value-added services,3
+250,password-based,1,ticket-based,3
+251,remote access,1,less delay,3
+252,tamper-resistant,1,mobile networks,3
+253,key agreement protocol,1,units aka,3
+254,universal mobile,1,man-in-the-middle attack,3
+255,design,1,redirection attack,3
+256,theory,1,mobile device,3
+257,epcgen2,1,trusted mobile platform,3
+258,forward,1,sensor networks,3
+259,universal mobile telecommunications system (umts),1,aggregation,3
+260,three-level,1,macs,3
+261,rfid (radio frequency identification),1,vehicular ad-hoc network,3
+262,revocation,1,movement,3
+263,key establishment,1,security algorithms,3
+264,information security,1,security services,3
+265,the internet of things,1,unlicensed mobile access,3
+266,message-attached password,1,cas,3
+267,identity authentication,1,dmb,3
+268,single sign-on,1,universal naming convention,3
+269,dynamic password,1,deniability,3
+270,universal access,1,authentication vector,3
+271,access authentication,1,security function,3
+272,hibs,1,units core network,3
+273,hierarchical id,1,hash,3
+274,rfid security and privacy,1,universal composable security,3
+275,integrity verification,1,perfect forward secrecy,3
+276,merkle tree,1,interworking,3
+277,wh,1,tree,3
+278,speculative,1,pseudo-random generator,3
+279,cryptanalysis,1,modular reduction,3
+280,diffie-hellman key exchange,1,euclidean ring,3
+281,digital signature,1,lattice,3
+282,self-verified,1,watermarking,3
+283,mobile authentication,1,cnn-um,3
+284,3gpp,1,cellular automaton,3
+285,gprs,1,mobile radiocommunication,3
+286,anonymous roaming,1,smartcard,3
+287,ban,1,mobile telecommunications,3
+288,two-channel cryptography,1,data integrity and data encryption,3
+289,unconditional security,1,lawful,3
+290,protocol jamming,1,low bias,3
+291,medium access control,1,almost independent arrays,3
+292,group signature,1,reed-solomon codes,3
+293,identity-based key,1,hermitian,3
+294,otp,1,hashing,3
+295,wireless broadband internet,1,authentication code with secrecy,2
+296,authentication mechanism,1,restricted linear,2
+297,mobile-otp,1,secret sharing,2
+298,hash chain,1,universal construction,2
+299,mobile value-added services,1,rushing cheater,2
+300,ticket-based,1,device-to-device (d2d) communications,2
+301,flexibility,1,lte-advanced network,2
+302,framework,1,fido uaf protocol,2
+303,less delay,1,online authentication,2
+304,mobile networks,1,impersonation attack,2
+305,units aka,1,number-theoretic transforms (ntt),2
+306,man-in-the-middle attack,1,quantum key,2
+307,redirection attack,1,almost universal hash function,2
+308,cellular network,1,related-key attack,2
+309,eap,1,related-key almost,2
+310,quantum cryptography,1,verifiable computation,2
+311,wegman-carter,1,universal hash functions,2
+312,authentication and key agreement,1,homomorphic,2
+313,ssl,1,two-server password-based authentication,2
+314,pki,1,mobile computing environment,2
+315,mobile security,1,multimedia information security,2
+316,robust unforgeability,1,speech,2
+317,mobile device,1,password smart card,2
+318,trusted mobile platform,1,remote authentication,2
+319,sensor networks,1,multi-domain authentication,2
+320,aggregation,1,direct product decomposition,2
+321,macs,1,bilinear,2
+322,vehicular ad-hoc network,1,mobile identity authentication,2
+323,movement,1,eid,2
+324,security algorithms,1,nfc,2
+325,security services,1,ownership transfer privacy,2
+326,rf-ucard,1,pseudo random,2
+327,role,1,information theory,2
+328,domain-oriented access control,1,privacy amplification,2
+329,pervasive computing,1,strongly universal hash functions,2
+330,identity-based,1,partially known key,2
+331,unlicensed mobile access,1,communication network,2
+332,cas,1,secure authentication protocol,2
+333,dmb,1,one time password,2
+334,universal naming convention,1,usb storage devices,2
+335,deniability,1,hash functions,2
+336,2fa,1,multiple input shift,2
+337,emv,1,steganalysis,2
+338,sign-on,1,universal authentication framework,2
+339,sso,1,archive management,2
+340,anonymity,1,secure access,2
+341,anonymous message authentication,1,potentilla,2
+342,ims,1,trnl sequence,2
+343,sip,1,heterogeneous networks,2
+344,authentication vector,1,extensible authentication protocol,2
+345,security function,1,lightweight,2
+346,units core network,1,key agreement protocol,2
+347,hash,1,universal mobile,2
+348,universal composable security,1,information security,2
+349,automatic,1,the internet of things,2
+350,efficiency,1,message-attached password,2
+351,rfid reader,1,access authentication,2
+352,usb key,1,hibs,2
+353,wegman-carter construction,1,hierarchical id,2
+354,perfect forward secrecy,1,rfid security and privacy,2
+355,divide-and-coneatenate,1,two-channel cryptography,2
+356,performance optimization,1,unconditional security,2
+357,interworking,1,protocol jamming,2
+358,gsm,1,medium access control,2
+359,handover,1,quantum cryptography,2
+360,high-speed,1,wegman-carter,2
+361,sim strong authentication,1,robust unforgeability,2
+362,internet service authentication,1,domain-oriented access control,2
+363,hb+ protocol,1,pervasive computing,2
+364,active attacks,1,identity-based,2
+365,provable security,1,anonymity,2
+366,call session control function (cscf),1,anonymous message authentication,2
+367,general packet,1,wegman-carter construction,2
+368,third generation (3g),1,divide-and-coneatenate,2
+369,tree,1,performance optimization,2
+370,pseudo-random generator,1,hb+ protocol,2
+371,modular reduction,1,active attacks,2
+372,euclidean ring,1,provable security,2
+373,lattice,1,call session control function (cscf),2
+374,universal mobile telecommunications systems (umts),1,general packet,2
+375,high-speed portable,1,graphical mechanisms,2
+376,graphical mechanisms,1,visuo-spatial memory,2
+377,visuo-spatial memory,1,authentication center (auc),2
+378,watermarking,1,general packet radio,2
+379,cnn-um,1,signature scheme,2
+380,cellular automaton,1,convertible limited verifier signature,2
+381,mobile radiocommunication,1,wireless access control,2
+382,hotspot network security,1,certificate,2
+383,wlan security,1,distributed authorization,2
+384,authentication center (auc),1,algebraic curve,2
+385,general packet radio,1,strongly universal hash family,2
+386,signature scheme,1,continuous authentication,1
+387,convertible limited verifier signature,1,universal feature representations,1
+388,smartcard,1,universal hash-function families,1
+389,mobile telecommunications,1,authentication protocol and aaa key agreement,1
+390,data security,1,almost strongly universal hash,1
+391,micropayments,1,mobile network,1
+392,data integrity and data encryption,1,universal mobile telecommunication system,1
+393,lawful,1,machine-to-machine (m2m) communications,1
+394,wireless access control,1,3rd generation partnership,1
+395,certificate,1,universal mobile telecommunications system (umts),1
+396,distributed authorization,1,three-level,1
+397,algebraic curve,1,rfid (radio frequency identification),1
+398,strongly universal hash family,1,sim strong authentication,1
+399,low bias,1,internet service authentication,1
+400,almost independent arrays,1,universal mobile telecommunications systems (umts),1
+401,reed-solomon codes,1,high-speed portable,1
+402,hermitian,1,hotspot network security,1
+403,hashing,1,wlan security,1

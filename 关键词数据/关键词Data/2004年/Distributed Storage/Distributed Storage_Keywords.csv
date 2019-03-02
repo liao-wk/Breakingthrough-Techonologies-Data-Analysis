@@ -1,0 +1,292 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,distributed storage,27,distributed storage,73
+1,distributed storage system,14,distributed storage system,36
+2,distributed storage systems,6,cloud computing,15
+3,distributed,6,distributed file system,15
+4,distributed file system,6,distributed,14
+5,erasure coding,5,hdfs,13
+6,cloud computing,5,erasure coding,12
+7,storage,4,distributed storage systems,12
+8,cloud storage,4,hadoop,12
+9,hadoop,4,storage,11
+10,hdfs,4,cloud storage,11
+11,distributed energy storage,3,energy storage,9
+12,regenerating codes,3,big data,7
+13,energy storage,3,load,7
+14,consistency,2,regenerating codes,7
+15,distributed computing,2,consistency,6
+16,data storage,2,heterogeneous,6
+17,distributed heterogeneous environment,2,load balance,6
+18,massive data,2,iscsi,6
+19,distributed control,2,distributed file systems,6
+20,fault tolerance,2,storage system,6
+21,energy storage systems,2,distributed computing,5
+22,heterogeneous,2,data storage,5
+23,big data,2,distributed energy storage,5
+24,load,2,distributed heterogeneous environment,5
+25,network storage,2,massive data,5
+26,distributed system,2,distributed control,5
+27,photovoltaic,2,fault tolerance,5
+28,distributed generation (dg),2,network storage,5
+29,virtualization,2,distributed system,5
+30,load balance,2,photovoltaic,5
+31,erasure code,2,erasure code,5
+32,distributed generation,2,distributed generation,5
+33,iscsi,2,distributed hash table,5
+34,distributed file systems,2,energy storage systems,4
+35,distributed hash table,2,hash distribution,4
+36,storage system,2,data backup,4
+37,capacity,1,storage overhead,4
+38,network coding,1,data,4
+39,data deduplication,1,msr,4
+40,delta compression,1,hadamard,4
+41,similarity,1,repair strategy,4
+42,tokamak,1,computation load,4
+43,daq,1,distributed generation (dg),4
+44,energy internet,1,virtualization,4
+45,function orientation,1,file storage,4
+46,power distribution networks,1,distributed algorithms,4
+47,software-defined data center,1,expanders,4
+48,data storage system,1,geo-routing,4
+49,distributed data,1,p2p,4
+50,distributed file storage system,1,random walk,4
+51,distributed metadata,1,pv,4
+52,sharing,1,voltage profile,4
+53,energy storage system,1,demand management,4
+54,power tracking,1,peak,4
+55,energy,1,smes,4
+56,alternating optimization,1,distributed smes,4
+57,efficiency,1,hybrid energy storage,4
+58,information dispersal,1,energy management,4
+59,independent distributed source coding,1,smart,4
+60,exact repair,1,data deduplication,3
+61,cognitive storage sinks,1,delta compression,3
+62,conventional sensors,1,similarity,3
+63,ddd-framework,1,tokamak,3
+64,ac/dc hybrid microgrid,1,daq,3
+65,centralized energy storage,1,sharing,3
+66,distributed energy,1,energy storage system,3
+67,file-system faults,1,power tracking,3
+68,data corruption,1,energy,3
+69,energy storage unit,1,efficiency,3
+70,distributed gradient algorithm,1,information dispersal,3
+71,time-varying,1,mimic defense,3
+72,distributed consensus algorithm,1,dynamic,3
+73,transmission,1,solid state drive,3
+74,electrical energy storage technology,1,data flow calculation,3
+75,micro grid,1,big data storage,3
+76,mimic defense,1,reliability analysis,3
+77,dynamic,1,mttdl,3
+78,solid state drive,1,locally,3
+79,data flow calculation,1,performance,3
+80,big data storage,1,availability,3
+81,reliability analysis,1,mass data,3
+82,mttdl,1,divisional storage model,3
+83,locally,1,orbiting,3
+84,performance,1,replication,3
+85,availability,1,hybrid codes,3
+86,transparent encryption,1,data placement,3
+87,confidentiality,1,data throughput,3
+88,hash distribution,1,glusterfs,3
+89,data backup,1,partial shading,3
+90,mass data,1,flywheel storage system,3
+91,divisional storage model,1,distribution,3
+92,orbiting,1,green computing,3
+93,replication,1,qos,3
+94,hybrid codes,1,log storage,3
+95,scalable distributed storage,1,virtual node,3
+96,redundancy upgrade,1,consistency hash,3
+97,storage overhead,1,data redundancy,3
+98,data,1,storage reliability,3
+99,space information network,1,block migration,3
+100,autonomous system network,1,storage tiering,3
+101,hybrid distributed,1,storage structure,3
+102,distributed systems,1,block-level,3
+103,data placement,1,fuzzy logic control,3
+104,data throughput,1,gain-scheduling,3
+105,glusterfs,1,energy storage system (ess),3
+106,lan,1,dc,3
+107,optimization,1,trust management,3
+108,rdbms,1,trust storage,3
+109,column-oriented storage,1,certificateless signature,3
+110,named data networking,1,chord,3
+111,nfd,1,highly available storage,3
+112,msr,1,imagery data,3
+113,hadamard,1,image,3
+114,repair strategy,1,information dispersal algorithm,3
+115,computation load,1,information storage,3
+116,ant colony algorithm,1,intrinsic computation,3
+117,distributed mass storage,1,complex systems,3
+118,heuristic algorithms,1,information,3
+119,battery energy storage systems (bess),1,data reconstruction,3
+120,distributed cooperative control,1,partial downloading,3
+121,partial shading,1,wireless,3
+122,flywheel storage system,1,massive small files,3
+123,distribution,1,metadata,3
+124,decentralized control,1,network,3
+125,green computing,1,p2pcloud,3
+126,qos,1,logical server,3
+127,distributed energy storage systems,1,dht,3
+128,droop control,1,power systems,3
+129,equalization,1,renewable energy,3
+130,fractional repetition codes,1,object-based storage,3
+131,flower codes,1,metadata management,3
+132,repair-locality,1,bloom-filter,3
+133,rateless codes,1,unstructured,3
+134,cloud application benchmarks,1,mass storage,3
+135,storage and file systems,1,modeling techniques,3
+136,log storage,1,redundant design,3
+137,virtual node,1,gfs,3
+138,consistency hash,1,master,3
+139,data reliability,1,data storage method,3
+140,successfully accessing,1,integrated threshold,3
+141,data redundancy,1,wireless sensor,3
+142,storage reliability,1,distributed computing system,3
+143,multi-agent system,1,storage subsystem,3
+144,plug-in hybrid,1,external,3
+145,scada simulation,1,regular graph,3
+146,storage technologies,1,peterson,3
+147,block migration,1,survivability,3
+148,storage tiering,1,data distributing,3
+149,automatic generation control,1,jordan matrix,3
+150,frequency,1,deletion-tolerant code,3
+151,online social network,1,reliability,3
+152,dynamic partition and,1,dependable network,3
+153,mapreduce,1,virtual storage,3
+154,storage structure,1,scheme,3
+155,block-level,1,weighted distributed hash tables,3
+156,file storage,1,data distribution,3
+157,fuzzy logic control,1,data node,3
+158,gain-scheduling,1,high temperature superconductor,3
+159,energy storage system (ess),1,magnet,3
+160,dc,1,flywheel,3
+161,wireless storage,1,wind enery,3
+162,maximum distance separable,1,distribution systems,3
+163,distributed algorithms,1,system losses,3
+164,expanders,1,fault tolerant,3
+165,geo-routing,1,queue model,3
+166,p2p,1,grid caching,3
+167,random walk,1,collaborative cache,3
+168,file system,1,grid data access,3
+169,data center networks,1,temporal storage,3
+170,trust management,1,gigaspaces,3
+171,trust storage,1,tuple space,3
+172,certificateless signature,1,database,3
+173,chord,1,distributed processing,3
+174,pv,1,capacity,2
+175,voltage profile,1,network coding,2
+176,demand management,1,energy internet,2
+177,peak,1,function orientation,2
+178,service level agreement,1,software-defined data center,2
+179,quality of service,1,data storage system,2
+180,highly available storage,1,distributed data,2
+181,imagery data,1,distributed file storage system,2
+182,image,1,distributed metadata,2
+183,information dispersal algorithm,1,alternating optimization,2
+184,smes,1,independent distributed source coding,2
+185,distributed smes,1,exact repair,2
+186,hybrid energy storage,1,cognitive storage sinks,2
+187,energy management,1,conventional sensors,2
+188,smart,1,ddd-framework,2
+189,without central authority,1,ac/dc hybrid microgrid,2
+190,information storage,1,centralized energy storage,2
+191,intrinsic computation,1,distributed energy,2
+192,complex systems,1,file-system faults,2
+193,information,1,data corruption,2
+194,data reconstruction,1,energy storage unit,2
+195,partial downloading,1,distributed gradient algorithm,2
+196,wireless,1,time-varying,2
+197,active network management,1,distributed consensus algorithm,2
+198,advanced distribution automation,1,transmission,2
+199,decentralized erasure code,1,electrical energy storage technology,2
+200,proxy re-encryption,1,micro grid,2
+201,threshold cryptography,1,transparent encryption,2
+202,cloud infrastructure,1,confidentiality,2
+203,distributed hash tables,1,scalable distributed storage,2
+204,massive small files,1,redundancy upgrade,2
+205,metadata,1,space information network,2
+206,network,1,autonomous system network,2
+207,p2pcloud,1,hybrid distributed,2
+208,logical server,1,distributed systems,2
+209,dht,1,lan,2
+210,erasure codes,1,optimization,2
+211,renewable energy generation,1,rdbms,2
+212,mechanical energy storage,1,column-oriented storage,2
+213,electrochemical,1,named data networking,2
+214,power systems,1,nfd,2
+215,renewable energy,1,ant colony algorithm,2
+216,object-based storage,1,distributed mass storage,2
+217,metadata management,1,heuristic algorithms,2
+218,bloom-filter,1,decentralized control,2
+219,unstructured,1,distributed energy storage systems,2
+220,mooring monitoring system,1,droop control,2
+221,prediction method,1,equalization,2
+222,virtualized desktop,1,fractional repetition codes,2
+223,mass storage,1,flower codes,2
+224,modeling techniques,1,repair-locality,2
+225,redundant design,1,rateless codes,2
+226,gfs,1,cloud application benchmarks,2
+227,master,1,storage and file systems,2
+228,data storage method,1,data reliability,2
+229,integrated threshold,1,successfully accessing,2
+230,wireless sensor,1,multi-agent system,2
+231,networked storage system,1,plug-in hybrid,2
+232,decentralized,1,scada simulation,2
+233,micro-storage system (mss),1,storage technologies,2
+234,distributed computing system,1,automatic generation control,2
+235,storage subsystem,1,frequency,2
+236,external,1,online social network,2
+237,wireless sensor network,1,dynamic partition and,2
+238,distributed data storage policy,1,mapreduce,2
+239,query,1,wireless storage,2
+240,survivable storage,1,maximum distance separable,2
+241,quorum system,1,file system,2
+242,coterie,1,data center networks,2
+243,structured peer-to-peer networks,1,service level agreement,2
+244,regular graph,1,quality of service,2
+245,peterson,1,without central authority,2
+246,survivability,1,active network management,2
+247,data distributing,1,advanced distribution automation,2
+248,jordan matrix,1,decentralized erasure code,2
+249,data accessing,1,proxy re-encryption,2
+250,replica,1,threshold cryptography,2
+251,data currency,1,cloud infrastructure,2
+252,cloud model,1,distributed hash tables,2
+253,reality,1,erasure codes,2
+254,deletion-tolerant code,1,renewable energy generation,2
+255,reliability,1,mechanical energy storage,2
+256,dependable network,1,electrochemical,2
+257,virtual storage,1,mooring monitoring system,2
+258,scheme,1,prediction method,2
+259,weighted distributed hash tables,1,virtualized desktop,2
+260,data distribution,1,networked storage system,2
+261,data node,1,decentralized,2
+262,high temperature superconductor,1,micro-storage system (mss),2
+263,magnet,1,wireless sensor network,2
+264,flywheel,1,distributed data storage policy,2
+265,distributed file storage,1,query,2
+266,low-density parity-check (ldpc) codes,1,survivable storage,2
+267,wind enery,1,quorum system,2
+268,distribution systems,1,coterie,2
+269,system losses,1,structured peer-to-peer networks,2
+270,fault tolerant,1,data accessing,2
+271,queue model,1,replica,2
+272,grid caching,1,data currency,2
+273,collaborative cache,1,cloud model,2
+274,grid data access,1,reality,2
+275,temporal storage,1,agent,2
+276,agent,1,performative,2
+277,performative,1,non-uniform capacity,2
+278,non-uniform capacity,1,dynamic interval mapping,2
+279,dynamic interval mapping,1,application-control,2
+280,application-control,1,data-intensive application,2
+281,data-intensive application,1,data distribution policy,2
+282,data distribution policy,1,estimation and decision,2
+283,estimation and decision,1,optical storage,2
+284,gigaspaces,1,media assets management,2
+285,tuple space,1,hierarchical storage,2
+286,database,1,power distribution networks,1
+287,distributed processing,1,battery energy storage systems (bess),1
+288,optical storage,1,distributed cooperative control,1
+289,media assets management,1,distributed file storage,1
+290,hierarchical storage,1,low-density parity-check (ldpc) codes,1

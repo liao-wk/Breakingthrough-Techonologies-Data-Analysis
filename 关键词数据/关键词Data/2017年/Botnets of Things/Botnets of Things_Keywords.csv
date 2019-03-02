@@ -1,0 +1,84 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,botnet,8,botnet,33
+1,iot,6,iot,21
+2,internet of things,6,internet of things,21
+3,botnets,5,botnets,16
+4,botnet detection,4,security,16
+5,security,4,ddos,14
+6,internet of things (iot),3,malware,13
+7,malware,3,network security,11
+8,machine learning,3,internet of things (iot),9
+9,network security,3,botnet detection,9
+10,ddos,3,vulnerability,8
+11,cybersecurity,2,machine learning,7
+12,vulnerability,2,cybersecurity,7
+13,multivariate hawkes process,1,bot-master,7
+14,cloud computing,1,ddos attacks,7
+15,network function virtualization,1,ddns,7
+16,denial of service (dos) attacks,1,ffsn,7
+17,packet level authentication,1,dns,7
+18,traffic,1,c&c server,7
+19,load spikes,1,irc based,7
+20,primary reserve,1,nba,5
+21,information security,1,cybertrust,5
+22,technology,1,distributed denial of service,5
+23,distributed,1,mirai,5
+24,cryptocurrency,1,hajime,5
+25,mining,1,computer security,5
+26,smart home iot,1,android security,5
+27,network access control,1,sat nav,5
+28,software-defined networking,1,trojan,5
+29,iot devices,1,cryptocurrency,4
+30,game theory,1,mining,4
+31,malicious code detection,1,internet-of-things,4
+32,running status,1,id spoofing,4
+33,internet-of-things,1,6lowpan,4
+34,id spoofing,1,wire-shark,4
+35,6lowpan,1,nmap,4
+36,mitigation,1,mqtt,4
+37,distribution denial of service,1,command and control,4
+38,attack investigation,1,c2,4
+39,internet of thing (iot),1,embedded systems,4
+40,wire-shark,1,network,4
+41,nmap,1,smart devices,4
+42,online criminality,1,blockchain,4
+43,behaviour systems in crime,1,software updates,4
+44,social media fraud,1,availability,4
+45,mqtt,1,accountability,4
+46,command and control,1,cyber security,4
+47,c2,1,honeypot,4
+48,embedded systems,1,threat intelligence,4
+49,network,1,information security,3
+50,smart devices,1,technology,3
+51,nba,1,distributed,3
+52,cybertrust,1,malicious code detection,3
+53,distributed denial of service,1,running status,3
+54,mirai,1,attack investigation,3
+55,hajime,1,internet of thing (iot),3
+56,blockchain,1,intrusion detection,3
+57,software updates,1,pattern matching,3
+58,availability,1,evaluation,3
+59,accountability,1,cyber attacks,3
+60,cyber security,1,multivariate hawkes process,2
+61,honeypot,1,cloud computing,2
+62,threat intelligence,1,network function virtualization,2
+63,clustering,1,denial of service (dos) attacks,2
+64,intrusion detection,1,packet level authentication,2
+65,pattern matching,1,traffic,2
+66,evaluation,1,load spikes,2
+67,cyber attacks,1,primary reserve,2
+68,computer security,1,smart home iot,2
+69,android security,1,network access control,2
+70,sat nav,1,software-defined networking,2
+71,trojan,1,iot devices,2
+72,cloud service provider,1,game theory,2
+73,virtualised infrastructure,1,mitigation,2
+74,bot-master,1,distribution denial of service,2
+75,ddos attacks,1,online criminality,2
+76,ddns,1,behaviour systems in crime,2
+77,ffsn,1,social media fraud,2
+78,dns,1,clustering,2
+79,c&c server,1,cloud service provider,2
+80,irc based,1,virtualised infrastructure,2
+81,evolution,1,evolution,2
+82,defense,1,defense,2

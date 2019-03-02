@@ -1,0 +1,165 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,hadron-hadron scattering,6,ndn,10
+1,delay-tolerant networks (dtns),5,delay-tolerant networks (dtns),9
+2,hadron-hadron scattering (experiments),4,security,8
+3,higgs physics,3,hadron-hadron scattering,7
+4,security,3,delay tolerant networks,7
+5,delay tolerant networks,3,dtns,7
+6,beyond standard model,3,vehicular networks,7
+7,catalogs,2,higgs physics,6
+8,surveys,2,multicast,6
+9,atlas,2,delay tolerant networking,6
+10,working memory,2,selfish,6
+11,supersymmetry,2,reputation based incentive,6
+12,performance evaluation,2,cooperating stimulation,6
+13,vehicular delay-tolerant networks,2,encounter prediction,6
+14,multicast,2,connectivity,6
+15,dtns,2,routing,6
+16,delay tolerant networking,2,catalogs,5
+17,epidemic routing,2,surveys,5
+18,ndn,2,working memory,5
+19,selfish,2,icesat-2,5
+20,reputation based incentive,2,land ice,5
+21,cooperating stimulation,2,sea ice,5
+22,encounter prediction,2,vegetation,5
+23,vehicular networks,2,climate change,5
+24,connectivity,2,satellite,5
+25,delay tolerant network (dtn),2,named data networking,5
+26,routing,2,ip,5
+27,delay-tolerant network,2,information centric networking,5
+28,x-rays: general,1,icn,5
+29,higgs boson,1,delay tolerant network (dtn),5
+30,spin,1,delay-tolerant network,5
+31,parity,1,atlas,4
+32,underwater acoustic communication,1,supersymmetry,4
+33,underwater sensor networks,1,performance evaluation,4
+34,acoustic,1,beyond standard model,4
+35,lhc,1,standards,4
+36,heavy ion,1,disruption,4
+37,jets,1,irtf,4
+38,computational modeling,1,dtnrg,4
+39,delay/disruption tolerant networks,1,capacity limits,4
+40,intermittently connected networks,1,decay,4
+41,large detector systems for particle and astroparticle physics,1,resources,4
+42,large,1,interference,4
+43,incentive scheme,1,epidemic routing,4
+44,mobile data offloading,1,inter contact time,4
+45,hybrid networks,1,clustering,4
+46,wifi,1,hotspot area,4
+47,delay-tolerant networks,1,aging,4
+48,dark matter,1,frailty,4
+49,delay- and disruption-tolerant networking (dtn),1,mortality,4
+50,performance enhancing,1,complex network,4
+51,astronomical databases: miscellaneous,1,computational model,4
+52,x-rays:,1,hadron-hadron scattering (experiments),3
+53,exotics,1,lhc,3
+54,energy-efficient forwarding,1,heavy ion,3
+55,future internet architecture survey,1,jets,3
+56,future internet design (find),1,mobile data offloading,3
+57,social selfishness,1,hybrid networks,3
+58,delay/disruption-tolerant networks,1,wifi,3
+59,delay tolerant networks (dtns),1,delay-tolerant networks,3
+60,node selfishness,1,dark matter,3
+61,performance,1,astronomical databases: miscellaneous,3
+62,bsm higgs boson,1,x-rays:,3
+63,calculation,1,vehicular delay-tolerant networks,3
+64,hadronic calibration,1,delay tolerant networks (dtns),3
+65,detector,1,node selfishness,3
+66,automatic meter reading (amr),1,performance,3
+67,smart meters,1,vanets,3
+68,wireless communications,1,vdtns,3
+69,vanets,1,its,3
+70,vdtns,1,internet of underwater things,3
+71,its,1,architecture,3
+72,standards,1,applications,3
+73,disruption,1,research,3
+74,irtf,1,file sharing,3
+75,dtnrg,1,m2mshare,3
+76,interplanetary internet,1,mobile,3
+77,deep space network,1,social-aware network,3
+78,capacity limits,1,sparse vehicular networks,3
+79,decay,1,trajectory,3
+80,resources,1,social network,3
+81,interference,1,routing protocol,3
+82,internet of underwater things,1,bio-inspired optimization,3
+83,architecture,1,delay,3
+84,applications,1,geocast,3
+85,research,1,trajectory-based,3
+86,icesat-2,1,stranger,3
+87,land ice,1,forwarding mechanism,3
+88,sea ice,1,social relationship,3
+89,vegetation,1,delay tolerant,3
+90,climate change,1,anisotropic radiation,3
+91,satellite,1,directivity,3
+92,beaconing control,1,wireless multihop,3
+93,activation,1,evolutionary game,3
+94,new generation network,1,routing attack,3
+95,id/locator split,1,outage,3
+96,heterogeneity inclusion,1,rician fading,3
+97,intermittent connectivity wireless networks (icwns),1,reflections,3
+98,network coding,1,sparse network,3
+99,vehicular ad hoc networks,1,adaptive routing,3
+100,biological intelligence,1,multiple dimensions,3
+101,named data networking,1,multi-cast,3
+102,ip,1,social aware,3
+103,information centric networking,1,x-rays: general,2
+104,icn,1,higgs boson,2
+105,file sharing,1,spin,2
+106,m2mshare,1,parity,2
+107,mobile,1,underwater acoustic communication,2
+108,social-aware network,1,underwater sensor networks,2
+109,"resilient, survivable, disruption-tolerant future internet",1,acoustic,2
+110,sparse vehicular networks,1,incentive scheme,2
+111,trajectory,1,social selfishness,2
+112,social network,1,calculation,2
+113,routing protocol,1,hadronic calibration,2
+114,bio-inspired optimization,1,detector,2
+115,delay,1,automatic meter reading (amr),2
+116,intermittently connected wireless networks,1,smart meters,2
+117,packet forwarding,1,wireless communications,2
+118,node,1,interplanetary internet,2
+119,geocast,1,deep space network,2
+120,trajectory-based,1,beaconing control,2
+121,energy consumption,1,new generation network,2
+122,store-carry and forward relaying,1,id/locator split,2
+123,delay tolerance,1,heterogeneity inclusion,2
+124,incentive compatibility,1,vehicular ad hoc networks,2
+125,optimal,1,biological intelligence,2
+126,stranger,1,intermittently connected wireless networks,2
+127,forwarding mechanism,1,packet forwarding,2
+128,social relationship,1,node,2
+129,delay tolerant,1,energy consumption,2
+130,inter contact time,1,store-carry and forward relaying,2
+131,clustering,1,delay tolerance,2
+132,hotspot area,1,incentive compatibility,2
+133,aging,1,optimal,2
+134,frailty,1,cooperation,2
+135,mortality,1,data dissemination service,2
+136,complex network,1,node cooperation,2
+137,computational model,1,optimal stopping,2
+138,anisotropic radiation,1,traffic scheduling,2
+139,directivity,1,heterogeneous networks,2
+140,wireless multihop,1,message delivery,2
+141,cooperation,1,mobile ad hoc network,2
+142,data dissemination service,1,vehicular ad hoc network,2
+143,evolutionary game,1,computational modeling,1
+144,routing attack,1,delay/disruption tolerant networks,1
+145,outage,1,intermittently connected networks,1
+146,rician fading,1,large detector systems for particle and astroparticle physics,1
+147,reflections,1,large,1
+148,node cooperation,1,delay- and disruption-tolerant networking (dtn),1
+149,optimal stopping,1,performance enhancing,1
+150,traffic scheduling,1,exotics,1
+151,mobile communication systems,1,energy-efficient forwarding,1
+152,privacy,1,future internet architecture survey,1
+153,heterogeneous networks,1,future internet design (find),1
+154,message delivery,1,delay/disruption-tolerant networks,1
+155,mobile ad hoc network,1,bsm higgs boson,1
+156,vehicular ad hoc network,1,intermittent connectivity wireless networks (icwns),1
+157,sparse network,1,network coding,1
+158,adaptive routing,1,mobile communication systems,1
+159,distribution,1,privacy,1
+160,dtn,1,distribution,1
+161,multiple dimensions,1,dtn,1
+162,multi-cast,1,,
+163,social aware,1,,

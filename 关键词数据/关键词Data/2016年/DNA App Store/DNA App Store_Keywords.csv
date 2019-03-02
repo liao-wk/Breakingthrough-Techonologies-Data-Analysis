@@ -1,0 +1,23 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,alzheimer's disease,2,alzheimer's disease,8
+1,mitochondria,1,mitochondria,4
+2,oxidative stress,1,oxidative stress,4
+3,ascorbate,1,ascorbate,4
+4,energy,1,energy,4
+5,band size estimation,1,amyloid precursor protein,4
+6,gel electrophoresis,1,calcium,4
+7,image processing,1,calnuc,4
+8,image,1,golgi,4
+9,network enrichment,1,reverse hybridization,4
+10,protein-protein interaction,1,microplates,4
+11,multi-omics,1,oligonucleotides,4
+12,key,1,probes,4
+13,amyloid precursor protein,1,ribosomal,4
+14,calcium,1,band size estimation,3
+15,calnuc,1,gel electrophoresis,3
+16,golgi,1,image processing,3
+17,reverse hybridization,1,image,3
+18,microplates,1,network enrichment,3
+19,oligonucleotides,1,protein-protein interaction,3
+20,probes,1,multi-omics,3
+21,ribosomal,1,key,3

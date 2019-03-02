@@ -1,0 +1,166 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,3d printing,18,3d printing,58
+1,bioprinting,3,bioprinting,12
+2,vasculature,3,vasculature,12
+3,stem cells,2,stem cells,8
+4,soft sensors,2,soft sensors,8
+5,architected materials,2,microfluidics,8
+6,composites,2,biomaterials,8
+7,microfluidics,2,drying,8
+8,soft,2,composites,7
+9,hydroxyapatite,2,hydroxyapatite,7
+10,silver ink,2,stretchable electronics,7
+11,biomaterials,2,architected materials,6
+12,stretchable electronics,2,soft,6
+13,additive manufacturing,2,silver ink,6
+14,drying,2,additive manufacturing,5
+15,aqueous zinc-ion batteries,1,calcium carbonate,5
+16,polyaniline,1,pcc,5
+17,carbon fiber mat,1,cmc,5
+18,3-d tissues,1,carboxy methylcellulose,5
+19,kidney-on-a-chip,1,latex,5
+20,biomedical sensing,1,3-d tissues,4
+21,colorimetric pressure sensing,1,kidney-on-a-chip,4
+22,compression bandages,1,batteries,4
+23,embedded three-dimensional printing,1,colloidal suspensions,4
+24,particle image,1,electrochemistry,4
+25,single-walled carbon nanotubes,1,li-ion,4
+26,batio3-based dielectric,1,haptics,4
+27,self-aligned,1,ionogels,4
+28,batteries,1,soft robotics,4
+29,colloidal suspensions,1,mechanics,4
+30,electrochemistry,1,bioinspired,4
+31,li-ion,1,damage tolerant,4
+32,haptics,1,acoustic resonators,4
+33,ionogels,1,microfibers,4
+34,soft robotics,1,nozzles,4
+35,core-shell,1,standing wave,4
+36,direct ink writing,1,porous,4
+37,actuators,1,ceramics,4
+38,liquid crystal elastomers,1,foams,4
+39,shape morphing,1,cellular architectures,4
+40,mechanics,1,tympanic membrane,4
+41,bioinspired,1,holography,4
+42,damage tolerant,1,tympanoplasty,4
+43,two-photon polymerization,1,biomimetic,4
+44,fiber-optic sensor,1,tissues,4
+45,minimally invasive,1,multi-material,4
+46,acoustic resonators,1,viscoelastic,4
+47,microfibers,1,ink,4
+48,nozzles,1,ionic conductor,4
+49,standing wave,1,textiles,4
+50,conductive elastomers,1,3d,4
+51,multimaterial 3d printing,1,tissue engineering,4
+52,pick-and-place,1,3d structure,4
+53,organoid morphogenesis,1,microfabrication,4
+54,tissue morphology,1,self-folding,4
+55,tissue cytoarchitecture,1,photovoltaics,4
+56,multi-scale modeling,1,capillary,4
+57,finite element method,1,bone scaffolds,4
+58,polymers,1,periodic,4
+59,mechanical properties,1,direct writing,4
+60,solidification,1,colloidal inks,4
+61,electron microscopy,1,polyelectrolyte,4
+62,porous,1,comb polymer,4
+63,ceramics,1,silica,4
+64,foams,1,rheology,4
+65,cellular architectures,1,afm,4
+66,nanowires,1,aqueous zinc-ion batteries,3
+67,self-assembly,1,polyaniline,3
+68,ordered structure,1,carbon fiber mat,3
+69,materials,1,core-shell,3
+70,flow battery,1,direct ink writing,3
+71,cyclic voltammetry,1,actuators,3
+72,polymer,1,liquid crystal elastomers,3
+73,tympanic membrane,1,shape morphing,3
+74,holography,1,conductive elastomers,3
+75,tympanoplasty,1,multimaterial 3d printing,3
+76,biomimetic,1,pick-and-place,3
+77,aerosol jet printing,1,multi-scale modeling,3
+78,printed electronics,1,finite element method,3
+79,3-d printing,1,polymers,3
+80,wearable,1,mechanical properties,3
+81,mechanical signal,1,solidification,3
+82,stable propagation,1,electron microscopy,3
+83,instability,1,nanowires,3
+84,flexible electronics,1,self-assembly,3
+85,conductive interconnects,1,ordered structure,3
+86,three-dimensional (3d) printing,1,materials,3
+87,cylindrical microchannel geometry,1,flow battery,3
+88,tissues,1,cyclic voltammetry,3
+89,biological cell manipulation,1,polymer,3
+90,biomimetics,1,aerosol jet printing,3
+91,microfluidic mixing,1,printed electronics,3
+92,yield stress fluids,1,3-d printing,3
+93,graded materials,1,wearable,3
+94,multistability,1,mechanical signal,3
+95,energy trapping,1,stable propagation,3
+96,reversibility,1,instability,3
+97,interposer,1,flexible electronics,3
+98,flexible substrate,1,conductive interconnects,3
+99,semi-additive process,1,microfluidic mixing,3
+100,screen printing,1,yield stress fluids,3
+101,silicon stencils,1,graded materials,3
+102,plastic substrates,1,multistability,3
+103,multi-material,1,energy trapping,3
+104,viscoelastic,1,reversibility,3
+105,ink,1,screen printing,3
+106,ionic conductor,1,silicon stencils,3
+107,textiles,1,plastic substrates,3
+108,3d,1,helical swimmer,3
+109,helical swimmer,1,magnetic actuation,3
+110,magnetic actuation,1,path following,3
+111,path following,1,visual servoing,3
+112,visual servoing,1,sensors,3
+113,high-resolution metal lines,1,wearable electronics,3
+114,imprint lithography,1,3d modeling,3
+115,inkjet printing,1,micro-scale,3
+116,sensors,1,dna recognition,3
+117,wearable electronics,1,fluorescent probes,3
+118,tissue engineering,1,gene sequencing,3
+119,3d modeling,1,kinetic,3
+120,micro-scale,1,colloids,3
+121,microbatteries,1,lithography,3
+122,li ion,1,films,3
+123,resist filling behavior,1,hydroxapatite,3
+124,micro/nanolithography,1,bone tissue engineering,3
+125,defocusing digital,1,scaffolds,3
+126,multinozzle printheads,1,direct-write assembly,3
+127,dna recognition,1,biomedical sensing,2
+128,fluorescent probes,1,colorimetric pressure sensing,2
+129,gene sequencing,1,compression bandages,2
+130,kinetic,1,embedded three-dimensional printing,2
+131,polymorphisms,1,particle image,2
+132,allele-specific hybridization,1,single-walled carbon nanotubes,2
+133,thin-films,1,batio3-based dielectric,2
+134,single-crystal silicon,1,self-aligned,2
+135,periodic structures,1,two-photon polymerization,2
+136,colloids,1,fiber-optic sensor,2
+137,lithography,1,minimally invasive,2
+138,films,1,organoid morphogenesis,2
+139,3d structure,1,tissue morphology,2
+140,microfabrication,1,tissue cytoarchitecture,2
+141,self-folding,1,interposer,2
+142,photovoltaics,1,flexible substrate,2
+143,capillary,1,semi-additive process,2
+144,bone scaffolds,1,high-resolution metal lines,2
+145,periodic,1,imprint lithography,2
+146,direct writing,1,inkjet printing,2
+147,colloidal inks,1,microbatteries,2
+148,hydroxapatite,1,li ion,2
+149,bone tissue engineering,1,resist filling behavior,2
+150,scaffolds,1,micro/nanolithography,2
+151,direct-write assembly,1,defocusing digital,2
+152,tissue scaffold,1,multinozzle printheads,2
+153,microembossing,1,thin-films,2
+154,carbon dioxide bonding,1,single-crystal silicon,2
+155,calcium carbonate,1,periodic structures,2
+156,pcc,1,tissue scaffold,2
+157,cmc,1,microembossing,2
+158,carboxy methylcellulose,1,carbon dioxide bonding,2
+159,latex,1,three-dimensional (3d) printing,1
+160,polyelectrolyte,1,cylindrical microchannel geometry,1
+161,comb polymer,1,biological cell manipulation,1
+162,silica,1,biomimetics,1
+163,rheology,1,polymorphisms,1
+164,afm,1,allele-specific hybridization,1

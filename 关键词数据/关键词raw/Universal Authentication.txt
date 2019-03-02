@@ -1,0 +1,971 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE mutual authentication; security; privacy; Universal 2nd Factor (U2F);
+   mobile payment
+ER
+
+PT J
+DE trust; token; blockchain; authentication code; distributed data storage;
+   information security; auction; encryption; integrity control; smart
+   contract; token development tools; digital financial asset; transaction;
+   platform operator
+ER
+
+PT J
+DE Face authentication; Privacy preservation; Android application; Secure
+   multi-party computation; Impersonation attack
+ID BIOMETRIC AUTHENTICATION; SECURE; RECOGNITION; COMPUTATION; EIGENFACES;
+   ENCRYPTION
+ER
+
+PT J
+DE Universal hashing; authentication code with secrecy; restricted linear
+   congruence
+ID CONSTANT-TIME; CYCLIC GROUPS; INFORMATION; ENCRYPTION; SECURITY;
+   MODULUS; SYSTEMS; MMH
+ER
+
+PT J
+DE cryptography; machine vision; modelling of light; elliptic curve
+   cryptosystem; identity forging; session initiation protocol
+ID SIP AUTHENTICATION SCHEME; SECURE; NETWORKS
+ER
+
+PT B
+DE Universal hashing; message authentication; data integrity; CRC
+ID CRC
+ER
+
+PT S
+DE privacy; soft biometrics; data protection; human rights; GDPR
+ER
+
+PT B
+DE Continuous authentication; universal feature representations;
+   convolutional neural network (CNN); one-class support vector machine
+   (SVM); equal error rate (EER)
+ER
+
+PT B
+DE fragile watermarking; image authentication; perceptual hash; tamper
+   detection; dwt-svd perceptual hash
+ID FRAGILE WATERMARKING SCHEME; DATA HIDING SCHEME; STEGANOGRAPHY
+ER
+
+PT B
+DE secret sharing; universal construction; rushing cheater;
+   cheater-identification; without honest majority; message authentication
+ID SCHEMES
+ER
+
+PT S
+DE Internet of Things; two-factor authentication; embedded security; public
+   key infrastructure; smart card; wire-less sensor networks
+ID WIRELESS SENSOR NETWORKS; KEY AGREEMENT SCHEME; SECURITY; CRYPTOGRAPHY;
+   CHALLENGES; PROTOCOL; PRIVACY
+ER
+
+PT J
+ID WIRELESS NETWORKS; ENHANCEMENT; INTERNET; THINGS
+ER
+
+PT J
+DE Authentication; Internet of things; Security threat; Computer security
+ID WIRELESS SENSOR NETWORKS; USER AUTHENTICATION; KEY AGREEMENT; IOT
+   PLATFORM; SCHEME
+ER
+
+PT J
+DE Device-to-Device (D2D) Communications; LTE-Advanced Network; Key
+   agreement; Authentication; 5G
+ID TO-DEVICE COMMUNICATION; LTE-ADVANCED NETWORKS
+ER
+
+PT S
+ER
+
+PT S
+DE Authentication; FIDO; Security analysis; Trusted computing; TPM; Remote
+   attestation; TrustZone; Mobile and embedded devices
+ER
+
+PT B
+ER
+
+PT S
+DE Usability; Authentication; Real Time Communications; WebRTC
+ID MODEL
+ER
+
+PT J
+DE message authentication codes; universal hash-function families;
+   pseudorandom permutations; authenticated encryption; provable security
+ID FAST MESSAGE AUTHENTICATION; LIGHTWEIGHT BLOCK CIPHER;
+   DIFFERENTIAL-EQUATIONS; HASH FUNCTIONS; MODE; MACS; INTEGRITY; OPERATION
+ER
+
+PT J
+DE FIDO UAF protocol; online authentication; impersonation attack;
+   protocol's cryptographic abstraction
+ER
+
+PT J
+DE Game theory; PHY-layer authentication; reinforcement learning; spoofing
+   detection
+ID PHYSICAL-LAYER; AUTHENTICATION
+ER
+
+PT J
+DE Biometrics; Consumer Storage; Mass Storage Device; Password; USB; FLASH
+ID SMART CARDS; SECURITY; IMPROVEMENT
+ER
+
+PT J
+DE Authentication; number-theoretic transforms (NTT); quantum key
+   distribution (QKD); security; universal hash functions; 10-Ghz QKD
+   system
+ID SECURITY
+ER
+
+PT J
+DE User authentication; Authentication technologies; Security; Usability;
+   Transparent authentication; Biometrics; Continuous authentication
+ID CONTINUOUS USER AUTHENTICATION; IRIS RECOGNITION; IDENTITY VERIFICATION;
+   ACTIVE AUTHENTICATION; BIOMETRIC TECHNOLOGY; KEYSTROKE DYNAMICS; MOUSE
+   DYNAMICS; IDENTIFICATION; SEGMENTATION; FEATURES
+ER
+
+PT S
+DE Almost universal hash function; Related-key attack; Related-key almost
+   universal hash function; Message authentication code; Tweakable block
+   cipher
+ID MESSAGE-AUTHENTICATION; BLOCK CIPHERS; SECURITY; ENCRYPTION; ATTACKS;
+   MODES; HCH
+ER
+
+PT S
+DE MIMO; PHY-layer authentication; spoofing detection; game theory;
+   learning
+ID NETWORKS
+ER
+
+PT B
+ID UNIVERSAL; MMH
+ER
+
+PT S
+DE Authenticated encryption; CAESAR; ELmD; Forgery attack; Key recovery
+ER
+
+PT S
+DE Verifiable computation; Universal hash functions; Homomorphic
+   encryption; Biometric authentication; Template privacy and security
+ID SOMEWHAT HOMOMORPHIC ENCRYPTION; PRIVATE INFORMATION-RETRIEVAL;
+   PRESERVING FACE RECOGNITION
+ER
+
+PT B
+ID DIFFRACTION LIMIT; COLOR
+ER
+
+PT B
+DE Universal composability; two-server password-based authentication; key
+   exchange; secret sharing
+ER
+
+PT S
+DE Mobile computing environment; Multimedia information security; Speech
+   authentication; Perceptual hashing; Perception feature extraction;
+   Tamper detection
+ER
+
+PT B
+DE M2M; GBS-AKA; Bandwidth consumption; Signaling Congestion
+ID MACHINE COMMUNICATIONS; 3GPP AUTHENTICATION; PROTOCOL; LTE
+ER
+
+PT J
+DE field buses; cryptography; authorisation; secure control protocol;
+   universal serial bus mass storage devices; transmission speed;
+   plug-and-play; hot swapping; interface standard; peripheral connections;
+   malicious user; confidential file extraction; computer systems; USB
+   ports; potential security risk control; USB interface; workplace
+   corporations; commercial corporations; USB storage devices; mutual
+   authentication; transferred file encryption
+ID AUTHENTICATION; NETWORKS
+ER
+
+PT J
+DE Password Smart card; Remote authentication; Key agreement
+ID WIRELESS SENSOR NETWORKS; SMART CARDS; PASSWORD AUTHENTICATION; MUTUAL
+   AUTHENTICATION; ROBUST
+ER
+
+PT J
+DE Universal hashing; MAC; Galois/Counter Mode; Cycling attacks; Weak keys
+ID MESSAGE-AUTHENTICATION; FINITE-FIELDS; PERFORMANCE; SECURITY; MODE
+ER
+
+PT J
+DE Cognitive radio; physical layer; security; authentication; primary user
+   emulation attack; USRP; GNU Radio
+ER
+
+PT J
+DE UMTS; Man-in-the-middle; DoS; Redirection; Authentication
+ID 3GPP AUTHENTICATION
+ER
+
+PT J
+DE Message authentication codes; Almost Universal Forgery; ALRED; Pelican
+ID CONSTRUCTION; COLLISIONS; SECURITY
+ER
+
+PT J
+DE multi-domain authentication; direct product decomposition; bilinear
+   mapping; cloud computing
+ER
+
+PT B
+DE Authentication; Blind-signcryption; Confidentiality; Message recovery;
+   Non-repudiation; Universal Verifiability
+ER
+
+PT S
+DE assistive environments; authentication; biometrics; key exchange;
+   security
+ER
+
+PT B
+DE user authentication; authentication technologies; security; usability;
+   federated identity; single sign-on; SSO
+ID BIOMETRICS
+ER
+
+PT B
+DE Cognitive radio; Authentication Protocol and AAA Key Agreement;
+   Coufidentiality; Security; UMTS
+ER
+
+PT B
+DE Authentication; Authorization; Accounting; convergence; security;
+   subscriber profile AAA; HLR; HSS; Radius; Diameter
+ER
+
+PT S
+ID VERIFIABLY ENCRYPTED SIGNATURES; PUBLIC-KEY CRYPTOSYSTEMS; RANDOM
+   ORACLES; DIGITAL-SIGNATURES; SECURE; OBFUSCATION; MAPS
+ER
+
+PT S
+DE Mobile identity authentication; eID; NFC
+ER
+
+PT S
+DE Potentilla discolor Bge.; ITS; trnL-F; Sequencing: Authentication
+ER
+
+PT S
+DE Almost strongly universal hash; Quantum key distribution
+ID SECURITY
+ER
+
+PT S
+DE ownership transfer privacy; universal hash function; pseudo random
+   number generator; RFID
+ER
+
+PT S
+DE Biometrics; Behavioral biometrics; Security; Usability; Authentication
+ID KEYSTROKE DYNAMICS; SECURITY; RECOGNITION
+ER
+
+PT S
+DE Identity management; Strong authentication; Identity federation; Mobile
+   identity; Mobile ID
+ER
+
+PT J
+DE Cloud computing; authentication protocol; privacy preservation; shared
+   authority; universal composability
+ID ACCESS-CONTROL; SERVICES; STORAGE; CHALLENGES; NETWORKING; SECURITY
+ER
+
+PT J
+DE DNA; Authentication; Bioinformatics; Biomolecular; Sequence Alignment
+ER
+
+PT J
+DE mobile network; Universal Mobile Telecommunication System;
+   authentication protocol; Elliptic Curve Diffie-Hellman key agreement
+   protocol; Elliptic Curve Digital Signature Algorithm
+ER
+
+PT J
+DE Information theory; Authentication code; Privacy amplification;
+   Unconditional security
+ER
+
+PT J
+DE Authentication; Strongly Universal hash functions; Partially known key;
+   Trace distance; Universal composability; Quantum key distribution
+ID QUANTUM CRYPTOGRAPHY
+ER
+
+PT J
+DE UMTS; Authentication; Identity; Attacks; Overheads
+ID KEY AGREEMENT PROTOCOL; 3GPP AUTHENTICATION; PUZZLES
+ER
+
+PT J
+DE communication network; authenticated encryption; message authentication
+   code; forgery attack; distinguishing attack; weak key attack
+ID AUTHENTICATION; ATTACKS
+ER
+
+PT B
+DE Secure authentication protocol; One Time Password; USB Storage Devices
+ID SCHEME
+ER
+
+PT S
+ID MESSAGE AUTHENTICATION
+ER
+
+PT S
+DE SaaS; Multi-tenancy; Integrity; Authentication
+ID OUTSOURCED DATABASES
+ER
+
+PT J
+DE Confidentiality; authenticity; message authentication code (MAC);
+   authenticated encryption; universal hash families
+ID MESSAGE-AUTHENTICATION; HASH FUNCTIONS; ENCRYPTION; MODE; ALGORITHMS;
+   INTEGRITY; OPERATION; GENERATOR
+ER
+
+PT S
+DE UMTS; Authentication; AKA; User Equipment; Security Protocol
+ER
+
+PT B
+DE authentication; off-line password guessing attack; user privacy; common
+   storage device
+ID SECURITY; IMPROVEMENT
+ER
+
+PT S
+DE Universal hashing; MAC; Galois/Counter Mode; Cycling attacks; Weak keys
+ID SECURITY; AUTHENTICATION; PERFORMANCE; MODE; GCM
+ER
+
+PT J
+DE Universal hash family; PN function; Multi-output bent function; Message
+   authentication code
+ID AUTHENTICATION CODES; MAPPINGS; SCHEMES
+ER
+
+PT J
+DE authentication; security and privacy; roaming service; wireless and
+   mobile networks
+ID SCHEME; ANONYMITY
+ER
+
+PT J
+DE IPTV; RFID; Java Card; USIM; User authentication
+ID SET-TOP BOX; SMART CARD
+ER
+
+PT S
+DE identity; identity management; mobile identity; mobile ID; universal
+   identity
+ER
+
+PT B
+DE Message authentication code; hash functions; multiple input shift
+   registers; provable security
+ID HASH FUNCTIONS
+ER
+
+PT S
+DE machine-to-machine (M2M) communications; 3rd generation partnership
+   project (3GPP); authentication; local IP access (LIPA); traffic offload
+ER
+
+PT B
+DE Authentication; Steganography; Steganalysis
+ER
+
+PT J
+ID USER AUTHENTICATION SCHEME; SMART CARDS; MUTUAL AUTHENTICATION;
+   BIOMETRICS
+ER
+
+PT S
+DE NETWORK AUTHENTICATION PROTOCOL; MODEL CHECKING; SPIN; PKM PROTOCOL
+ER
+
+PT S
+DE Web; authentication; UID; validation; identity; registration
+ER
+
+PT S
+DE Biometrics; Identification; Verification; Universal Identification
+   program
+ID IDENTIFICATION
+ER
+
+PT B
+DE G-Lets; steganography; authentication; copyright protection; Mean Square
+   Error (MSE); Peak Signal to Noise Ratio (PSNR); Image fidelity (IF); and
+   Universal Quality Image (UQI)
+ER
+
+PT J
+DE Chaos; Hash function; Key agreement; Chebyshev; Password guessing attack
+ID SCHEME; HASH
+ER
+
+PT J
+DE xor network coding; pollution attack; denial of services; MAC; trees;
+   linear universal hash functions
+ID WIRELESS SENSOR NETWORKS; HASH FUNCTIONS; MACS; PERFORMANCE; POLLUTION;
+   SECURITY; SCHEMES; ATTACKS
+ER
+
+PT J
+DE RFID; Mutual Authentication; Privacy; Synchronization
+ID UNIVERSAL RE-ENCRYPTION; PRIVACY; ENVIRONMENT; SECURITY; SYSTEMS
+ER
+
+PT J
+DE 3GPP AKA; IMS AKA; Authentication
+ER
+
+PT B
+DE Universal Authentication Framework; archive management; secure access;
+   cryptography
+ER
+
+PT S
+DE Potentilla; trnL Sequence; Authentication
+ER
+
+PT S
+DE identity card; universal print driver; data encryption; cloud print
+ER
+
+PT J
+ID COMPUTATION; POLYNOMIALS; ATTACKS; CODES
+ER
+
+PT B
+DE heterogeneous networks; extensible authentication protocol; lightweight;
+   privacy; pre-shared secret key
+ID COMMUNICATION-SYSTEMS; WIRELESS NETWORKS; PROTOCOL; ARCHITECTURE
+ER
+
+PT J
+DE UMTS; AKA; authentication; key agreement
+ID MOBILE COMMUNICATIONS; AUTHENTICATION PROTOCOL; KEY AGREEMENT; SECURE
+ER
+
+PT J
+DE password-based; remote access; tamper-resistant; mutual authentication;
+   impersonation attack
+ID EFFICIENT; CRYPTANALYSIS; NONCE
+ER
+
+PT S
+ID MAC
+ER
+
+PT J
+DE Authentication protocol; key agreement protocol; Universal Mobile
+   Telecommunication System (UMTS) networks
+ER
+
+PT J
+DE Design; Security; Theory; RFID; EPCGen2; authentication; forward
+   security; backward security; universal composability
+ID PROTOCOLS; IDENTIFICATION; TAGS
+ER
+
+PT J
+DE Universal Mobile Telecommunications System (UMTS); Three-level;
+   Conference key establishment; Secure group communication; Authentication
+ID AGREEMENT
+ER
+
+PT J
+ID PERSONAL COMMUNICATION-SYSTEMS; GLOBAL MOBILITY NETWORK; PRIVACY;
+   SIGNATURES; SERVICES; GSM
+ER
+
+PT J
+DE RFID (Radio Frequency Identification); Two-Factor Authentication
+   mechanisms; WLAN (Wireless Local Area Network)
+ID SCHEME
+ER
+
+PT J
+DE Authentication; privacy; revocation; key establishment; wireless
+   communications
+ID SCHEME; ANONYMITY
+ER
+
+PT S
+DE Information security; the Internet of things; message-attached password
+   authentication protocol; cryptography engineering
+ER
+
+PT S
+DE Confidentiality; authenticity; message authentication code (MAC);
+   authenticated encryption; encrypt-and-authenticate; universal hash
+   families
+ID MESSAGE-AUTHENTICATION CODE; HASH FUNCTIONS; ENCRYPTION; MODE;
+   PERFORMANCE; OPERATION; GENERATOR
+ER
+
+PT S
+DE identity authentication; single sign-on; dynamic password; security;
+   connect authentication
+ER
+
+PT S
+DE Universal access; usability; security; authentication; information
+   technology
+ER
+
+PT B
+DE Access Authentication; HIBS; Hierarchical ID
+ID MOBILE IP
+ER
+
+PT S
+DE Universal Composability; RFID Security and Privacy; Mutual
+   Authentication
+ID PRIVACY
+ER
+
+PT S
+DE integrity verification; Merkle Tree; universal hash; WH; speculative
+   caching
+ER
+
+PT J
+DE Authentication; Cryptanalysis; Security; Smart card
+ID SCHEME; EFFICIENT
+ER
+
+PT J
+DE Diffie-Hellman key exchange; digital signature; key agreement; mutual
+   authentication; storage device; Universal Serial Bus (USB)
+ID REMOTE USER AUTHENTICATION; SCHEME
+ER
+
+PT J
+DE Self-verified; mobile authentication; anonymous; key agreement;
+   scalable; wireless networks
+ID PROTOCOLS; SERVICES; EXCHANGE; SYSTEMS; PRIVACY; SCHEME; USERS
+ER
+
+PT J
+DE 3GPP; GPRS; UMTS; WLAN; Anonymous roaming; Security; BAN
+ID AUTHENTICATION
+ER
+
+PT J
+DE Two-channel cryptography; Authentication; Unconditional security
+ID RESISTANT HASH FUNCTIONS; SHARED KEY MODELS; MANUAL CHANNEL; TIGHT
+   BOUNDS; PROTOCOLS; AGREEMENT; STRINGS
+ER
+
+PT J
+DE UMTS; AKA; authentication; key agreement
+ER
+
+PT J
+DE AKA; Authentication; Key agreement; UMTS
+ER
+
+PT S
+ER
+
+PT S
+DE Protocol Jamming; Authentication; Medium Access Control
+ER
+
+PT S
+ID CHOSEN CIPHERTEXT ATTACK; GROUP SIGNATURES; PROOFS; SECURE;
+   CRYPTOSYSTEM; ASSUMPTIONS; KNOWLEDGE
+ER
+
+PT J
+DE Authentication; conditional privacy; group signature; identity-based key
+   establishment; movement tracking; universal re-encryption; vehicular
+   ad-hoc network (VANET)
+ID GROUP SIGNATURES; PRIVACY; SCHEME
+ER
+
+PT J
+DE OTP; Wireless broadband internet; Authentication mechanism; Mobile-OTP
+ID SMART CARDS
+ER
+
+PT J
+DE Authentication; Hash chain; Mobile value-added services; Ticket-based
+   access; Reusable ticket
+ID AUTHENTICATION; PROTOCOL; NETWORKS; KERBEROS; SYSTEM
+ER
+
+PT B
+DE universal network; pervasive service; provably secure; random oracle;
+   authenticated key distribution
+ER
+
+PT B
+DE Authentication; Authorization; AAA; Flexibility; Framework
+ER
+
+PT B
+DE authentication; less delay; UMTS; mobile networks
+ER
+
+PT B
+DE universal network; pervasive service; provably secure; random oracle;
+   access authentication
+ER
+
+PT B
+DE authentication; UNITS AKA; Man-in-the-middle attack; redirection attack
+ER
+
+PT J
+DE Cryptography; User authentication; Password; Smart card
+ID SECURITY ENHANCEMENT; CRYPTANALYSIS
+ER
+
+PT J
+DE Wireless LAN; Cellular network; Authentication; EAP; USIM
+ID WLAN
+ER
+
+PT S
+DE Quantum key distribution; quantum cryptography; Wegman-Carter
+   authentication
+ID AUTHENTICATION
+ER
+
+PT B
+DE authentication and key agreement; SSL; PKI; mobile security; UMTS
+   security
+ER
+
+PT S
+DE Message authentication code; Robust unforgeability; Universal hash
+   function; Unforgeability; Unpredictability
+ID MESSAGE-AUTHENTICATION; HASH FUNCTIONS; PSEUDORANDOM FUNCTIONS; FIL-MAC;
+   OPERATION; MODE
+ER
+
+PT S
+ER
+
+PT B
+DE mobile device; trusted mobile platform; authentication; authorization
+ER
+
+PT B
+DE Authentication; Authorization; Accounting; AAA; Security; Protocol;
+   Access; Control; Mobile; Networks
+ER
+
+PT S
+DE Sensor networks; aggregation; authentication; MACs
+ID PRIVACY
+ER
+
+PT S
+DE Vehicular Ad-hoc Network; Conditional Privacy; Authentication; Movement
+   Tracking; Universal Re-encryption; Group Signature
+ID VEHICULAR COMMUNICATIONS; SECURE; NETWORKS
+ER
+
+PT J
+ID KEY-EXCHANGE; HASH FUNCTIONS; SECURE; CHANNELS
+ER
+
+PT B
+DE 3G; Security algorithms; Authentication; Security services
+ER
+
+PT B
+DE RF-UCard; authentication; role; RFID; security
+ER
+
+PT B
+ER
+
+PT B
+ID INTERWORKING; PROTOCOL; NETWORKS
+ER
+
+PT S
+ID MESSAGE-AUTHENTICATION; CBC-MAC; SECURITY; PERFORMANCE; CODES; MODE
+ER
+
+PT B
+DE Domain-oriented access control; pervasive computing; identity-based
+   encryption; revocation
+ID AUTHENTICATION
+ER
+
+PT B
+DE Unlicensed Mobile Access; CAS; DMB; Universal Naming Convention;
+   Authentication
+ER
+
+PT S
+DE deniability; authentication; protocol; key exchange
+ID ZERO-KNOWLEDGE; KEY-EXCHANGE; EFFICIENT; PROOFS
+ER
+
+PT B
+DE 2FA; authentication; EMV; sign-on; SSO; web
+ER
+
+PT B
+DE anonymity; anonymous message authentication; universal composability;
+   ring signature; group-certification authority
+ER
+
+PT J
+DE 3GPP AKA; authentication; IMS; IMS AKA; SIP
+ER
+
+PT J
+DE 3G; authentication vector; security function; UNITS core network
+ID NETWORKS
+ER
+
+PT J
+ID GPRS
+ER
+
+PT J
+DE anonymous; authentication; Hash; universal composable security
+ER
+
+PT B
+DE authentication; automatic; universal; efficiency; security
+ER
+
+PT B
+DE RFID reader; USB key; authentication; identification; information
+   security
+ER
+
+PT S
+DE message authentication; Wegman-Carter construction; universal hash
+   functions; block ciphers; maximum differential probability
+ID LINEAR HULL PROBABILITY; HASH FUNCTIONS; SECURITY; MAC; CRYPTANALYSIS;
+   AES
+ER
+
+PT B
+ER
+
+PT S
+DE UMTS; authentication; privacy; perfect forward secrecy
+ER
+
+PT J
+DE divide-and-coneatenate; performance optimization; universal hash
+   functions; universal message authentication code (UMAC)
+ID ALGORITHM
+ER
+
+PT J
+DE 3G; authentication; interworking; WLAN
+ID COMMUNICATION
+ER
+
+PT S
+ER
+
+PT S
+DE GSM; handover; UMTS; high-speed; authentication
+ER
+
+PT B
+ID HASH FUNCTIONS
+ER
+
+PT J
+ER
+
+PT S
+DE SIM strong authentication; Internet service authentication
+ER
+
+PT B
+DE HB+ protocol; active attacks; RFID
+ID UNIVERSAL RE-ENCRYPTION
+ER
+
+PT S
+ID COLLISIONS; SHA-0
+ER
+
+PT J
+DE universal hashing; provable security; message authentication codes;
+   scalability; low-power; low-energy
+ER
+
+PT J
+ER
+
+PT J
+DE authentication; call session control function (CSCF); general packet
+   radio service (GPRS); IP multimedia core network subsystem (IMS);
+   session initiation protocol (SIP); universal mobile telecommunications
+   system (UMTS)
+ID MOBILE NETWORKS
+ER
+
+PT J
+DE authentication; privacy; security; third generation (3G); wireless
+ID MOBILE COMMUNICATIONS; PRIVACY; SYSTEM
+ER
+
+PT S
+DE MAC; universal hash; tree; pseudo-random generator
+ID HASH FUNCTIONS; MESSAGE AUTHENTICATION; PERFORMANCE
+ER
+
+PT S
+ER
+
+PT J
+DE modular reduction; Euclidean ring; lattice; universal hash function
+   family; message authentication code
+ER
+
+PT S
+ID AUTHENTICATION
+ER
+
+PT S
+DE universal mobile telecommunications systems (UMTS); high-speed portable
+   Internet (HPi); authentication; extensible authentication protocol
+   (EAP); diameter
+ER
+
+PT J
+DE user authentication; graphical mechanisms; visuo-spatial memory;
+   evaluation; web authentication; metrics
+ER
+
+PT J
+DE watermarking; authentication; CNN-UM; cellular automaton
+ID CELLULAR-AUTOMATA; UNIVERSAL MACHINE; SYSTEM; CHIP
+ER
+
+PT B
+ID AUTHENTICATION
+ER
+
+PT J
+DE mobile radiocommunication; wireless LAN; authentication; smart card;
+   state of the art; cryptography; UMTS
+ER
+
+PT J
+DE message authentication codes; universal hash; square hash
+ID MESSAGE AUTHENTICATION
+ER
+
+PT S
+ID ATTACKS; SECURE
+ER
+
+PT B
+DE hotspot network security; WLAN security
+ID NETWORK
+ER
+
+PT J
+DE authentication; authentication center (AuC); general packet radio
+   service (GPRS); home location register (HLR); mobility management;
+   serving GPRS support node (SGSN); universal mobile telecommunication
+   system (UMTS)
+ID PCS NETWORKS
+ER
+
+PT J
+DE signature scheme; convertible limited verifier signature; universal
+   forgery
+ER
+
+PT S
+DE message authentication codes; universal hash; square hash
+ID MESSAGE AUTHENTICATION
+ER
+
+PT S
+DE security; smartcard; Wireless LAN; mobile telecommunications
+ER
+
+PT S
+DE universal hash; message authentication; MAC
+ER
+
+PT J
+DE authentication; cryptography; data security; micropayments; mobile
+   communications; protocols
+ID SECURITY PROTOCOLS; KEY
+ER
+
+PT B
+ER
+
+PT B
+DE UMTS; authentication; data integrity and data encryption; lawful
+   interception; KASUMI algorithm; integration of HIPERLAN/2 systems
+ER
+
+PT B
+DE wireless access control; certificate; distributed authorization
+ER
+
+PT S
+ER
+
+PT J
+DE algebraic curve; authentication code; strongly universal hash family;
+   universal hash family
+ER
+
+PT S
+ID PSEUDORANDOM PERMUTATIONS; CONSTRUCTION
+ER
+
+PT S
+DE low bias; almost independent arrays; Reed-Solomon codes; Hermitian
+   codes; Suzuki codes; Fourier transform; Weil-Carlitz-Uchiyama bound;
+   exponential sum method; Zyablov bound; hashing; authentication;
+   resiliency
+ID INTERSECTING CODES
+ER
+
+PT J
+ID UNIVERSAL MACHINE; COMPLEXITY
+ER
+
+PT J
+DE cryptography; hashing; message authentication codes; universal hashing
+ER
+
+EF

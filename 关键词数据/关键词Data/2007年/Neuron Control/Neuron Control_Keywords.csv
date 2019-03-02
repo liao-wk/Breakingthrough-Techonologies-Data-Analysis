@@ -1,0 +1,522 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,neuron,13,neuron,37
+1,single neuron,11,chaos,33
+2,chaos,11,single neuron,29
+3,synchronization,10,synchronization,29
+4,neural network,9,neural network,23
+5,adaptive control,7,adaptive control,20
+6,model-free control,7,model-free control,18
+7,pid control,6,pid controller,17
+8,pid controller,6,pid control,16
+9,optimal control,5,fuzzy control,14
+10,neuron control,5,neuron control,13
+11,hindmarsh-rose neuron,4,optimal control,12
+12,control,4,control,12
+13,adaptive,4,adaptive,12
+14,fuzzy control,4,neural networks,10
+15,bursting,3,bursting,9
+16,motor control,3,hindmarsh-rose neuron,9
+17,brushless dc motor,3,fitzhugh-nagumo neuron,9
+18,single neuron pid,3,medulla,9
+19,nonlinear control,3,motor control,8
+20,neural networks,3,respiration,8
+21,fitzhugh-nagumo neuron,3,obesity,7
+22,chaos synchronization,3,brushless dc motor,7
+23,lyapunov approach,3,single neuron pid,7
+24,auto-tuning neuron,3,nonlinear control,7
+25,biological neurons,2,serotonin,7
+26,h-infinity control,2,adult neurogenesis,7
+27,industrial,2,chaos synchronization,7
+28,spiking,2,fever,7
+29,obesity,2,spiking,6
+30,single,2,single,6
+31,temperature control,2,temperature control,6
+32,intelligent control,2,intelligent control,6
+33,chaotic synchronization,2,medulla oblongata,6
+34,dendritic neuron,2,single-neuron,6
+35,morris-lecar neuron model,2,neuropathic pain,6
+36,serotonin,2,motor cortex,6
+37,medulla oblongata,2,lyapunov approach,6
+38,respiration,2,synchronization control,6
+39,single-neuron,2,decoupling,6
+40,feedback,2,neuron pid control,6
+41,self-tuning pid,2,multivariable system,6
+42,neuropathic pain,2,competition,6
+43,motor cortex,2,cooperation,6
+44,amyotrophic lateral sclerosis,2,auto-tuning neuron,6
+45,active disturbance rejection control,2,biological neurons,5
+46,simulation,2,h-infinity control,5
+47,single neuron pid control,2,industrial,5
+48,rbf neural network,2,dendritic neuron,5
+49,adult neurogenesis,2,feedback,5
+50,external electrical stimulation,2,amyotrophic lateral sclerosis,5
+51,chaos control,2,simulation,5
+52,semi-active suspension,2,chaos control,5
+53,single neuron control,2,semi-active suspension,5
+54,variable structure control,2,single neuron control,5
+55,ghostburster,2,variable structure control,5
+56,synchronization control,2,ghostburster,5
+57,pid neural network,2,pid neural network,5
+58,decoupling,2,integrated error,5
+59,hydraulic turbine,2,gad,5
+60,neuron adaptive controller,2,inhibitory,5
+61,integrated error,2,limbic,5
+62,single neuron controller,2,episodic,5
+63,neuron pid control,2,memory,5
+64,medulla,2,papez,5
+65,multivariable system,2,electrophysiology,5
+66,fever,2,raphe,5
+67,competition,2,autonomic,5
+68,cooperation,2,membrane,5
+69,neuron model,2,coupled neuron,4
+70,nonlinear optimal control,1,observer-based control,4
+71,adaptive correction,1,robustness,4
+72,generalized predictive control (gpc),1,bioenergetics,4
+73,coupled neuron,1,metabolism,4
+74,observer-based control,1,renin-angiotensin system,4
+75,robustness,1,leptin,4
+76,bioenergetics,1,slow wave sleep,4
+77,metabolism,1,paradoxical sleep,4
+78,renin-angiotensin system,1,gabaa receptors,4
+79,leptin,1,gaba,4
+80,conductance-based neuron models,1,glycine,4
+81,minimal time affine,1,chaotic synchronization,4
+82,abdominal control,1,traumatic brain injury,4
+83,chemoreception,1,arousal,4
+84,expiratory neurons,1,coma,4
+85,inspiratory,1,locus coeruleus,4
+86,closed-loop isi clamp,1,raphe nucleus,4
+87,computational model,1,morris-lecar neuron model,4
+88,firing regularity,1,hysteresis,4
+89,artificial neural network,1,creep,4
+90,direct power control,1,synchronous,4
+91,double fed induction,1,mechanical arm,4
+92,cpg,1,hydraulic drive system,4
+93,biped robot,1,pid,4
+94,human locomotion,1,self-tuning pid,4
+95,spiking neurons,1,saccade,4
+96,homotopy perturbation method,1,burst firing,4
+97,direct torque control,1,circuit model,4
+98,three levels inverter,1,time-optimal,4
+99,induction motor,1,united simulation,4
+100,barrier lyapunov function (blf),1,matlab,4
+101,neural network (nn) approximation,1,amesim,4
+102,molybdenum disulfide,1,stimulation,4
+103,neuron transistor,1,neuroprosthetics,4
+104,logic,1,optogenetics,4
+105,neuromorphic,1,cortex,4
+106,fuzzy control theory,1,active disturbance rejection control,4
+107,rotor,1,rbf neural network,4
+108,automatic balance,1,neuroscience,4
+109,slow wave sleep,1,issue 57,4
+110,paradoxical sleep,1,channelrhodopsin,4
+111,gabaa receptors,1,neural,4
+112,gaba,1,external electrical stimulation,4
+113,glycine,1,fiber laser,4
+114,hysteretic chaotic neuron,1,electronic circuit,4
+115,sliding mode control,1,synapse,4
+116,chaos masking,1,neuroengineering,4
+117,secure,1,hydraulic turbine,4
+118,amplitude death,1,transient stability,4
+119,oscillation death,1,facts,4
+120,indirect synaptic coupling,1,asvc,4
+121,complex networks,1,neuron fuzzy control,4
+122,control of complex networks,1,neuron adaptive controller,4
+123,neuron activation,1,single neuron controller,4
+124,neuron pid,1,fractional,4
+125,smart control,1,neuron network,4
+126,permanent magnet synchronous motors(pmsm),1,time-delay,4
+127,neuron self-adaptive pid,1,dopaminergic neuron,4
+128,speed tracking control,1,giant,4
+129,fuzzy-single neuron pid,1,gustatory neuron,4
+130,brushless dc (bldc) motor,1,nociception,4
+131,fuzzy logic control,1,painless,4
+132,single neuron (sn) pid,1,chronotropy,4
+133,self-growing,1,dromotropy,4
+134,model reference,1,hypothalamus,4
+135,vector control,1,inotropy,4
+136,blackbody radiation source,1,raphe pallidus,4
+137,welding bath depth,1,thermoregulation,4
+138,single-neuron pid,1,prostaglandin,4
+139,hebb,1,gaba inhibition,4
+140,diffusive neuronal cell network,1,neuron model,4
+141,adaptive training procedure,1,humidity control,4
+142,practical,1,suicide,4
+143,inverse neural network,1,mental illness,4
+144,exponential convergence,1,brainstem,4
+145,partial contraction,1,quantitation,4
+146,chaotic,1,amphidial neuron,4
+147,traumatic brain injury,1,ancylostoma,4
+148,arousal,1,caenorhabditis,4
+149,coma,1,development,4
+150,locus coeruleus,1,haemonchus,4
+151,raphe nucleus,1,abdominal control,3
+152,master-slave synchronization,1,chemoreception,3
+153,hr neurons,1,expiratory neurons,3
+154,linear feedback control,1,inspiratory,3
+155,state estimation,1,closed-loop isi clamp,3
+156,coupled,1,computational model,3
+157,control pulse,1,firing regularity,3
+158,basin boundaries,1,molybdenum disulfide,3
+159,hodgkin-huxley neuron model,1,neuron transistor,3
+160,wireless neuron control network,1,logic,3
+161,distributed control,1,neuromorphic,3
+162,lti system,1,fuzzy control theory,3
+163,hysteresis,1,rotor,3
+164,creep,1,automatic balance,3
+165,synchronous,1,hysteretic chaotic neuron,3
+166,adaptive output feedback synchronization,1,sliding mode control,3
+167,hypoxia,1,chaos masking,3
+168,mechanical arm,1,secure,3
+169,hydraulic drive system,1,amplitude death,3
+170,pid,1,oscillation death,3
+171,hindmarsh rose neuron,1,indirect synaptic coupling,3
+172,caenorhabditis-elegans,1,welding bath depth,3
+173,heterochronic gene lin-14,1,single-neuron pid,3
+174,c. elegans,1,hebb,3
+175,hysteretic,1,inverse neural network,3
+176,networked control system,1,exponential convergence,3
+177,time delay,1,partial contraction,3
+178,snake-like robot,1,chaotic,3
+179,mirror neuron system mechanism,1,hypoxia,3
+180,swimming motion,1,hindmarsh rose neuron,3
+181,neural networks controller,1,hysteretic,3
+182,coupled neurons,1,networked control system,3
+183,hindmarsh-rose neurons,1,time delay,3
+184,greenhouse environmental control,1,neural networks controller,3
+185,mitochondrial ca2+,1,coupled neurons,3
+186,spinal nerve ligation,1,hindmarsh-rose neurons,3
+187,sensory,1,mitochondrial ca2+,3
+188,brain-computer interface,1,spinal nerve ligation,3
+189,comodulation,1,sensory,3
+190,neuron ensemble,1,brain-computer interface,3
+191,null space,1,comodulation,3
+192,saccade,1,neuron ensemble,3
+193,burst firing,1,null space,3
+194,circuit model,1,cmos neuron,3
+195,time-optimal,1,motion control unit,3
+196,cmos neuron,1,central pattern generator,3
+197,motion control unit,1,bio-mimetic,3
+198,central pattern generator,1,brain-machine interface,3
+199,bio-mimetic,1,neuroprosthesis,3
+200,brain-machine interface,1,learning,3
+201,neuroprosthesis,1,neuronal plasticity,3
+202,learning,1,hindmarsh-rose system,3
+203,neuronal plasticity,1,lag synchronization,3
+204,hindmarsh-rose system,1,chaotic bursting,3
+205,lag synchronization,1,intracortical connectivity,3
+206,chaotic bursting,1,corticospinal,3
+207,united simulation,1,dynamical sliding mode control,3
+208,matlab,1,controllability,3
+209,amesim,1,lie algebra,3
+210,thalamic neuron model,1,pseudospectral methods,3
+211,neuron input current estimator,1,fuzzy logic system,3
+212,expert control,1,fuzzy adaptive,3
+213,intracortical connectivity,1,adaptive synchronization,3
+214,corticospinal,1,lyapunov,3
+215,dynamical sliding mode control,1,epilepsy,3
+216,controllability,1,hippocampal neurons,3
+217,lie algebra,1,close-loop control,3
+218,pseudospectral methods,1,slow variable tracing,3
+219,closed-loop control,1,motor neuron disease,3
+220,parkinsonian state,1,toxicant,3
+221,thalamocortical relay neuron,1,heavy,3
+222,stimulation,1,ghostburster neurons,3
+223,neuroprosthetics,1,dynamic,3
+224,optogenetics,1,mutual information,3
+225,cortex,1,neural ensemble,3
+226,hodgkin-huxley neuron,1,brain-machine,3
+227,hamilton-jacobi-bellman pde,1,flow control,3
+228,fuzzy logic system,1,model of heating network,3
+229,fuzzy adaptive,1,energy saving control,3
+230,adaptive synchronization,1,wastewater treatment,3
+231,lyapunov,1,dissolved oxygen,3
+232,inverted pendulum,1,single neuron pid control,3
+233,epilepsy,1,filament winding machine,3
+234,hippocampal neurons,1,tension control,3
+235,close-loop control,1,image sensor,3
+236,slow variable tracing,1,auto-adapted,3
+237,motor neuron disease,1,neuron observer,3
+238,toxicant,1,parameter estimation,3
+239,heavy,1,external,3
+240,ghostburster neurons,1,coexisting attractors,3
+241,dynamic,1,random network,3
+242,bifurcation control,1,acetylcholine,3
+243,dynamic state feedback,1,analgesia,3
+244,brain-machine interface (bmi),1,muscarinic receptors,3
+245,neural decoding,1,l(2) gain reduction,3
+246,relative importance,1,nonlinear,3
+247,statistic information,1,robust and,3
+248,single neuron adaptive control,1,immune principle,3
+249,non-gaussian,1,spherical,3
+250,mutual information,1,linear neuron,3
+251,neural ensemble,1,difference operator,3
+252,brain-machine,1,on-line learning,3
+253,time-optimal control,1,active queue management,3
+254,mathematical neuroscience,1,jitter,3
+255,phase models,1,passive control,3
+256,partial synchronization,1,sliding mode,3
+257,hr neuron,1,rbf neural,3
+258,flow control,1,underwater robot,3
+259,model of heating network,1,immune single neuron pid,3
+260,energy saving control,1,motion control,3
+261,wastewater treatment,1,double neuron control,3
+262,dissolved oxygen,1,nonlinear plants,3
+263,gauge control system,1,ph process,3
+264,sliding mode variable structure control,1,lyapunov function,3
+265,switched reluctance motor,1,self adaptie,3
+266,filament winding machine,1,ant colony algorithm,3
+267,tension control,1,oscillatory neurons,3
+268,image sensor,1,phase randomization,3
+269,auto-adapted,1,isochrons,3
+270,neuron observer,1,h-r neuron,3
+271,parameter estimation,1,delayed feedback control,3
+272,external,1,chaotic fire pattern,3
+273,coexisting attractors,1,inter-spike,3
+274,random network,1,predictive,3
+275,acetylcholine,1,identification,3
+276,analgesia,1,distributed intelligent system,3
+277,muscarinic receptors,1,grey prediction,3
+278,neuroscience,1,time-delay system,3
+279,issue 57,1,wheelbase preview,3
+280,channelrhodopsin,1,road surface,3
+281,neural,1,common rail,3
+282,l(2) gain reduction,1,pressure valve,3
+283,nonlinear,1,self-adaptive,3
+284,robust and,1,exhaust temperature control,3
+285,lasalle invariant principle,1,micro,3
+286,fiber laser,1,gain,3
+287,electronic circuit,1,weight function,3
+288,synapse,1,vehicle,3
+289,neuroengineering,1,active suspension,3
+290,robust adaptive,1,genetic algorithm,3
+291,tracked vehicle,1,optimization,3
+292,magneto rheological damper,1,hodgkin-huxley model,3
+293,immune principle,1,electric field,3
+294,spherical,1,oscillations,3
+295,globally exponentially stability,1,tremor,3
+296,recurrent neural networks,1,eye movement,3
+297,matrix,1,flocculus,3
+298,neuron predictive controller,1,decoupling control,3
+299,linear neuron,1,neural control,3
+300,difference operator,1,coordinate,3
+301,on-line learning,1,axon growth,3
+302,active queue management,1,local protein synthesis,3
+303,jitter,1,mrna localization,3
+304,sliding-mode,1,mrna,3
+305,nonlinear system,1,pi-single neuron,3
+306,systems,1,fuzzy decoupling,3
+307,passive control,1,temperature and humidity,3
+308,two coupled neurons,1,a fuzzy,3
+309,tracking control,1,intelligent,3
+310,sliding mode,1,neural pid controller,3
+311,rbf neural,1,fuzzy inference,3
+312,decoupling algorithm,1,status switching,3
+313,forging machine,1,cardiovascular system,3
+314,neuron model-free control,1,information maximization,3
+315,takagi-sugeno fuzzy scheme,1,self-organizing,3
+316,underwater robot,1,back-propagation,3
+317,immune single neuron pid,1,generalized neuron controller,3
+318,motion control,1,power,3
+319,double neuron control,1,gain regulating,3
+320,nonlinear plants,1,ped controller,3
+321,ph process,1,nonlinearity,3
+322,high order sliding mode control,1,a direct drive robot,3
+323,lyapunov function,1,neuron double-layer control,3
+324,vehicle chassis dynamometer,1,uncertainty,3
+325,the measurement and control system,1,information control,3
+326,the,1,economic analysis,3
+327,self adaptie,1,muscle recording,3
+328,ant colony algorithm,1,force measurement,3
+329,scanning motor,1,movement velocity,3
+330,single neuron self-adaptive pid,1,muscle fiber,3
+331,digital control,1,rough set,3
+332,intelligent pid controller,1,rough membership function,3
+333,parameter optimization,1,rough neuron,3
+334,oscillatory neurons,1,pid neuron,3
+335,phase randomization,1,neurocontrol,3
+336,isochrons,1,frequency tuning curve,3
+337,h-r neuron,1,inferior colliculus,3
+338,delayed feedback control,1,mice,3
+339,chaotic fire pattern,1,middle ear,3
+340,inter-spike,1,synaptic depression,3
+341,transient stability,1,pacemaker,3
+342,facts,1,oscillation,3
+343,asvc,1,auditory experience,3
+344,neuron fuzzy control,1,nuclear size,3
+345,predictive,1,neuronal life,3
+346,identification,1,a-current,3
+347,distributed intelligent system,1,excitability types,3
+348,grey prediction,1,firing frequency,3
+349,time-delay system,1,modulatory influences,3
+350,linear induction motor,1,pyramidal tract,3
+351,slip frequency,1,conduction velocity,3
+352,wheelbase preview,1,spike duration,3
+353,road surface,1,nonlinear optimal control,2
+354,neuron synchronization,1,adaptive correction,2
+355,controlled synchronization,1,generalized predictive control (gpc),2
+356,tracking on networks,1,conductance-based neuron models,2
+357,pmlsm,1,minimal time affine,2
+358,speed control,1,artificial neural network,2
+359,gaussian white noise,1,direct power control,2
+360,transition,1,double fed induction,2
+361,voltage-controlled oscillator neuron,1,cpg,2
+362,active vehicle suspension,1,biped robot,2
+363,improved hebb learning algorithm,1,human locomotion,2
+364,common rail,1,spiking neurons,2
+365,pressure valve,1,homotopy perturbation method,2
+366,trolley crane,1,direct torque control,2
+367,anti-sway control,1,three levels inverter,2
+368,self-adaptive,1,induction motor,2
+369,exhaust temperature control,1,complex networks,2
+370,micro,1,control of complex networks,2
+371,gain,1,neuron activation,2
+372,weight function,1,neuron pid,2
+373,fractional,1,smart control,2
+374,neuron network,1,speed tracking control,2
+375,time-delay,1,fuzzy-single neuron pid,2
+376,dopaminergic neuron,1,brushless dc (bldc) motor,2
+377,giant,1,fuzzy logic control,2
+378,gustatory neuron,1,single neuron (sn) pid,2
+379,nociception,1,self-growing,2
+380,painless,1,model reference,2
+381,mathematical model,1,vector control,2
+382,main engine rotation speed,1,blackbody radiation source,2
+383,vehicle,1,diffusive neuronal cell network,2
+384,active suspension,1,adaptive training procedure,2
+385,the single neuron pid,1,practical,2
+386,the wavelt neuron network,1,master-slave synchronization,2
+387,genetic algorithm,1,hr neurons,2
+388,optimization,1,linear feedback control,2
+389,hodgkin-huxley model,1,state estimation,2
+390,electric field,1,coupled,2
+391,cns damage operant conditioning,1,control pulse,2
+392,learned control,1,basin boundaries,2
+393,motor neuron responses,1,hodgkin-huxley neuron model,2
+394,chronotropy,1,wireless neuron control network,2
+395,dromotropy,1,distributed control,2
+396,hypothalamus,1,lti system,2
+397,inotropy,1,caenorhabditis-elegans,2
+398,spiking neuron,1,heterochronic gene lin-14,2
+399,reinforcement learning,1,c. elegans,2
+400,spike response model,1,snake-like robot,2
+401,oscillations,1,mirror neuron system mechanism,2
+402,tremor,1,swimming motion,2
+403,eye movement,1,greenhouse environmental control,2
+404,flocculus,1,thalamic neuron model,2
+405,decoupling control,1,neuron input current estimator,2
+406,neural control,1,expert control,2
+407,coordinate,1,closed-loop control,2
+408,axon growth,1,parkinsonian state,2
+409,local protein synthesis,1,thalamocortical relay neuron,2
+410,mrna localization,1,hodgkin-huxley neuron,2
+411,mrna,1,hamilton-jacobi-bellman pde,2
+412,pi-single neuron,1,bifurcation control,2
+413,fuzzy decoupling,1,dynamic state feedback,2
+414,temperature and humidity,1,brain-machine interface (bmi),2
+415,a fuzzy,1,neural decoding,2
+416,adaptive power system stabilizer,1,relative importance,2
+417,on-line training,1,statistic information,2
+418,artificial synapse,1,single neuron adaptive control,2
+419,neurophysiology,1,non-gaussian,2
+420,biomedical engineering education,1,time-optimal control,2
+421,intelligent,1,mathematical neuroscience,2
+422,neural pid controller,1,phase models,2
+423,fuzzy inference,1,partial synchronization,2
+424,status switching,1,hr neuron,2
+425,smith predictive control,1,gauge control system,2
+426,digital pip controller,1,switched reluctance motor,2
+427,cardiovascular system,1,lasalle invariant principle,2
+428,neurons,1,robust adaptive,2
+429,information maximization,1,tracked vehicle,2
+430,self-organizing,1,magneto rheological damper,2
+431,raphe pallidus,1,globally exponentially stability,2
+432,thermoregulation,1,recurrent neural networks,2
+433,prostaglandin,1,matrix,2
+434,gaba inhibition,1,neuron predictive controller,2
+435,gad,1,sliding-mode,2
+436,inhibitory,1,nonlinear system,2
+437,limbic,1,systems,2
+438,episodic,1,two coupled neurons,2
+439,memory,1,tracking control,2
+440,papez,1,decoupling algorithm,2
+441,back-propagation,1,forging machine,2
+442,generalized neuron controller,1,neuron model-free control,2
+443,power,1,takagi-sugeno fuzzy scheme,2
+444,gain regulating,1,high order sliding mode control,2
+445,ped controller,1,vehicle chassis dynamometer,2
+446,model-free pid controller,1,the measurement and control system,2
+447,adaptive neuron,1,the,2
+448,self-tuning parameters,1,scanning motor,2
+449,multivariable systems,1,single neuron self-adaptive pid,2
+450,pulse-type hardware neuron model,1,digital control,2
+451,artificial auditory neural networks,1,intelligent pid controller,2
+452,nonlinearity,1,parameter optimization,2
+453,a direct drive robot,1,linear induction motor,2
+454,neuron double-layer control,1,slip frequency,2
+455,uncertainty,1,neuron synchronization,2
+456,indirect adaptive control,1,controlled synchronization,2
+457,humidity control,1,tracking on networks,2
+458,direct-drive,1,pmlsm,2
+459,information control,1,speed control,2
+460,economic analysis,1,gaussian white noise,2
+461,ethanol withdrawal,1,transition,2
+462,periaqueductal gray,1,voltage-controlled oscillator neuron,2
+463,audiogenic seizure,1,active vehicle suspension,2
+464,sliding mode control (smc),1,improved hebb learning algorithm,2
+465,primary afferent,1,trolley crane,2
+466,proprioception,1,anti-sway control,2
+467,presynaptic inhibition,1,mathematical model,2
+468,muscle recording,1,main engine rotation speed,2
+469,force measurement,1,the single neuron pid,2
+470,movement velocity,1,the wavelt neuron network,2
+471,muscle fiber,1,cns damage operant conditioning,2
+472,rough set,1,learned control,2
+473,rough membership function,1,motor neuron responses,2
+474,rough neuron,1,spiking neuron,2
+475,hydroelectric generating units,1,reinforcement learning,2
+476,hydraulic turbine generators,1,spike response model,2
+477,variable structure neuron,1,adaptive power system stabilizer,2
+478,pid neuron,1,on-line training,2
+479,neurocontrol,1,artificial synapse,2
+480,fuzzy neuron controller,1,neurophysiology,2
+481,frequency tuning curve,1,biomedical engineering education,2
+482,inferior colliculus,1,smith predictive control,2
+483,mice,1,digital pip controller,2
+484,middle ear,1,neurons,2
+485,neurocardiology,1,model-free pid controller,2
+486,autonomic nervous system,1,adaptive neuron,2
+487,nicotinic receptor,1,self-tuning parameters,2
+488,synaptic depression,1,multivariable systems,2
+489,pacemaker,1,indirect adaptive control,2
+490,oscillation,1,direct-drive,2
+491,free radicals,1,ethanol withdrawal,2
+492,immunohistochemistry,1,periaqueductal gray,2
+493,electrophysiology,1,audiogenic seizure,2
+494,raphe,1,sliding mode control (smc),2
+495,autonomic,1,primary afferent,2
+496,membrane,1,proprioception,2
+497,auditory experience,1,presynaptic inhibition,2
+498,nuclear size,1,hydroelectric generating units,2
+499,neuronal life,1,hydraulic turbine generators,2
+500,motor neuron plasticity,1,variable structure neuron,2
+501,primary sensory neuron,1,fuzzy neuron controller,2
+502,sprouting,1,neurocardiology,2
+503,a-current,1,autonomic nervous system,2
+504,excitability types,1,nicotinic receptor,2
+505,firing frequency,1,free radicals,2
+506,modulatory influences,1,immunohistochemistry,2
+507,suicide,1,motor neuron plasticity,2
+508,mental illness,1,primary sensory neuron,2
+509,brainstem,1,sprouting,2
+510,quantitation,1,nonlinear process control,2
+511,amphidial neuron,1,parameter-tuning,2
+512,ancylostoma,1,barrier lyapunov function (blf),1
+513,caenorhabditis,1,neural network (nn) approximation,1
+514,development,1,permanent magnet synchronous motors(pmsm),1
+515,haemonchus,1,neuron self-adaptive pid,1
+516,nonlinear process control,1,adaptive output feedback synchronization,1
+517,parameter-tuning,1,inverted pendulum,1
+518,pyramidal tract,1,sliding mode variable structure control,1
+519,conduction velocity,1,pulse-type hardware neuron model,1
+520,spike duration,1,artificial auditory neural networks,1

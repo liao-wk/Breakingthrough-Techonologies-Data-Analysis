@@ -1,0 +1,225 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,genomics,11,genomics,50
+1,data sharing,6,data sharing,26
+2,big data,4,big data,20
+3,exome sequencing,3,genetics,13
+4,genetics,3,ethics,13
+5,whole genome sequencing,3,human genome,12
+6,human genome,3,ga4gh,12
+7,ga4gh,3,data,12
+8,ethics,3,medicine,11
+9,association,3,open consent,9
+10,human genome project,3,education,9
+11,open consent,2,association,9
+12,human,2,human genome project,9
+13,education,2,privacy,8
+14,genomic data sharing,2,personalised medicine,8
+15,medicine,2,personal genome,8
+16,genetic testing,2,humans,8
+17,data,2,exome sequencing,7
+18,privacy,2,whole genome sequencing,7
+19,personalised medicine,2,genetic testing,7
+20,personal genome,2,governance,7
+21,humans,2,law,7
+22,personal,2,metadata,7
+23,citizen science,2,citizen science,7
+24,single molecule,2,human,6
+25,genome sequencing,1,genomic data sharing,6
+26,neonatal intensive care unit,1,personal,6
+27,personal genomics,1,single molecule,6
+28,open access,1,nursing,5
+29,genome donation,1,competency,5
+30,genome,1,genomic resources,5
+31,genomic knowledge,1,australia,5
+32,phenotype ontology,1,ethics review,5
+33,standards,1,global,5
+34,variant,1,security,5
+35,de novo assembly,1,open medical data,5
+36,smrt sequencing,1,risk,5
+37,grch38,1,survey,5
+38,human reference genome,1,film,5
+39,nursing,1,attitudes,5
+40,competency,1,transcription,5
+41,genomic resources,1,variants,5
+42,heredity,1,framework,5
+43,international health,1,identification,5
+44,global health,1,indel,5
+45,non-binary snp,1,insertion,5
+46,tetra-allelic snp,1,deletion,5
+47,aim-snp,1,selection,5
+48,forensic genetics,1,site frequency spectrum,5
+49,multiplexed testing,1,snp,5
+50,barcode free method,1,personal genomics,4
+51,single nucleotide,1,open access,4
+52,analysis,1,genome donation,4
+53,vulnerabilities,1,genome,4
+54,responses,1,genomic knowledge,4
+55,height,1,phenotype ontology,4
+56,genomic data transfer,1,standards,4
+57,whole exome sequencing,1,variant,4
+58,genomics education,1,de novo assembly,4
+59,personal genome sequencing,1,smrt sequencing,4
+60,preventive medicine,1,grch38,4
+61,public health,1,human reference genome,4
+62,epidemiology,1,heredity,4
+63,delphi,1,international health,4
+64,personal outcomes,1,global health,4
+65,personal utility,1,preventive medicine,4
+66,biomedical informatics,1,public health,4
+67,community challenge,1,epidemiology,4
+68,critical assessment,1,delphi,4
+69,genomic privacy,1,personal outcomes,4
+70,beacon,1,personal utility,4
+71,re-identification,1,genomic privacy,4
+72,australia,1,beacon,4
+73,ethics review,1,re-identification,4
+74,global,1,cancer,4
+75,governance,1,patents,4
+76,law,1,sociology of science,4
+77,metadata,1,model organisms,4
+78,newborn screening,1,knowledge,4
+79,public,1,complete genomics,4
+80,security,1,haplotypes,4
+81,open medical data,1,long fragment read,4
+82,risk,1,lfr,4
+83,cancer,1,psychoanalysis,4
+84,survey,1,disembodiment,4
+85,film,1,terabyte era,4
+86,attitudes,1,snyderome,4
+87,patents,1,epigenomics,4
+88,sociology of science,1,computational genomics,4
+89,model organisms,1,apis,4
+90,knowledge,1,genome informatics,4
+91,complete genomics,1,biomarkers,4
+92,haplotypes,1,proteomics,4
+93,long fragment read,1,targeted,4
+94,lfr,1,policy,4
+95,informed decision-making,1,stem cells,4
+96,genomic counseling,1,translational science,4
+97,variome,1,biodiversity,4
+98,richard cotton,1,comparative genomics,4
+99,unesco,1,consortium,4
+100,transcription,1,evolution,4
+101,variants,1,giga,4
+102,framework,1,ucsc genome browser,4
+103,identification,1,bioinformatics,4
+104,whole-genome sequencing,1,general intelligence,4
+105,whole-exome sequencing,1,iq,4
+106,direct-to-consumer,1,hapmap database,4
+107,psychoanalysis,1,snplogic,4
+108,disembodiment,1,ngs,4
+109,terabyte era,1,resequence,4
+110,snyderome,1,short reads,4
+111,epigenomics,1,alignment,4
+112,clinical utility,1,bwt,4
+113,patient perspectives,1,dna sequencing,4
+114,perceived utility,1,genetic privacy,4
+115,computational genomics,1,informed consent,4
+116,apis,1,open,4
+117,genome informatics,1,altruism,4
+118,biomarkers,1,equity,4
+119,proteomics,1,ethical principles,4
+120,targeted,1,future perspectives,4
+121,dtc-pgt,1,non-binary snp,3
+122,personal genome project,1,tetra-allelic snp,3
+123,policy,1,aim-snp,3
+124,stem cells,1,forensic genetics,3
+125,translational science,1,analysis,3
+126,repeat,1,vulnerabilities,3
+127,tandem repeats,1,responses,3
+128,economic evaluation in genomic medicine,1,height,3
+129,ethics in genomics,1,newborn screening,3
+130,genethics,1,public,3
+131,biodiversity,1,variome,3
+132,comparative genomics,1,richard cotton,3
+133,consortium,1,unesco,3
+134,evolution,1,clinical utility,3
+135,giga,1,patient perspectives,3
+136,indel,1,perceived utility,3
+137,insertion,1,project,3
+138,deletion,1,traits,3
+139,selection,1,whole genome sequence,3
+140,site frequency spectrum,1,pharmacogenomics,3
+141,snp,1,variation,3
+142,substitution,1,disease associations,3
+143,project,1,metabolomics,3
+144,traits,1,nutritional therapy,3
+145,ucsc genome browser,1,pharmacological therapy,3
+146,bioinformatics,1,allele-specific,3
+147,phenomics,1,chip-seq,3
+148,personal genomes,1,networks,3
+149,personal transcriptomes,1,rna-seq,3
+150,human genome database system,1,macular degeneration,3
+151,sequence alignment,1,hepatitis-c,3
+152,sequence compression,1,disease,3
+153,whole genome sequence,1,personalization,3
+154,pharmacogenomics,1,genetic determinism,3
+155,variation,1,ancestral allele,3
+156,disease associations,1,gene annotation,3
+157,metabolomics,1,loss of function,3
+158,nutritional therapy,1,nonsense snp,3
+159,pharmacological therapy,1,biocuration,3
+160,whole-genome sequencing (wgs),1,biosociality,3
+161,simple nucleotide,1,direct-to-consumer genomics,3
+162,allele-specific,1,ips,3
+163,chip-seq,1,next generation dna sequencing,3
+164,networks,1,autonomy,3
+165,rna-seq,1,culture,3
+166,delivery of genetics care,1,genome diversity research,3
+167,personalized medicine,1,human genome diversity,3
+168,omics,1,medical-records,3
+169,macular degeneration,1,systems biology,3
+170,hepatitis-c,1,primary-care,3
+171,disease,1,sequencing,3
+172,general intelligence,1,direct linear analysis,3
+173,iq,1,genome research,3
+174,hapmap database,1,medical records,3
+175,snplogic,1,human subject,3
+176,personalization,1,"elsi (ethical, legal,",3
+177,genetic determinism,1,eugenics,3
+178,ancestral allele,1,ethical decision-making,3
+179,gene annotation,1,genome sequencing,2
+180,loss of function,1,neonatal intensive care unit,2
+181,nonsense snp,1,multiplexed testing,2
+182,biocuration,1,barcode free method,2
+183,biosociality,1,single nucleotide,2
+184,direct-to-consumer genomics,1,genomic data transfer,2
+185,ngs,1,whole exome sequencing,2
+186,resequence,1,genomics education,2
+187,short reads,1,personal genome sequencing,2
+188,alignment,1,biomedical informatics,2
+189,bwt,1,community challenge,2
+190,personal genome scanning,1,critical assessment,2
+191,direct-to-consumer services,1,informed decision-making,2
+192,genomic risk,1,genomic counseling,2
+193,dna sequencing,1,whole-genome sequencing,2
+194,genetic privacy,1,whole-exome sequencing,2
+195,informed consent,1,direct-to-consumer,2
+196,open,1,dtc-pgt,2
+197,ips,1,personal genome project,2
+198,next generation dna sequencing,1,repeat,2
+199,autonomy,1,tandem repeats,2
+200,culture,1,economic evaluation in genomic medicine,2
+201,genome diversity research,1,ethics in genomics,2
+202,human genome diversity,1,genethics,2
+203,medical-records,1,phenomics,2
+204,systems biology,1,personal genomes,2
+205,primary-care,1,personal transcriptomes,2
+206,altruism,1,human genome database system,2
+207,equity,1,sequence alignment,2
+208,ethical principles,1,sequence compression,2
+209,future perspectives,1,whole-genome sequencing (wgs),2
+210,strategic international alliances,1,simple nucleotide,2
+211,nutrigenomics,1,delivery of genetics care,2
+212,gene-nutrient,1,personalized medicine,2
+213,sequencing,1,omics,2
+214,direct linear analysis,1,personal genome scanning,2
+215,genome research,1,direct-to-consumer services,2
+216,medical records,1,genomic risk,2
+217,human subject,1,strategic international alliances,2
+218,"elsi (ethical, legal,",1,nutrigenomics,2
+219,personal computer,1,gene-nutrient,2
+220,linux operating system,1,personal computer,2
+221,phred/phrap/consed software,1,linux operating system,2
+222,eugenics,1,phred/phrap/consed software,2
+223,ethical decision-making,1,,

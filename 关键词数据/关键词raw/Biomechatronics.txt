@@ -1,0 +1,571 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE biomechatronics; exoskeleton; prosthesis; rehabilitation robot;
+   human-machine interface; brain-machine interface; electromyography;
+   electroencephalography
+ER
+
+PT J
+ID EXTENSOR DIGITORUM LONGUS; PASSIVE MECHANICAL-PROPERTIES; DYSTROPHIC MDX
+   MICE; DUCHENNE MUSCULAR-DYSTROPHY; SKELETAL-MUSCLE; MICROSCOPY; OLD;
+   CONTRACTILE; DISEASE; DESMIN
+ER
+
+PT J
+DE Active trunk support; control interfaces; biomechatronics
+ID DUCHENNE MUSCULAR-DYSTROPHY; MEN; EMG
+ER
+
+PT J
+DE Skeletal muscle; Biopolymers; Biosensor; Biomechatronics; Ca2+
+   sensitivity; Elasticity
+ID SARCOPLASMIC-RETICULUM FUNCTION; FAST-TWITCH MUSCLE; SKELETAL-MUSCLE;
+   CONTRACTILE PROPERTIES; MECHANICAL-PROPERTIES; SARCOMERE-LENGTH; FORCE
+   RESPONSES; CYTOSOLIC CA2+; TETANIC FORCE; MAXIMUM SPEED
+ER
+
+PT J
+DE Biomechatronics; pneumatic actuators; transportation; powder;
+   peristaltic motion
+ER
+
+PT J
+DE Biomechatronics; electromyography (EMG); myoelectric control; neural
+   prosthesis; transradial amputee
+ID PRINCIPAL-COMPONENTS-ANALYSIS; OF-THE-ART; PATTERN-RECOGNITION;
+   PERFORMANCE; STRATEGY; DESIGN
+ER
+
+PT J
+DE psychophysiology; human-robot interaction; biocooperative;
+   rehabilitation robotics; haptics; multimodal interfaces; biomechatronics
+ID ROBOT-AIDED THERAPY; VIRTUAL-REALITY; UPPER-LIMB; REHABILITATION;
+   STROKE; EMOTION; SYSTEM; MOVEMENT; RECOVERY; TASK
+ER
+
+PT J
+DE virtual normalization; biomechatronics; robotic assessment; motor
+   learning; rehabilitation robotics
+ID FORCE-FIELD ADAPTATION; BOTULINUM-TOXIN-A; CEREBRAL-PALSY; HAND
+   FUNCTION; CATCH TRIALS; CHILDREN; REHABILITATION; FEEDBACK; STROKE;
+   MEMORY
+ER
+
+PT J
+DE biomechatronics; prosthetics system; rehabilitation engineering
+ID UPPER-LIMB
+ER
+
+PT B
+DE Premillinary; Biomechatronics; robotic arm; rehabilitation
+ER
+
+PT B
+DE Rehabilitation robotics; biomechatronics; performance evaluation;
+   exoskeletons; product safety
+ID GAIT REHABILITATION; ENERGY EFFICIENCY; DESIGN; EXOSKELETON; ORTHOSIS
+ER
+
+PT S
+ID FOOT
+ER
+
+PT J
+DE biomechatronics; phalangeal articulations; motion analysis
+ID FINGER JOINT ANGLES; INDEX FINGER; HAND
+ER
+
+PT J
+DE Adaptive control; hysteresis; ionic polymer-metal composite (IPMC);
+   smart material
+ID NONLINEAR-SYSTEMS; NEURAL-NETWORKS; HYSTERESIS; MODEL; COMPENSATION;
+   OPTIMIZATION; IDENTIFICATION; INVERSE
+ER
+
+PT J
+DE Prosthetics; biomechatronics; control; slip prevention; tactile sensors
+ID CONTROL STRATEGIES; FEEDBACK; FORCE
+ER
+
+PT J
+DE Biomechatronics; cubature information filter (CIF); ensemble Kalman
+   filter (EsKF); fifth-degree; information fusion; iterated method;
+   performance analysis
+ID KALMAN-FILTER; NUMERICAL-INTEGRATION; STATE ESTIMATION; SYSTEMS
+ER
+
+PT J
+DE Bionics; Biomedical systems; Transfemoral amputee; Smart Bio-leg;
+   Prosthetic knee; Prosthetic systems integration; Biomechatronics
+ID WALKING; EFFICIENT; GAIT
+ER
+
+PT S
+DE Upper extremities rehabilitation equipment; Lower extremities
+   rehabilitation equipment; Cost-effective; Hand cycle; Leg cycle;
+   Telemedicine; Biomechatronics; Biomedical equipment; Biomechanics
+ID CEREBRAL-PALSY; PHYSIOLOGICAL-RESPONSES; PREVALENCE; EXERCISE
+ER
+
+PT J
+DE Musculoskeletal system; Human lower limbs; Muscle groups; Joint motion;
+   Biomechatronics; Rehabilitation
+ID STROKE; LIMB
+ER
+
+PT S
+DE Biomechatronics; Medical device; Design
+ID ULTRASONOGRAPHY; NAVIGATION; SYSTEM
+ER
+
+PT J
+DE ultrasonic transducer; biodiesel; extraction; biomechatronics
+ID MICROALGAE; BIODIESEL
+ER
+
+PT J
+DE Accelerometer; assistive healthcare; biomechatronics; biomedical
+   measurements; biomedical transducers; force measurement; forearm
+   crutches; gait analysis; instrumented crutches; instrumented walking
+   aids; limb rehabilitation; strain gauges; tilt monitoring; wireless
+   sensor
+ID PARTIAL-WEIGHT-BEARING; MEASUREMENT SYSTEM; PRESSURE; REHABILITATION;
+   EXTREMITY; WALKING
+ER
+
+PT J
+DE Biomechatronics; MEMS sensor; Energy harvesting; Zero power sensor;
+   Model-based design; Signal processing
+ID GENERATOR DESIGN; MAXIMUM POWER; EAR; POPULATIONS; DEVICES
+ER
+
+PT J
+DE Biomechatronics; Ankle; Prosthesis; Walking; Metabolic; Timing;
+   Push-off; Collision; Gait; Bionics
+ID BIPEDAL WALKING; METABOLIC COST; KNEE AMPUTEES; ENERGY-COST; GAIT;
+   AMPUTATION; ORTHOSIS; POWER; WORK
+ER
+
+PT S
+DE Manipulators; Robot control; Biomechatronics; Artificial neural
+   networks; Actuators; Position Control
+ER
+
+PT B
+DE Spinal Cord Injury; Exoskeletons; Instrumented Crutches; Assisted Gait;
+   Biomechatronics; Biomedical Measurements; Biomedical Transducers;
+   Wireless Sensor; Force Measurements; Gait Analysis; Assistive
+   Healthcare; Forearm Crutches; Instrumented Walking Aids
+ER
+
+PT S
+ER
+
+PT J
+DE biomechatronics; electromyography; EMG; hand; limb prosthesis;
+   multifunctional prosthetic hand; myoelectric control; postural control;
+   transradial prosthesis; upper-limb prosthesis
+ID PRINCIPAL-COMPONENTS-ANALYSIS; UPPER-LIMB PROSTHESES;
+   PATTERN-RECOGNITION; OF-FREEDOM; DESIGN
+ER
+
+PT J
+DE Non-invasive control interface; Active movement-assistive devices;
+   Motion intention detection; Biomechatronics; Human movement control
+   system
+ID BRAIN-COMPUTER-INTERFACE; TARGETED MUSCLE REINNERVATION; UPPER-LIMB
+   PROSTHESES; OF-THE-ART; PROPORTIONAL MYOELECTRIC CONTROL;
+   PATTERN-RECOGNITION CONTROL; REAL-TIME FMRI; EXTERNALLY POWERED
+   PROSTHESIS; HUMAN-MACHINE INTERFACE; WHEELCHAIR CONTROL
+ER
+
+PT J
+DE biomechatronics; end effectors; patient rehabilitation; rehabilitation
+   robotics; robot control
+ID UPPER-LIMB; GRAVITY COMPENSATION; UPPER EXTREMITY; ARM; THERAPY; DESIGN;
+   NEUROREHABILITATION; EXOSKELETON; TASK; RECOVERY
+ER
+
+PT J
+DE iPSC; CAD; Biomechatronics; Conceptual design; Pluripotent stem cells;
+   Cardiomyocytes
+ID REGENERATIVE MEDICINE; SEPARATION; CULTURE; SYSTEMS; DIFFERENTIATION;
+   TECHNOLOGIES; BIOREACTORS; SIMULATION; CHALLENGES; EXPANSION
+ER
+
+PT J
+DE Rehabilitation; Prosthetics System; Patient Satisfaction; Upper Limb
+   Prosthetics
+ID UPPER-LIMB AMPUTEES; POWERED PROSTHESES; HAND
+ER
+
+PT J
+DE Anthropometrics in designing prosthesis; Biomechatronics in prosthesis;
+   Motion analysis; Transradial prosthetics
+ID COMPUTER-INTERFACE SYSTEM; HAND
+ER
+
+PT J
+DE Biomechatronics; electromyography (EMG); myoelectric control; principal
+   component analysis; transradial prosthesis
+ID POWERED LIMB PROSTHESES; PATTERN-RECOGNITION; SYNERGIES
+ER
+
+PT J
+DE Biological cells; biomechatronics; fluidic microsystems; hydrodynamics;
+   numerical models; robot kinematics; velocity measurement
+ID HYDRODYNAMIC INTERACTION; FLAGELLAR PROPULSION; BACTERIAL FLAGELLA;
+   STOKES-FLOW; MICROROBOTS; MICROORGANISMS; BOUNDARY; TRAJECTORIES;
+   EQUATIONS; FIELDS
+ER
+
+PT S
+DE Electrical stimulation; motor response; biomechatronics; human wrist
+   joint; human motion analysis
+ER
+
+PT B
+DE rehabilitation robot; biomechatronics design; hybrid impedance control
+ID STROKE
+ER
+
+PT J
+DE biomechatronics; electromyography; EMG; finite state machines;
+   multigrasp hand; myoelectric control; postural control; prosthetic hand;
+   Southampton Hand Assessment Procedure; transradial prosthesis
+ID EMG PATTERN-RECOGNITION; LIMB PROSTHESES; DESIGN
+ER
+
+PT J
+ID ULTRASONIC CAVITATION; 1 MHZ; WAVES
+ER
+
+PT S
+ID HAND POSTURE; FINGER MOVEMENTS; STRAIN SENSOR; MODEL
+ER
+
+PT S
+DE biomechatronics; research rehabilitation complex; standing frame;
+   exoskeleton; feet training device; ankle training device; knee training
+   device; PWM control; pneumatic actuator
+ER
+
+PT J
+DE Biomechatronics; parallel robots; rehabilitation robotics; robot control
+ID PARALLEL MANIPULATOR; STROKE; IMPEDANCE; DYNAMICS; PLATFORM; THERAPY;
+   DESIGN
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT S
+DE Biomechatronic; Rehabilitation; Artificial Arms; 3D and Mirror Visual
+   Feedback
+ER
+
+PT J
+DE Biomedical manufacturing; Health care; Multi-disciplinary research
+ID TOTAL KNEE ARTHROPLASTY; ASSISTED ORTHOPEDIC-SURGERY; CUTTING
+   EDGE-GEOMETRY; INCREMENTAL FORMING PROCESS; BOVINE CORTICAL BONE;
+   MECHANICAL-PROPERTIES; MAGNESIUM ALLOYS; COMPACT-BONE; IN-VITRO;
+   VITREORETINAL SURGERY
+ER
+
+PT S
+DE biomechatronics; sensor technologies; force-feedback grasping
+ER
+
+PT S
+DE biomechatronics; spinal disorders; intelligent measurement; magnetic
+   sensors; intelligent corset
+ER
+
+PT J
+DE hESC cells; Stem cell banks; Hubka-Eder model; Conceptual design; PAT;
+   Biomechatronics
+ID ENDODERM; CULTURE; DIFFERENTIATION; METHODOLOGY; METABOLISM; MODEL;
+   LINES
+ER
+
+PT J
+DE Biomechatronics; Robotics; Swallowing; Food rheology; Food bolus;
+   Biomechanics
+ID BIOMECHANICAL CHARACTERISTICS; ESOPHAGEAL PERISTALSIS; OROPHARYNGEAL
+   SWALLOW; ARTIFICIAL-ESOPHAGUS; LOCOMOTION CONTROL; BOLUS CONSISTENCY;
+   FOOD TRANSPORT; OLDER-ADULTS; DYSPHAGIA; PRESSURE
+ER
+
+PT S
+DE series damping actuator; above knee prosthesis; control system; gait
+   recognition
+ID ADAPTIVE-CONTROL; KNEE
+ER
+
+PT S
+ID SUBTHALAMIC NUCLEUS; SIGNALS; TREMOR
+ER
+
+PT J
+DE Biomechatronics; electromyography (EMG); multigrasp prosthesis;
+   myoelectric control; transradial prosthesis
+ID CLASSIFICATION; NETWORKS; DESIGN
+ER
+
+PT S
+ER
+
+PT S
+DE modelling; biomechatronics; rehabilitation; kinesiotherapy; EEG sensor
+ER
+
+PT J
+ID FORCE-FEEDBACK; SENSORS; SYSTEM; ACTUATORS; MOTION; MODEL; GENERATION;
+   TACTILE; DESIGN
+ER
+
+PT J
+DE Biomechatronics; gait; sport; wireless sensors
+ID PARAMETERS
+ER
+
+PT J
+DE Autonomous sensor; Load monitoring; Biosensor; Strain sensor; Total
+   joint arthroplasty; Force transducer; Knee prosthesis; Telemetry;
+   Instrumented implant; Biomechanics; Biomechatronics
+ID IN-VIVO MEASUREMENT; INSTRUMENTED IMPLANT; CONTACT FORCES; TIBIAL
+   FORCES; ARTHROPLASTY; DEVICE; MOMENTS; JOINT
+ER
+
+PT J
+DE Biomechatronics; controller design; powered prosthesis; sloped walking
+ID FOOT PROSTHESIS
+ER
+
+PT S
+DE Transradial prosthetics; body powered prosthetics; pressure distribution
+ID COMPUTER-INTERFACE SYSTEM
+ER
+
+PT S
+DE hexapod robot; six-legged walking; compliant joint; elastic actuation
+ID MOBILE ROBOT; WALKING; FEEDBACK; BEHAVIOR; NETWORK
+ER
+
+PT B
+DE Biomechatronics; Robotics; Swallowing; Food rheology; Food bolus;
+   Biomechanics
+ID ESOPHAGEAL PERISTALSIS; ARTIFICIAL-ESOPHAGUS; BOLUS CONSISTENCY; FOOD
+   TRANSPORT; PRESSURE; SYSTEM; COORDINATION; MASTICATION; SIMULATION;
+   GENERATION
+ER
+
+PT S
+DE Tele-operation; Biomechatronics; Human-Machine Interface
+ID SENSORY SUBSTITUTION; BILATERAL TELEOPERATION; PERCEPTION; SUMMATION;
+   SURGERY; DISPLAY
+ER
+
+PT J
+DE hopping robots; biomechatronics; real-time control; artificial neural
+   networks; mathematical modelling of dynamical systems; hybrid control
+   systems
+ER
+
+PT J
+DE Biomechatronics; gait analysis; impedance control; mechanical system
+   design; powered prosthesis
+ID MONOPROPELLANT-POWERED ACTUATOR; ENERGETIC CHARACTERIZATION; MECHANICAL
+   OUTPUT; DESIGN; WALKING; AMPUTATION; LEVEL; COST
+ER
+
+PT J
+DE Biomechatronics; biorobotics; capsular endoscopy; endoluminal surgery;
+   legged locomotion; robotic endoscopy
+ID WIRELESS CAPSULE ENDOSCOPY; SURGERY; DEVICES; TRACT
+ER
+
+PT J
+ER
+
+PT S
+DE Flexible Manipulators and Structures; Biomechatronics; Motion Vibration
+   and Noise Control
+ER
+
+PT B
+DE mechatronics; transdisciplinarity; educational paradigm; reflexive
+   communication; socio-interactive context
+ER
+
+PT S
+DE IOL; biomechatronics; ophthalmology; active implant; accommodation
+ER
+
+PT J
+DE Biomimetics; hybrid robot control architectures; insect navigation;
+   neural interfaces; biomechatronics
+ID OPTIC FLOW; MINI-BRAIN; INSECT; FLIGHT; LOCOMOTION; NAVIGATION;
+   HONEYBEE; ROBOT; ARCHITECTURE; COMPLEX
+ER
+
+PT S
+DE biomechatronics; biomechanics; mechatronic design philosophy; gripper;
+   arm prosthesis
+ER
+
+PT S
+DE orthosis; upper-limb; functional; design; control
+ER
+
+PT J
+ID ROBOTICS
+ER
+
+PT J
+DE fish robot; central pattern generator; swimming; crawling
+ID UNDERWATER VEHICLES; LOCOMOTION; WALKING
+ER
+
+PT S
+ID CEREBELLAR PURKINJE-CELL; ACTIVE MEMBRANE MODEL; SUPPORT
+ER
+
+PT B
+ID EMG PATTERN-RECOGNITION; MYOELECTRIC PROSTHESIS
+ER
+
+PT J
+ER
+
+PT S
+ID HYBRID BIONIC SYSTEMS; HAND; INTERFACES; FUTURE; DESIGN
+ER
+
+PT J
+DE biomimetics; bio-locomotion; underwater robot; undulating fins; modular
+   mechanism; depth control
+ER
+
+PT J
+ER
+
+PT S
+DE ophthalmology; accommodation; biomechatronics; active-optics; micro- and
+   nanotechnology
+ID LENS
+ER
+
+PT J
+DE biomechatronics; biorobotics; hand prostheses; neural interfaces;
+   neurorobotics
+ID PERIPHERAL-NERVE; INFORMATION; SIMULATION; ELECTRODES; AMPUTEES
+ER
+
+PT S
+DE rehabilitation robotics; biomechatronics; neuro-rehabititation; stroke
+ID STROKE; THERAPY
+ER
+
+PT S
+DE biomechatronics; stroke; upper limb
+ID STROKE; THERAPY; REHABILITATION; RECOVERY
+ER
+
+PT S
+DE automation; biological cells; microelectromechanical devices;
+   biomechatronics; single cell analysis
+ID SACCHAROMYCES-CEREVISIAE; SOFT LITHOGRAPHY; MANIPULATION; YEAST
+ER
+
+PT S
+DE education; biomechatronics; curriculum; team - work student projects
+ER
+
+PT B
+ID CORTICAL BONE; POTENTIALS; OSTEOCYTES; TISSUE; MODEL; WET; DRY
+ER
+
+PT J
+ER
+
+PT J
+DE assessment scales; biomechatronics; computerized analysis;
+   neurorehabilitation; rehabilitation robotics; stroke
+ID MOTOR CAPACITY ASSESSMENT; CHRONIC BRAIN-INJURY; FUNCTIONAL-CAPACITY;
+   ACTIVE INTERVENTION; MODIFIED CHART; THERAPY; TRIAL
+ER
+
+PT J
+DE biorobotics; neuro-robotics; cybernetic hand; bioinspired sensors;
+   underactuated hand; biomimetic robot
+ID GASTROINTESTINAL-TRACT; GLABROUS SKIN; LOCOMOTION
+ER
+
+PT J
+DE biomechatronics; FNS; fuzzy inference systems; neuroprostheses; tendon
+   biomechanics
+ID CLOSED-LOOP CONTROL; HAND GRASP; MUSCLE; STIMULATION; FEEDBACK; FORCE
+ER
+
+PT J
+ER
+
+PT S
+DE laboratory automation; microfluidics; biomechatronics; sample
+   preparation
+ID HANDLING-SYSTEM; LARGE-SCALE; AUTOMATION; GENOMICS; PCR
+ER
+
+PT S
+DE biomechatronics; prosthetics; compliant joints; under-actuation;
+   biorobotics
+ER
+
+PT S
+DE minimally invasive surgery; breast cancer; mammotome; biomechatronics
+ER
+
+PT B
+DE catheters; microactuators; biorobotics; biomechatronics; medical
+   robotics; anatomic navigation; magnetic navigation
+ID IMPLANT GUIDANCE-SYSTEM; MANIPULATION
+ER
+
+PT S
+DE catheters; microactuators; biorobotics; biomechatronics; medical
+   robotics; anatomic navigation; magnetic navigation
+ID IMPLANT GUIDANCE-SYSTEM
+ER
+
+PT S
+DE hand; prosthesis; underactuation; biomimetic; bionics; biomechatronic
+ER
+
+PT B
+DE biomedical robotics; biomechatronics; neurorehabilitation; biomechanical
+   engineering; stroke
+ID MUSCLE ACTIVATION INTERVALS; THERAPY; REHABILITATION
+ER
+
+PT J
+DE biomechatronics; cybernetic hand; neural interface; prosthetic hand
+ID DESIGN
+ER
+
+PT J
+DE automatic motion control; bio-mechatronics; micro actuator; micro
+   manipulator; micromachine; negative galvano-taxis; paramecium
+ER
+
+PT J
+DE actuators; automation; biomechatronics; computer control;
+   deoxyribonucleic acid sequencing; genome; sensors
+ID DNA AMPLIFICATION; LARGE-SCALE; ELECTROPHORESIS; AUTOMATION; TIME; PCR
+ER
+
+EF

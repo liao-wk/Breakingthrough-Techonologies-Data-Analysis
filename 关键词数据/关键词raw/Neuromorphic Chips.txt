@@ -1,0 +1,4571 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Islam, R
+   Li, HT
+   Chen, PY
+   Wan, WE
+   Chen, HY
+   Gao, B
+   Wu, HQ
+   Yu, SM
+   Saraswat, K
+   Wong, HSP
+AF Islam, Raisul
+   Li, Haitong
+   Chen, Pai-Yu
+   Wan, Weier
+   Chen, Hong-Yu
+   Gao, Bin
+   Wu, Huaqiang
+   Yu, Shimeng
+   Saraswat, Krishna
+   Wong, H-S Philip
+TI Device and materials requirements for neuromorphic computing
+DE neuromorphic computing; non volatile memory; deep neural network
+ID RESISTIVE SWITCHING MEMORY; RANDOM-ACCESS MEMORY; SOLID-ELECTROLYTE;
+   SYNAPTIC BEHAVIOR; OPTIMIZATION; PLASTICITY; PROSPECTS; BILAYER; DESIGN;
+   SYSTEM
+TC 0
+Z9 0
+ER
+
+PT J
+AU Moradi, S
+   Manohar, R
+AF Moradi, Saber
+   Manohar, Rajit
+TI The impact of on-chip communication on memory technologies for
+   neuromorphic systems
+DE on-chip communication; emergent memory; memristor; neuromorphic; routing
+   architecture; nanoscale; power consumption
+ID STACKED MEMORY; SILICON; MEMRISTOR; NETWORK; DESIGN; NEURON; MODEL;
+   ARCHITECTURE; PROCESSORS; PROJECT
+TC 0
+Z9 0
+ER
+
+PT J
+AU Lee, MKF
+   Cui, YN
+   Somu, T
+   Luo, T
+   Zhou, J
+   Tang, WT
+   Wong, WF
+   Goh, RSM
+AF Lee, Matthew Kay Fei
+   Cui, Yingnan
+   Somu, Thannirmalai
+   Luo, Tao
+   Zhou, Jun
+   Tang, Wai Teng
+   Wong, Weng-Fai
+   Goh, Rick Stow Mong
+TI A System-Level Simulator for RRAM-Based Neuromorphic Computing Chips
+DE Neuromorphic computing; simulator; RRAM
+ID SPIKING NEURAL-NETWORK; STATISTICAL FLUCTUATIONS; MODEL; NEURONS; DESIGN
+TC 0
+Z9 0
+ER
+
+PT J
+AU Kornijcuk, V
+   Park, J
+   Kim, G
+   Kim, D
+   Kim, I
+   Kim, J
+   Kwak, JY
+   Jeong, DS
+AF Kornijcuk, Vladimir
+   Park, Jongkil
+   Kim, Guhyun
+   Kim, Dohun
+   Kim, Inho
+   Kim, Jaewook
+   Kwak, Joon Young
+   Jeong, Doo Seok
+TI Reconfigurable Spike Routing Architectures for On-Chip Local Learning in
+   Neuromorphic Systems
+DE LUT-based routing scheme; neuromorphic architecture; neuromorphic
+   system; on-chip learning; spiking neural network
+ID SYNAPTIC PLASTICITY; NEURAL-NETWORKS; DESIGN; MODEL; IMPLEMENTATION;
+   SYNAPSES; PATTERN
+TC 0
+Z9 0
+ER
+
+PT J
+AU Zhang, QT
+   Wu, HQ
+   Yao, P
+   Zhang, WQ
+   Gao, B
+   Deng, N
+   Qian, H
+AF Zhang, Qingtian
+   Wu, Huaqiang
+   Yao, Peng
+   Zhang, Wenqiang
+   Gao, Bin
+   Deng, Ning
+   Qian, He
+TI Sign backpropagation: An on-chip learning algorithm for analog RRAM
+   neuromorphic computing systems
+DE Neural network; Resistive random-access memory (RRAM); On-chip learning;
+   Multilayer perceptron (MLP); Neuromorphic computing
+ID ELECTRONIC SYNAPSES; NEURAL-NETWORKS; RECOGNITION; DEVICE
+TC 0
+Z9 0
+ER
+
+PT J
+AU Aamir, SA
+   Stradmann, Y
+   Muller, P
+   Pehle, C
+   Hartel, A
+   Grubl, A
+   Schemmel, J
+   Meier, K
+AF Aamir, Syed Ahmed
+   Stradmann, Yannik
+   Mueller, Paul
+   Pehle, Christian
+   Hartel, Andreas
+   Gruebl, Andreas
+   Schemmel, Johannes
+   Meier, Karlheinz
+TI An Accelerated LIF Neuronal Network Array for a Large-Scale Mixed-Signal
+   Neuromorphic Architecture
+DE Analog integrated circuits; neuromorphic; leaky integrate and fire; 65nm
+   CMOS; spiking neuron; OTA; opamp; tunable resistor; winner-take-all
+   network
+ID 65-NM CMOS; OP-AMPS; IN-VIVO; CIRCUITS; SYSTEM; LOGIC; COMPENSATION;
+   CONDUCTANCES; INTERFACE; PROCESSOR
+TC 0
+Z9 0
+ER
+
+PT J
+AU Kim, J
+   Koo, J
+   Kim, T
+   Kim, JJ
+AF Kim, Jinseok
+   Koo, Jongeun
+   Kim, Taesu
+   Kim, Jae-Joon
+TI Efficient Synapse Memory Structure for Reconfigurable Digital
+   Neuromorphic Hardware
+DE neuromorphic system; spiking neural network; spike-timing-dependent
+   plasticity; on-chip learning; transposable memory
+ID SPIKING NEURONS; NEURAL-NETWORK; ARCHITECTURE; DESIGN; CHIP
+TC 0
+Z9 0
+ER
+
+PT J
+AU Kreiser, R
+   Aathmani, D
+   Qiao, N
+   Indiveri, G
+   Sandamirskaya, Y
+AF Kreiser, Raphaela
+   Aathmani, Dora
+   Qiao, Ning
+   Indiveri, Giacomo
+   Sandamirskaya, Yulia
+TI Organizing Sequential Memory in a Neuromorphic Device Using Dynamic
+   Neural Fields
+DE neuromorphic engineering; on-chip learning; sequence learning; dynamic
+   neural fields; synaptic plasticity; neurorobotics; winner take all
+ID SERIAL ORDER; SYNAPTIC DEPRESSION; MOVEMENT SEQUENCE; SPIKING NEURONS;
+   NETWORKS; MECHANISMS; COGNITION; SYSTEMS; VLSI; INHIBITION
+TC 0
+Z9 0
+ER
+
+PT J
+AU Wan, X
+   He, YL
+   Nie, S
+   Shi, Y
+   Wan, Q
+AF Wan, Xiang
+   He, Yongli
+   Nie, Sha
+   Shi, Yi
+   Wan, Qing
+TI Biological Band-Pass Filtering Emulated by Oxide-Based Neuromorphic
+   Transistors
+DE Synaptic devices; biological band-pass filtering; neuromorphic
+   transistors
+ID MEMRISTOR; PLASTICITY; SYNAPSES; SYSTEMS; DEVICE; BRAIN
+TC 0
+Z9 0
+ER
+
+PT J
+AU Katumba, A
+   Freiberger, M
+   Laporte, F
+   Lugnan, A
+   Sackesyn, S
+   Ma, CH
+   Dambre, J
+   Bienstman, P
+AF Katumba, Andrew
+   Freiberger, Matthias
+   Laporte, Floris
+   Lugnan, Alessio
+   Sackesyn, Stijn
+   Ma, Chonghuai
+   Dambre, Joni
+   Bienstman, Peter
+TI Neuromorphic Computing Based on Silicon Photonics and Reservoir
+   Computing
+DE Silicon photonics; neuromorphic computing; reservoir computing
+TC 1
+Z9 1
+ER
+
+PT J
+AU Sung, C
+   Hwang, H
+   Yoo, IK
+AF Sung, Changhyuck
+   Hwang, Hyunsang
+   Yoo, In Kyeong
+TI Perspective: A review on memristive hardware for neuromorphic
+   computation
+ID TIMING-DEPENDENT PLASTICITY; NEURON CIRCUIT; SPIKING; SYNAPSES; SYSTEMS;
+   MEMORY
+TC 0
+Z9 0
+ER
+
+PT J
+AU Plagge, M
+   Carothers, CD
+   Gonsiorowski, E
+   McGlohon, N
+AF Plagge, Mark
+   Carothers, Christopher D.
+   Gonsiorowski, Elsa
+   McGlohon, Neil
+TI NeMo: A Massively Parallel Discrete-Event Simulation Model for
+   Neuromorphic Architectures
+DE Neuromorphic architecture; massive parallel; discrete-event; time warp;
+   reverse computation; biocomputing; neural net architecture; non von
+   Neumann architecture
+ID SPIKING NEURONS; TIME
+TC 0
+Z9 0
+ER
+
+PT J
+AU Covi, E
+   George, R
+   Frascaroli, J
+   Brivio, S
+   Mayr, C
+   Mostafa, H
+   Indiveri, G
+   Spiga, S
+AF Covi, E.
+   George, R.
+   Frascaroli, J.
+   Brivio, S.
+   Mayr, C.
+   Mostafa, H.
+   Indiveri, G.
+   Spiga, S.
+TI Spike-driven threshold-based learning with memristive synapses and
+   neuromorphic silicon neurons
+DE memristive device; neuromorphic neuron; spike-driven learning;
+   memristive synapse; RRAM; HfO2; analogue weighting
+ID TIMING-DEPENDENT PLASTICITY; SYNAPTIC PLASTICITY; NEURAL-NETWORKS;
+   SYSTEMS; MODEL; MEMORY; RECOGNITION; PATTERN; RULE
+TC 1
+Z9 1
+ER
+
+PT J
+AU Ehsan, MA
+   An, HY
+   Zhou, Z
+   Yi, Y
+AF Ehsan, M. Amimul
+   An, Hongyu
+   Zhou, Zhen
+   Yi, Yang
+TI A Novel Approach for Using TSVs As Membrane Capacitance in Neuromorphic
+   3-D IC
+DE 3-D integration; bump; fixed oxide charge; membrane capacitance;
+   neuromorphic system; through silicon via (TSV)
+ID SILICON NEURON; ON-CHIP; CIRCUIT; SPIKING; DESIGN; MODEL; VIAS
+TC 0
+Z9 0
+ER
+
+PT J
+AU Zhang, XJ
+   Huang, AP
+   Hu, Q
+   Xiao, ZS
+   Chu, PK
+AF Zhang, Xinjiang
+   Huang, Anping
+   Hu, Qi
+   Xiao, Zhisong
+   Chu, Paul K.
+TI Neuromorphic Computing with Memristor Crossbar
+DE deep neural networks; memristor crossbar; memristors; neuromorphic
+   computing; spiking neural networks
+ID SPIKING NEURAL-NETWORKS; RESISTIVE SWITCHING MEMORIES; TIME-DEPENDENT
+   PLASTICITY; FLOATING-GATE SYNAPSES; SHORT-TERM PLASTICITY; EMULATING
+   SHORT-TERM; PHASE-CHANGE MEMORY; SYNAPTIC PLASTICITY; COMPUTATIONAL
+   POWER; FEATURE-EXTRACTION
+TC 0
+Z9 0
+ER
+
+PT J
+AU Urgese, G
+   Barchi, F
+   Macii, E
+   Acquaviva, A
+AF Urgese, Gianvito
+   Barchi, Francesco
+   Macii, Enrico
+   Acquaviva, Andrea
+TI Optimizing Network Traffic for Spiking Neural Network Simulations on
+   Densely Interconnected Many-Core Neuromorphic Platforms
+DE Neuromorphic platform; many-core SoC; profiling methodology; spiking
+   neural network; partitioning and placement
+ID MODEL; CONNECTIVITY; PROJECT; NEURONS; BRAIN
+TC 0
+Z9 0
+ER
+
+PT J
+AU Zhang, M
+   Gu, ZH
+   Pan, G
+AF Zhang Ming
+   Gu Zonghua
+   Pan Gang
+TI A Survey of Neuromorphic Computing Based on Spiking Neural Networks
+DE Neuromorphic computing; Spiking neural networks; Brain-inspired
+   computing; Machine learning
+ID HARDWARE; MODEL
+TC 0
+Z9 0
+ER
+
+PT J
+AU Tange, A
+   Kohno, T
+AF Tange, Atsuya
+   Kohno, Takashi
+TI Finding appropriate parameter voltages for driving a low-power analog
+   silicon neuron circuit
+DE neuromorphic hardware; neuromorphic chip; silicon neurons; analog VLSI
+ID DIFFERENTIAL EVOLUTION
+TC 0
+Z9 0
+ER
+
+PT J
+AU Wu, NJ
+AF Wu, Nanjian
+TI Neuromorphic vision chips
+DE neuromorphic; vison chip; frame-driven; address-event-representation
+   (AER); event-driven; convolution neural network; image sensor; image
+   processing
+ID IMAGE SENSOR; NEURAL-NETWORK; PROCESSOR; ARCHITECTURE; PIXEL; SYSTEMS;
+   RETINA; DRIVEN
+TC 1
+Z9 1
+ER
+
+PT J
+AU Xia, LX
+   Li, BX
+   Tang, TQ
+   Gu, P
+   Chen, PY
+   Yu, SM
+   Cao, Y
+   Wang, Y
+   Xie, Y
+   Yang, HZ
+AF Xia, Lixue
+   Li, Boxun
+   Tang, Tianqi
+   Gu, Peng
+   Chen, Pai-Yu
+   Yu, Shimeng
+   Cao, Yu
+   Wang, Yu
+   Xie, Yuan
+   Yang, Huazhong
+TI MNSIM: Simulation Platform for Memristor-Based Neuromorphic Computing
+   System
+DE Design optimization; energy efficiency; memristors; neural network;
+   numerical simulation
+ID NEURAL-NETWORK; RRAM; MEMORY
+TC 6
+Z9 6
+ER
+
+PT J
+AU He, HK
+   Yang, R
+   Zhou, W
+   Huang, HM
+   Xiong, J
+   Gan, L
+   Zhai, TY
+   Guo, X
+AF He, Hui-Kai
+   Yang, Rui
+   Zhou, Wen
+   Huang, He-Ming
+   Xiong, Jue
+   Gan, Lin
+   Zhai, Tian-You
+   Guo, Xin
+TI Photonic Potentiation and Electric Habituation in Ultrathin Memristive
+   Synapses Based on Monolayer MoS2
+DE electric habituation; memristive synapses; monolayer MoS2;
+   photoconductivity; photonic potentiation
+ID FLEXIBLE NONVOLATILE MEMORY; TERM SYNAPTIC PLASTICITY; PERSISTENT
+   PHOTOCONDUCTIVITY; SWITCHING MEMORY; LAYER MOS2; OXIDE; DEVICES;
+   SEMICONDUCTORS; TRANSISTORS; RELEASE
+TC 7
+Z9 7
+ER
+
+PT J
+AU Basu, A
+   Acharya, J
+   Karnik, T
+   Liu, HC
+   Li, H
+   Seo, JS
+   Song, C
+AF Basu, Arindam
+   Acharya, Jyotibdha
+   Karnik, Tanay
+   Liu, Huichu
+   Li, Hai
+   Seo, Jae-Sun
+   Song, Chang
+TI Low-Power, Adaptive Neuromorphic Systems: Recent Progress and Future
+   Directions
+DE Neuromorphics; machine learning; learning systems; adaptive systems;
+   low-power electronics; artificial neural networks; neural network
+   hardware; MOS integrated circuits
+ID TIMING-DEPENDENT PLASTICITY; DYNAMIC VISION SENSOR; FLOATING-GATE
+   SYNAPSE; DEEP NEURAL-NETWORKS; STRUCTURAL PLASTICITY;
+   INTEGRATED-CIRCUIT; DEVICE MISMATCH; SPIKING NEURONS; CMOS; TIME
+TC 4
+Z9 4
+ER
+
+PT J
+AU Ji, Y
+   Zhang, YH
+   Chen, WG
+   Xie, Y
+AF Ji, Yu
+   Zhang, Youhui
+   Chen, Wenguang
+   Xie, Yuan
+TI Bridging the Gap Between Neural Networks and Neuromorphic Hardware with
+   A Neural Network Compiler
+DE Neural Network; Accelerator; Compiler
+ID DESIGN
+TC 0
+Z9 0
+ER
+
+PT J
+AU Moradi, S
+   Qiao, N
+   Stefanini, F
+   Indiveri, G
+AF Moradi, Saber
+   Qiao, Ning
+   Stefanini, Fabio
+   Indiveri, Giacomo
+TI A Scalable Multicore Architecture With Heterogeneous Memory Structures
+   for Dynamic Neuromorphic Asynchronous Processors (DYNAPs)
+DE Asynchronous; circuits and systems; neuromorphic computing; routing
+   architectures
+ID INTEGRATED-CIRCUIT; NEURONAL CIRCUITS; NEURAL-NETWORK; SYSTEMS;
+   NEOCORTEX; EVENTS; CORTEX
+TC 12
+Z9 12
+ER
+
+PT S
+AU Bhowmik, P
+   Pantho, JH
+   Asadinia, M
+   Bobda, C
+AF Bhowmik, Pankaj
+   Pantho, Jubaer Hossain
+   Asadinia, Marjan
+   Bobda, Christophe
+GP IEEE
+TI Design of a Reconfigurable 3D Pixel-Parallel Neuromorphic Architecture
+   for Smart Image Sensor
+TC 0
+Z9 0
+ER
+
+PT B
+AU Kynigos, M
+   Navaridas, J
+   Plana, LA
+   Furber, S
+AF Kynigos, Markos
+   Navaridas, Javier
+   Plana, Luis A.
+   Furber, Steve
+GP Assoc Comp Machinery
+TI Network-on-Chip Evaluation for a Novel Neural Architecture
+DE Biologically Inspired Architecture; Neuromorphic Computing; Networks on
+   Chip; Performance Evaluation; Systems on Chip
+TC 0
+Z9 0
+ER
+
+PT S
+AU Mikaitis, M
+   Lester, DR
+   Shang, DL
+   Furber, S
+   Liu, GT
+   Garside, J
+   Scholze, S
+   Hoppner, S
+   Dixius, A
+AF Mikaitis, Mantas
+   Lester, David R.
+   Shang, Delong
+   Furber, Steve
+   Liu, Gengting
+   Garside, Jim
+   Scholze, Stefan
+   Hoeppner, Sebastian
+   Dixius, Andreas
+GP IEEE
+TI Approximate Fixed-Point Elementary Function Accelerator for the
+   SpiNNaker-2 Neuromorphic Chip
+DE exponential function; logarithm function; hard-ware accelerators;
+   approximate arithmetic; fixed-point arithmetic; SpiNNaker2; neuromorphic
+   computing; MPSoC
+TC 1
+Z9 1
+ER
+
+PT S
+AU Kreiser, R
+   Cartiglia, M
+   Martel, JNP
+   Conradt, J
+   Sandamirskaya, Y
+AF Kreiser, Raphaela
+   Cartiglia, Matteo
+   Martel, Julien N. P.
+   Conradt, Joerg
+   Sandamirskaya, Yulia
+GP IEEE
+TI A Neuromorphic Approach to Path Integration: a Head-Direction Spiking
+   Neural Network with Vision-driven Reset
+ID DYNAMICS; MODEL; ORIENTATION; ARRAY
+TC 0
+Z9 0
+ER
+
+PT S
+AU Payvand, M
+   Muller, LK
+   Indiveri, G
+AF Payvand, Melika
+   Muller, Lorenz K.
+   Indiveri, Giacomo
+GP IEEE
+TI Event-based circuits for controlling stochastic learning with memristive
+   devices in neuromorphic architectures
+TC 0
+Z9 0
+ER
+
+PT S
+AU Qiao, N
+   Indiveri, G
+AF Qiao, Ning
+   Indiveri, Giacomo
+GP IEEE
+TI A bi-directional Address-Event transceiver block for low-latency
+   inter-chip communication in neuromorphic systems
+TC 0
+Z9 0
+ER
+
+PT S
+AU Saxena, V
+   Wu, XY
+   Zhu, KH
+AF Saxena, Vishal
+   Wu, Xinyu
+   Zhu, Kehan
+GP IEEE
+TI Energy-Efficient CMOS Memristive Synapses for Mixed-Signal Neuromorphic
+   System-on-a-Chip
+DE CMOS Neurons; Memristors; Neuromorphic computing; Spiking Neural
+   Networks (SNNs); STDP; Synapses
+ID DEVICES
+TC 0
+Z9 0
+ER
+
+PT S
+AU Villemur, M
+   Julian, P
+   Figliola, T
+   Andreou, AG
+AF Villemur, M.
+   Julian, P.
+   Figliola, T.
+   Andreou, A. G.
+GP IEEE
+TI Neuromorphic Cellular Neural Network Processor for Intelligent
+   Internet-of-Things
+DE Neuromorphic; CNN; IoT; low power; piecewise linear functions
+TC 0
+Z9 0
+ER
+
+PT S
+AU Degraeve, R
+   Mallik, A
+   Garbin, D
+   Doevenspeck, J
+   Fantini, A
+   Rodopoulos, D
+   Roussel, P
+   Govoreanu, B
+   Hendrickx, P
+   Di Piazza, L
+   Stuijt, J
+   Schaafsma, S
+   Debacker, P
+   Donadio, G
+   Hody, H
+   Goux, L
+   Kar, GS
+   Furnemont, A
+   Mocuta, A
+   Verkest, D
+AF Degraeve, R.
+   Mallik, A.
+   Garbin, D.
+   Doevenspeck, J.
+   Fantini, A.
+   Rodopoulos, D.
+   Roussel, Ph.
+   Govoreanu, B.
+   Hendrickx, P.
+   Di Piazza, L.
+   Stuijt, J.
+   Schaafsma, S.
+   Debacker, P.
+   Donadio, G.
+   Hody, H.
+   Goux, L.
+   Kar, G. S.
+   Furnemont, A.
+   Mocuta, A.
+   Verkest, D.
+GP IEEE
+TI Opportunities and challenges of Resistive RAM for neuromorphic
+   applications
+DE Resistive RAM; neuromorphic network; compute-inmemory
+ID MEMORY
+TC 0
+Z9 0
+ER
+
+PT S
+AU Pantho, MJH
+   Bhowmik, P
+   Bobda, C
+AF Pantho, Md Jubaer Hossain
+   Bhowmik, Pankaj
+   Bobda, Christophe
+GP IEEE
+TI Pixel-Parallel Architecture for Neuromorphic Smart Image Sensor with
+   Visual Attention
+DE Image Sensors; Visual Attention; Neuromorphic; FPGA; Predictive Coding
+ID CAMERAS
+TC 0
+Z9 0
+ER
+
+PT S
+AU Sayyaparaju, S
+   Weiss, R
+   Rose, GS
+AF Sayyaparaju, Sagarvarma
+   Weiss, Ryan
+   Rose, Garrett S.
+GP IEEE
+TI A Mixed-Mode Neuron with On-Chip Tunability for Generic Use in
+   Memristive Neuromorphic Systems
+ID SYNAPSE; NETWORK
+TC 0
+Z9 0
+ER
+
+PT S
+AU Moran, S
+   Gaonkar, B
+   Whitehead, W
+   Wolk, A
+   Macyszyn, L
+   Iyer, SS
+AF Moran, Steven
+   Gaonkar, Bilwaj
+   Whitehead, William
+   Wolk, Aidan
+   Macyszyn, Luke
+   Iyer, Subramanian S.
+BE Zhang, J
+   Chen, PH
+TI Deep learning for medical image segmentation {using the IBM TrueNorth
+   Neurosynaptic System
+DE Neuromorphic computing; deep learning; MR imaging; semantic image
+   segmentation; IBM TrueNorth Neurosynaptic System
+TC 0
+Z9 0
+ER
+
+PT S
+AU Ghane, M
+   Chandrasekaran, S
+   Searles, R
+   Cheung, M
+   Hernandez, O
+AF Ghane, Millad
+   Chandrasekaran, Sunita
+   Searles, Robert
+   Cheung, Margaret
+   Hernandez, Oscar
+BE Blowers, M
+   Hall, RD
+   Dasari, VR
+TI Path Forward for Softwarization to Tackle Evolving Hardware
+DE High Performance Computing; Disruptive Technologies; Softwarization
+TC 0
+Z9 0
+ER
+
+PT S
+AU Yan, BN
+   Chen, F
+   Zhang, YJ
+   Song, C
+   Li, H
+   Chen, YR
+AF Yan, Bonan
+   Chen, Fan
+   Zhang, Yaojun
+   Song, Chang
+   Li, Hai
+   Chen, Yiran
+GP IEEE
+TI Exploring the Opportunity of Implementing Neuromorphic Computing Systems
+   with Spintronic Devices
+TC 0
+Z9 0
+ER
+
+PT J
+AU Obradovic, B
+   Rakshit, T
+   Hatcher, R
+   Kittl, J
+   Sengupta, R
+   Hong, JG
+   Rodder, MS
+AF Obradovic, Borna
+   Rakshit, Titash
+   Hatcher, Ryan
+   Kittl, Jorge
+   Sengupta, Rwik
+   Hong, Joon Goo
+   Rodder, Mark S.
+TI A Multi-Bit Neuromorphic Weight Cell Using Ferroelectric FETs, suitable
+   for SoC Integration
+DE Neuromorphic; FeFET; DNN
+TC 1
+Z9 1
+ER
+
+PT J
+AU Lee, C
+   Koo, SM
+   Oh, JM
+   Lee, D
+AF Lee, Chuljun
+   Koo, Sang-Mo
+   Oh, Jong-Min
+   Lee, Daeseok
+TI Compensated Synaptic Device for Improved Recognition Accuracy of
+   Neuromorphic System
+DE Synaptic device; pattern recognition; neuromorphic system; resistive
+   random access memory
+ID COMPUTATION; MEMORY
+TC 0
+Z9 0
+ER
+
+PT S
+AU Liu, XX
+   Wen, W
+   Qian, XH
+   Li, H
+   Chen, YR
+AF Liu, Xiaoxiao
+   Wen, Wei
+   Qian, Xuehai
+   Li, Hai
+   Chen, Yiran
+GP IEEE
+TI Neu-NoC: A High-efficient Interconnection Network for Accelerated
+   Neuromorphic Systems
+TC 0
+Z9 0
+ER
+
+PT J
+AU Sengupta, A
+   Roy, K
+AF Sengupta, Abhronil
+   Roy, Kaushik
+TI Encoding neural and synaptic functionalities in electron spin: A pathway
+   to efficient neuromorphic computing
+TC 9
+Z9 9
+ER
+
+PT J
+AU Ranjan, R
+   Ponce, PM
+   Hellweg, WL
+   Kyrmanidis, A
+   Abu Saleh, L
+   Schroeder, D
+   Krautschneider, WH
+AF Ranjan, Rajeev
+   Ponce, Pablo Mendoza
+   Hellweg, Wolf Lukas
+   Kyrmanidis, Alexandros
+   Abu Saleh, Lait
+   Schroeder, Dietmar
+   Krautschneider, Wolfgang H.
+TI Integrated Circuit with Memristor Emulator Array and Neuron Circuits for
+   Biologically Inspired Neuromorphic Pattern Recognition
+DE ASIC; emulator; CMOS; LTD; LTP; memristor; neuron; synaptic plasticity;
+   pattern recognition
+ID TIMING-DEPENDENT-PLASTICITY; LONG-TERM POTENTIATION; SPICE MODEL;
+   SYNAPSE; DEVICES; HIPPOCAMPUS
+TC 2
+Z9 2
+ER
+
+PT J
+AU Zhao, CY
+   Yi, Y
+   Li, JL
+   Fu, X
+   Liu, LJ
+AF Zhao, Chenyuan
+   Yi, Yang
+   Li, Jialing
+   Fu, Xin
+   Liu, Lingjia
+TI Interspike-Interval-Based Analog Spike-Time-Dependent Encoder for
+   Neuromorphic Processors
+DE Analog IC; interspike intervals (ISIs); neural encoder chip;
+   neuromorphic computing; temporal encoding; verification and recovery
+   schemes
+ID FIRE MODEL NEURON; CORTEX
+TC 2
+Z9 2
+ER
+
+PT J
+AU Gomes, L
+AF Gomes, Lee
+TI The Neuromorphic Chip's Make-or-Break Moment COULD DEEP LEARNING BE THIS
+   TECHNOLOGY'S KILLER APP?
+TC 0
+Z9 0
+ER
+
+PT J
+AU de Lima, TF
+   Shastri, BJ
+   Tait, AN
+   Nahmias, MA
+   Prucnal, PR
+AF de Lima, Thomas Ferreira
+   Shastri, Bhavin J.
+   Tait, Alexander N.
+   Nahmias, Mitchell A.
+   Prucnal, Paul R.
+TI Progress in neuromorphic photonics
+DE neuromorphic computing; photonic integrated circuits; ultrafast
+   information processing; excitable semiconductor lasers
+ID SILICON MICRORING RESONATORS; INJECTED MICRODISK LASERS;
+   SEMICONDUCTOR-LASERS; OPTICAL INTERCONNECTS; SATURABLE ABSORBER;
+   COHERENCE RESONANCE; WIRELESS SYSTEMS; SPIKING NEURONS; EXCITABLE LASER;
+   VISUAL NEURONS
+TC 8
+Z9 8
+ER
+
+PT J
+AU Castanos, F
+   Franci, A
+AF Castanos, Fernando
+   Franci, Alessio
+TI Implementing robust neuromodulation in neuromorphic circuits
+DE Neuromorphic engineering; Neuromodulation; Realization theory; Geometric
+   methods
+ID SENSORY SYSTEMS; NEURAL-NETWORKS; SYNAPSES; NEURONS; MODELS
+TC 1
+Z9 1
+ER
+
+PT J
+AU Wan, X
+   Yang, Y
+   He, YL
+   Feng, P
+   Li, WJ
+   Wan, Q
+AF Wan, Xiang
+   Yang, Yi
+   He, Yongli
+   Feng, Ping
+   Li, Wenjun
+   Wan, Qing
+TI Neuromorphic Simulation of Proton Conductors Laterally Coupled
+   Oxide-Based Transistors With Multiple in-Plane Gates
+DE Electric-double-layer transistors; behavioral model; neuromorphic
+   systems
+ID SYNAPTIC PLASTICITY; ARTIFICIAL SYNAPSES; SPICE MODEL; MEMORY;
+   MEMRISTOR; SYSTEMS
+TC 4
+Z9 4
+ER
+
+PT J
+AU Boahen, K
+AF Boahen, Kwabena
+TI A Neuromorph's Prospectus
+ID MOSFETS
+TC 7
+Z9 7
+ER
+
+PT S
+AU Kauderer-Abrams, E
+   Boahen, K
+AF Kauderer-Abrams, Eric
+   Boahen, Kwabena
+GP IEEE
+TI Calibrating Silicon-Synapse Dynamics using Time-Encoding and Decoding
+   Machines
+ID RECOVERY; SYSTEM
+TC 0
+Z9 0
+ER
+
+PT S
+AU Walter, F
+   Sandner, M
+   Rohrbein, F
+   Knoll, A
+AF Walter, Florian
+   Sandner, Marwin
+   Roehrbein, Florian
+   Knoll, Alois
+GP IEEE
+TI Towards a Neuromorphic Implementation of Hierarchical Temporal Memory on
+   SpiNNaker
+ID PROJECT
+TC 0
+Z9 0
+ER
+
+PT B
+AU An, HY
+   Zhou, Z
+   Yi, Y
+AF An, Hongyu
+   Zhou, Zhen
+   Yi, Yang
+GP IEEE
+TI Opportunities and Challenges on Nanoscale 3D Neuromorphic Computing
+   System
+DE Neuromorphic Computing; 3D-ICs; Vertical RRAM Structure; Memristor;
+   Monolithic 3D Integration Technology
+ID DESIGN; MODEL
+TC 0
+Z9 0
+ER
+
+PT B
+AU Ehsan, MA
+   Zhou, Z
+   Yi, Y
+AF Ehsan, M. Amimul
+   Zhou, Zhen
+   Yi, Yang
+GP IEEE
+TI Modeling and Analysis of Neuronal Membrane Electrical Activities in 3D
+   Neuromorphic Computing System
+DE Neuromorphic computing; Neuronal membrane; TSV; MOS capacitance; Ion
+   transportation; 3D integration
+TC 0
+Z9 0
+ER
+
+PT B
+AU Yamamichi, S
+   Horibe, A
+   Aoki, T
+   Hosokawa, K
+   Hisada, T
+   Mori, H
+AF Yamamichi, Shintaro
+   Horibe, Akihiro
+   Aoki, Toyohiro
+   Hosokawa, Kohji
+   Hisada, Takashi
+   Mori, Hiroyuki
+GP IEEE
+TI Implementation challenges for scalable neuromorphic computing
+TC 0
+Z9 0
+ER
+
+PT S
+AU Shamsi, J
+   Mohammadi, K
+   Shokouhi, SB
+AF Shamsi, Jafar
+   Mohammadi, Karim
+   Shokouhi, Shahriar B.
+GP IEEE
+TI A low power circuit of a leaky integrate and fire neuron with global
+   reset
+DE Leaky integrate and fire neuron; Winner Take All; neuromorphic;
+   memristor
+ID TIMING-DEPENDENT PLASTICITY; SPIKING NEURONS; SYNAPSE; MODELS
+TC 1
+Z9 1
+ER
+
+PT B
+AU Verma, S
+   Bhatia, N
+   Singh, STT
+   Suri, M
+AF Verma, Shridu
+   Bhatia, Narayani
+   Singh, Salam Thoi Thoi
+   Suri, Manan
+GP IEEE
+TI Low Power Neuromorphic Hardware Based Multi-modal Authentication System
+ID IRIS RECOGNITION
+TC 0
+Z9 0
+ER
+
+PT S
+AU Yue, K
+   Parker, AC
+AF Yue, Kun
+   Parker, Alice C.
+GP IEEE
+TI Noisy Neuromorphic Neurons with RPG On-chip Noise Source
+ID CIRCUIT
+TC 1
+Z9 1
+ER
+
+PT S
+AU Petrovici, MA
+   Schroeder, A
+   Breitwieser, O
+   Grubl, A
+   Schemmel, J
+   Meier, K
+AF Petrovici, Mihai A.
+   Schroeder, Anna
+   Breitwieser, Oliver
+   Grubl, Andreas
+   Schemmel, Johannes
+   Meier, Karlheinz
+GP IEEE
+TI Robustness from structure: Inference with hierarchical spiking networks
+   on analog neuromorphic hardware
+ID NEURAL-NETWORKS
+TC 0
+Z9 0
+ER
+
+PT S
+AU Alom, MZ
+   Taha, TM
+AF Alom, Md Zahangir
+   Taha, Tarek M.
+GP IEEE
+TI Network Intrusion Detection for Cyber Security on Neuromorphic Computing
+   System
+DE Intrusion Detection; Network Security; Neuromorphic Computing; TrueNorth
+   System; Cognitive Computing; Deep Neural Network
+ID NEURAL-NETWORKS; ALGORITHM
+TC 0
+Z9 0
+ER
+
+PT S
+AU Agarwal, N
+   Mehta, N
+   Parker, AC
+   Ashouri, K
+AF Agarwal, Nikita
+   Mehta, Neil
+   Parker, Alice C.
+   Ashouri, Karam
+GP IEEE
+TI C-elegans Neuromorphic Neural Network Exhibiting Undulating Locomotion
+ID CAENORHABDITIS-ELEGANS; SPIKING NEURONS; MODEL; NEMATODES; DYNAMICS;
+   CIRCUIT
+TC 0
+Z9 0
+ER
+
+PT S
+AU Alom, MZ
+   Van Essen, B
+   Moody, AT
+   Widemann, DP
+   Taha, TM
+AF Alom, Md Zahangir
+   Van Essen, Brian
+   Moody, Adam T.
+   Widemann, David Peter
+   Taha, Tarek M.
+GP IEEE
+TI Quadratic Unconstrained Binary Optimization (QUBO) on Neuromorphic
+   Computing System
+DE QUBO; Binary optimization; TrueNorth System; Cognitive computing; graph
+   problem
+TC 1
+Z9 1
+ER
+
+PT S
+AU Dang, D
+   Dass, J
+   Mahapatra, R
+AF Dang, Dharanidhar
+   Dass, Jyotikrishna
+   Mahapatra, Rabi
+GP IEEE
+TI ConvLight: A Convolutional Accelerator with Memristor integrated
+   Photonic Computing
+DE Neuromorphic computing; big data; machine learning; photonic;
+   accelerator; DNN; CNN
+TC 0
+Z9 0
+ER
+
+PT S
+AU Luo, C
+   Ying, ZZ
+   Zhu, XL
+   Chen, LL
+AF Luo, Chong
+   Ying, Zhaozhong
+   Zhu, Xiaolei
+   Chen, Longlong
+GP IEEE
+TI A Mixed-Signal Spiking Neuromorphic Architecture for Scalable Neural
+   Network
+DE Spiking Neural Network (SNN); mixed-signal; I&F; multi-chip
+   communication; silicon neuron; silicon synapse
+ID PLASTICITY; NEURONS
+TC 1
+Z9 1
+ER
+
+PT B
+AU Liu, CC
+   Liu, FQ
+   Li, H
+AF Liu, Chenchen
+   Liu, Fuqiang
+   Li, Hai (Helen)
+GP ACM
+TI Brain-Inspired Computing Accelerated by Memristor Technology
+ID FILMS; NETWORK
+TC 0
+Z9 0
+ER
+
+PT B
+AU Saxena, V
+   Wu, XY
+   Srivastava, I
+   Zhu, KH
+AF Saxena, Vishal
+   Wu, Xinyu
+   Srivastava, Ira
+   Zhu, Kehan
+GP ACM
+TI Towards Spiking Neuromorphic System-on-a-Chip with Bio-plausible
+   Synapses using Emerging Devices
+DE CMOS Neurons; Cognitive Computing; Deep learning; Neuromorpic
+   System-on-a-Chip (NeuSoC); RRAM; Spiking Neural Networks (SNN)
+ID TIMING-DEPENDENT PLASTICITY
+TC 0
+Z9 0
+ER
+
+PT B
+AU Barchi, F
+   Urgese, G
+   Macii, E
+   Acquaviva, A
+AF Barchi, Francesco
+   Urgese, Gianvito
+   Macii, Enrico
+   Acquaviva, Andrea
+GP IEEE
+TI An Efficient MPI Implementation for Multi-Core Neuromorphic Platforms
+ID NETWORK; MODEL
+TC 0
+Z9 0
+ER
+
+PT B
+AU Mountain, DJ
+   McLean, MM
+   Krieger, CD
+AF Mountain, David J.
+   McLean, Mark M.
+   Krieger, Christopher D.
+GP IEEE
+TI A Comparison Between Single Purpose and Flexible Neuromorphic Processor
+   Designs
+DE Artificial neural networks; Beyond CMOS; Feedforward neural networks;
+   Nanotechnology; Neural network hardware
+ID SYSTEM
+TC 0
+Z9 0
+ER
+
+PT S
+AU Guo, X
+   Bayat, FM
+   Bavandpour, M
+   Klachko, M
+   Mahmoodi, MR
+   Prezioso, M
+   Likharev, KK
+   Strukov, DB
+AF Guo, X.
+   Bayat, F. Merrikh
+   Bavandpour, M.
+   Klachko, M.
+   Mahmoodi, M. R.
+   Prezioso, M.
+   Likharev, K. K.
+   Strukov, D. B.
+GP IEEE
+TI Fast, Energy-Efficient, Robust, and Reproducible Mixed-Signal
+   Neuromorphic Classifier Based on Embedded NOR Flash Memory Technology
+TC 1
+Z9 1
+ER
+
+PT S
+AU Dawson, BP
+   Infantolino, JK
+   Vindiola, MM
+   Monaco, JV
+AF Dawson, Bryan P.
+   Infantolino, Jamie K.
+   Vindiola, Manuel M.
+   Monaco, John V.
+GP IEEE
+TI Tightly Integrated Deep Learning and Symbolic Programming on a Single
+   Neuromorphic Chip
+ID NETWORK
+TC 0
+Z9 0
+ER
+
+PT S
+AU Hoppner, S
+   Yan, Y
+   Vogginger, B
+   Dixius, A
+   Partzsch, J
+   Neumarker, F
+   Hartmann, S
+   Schiefer, S
+   Scholze, S
+   Ellguth, G
+   Cederstroem, L
+   Eberlein, M
+   Mayr, C
+   Temple, S
+   Plana, L
+   Garside, J
+   Davison, S
+   Lester, DR
+   Furber, S
+AF Hoeppner, Sebastian
+   Yan, Yexin
+   Vogginger, Bernhard
+   Dixius, Andreas
+   Partzsch, Johannes
+   Neumaerker, Felix
+   Hartmann, Stephan
+   Schiefer, Stefan
+   Scholze, Stefan
+   Ellguth, Georg
+   Cederstroem, Love
+   Eberlein, Matthias
+   Mayr, Christian
+   Temple, Steve
+   Plana, Luis
+   Garside, Jim
+   Davison, Simon
+   Lester, David R.
+   Furber, Steve
+GP IEEE
+TI Dynamic Voltage and Frequency Scaling for Neuromorphic Many-Core Systems
+DE SpiNNaker2; MPSoC; neuromorphic computing; power management; DVFS;
+   synfire chain
+ID CHIP
+TC 0
+Z9 0
+ER
+
+PT S
+AU Partzsch, J
+   Hoppner, S
+   Eberlein, M
+   Schuffny, R
+   Mayr, C
+   Lester, DR
+   Furber, S
+AF Partzsch, Johannes
+   Hoeppner, Sebastian
+   Eberlein, Matthias
+   Schueffny, Rene
+   Mayr, Christian
+   Lester, David R.
+   Furber, Steve
+GP IEEE
+TI A Fixed Point Exponential Function Accelerator for a Neuromorphic
+   Many-Core System
+DE MPSoC; neuromorphic computing; SpiNNaker; exponential function
+ID ANALOG VLSI
+TC 1
+Z9 1
+ER
+
+PT J
+AU Baishnab, KL
+   Paul, PK
+   Laskar, NM
+   Nath, S
+   Sarkar, P
+AF Baishnab, K. L.
+   Paul, P. K.
+   Laskar, Naushad Manzoor
+   Nath, Sourav
+   Sarkar, Paramita
+TI Modelling and optimization of CMOS winner-takes-all circuit for improved
+   slew rate using swarm intelligence based techniques
+DE Neuromorphic Circuits; Evolutionary Algorithms; Slew Rate; Human
+   Behavior based PSO; Winner takes All
+TC 1
+Z9 1
+ER
+
+PT S
+AU Ji, Y
+   Zhang, YH
+   Chen, WG
+   Xie, Y
+AF Ji, Yu
+   Zhang, YouHui
+   Chen, WenGuang
+   Xie, Yuan
+GP IEEE
+TI POSTER: Bridge the Gap Between Neural Networks and Neuromorphic Hardware
+TC 0
+Z9 0
+ER
+
+PT B
+AU Choi, MH
+   Choi, S
+   Sim, J
+   Kim, LS
+AF Choi, Myung-Hoon
+   Choi, Seungkyu
+   Sim, Jaehyeong
+   Kim, Lee-Sup
+GP IEEE
+TI SENIN: An Energy-Efficient Sparse Neuromorphic System with On-Chip
+   Learning
+DE Neural Network; Sparse Spike; Neuromorphic Computing
+TC 0
+Z9 0
+ER
+
+PT B
+AU Shelby, RM
+   Narayanan, P
+   Ambrogio, S
+   Tsai, H
+   Hosokawa, K
+   Lewis, SC
+   Burr, G
+AF Shelby, Robert M.
+   Narayanan, Pritish
+   Ambrogio, Stefano
+   Tsai, Hsinyu
+   Hosokawa, Kohji
+   Lewis, Scott C.
+   Burr, Geoffrey W.
+GP IEEE
+TI Neuromorphic Technologies for Next-Generation Cognitive Computing
+DE Cognitive Computing; Non-von Neumann Computing
+ID NETWORK
+TC 1
+Z9 1
+ER
+
+PT S
+AU BanaGozar, A
+   Maleki, MA
+   Kamal, M
+   Afzali-Kusha, A
+   Pedram, M
+AF BanaGozar, Ali
+   Maleki, Mohammad Ali
+   Kamal, Mehdi
+   Afzali-Kusha, Ali
+   Pedram, Massoud
+GP IEEE
+TI Robust Neuromorphic Computing in the Presence of Process Variation
+DE Process Variation; Neuromorphic Computing; Training; Testing
+TC 2
+Z9 2
+ER
+
+PT S
+AU Hassan, AM
+   Yang, CF
+   Liu, CC
+   Li, H
+   Chen, YR
+AF Hassan, Amr M.
+   Yang, Chaofei
+   Liu, Chenchen
+   Li, Hai (Helen)
+   Chen, Yiran
+GP IEEE
+TI Hybrid Spiking-based Multi-layered Self-learning Neuromorphic System
+   Based On Memristor Crossbar Arrays
+TC 0
+Z9 0
+ER
+
+PT J
+AU Bobylev, AN
+   Busygin, AN
+   Pisarev, AD
+   Udovichenko, SY
+   Filippov, VA
+AF Bobylev, A. N.
+   Busygin, A. N.
+   Pisarev, A. D.
+   Udovichenko, S. Yu.
+   Filippov, V. A.
+TI Neuromorphic coprocessor prototype based on mixed metal oxide memristors
+DE memristor; neuromorphic; neural network
+ID NETWORK; DEVICE
+TC 2
+Z9 3
+ER
+
+PT S
+AU Chen, WH
+   Khwa, WS
+   Li, JY
+   Lin, WY
+   Lin, HT
+   Liu, YP
+   Wang, Y
+   Wu, HQ
+   Yang, HZ
+   Chang, MF
+AF Chen, Wei-Hao
+   Khwa, Win-San
+   Li, Jun-Yi
+   Lin, Wei-Yu
+   Lin, Huan-Ting
+   Liu, Yongpan
+   Wang, Yu
+   Wu, Huaqiang
+   Yang, Huazhong
+   Chang, Meng-Fan
+GP IEEE
+TI Circuit Design for Beyond Von Neumann Applications Using Emerging
+   Memory: From Nonvolatile Logics to Neuromorphic Computing
+DE Emerging memory; ReRAM; RRAM; STT-MRAM; PCM; memristor; nonvolatile
+   Logics; neuromorphic computing
+ID SRAM; DEVICES; ENERGY; RERAM; CELL
+TC 0
+Z9 0
+ER
+
+PT J
+AU Esser, SK
+   Merolla, PA
+   Arthur, JV
+   Cassidy, AS
+   Appuswamy, R
+   Andreopoulos, A
+   Berg, DJ
+   McKinstry, JL
+   Melano, T
+   Barch, DR
+   di Nolfo, C
+   Datta, P
+   Amir, A
+   Taba, B
+   Flickner, MD
+   Modha, DS
+AF Esser, Steven K.
+   Merolla, Paul A.
+   Arthur, John V.
+   Cassidy, Andrew S.
+   Appuswamy, Rathinakumar
+   Andreopoulos, Alexander
+   Berg, David J.
+   McKinstry, Jeffrey L.
+   Melano, Timothy
+   Barch, Davis R.
+   di Nolfo, Carmelo
+   Datta, Pallab
+   Amir, Arnon
+   Taba, Brian
+   Flickner, Myron D.
+   Modha, Dharmendra S.
+TI Convolutional networks for fast, energy-efficient neuromorphic computing
+DE convolutional network; neuromorphic; neural network; TrueNorth
+ID NEURAL-NETWORK; RECOGNITION; SYSTEMS; NOISE
+TC 84
+Z9 86
+ER
+
+PT J
+AU Marti, D
+   Rigotti, M
+   Seok, M
+   Fusi, S
+AF Marti, Daniel
+   Rigotti, Mattia
+   Seok, Mingoo
+   Fusi, Stefano
+TI Energy-Efficient Neuromorphic Classifiers
+ID NEURAL-NETWORKS; TRADE-OFF; RECOGNITION; SYSTEMS; CLASSIFICATION;
+   COMMUNICATION; SYNAPSES; PATTERNS; MACHINE; NEURONS
+TC 3
+Z9 3
+ER
+
+PT J
+AU Pastur-Romay, LA
+   Cedron, F
+   Pazos, A
+   Porto-Pazos, AB
+AF Anton Pastur-Romay, Lucas
+   Cedron, Francisco
+   Pazos, Alejandro
+   Belen Porto-Pazos, Ana
+TI Deep Artificial Neural Networks and Neuromorphic Chips for Big Data
+   Analysis: Pharmaceutical and Bioinformatics Applications
+DE artificial neural networks; artificial neuron-astrocyte networks;
+   tripartite synapses; deep learning; neuromorphic chips; big data; drug
+   design; Quantitative Structure-Activity Relationship; genomic medicine;
+   protein structure prediction
+ID FUNCTIONAL ARCHITECTURE; DIGITAL IMPLEMENTATION; SECONDARY STRUCTURE;
+   VARIABLE SELECTION; GLIA; ALGORITHMS; PREDICTION; PROTEINS; CIRCUIT;
+   MODEL
+TC 18
+Z9 19
+ER
+
+PT J
+AU Yousefzadeh, A
+   Plana, LA
+   Temple, S
+   Serrano-Gotarredona, T
+   Furber, SB
+   Linares-Barranco, B
+AF Yousefzadeh, Amirreza
+   Plana, Luis A.
+   Temple, Steve
+   Serrano-Gotarredona, Teresa
+   Furber, Steve B.
+   Linares-Barranco, Bernabe
+TI Fast Predictive Handshaking in Synchronous FPGAs for Fully Asynchronous
+   Multisymbol Chip Links: Application to SpiNNaker 2-of-7 Links
+DE Address event representation (AER); asynchronous links; event-driven
+   links; field-programmable gate arrays (FPGAs); neuromorphic chips;
+   synchronization
+TC 4
+Z9 4
+ER
+
+PT J
+AU Upadhyay, NK
+   Joshi, S
+   Yang, JJ
+AF Upadhyay, Navnidhi K.
+   Joshi, Saumil
+   Yang, J. Joshua
+TI Synaptic electronics and neuromorphic computing
+DE memristors; neuromorphic engineering; RRAM; synapses; synaptic devices
+ID ASYMMETRIC HEBBIAN PLASTICITY; LONG-TERM POTENTIATION; RANDOM-ACCESS
+   MEMORY; PHASE-CHANGE MEMORY; METALLIZATION CELLS; MEMRISTIVE DEVICES;
+   DATA-STORAGE; SYSTEMS; SYNAPSES; DYNAMICS
+TC 14
+Z9 14
+ER
+
+PT J
+AU Rajendran, B
+   Alibart, F
+AF Rajendran, Bipin
+   Alibart, Fabien
+TI Neuromorphic Computing Based on Emerging Memory Technologies
+DE Cognitive computing; memristor; neuromorphic engineering; phase change
+   memory (PCM); resistive random-access memory (RRAM); spin-transfer
+   torque random-access memory (STT-RAM)
+ID TIMING-DEPENDENT PLASTICITY; PHASE-CHANGE MEMORY; COOPER-MUNRO RULE;
+   SYNAPTIC PLASTICITY; SPIKING NEURONS; DEVICE; MEMRISTOR; SYSTEMS;
+   TRANSISTOR; SYNAPSES
+TC 14
+Z9 14
+ER
+
+PT J
+AU Volanis, G
+   Antonopoulos, A
+   Makris, Y
+   Hatzopoulos, AA
+AF Volanis, Georgios
+   Antonopoulos, Angelos
+   Makris, Yiorgos
+   Hatzopoulos, Alkis A.
+TI Toward Silicon-Based Cognitive Neuromorphic ICs-A Survey
+DE Neurons; Integrated circuit modeling; Computers; Silicon; Neuromorphics;
+   Biological neural networks
+ID SPIKING NEURAL-NETWORKS; ON-CHIP; NEURONS; SYNAPSES; VLSI; INTEGRATION;
+   INTERFACE; CIRCUITS; SYSTEMS; ARRAY
+TC 2
+Z9 2
+ER
+
+PT J
+AU Williams, RS
+AF Williams, R. Stanley
+TI Brain Inspired Computing
+DE Performance; Design; neuromorphic computing; cortical architecture;
+   system-on-chip; dark silicon; non-volatile memory; neuromorphic
+   co-processors and accelerators
+TC 0
+Z9 0
+ER
+
+PT J
+AU Vanarse, A
+   Osseiran, A
+   Rassau, A
+AF Vanarse, Anup
+   Osseiran, Adam
+   Rassau, Alexander
+TI A Review of Current Neuromorphic Approaches for Vision, Auditory, and
+   Olfactory Sensors
+DE neuromorphic sensors; retinomorphic sensors; neuromorphic audition;
+   neuromorphic olfaction; biomimetic sensors
+ID SILICON COCHLEA; ELECTRONIC NOSE; ANALOG VLSI; ARTIFICIAL OLFACTION;
+   POWER; CHIP; CONTRAST; SYSTEM; IMPLEMENTATION; 128X128
+TC 5
+Z9 5
+ER
+
+PT J
+AU Wan, X
+   Yang, Y
+   Feng, P
+   Shi, Y
+   Wan, Q
+AF Wan, Xiang
+   Yang, Yi
+   Feng, Ping
+   Shi, Yi
+   Wan, Qing
+TI Short-Term Plasticity and Synaptic Filtering Emulated in
+   Electrolyte-Gated IGZO Transistors
+DE Artificial synaptic devices; electric-double-layer transistors;
+   neuromorphic systems
+ID NEUROMORPHIC SYSTEMS; ARTIFICIAL SYNAPSES; MEMORY; COMPUTATION;
+   MEMRISTOR
+TC 17
+Z9 17
+ER
+
+PT J
+AU Darwish, M
+   Calayir, V
+   Pileggi, L
+   Weldon, JA
+AF Darwish, Mohamed
+   Calayir, Vehbi
+   Pileggi, Lawrence
+   Weldon, Jeffrey A.
+TI Ultracompact Graphene Multigate Variable Resistor for Neuromorphic
+   Computing
+DE Beyond CMOS; brain-inspired computing; graphene; neuromorphic computing;
+   voltage-controlled resistor
+ID CELLULAR NEURAL-NETWORKS; MEMORY; DEVICE; ELECTRONS; SYNAPSES; NEURONS;
+   DESIGN; CHIP
+TC 2
+Z9 2
+ER
+
+PT S
+AU Wang, J
+   Breen, D
+   Akinin, A
+   Abarbanel, HDI
+   Cauwenberghs, G
+AF Wang, Jun
+   Breen, Daniel
+   Akinin, Abraham
+   Abarbanel, Henry D. I.
+   Cauwenberghs, Gert
+GP IEEE
+TI Data Assimilation of Membrane Dynamics and Channel Kinetics with a
+   Neuromorphic Integrated Circuit
+TC 1
+Z9 1
+ER
+
+PT S
+AU Dean, ME
+   Chan, J
+   Daffron, C
+   Disney, A
+   Reynolds, J
+   Rose, G
+   Plank, JS
+   Birdwell, JD
+   Schuman, CD
+AF Dean, Mark E.
+   Chan, Jason
+   Daffron, Christopher
+   Disney, Adam
+   Reynolds, John
+   Rose, Garrett
+   Plank, James S.
+   Birdwell, J. Douglas
+   Schuman, Catherine D.
+GP IEEE
+TI An Application Development Platform for Neuromorphic Computing
+DE Neuromorphic Computing; Bio-inspired Computer Architectures; SDK; Neural
+   Networks
+TC 3
+Z9 3
+ER
+
+PT S
+AU Diehl, PU
+   Pedroni, BU
+   Cassidy, A
+   Merolla, P
+   Neftci, E
+   Zarrella, G
+AF Diehl, Peter U.
+   Pedroni, Bruno U.
+   Cassidy, Andrew
+   Merolla, Paul
+   Neftci, Emre
+   Zarrella, Guido
+GP IEEE
+TI TrueHappiness: Neuromorphic Emotion Recognition on TrueNorth
+ID NETWORK
+TC 5
+Z9 5
+ER
+
+PT S
+AU Yepes, AJ
+   Tang, JB
+   Saxena, S
+   Brosch, T
+   Amir, A
+AF Yepes, Antonio Jimeno
+   Tang, Jianbin
+   Saxena, Shreya
+   Brosch, Tobias
+   Amir, Arnon
+GP IEEE
+TI Weighted Population Code for low power neuromorphic image classification
+TC 1
+Z9 1
+ER
+
+PT S
+AU Andreopoulos, A
+   Alvarez-Icaza, R
+   Cassidy, AS
+   Flickner, MD
+AF Andreopoulos, Alexander
+   Alvarez-Icaza, Rodrigo
+   Cassidy, Andrew S.
+   Flickner, Myron D.
+GP IEEE
+TI A Low-Power Neurosynaptic Implementation of Local Binary Patterns for
+   Texture Analysis
+ID CLASSIFICATION
+TC 0
+Z9 0
+ER
+
+PT B
+AU Chevitarese, DS
+   dos Santos, MN
+AF Chevitarese, Daniel Salles
+   dos Santos, Marcelo Nery
+GP IEEE
+TI Real-time face tracking and recognition on IBM neuromorphic chip
+DE face tracking; face recognition; neuromorphic; neural networks
+ID NETWORKS
+TC 1
+Z9 1
+ER
+
+PT B
+AU Amirsoleimani, A
+   Ahmadi, M
+   Ahmadi, A
+   Boukadoum, M
+AF Amirsoleimani, Amirali
+   Ahmadi, Majid
+   Ahmadi, Arash
+   Boukadoum, Mounir
+GP IEEE
+TI Brain-inspired Pattern Classification with Memristive Neural Network
+   Using the Hodgkin-Huxley Neuron
+DE Memristor; Hudgkin Huxley; Spike-Timing-Dependent-Plasticity (STDP);
+   Spiking Neural Network (SNN)
+TC 2
+Z9 2
+ER
+
+PT J
+AU Schmid, A
+AF Schmid, Alexandre
+TI Neuromorphic microelectronics from devices to hardware systems and
+   applications
+DE neuromorphic engineering; neuromorphic computing; neuromorphic devices;
+   neuromorphic circuits; neuromorphic architectures
+ID ARTIFICIAL NEURAL-NETWORKS; STOCHASTIC RESONANCE; MEMRISTIVE DEVICES;
+   SILICON; CIRCUIT; SPIKING; DESIGN; MODEL; MEMORY; CHIP
+TC 1
+Z9 1
+ER
+
+PT B
+AU Truong, SN
+   Pham, KV
+   Yang, W
+   Min, KS
+   Abbas, Y
+   Kang, CJ
+AF Truong, Son Ngoc
+   Pham, Khoa Van
+   Yang, Wonsan
+   Min, Kycong-Sik
+   Abbas, Yawar
+   Kang, Chi Jung
+GP IEEE
+TI Live Demonstration: Memristor Synaptic Array with FPGA-Implemented
+   Neurons for Neuromorphic Pattern Recognition
+TC 0
+Z9 0
+ER
+
+PT S
+AU Shen, YC
+   Skirlo, S
+   Harris, NC
+   Englund, D
+   Soljacic, M
+AF Shen, Yichen
+   Skirlo, Scott
+   Harris, Nicholas C.
+   Englund, Dirk
+   Soljacic, Marin
+GP IEEE
+TI On-Chip Optical Neuromorphic Computing
+TC 0
+Z9 0
+ER
+
+PT B
+AU Kasabov, N
+   Sengupta, N
+   Scott, N
+AF Kasabov, Nikola
+   Sengupta, Neelava
+   Scott, Nathan
+BE Yager, R
+   Sgurev, V
+   Hadjiski, M
+   Jotsov, V
+TI From von Neumann, John Atanasoff and ABC to Neuromorphic Computation and
+   the NeuCube Spatio-Temporal Data Machine
+DE NeuCube; Spatio-temporal data; Spiking Neural Networks; Stream data
+   analysis
+ID SYNAPTIC PLASTICITY; SPIKING; SYSTEMS; NETWORK; BRAIN
+TC 1
+Z9 1
+ER
+
+PT S
+AU Song, C
+   Liu, BY
+   Liu, CC
+   Li, H
+   Chen, YR
+AF Song, Chang
+   Liu, Beiye
+   Liu, Chenchen
+   Li, Hai (Helen)
+   Chen, Yiran
+GP IEEE
+TI Design Techniques of eNVM-enabled Neuromorphic Computing Systems
+DE neuromorphic computing; eNVM; memristor; brain-inspired computing
+ID CROSSBAR ARRAYS; MEMRISTOR; CIRCUIT; NETWORK; SCHEME
+TC 1
+Z9 1
+ER
+
+PT S
+AU Ji, Y
+   Zhang, YH
+   Li, SC
+   Chi, P
+   Jiang, CH
+   Qu, P
+   Xie, Y
+   Chen, WG
+AF Ji, Yu
+   Zhang, YouHui
+   Li, ShuangChen
+   Chi, Ping
+   Jiang, CiHang
+   Qu, Peng
+   Xie, Yuan
+   Chen, WenGuang
+GP IEEE
+TI NEUTRAMS: Neural Network Transformation and Co-design under Neuromorphic
+   Hardware Constraints
+ID SPIKING NEURONS; SIMULATIONS; ALGORITHM; PROJECT; SYSTEMS; MODELS;
+   MEMORY; BRAIN; CHIP; TOOL
+TC 0
+Z9 0
+ER
+
+PT B
+AU Wen, W
+   Wu, CP
+   Wang, YD
+   Nixon, K
+   Wu, Q
+   Barnell, M
+   Li, H
+   Chen, YR
+AF Wen, Wei
+   Wu, Chunpeng
+   Wang, Yandan
+   Nixon, Kent
+   Wu, Qing
+   Barnell, Mark
+   Li, Hai
+   Chen, Yiran
+GP ACM
+TI A New Learning Method for Inference Accuracy, Core Occupation, and
+   Performance Co-optimization on TrueNorth Chip
+DE Neural Networks; TrueNorth; Neuromorphic Computing
+ID WALL
+TC 1
+Z9 1
+ER
+
+PT S
+AU Shin, T
+   Kang, Y
+   Yang, S
+   Kim, S
+   Chung, J
+AF Shin, Taehwan
+   Kang, Yongshin
+   Yang, Seungho
+   Kim, Seban
+   Chung, Jaeyong
+GP IEEE
+TI Live Demonstration: Real-Time Image Classification on a Neuromorphic
+   Computing System with Zero Off-chip Memory Access
+TC 1
+Z9 1
+ER
+
+PT S
+AU Najari, M
+   El-Grour, T
+   Jelliti, S
+   Hakami, OM
+AF Najari, Montassar
+   El-Grour, Tarek
+   Jelliti, Sami
+   Hakami, Othman Mousa
+BE AlKamli, A
+   Can, N
+   Souadi, GO
+   Fadhali, M
+   Mahdy, A
+   Mahgoub, M
+TI Simulation of a Spiking Neuron Circuit Using Carbon Nanotube Transistors
+ID NEUROMORPHIC ELECTRONIC SYSTEMS
+TC 0
+Z9 0
+ER
+
+PT J
+AU Ji, Y
+   Zhang, YH
+   Zheng, WM
+AF Ji, Yu
+   Zhang, You-Hui
+   Zheng, Wei-Min
+TI Modelling Spiking Neural Network from the Architecture Evaluation
+   Perspective
+DE spiking neural network; network-on-chip; architecture simulation
+ID INTERCONNECTION NETWORKS; MULTICAST SUPPORT; BASAL GANGLIA; CIRCUIT;
+   NEURONS; DESIGN; ORION; POWER
+TC 2
+Z9 2
+ER
+
+PT J
+AU Walter, F
+   Rohrbein, F
+   Knoll, A
+AF Walter, Florian
+   Roehrbein, Florian
+   Knoll, Alois
+TI Neuromorphic implementations of neurobiological learning algorithms for
+   spiking neural networks
+DE Neurorobotics; Brain-inspired robotics; Spiking neural networks; STDP;
+   Neuromorphic; Learning
+ID SYNAPTIC PLASTICITY; ANALOG VLSI; NEURONS; SYSTEMS; MODELS;
+   NEUROSCIENCE; CIRCUITS; DYNAMICS; DRIVEN
+TC 19
+Z9 19
+ER
+
+PT J
+AU Kim, Y
+   Zhang, Y
+   Li, P
+AF Kim, Yongtae
+   Zhang, Yong
+   Li, Peng
+TI Energy Efficient Approximate Arithmetic for Error Resilient Neuromorphic
+   Computing
+DE Approximate adder and comparator; carry skip; energy efficiency; error
+   resilience; neuromorphic computing
+ID ADDER
+TC 4
+Z9 4
+ER
+
+PT J
+AU Partzsch, J
+   Schuffny, R
+AF Partzsch, Johannes
+   Schueffny, Rene
+TI Network-driven design principles for neuromorphic systems
+DE neuromorphic architectures; synaptic connectivity; system design; Rent's
+   rule; mapping quality
+ID NEURAL-NETWORKS; MEMRISTIVE DEVICES; PYRAMIDAL NEURONS; VISUAL-CORTEX;
+   CONNECTIVITY; PLASTICITY; HARDWARE; SYNAPSES; MODELS; GRAPHS
+TC 0
+Z9 0
+ER
+
+PT J
+AU Giulioni, M
+   Corradi, F
+   Dante, V
+   del Giudice, P
+AF Giulioni, Massimiliano
+   Corradi, Federico
+   Dante, Vittorio
+   del Giudice, Paolo
+TI Real time unsupervised learning of visual stimuli in neuromorphic VLSI
+   systems
+ID TIMING-DEPENDENT PLASTICITY; DRIVEN SYNAPTIC PLASTICITY; SPIKING
+   NEURONS; NEURAL-NETWORK; REALISTIC NETWORKS; WORKING-MEMORY; SYNAPSES;
+   CAPACITY; PATTERNS; MODEL
+TC 8
+Z9 8
+ER
+
+PT J
+AU Azghadi, MR
+   Moradi, S
+   Fasnacht, DB
+   Ozdas, MS
+   Indiveri, G
+AF Azghadi, Mostafa Rahimi
+   Moradi, Saber
+   Fasnacht, Daniel B.
+   Ozdas, Mehmet Sirin
+   Indiveri, Giacomo
+TI Programmable Spike-Timing-Dependent Plasticity Learning Circuits in
+   Neuromorphic VLSI Architectures
+DE Algorithms; Design; VLSI; emerging technologies; neuromorphic; STDP;
+   asynchronous; AER; subthreshold; learning; plasticity; realtime
+ID SYNAPTIC PLASTICITY; NEURONAL NETWORKS; NEURAL-NETWORKS; MODEL; SYSTEMS;
+   DESIGN; INFRASTRUCTURE; CLASSIFICATION; COMMUNICATION; SELECTIVITY
+TC 3
+Z9 3
+ER
+
+PT J
+AU Wu, XY
+   Saxena, V
+   Zhu, KH
+AF Wu, Xinyu
+   Saxena, Vishal
+   Zhu, Kehan
+TI Homogeneous Spiking Neuromorphic System for Real-World Pattern
+   Recognition
+DE Brain-inspired computing; machine learning; memristor; neuromorphic;
+   resistive memory; silicon neuron; spike-timing dependent plasticity;
+   spiking neural network
+ID TIMING-DEPENDENT-PLASTICITY; MEMRISTIVE DEVICES; SWITCHING MEMORY;
+   SYNAPTIC DEVICE; SILICON NEURON; CIRCUITS; CLASSIFICATION; NANODEVICES;
+   MECHANISM; NETWORK
+TC 19
+Z9 19
+ER
+
+PT J
+AU Krichmar, JL
+   Coussy, P
+   Dutt, N
+AF Krichmar, Jeffrey L.
+   Coussy, Philippe
+   Dutt, Nikil
+TI Large-Scale Spiking Neural Networks using Neuromorphic Hardware
+   Compatible Models
+DE Algorithms; Spiking neural networks; simulation tools; GPU computing;
+   large-scale brain models; neuromorphic engineering
+ID VISUAL AREA MT; GLOBAL WORKSPACE THEORY; SYNAPTIC PLASTICITY;
+   DECISION-MAKING; NEURONS; SIMULATION; SYSTEMS; BRAIN; CATEGORIZATION;
+   NEUROSCIENCE
+TC 7
+Z9 7
+ER
+
+PT S
+AU Rajendran, B
+   Ganguly, U
+   Suri, M
+AF Rajendran, Bipin
+   Ganguly, Udayan
+   Suri, Manan
+GP IEEE
+TI Neuromorphic Computing - Algorithms, Devices and Systems
+TC 0
+Z9 0
+ER
+
+PT B
+AU Seo, JS
+   Seok, M
+AF Seo, Jae-sun
+   Seok, Mingoo
+GP IEEE
+TI Digital CMOS Neuromorphic Processor Design Featuring Unsupervised Online
+   Learning
+DE neuromorphic computing; CMOS; digital circuits; unsupervised learning;
+   on-chip learning; low-voltage; low-power; spiking neural networks
+ID SPIKE RATE; PLASTICITY
+TC 5
+Z9 5
+ER
+
+PT B
+AU Shi, LP
+AF Shi, Luping
+BE Ge, N
+   Lu, J
+   Wang, Y
+   Howard, N
+   Chen, P
+   Tao, X
+   Zhang, B
+   Zadeh, LA
+TI Status, Challenges and Future Trends of Brain Inspired Computing
+DE Brain inspired computing; intelligent systems; neuromorphic chips;
+   cognitive memory; software environment; trends
+TC 0
+Z9 0
+ER
+
+PT B
+AU Liu, BY
+   Liu, XX
+   Liu, CC
+   Wen, W
+   Meng, M
+   Li, H
+   Chen, YR
+AF Liu, Beiye
+   Liu, Xiaoxiao
+   Liu, Chenchen
+   Wen, Wei
+   Meng, M.
+   Li, Hai
+   Chen, Yiran
+GP IEEE
+TI Hardware Acceleration for Neuromorphic Computing: An Evolving View
+DE component; Neuromorphic; Memrisotr; Accelerator
+ID MEMRISTOR; RECALL
+TC 0
+Z9 0
+ER
+
+PT B
+AU Wang, D
+   Deng, L
+   Tang, P
+   Ma, C
+   Pei, J
+AF Wang, Dong
+   Deng, Lei
+   Tang, Pei
+   Ma, Cheng
+   Pei, Jing
+GP IEEE
+TI FPGA-based neuromorphic computing system with a scalable routing network
+DE Neuromorphic; FPGA; Multi-core; Neural network; Routing network
+TC 0
+Z9 0
+ER
+
+PT S
+AU Payvand, M
+   Theogarajan, L
+AF Payvand, Melika
+   Theogarajan, Luke
+GP IEEE
+TI Exploiting Local Connectivity of CMOL Architecture for Highly Parallel
+   Orientation Selective Neuromorphic Chips
+DE CMOL; Neuromorphic Circuits; Image Processing; Memristor; Spiking Neural
+   Networks; Local Receptive Field
+ID CORTICAL-LAYER; RECOGNITION; SYSTEMS
+TC 0
+Z9 1
+ER
+
+PT B
+AU Indiveri, G
+   Corradi, F
+   Qiao, N
+AF Indiveri, Giacomo
+   Corradi, Federico
+   Qiao, Ning
+GP IEEE
+TI Neuromorphic Architectures for Spiking Deep Neural Networks
+ID SYSTEMS
+TC 3
+Z9 3
+ER
+
+PT B
+AU Kim, S
+   Ishii, M
+   Lewis, S
+   Perri, T
+   BrightSky, M
+   Kim, W
+   Jordan, R
+   Burr, GW
+   Sosa, N
+   Ray, A
+   Han, JP
+   Miller, C
+   Hosokawa, K
+   Lam, C
+AF Kim, S.
+   Ishii, M.
+   Lewis, S.
+   Perri, T.
+   BrightSky, M.
+   Kim, W.
+   Jordan, R.
+   Burr, G. W.
+   Sosa, N.
+   Ray, A.
+   Han, J. -P.
+   Miller, C.
+   Hosokawa, K.
+   Lam, C.
+GP IEEE
+TI NVM Neuromorphic Core with 64k-cell (256-by-256) Phase Change Memory
+   Synaptic Array with On-Chip Neuron Circuits for Continuous In-Situ
+   Learning
+TC 0
+Z9 0
+ER
+
+PT B
+AU Shi, LP
+   Pei, J
+   Deng, N
+   Wang, D
+   Deng, L
+   Wang, Y
+   Zhang, YH
+   Chen, F
+   Zhao, MG
+   Song, S
+   Zeng, F
+   Li, GQ
+   Li, HL
+   Ma, C
+AF Shi, Luping
+   Pei, Jing
+   Deng, Ning
+   Wang, Dong
+   Deng, Lei
+   Wang, Yu
+   Zhang, Youhui
+   Chen, Feng
+   Zhao, Mingguo
+   Song, Sen
+   Zeng, Fei
+   Li, Guoqi
+   Li, Huanglong
+   Ma, Cheng
+GP IEEE
+TI Development of a Neuromorphic Computing System
+ID NETWORK; NEURONS
+TC 0
+Z9 0
+ER
+
+PT B
+AU Ehsan, MA
+   Zhou, Z
+   Yi, Y
+AF Ehsan, M. Amimul
+   Zhou, Zhen
+   Yi, Yang
+GP IEEE
+TI Three Dimensional Integration Technology Applied to Neuromorphic
+   Hardware Implementation
+DE Neuromorphic architecture; Biological neuron; 3D integration; TSV;
+   synapse; insertion loss
+ID SILICON; MODEL; PLASTICITY; SYSTEMS; TSV
+TC 0
+Z9 0
+ER
+
+PT B
+AU Jablonski, M
+   Serrano-Gotarredona, T
+   Linares-Barranco, B
+AF Jablonski, M.
+   Serrano-Gotarredona, T.
+   Linares-Barranco, B.
+GP IEEE
+TI High-Speed Serial Interfaces for Event-Driven Neuromorphic Systems
+TC 0
+Z9 0
+ER
+
+PT B
+AU Yang, SF
+   Li, RF
+   Wu, Q
+AF Yang, Shufan
+   Li, Renfa
+   Wu, Qiang
+BE Buchner, T
+   Zhao, D
+   Bhatia, K
+   Sridhar, R
+TI Modelling Visual Attention Towards Embodiment Cognition on a
+   Reconfigurable and Programmable System
+DE Visual Attetnion; Dynamical neual field; system-on-chip
+TC 0
+Z9 0
+ER
+
+PT S
+AU Ahn, B
+AF Ahn, Byungik
+GP IEEE
+TI Special-Purpose Hardware Architecture for Neuromorphic Computing
+DE neuromorphic; hardware; neuron machine; pipelining; Hodgkin-Huxley
+TC 0
+Z9 0
+ER
+
+PT S
+AU Gi, S
+   Yeo, I
+   Chu, M
+   Kim, S
+   Lee, B
+AF Gi, Sanggyun
+   Yeo, Injune
+   Chu, Myunglae
+   Kim, Seunghun
+   Lee, Byunggeun
+GP IEEE
+TI Fundamental issues of implementing hardware neural networks using
+   memristor
+DE Memristor; neuromorphic; MNIST; crossbar array; sneak path; weight
+   retention; pattern recognition
+TC 2
+Z9 2
+ER
+
+PT B
+AU Urgese, G
+   Barchi, F
+   Macii, E
+AF Urgese, Gianvito
+   Barchi, Francesco
+   Macii, Enrico
+GP IEEE
+TI Top-down profiling of application specific many-core neuromorphic
+   platforms
+ID SPIKING NEURONS; MODEL
+TC 1
+Z9 1
+ER
+
+PT S
+AU Yakopcic, C
+   Hasan, R
+   Taha, TM
+   Palmer, D
+AF Yakopcic, Chris
+   Hasan, Raqibul
+   Taha, Tarek M.
+   Palmer, Doug
+GP IEEE
+TI SPICE Analysis of Dense Memristor Crossbars for Low Power Neuromorphic
+   Processor Designs
+DE Memristor; neuromorphic; device; SPICE
+ID CIRCUIT; MODEL
+TC 3
+Z9 3
+ER
+
+PT S
+AU Liu, HJ
+   Brandli, C
+   Li, CH
+   Liu, SC
+   Delbruck, T
+AF Liu, Hongjie
+   Brandli, Christian
+   Li, Chenghan
+   Liu, Shih-Chii
+   Delbruck, Tobi
+GP IEEE
+TI Design of a Spatiotemporal Correlation Filter for Event-based Sensors
+DE neuromorphic; event-based; AER; DVS; background activity; uncorrelated
+   noise; filter; spatiotemporal correlation
+TC 1
+Z9 1
+ER
+
+PT S
+AU Zheng, L
+   Shin, S
+   Kang, SMS
+AF Zheng, Le
+   Shin, Sangho
+   Kang, Sung-Mo Steve
+GP IEEE
+TI Memristor-based Synapses and Neurons for Neuromorphic Computing
+DE memristor; neuron; synapse; STDP; neuromorphic
+ID SYSTEMS; DEVICES
+TC 4
+Z9 4
+ER
+
+PT S
+AU Corradi, F
+   You, HZ
+   Giulioni, M
+   Indiveri, G
+AF Corradi, Federico
+   You, Hongzhi
+   Giulioni, Massimiliano
+   Indiveri, Giacomo
+GP IEEE
+TI Decision Making and Perceptual Bistability in Spike-Based Neuromorphic
+   VLSI Systems
+ID WORKING-MEMORY; MODEL; MECHANISM; NETWORKS; CIRCUITS; DYNAMICS
+TC 3
+Z9 3
+ER
+
+PT B
+AU Kim, JK
+   Knag, P
+   Chen, T
+   Zhang, ZY
+AF Kim, Jung Kuk
+   Knag, Phil
+   Chen, Thomas
+   Zhang, Zhengya
+GP IEEE
+TI A 640M pixel/s 3.65mW Sparse Event-Driven Neuromorphic Object
+   Recognition Processor with On-Chip Learning
+TC 0
+Z9 0
+ER
+
+PT S
+AU Esser, SK
+   Appuswamy, R
+   Merolla, PA
+   Arthur, JV
+   Modha, DS
+AF Esser, Steve K.
+   Appuswamy, Rathinakumar
+   Merolla, Paul A.
+   Arthur, John V.
+   Modha, Dharmendra S.
+BE Cortes, C
+   Lawrence, ND
+   Lee, DD
+   Sugiyama, M
+   Garnett, R
+TI Backpropagation for Energy-Efficient Neuromorphic Computing
+ID NETWORK; SYSTEM
+TC 0
+Z9 0
+ER
+
+PT J
+AU Delbruck, T
+   van Schaik, A
+   Hasler, J
+AF Delbruck, Tobi
+   van Schaik, Andre
+   Hasler, Jennifer
+TI Research topic: neuromorphic engineering systems and applications. A
+   snapshot of neuromorphic systems engineering
+DE neuromorphic engineering; neural networks; event-based; spiking neural
+   networks; dynamic vision sensor; floating gate; neural simulation;
+   synaptic plasticity
+TC 1
+Z9 1
+ER
+
+PT J
+AU Tait, AN
+   Nahmias, MA
+   Shastri, BJ
+   Prucnal, PR
+AF Tait, Alexander N.
+   Nahmias, Mitchell A.
+   Shastri, Bhavin J.
+   Prucnal, Paul R.
+TI Broadcast and Weight: An Integrated Network For Scalable Photonic Spike
+   Processing
+DE Asynchronous circuits; network topology; neuro-morphics; optical
+   computing; optical interconnects; photonic integrated circuits; spiking
+   neural networks; system analysis and design; WDM networks
+ID NEURAL-NETWORK; SILICON PHOTONICS; OPTICAL INTERCONNECTIONS; FAN-OUT;
+   LOGIC; IMPLEMENTATION; COMPUTATION; PLASTICITY; DYNAMICS; HARDWARE
+TC 57
+Z9 58
+ER
+
+PT J
+AU Corradi, F
+   Zambrano, D
+   Raglianti, M
+   Passetti, G
+   Laschi, C
+   Indiveri, G
+AF Corradi, Federico
+   Zambrano, Davide
+   Raglianti, Marco
+   Passetti, Giovanni
+   Laschi, Cecilia
+   Indiveri, Giacomo
+TI Towards a Neuromorphic Vestibular System
+DE Inertial measurement unit; neuromorphic system; real-time; very large
+   scale integration; vestibular sensor
+ID AFFERENTS; RESPONSES; MODEL
+TC 8
+Z9 8
+ER
+
+PT J
+AU Hof, RD
+AF Hof, Robert D.
+TI Neuromorphic Chips
+TC 1
+Z9 1
+ER
+
+PT J
+AU Merolla, P
+   Arthur, J
+   Alvarez, R
+   Bussat, JM
+   Boahen, K
+AF Merolla, Paul
+   Arthur, John
+   Alvarez, Rodrigo
+   Bussat, Jean-Marie
+   Boahen, Kwabena
+TI A Multicast Tree Router for Multichip Neuromorphic Systems
+DE Asynchronous; deadlock; multicast; neuromorphic; router; tree network;
+   VLSI
+ID DESIGN; ARCHITECTURE; HARDWARE; NETWORKS; MODELS
+TC 25
+Z9 25
+ER
+
+PT S
+AU Perez-Pena, F
+   Linares-Barranco, A
+   Chicca, E
+AF Perez-Pena, Fernando
+   Linares-Barranco, Alejandro
+   Chicca, Elisabetta
+GP IEEE
+TI An Approach to Motor Control for Spike-based Neuromorphic Robotics
+DE neuromorphic hardware; motor control; spikebased; robotics
+ID ARM MOVEMENTS
+TC 2
+Z9 2
+ER
+
+PT B
+AU Wang, Q
+   Kim, Y
+   Li, P
+AF Wang, Qian
+   Kim, Yongtae
+   Li, Peng
+GP IEEE
+TI Architectural Design Exploration for Neuromorphic Processors with
+   Memristive Synapses
+ID VLSI
+TC 3
+Z9 3
+ER
+
+PT S
+AU Corradi, F
+   Eliasmith, C
+   Indiveri, G
+AF Corradi, Federico
+   Eliasmith, Chris
+   Indiveri, Giacomo
+GP IEEE
+TI Mapping Arbitrary Mathematical Functions and Dynamical Systems to
+   Neuromorphic VLSI Circuits for Spike-based Neural Computation
+TC 11
+Z9 11
+ER
+
+PT S
+AU Rovere, G
+   Ning, Q
+   Bartolozzi, C
+   Indiveri, G
+AF Rovere, Giovanni
+   Ning, Qiao
+   Bartolozzi, Chiara
+   Indiveri, Giacomo
+GP IEEE
+TI Ultra Low Leakage Synaptic Scaling Circuits for Implementing Homeostatic
+   Plasticity in Neuromorphic Architectures
+ID SYSTEM
+TC 5
+Z9 5
+ER
+
+PT S
+AU Adams, SV
+   Rast, AD
+   Patterson, C
+   Galluppi, F
+   Brohan, K
+   Perez-Carrasco, JA
+   Wennekers, T
+   Furber, S
+   Cangelosi, A
+AF Adams, Samantha V.
+   Rast, Alexander D.
+   Patterson, Cameron
+   Galluppi, Francesco
+   Brohan, Kevin
+   Perez-Carrasco, Jose-Antonio
+   Wennekers, Thomas
+   Furber, Steve
+   Cangelosi, Angelo
+BE Loo, CK
+   Yap, KS
+   Wong, KW
+   Teoh, A
+   Huang, K
+TI Towards Real-World Neurorobotics: Integrated Neuromorphic Visual
+   Attention
+DE cognitive; robotics; attention; neuromorphic
+TC 4
+Z9 4
+ER
+
+PT J
+AU Baghelani, M
+   Ebrahimi, A
+   Ghavifekr, HB
+AF Baghelani, Masoud
+   Ebrahimi, Afshin
+   Ghavifekr, Habib Badri
+TI Design of a novel MEMS resonator based neuromorphic oscillator
+DE Neuromorphic oscillator; MEMS resonator; Resonator coupling;
+   Trans-impedance amplifier; Automatic amplitude controller
+ID NEURAL-NETWORKS; SYNCHRONIZATION; SPIKING
+TC 2
+Z9 2
+ER
+
+PT S
+AU Li, H
+   Liu, XX
+   Mao, MJ
+   Chen, YR
+   Wu, Q
+   Barnell, M
+AF Li, Hai
+   Liu, Xiaoxiao
+   Mao, Mengjie
+   Chen, Yiran
+   Wu, Qing
+   Barnell, Mark
+GP IEEE
+TI Neuromorphic Hardware Acceleration Enabled by Emerging Technologies
+   (Invited Paper)
+DE memristor; crossbar array; analog design; network-on-chip; neuromorphic
+   computing
+TC 0
+Z9 0
+ER
+
+PT S
+AU Liu, XX
+   Mao, MJ
+   Li, H
+   Chen, YR
+   Jiang, H
+   Yang, JJ
+   Wu, Q
+   Barnell, M
+AF Liu, Xiaoxiao
+   Mao, Mengjie
+   Li, Hai
+   Chen, Yiran
+   Jiang, Hao
+   Yang, J. Joshua
+   Wu, Qing
+   Barnell, Mark
+GP IEEE
+TI A Heterogeneous Computing System with Memristor-Based Neuromorphic
+   Accelerators
+DE neuromorphic computing; memristor; crossbar array; analog circuit;
+   network-on-chip
+TC 0
+Z9 0
+ER
+
+PT S
+AU Hasan, R
+   Taha, TM
+AF Hasan, Raqibul
+   Taha, Tarek M.
+GP IEEE
+TI Enabling Back Propagation Training of Memristor Crossbar Neuromorphic
+   Processors
+DE Neural networks; memristor crossbars; neuromorphic architectures
+TC 24
+Z9 24
+ER
+
+PT J
+AU Ramakrishnan, S
+   Wunderlich, R
+   Hasler, J
+   George, S
+AF Ramakrishnan, Shubha
+   Wunderlich, Richard
+   Hasler, Jennifer
+   George, Suma
+TI Neuron Array With Plastic Synapses and Programmable Dendrites
+DE Dendritic computation and processing; field programmable analog arrays
+   (FPAA); floating-gate devices; on-chip learning
+ID DEPENDENT PLASTICITY; COMPUTATION
+TC 6
+Z9 6
+ER
+
+PT J
+AU Barron-Zambrano, JH
+   Torres-Huitzil, C
+AF Hugo Barron-Zambrano, Jose
+   Torres-Huitzil, Cesar
+TI FPGA implementation of a configurable neuromorphic CPG-based locomotion
+   controller
+DE Central pattern generators; FPGA; Legged robots; Neurornorphic
+   engineering
+ID CENTRAL PATTERN GENERATOR; QUADRUPED ROBOT; WALKING; MODEL; SYSTEMS;
+   ADAPTATION; CIRCUIT; CHIP
+TC 19
+Z9 19
+ER
+
+PT J
+AU Dethier, J
+   Nuyujukian, P
+   Ryu, SI
+   Shenoy, KV
+   Boahen, K
+AF Dethier, Julie
+   Nuyujukian, Paul
+   Ryu, Stephen I.
+   Shenoy, Krishna V.
+   Boahen, Kwabena
+TI Design and validation of a real-time spiking-neural-network decoder for
+   brain-machine interfaces
+ID RECORDING-SYSTEM; COMPUTER INTERFACE; CORTICAL CONTROL; MOTOR CORTEX;
+   TETRAPLEGIA; PRIMATES; CIRCUITS; DYNAMICS; DEVICES; GRASP
+TC 18
+Z9 18
+ER
+
+PT J
+AU Bonifazi, P
+   Difato, F
+   Massobrio, P
+   Breschi, GL
+   Pasquale, V
+   Levi, T
+   Goldin, M
+   Bornat, Y
+   Tedesco, M
+   Bisio, M
+   Kanner, S
+   Galron, R
+   Tessadori, J
+   Taverna, S
+   Chiappalone, M
+AF Bonifazi, Paolo
+   Difato, Francesco
+   Massobrio, Paolo
+   Breschi, Gian L.
+   Pasquale, Valentina
+   Levi, Timothee
+   Goldin, Miri
+   Bornat, Yannick
+   Tedesco, Mariateresa
+   Bisio, Marta
+   Kanner, Sivan
+   Galron, Ronit
+   Tessadori, Jacopo
+   Taverna, Stefano
+   Chiappalone, Michela
+TI In vitro large-scale experimental and theoretical studies for the
+   realization of bi-directional brain-prostheses
+DE In vitro modular networks; whole brain; lesioned circuits; in silico
+   neuronal circuit; hardware spiking neural network
+ID GUINEA-PIG BRAIN; MEDIAL ENTORHINAL CORTEX; CULTURED NEURAL-NETWORKS;
+   MICROELECTRODE ARRAYS; MACHINE INTERFACES; CORTICAL CULTURES; LONG-TERM;
+   NEURONS; HIPPOCAMPUS; BURSTS
+TC 36
+Z9 36
+ER
+
+PT S
+AU Lecerf, G
+   Tomas, J
+   Saighi, S
+AF Lecerf, Gwendal
+   Tomas, Jean
+   Saighi, Sylvain
+GP IEEE
+TI Excitatory and Inhibitory Memristive Synapses for Spiking Neural
+   Networks
+TC 12
+Z9 12
+ER
+
+PT S
+AU Serafino, N
+   Zaghloul, M
+AF Serafino, Nathan
+   Zaghloul, Mona
+BE Carletta, J
+   Geiger, RL
+TI Review of Nanoscale Memristor Devices as Synapses in Neuromorphic
+   Systems
+TC 2
+Z9 2
+ER
+
+PT S
+AU Passetti, G
+   Corradi, F
+   Raglianti, M
+   Zambrano, D
+   Laschi, C
+   Indiveri, G
+AF Passetti, Giovanni
+   Corradi, Federico
+   Raglianti, Marco
+   Zambrano, Davide
+   Laschi, Cecilia
+   Indiveri, Giacomo
+GP IEEE
+TI Implementation of a neuromorphic vestibular sensor with analog VLSI
+   neurons
+ID NERVE AFFERENTS
+TC 2
+Z9 2
+ER
+
+PT B
+AU Shiju, S
+   Philip, L
+AF Shiju, S.
+   Philip, Liju
+GP IEEE
+TI Memristive Device with Threshold for Synaptic Application in
+   Neuromorphic Hardwares
+DE Memristive devices; Memristor; Artificial neural system; Synapse
+ID SYSTEMS
+TC 0
+Z9 0
+ER
+
+PT B
+AU Hasan, R
+   Taha, TM
+AF Hasan, Raqibul
+   Taha, Tarek M.
+GP IEEE
+TI On-Chip Static vs. Dynamic Routing for Feed Forward Neural Networks on
+   Multicore Neuromorphic Architectures
+DE On-chip routing; neuromorphic computing; computer architecture
+ID SPIKING
+TC 0
+Z9 0
+ER
+
+PT S
+AU Koziol, S
+   Brink, S
+   Hasler, J
+AF Koziol, Scott
+   Brink, Stephen
+   Hasler, Jennifer
+GP IEEE
+TI Path Planning Using a Neuron Array Integrated Circuit
+DE aVLSI; path planning; robotics; neuromorphic
+ID GRIDS; VLSI
+TC 2
+Z9 2
+ER
+
+PT S
+AU Hasan, R
+   Taha, TM
+AF Hasan, Raqibul
+   Taha, Tarek M.
+GP IEEE
+TI Routing Bandwidth Model for Feed Forward Neural Networks on Multicore
+   Neuromorphic Architectures
+ID SPIKING
+TC 0
+Z9 0
+ER
+
+PT S
+AU Pfeil, T
+   Scherzer, AC
+   Schemmel, J
+   Meier, K
+AF Pfeil, Thomas
+   Scherzer, Anne-Christine
+   Schemmel, Johannes
+   Meier, Karlheinz
+GP IEEE
+TI Neuromorphic Learning towards Nano Second Precision
+ID SYNAPTIC PLASTICITY; SOUND LOCALIZATION; NEURONS
+TC 0
+Z9 0
+ER
+
+PT J
+AU Pfeil, T
+   Grubl, A
+   Jeltsch, S
+   Muller, E
+   Muller, P
+   Petrovici, MA
+   Schmuker, M
+   Bruderle, D
+   Schemmel, J
+   Meier, K
+AF Pfeil, Thomas
+   Gruebl, Andreas
+   Jeltsch, Sebastian
+   Mueller, Eric
+   Mueller, Paul
+   Petrovici, Mihai A.
+   Schmuker, Michael
+   Bruederle, Daniel
+   Schemmel, Johannes
+   Meier, Karlheinz
+TI Six networks on a universal neuromorphic computing substrate
+DE accelerated neuromorphic hardware system; universal computing substrate;
+   highly configurable; mixed-signal VLSI; spiking neural networks; soft
+   winner-take-all; classifier; cortical model
+ID NEOCORTICAL PYRAMIDAL NEURONS; TIMING DEPENDENT PLASTICITY;
+   WINNER-TAKE-ALL; SPIKING NEURONS; NEURAL-NETWORKS; SYNFIRE CHAINS;
+   RECONFIGURABLE SILICON; SYNAPTIC PLASTICITY; SYNCHRONOUS SPIKING; SIGNAL
+   PROPAGATION
+TC 52
+Z9 53
+ER
+
+PT J
+AU Gao, PR
+   Benjamin, BV
+   Boahen, K
+AF Gao, Peiran
+   Benjamin, Ben V.
+   Boahen, Kwabena
+TI Dynamical System Guided Mapping of Quantitative Neuronal Models Onto
+   Neuromorphic Hardware
+DE Dynamical systems; neural simulation; neuromorphic engineering;
+   quadratic integrate-and-fire model; silicon neuron
+ID SPIKING NEURONS; FIRE NEURON; NETWORKS; SILICON; CIRCUITS; VOLTAGE
+TC 19
+Z9 19
+ER
+
+PT J
+AU Neftci, EO
+   Toth, B
+   Indiveri, G
+   Abarbanel, HDI
+AF Neftci, Emre Ozgur
+   Toth, Bryan
+   Indiveri, Giacomo
+   Abarbanel, Henry D. I.
+TI Dynamic State and Parameter Estimation Applied to Neuromorphic Systems
+ID CORTICAL NETWORK MODEL; SPIKING NEURONS; PERSISTENT ACTIVITY; FIRE
+   NEURONS; NEURAL-NETWORKS; WORKING-MEMORY; ANALOG VLSI; SYNCHRONIZATION;
+   INHIBITION; SYNAPSES
+TC 6
+Z9 6
+ER
+
+PT J
+AU Dyball, H
+AF Dyball, H.
+TI a learning process
+TC 0
+Z9 0
+ER
+
+PT J
+AU Bamford, SA
+   Murray, AF
+   Willshaw, DJ
+AF Bamford, S. A.
+   Murray, A. F.
+   Willshaw, D. J.
+TI Silicon synapses self-correct for both mismatch and design
+   inhomogeneities
+ID PLASTICITY
+TC 2
+Z9 2
+ER
+
+PT S
+AU Strukov, DB
+AF Strukov, Dmitri B.
+GP IEEE
+TI 3D Hybrid CMOS/Memristor Circuits: Basic Principle and Prospective
+   Applications
+ID DEVICES
+TC 3
+Z9 3
+ER
+
+PT B
+AU Park, S
+   Kim, H
+   Choo, M
+   Noh, J
+   Sheri, A
+   Jung, S
+   Seo, K
+   Park, J
+   Kim, S
+   Lee, W
+   Shin, J
+   Lee, D
+   Choi, G
+   Woo, J
+   Cha, E
+   Jang, J
+   Park, C
+   Jeon, M
+   Lee, B
+   Lee, BH
+   Hwang, H
+AF Park, S.
+   Kim, H.
+   Choo, M.
+   Noh, J.
+   Sheri, A.
+   Jung, S.
+   Seo, K.
+   Park, J.
+   Kim, S.
+   Lee, W.
+   Shin, J.
+   Lee, D.
+   Choi, G.
+   Woo, J.
+   Cha, E.
+   Jang, J.
+   Park, C.
+   Jeon, M.
+   Lee, B.
+   Lee, B. H.
+   Hwang, H.
+GP IEEE
+TI RRAM-based Synapse for Neuromorphic System with Pattern Recognition
+   Function
+TC 0
+Z9 0
+ER
+
+PT S
+AU Corradi, F
+   Giulioni, M
+AF Corradi, Federico
+   Giulioni, Massimiliano
+GP IEEE
+TI Learning to recognize visual stimuli in neuromorphic VLSI
+TC 0
+Z9 0
+ER
+
+PT S
+AU Ramakrishnan, S
+   Wunderlich, R
+   Hasler, P
+AF Ramakrishnan, Shubha
+   Wunderlich, Richard
+   Hasler, Paul
+GP IEEE
+TI Neuron Array with Plastic Synapses and Programmable Dendrites
+TC 6
+Z9 6
+ER
+
+PT S
+AU Tapson, J
+   van Schaik, A
+AF Tapson, Jonathan
+   van Schaik, Andre
+GP IEEE
+TI An Asynchronous Parallel Neuromorphic ADC Architecture
+TC 4
+Z9 4
+ER
+
+PT S
+AU Joubert, A
+   Duranton, M
+   Belhadj, B
+   Temam, O
+   Heliot, R
+AF Joubert, Antoine
+   Duranton, Marc
+   Belhadj, Bilel
+   Temam, Olivier
+   Heliot, Rodolphe
+GP IEEE
+TI Capacitance of TSVs in 3-D Stacked Chips a Problem? Not for Neuromorphic
+   Systems!
+DE 3D architectures; Neuromorphic systems; analog circuits
+TC 3
+Z9 3
+ER
+
+PT S
+AU Sheik, S
+   Chicca, E
+   Indiveri, G
+AF Sheik, Sadique
+   Chicca, Elisabetta
+   Indiveri, Giacomo
+GP IEEE
+TI Exploiting Device Mismatch in Neuromorphic VLSI Systems to Implement
+   Axonal Delays
+ID ANALOG VLSI; DYNAMICS; SENSOR
+TC 0
+Z9 0
+ER
+
+PT J
+AU Scholze, S
+   Eisenreich, H
+   Hoppner, S
+   Ellguth, G
+   Henker, S
+   Ander, M
+   Hanzsche, S
+   Partzsch, J
+   Mayr, C
+   Schuffny, R
+AF Scholze, Stefan
+   Eisenreich, Holger
+   Hoeppner, Sebastian
+   Ellguth, Georg
+   Henker, Stephan
+   Ander, Mario
+   Haenzsche, Stefan
+   Partzsch, Johannes
+   Mayr, Christian
+   Schueffny, Rene
+TI A 32 GBit/s communication SoC for a waferscale neuromorphic system
+DE Gigaevent packet-based AER; Configuration over AER;
+   Low-voltage-differential-signaling; Serial data transmission;
+   Clock-to-data alignment
+ID NEURAL-NETWORKS; DYNAMICS; CIRCUIT; VLSI; DESIGN; LINKS; CHIP; PLL; AER
+TC 18
+Z9 18
+ER
+
+PT J
+AU Likharev, KK
+AF Likharev, Konstantin K.
+TI CrossNets: Neuromorphic Hybrid CMOS/Nanoelectronic Networks
+DE Nanoelectronics; Hybrid Circuits; Crossbar; Latching Switches;
+   Memristive Devices; Neuromorphic Circuits; Neural Networks; Plasticity;
+   Adaptation; Cognitive Tasks
+ID NANOIMPRINT TECHNOLOGY; PATTERN CLASSIFIERS; DIGITAL CIRCUITS;
+   NEURAL-NETWORKS; RECENT PROGRESS; ARCHITECTURES; CMOL; LITHOGRAPHY;
+   PERFORMANCE/PRICE; MEMORIES
+TC 64
+Z9 65
+ER
+
+PT S
+AU Ab Aziz, MF
+   Harun, FKC
+   Covington, JA
+   Gardner, JW
+AF Ab Aziz, Muhammad Fazli
+   Harun, Fauzan Khairi Che
+   Covington, James A.
+   Gardner, Julian W.
+BE Gouma, P
+TI Towards an Analogue Neuromorphic VLSI Instrument for the Sensing of
+   Complex Odours
+DE Neural network; Pattern recognition; Electronic nose
+TC 0
+Z9 0
+ER
+
+PT S
+AU Hamilton, TJ
+   Tapson, J
+AF Hamilton, Tara Julia
+   Tapson, Jonathan
+GP IEEE
+TI A Neuromorphic Cross-Correlation Chip
+ID RANGE
+TC 2
+Z9 2
+ER
+
+PT S
+AU Sheik, S
+   Stefanini, F
+   Neftci, E
+   Chicca, E
+   Indiveri, G
+AF Sheik, Sadique
+   Stefanini, Fabio
+   Neftci, Emre
+   Chicca, Elisabetta
+   Indiveri, Giacomo
+GP IEEE
+TI Systematic configuration and automatic tuning of neuromorphic systems
+ID VLSI
+TC 11
+Z9 11
+ER
+
+PT B
+AU Sharp, T
+   Patterson, C
+   Furber, S
+AF Sharp, Thomas
+   Patterson, Cameron
+   Furber, Steve
+GP IEEE
+TI Distributed Configuration of Massively-Parallel Simulation on SpiNNaker
+   Neuromorphic Hardware
+ID MODEL; SYSTEMS; CHIP
+TC 5
+Z9 5
+ER
+
+PT B
+AU Rivas-Perez, M
+   Linares-Barranco, A
+   Jimenez-Fernandez, A
+   Civit, A
+   Jimenez, G
+AF Rivas-Perez, Manuel
+   Linares-Barranco, A.
+   Jimenez-Fernandez, A.
+   Civit, A.
+   Jimenez, G.
+BE Barranco, AL
+   Tsihrintzis, G
+TI AER SPIKE-PROCESSING FILTER SIMULATOR Implementation of an AER Simulator
+   based on Cellular Automata
+DE Spiking neurons; Address-event-representation; Usb-aer; Vhdl; Fpga;
+   Image filtering; Neuro-inspired; Cellular automata
+ID VISION SYSTEMS; CHIP
+TC 0
+Z9 0
+ER
+
+PT S
+AU Giulioni, M
+   Del Giudice, P
+AF Giulioni, Massimiliano
+   Del Giudice, Paolo
+BE Apolloni, B
+   Bassis, S
+   Esposito, A
+   Morabito, CF
+TI A distributed VLSI attractor network learning visual stimuli in real
+   time and performing perceptual decisions
+DE Unsupervised Learning; Attractor Dynamics; Spiking Neurons; Neural
+   Networks; Neuromorphic VLSI; Decision Making
+ID WORKING-MEMORY; FIRE NEURONS; SYNAPSES; CIRCUITS
+TC 1
+Z9 1
+ER
+
+PT J
+AU Basu, A
+   Ramakrishnan, S
+   Petre, C
+   Koziol, S
+   Brink, S
+   Hasler, PE
+AF Basu, Arindam
+   Ramakrishnan, Shubha
+   Petre, Csaba
+   Koziol, Scott
+   Brink, Stephen
+   Hasler, Paul E.
+TI Neural Dynamics in Reconfigurable Silicon
+DE Bifurcations; central pattern generator; dendritic computation;
+   ion-channel dynamics; neuromorphic system; spiking neurons
+ID SPIKING NEURONS; PROCESSOR; SYNAPSES; VISION; ARRAY; CHIP; MEMORY
+TC 48
+Z9 48
+ER
+
+PT S
+AU Mill, R
+   Sheik, S
+   Indiveri, G
+   Denham, SL
+AF Mill, Robert
+   Sheik, Sadique
+   Indiveri, Giacomo
+   Denham, Susan L.
+GP IEEE
+TI A Model of Stimulus-Specific Adaptation in Neuromorphic aVLSI
+ID CORTICAL-NEURONS; PROBABILITY; VLSI; RAT
+TC 0
+Z9 0
+ER
+
+PT S
+AU Cameron, K
+   Clayton, T
+   Rae, B
+   Murray, A
+   Henderson, R
+   Charbon, E
+AF Cameron, Katherine
+   Clayton, Thomas
+   Rae, Bruce
+   Murray, Alan
+   Henderson, Robert
+   Charbon, Edoardo
+GP IEEE
+TI Poisson Distributed Noise Generation for Spiking Neural Applications
+ID PHOTON AVALANCHE-DIODE; PHOTODIODES
+TC 0
+Z9 0
+ER
+
+PT S
+AU Basu, A
+   Ramakrishnan, S
+   Hasler, P
+AF Basu, Arindam
+   Ramakrishnan, Shubha
+   Hasler, Paul
+GP IEEE
+TI Neural Dynamics in Reconfigurable Silicon
+TC 1
+Z9 1
+ER
+
+PT S
+AU Bruderle, D
+   Bill, J
+   Kaplan, B
+   Kremkow, J
+   Meier, K
+   Muller, E
+   Schemmel, J
+AF Bruederle, Daniel
+   Bill, Johannes
+   Kaplan, Bernhard
+   Kremkow, Jens
+   Meier, Karlheinz
+   Mueller, Eric
+   Schemmel, Johannes
+GP IEEE
+TI Live Demonstration: Simulator-Like Exploration of Cortical Network
+   Architectures with a Mixed-Signal VLSI System
+TC 0
+Z9 0
+ER
+
+PT S
+AU Jin, X
+   Rast, A
+   Galluppi, F
+   Davies, S
+   Furber, S
+AF Jin, Xin
+   Rast, Alexander
+   Galluppi, Francesco
+   Davies, Sergio
+   Furber, Steve
+GP IEEE
+TI Implementing Spike-Timing-Dependent Plasticity on SpiNNaker Neuromorphic
+   Hardware
+ID NEURONS
+TC 0
+Z9 0
+ER
+
+PT S
+AU Rivas-Perez, M
+   Linares-Barranco, A
+   Cerda, J
+   Ferrando, N
+   Jimenez, G
+   Civit, A
+AF Rivas-Perez, M.
+   Linares-Barranco, A.
+   Cerda, J.
+   Ferrando, N.
+   Jimenez, G.
+   Civit, A.
+GP IEEE
+TI Visual Spike-based Convolution Processing with a Cellular Automata
+   Architecture
+TC 0
+Z9 0
+ER
+
+PT B
+AU Sargeni, F
+   Bonaiuto, V
+AF Sargeni, Fausto
+   Bonaiuto, Vincenzo
+GP IEEE
+TI Multi-chip Integrate and Fire Neural Network Architecture
+ID RECURRENT NETWORK; PLASTIC SYNAPSES; NEURONS; CHIP; CNN
+TC 0
+Z9 0
+ER
+
+PT S
+AU Fu, ZH
+   Mao, R
+   Cartwright, AN
+   Titus, AH
+AF Fu, ZhenHong
+   Mao, Rui
+   Cartwright, Alexander N.
+   Titus, Albert H.
+BE Cartwright, AN
+   Nicolau, DV
+TI Neuromorphic optical sensor chip with color change-intensity change
+   disambiguation
+DE CMOS photodetectors; neuromorphic vision; color detection; retina chip
+ID NERVE SIGNALS; VISION; RETINA; SYSTEM
+TC 0
+Z9 0
+ER
+
+PT B
+AU Chang, CF
+   Chen, YC
+   Chen, H
+AF Chang, Chia-Fu
+   Chen, Yung-Chan
+   Chen, Hsin
+BE Rohani, FZ
+   Ahmad, SA
+   Soh, AC
+   Jaafar, H
+   Zaini, MHM
+   Sidek, MHM
+   Shaufiq, M
+TI A Neuromorphic Microsystem on Glass for Monitoring Fly Behaviours
+   Automatically
+TC 0
+Z9 0
+ER
+
+PT J
+AU Belbachir, AN
+   Hofstatter, M
+   Litzenberger, M
+   Schon, P
+AF Belbachir, A. N.
+   Hofstaetter, M.
+   Litzenberger, M.
+   Schoen, P.
+TI High-precision shape representation using a neuromorphic vision sensor
+   with synchronous address-event communication interface
+DE arbiter; asynchronous event-based vision; communication interface;
+   address-event representation; neuromorphic temporal contrast vision
+   sensor
+TC 0
+Z9 0
+ER
+
+PT J
+AU Koickal, TJ
+   Gouveia, LC
+   Hamilton, A
+AF Koickal, Thomas Jacob
+   Gouveia, Luiz C.
+   Hamilton, Alister
+TI A programmable spike-timing based circuit block for reconfigurable
+   neuromorphic computing
+DE Spiking neurons; Spike-timing-dependent plasticity; Reconfigurable
+   neuromorphic arrays; On-chip learning
+ID DEPENDENT SYNAPTIC PLASTICITY; NEURONS; COINCIDENCE; SYNAPSES; NETWORKS;
+   EFFICACY
+TC 8
+Z9 8
+ER
+
+PT J
+AU Fu, ZH
+   Titus, AH
+AF Fu, ZhenHong
+   Titus, Albert H.
+TI CMOS Neuromorphic Optical Sensor Chip With Color Change-Intensity Change
+   Disambiguation (CCICD)
+DE Buried double junction photodiodes; CMOS color detection; CMOS
+   photodetectors; parallel vision pathways
+ID PRIMATE CONE PATHWAYS; NERVE SIGNALS; BDJ DETECTOR; VISION; RETINA;
+   SYSTEMS; MODEL
+TC 9
+Z9 9
+ER
+
+PT S
+AU Sargeni, F
+   Bonaiuto, V
+AF Sargeni, Fausto
+   Bonaiuto, Vincenzo
+GP IEEE
+TI An Interconnection Architecture for Integrate and Fire Neuromorphic
+   Multi-Chip Networks
+TC 2
+Z9 2
+ER
+
+PT B
+AU Jimenez-Fernandez, A
+   Berner, R
+   Linares-Barranco, A
+   Paz-Vicente, R
+   Jimenez-Moreno, G
+AF Jimenez-Fernandez, A.
+   Berner, R.
+   Linares-Barranco, A.
+   Paz-Vicente, R.
+   Jimenez-Moreno, G.
+GP IEEE
+TI Spike-based control monitoring and analysis with Address Event
+   Representation
+ID AER; INTERFACE; HARDWARE; SENSOR
+TC 0
+Z9 0
+ER
+
+PT S
+AU Orchard, G
+   Bartolozzi, C
+   Indiveri, G
+AF Orchard, Garrick
+   Bartolozzi, Chiara
+   Indiveri, Giacomo
+GP IEEE
+TI Applying neuromorphic vision sensors to planetary landing tasks
+ID ATTENTION
+TC 0
+Z9 0
+ER
+
+PT B
+AU Liu, JH
+   Wang, CY
+   An, YY
+AF Liu, Ji-Hong
+   Wang, Cheng-Yuan
+   An, Ying-Ying
+BE Luo, Q
+   Zhou, QH
+TI A Survey of Neuromorphic Vision System-Biological Nervous Systems
+   Realized on Silicon
+DE Neuromorphic engineering; vision chip; vision sensor; address event
+   representation (AER)
+ID SENSORS; PIXELS; CHIPS; MODEL
+TC 1
+Z9 1
+ER
+
+PT B
+AU Liu, JH
+   Wang, CY
+AF Liu, Jihong
+   Wang, Chengyuan
+BE Long, B
+   Li, W
+TI A Survey of Neuromorphic Engineering -Biological Nervous Systems
+   Realized on Silicon
+DE neuromorphic; address event representation (AER); neural chips;
+   neuromorphic design
+ID CHIPS
+TC 0
+Z9 0
+ER
+
+PT J
+AU Kong, JS
+   Hyun, HY
+   Seo, SH
+   Shin, JK
+AF Kong, Jae-Sung
+   Hyun, Hyo-Young
+   Seo, Sang-Ho
+   Shin, Jang-Kyoo
+TI The Effect of Body Bias of the Metal-Oxide-Semiconductor Field-Effect
+   Transistor in the Resistive Network on Spatial Current Distribution in a
+   Bio-Inspired Complementary Metal-Oxide-Semiconductor Vision Chip
+DE vision chip; edge detection; body effect; resistive network
+ID EDGE-DETECTION; RETINA; CIRCUIT
+TC 1
+Z9 1
+ER
+
+PT J
+AU Vogelstein, RJ
+   Tenore, FVG
+   Guevremont, L
+   Etienne-Cummings, R
+   Mushahwar, VK
+AF Vogelstein, R. Jacob
+   Tenore, Francesco V. G.
+   Guevremont, Lisa
+   Etienne-Cummings, Ralph
+   Mushahwar, Vivian K.
+TI A Silicon Central Pattern Generator Controls Locomotion in Vivo
+DE Central pattern generator (CPG); neuromorphic; neuroprosthesis; silicon;
+   VLSI
+TC 36
+Z9 38
+ER
+
+PT J
+AU Indiveri, G
+AF Indiveri, Giacomo
+TI Neuromorphic VLSI models of selective attention: From single chip vision
+   sensors to multi-chip systems
+DE selective attention; winner-take-all (WTA); neuromorphic; Address-Event
+   Representation (AER); integrate and fire (I&F) neuron
+ID VISUAL-ATTENTION; SILICON RETINA; EYE-MOVEMENTS; CIRCUITS; TRACKING;
+   RECOGNITION; PERCEPTION; DEVICE
+TC 18
+Z9 18
+ER
+
+PT J
+AU Rachmuth, G
+   Poon, CS
+AF Rachmuth, Guy
+   Poon, Chi-Sang
+TI Transistor analogs of emergent iono-neuronal dynamics
+ID SILICON NEURON; FEEDFORWARD INHIBITION; NEUROMORPHIC CHIPS; VLSI;
+   CHANNELS; MODELS; OSCILLATIONS; CONDUCTANCES; SYNAPSES; NETWORKS
+TC 19
+Z9 21
+ER
+
+PT S
+AU Belbachir, AN
+   Hofstatter, M
+   Bjetak, R
+   Schon, P
+AF Belbachir, A. N.
+   Hofstaetter, M.
+   Bjetak, R.
+   Schoen, P.
+GP IEEE
+TI High-Precision Representation of High-Speed Scene Dynamics with a
+   Neuromorphic Imaging System
+TC 0
+Z9 0
+ER
+
+PT S
+AU Kong, JS
+   Sung, DK
+   Hyun, HY
+   Shin, JK
+AF Kong, Jae-Sung
+   Sung, Dong-Kyu
+   Hyun, Hyo-Young
+   Shin, Jang-Kyoo
+BE Ishikawa, M
+   Doya, K
+   Miyamoto, H
+   Yamakawa, T
+TI A 160x120 edge detection vision chip for neuromorphic systems using
+   logarithmic active pixel sensor with low power dissipation
+ID ARTIFICIAL RETINA CHIP; CMOS IMAGE SENSOR; RESISTIVE NETWORK
+TC 0
+Z9 0
+ER
+
+PT S
+AU Camunas-Mesa, L
+   Acosta-Jimenez, A
+   Serrano-Gotarredona, T
+   Linares-Barranco, B
+AF Camunas-Mesa, Luis
+   Acosta-Jimenez, Antonio
+   Serrano-Gotarredona, Teresa
+   Linares-Barranco, Bernabe
+GP IEEE
+TI Fully digital AER convolution chip for vision processing
+ID SYSTEMS
+TC 7
+Z9 7
+ER
+
+PT S
+AU Folowosele, F
+   Tenore, F
+   Russell, A
+   Orchard, G
+   Vismer, M
+   Tapson, J
+   Etienne-Cummings, R
+AF Folowosele, Fopefolu
+   Tenore, Francesco
+   Russell, Alexander
+   Orchard, Garrick
+   Vismer, Mark
+   Tapson, Jonathan
+   Etienne-Cummings, Ralph
+GP IEEE
+TI Implementing a neuromorphic cross-correlation engine with silicon
+   neurons
+TC 4
+Z9 4
+ER
+
+PT J
+AU Chan, V
+   Jin, C
+   van Schaik, A
+AF Chan, Vincent
+   Jin, Craig
+   van Schaik, Andre
+TI An Address-Event Vision Sensor for Multiple Transient Object Detection
+DE Multiple-target tracking; neuromorphic engineering; transient object
+   detection; vision sensor; winner-takes-all (WTA)
+TC 7
+Z9 7
+ER
+
+PT J
+AU Nakada, K
+   Asai, T
+   Hirose, T
+   Hayashi, H
+   Amemiya, Y
+AF Nakada, Kazuki
+   Asai, Tetsuya
+   Hirose, Tetsuya
+   Hayashi, Hatsuo
+   Amemiya, Yoshihito
+TI A subthreshold CMOS circuit for a piecewise linear neuromorphic
+   oscillator with current-mode low-pass filters
+DE analog subthreshold CMOS circuit; current-mode implementation;
+   neuromorphic oscillator; locomotion control; feedback loop
+ID CENTRAL PATTERN GENERATOR; BIPEDAL LOCOMOTION; SYSTEM
+TC 4
+Z9 4
+ER
+
+PT J
+AU Lin, LJ
+   Wu, CY
+   Roska, B
+   Werblin, F
+   Balya, D
+   Roska, T
+AF Lin, Li-Ju
+   Wu, Chung-Yu
+   Roska, Botond
+   Werblin, Frank
+   Balya, David
+   Roska, Tamas
+TI A neuromorphic chip that imitates the ON brisk transient ganglion cell
+   set in the retinas of rabbits
+DE neuromorphic sensor; retina; retinal processing circuits; smart vision
+   sensor
+ID OPTIC-NERVE SIGNALS; SILICON RETINA; MAMMALIAN RETINA; PARALLEL;
+   SYSTEMS; NETWORK; SENSOR; MODEL
+TC 5
+Z9 5
+ER
+
+PT J
+AU Georgiou, J
+   Andreou, AG
+AF Georgiou, J.
+   Andreou, A. G.
+TI Address-data event representation for communication in multichip
+   neuromorphic system architectures
+TC 2
+Z9 2
+ER
+
+PT J
+AU Chicca, E
+   Whatley, AM
+   Lichtsteiner, P
+   Dante, V
+   Delbruck, T
+   Del Giudice, P
+   Douglas, RJ
+   Indiveri, G
+AF Chicca, Elisabetta
+   Whatley, Adrian M.
+   Lichtsteiner, Patrick
+   Dante, Vittorio
+   Delbruck, Tobias
+   Del Giudice, Paolo
+   Douglas, Rodney J.
+   Indiveri, Giacomo
+TI A multichip pulse-based neuromorphic infrastructure and its application
+   to a model of orientation selectivity
+DE address event representation (AER); asynchronous;
+   cooperative-competitive; neural chips; neural networks; neuromorphic;
+   orientation tuning; peripheral component interconnect (PCI)-AER; VLSI;
+   winner take all (WTA)
+ID VISUAL-CORTEX; FIRE NEURONS; SPIKING SYSTEMS; SYNAPSES; SENSOR;
+   CONNECTIVITY; ARCHITECTURE; MECHANISMS; NETWORK; CELLS
+TC 75
+Z9 76
+ER
+
+PT J
+AU Hafliger, P
+AF Hafliger, Philipp
+TI Adaptive WTA with an analog VLSI neuromorphic learning chip
+DE classification; competitive Hebbian learning; neuromorphic electronics;
+   winner-take-all (WTA)
+ID TIMING DEPENDENT PLASTICITY; SYNAPTIC PLASTICITY; SPIKING NEURONS; STDP;
+   INTEGRATION; MODEL; PATH
+TC 35
+Z9 35
+ER
+
+PT J
+AU Merolla, PA
+   Arthur, JV
+   Shi, BE
+   Boahen, KA
+AF Merolla, Paul A.
+   Arthur, John V.
+   Shi, Bertram E.
+   Boahen, Kwabena A.
+TI Expandable networks for neuromorphic chips
+DE address-event representation (AER); asynchronous communication; cortical
+   circuits; mixed analog-digital integrated circuits; multichip systems;
+   neural chips; neuromorphic engineering
+ID ADDRESS; DESIGN
+TC 60
+Z9 60
+ER
+
+PT S
+AU Koickal, TJ
+   Gouveia, LCP
+   Hamilton, A
+AF Koickal, Thomas Jacob
+   Gouveia, Luiz C. P.
+   Hamilton, Alister
+BE Sandoval, F
+   Prieto, A
+   Cabestany, J
+   Grana, M
+TI Programmable time event coded circuit block for reconfigurable
+   neuromorphic computing
+TC 3
+Z9 3
+ER
+
+PT S
+AU Zhang, Y
+   Hamilton, A
+   Cheung, R
+   Webb, B
+   Argyrakis, P
+   Gonos, T
+AF Zhang, Y.
+   Hamilton, A.
+   Cheung, R.
+   Webb, B.
+   Argyrakis, P.
+   Gonos, T.
+BE Sandoval, F
+   Prieto, A
+   Cabestany, J
+   Grana, M
+TI Integration of wind sensors and analogue VLSI for an insect-inspired
+   robot
+ID CRICKET; SYSTEM
+TC 2
+Z9 2
+ER
+
+PT B
+AU Wu, CYP
+AF Wu, Chung-Yu (Peter)
+GP IEEE
+TI The implementation of retinal functions on CMOS ICs and their
+   applications
+TC 0
+Z9 0
+ER
+
+PT J
+AU Koickal, TJ
+   Hamilton, A
+   Tan, SL
+   Covington, JA
+   Gardner, JW
+   Pearce, TC
+AF Koickal, Thomas Jacob
+   Hamilton, Alister
+   Tan, Su Lim
+   Covington, James A.
+   Gardner, Julian W.
+   Pearce, Tim C.
+TI Analog VLSI circuit implementation. of an adaptive neuromorphic
+   olfaction chip
+DE analog VLSI; electronic nose; machine olfaction; neuromorphic circuits;
+   on-chip learning; spike-timing-dependent plasticity (STDP)
+ID DEPENDENT SYNAPTIC PLASTICITY; SENSOR ARRAY; SYNAPSES; NEURONS; SILICON;
+   DEPRESSION; BULB
+TC 72
+Z9 72
+ER
+
+PT J
+AU Shi, RZ
+   Horiuchi, TK
+AF Shi, Rock Z.
+   Horiuchi, Timothy K.
+TI A neuromorphic VLSI model of bat interaural level difference processing
+   for azimuthal echolocation
+DE address-event representation (AER); auditory system; interaural level
+   difference (ILD); neuromorphic VLSI; spiking neurons
+ID LATERAL SUPERIOR OLIVE; INFERIOR COLLICULUS; SOUND-LOCALIZATION; DORSAL
+   NUCLEUS; MOUSTACHE BAT; INTENSITY DIFFERENCES; BINAURAL PROPERTIES;
+   EPTESICUS-FUSCUS; AUDITORY-SYSTEM; SINGLE UNITS
+TC 28
+Z9 28
+ER
+
+PT B
+AU Koickal, TJ
+   Hamilton, A
+AF Koickal, Thomas Jacob
+   Hamilton, Alister
+BE Arslan, T
+   Stoica, A
+   Suess, M
+   Keymeulen, D
+   Higuchi, T
+   Magness, R
+   Aydin, N
+   Erdogan, AT
+TI An on-chip adaptive spike timing based offset cancellation scheme for
+   neuromorphic sensing
+ID DEPENDENT SYNAPTIC PLASTICITY
+TC 1
+Z9 1
+ER
+
+PT J
+AU Serrano-Gotarredona, R
+   Serrano-Gotarredona, T
+   Acosta-Jimenez, A
+   Linares-Barranco, B
+AF Serrano-Gotarredona, Rafael
+   Serrano-Gotarredona, Teresa
+   Acosta-Jimenez, Antonio
+   Linares-Barranco, Bernabe
+TI A neuromorphic cortical-layer microchip for spike-based event processing
+   vision systems
+DE 2-D convolutions; address-event representation (AER); bio-inspired
+   systems; digitally calibrated analog circuits; high-speed signal
+   processing; MOS transistor mismatch; spike-based processing;
+   subthreshold circuits; vision; VLSI mixed-circuit design
+ID VISUAL-PATTERN RECOGNITION; FEATURE-EXTRACTION; NEURAL-NETWORKS; DESIGN;
+   CHIP; AER; REPRESENTATION; COMMUNICATION; NEOCOGNITRON; MOTION
+TC 64
+Z9 65
+ER
+
+PT J
+AU Cosp, J
+   Madrenas, J
+   Fernandez, D
+AF Cosp, Jordi
+   Madrenas, Jordi
+   Fernandez, Daniel
+TI Design and basic blocks of a neuromorphic VLSI analogue vision system
+DE neuromorphic engineering; VLSI; electronic oscillators; vision chip
+ID IMAGE SEGMENTATION; VISUAL-CORTEX; SYNCHRONIZATION; IMPLEMENTATION; CAT
+TC 7
+Z9 8
+ER
+
+PT J
+AU Bartolozzi, C
+   Indiveri, G
+AF Bartolozzi, Chiara
+   Indiveri, Giacomo
+TI Selective attention implemented with dynamic synapses and
+   integrate-and-fire neurons
+DE aVLSI; neuromorphic; attention
+ID VISUAL-ATTENTION; SYNAPTIC DEPRESSION; VLSI DEVICE; SILICON; SYSTEM
+TC 12
+Z9 12
+ER
+
+PT J
+AU Still, S
+   Hepp, K
+   Douglas, RJ
+AF Still, S
+   Hepp, K
+   Douglas, RJ
+TI Neuromorphic walking gait control
+DE autonomous walking robot; central pattern generators; four-legged
+   walking gaits; neuromorphic engineering; walking gait control
+ID CENTRAL PATTERN GENERATOR; LOCOMOTION; NETWORK; SUPPORT
+TC 26
+Z9 28
+ER
+
+PT S
+AU Chicca, E
+   Lichtsteiner, P
+   Delbruck, T
+   Indiveri, G
+   Douglas, RJ
+AF Chicca, Elisabetta
+   Lichtsteiner, Patrick
+   Delbruck, Tobias
+   Indiveri, Giacomo
+   Douglas, Rodney J.
+GP IEEE
+TI Modeling orientation selectivity using a neuromorphic multi-chip system
+ID CORTEX
+TC 4
+Z9 4
+ER
+
+PT S
+AU Koickal, TJ
+   Hamilton, A
+   Pearce, TC
+   Tan, SL
+   Covington, JA
+   Gardner, JW
+AF Koickal, Thomas J.
+   Hamilton, Alister
+   Pearce, Tim C.
+   Tan, Su L.
+   Covington, James A.
+   Gardner, Julian W.
+GP IEEE
+TI Analog VLSI design of an adaptive neuromorphic chip for olfactory
+   systems
+TC 2
+Z9 2
+ER
+
+PT B
+AU Konno, A
+   Uchikura, R
+   Ishihara, T
+   Tsujita, T
+   Sugimura, T
+   Deguchi, J
+   Koyanagi, M
+   Uchiyama, M
+AF Konno, Atsushi
+   Uchikura, Ryo
+   Ishihara, Toshiyuki
+   Tsujita, Teppei
+   Sugimura, Takeaki
+   Deguchi, Jun
+   Koyanagi, Mitsumasa
+   Uchiyama, Masaru
+GP IEEE
+TI Development of a high speed vision system for mobile robots
+ID CHIP
+TC 1
+Z9 1
+ER
+
+PT B
+AU Kurino, H
+   Nakagawa, Y
+   Nakamura, T
+   Yamada, Y
+   Lee, KW
+   Tanaka, T
+   Koyanagi, M
+AF Kurino, Hiroyuki
+   Nakagawa, Yoshihiro
+   Nakamura, Tomonori
+   Yamada, Yusuke
+   Lee, Kang-Wook
+   Tanaka, Tetsu
+   Koyanagi, Mitsumasa
+BE Esashi, M
+   Ishi, K
+   Ohuchi, N
+   Osumi, N
+   Sato, M
+   Yamaguchi, T
+TI Biologically inspired vision chip fabricated using 3-dimensional
+   integration technology
+DE biologically inspired system; neuromorphic system; three-dimensional
+   LSI; vision chip
+TC 0
+Z9 0
+ER
+
+PT B
+AU Liang, J
+   Nakagawa, Y
+   Deguchi, J
+   Shim, JC
+   Fukushima, T
+   Kurino, H
+   Tanaka, T
+   Koyanagi, M
+AF Liang, Jun
+   Nakagawa, Yoshihiro
+   Deguchi, Jun
+   Shim, Jeoung-Chill
+   Fukushima, Takafumi
+   Kurino, Hiroyuki
+   Tanaka, Tetsu
+   Koyanagi, Mitsumasa
+BE Esashi, M
+   Ishi, K
+   Ohuchi, N
+   Osumi, N
+   Sato, M
+   Yamaguchi, T
+TI Neuromorphic analog circuits for three-dimensionally stacked vision chip
+DE neuromorphic system; three-dimensional LSI; vision chip
+ID INTEGRATION; TECHNOLOGY
+TC 0
+Z9 0
+ER
+
+PT S
+AU Lin, J
+   Merolla, P
+   Arthur, J
+   Boahen, K
+AF Lin, Joseph
+   Merolla, Paul
+   Arthur, John
+   Boahen, Kwabena
+BE Acevedo, GOD
+   Garcia, RP
+   Cedeno, MJ
+TI Programmable connections in neuromorphic grids
+TC 19
+Z9 19
+ER
+
+PT J
+AU Kameda, S
+   Yagi, T
+AF Kameda, S
+   Yagi, T
+TI (A)nalog silicon retina with multichip configuration
+DE analog VLSI; multichip; neuromorphic sensor; real time image processing;
+   robot vision; silicon retina
+ID EARLY VISION; CHIP; RECOGNITION; SYSTEMS; ARCHITECTURE; ENHANCEMENT;
+   NEURONS
+TC 10
+Z9 11
+ER
+
+PT J
+AU Momeni, M
+   Titus, AH
+AF Momeni, M
+   Titus, AH
+TI An analog VLSI chip emulating polarization vision of Octopus retina
+DE analog VLSI; birefringent micropolarizer; neuromorphic CMOS; Octopus
+   retina; polarization vision
+ID VISUAL SYSTEM; LIGHT; DISCRIMINATION
+TC 48
+Z9 48
+ER
+
+PT J
+AU Choi, TYW
+   Merolla, PA
+   Arthur, JV
+   Boahen, KA
+   Shi, BE
+AF Choi, TYW
+   Merolla, PA
+   Arthur, JV
+   Boahen, KA
+   Shi, BE
+TI Neuromorphic implementation of orientation hypercolumns
+DE address-event representation (AER); Gabor filter; image processing;
+   mixed analog-digital integrated circuits; neural chips; neuromorphic
+   engineering; visual cortex
+ID OPTIC-NERVE SIGNALS; CAT STRIATE CORTEX; VISUAL-CORTEX; FOCAL-PLANE;
+   RECEPTIVE-FIELDS; SIMPLE CELLS; NEURONS; MODEL; CHIP; SELECTIVITY
+TC 87
+Z9 87
+ER
+
+PT S
+AU Reichel, L
+   Liechti, D
+   Presser, K
+   Liu, SC
+AF Reichel, L
+   Liechti, D
+   Presser, K
+   Liu, SC
+GP IEEE
+TI Robot guidance with neuromorphic motion sensors
+DE neuromorphic motion sensors; low-power motion chips; aVLSI vision
+   sensors; neural controller
+ID FLY
+TC 1
+Z9 1
+ER
+
+PT S
+AU Nakada, K
+   Asai, T
+   Hirose, T
+   Amemiya, Y
+AF Nakada, K
+   Asai, T
+   Hirose, T
+   Amemiya, Y
+GP IEEE
+TI Analog CMOS implementation of a neuromorphic oscillator with
+   current-mode low-pass filters
+TC 2
+Z9 2
+ER
+
+PT J
+AU Ozalevli, E
+   Higgins, CM
+AF Ozalevli, E
+   Higgins, CM
+TI Reconfigurable biologically inspired visual motion systems using modular
+   neuromorphic VLSI chips
+DE Address-Event representation (AER); analog very large-scale integration
+   (VLSI); biomimetic; modular; neuro-morphic; visual motion
+ID SILICON RETINA; SENSOR
+TC 28
+Z9 28
+ER
+
+PT J
+AU Carota, L
+   Indiveri, G
+   Dante, V
+AF Carota, L
+   Indiveri, G
+   Dante, V
+TI A software-hardware selective attention system
+DE selective attention; VLSI; winner-take-all; neuromorphic; address-event
+   representation
+ID VISUAL-ATTENTION; VLSI DEVICE
+TC 13
+Z9 13
+ER
+
+PT J
+AU Chiang, CT
+   Wu, CY
+AF Chiang, CT
+   Wu, CY
+TI Implantable neuromorphic vision chips
+TC 4
+Z9 4
+ER
+
+PT S
+AU Tsang, EKC
+   Shi, BE
+AF Tsang, EKC
+   Shi, BE
+BE Thrun, S
+   Saul, K
+   Scholkopf, B
+TI A neuromorphic multi-chip model of a disparity selective complex cell
+ID BINOCULAR DISPARITY; NEURAL MECHANISMS; VISUAL-CORTEX; DEPTH
+   DISCRIMINATION; RESPONSES; NEURONS; POSITION; PHASE
+TC 1
+Z9 1
+ER
+
+PT B
+AU Carota, L
+   Indiveri, G
+   Dante, V
+AF Carota, L
+   Indiveri, G
+   Dante, V
+BE DeSchutter, E
+TI A software-hardware selective attention system
+DE selective attention; VLSI; winner-take-all; neuromorphic; address-event
+   representation
+ID VISUAL-ATTENTION; VLSI DEVICE
+TC 0
+Z9 0
+ER
+
+PT S
+AU Kameda, S
+   Yagi, T
+AF Kameda, S
+   Yagi, T
+GP IEEE
+   IEEE
+TI An analog silicon retina with multi-chip configuration
+ID BIPOLAR CELLS; HORIZONTAL CELL; RECEPTIVE-FIELD; ORGANIZATION;
+   ARCHITECTURE; VISION; OUTPUT
+TC 0
+Z9 0
+ER
+
+PT J
+AU Elliott, T
+   Kramer, J
+AF Elliott, T
+   Kramer, J
+TI Coupling an aVLSI neuromorphic vision chip to a neurotrophic model of
+   synaptic plasticity: The development of topography
+ID OCULAR DOMINANCE; COMPETITION; GOLDFISH
+TC 5
+Z9 5
+ER
+
+PT J
+AU Indiveri, G
+AF Indiveri, G
+TI A neuromorphic VLSI device for implementing 2-D selective attention
+   systems
+DE active vision; analog very large scale integration (VLSI); neuromorphic;
+   selective attention; winner-take-all
+ID VISUAL-ATTENTION; TRACKING; SENSOR; MODEL
+TC 35
+Z9 35
+ER
+
+PT J
+AU Indiveri, G
+   Murer, R
+   Kramer, J
+AF Indiveri, G
+   Murer, R
+   Kramer, J
+TI Active vision using an analog VLSI model of selective attention
+DE address-event representation; neuromorphic; selective attention;
+   winner-take-all
+ID VISUAL-ATTENTION; SYSTEM
+TC 21
+Z9 22
+ER
+
+PT J
+AU Indiveri, G
+AF Indiveri, G
+TI Modeling selective attention using a neuromorphic analog VLSI device
+ID TAKE-ALL CIRCUIT; VISUAL-ATTENTION; EYE-MOVEMENTS; TRACKING; FEEDBACK;
+   CORTEX; MECHANISMS; PERCEPTION; NETWORKS; SENSOR
+TC 51
+Z9 53
+ER
+
+PT J
+AU Higgins, CM
+   Koch, C
+AF Higgins, CM
+   Koch, C
+TI A modular multi-chip neuromorphic architecture for real-time visual
+   motion processing
+DE analog VLSI; vision chips; optical flow; stereo; neuromorphic
+ID SENSORS
+TC 28
+Z9 28
+ER
+
+PT J
+AU Indiveri, GC
+AF Indiveri, GC
+TI Neuromorphic analog VLSI sensor for visual tracking: Circuits and
+   application examples
+ID TAKE-ALL CIRCUIT; FEEDBACK
+TC 50
+Z9 51
+ER
+
+EF

@@ -1,0 +1,184 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE IoT; Botnet; Multivariate Hawkes Process
+ID INTERNET; FRAMEWORK; BOTNETS; THINGS
+ER
+
+PT J
+DE Cloud computing; Internet of things; Network function virtualization;
+   Lightweight PKI; Authentication; DDoS; Artificial intelligence
+ER
+
+PT J
+DE Denial of Service (DoS) attacks; packet level authentication; traffic
+   identification; digital signatures; designated verifier signatures
+ID OF-SERVICE ATTACKS; BLOOM-FILTER; INTERNET; THINGS; PROTOCOLS; SECURITY;
+   BOTNETS; DDOS
+ER
+
+PT J
+ER
+
+PT J
+ID INTRUSION DETECTION; INTERNET; THINGS; HYBRID
+ER
+
+PT J
+DE botnets; load spikes; primary reserve
+ER
+
+PT B
+DE Internet of Things (IoT); Information Security; Technology; Distributed
+   Denial of Service (DDoS); Botnets; Flooding Attacks; Software Defined
+   Networking (SDN); Virtualisation; Network Functions Virtualisation (NFV)
+ER
+
+PT B
+DE Cryptocurrency; Mining; Botnets; Malware; Internet of Things;
+   Cybercriminals; Malware Detection System; Malware Prevention System;
+   Mining Prevention System
+ER
+
+PT B
+DE machine learning; botnet detection; network security
+ER
+
+PT S
+DE Smart home IoT; Network Access Control; Software-Defined Networking
+ID INTERNET
+ER
+
+PT B
+DE IoT; botnet detection; Internet of Things; cybersecurity
+ER
+
+PT B
+DE IoT devices; botnet; game theory
+ER
+
+PT S
+DE IoT; malicious code detection; running status; security
+ID CHALLENGES; SECURITY; BOTNETS
+ER
+
+PT S
+DE Internet-of-Things; Botnet; DDoS; ID Spoofing; 6LoWPAN
+ID HOME NETWORKING; SECURITY; INTERNET; THINGS; BOTNETS
+ER
+
+PT S
+DE Internet of Things (IoT); Mitigation; Distribution denial of service
+   (DDoS) attack; Botnets
+ER
+
+PT S
+DE Botnets; Attack investigation; Machine learning; Internet of Thing (IoT)
+ID TAXONOMY
+ER
+
+PT S
+DE Internet of Things; security; vulnerability; Wire-Shark; nmap
+ER
+
+PT J
+DE Online criminality; behaviour systems in crime; social media fraud;
+   botnets
+ID SOCIAL MEDIA; PATTERNS
+ER
+
+PT J
+ID OF-SERVICE ATTACKS; DEFENSE-MECHANISMS; CHALLENGES; SECURITY; INTERNET;
+   BOTNETS; ISSUES; THINGS
+ER
+
+PT J
+DE MQTT; command and control; C2; Internet of Things; security
+ID BOTNETS
+ER
+
+PT J
+DE Botnet; embedded systems; Internet of Things (IoT); malware; network
+   security
+ER
+
+PT J
+ER
+
+PT J
+DE cybersecurity; Internet of Things; IoT; smart devices; vulnerability;
+   security engineering; consumers; manufacturers; legislation; Hypponen's
+   law
+ER
+
+PT J
+ER
+
+PT J
+DE NBA; Cybertrust; security; botnets; distributed denial of service; DDoS;
+   Internet of Things; IoT; Mirai; network behavior analysis
+ER
+
+PT B
+ID INTERNET
+ER
+
+PT S
+DE Mirai; Hajime; DDoS; IoT; Botnet; Network Security
+ER
+
+PT B
+DE Blockchain; IoT; Software updates; Availability; Accountability;
+   Innocuousness
+ER
+
+PT B
+ID CYBER SECURITY
+ER
+
+PT S
+ID DEFENSE-MECHANISMS; SERVICE ATTACKS
+ER
+
+PT B
+ID NETWORKS
+ER
+
+PT B
+DE Network Security; Cyber Security; Honeypot; Threat Intelligence; Botnet;
+   Big Data; Attack Visualization
+ER
+
+PT B
+DE Botnet Detection; Clustering; Machine Learning
+ER
+
+PT S
+DE Intrusion Detection; Pattern Matching; Evaluation; Cyber Attacks;
+   Malware; Botnets; Python
+ER
+
+PT J
+DE Computer security; Android security; Sat Nav; Malware; Trojan; Botnet;
+   Mobile agents; Targeted attacks; Industrial espionage; Clustering
+ID ALGORITHM
+ER
+
+PT S
+DE botnet detection; cloud service provider; virtualised infrastructure;
+   netflow
+ER
+
+PT B
+DE Botnet; Bot-master; DDoS attacks; DDNS; FFSN; DNS; C&C server; IRC based
+   bots; Honeypots; Firewalls; IDS
+ER
+
+PT J
+DE Botnets; evolution; defense
+ER
+
+PT J
+ER
+
+EF

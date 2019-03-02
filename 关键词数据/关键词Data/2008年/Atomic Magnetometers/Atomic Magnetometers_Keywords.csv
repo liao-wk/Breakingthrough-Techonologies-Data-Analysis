@@ -1,0 +1,286 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,atomic magnetometer,32,atomic magnetometer,81
+1,magnetometer,8,magnetometer,21
+2,coherent population trapping,7,optical pumping,16
+3,optical pumping,6,coherent population trapping,15
+4,atomic magnetometers,5,mri,14
+5,sensitivity,4,atomic magnetometers,12
+6,mri,4,squid,11
+7,magnetometers,4,nmr,11
+8,atomic clocks,4,atomic clocks,11
+9,spin-exchange,3,sensitivity,10
+10,optical,3,magnetometers,10
+11,optically pumped magnetometer,3,atomic,9
+12,squid,3,atomic spin magnetometer,9
+13,nmr,3,magnetic,9
+14,atomic spin magnetometer,3,biomagnetics,8
+15,biomagnetics,3,ultra-low field,8
+16,noise,3,optical,7
+17,atomic magnetometry,3,optically pumped magnetometer,7
+18,optical magnetometer,3,noise,7
+19,magnetic,3,atomic magnetometry,7
+20,light shift,2,optical magnetometer,7
+21,harmonic detection,2,spin-exchange,6
+22,magnetic resonance,2,serf,6
+23,linewidth,2,optically pumping,6
+24,serf,2,spin,6
+25,spin-exchange relaxation-free,2,antirelaxation coating,6
+26,field,2,magnetic sensing,6
+27,atomic,2,heading error,6
+28,nonlinear magneto-optical rotation,2,light shift,5
+29,optically pumping,2,linewidth,5
+30,spin,2,field,5
+31,antirelaxation coating,2,magnetic particles,5
+32,polarization,2,spintronic sensors,5
+33,atomic magnetic resonance,2,gmr,5
+34,magnetic sensing,2,polarization,5
+35,remote detection,2,atomic magnetic resonance,5
+36,serf atomic magnetometer,2,remote detection,5
+37,laser spectroscopy,2,serf atomic magnetometer,5
+38,heading error,2,laser spectroscopy,5
+39,optical atomic magnetometers,2,alkali metal vapor cell,5
+40,magnetic induction tomography,2,anatomical,5
+41,optically pumped atomic magnetometer,2,imaging,5
+42,alkali metal vapor cell,2,low-cost,5
+43,digital servo system,2,diode laser,5
+44,ultra-low field,2,microfluidics,5
+45,diode laser,2,atomic force microscopy,5
+46,microfluidics,2,harmonic detection,4
+47,atomic force microscopy,2,magnetic resonance,4
+48,electromagnetically induced transparency,2,spin-exchange relaxation-free,4
+49,high-density atomic magnetometer,1,nonlinear magneto-optical rotation,4
+50,alkali-metal density ratio,1,scalar,4
+51,hybrid optical ptunping,1,chip-scale,4
+52,serf atomic,1,compensation,4
+53,double resonance atomic magnetometers,1,geomagnetic,4
+54,transverse,1,nqr,4
+55,spin precession of hyperpolarized noble gas,1,polarization enhancement,4
+56,electron spin resonance,1,ammonium nitrate,4
+57,atomic magnetometer array,1,petn,4
+58,rf magnetic field,1,chip-scale atomic magnetometer,4
+59,geometry design of microfabricated alkali vapor cells,1,mcg,4
+60,microfabricated,1,meg,4
+61,alkali density measurement,1,mrx,4
+62,spin-exchange relaxation free (serf) magnetometer,1,ferrites,4
+63,frequency tracking,1,magnetic flux,4
+64,vibration stabilization,1,magnetic noise,4
+65,field-programmable gate,1,magnetic permeability,4
+66,transfer function,1,transfer function,3
+67,frequency-response,1,frequency-response,3
+68,dynamics,1,dynamics,3
+69,resonance frequency,1,resonance frequency,3
+70,chip-scale spin-exchange-relaxation-free (serf) magnetometer,1,3d measurements,3
+71,micro,1,multifactorial design,3
+72,3d measurements,1,biomagnetism,3
+73,multifactorial design,1,magnetron sputtering,3
+74,axion dark matter,1,polysilicon-aluminum,3
+75,biomagnetism,1,heater,3
+76,magnetron sputtering,1,serf magnetometer,3
+77,polysilicon-aluminum,1,atomic spin polarization,3
+78,heater,1,pump-beam modulation,3
+79,serf magnetometer,1,polarized atoms,3
+80,atomic spin polarization,1,magnetic field standard,3
+81,optically pumped magnetometers,1,fabrication,3
+82,multi-axis field measurements,1,nv centres,3
+83,m-x optically pumped magnetometers,1,solid spin manipulation,3
+84,square wave duty,1,low field,3
+85,magnetic particles,1,opam,3
+86,spintronic sensors,1,non-orthogonal angle,3
+87,gmr,1,saddle coil system,3
+88,nanoparticles,1,magnetic field measurement,3
+89,induced remnant magnetization,1,magnetometry,3
+90,optical atomic,1,all optical,3
+91,modulation,1,ultra low field nmr,3
+92,electro-optic modulator,1,j-coupling,3
+93,nonlinear zeeman effect,1,dead zone,3
+94,large dynamic,1,liquid crystal,3
+95,pump-beam modulation,1,polarization rotator,3
+96,polarized atoms,1,dead-zone,3
+97,magnetic field standard,1,buried explosive hazards,3
+98,ft sensitivity,1,unexploded,3
+99,coherent population trapping (cpt) resonance,1,optical atomic magnetometers,3
+100,mems atomic vapor cells,1,magnetic induction tomography,3
+101,chip-scale atomic clock (csac),1,magnetic moment,3
+102,buffer gas,1,m-x-m-r magnetometer,3
+103,atomic vapor magnetometer,1,rb,3
+104,vapor cell,1,3d imaging,3
+105,scalar,1,hybrid pumping,3
+106,chip-scale,1,pump power,3
+107,compensation,1,molar ratio,3
+108,geomagnetic,1,optically pumped atomic magnetometer,3
+109,photon absorption cross-section,1,system integration,3
+110,alkali atoms,1,rb vapor cell,3
+111,broadening,1,weak,3
+112,ots-coated micro alkali vapor cell,1,silicon heater,3
+113,chip-scale atomic magnetometers,1,wafer level,3
+114,fabrication,1,ac electronic heating,3
+115,nv centres,1,optical absorption,3
+116,solid spin manipulation,1,digital servo system,3
+117,low field,1,semiconductor laser,3
+118,opam,1,collimation,3
+119,low-frequency,1,lens,3
+120,high sensitivity,1,anamorphic prisms,3
+121,non-orthogonal angle,1,rubidium magnetometer,3
+122,saddle coil system,1,faraday rotation effect,3
+123,magneto-optic,1,spin relaxation,3
+124,magnetic field measurement,1,buffer,3
+125,magnetometry,1,cesium,3
+126,all optical,1,distributed feedback laser,3
+127,spin exchange relaxation free,1,temperature,3
+128,atomic co-magentometer,1,ots,3
+129,atomic spin,1,ultralow field nmr,3
+130,ultra low field nmr,1,near room temperature,3
+131,j-coupling,1,fast,3
+132,optically driven,1,zeeman effect,3
+133,spin-exchange collisions,1,odmr,3
+134,slowing-down,1,faraday effect,3
+135,optical atomic magnetometer,1,lock-in amplifier,3
+136,geomagnetics,1,verdet constant,3
+137,dead zone,1,convergence criterion,3
+138,liquid crystal,1,laser pumping,3
+139,polarization rotator,1,self-test,3
+140,dead-zone,1,atomic clock,3
+141,nqr,1,microwave,3
+142,polarization enhancement,1,laser,3
+143,ammonium nitrate,1,spin exchange,3
+144,petn,1,coherence,3
+145,buried explosive hazards,1,biomagnetic field,3
+146,unexploded,1,phantom,3
+147,medical,1,ground states,3
+148,vapor cells quantum magnetometer,1,hyperfine structure,3
+149,allan variance,1,light coherence,3
+150,atomic devices,1,zero-field nmr,3
+151,chemical foaming process (cfp),1,scalar coupling,3
+152,hot forming process,1,atom-photon collisions,3
+153,magnetic moment,1,indeterminancy,3
+154,m-x-m-r magnetometer,1,kalman filters,3
+155,rb,1,x-ray diffraction,3
+156,3d imaging,1,nanomaterial,3
+157,magnetic field,1,mems,3
+158,magic frequency,1,micro mirrors,3
+159,hybrid pumping,1,csac,3
+160,pump power,1,coupling constants,3
+161,molar ratio,1,functional imaging,3
+162,magnetization,1,magnetic resonance imaging,3
+163,gyromagnetic ratio,1,laser diodes,3
+164,spin exchange optical pumping,1,spectral characterization,3
+165,actively shielded coil,1,magnetic dichroism,3
+166,water-level optical package,1,photoemission,3
+167,vcsel,1,interfaces,3
+168,mz magnetometer,1,heteromagnetic,3
+169,system integration,1,high-density atomic magnetometer,2
+170,rb vapor cell,1,alkali-metal density ratio,2
+171,weak,1,hybrid optical ptunping,2
+172,silicon heater,1,serf atomic,2
+173,wafer level,1,double resonance atomic magnetometers,2
+174,ac electronic heating,1,transverse,2
+175,optical absorption,1,electron spin resonance,2
+176,azide,1,atomic magnetometer array,2
+177,all-optical atomic spin magnetometer,1,rf magnetic field,2
+178,weak magnetic field measurement,1,alkali density measurement,2
+179,semiconductor laser,1,spin-exchange relaxation free (serf) magnetometer,2
+180,collimation,1,frequency tracking,2
+181,lens,1,vibration stabilization,2
+182,anamorphic prisms,1,field-programmable gate,2
+183,rubidium magnetometer,1,axion dark matter,2
+184,faraday rotation effect,1,m-x optically pumped magnetometers,2
+185,spin relaxation,1,square wave duty,2
+186,buffer,1,nanoparticles,2
+187,cesium,1,induced remnant magnetization,2
+188,distributed feedback laser,1,optical atomic,2
+189,temperature,1,modulation,2
+190,high contrast atomic magnetometer,1,electro-optic modulator,2
+191,neutron,1,nonlinear zeeman effect,2
+192,edm,1,large dynamic,2
+193,mercury magnetometer,1,ft sensitivity,2
+194,cesium atomic magnetometer,1,mems atomic vapor cells,2
+195,closed-loop system,1,chip-scale atomic clock (csac),2
+196,digital automatic,1,buffer gas,2
+197,ots,1,photon absorption cross-section,2
+198,ultralow field nmr,1,alkali atoms,2
+199,near room temperature,1,broadening,2
+200,fast,1,low-frequency,2
+201,zeeman effect,1,high sensitivity,2
+202,odmr,1,magneto-optic,2
+203,anatomical,1,spin exchange relaxation free,2
+204,imaging,1,atomic co-magentometer,2
+205,low-cost,1,atomic spin,2
+206,faraday effect,1,optically driven,2
+207,lock-in amplifier,1,spin-exchange collisions,2
+208,verdet constant,1,slowing-down,2
+209,unshielded atomic magnetometer,1,optical atomic magnetometer,2
+210,spherical compensating coils,1,geomagnetics,2
+211,convergence criterion,1,medical,2
+212,laser pumping,1,vapor cells quantum magnetometer,2
+213,self-test,1,allan variance,2
+214,atomic clock,1,atomic devices,2
+215,microwave,1,chemical foaming process (cfp),2
+216,laser,1,hot forming process,2
+217,chip-scale atomic magnetometer,1,magnetic field,2
+218,mcg,1,magic frequency,2
+219,meg,1,magnetization,2
+220,mrx,1,gyromagnetic ratio,2
+221,flux transformer (ft),1,spin exchange optical pumping,2
+222,nuclear magnetic resonance (nmr),1,water-level optical package,2
+223,optically,1,vcsel,2
+224,spin exchange,1,mz magnetometer,2
+225,coherence,1,azide,2
+226,cell szie,1,neutron,2
+227,serf regime,1,edm,2
+228,high sensitivity magnetometer,1,mercury magnetometer,2
+229,electric dipole moment,1,cesium atomic magnetometer,2
+230,nuclear spin maser,1,closed-loop system,2
+231,biomagnetic field,1,digital automatic,2
+232,phantom,1,unshielded atomic magnetometer,2
+233,magnetocardiography,1,spherical compensating coils,2
+234,magnetic gradiometers,1,flux transformer (ft),2
+235,cs magnetometer,1,nuclear magnetic resonance (nmr),2
+236,pumping intensity,1,optically,2
+237,low-field nmr,1,cell szie,2
+238,optical magnetometry,1,serf regime,2
+239,ground states,1,high sensitivity magnetometer,2
+240,hyperfine structure,1,electric dipole moment,2
+241,light coherence,1,nuclear spin maser,2
+242,magnetoencephallography (meg),1,magnetocardiography,2
+243,rubidium vapor,1,magnetic gradiometers,2
+244,phase noise,1,cs magnetometer,2
+245,zero-field nmr,1,pumping intensity,2
+246,scalar coupling,1,low-field nmr,2
+247,atom-photon collisions,1,optical magnetometry,2
+248,indeterminancy,1,magnetoencephallography (meg),2
+249,kalman filters,1,rubidium vapor,2
+250,coherent population trapping resonance,1,phase noise,2
+251,chip-size atomic,1,coherent population trapping resonance,2
+252,magneto-optical resonance,1,chip-size atomic,2
+253,x-ray diffraction,1,magneto-optical resonance,2
+254,nanomaterial,1,insulating thin films,2
+255,insulating thin films,1,coherence effect,2
+256,ferrites,1,nmoe,2
+257,magnetic flux,1,signal-to-noise ratio,2
+258,magnetic noise,1,mass-limited sample,2
+259,magnetic permeability,1,sensor,2
+260,mems,1,magnetornetry,2
+261,micro mirrors,1,self-oscillation,2
+262,coherence effect,1,high-resolution spectroscopy,2
+263,nmoe,1,the earth's magnetic field,2
+264,signal-to-noise ratio,1,electromagnetically induced transparency,2
+265,mass-limited sample,1,dark resonance,2
+266,sensor,1,alternating-gradient magnetometer,2
+267,csac,1,resonant mechanical sensor,2
+268,magnetornetry,1,spin precession of hyperpolarized noble gas,1
+269,self-oscillation,1,geometry design of microfabricated alkali vapor cells,1
+270,coupling constants,1,microfabricated,1
+271,functional imaging,1,chip-scale spin-exchange-relaxation-free (serf) magnetometer,1
+272,magnetic resonance imaging,1,micro,1
+273,high-resolution spectroscopy,1,optically pumped magnetometers,1
+274,the earth's magnetic field,1,multi-axis field measurements,1
+275,laser diodes,1,coherent population trapping (cpt) resonance,1
+276,spectral characterization,1,atomic vapor magnetometer,1
+277,atomic interference,1,vapor cell,1
+278,dark resonance,1,ots-coated micro alkali vapor cell,1
+279,alternating-gradient magnetometer,1,chip-scale atomic magnetometers,1
+280,resonant mechanical sensor,1,actively shielded coil,1
+281,magnetic dichroism,1,all-optical atomic spin magnetometer,1
+282,photoemission,1,weak magnetic field measurement,1
+283,interfaces,1,high contrast atomic magnetometer,1
+284,heteromagnetic,1,atomic interference,1

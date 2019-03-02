@@ -1,0 +1,192 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,android,12,android,40
+1,android malware,5,static analysis,17
+2,static analysis,4,malware,17
+3,malware,4,security,14
+4,security,4,android malware,13
+5,malware detection,3,smartphone,11
+6,smartphone,3,anti-virus,9
+7,mobile security,3,smart phone,9
+8,smartphone security,3,epidemic model,9
+9,anti-virus,3,malware detection,8
+10,smart phone,3,mobile security,8
+11,epidemic model,3,virus,8
+12,deep learning,2,smartphone security,8
+13,network security,2,permission,7
+14,permission,2,smart phones,7
+15,virus,2,hiv,7
+16,cellular automata,2,cyber threats,7
+17,machine learning,2,smartphones,7
+18,smart phones,2,network security,6
+19,hiv,2,machine learning,6
+20,cyber threats,2,n-gram,6
+21,smartphones,2,svm,6
+22,mobile,2,vulnerability,6
+23,microfluidics-based assays,1,cvss,6
+24,point-of-care devices,1,mobile,6
+25,smart-phone based,1,deep learning,5
+26,imidacloprid,1,ransomware,5
+27,immunochromatographic assay,1,firebase,5
+28,soil chemical barrier,1,android app,5
+29,paper-based lateral flow device,1,ransom,5
+30,enzyme-linked immunosorbent assay,1,text,5
+31,smart phone forensic,1,cellular automata,5
+32,mtk mobile phone,1,point-of-care,4
+33,physical memory image,1,infectious disease,4
+34,reverse,1,diagnostics,4
+35,signals classification,1,sensor,4
+36,behavior analysis,1,wifi,4
+37,dynamic detection,1,scanning system,4
+38,software,1,mobile internet,4
+39,android malware detection,1,arbovirus,4
+40,mobile multimedia application,1,flavivirus,4
+41,behavior,1,dengue viruses,4
+42,point-of-care,1,japanese encephalitis virus,4
+43,infectious disease,1,west,4
+44,diagnostics,1,cybercrime,4
+45,sensor,1,cyberlaw,4
+46,android system,1,computer crime,4
+47,quantitative detection,1,cyber crimes in india,4
+48,colloidal gold strip,1,information,4
+49,image,1,africa,4
+50,ransomware,1,m-health,4
+51,firebase,1,mobile health,4
+52,android app,1,sms,4
+53,ransom,1,variant detection,4
+54,text,1,static,4
+55,zika,1,android permissions,4
+56,crowdsensing,1,android market,4
+57,communicable disease,1,ios,4
+58,bluetooth,1,dengue,4
+59,virus propagation,1,asia,4
+60,node energy based virus propagation,1,social media,4
+61,virtual machine,1,mhealth,4
+62,analysis android malware,1,health communication,4
+63,wifi,1,malwar,4
+64,scanning system,1,android smartphones,4
+65,mobile internet,1,hacker,4
+66,application permission,1,smart devices,4
+67,application analysis,1,propagation tendency,4
+68,arbovirus,1,blue-tooth,4
+69,flavivirus,1,smart phone forensic,3
+70,dengue viruses,1,mtk mobile phone,3
+71,japanese encephalitis virus,1,physical memory image,3
+72,west,1,reverse,3
+73,android security,1,behavior analysis,3
+74,characterization,1,dynamic detection,3
+75,permissions,1,software,3
+76,signature,1,android system,3
+77,bluetooth networks,1,quantitative detection,3
+78,complex systems modeling,1,colloidal gold strip,3
+79,big data analytics,1,image,3
+80,feature,1,zika,3
+81,cybercrime,1,crowdsensing,3
+82,cyberlaw,1,communicable disease,3
+83,computer crime,1,virtual machine,3
+84,cyber crimes in india,1,analysis android malware,3
+85,information,1,android security,3
+86,gps,1,characterization,3
+87,warning and detection,1,big data analytics,3
+88,epidemic disease,1,feature,3
+89,gradual range setting and,1,gps,3
+90,africa,1,warning and detection,3
+91,m-health,1,epidemic disease,3
+92,mobile health,1,gradual range setting and,3
+93,sms,1,cybersecurity,3
+94,variant detection,1,cybersecurity management,3
+95,static,1,spamming,3
+96,cybersecurity,1,dynamic analysis,3
+97,cybersecurity management,1,additive manufacturing,3
+98,spamming,1,lcd,3
+99,android permissions,1,pcl,3
+100,android market,1,peg,3
+101,ios,1,malware analysis,3
+102,dynamic analysis,1,mobile botnet,3
+103,additive manufacturing,1,genetic algorithm,3
+104,lcd,1,reverse engineering,3
+105,pcl,1,pathogenic bacteria,3
+106,peg,1,rna amplification,3
+107,malware analysis,1,listeria monogtogenes,3
+108,mobile botnet,1,bioactive,3
+109,genetic algorithm,1,worm containment,3
+110,reverse engineering,1,influence maximization,3
+111,surveillance system,1,social,3
+112,wi-fi data,1,google glass,3
+113,classification,1,rapid diagnostic test reader,3
+114,malware classification,1,colorimetric sensor,3
+115,naive bayes,1,lateral,3
+116,security in android,1,cell phone microscopy,3
+117,pathogenic bacteria,1,fluorescence imaging,3
+118,rna amplification,1,single nanoparticle,3
+119,listeria monogtogenes,1,single,3
+120,bioactive,1,gay and bisexual men,3
+121,worm containment,1,sexually transmitted infections,3
+122,influence maximization,1,drugs and,3
+123,social,1,technology,3
+124,vaccine safety,1,men who have sex with men,3
+125,adverse events following immunisation (aefi),1,msm,3
+126,post,1,hiv prevention,3
+127,google glass,1,botnet,3
+128,rapid diagnostic test reader,1,command and control,3
+129,colorimetric sensor,1,hybrid,3
+130,lateral,1,component,3
+131,dengue,1,mobile communication,3
+132,asia,1,honeypot,3
+133,social media,1,simulatng wireless access,3
+134,mhealth,1,mobile phone viruses,3
+135,health communication,1,loopholes,3
+136,mobile phones,1,communication encryption,3
+137,camera,1,complex networks,3
+138,n-gram,1,virus spreading patterns,3
+139,svm,1,smart phone virus,3
+140,vulnerability,1,bluetooth worm,3
+141,cvss,1,velocity,3
+142,cell phone microscopy,1,microfluidics-based assays,2
+143,fluorescence imaging,1,point-of-care devices,2
+144,single nanoparticle,1,smart-phone based,2
+145,single,1,imidacloprid,2
+146,mobile-phone viruses,1,immunochromatographic assay,2
+147,social networks,1,soil chemical barrier,2
+148,gay and bisexual men,1,signals classification,2
+149,sexually transmitted infections,1,android malware detection,2
+150,drugs and,1,mobile multimedia application,2
+151,technology,1,behavior,2
+152,men who have sex with men,1,bluetooth,2
+153,msm,1,virus propagation,2
+154,hiv prevention,1,node energy based virus propagation,2
+155,static/dynamic analysis,1,application permission,2
+156,malwar,1,application analysis,2
+157,android smartphones,1,permissions,2
+158,hacker,1,signature,2
+159,botnet,1,bluetooth networks,2
+160,command and control,1,complex systems modeling,2
+161,hybrid,1,surveillance system,2
+162,human factors,1,wi-fi data,2
+163,invasive software (viruses worms trojan horses),1,classification,2
+164,smart devices,1,malware classification,2
+165,component,1,naive bayes,2
+166,mobile communication,1,security in android,2
+167,honeypot,1,vaccine safety,2
+168,simulatng wireless access,1,adverse events following immunisation (aefi),2
+169,cloud computing,1,post,2
+170,intrusion detection,1,mobile phones,2
+171,android smartphone,1,camera,2
+172,mobile phone viruses,1,mobile-phone viruses,2
+173,loopholes,1,social networks,2
+174,communication encryption,1,static/dynamic analysis,2
+175,complex networks,1,cloud computing,2
+176,virus spreading patterns,1,intrusion detection,2
+177,graphical passwords,1,android smartphone,2
+178,authentication,1,graphical passwords,2
+179,white list,1,authentication,2
+180,mobile malicious code,1,white list,2
+181,propagation tendency,1,mobile malicious code,2
+182,blue-tooth,1,access control,2
+183,access control,1,working set,2
+184,working set,1,network file system,2
+185,network file system,1,mobile phone virus,2
+186,smart phone virus,1,security of wireless network,2
+187,bluetooth worm,1,paper-based lateral flow device,1
+188,velocity,1,enzyme-linked immunosorbent assay,1
+189,mobile phone virus,1,human factors,1
+190,security of wireless network,1,invasive software (viruses worms trojan horses),1

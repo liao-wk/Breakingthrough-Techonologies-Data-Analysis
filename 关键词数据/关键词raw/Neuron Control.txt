@@ -1,0 +1,1288 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE Biological neurons; Nonlinear optimal control; H-infinity control;
+   Approximate linearization; Taylor series expansion; Jacobian matrices;
+   Riccati equation; Lyapunov analysis; Global stability; Time-delays
+ID FITZHUGH-NAGUMO NEURONS; 2 COUPLED NEURONS; CHAOTIC SYNCHRONIZATION;
+   NEURAL-NETWORKS
+ER
+
+PT J
+DE Adaptive correction; generalized predictive control (GPC); industrial
+   process; neuron splitting and merging; radial basis function neural
+   network (RBFNN)
+ID NONLINEAR-SYSTEMS; TEMPERATURE CONTROL; LEARNING ALGORITHM; MODEL;
+   ADAPTATION; DYNAMICS; STRATEGY; DESIGN
+ER
+
+PT J
+DE coupled neuron; observer-based control; spiking; bursting; robustness
+ID SYNCHRONIZATION; EXCITABILITY; OSCILLATIONS; NETWORKS
+ER
+
+PT J
+DE Obesity; Bioenergetics; Metabolism; Renin-angiotensin system; Leptin;
+   Agouti-related peptide
+ID BROWN ADIPOSE-TISSUE; AGOUTI-RELATED PROTEIN; SYMPATHETIC-NERVE
+   ACTIVITY; LATERAL HYPOTHALAMIC AREA; PARAVENTRICULAR NUCLEUS;
+   MELANOCORTIN-4 RECEPTOR; HYPOCRETIN/OREXIN NEURONS; DORSOMEDIAL
+   HYPOTHALAMUS; PERIAQUEDUCTAL GRAY; RAPHE PALLIDUS
+ER
+
+PT J
+DE Conductance-based neuron models; Optimal control; Minimal time affine
+   control; Singular extremals; Optogenetics
+ID OPTOGENETICS; CHANNELRHODOPSIN-2; PHOTOCYCLES
+ER
+
+PT J
+DE abdominal control; chemoreception; expiratory neurons; inspiratory
+   neurons; laryngeal control; nociception; nonphasic neurons; nucleus
+   retroambiguus; pelvic floor control; periaqueductal gray; respiratory
+   control; retching; vagal mechanoreception; vocalization
+ID MEDULLARY RESPIRATORY NEURONS; PERIAQUEDUCTAL GRAY CONTROL; MOTONEURONAL
+   CELL GROUPS; FINAL COMMON PATHWAY; EXPIRATORY NEURONS; SPINAL-CORD;
+   MONOSYNAPTIC PROJECTIONS; RETROTRAPEZOID NUCLEUS; REFLEX PROLONGATION;
+   INSPIRATORY NEURONS
+ER
+
+PT J
+DE Closed-loop ISI clamp; Computational model; Firing regularity; Single
+   neuron; Iterative learning control; Unscented Kalman Filter
+ID PHASE-RESETTING CURVES; CORTICAL-NEURONS; RESPONSE CURVES; NETWORKS;
+   SYNCHRONIZATION; CONDUCTANCES; OSCILLATORS; RELIABILITY; DYNAMICS;
+   SPIKING
+ER
+
+PT S
+DE artificial neural network; direct power control; double fed induction
+   generator; wind power systems.
+ID FED INDUCTION GENERATORS; REACTIVE POWER; TURBINE
+ER
+
+PT J
+ID MODEL; EQUATIONS
+ER
+
+PT J
+DE CPG; biped robot; human locomotion
+ID SPINAL-CORD; HUMAN LOCOMOTION; INTERNEURONS; NEURONS; SYSTEM
+ER
+
+PT J
+DE Spiking neurons; Optimal control; Homotopy perturbation method
+ID HOMOTOPY PERTURBATION METHOD; NONLINEAR-SYSTEMS; MODELS
+ER
+
+PT J
+DE Direct torque control; Three levels inverter; Induction motor;
+   Artificial neural network
+ID DIRECT TORQUE CONTROL; CONSTANT SWITCHING FREQUENCY; INDUCTION-MOTOR;
+   RIPPLE REDUCTION; FUZZY-LOGIC; INVERTER; NETWORKS; DRIVE
+ER
+
+PT J
+ID PROTEIN-COUPLED RECEPTORS; MALE COURTSHIP BEHAVIOR; OCTOPAMINERGIC
+   NEURONS; AROUSAL MECHANISM; NEURAL CIRCUITRY; MUSHROOM BODIES; LOCUST
+   BRAIN; FRUIT-FLY; SLEEP; MELANOGASTER
+ER
+
+PT J
+DE Barrier Lyapunov function (BLF); neural network (NN) approximation;
+   neuron self-growing (NSG) strategy; nonaffine systems; weights
+   adaptation
+ID UNCERTAIN NONLINEAR-SYSTEMS; MODEL-PREDICTIVE CONTROL; OUTPUT-FEEDBACK
+   CONTROL; LYAPUNOV FUNCTION; NETWORK CONTROL; STATE CONSTRAINTS; FUZZY
+   CONTROL; TRACKING; PERFORMANCE
+ER
+
+PT J
+DE molybdenum disulfide; neuron transistor; logic; neuromorphic
+ID THIN-FILM TRANSISTORS; SINGLE-LAYER MOS2; INTEGRATED-CIRCUITS; SYSTEMS;
+   OPERATIONS; DEVICE
+ER
+
+PT J
+DE fuzzy control theory; rotor; automatic balance; single neuron
+ID WIND TURBINE; SYSTEMS; IDENTIFICATION; POWER
+ER
+
+PT J
+DE Slow wave sleep; Paradoxical sleep; GABAa receptors; GABA; Glycine;
+   Muscle atonia; EEG
+ID VENTROLATERAL PREOPTIC NUCLEUS; PARADOXICAL REM SLEEP;
+   MELANIN-CONCENTRATING HORMONE; EYE-MOVEMENT SLEEP; SLOW-WAVE SLEEP;
+   WAKING DISCHARGE PATTERNS; GABA(A) RECEPTOR SUBTYPE; DIAZEPAM-INDUCED
+   CHANGES; IN-VIVO MICRODIALYSIS; RAT LOCUS-COERULEUS
+ER
+
+PT J
+DE Hysteretic chaotic neuron; Sliding mode control; Chaos masking; Secure
+   communication
+ID OBSERVER-BASED SYNCHRONIZATION; SYSTEMS SUBJECT; NETWORKS; MODULATION;
+   CIRCUITS; MOTORS
+ER
+
+PT J
+DE Chaos; Amplitude death; Oscillation death; Indirect synaptic coupling;
+   Nonlinear feedback; Memristor coupling; Stability analysis; Lyapunov
+   exponent
+ID MEMRISTIVE DEVICES; NEURAL-NETWORKS; SYNCHRONIZATION; DYNAMICS; SYSTEMS;
+   OSCILLATORS; DELAYS
+ER
+
+PT J
+DE Complex networks; control of complex networks; neuron activation;
+   synchronization
+ID CHAOTIC NEURAL-NETWORKS; COMPLEX NETWORKS; SLEEP
+ER
+
+PT B
+DE Neuron PID; Smart control; Motor control
+ER
+
+PT B
+DE permanent magnet synchronous motors(PMSM); neuron self-adaptive PID
+   controller; inverter; non-orthogonal coordinates
+ID PMSM
+ER
+
+PT B
+DE brushless DC motor; speed tracking control; fuzzy-single neuron PID
+   control
+ER
+
+PT S
+DE Brushless DC (BLDC) Motor; Fuzzy Logic Control; Single Neuron (SN) PID
+   Control; Conventional Fuzzy Single Neuron PID CFSNPID; Novel Fuzzy
+   Single Neuron PID (NFSNPID); Genetic Algorithm (GA)
+ER
+
+PT S
+ID NETWORKS; DYNAMICS; MODEL
+ER
+
+PT B
+DE neural network; self-growing; neuron
+ID GROWTH; FRAMEWORK
+ER
+
+PT S
+DE Model reference; Vector control; Single neuron
+ER
+
+PT B
+DE blackbody radiation source; temperature control; single neuron PID;
+   conventional PID; simulation
+ID NETWORKS; SYSTEM
+ER
+
+PT S
+DE Welding bath depth; Intelligent control; Single-neuron PID; Hebb
+   learning algorithm
+ER
+
+PT J
+DE Diffusive neuronal cell network; adaptive training procedure; practical
+   synchronization; autonomous mobile robot control
+ID SPIKING NEURAL-NETWORKS; LOCALIZATION; NAVIGATION; MODEL
+ER
+
+PT J
+DE Single Neuron; Adaptive Control; PID Control; Inverse Neural Network
+ID FUZZY; NETWORK
+ER
+
+PT J
+DE Hindmarsh-Rose Neuron; Chaotic synchronization; Nonlinear control;
+   Linear matrix inequality
+ID LAG SYNCHRONIZATION; NEURAL-NETWORKS; PHASE SYNCHRONIZATION; SYSTEMS;
+   TRANSITION; COMMUNICATION; OSCILLATOR; MEMBRANE; DYNAMICS; AUTAPSES
+ER
+
+PT J
+DE Synchronization; Exponential convergence; Partial contraction; Chaotic
+   system; Coupling strength
+ID ADAPTIVE-CONTROL; FEEDBACK-CONTROL; GAP-JUNCTION; CHEN SYSTEM;
+   STABILITY; CELLS; COMMUNICATION; OSCILLATORS
+ER
+
+PT J
+ID CIRCULATING PROGENITOR CELLS; EMBRYONIC STEM-CELLS; LIM HOMEOBOX GENES;
+   SUBTYPE IDENTITY; FATE; DIFFERENTIATION; SPECIFICATION; DIVERSITY; TUBE;
+   GENERATION
+ER
+
+PT J
+DE traumatic brain injury; arousal; coma; locus coeruleus; raphe nucleus
+ID DIFFUSE AXONAL INJURY; HEAD-INJURY; DAYTIME SLEEPINESS; STATE; COMA
+ER
+
+PT J
+DE master-slave synchronization; HR neurons; linear feedback control
+ID 1ST-ORDER DIFFERENTIAL-EQUATIONS; GENETIC REGULATORY NETWORKS; COMPLEX
+   DYNAMICAL NETWORK; SLIDING MODE CONTROL; STATE ESTIMATION; COUPLED
+   NEURONS; SYSTEMS; PARAMETERS; DELAYS
+ER
+
+PT J
+ID PROLACTIN; DISCHARGE; OXYTOCIN; FEEDBACK; RELEASE; AXIS
+ER
+
+PT J
+DE Dendritic neuron; Control pulse; Basin boundaries
+ID DEEP BRAIN-STIMULATION; INTERMEDIATE THALAMIC NUCLEUS; LOW-DIMENSIONAL
+   DYNAMICS; EFFECTIVE DESYNCHRONIZATION; SENSORY BIOLOGY; NETWORKS; MODEL;
+   PULSE; OSCILLATORS; TREMOR
+ER
+
+PT J
+DE Hodgkin-Huxley neuron model; Morris-Lecar neuron model; spiking
+   behavior; iterative learning control; proportional integral control;
+   trajectory tracking; convergence
+ID DEEP BRAIN-STIMULATION; FEEDBACK-CONTROL; DYNAMICS; SYNCHRONIZATION;
+   OSCILLATIONS; NETWORK; DISEASE
+ER
+
+PT S
+DE Wireless Neuron Control Network; Distributed Control; LTI system
+ID SENSOR-ACTUATOR NETWORKS; COORDINATION; LOCATION
+ER
+
+PT J
+DE Hysteresis; creep; chaos; neural networks; synchronous
+ID SYNCHRONIZATION; DISCRETE; SYSTEMS
+ER
+
+PT B
+DE Hindmarsh-Rose neuron; Adaptive output feedback synchronization;
+   Electrical Synapse; Chemical Synapse
+ER
+
+PT J
+DE Hypoxia; Serotonin; Medulla oblongata; Respiration
+ID VAGAL PREGANGLIONIC NEURONS; NUCLEUS-TRACTUS-SOLITARII;
+   INFANT-DEATH-SYNDROME; MAMMALIAN BRAIN-STEM; VENTROLATERAL MEDULLA;
+   VENTILATORY RESPONSE; RESPIRATORY NETWORK; SUSTAINED HYPOXIA; FUNCTIONAL
+   ARCHITECTURE; TYROSINE-HYDROXYLASE
+ER
+
+PT B
+ID FEEDBACK
+ER
+
+PT S
+DE Mechanical arm; Hydraulic drive system; PID; Single-neuron; Control
+ER
+
+PT J
+DE synchronization; Hindmarsh Rose neuron; chaos; adaptive control
+ID HODGKIN-HUXLEY NEURONS; NOISE; EQUATIONS
+ER
+
+PT J
+ID NERVOUS-SYSTEM; CYTOSCAPE; CONTROLLABILITY; PLUGIN
+ER
+
+PT J
+ID NEMATODE CAENORHABDITIS-ELEGANS; HETEROCHRONIC GENE LIN-14; C. ELEGANS;
+   HOMEODOMAIN PROTEIN; MOTOR-NEURONS; GABA RECEPTOR; IDENTIFICATION;
+   TRANSMISSION; MOTONEURON; ENCODES
+ER
+
+PT J
+DE hysteretic; chaos; neuron; neural network
+ID FUZZY-LOGIC; SYNCHRONIZATION; SYSTEMS; STABILITY
+ER
+
+PT B
+DE Networked control system; Time delay; Single neuron; Adaptive control
+ER
+
+PT S
+DE snake-like robot; mirror neuron system mechanism; swimming motion;
+   central pattern generator
+ID STIMULATION; SYSTEM
+ER
+
+PT B
+DE PID controller; single neuron PID; neural networks controller; adaptive
+   learning system; backpropagation learning
+ER
+
+PT J
+DE coupled neurons; Hindmarsh-Rose neurons; synchronization; feedback
+   control
+ID CHAOTIC SYSTEMS; HYPERCHAOTIC SYSTEMS; NETWORKS; FEEDBACK; MODEL
+ER
+
+PT J
+DE greenhouse environmental control; single neuron; self-tuning PID
+   control; Hebb learning algorithm
+ER
+
+PT J
+DE Neuropathic pain; Mitochondrial Ca2+; Spinal nerve ligation; Sensory
+   neuron function
+ID ROOT GANGLION NEURONS; PRIMARY AFFERENT NEURONS; NECROSIS-FACTOR-ALPHA;
+   ENDOPLASMIC-RETICULUM; INTRACELLULAR CALCIUM; PERIPHERAL NEUROPATHY;
+   SYMPATHETIC NEURONS; DRG NEURONS; RAT; MEMBRANE
+ER
+
+PT J
+ID DEEP BRAIN-STIMULATION; DYNAMICS; SYNCHRONIZATION; ENTRAINMENT; TREMOR
+ER
+
+PT J
+DE brain-computer interface; comodulation; neuron ensemble; null space;
+   neural trajectory
+ID BRAIN-COMPUTER INTERFACE; CORTICAL-NEURONS; SYNAPTIC-INTERACTIONS;
+   VOLITIONAL CONTROL; FIRING PATTERNS; NEURAL ACTIVITY; NERVOUS-SYSTEM;
+   ARM MOVEMENTS; UNIT-ACTIVITY; MONKEY
+ER
+
+PT J
+DE Saccade; neural network; burst firing; circuit model; time-optimal
+   controller; oculomotor plant
+ID SUPERIOR COLLICULUS; SPIKING NEURONS; MODEL; GENERATOR; NETWORKS
+ER
+
+PT J
+DE CMOS neuron; motion control unit; central pattern generator; bio-mimetic
+   micro-robot; Hindmarsh-Rose neuron; chemical synapse model; excitatory
+   neuron oscillator
+ER
+
+PT J
+DE brain-machine interface; neuroprosthesis; learning; neuronal plasticity
+ID VOLUNTARY CONTROL; CORTICAL-NEURONS; NEURAL-CONTROL; PATTERNS; MUSCLES;
+   ARM; NETWORKS; DEVICES
+ER
+
+PT J
+DE Hindmarsh-Rose system; lag synchronization; chaotic bursting; adaptive
+   feedback control
+ID HINDMARSH-ROSE NEURON; PHASE SYNCHRONIZATION; PARAMETERS; CHAOS; MODEL
+ER
+
+PT S
+DE neuron; PID controller; united simulation; Matlab; AMESim
+ER
+
+PT J
+DE Thalamic neuron model; neuron input current estimator; expert control
+   system; neuron control
+ID DEEP BRAIN-STIMULATION; SUBTHALAMIC NUCLEUS; THALAMOCORTICAL RELAY;
+   MECHANISMS; DISEASE
+ER
+
+PT J
+DE motor cortex; motor control; intracortical connectivity; corticospinal
+   neurons; directional tuning
+ER
+
+PT J
+DE adaptive; dynamical sliding mode control; FitzHugh-Nagumo neuron; chaos
+   synchronization
+ID EXTERNAL ELECTRICAL-STIMULATION
+ER
+
+PT J
+ER
+
+PT J
+DE Controllability; Lie algebra; optimal control; pseudospectral methods;
+   spiking neurons
+ID NONLINEAR-SYSTEMS; SPIKING NEURONS; PHASE MODELS; OSCILLATORS; DYNAMICS;
+   DESYNCHRONIZATION; CONTROLLABILITY; POPULATIONS
+ER
+
+PT J
+DE Closed-loop control; Parkinsonian state; thalamocortical relay neuron;
+   slow variable; unscented Kalman filter
+ID DEEP-BRAIN-STIMULATION; HIGH-FREQUENCY STIMULATION; FUZZY
+   SYNCHRONIZATION LIKELIHOOD; AUTISM SPECTRUM DISORDER; SUBTHALAMIC
+   NUCLEUS; COMPUTATIONAL MODEL; IN-VITRO; SUBTHALAMOPALLIDAL NETWORK;
+   IONIC CONDUCTANCES; THALAMIC NEURONS
+ER
+
+PT J
+DE control; stimulation; neuroprosthetics; optogenetics; cortex;
+   computational neuroscience; dynamical systems
+ID RAT SOMATOSENSORY CORTEX; FREELY MOVING MICE; BARREL CORTEX; ELECTRICAL
+   MICROSTIMULATION; STOCHASTIC RESONANCE; VIBRISSAL CORTEX;
+   CORTICAL-NEURONS; PYRAMIDAL CELLS; INFERIOR OLIVE; MODEL
+ER
+
+PT J
+DE Optimal control; Hodgkin-Huxley neuron; Hamilton-Jacobi-Bellman PDE;
+   Desynchronization
+ID ESSENTIALLY NONOSCILLATORY SCHEMES; PARKINSONIAN RESTING TREMOR;
+   HAMILTON-JACOBI EQUATIONS; SHOCK-CAPTURING SCHEMES; DEEP
+   BRAIN-STIMULATION; EFFICIENT IMPLEMENTATION; SPIKING NEURONS; PHASE
+   MODELS; OSCILLATIONS; ALGORITHMS
+ER
+
+PT J
+DE Brushless DC motor; Fuzzy logic system; Neural networks; Fuzzy adaptive
+   single neuron neural networks controller
+ID NETWORK; DRIVES
+ER
+
+PT J
+DE Adaptive synchronization; Chaos; Hindmarsh-Rose neuron; Lyapunov
+   function
+ID EXTERNAL ELECTRICAL-STIMULATION; FITZHUGH-NAGUMO NEURONS; HODGKIN-HUXLEY
+   NEURONS; UNKNOWN-PARAMETERS; UNCERTAIN PARAMETERS; VISUAL-CORTEX;
+   SYSTEMS; MODEL; EQUATIONS; RESPONSES
+ER
+
+PT S
+DE Neural Network; Inverted Pendulum
+ER
+
+PT S
+ID SIMULATION; NETWORKS; MODELS
+ER
+
+PT S
+DE Epilepsy; hippocampal neurons; close-loop control; slow variable tracing
+ID TEMPORAL-LOBE EPILEPSY; DEEP BRAIN-STIMULATION; SEIZURES
+ER
+
+PT B
+ID MIRROR-NEURONS; MANIPULATION; IMITATION; SYSTEM; MODELS
+ER
+
+PT J
+DE Motor neuron disease; Amyotrophic lateral sclerosis; Toxicant; Heavy
+   metal; Neurotoxin; Locus ceruleus; Motor neurons; Autometallography;
+   Mercury; Sporadic ALS; Familial ALS
+ER
+
+PT J
+DE Synchronization; Ghostburster neurons; Adaptive control; Dynamic
+   compensation
+ID HODGKIN-HUXLEY NEURONS; FITZHUGH-NAGUMO NEURONS; COUPLED CHAOTIC
+   NEURONS; VISUAL-CORTEX; UNIDIRECTIONAL SYNCHRONIZATION; MODEL;
+   OSCILLATIONS; EQUATIONS; RESPONSES; FEEDBACK
+ER
+
+PT J
+ID LOCOMOTION
+ER
+
+PT J
+DE Bifurcation control; Morris-Lecar neuron model; Dynamic state feedback
+   control; Neurological disease; Neuronal excitability
+ID HOPF-BIFURCATION; SYSTEMS; DISEASE
+ER
+
+PT J
+DE Brain-machine interface (BMI); Neural decoding; Relative importance;
+   Neuron selection
+ID MOTOR CORTEX; CORTICAL-NEURONS; HAND AREA; MOVEMENTS; REPRESENTATION;
+   PREDICTION; ENSEMBLES
+ER
+
+PT J
+ID MORPHINE
+ER
+
+PT J
+DE statistic information; single neuron adaptive control; non-Gaussian;
+   minimum entropy
+ER
+
+PT J
+DE Mutual information; Neural ensemble; Motor control; Brain-machine
+   interface; Electrophysiology; Primary motor cortex
+ID CORTICAL-NEURONS; POPULATION CODES; MOVEMENT DIRECTION; ARM MOVEMENTS;
+   DISCHARGE; SYNERGY; REORGANIZATION; INDEPENDENCE; INTERFACE
+ER
+
+PT J
+DE Time-optimal control; Mathematical neuroscience; Phase models
+ID PHASE MODELS; OSCILLATORS; DYNAMICS; STIMULATION; LOCOMOTION; GENERATOR;
+   TREMOR
+ER
+
+PT S
+ID DYNAMICS
+ER
+
+PT S
+DE Partial synchronization; HR neuron; Active disturbance rejection control
+ID GENERALIZED SYNCHRONIZATION; PHASE SYNCHRONIZATION; CHAOTIC SYSTEMS;
+   SECURE COMMUNICATION; LAG SYNCHRONIZATION; TIME-DELAY; NOISE;
+   OSCILLATORS
+ER
+
+PT S
+DE Flow Control; Model of Heating Network; Energy Saving Control; Single
+   Neuron PID
+ER
+
+PT S
+DE Wastewater Treatment; Dissolved Oxygen; Fuzzy Control; Single Neuron
+   PID; Compound Control
+ER
+
+PT S
+DE single neuron PID; simulation; gauge control system
+ER
+
+PT S
+DE Single neuron PID control; Sliding mode variable structure control;
+   Alternating current servo system; Compound control; Parallel
+   architecture
+ER
+
+PT S
+DE switched reluctance motor; RBF neural network; single neuron
+ER
+
+PT S
+DE Filament winding machine; Tension control; Image sensor; Auto-adapted
+   control; Single neuron
+ER
+
+PT S
+DE synchronization; neuron observer; parameter estimation; external
+   electric field
+ID SYNCHRONIZATION
+ER
+
+PT J
+DE Dendritic neuron; Neural network; Coexisting attractors; Random network
+ID DEEP BRAIN-STIMULATION; INTERMEDIATE THALAMIC NUCLEUS; COUPLED PHASE
+   OSCILLATORS; EFFECTIVE DESYNCHRONIZATION; NEURAL-NETWORKS; MODEL;
+   SYNCHRONIZATION; PULSE; TREMOR; SUPPRESSION
+ER
+
+PT J
+DE acetylcholine; analgesia; muscarinic receptors; neuropathic pain
+ID DORSAL-HORN NEURONS; SPINAL CHOLINESTERASE INHIBITION; ROOT GANGLION
+   NEURONS; BETA-GAMMA-SUBUNITS; CALCIUM-CHANNELS; KNOCKOUT MICE; SYNAPTIC
+   INPUT; NITRIC-OXIDE; N-TYPE; RATS
+ER
+
+PT J
+DE Neuroscience; Issue 57; Adult neurogenesis; Channelrhodopsin; Neural
+   stem cells; Plasticity; Synapses; Electrophysiology
+ER
+
+PT J
+DE Chaos synchronization; L(2) gain reduction; Nonlinear; robust and
+   adaptive control; FitzHugh-Nagumo neurons
+ID FEEDBACK LINEARIZATION CONTROL; COUPLED NEURAL-NETWORKS; EXPONENTIAL
+   STABILITY; PARABOLIC-SYSTEMS; ADAPTIVE-CONTROL; TIME DELAYS; MODEL;
+   BRAIN; OPTIMIZATION; PARAMETERS
+ER
+
+PT J
+DE Chaos synchronization; external electrical stimulation; feedback
+   linearization control; map-based model
+ID VISUAL-CORTEX; SYSTEMS; OSCILLATIONS; FIELDS; BURSTS; REGULARIZATION;
+   MECHANISM; NETWORKS; MODEL; CAT
+ER
+
+PT J
+DE chaos control; LaSalle invariant principle; neuron
+ID MODEL; SYSTEMS; BIFURCATION; STABILITY; EQUATIONS; DYNAMICS; MEMORY
+ER
+
+PT J
+DE Fiber laser; Electronic circuit; Neuron; Synapse; Neuroengineering
+ID PUMP MODULATION; LASER; MODELS; DYNAMICS; NEURONS
+ER
+
+PT J
+ID DELAYS
+ER
+
+PT J
+DE External electrical stimulation; Chaos synchronization; Robust adaptive
+   control; FitzHugh-Nagumo neurons
+ID DEEP BRAIN-STIMULATION; CHAOS SYNCHRONIZATION; SYSTEM; FEEDBACK; MODELS
+ER
+
+PT J
+DE tracked vehicle; magneto rheological damper; semi-active suspension;
+   preview technology; neuron PI control
+ER
+
+PT S
+DE single neuron control; PID controller; immune principle; spherical
+   vessel
+ER
+
+PT S
+ID DYNAMICS; MODELS
+ER
+
+PT S
+DE globally exponentially stability; recurrent neural networks; matrix
+ID THRESHOLD TRANSFER-FUNCTIONS; LINEAR TRANSFER-FUNCTIONS; ASSOCIATIVE
+   MEMORY; FORBIDDEN SETS; DYNAMICS
+ER
+
+PT J
+ID PHASE SYNCHRONIZATION; TRANSITIONS; NETWORKS
+ER
+
+PT S
+DE Neuron; Adaptive control; PID control
+ER
+
+PT S
+DE RBF neural network; Single neuron; Active Disturbance Rejection Control
+   (ADRC); Nonlinear state error feedback
+ER
+
+PT B
+DE neuron predictive controller; PID controller; Lyapunov approach
+ER
+
+PT B
+DE Linear Neuron; Difference Operator; On-line Learning; Adaptive Control
+ID DESIGN
+ER
+
+PT S
+DE Active queue management; Variable structure control; Neuron; Jitter;
+   Robustness
+ER
+
+PT B
+ID VISUAL-ATTENTION; OBJECT DETECTION; CONTEXT
+ER
+
+PT S
+DE Neuron; Sliding-Mode; Nonlinear System
+ER
+
+PT J
+ID FUZZY CONTROL DESIGN; OUTPUT-FEEDBACK CONTROL; NONLINEAR INTERCONNECTED
+   SYSTEMS; PERSISTENT BOUNDED DISTURBANCES; DYNAMIC-SYSTEMS; ION CHANNELS;
+   MODEL; EPILEPSY; NERVE; PERTURBATIONS
+ER
+
+PT J
+DE Synchronization; Ghostburster; H-infinity control; Neural networks
+ID SLIDING MODE CONTROL; SYSTEMS; CHAOS
+ER
+
+PT J
+DE Chaos control; Passive control; Adaptive control; FitzHugh-Nagumo neuron
+ID PHASE NONLINEAR-SYSTEMS; EQUATIONS; STABILIZATION; BIFURCATION;
+   STABILITY; DYNAMICS; SIGNAL; MODEL
+ER
+
+PT J
+DE Two coupled neurons; Tracking control; Synchronization
+ID CHAOTIC SYSTEMS; UNSTABLE ORBITS; FEEDBACK; LASER
+ER
+
+PT J
+DE Synchronization control; Hindmarsh-Rose neuron; Sliding mode; RBF neural
+   network
+ID EXTERNAL ELECTRICAL-STIMULATION; HODGKIN-HUXLEY NEURONS; VISUAL-CORTEX;
+   RESPONSES; FEEDBACK; CELLS
+ER
+
+PT B
+DE PID Control; Single neuron PID Control; Decoupling algorithm
+ER
+
+PT B
+DE Forging machine; PID neural network; Decoupling
+ER
+
+PT B
+DE Neuron model-free control; Takagi-Sugeno fuzzy scheme; Hydraulic turbine
+   generators
+ID PID CONTROL
+ER
+
+PT B
+DE underwater robot; immune single neuron PID; motion control; simulation
+ER
+
+PT S
+ER
+
+PT S
+DE Model-free control; Double neuron control; Nonlinear plants; pH process
+ID ADAPTIVE-CONTROL; SYSTEMS
+ER
+
+PT S
+DE Synchronization; Ghostburster; High order sliding mode control
+ID EXTERNAL ELECTRICAL-STIMULATION; CHAOS
+ER
+
+PT B
+ID EFFECTIVE DESYNCHRONIZATION; FEEDBACK-CONTROL; OSCILLATORS; MECHANISM;
+   COHERENCE; DYNAMICS; SYSTEMS
+ER
+
+PT B
+DE Chaos; FitzHugh-Nagumo neuron; Lyapunov function; synchronization
+ID EXTERNAL ELECTRICAL-STIMULATION; HODGKIN-HUXLEY NEURONS; CHAOTIC
+   NEURONS; EQUATIONS
+ER
+
+PT S
+DE Vehicle chassis dynamometer; the measurement and control system; the
+   single neuron self-adaptive PID
+ER
+
+PT S
+DE PID controller; single neuron; self adaptie; ant colony algorithm
+ER
+
+PT S
+DE Scanning motor; Single Neuron Self-adaptive PID; Digital control
+ER
+
+PT S
+DE Neural Network; Intelligent PID Controller; Parameter Optimization;
+   Turbine Governing System
+ID DESIGN
+ER
+
+PT J
+DE Optimal control; Oscillatory neurons; Phase randomization; Isochrons;
+   Hodgkin-Huxley models
+ID INPUTS; EQUATIONS; TREMOR
+ER
+
+PT J
+DE H-R neuron; delayed feedback control; chaotic fire pattern; inter-spike
+   interval period
+ID SYNCHRONIZATION
+ER
+
+PT J
+DE Transient stability; FACTS; ASVC; Fuzzy control; Neuron fuzzy control
+ER
+
+PT B
+ID SERVICE
+ER
+
+PT B
+DE neuron; predictive; identification; distributed intelligent system;
+   WorldFIP
+ID SYSTEMS
+ER
+
+PT B
+DE single neuron; adaptive; grey prediction; time-delay system
+ER
+
+PT S
+DE Linear Induction Motor; Neuron adaptive Controller; Slip Frequency;
+   Vector Control
+ER
+
+PT B
+DE semi-active suspension; wheelbase preview; neuron; road surface
+   roughness; Neural Networks
+ER
+
+PT B
+ID EXTERNAL ELECTRICAL-STIMULATION; HODGKIN-HUXLEY NEURONS; COUPLED
+   NEURONS; VISUAL-CORTEX; SYSTEMS; RESPONSES; FEEDBACK; BRAIN
+ER
+
+PT B
+DE Neuron Synchronization; Controlled Synchronization; Tracking on Networks
+ID COMPLEX NETWORKS
+ER
+
+PT B
+DE PMLSM; Neuron Adaptive Controller; Speed Control
+ID PMLSM
+ER
+
+PT J
+ID CENTRAL-NERVOUS-SYSTEM; FREELY BEHAVING ANIMALS; SPINAL-CORD
+   STIMULATION; BAG CELL DISCHARGES; ELECTRICAL-STIMULATION; MICROELECTRODE
+   ARRAY; APLYSIA-CALIFORNICA; MOVEMENT-DISORDERS; CUFF ELECTRODE;
+   MICROSTIMULATION
+ER
+
+PT J
+DE Gaussian white noise; transition; voltage-controlled oscillator neuron
+   model
+ID STEADY-STATE ANALYSIS; STOCHASTIC RESONANCE; CORRELATED NOISES; DRIVEN
+ER
+
+PT J
+DE active vehicle suspension; neuron control; integrated error;
+   multivariable
+ER
+
+PT J
+ID ORDER; IDENTIFICATION
+ER
+
+PT J
+ID CEREBRAL CORTICAL DEVELOPMENT; CALRETININ-IMMUNOREACTIVITY;
+   TRANSCRIPTION FACTORS; SUBCORTICAL TARGETS; AXONAL PROJECTIONS; LAYER
+   NEURONS; CORTEX; NEOCORTEX; CELL; DIFFERENTIATION
+ER
+
+PT B
+DE Single-neuron; self-tuning PID; improved Hebb learning algorithm;
+   welding molten pool depth
+ER
+
+PT B
+DE Common rail; Neuron; PID control; Pressure valve
+ER
+
+PT S
+DE trolley crane; anti-sway control; single neuron controller
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT B
+DE neuron PID control; self-adaptive; exhaust temperature control; micro
+   gas turbine
+ER
+
+PT B
+DE Neuron PID Control; Gain; Fuzzy Control; Weight Function
+ER
+
+PT B
+DE Fractional; neuron network; time-delay; chaos; synchronization
+ID ORDER CHUAS SYSTEM
+ER
+
+PT J
+DE dopaminergic neuron; giant; gustatory neuron; nociception; painless
+ID MUSHROOM BODY; SYNAPTIC-TRANSMISSION; TASTE PERCEPTION; ADULT
+   DROSOPHILA; EXCITABLE CELLS; OPTICAL CONTROL; MELANOGASTER; ACTIVATION;
+   FIBER; GENE
+ER
+
+PT J
+DE mathematical model; main engine rotation speed; single neuron control;
+   simulation
+ER
+
+PT S
+DE vehicle; active suspension; neuron control; integrated error
+ID ACTIVE SUSPENSION
+ER
+
+PT S
+DE brushless DC motor; the single neuron PID; the wavelt neuron network;
+   adaptive control
+ER
+
+PT S
+ID IDENTIFICATION; SYSTEMS
+ER
+
+PT B
+DE PID control; single neuron; genetic algorithm; optimization
+ER
+
+PT B
+DE synchronization control; Hodgkin-Huxley model; electric field; Chaos;
+   fuzzy control
+ID CHAOTIC SYNCHRONIZATION; NONLINEAR CONTROL; VISUAL-CORTEX; STIMULATION;
+   RESPONSES
+ER
+
+PT J
+DE CNS damage operant conditioning; learned control; motor neuron responses
+ER
+
+PT J
+DE chronotropy; dromotropy; hypothalamus; inotropy; medulla;
+   parasympathetic; sympathetic
+ID VAGAL PREGANGLIONIC NEURONS; LEFT-VENTRICULAR CONTRACTILITY;
+   NERVE-TERMINALS SYNAPSE; LEFT ATRIAL RECEPTORS;
+   ATRIOVENTRICULAR-CONDUCTION; NUCLEUS AMBIGUUS; DOG HEART;
+   ELECTRICAL-STIMULATION; CARDIOVASCULAR RESPONSES; PARASYMPATHETIC
+   CONTROL
+ER
+
+PT J
+DE spiking neuron; reinforcement learning; spike response model
+ID SYNAPSES; NEURONS
+ER
+
+PT J
+DE oscillations; tremor; eye movement; flocculus
+ID NUCLEUS PREPOSITUS-HYPOGLOSSI; CLIMBING FIBER SIGNALS; COMPLEX SPIKE
+   ACTIVITY; OLIVOCEREBELLAR SYSTEM; GUINEA-PIG; IONIC CONDUCTANCES;
+   EYE-MOVEMENTS; DORSAL CAP; RAT; ORGANIZATION
+ER
+
+PT J
+ID BACKSTEPPING DESIGN; ACTIVE CONTROL; SYSTEMS
+ER
+
+PT B
+DE multivariable system; decoupling control; neural control; coordinate
+   control
+ER
+
+PT J
+DE axon growth; local protein synthesis; mRNA localization; mRNA
+   translation plasticity
+ID MENTAL-RETARDATION PROTEIN; SPINAL MUSCULAR-ATROPHY; FRAGILE-X-SYNDROME;
+   MESSENGER-RNA; TRANSLATIONAL CONTROL; SYNAPTIC PLASTICITY;
+   HIPPOCAMPAL-NEURONS; LOCAL TRANSLATION; GROWTH CONES; LOCALIZATION
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT S
+DE PI-Single Neuron; fuzzy decoupling; temperature and humidity; a fuzzy
+   controller
+ER
+
+PT J
+DE adaptive power system stabilizer; neural network; on-line training;
+   generalized neuron controller
+ID POWER-SYSTEM STABILIZER; NETWORKS
+ER
+
+PT S
+DE artificial synapse; neurophysiology; biomedical engineering education
+ER
+
+PT B
+DE intelligent; neural PID controller; fuzzy inference; status switching
+ER
+
+PT B
+DE Smith predictive control; digital PIP controller; neuron
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT J
+DE cardiovascular system; fever; medulla oblongata; obesity;
+   thermoregulation; prostaglandin E-2; sympathetic nervous system;
+   vesicular glutamate transporter
+ID BROWN ADIPOSE-TISSUE; VESICULAR GLUTAMATE TRANSPORTER-3;
+   INTERMEDIOLATERAL CELL COLUMN; ROSTRAL VENTROLATERAL MEDULLA;
+   PROSTAGLANDIN EP3 RECEPTOR; NERVOUS-SYSTEM OUTFLOW; RAPHE PALLIDUS;
+   DORSOMEDIAL HYPOTHALAMUS; PREOPTIC AREA; NONSHIVERING THERMOGENESIS
+ER
+
+PT B
+ER
+
+PT B
+DE chaotic synchronization; neurons; nonlinear control
+ID ACTIVE CONTROL; SYSTEMS
+ER
+
+PT J
+DE information maximization; competition; cooperation; self-organizing
+ID MUTUAL INFORMATION; MAXIMIZATION; NETWORKS
+ER
+
+PT J
+DE raphe pallidus; thermoregulation; fever; prostaglandin; GABA inhibition;
+   bicuculline; sympathetic nerve activity
+ID RAPHE PALLIDUS; PREOPTIC AREA; SYMPATHETIC OUTFLOW; NONSHIVERING
+   THERMOGENESIS; ANESTHETIZED RATS; NUCLEUS; PROJECTIONS; NEURONS;
+   ACTIVATION; RESPONSES
+ER
+
+PT J
+DE GAD; inhibitory; limbic; episodic; memory; Papez
+ID MAJOR DEPRESSIVE DISORDER; LOCAL CIRCUIT NEURONS; CINGULATE CORTEX;
+   IMMUNOREACTIVE NEURONS; PREFRONTAL CORTEX; DENSITY; NUCLEUS; NUMBER;
+   MEDIODORSAL; AMNESIA
+ER
+
+PT J
+DE back-propagation; generalized neuron controller; neural network; power
+   system stabilizer
+ID NETWORKS
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT B
+DE biological neurons; gain regulating; nonlinear control; PED controller;
+   inverted pendulum
+ID NETWORKS
+ER
+
+PT B
+DE model-free PID controller; adaptive neuron; self-tuning parameters;
+   multi-model plants; basis weight control
+ER
+
+PT J
+ID RETICULOSPINAL NEURONS; VESTIBULAR COMPENSATION; SYNAPTIC-INTERACTIONS;
+   EQUILIBRIUM CONTROL; POSTURAL CONTROL; INTACT LAMPREY; CRANIAL NERVE;
+   LOCOMOTION; RESPONSES; RECOVERY
+ER
+
+PT J
+DE chaos; bursting; neuron model
+ID NETWORKS
+ER
+
+PT J
+DE auto-tuning neuron; PID controller; multivariable systems
+ID NEURAL-NETWORK; RELAY FEEDBACK; ALGORITHM; SYSTEMS
+ER
+
+PT J
+DE pulse-type hardware neuron model; artificial auditory neural networks;
+   CMOS; negative resistance circuit
+ER
+
+PT S
+DE neuron control; nonlinearity; a direct drive robot; model-free control
+ER
+
+PT B
+DE neuron double-layer control; PID control; model-free control; industrial
+   application; liquid level control
+ER
+
+PT B
+DE neuron control; model-free control; intelligent control; uncertainty;
+   basis weight control; paper machine
+ER
+
+PT B
+ID SYNCHRONIZATION; MODULARITY
+ER
+
+PT J
+DE auto-tuning neuron; indirect adaptive control; Lyapunov approach;
+   supervisory control; adaptation mechanism
+ID FUZZY CONTROLLERS; DYNAMIC-SYSTEMS; TRACKING; NETWORKS
+ER
+
+PT S
+ID SINGLE-SHELL MODEL; ELECTROROTATIONAL BEHAVIOR; IMPEDANCE MEASUREMENTS;
+   TOPOGRAPHICAL CONTROL; COLLOIDAL PARTICLES; HIPPOCAMPAL-NEURONS;
+   DISSOCIATED NEURONS; CORTICAL-NEURONS; CULTURED NEURONS; UNIFIED THEORY
+ER
+
+PT S
+DE temperature control; humidity control; neuron; fuzzy control; decoupling
+ER
+
+PT S
+DE model-free control; variable structure control; direct-drive
+   manipulator; fuzzy control; neuron control
+ER
+
+PT B
+DE competition; cooperation; information control; economic analysis
+ID BINOCULAR INTERACTION; SELF-ORGANIZATION; VISUAL-CORTEX; MAXIMIZATION;
+   NETWORKS
+ER
+
+PT B
+ER
+
+PT J
+DE ethanol withdrawal; periaqueductal gray; audiogenic seizure;
+   intracellular
+ID INFERIOR COLLICULUS NEURONS; AMINOBUTYRIC ACID GABA; EPILEPSY-PRONE
+   RATS; AUDIOGENIC-SEIZURES; IN-VITRO; ALCOHOL-WITHDRAWAL; DECREASED GABA;
+   NMDA RECEPTOR; HYPEREXCITABILITY; MICROINJECTION
+ER
+
+PT J
+DE auto-tuning neuron; Lyapunov approach; sliding mode control (SMC);
+   switching control
+ID ADAPTIVE-CONTROL; NETWORK
+ER
+
+PT J
+ER
+
+PT J
+DE primary afferent; proprioception; presynaptic inhibition;
+   neuromodulation; plasticity
+ID PRESYNAPTIC INHIBITORY MECHANISMS; PRIMARY AFFERENT DEPOLARIZATION;
+   CRAYFISH PRIMARY AFFERENTS; CENTRAL PATTERN GENERATOR; REFLEX REVERSAL;
+   FICTIVE LOCOMOTION; MOTOR-NEURONS; PACIFASTACUS-LENIUSCULUS; ANTIDROMIC
+   DISCHARGES; SENSORY AFFERENTS
+ER
+
+PT J
+DE muscle recording; force measurement; movement velocity; muscle fiber
+   types; neuroanatomy; insect
+ID TRAP-JAWS; MODULATES CONTRACTIONS; SUBESOPHAGEAL GANGLION;
+   LOCUSTA-MIGRATORIA; MANDUCA-SEXTA; STICK INSECT; HONEY BEE; NEURONS;
+   INNERVATION; SYSTEM
+ER
+
+PT B
+DE neural network; rough set; rough membership function; rough neuron
+ER
+
+PT B
+DE hydroelectric generating units; model-free control; neuron control;
+   intelligent control
+ER
+
+PT B
+DE hydraulic turbine generators; neuron model; variable structure neuron
+   control; model-free control
+ER
+
+PT S
+ER
+
+PT B
+DE PID neuron; PID neural network; neurocontrol; multivariable system
+ER
+
+PT B
+DE fuzzy neuron controller; model-free control; hydraulic turbine
+   generators
+ER
+
+PT J
+DE frequency tuning curve; inferior colliculus; mice; middle ear
+   destruction; tonotopic organization; soma size
+ID SINGLE-UNIT RESPONSES; STEM AUDITORY NUCLEI; COCHLEAR NUCLEUS; GABAERGIC
+   NEURONS; BINAURAL INTERACTION; ECHOLOCATING BATS; SOUND; SIZE;
+   DEPRIVATION; CAT
+ER
+
+PT J
+DE neurocardiology; autonomic nervous system; nicotinic receptor;
+   intracellular recording; right atrial ganglionated plexus
+ID ELECTROPHYSIOLOGICAL PROPERTIES; VENTRICULAR NEURONS; NERVOUS-SYSTEM;
+   GANGLION-CELLS; ATRIAL; MODULATION; SYNAPSES; HEART
+ER
+
+PT J
+DE synaptic depression; pacemaker; bursting; oscillation
+ID STOMATOGASTRIC GANGLION; SYNAPTIC TRANSMISSION; CIRCUIT
+ER
+
+PT J
+DE amyotrophic lateral sclerosis; free radicals; immunohistochemistry;
+   motor neuron disease; neuronal nitric oxide synthase
+ID CENTRAL-NERVOUS-SYSTEM; OXIDATIVE DAMAGE; GLUTAMATE NEUROTOXICITY;
+   CORTICAL CULTURES; MOTOR-NEURONS; MECHANISMS; PEROXYNITRITE; MESSENGER;
+   PROTEIN; DISEASE
+ER
+
+PT J
+ID DECEREBRATE CAT; SINUSOIDAL STIMULATION; SPINAL-CORD; VESTIBULOSPINAL
+   REFLEXES; HORSERADISH-PEROXIDASE; LABYRINTH RECEPTORS; VESTIBULAR
+   REFLEXES; RETICULAR-FORMATION; CERULEUS NEURONS; PONTINE NEURONS
+ER
+
+PT S
+ER
+
+PT S
+ID CERVICAL INSPIRATORY NEURONS; PREMOTOR NEURONS; EXPIRATORY NEURONS;
+   CROSS-CORRELATION; DECEREBRATE RAT; BOTZINGER-COMPLEX; CAT; NUCLEUS;
+   TONGUE; IDENTIFICATION
+ER
+
+PT J
+ID ISCHEMIC BRAIN INJURY; CEREBRAL-ISCHEMIA; POLY(ADP-RIBOSE) POLYMERASE;
+   MESSENGER-RNA; GENE-EXPRESSION; NERVOUS-SYSTEM; AMPA GLUTAMATE;
+   RAT-BRAIN; APOPTOSIS; CHANNELS
+ER
+
+PT J
+DE electrophysiology; respiration; raphe; medulla; autonomic; membrane
+   potential
+ID ROOT GANGLION NEURONS; CENTRAL CHEMORECEPTION; MEDULLARY NEURONS;
+   INTRACELLULAR PH; EXTRACELLULAR PH; CARBON-DIOXIDE; CA2+ CURRENTS; RAPHE
+   NEURONS; K+ CHANNELS; CA1 NEURONS
+ER
+
+PT J
+ID HELIX-ASPERSA; MATING-BEHAVIOR; NERVOUS-SYSTEM; ACHATIN-I; PEPTIDES;
+   GENE; CNS
+ER
+
+PT J
+DE adult neurogenesis; auditory experience; nuclear size; neuronal life
+   span; zebra finch; high vocal center; [H-3]thymidine autoradiography
+ID VOCAL CONTROL NUCLEUS; PROJECTION NEURONS; CANARY BRAIN; AVIAN BRAIN;
+   SYSTEM; FOREBRAIN; DEATH; NEUROGENESIS; MIGRATION; SURVIVAL
+ER
+
+PT J
+DE motor neuron plasticity; primary sensory neuron; sprouting;
+   polyinnervation; extensor digitorum longus muscle; dorsal rhizotomy; rat
+ID NEUROMUSCULAR-JUNCTIONS; MUSCLE; INNERVATION; NERVE
+ER
+
+PT J
+DE A-current; excitability types; firing frequency; modulatory influences;
+   vertebrate neurons
+ID TRANSIENT POTASSIUM CURRENT; HIPPOCAMPAL-NEURONS; PYRAMIDAL NEURONS;
+   OUTWARD CURRENT; CELLS; INTERNEURONS; SIMULATION; GANGLION; CORTEX
+ER
+
+PT J
+DE suicide; mental illness; serotonin; brainstem; quantitation;
+   neuromorphometry
+ID FLUID MONOAMINE METABOLITES; DEFICIT HYPERACTIVITY DISORDER; TRITIATED
+   IMIPRAMINE BINDING; ADRENERGIC-RECEPTOR BINDING; H-3 PAROXETINE BINDING;
+   HUMAN BRAIN POSTMORTEM; MESSENGER-RNA LEVELS; 5-HT UPTAKE SITES;
+   CEREBROSPINAL-FLUID; FRONTAL-CORTEX
+ER
+
+PT J
+DE amphidial neuron; Ancylostoma; Caenorhabditis; development; Haemonchus;
+   hookworm; Strongyloides; ultrastructure
+ID CAENORHABDITIS-ELEGANS; STRONGYLOIDES-STERCORALIS; C-ELEGANS; SENSORY
+   NEUROANATOMY; CHEMOSENSORY NEURONS; AMPHIDIAL NEURONS; MUTANT; CELL
+ER
+
+PT J
+DE nonlinear process control; single neuron controller; parameter-tuning
+   algorithm; nonlinear CSTR
+ID NETWORKS; SYSTEMS
+ER
+
+PT J
+DE pyramidal tract; motor cortex; conduction velocity; spike duration;
+   ageing; cat
+ID SPINAL-CORD MOTONEURONS; CELL BASAL DENDRITES; MOTOR CORTEX; RAT;
+   POTENTIALS; GOLGI; SLOW
+ER
+
+EF

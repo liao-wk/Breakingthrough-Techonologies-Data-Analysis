@@ -1,0 +1,417 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,diffusion tensor imaging,104,diffusion tensor imaging,261
+1,dti,45,dti,169
+2,diffusion,29,diffusion,106
+3,diffusion tensor imaging (dti),24,mri,82
+4,mri,22,diffusion tensor,48
+5,magnetic resonance imaging,19,magnetic resonance imaging,47
+6,diffusion tensor,17,diffusion tensor imaging (dti),43
+7,tractography,15,tractography,43
+8,brain,9,brain,35
+9,fractional anisotropy,7,white matter,24
+10,white matter,7,anisotropy,23
+11,diffusion-weighted imaging,6,spinal cord,23
+12,anisotropy,6,fractional anisotropy,19
+13,spinal cord,6,neuroimaging,16
+14,diffusion-tensor imaging,5,diffusion-weighted imaging,16
+15,neuroimaging,5,image registration,16
+16,image registration,5,tensor,16
+17,fiber tracking,5,fiber tractography,14
+18,peripheral nerves,4,noise,14
+19,children,4,reproducibility,13
+20,tensor,4,children,12
+21,diffusion tensor mri,4,diffusion tensor mri,12
+22,reproducibility,4,registration,12
+23,diffusion weighted imaging,4,in vivo,12
+24,fiber tractography,4,fiber tracking,12
+25,noise,4,peripheral nerves,11
+26,skeletal muscle,3,diffusion-tensor imaging,11
+27,white,3,fa,11
+28,spinal,3,brain mapping,10
+29,functional magnetic resonance imaging,3,turboprop,10
+30,registration,3,white,9
+31,magnetic resonance,3,spinal,9
+32,diffusion mri,3,magnetic resonance,9
+33,brain mapping,3,diffusion mri,9
+34,denoising,3,dki,9
+35,interpolation,3,denoising,9
+36,traumatic brain,3,human,9
+37,in vivo,3,eddy current,9
+38,anisotropic diffusion,3,skeletal muscle,8
+39,eddy current,3,reliability,8
+40,complex diffusion,2,interpolation,8
+41,traumatic brain injury,2,review,8
+42,high-resolution dti,2,anisotropic diffusion,8
+43,magnetic,2,motion,8
+44,perfusion,2,rhesus monkey,8
+45,fa,2,dwi,8
+46,joint sparsity,2,diffusion weighted imaging,7
+47,cervical spinal cord,2,mouse,7
+48,normal brain,2,segmentation,7
+49,magnetic resonance imaging (mri),2,high-resolution dti,6
+50,dki,2,magnetic,6
+51,mean,2,perfusion,6
+52,reliability,2,glioma,6
+53,glioma,2,traumatic brain,6
+54,review,2,brain tumor,6
+55,mouse,2,spinal cord injury,6
+56,renal diffusion,2,bias,6
+57,brain tumor,2,simex,6
+58,human,2,parameter estimation,6
+59,spinal cord injury,2,bias correction,6
+60,motion,2,tensor reorientation,6
+61,optimization,2,fast,6
+62,tensor reorientation,2,rat,6
+63,fast,2,thoracic cord,6
+64,rhesus monkey,2,cervical cord,6
+65,segmentation,2,phased array,6
+66,turboprop,2,template,6
+67,diffusion tensor magnetic resonance imaging,2,normalization,6
+68,cerebral,2,complex diffusion,5
+69,dwi,2,traumatic brain injury,5
+70,complex shearlet transform,1,harmonization,5
+71,diffusion tractography,1,multi-site,5
+72,corpus callosum,1,combat,5
+73,adults,1,inter-scanner,5
+74,outcomes,1,abdominal organs,5
+75,interleaved epi,1,cervical spinal cord,5
+76,multi-echo dti,1,normal brain,5
+77,muscle microstructure,1,robust estimation,5
+78,small-angle x-ray scattering (saxs),1,outliers,5
+79,diffusion-tensor imaging scalar,1,linear,5
+80,intravoxel incoherent,1,mean,5
+81,macaque brain,1,hardi,5
+82,atlas,1,gpu,5
+83,population-averaged,1,glyphs,5
+84,harmonization,1,multifield,5
+85,multi-site,1,optimization,5
+86,combat,1,simulation,5
+87,inter-scanner,1,nerve,5
+88,cervical spondylotic myelopathy,1,axon regeneration,5
+89,myelopathy,1,axon degeneration,5
+90,post-traumatic hypersomnia,1,tissue,5
+91,traumatic brain injury (tbi),1,region growing,5
+92,structure tensor,1,clustering,5
+93,synchrotron radiation,1,multi-echo dti,4
+94,spinocerebellar ataxia,1,muscle microstructure,4
+95,abdominal organs,1,macaque brain,4
+96,distributed compressed sensing,1,atlas,4
+97,phantoms,1,population-averaged,4
+98,compressed-sensing,1,joint sparsity,4
+99,diffusion spectrum,1,phantoms,4
+100,parallel imaging,1,functional magnetic resonance imaging,4
+101,multi-band,1,canine,4
+102,simultaneous,1,grey matter,4
+103,diffusional kurtosis imaging (dki),1,breast,4
+104,multiple sclerosis (ms),1,unipolar,4
+105,fingolimod,1,bipolar,4
+106,voxel based morphometry (vbm),1,mean value,4
+107,temporal lobe epilepsy,1,alpha-synuclein,4
+108,perioperative planning,1,dopamine,4
+109,akaike information criterion,1,anatomical accuracy,4
+110,biophysical mechanisms of mr diffusion,1,navigation,4
+111,degenerative spine disease,1,surgery,4
+112,canine,1,smart software,4
+113,grey matter,1,brain analysis,4
+114,combined denoising and diffusion tensor fitting,1,mouse brain,4
+115,deep brain stimulation,1,high-resolution,4
+116,fibers,1,renal diffusion,4
+117,diffusion tensor image,1,rodent,4
+118,evaluation,1,neuroanatomy,4
+119,tensor-based,1,anxiety disorders,4
+120,anomalous diffusion,1,neurocircuitry,4
+121,fractional calculus,1,panic,4
+122,breast,1,brain imaging,4
+123,magnetization transfer ratio,1,spiral mri,4
+124,registration evaluation,1,snails,4
+125,applications,1,diffusion weighted signal,4
+126,parkinson's disease (pd),1,non-human primate,4
+127,diffusion weighted imaging (dwi),1,shape-adaptive,4
+128,chemical shift artifact,1,high resolution,4
+129,fat suppression,1,epidermoid,4
+130,medical big data,1,diffusion tensor mode,4
+131,method sharing,1,pathology,4
+132,diffusion tensor imaging(dti),1,partial volume,4
+133,deterministic fiber tracking,1,fiber crossing,4
+134,tensor voting,1,low b-value,4
+135,spherical clustering,1,pulsation,4
+136,compressed sensing,1,ssfse,4
+137,low rank,1,epi,4
+138,sparsity,1,diffusivity,4
+139,tract-based spatial statistics,1,phantom,4
+140,dijkstra's minimum-cost,1,eigenvalues,4
+141,free-water corrected dti,1,eigenvectors,4
+142,major depressive,1,b factor,4
+143,glyph design,1,diffusion gradient scheme,4
+144,comparative visualization,1,least-squares fit,4
+145,diffusion tensor field,1,monte carlo,4
+146,normal database,1,distortion,4
+147,unipolar,1,correction,4
+148,bipolar,1,field map,4
+149,mean value,1,trabecular bone,4
+150,diffusion magnetic,1,restricted diffusion,4
+151,blood-oxygen-level-dependent mr imaging,1,pulse,4
+152,arterial spin,1,newborn,4
+153,concussion,1,development,4
+154,network,1,adults,3
+155,axonal injury,1,outcomes,3
+156,mrn,1,intravoxel incoherent,3
+157,alpha-synuclein,1,myelopathy,3
+158,dopamine,1,parallel imaging,3
+159,narcissistic personality disorder,1,multi-band,3
+160,robust estimation,1,simultaneous,3
+161,outliers,1,deep brain stimulation,3
+162,linear,1,fibers,3
+163,cranial ultrasound,1,diffusion tensor image,3
+164,neurodevelopmental,1,evaluation,3
+165,diffusion tensor imaging - dti,1,tensor-based,3
+166,diffusionkurtosis imaging - dki,1,medical big data,3
+167,constrained spherical deconvolution,1,method sharing,3
+168,intersite,1,compressed sensing,3
+169,dti - dki fitting : a graphical toolbox for estimation and visualization,1,low rank,3
+170,brain development,1,sparsity,3
+171,neurosurgery,1,tract-based spatial statistics,3
+172,outcome,1,normal database,3
+173,neuronavigation,1,mrn,3
+174,sural nerve,1,magnetic resonance imaging (mri),3
+175,image,1,intersite,3
+176,non-local mean,1,neurosurgery,3
+177,graphics processing unit (gpu),1,outcome,3
+178,advanced mr imaging,1,neuronavigation,3
+179,clinical applications,1,sural nerve,3
+180,ii gliomas,1,image,3
+181,fiber dissection,1,anterior cruciate ligament,3
+182,anterior cruciate ligament,1,graft,3
+183,graft,1,spectral decomposition,3
+184,progressive multifocal leukoencephalopathy,1,gaussian,3
+185,spectral decomposition,1,non-gaussian,3
+186,array spatial sensitivity encoding technique,1,corticospinal tract,3
+187,b value,1,motor,3
+188,gaussian,1,dti reconstruction,3
+189,non-gaussian,1,k-space average,3
+190,corticospinal tract,1,image-space average,3
+191,motor,1,in vivo dti,3
+192,anatomical accuracy,1,connectome,3
+193,navigation,1,dti estimation,3
+194,surgery,1,variational principle,3
+195,smart software,1,non-local means,3
+196,brain analysis,1,total,3
+197,spatial regression,1,shearlet,3
+198,permutation resampling,1,brain malformations,3
+199,mouse brain,1,fibertracking,3
+200,high-resolution,1,structural connectivity,3
+201,multiple-modulation multiple echo,1,autism spectrum disorders,3
+202,carpal tunnel syndrome,1,hitchhiker's guide,3
+203,median nerve,1,acquisition,3
+204,dti reconstruction,1,analysis,3
+205,k-space average,1,visual pathway,3
+206,image-space average,1,diffusion tensor (dt),3
+207,in vivo dti,1,dt imaging (dti),3
+208,diffusion coefficient,1,dt interpolation,3
+209,diffusion anisotropy,1,posterior fossa,3
+210,cranial nerves,1,brain tumors,3
+211,b-value,1,riemann geometry,3
+212,myocardium infarction,1,ricci scalar,3
+213,white matter tracts,1,finsler,3
+214,projection fibers,1,tensor estimation,3
+215,connectome,1,cramer-rao lower bound,3
+216,diffusion scalar maps,1,glioblastoma,3
+217,mathematical,1,keyhole,3
+218,dti estimation,1,magnetic resonance keyhole,3
+219,variational principle,1,heart,3
+220,non-local means,1,muscular tissue,3
+221,total,1,spatial normalization,3
+222,number of diffusion gradient direction,1,stroke,3
+223,shearlet,1,motor function,3
+224,rotating interpolated compressed sensing,1,hemiparesis,3
+225,nonlinear diffusion tensor estimation,1,spike noise,3
+226,cerebral white matter,1,outlier detection,3
+227,diffusion tensor analysis,1,ripple,3
+228,normal development,1,fluid mechanics,3
+229,brain malformations,1,cerebral vascular,3
+230,fibertracking,1,diffusivity quantification,3
+231,structural connectivity,1,hypercapnia,3
+232,autism spectrum disorders,1,diffusion-mri,3
+233,diffusion weighted (dw) image,1,higher order tensors,3
+234,non,1,ternary quartics,3
+235,hitchhiker's guide,1,voxel-wise analysis,3
+236,acquisition,1,group comparison,3
+237,analysis,1,diffusion tensor magnetic resonance imaging,3
+238,visual pathway,1,measurement uncertainty,3
+239,rodent,1,wild bootstrap,3
+240,neuroanatomy,1,monte,3
+241,white matter myelination,1,sense,3
+242,paediatric brain,1,distortion correction,3
+243,degenerative myelopathy,1,susceptibility,3
+244,anxiety disorders,1,brain injury,3
+245,neurocircuitry,1,amnesia,3
+246,panic,1,fornix,3
+247,hydrocephalus,1,crossing tracts,3
+248,endoscopic third,1,mmme,3
+249,real-time processing,1,multiple echo,3
+250,optimal sequential,1,diffusion-weighted image,3
+251,diffusion tensor (dt),1,cognition,3
+252,dt imaging (dti),1,hippocampus,3
+253,dt interpolation,1,condition number,3
+254,susceptibility tensor imaging,1,complex shearlet transform,2
+255,magnetic susceptibility,1,diffusion tractography,2
+256,model-based (mb) method,1,corpus callosum,2
+257,t1-weighted (t1w) mri,1,interleaved epi,2
+258,multi-contrast,1,post-traumatic hypersomnia,2
+259,neurorehabilitation,1,traumatic brain injury (tbi),2
+260,posterior fossa,1,structure tensor,2
+261,brain tumors,1,synchrotron radiation,2
+262,diffusion spectrum imaging,1,distributed compressed sensing,2
+263,mild traumatic brain injury,1,compressed-sensing,2
+264,hardi,1,diffusion spectrum,2
+265,gpu,1,multiple sclerosis (ms),2
+266,glyphs,1,fingolimod,2
+267,multifield,1,voxel based morphometry (vbm),2
+268,xanthogranulomatous pyelonephritis,1,temporal lobe epilepsy,2
+269,riemann geometry,1,perioperative planning,2
+270,ricci scalar,1,degenerative spine disease,2
+271,finsler,1,anomalous diffusion,2
+272,tensor estimation,1,fractional calculus,2
+273,cramer-rao lower bound,1,magnetization transfer ratio,2
+274,glioblastoma,1,applications,2
+275,voxel-based analysis (vba),1,parkinson's disease (pd),2
+276,corpus callosum agenesis,1,diffusion weighted imaging (dwi),2
+277,fetal mri,1,chemical shift artifact,2
+278,brain imaging,1,fat suppression,2
+279,brain shift,1,tensor voting,2
+280,functional navigation,1,spherical clustering,2
+281,multimodal navigation,1,dijkstra's minimum-cost,2
+282,fast marching,1,free-water corrected dti,2
+283,brain connectivity analysis,1,major depressive,2
+284,imaging gradients,1,glyph design,2
+285,bias,1,comparative visualization,2
+286,simex,1,diffusion tensor field,2
+287,parameter estimation,1,diffusion magnetic,2
+288,bias correction,1,blood-oxygen-level-dependent mr imaging,2
+289,compressive sensing,1,arterial spin,2
+290,acquisition parameters,1,concussion,2
+291,diffusion-weighted,1,cranial ultrasound,2
+292,keyhole,1,neurodevelopmental,2
+293,magnetic resonance keyhole,1,diffusion tensor imaging - dti,2
+294,dwi/dti,1,diffusionkurtosis imaging - dki,2
+295,up-sampling,1,brain development,2
+296,registration-based,1,non-local mean,2
+297,spiral mri,1,advanced mr imaging,2
+298,snails,1,clinical applications,2
+299,diffusion weighted signal,1,array spatial sensitivity encoding technique,2
+300,arnold-chiari malformation,1,b value,2
+301,type iii,1,spatial regression,2
+302,simulation,1,permutation resampling,2
+303,nerve,1,multiple-modulation multiple echo,2
+304,axon regeneration,1,carpal tunnel syndrome,2
+305,axon degeneration,1,median nerve,2
+306,non-human primate,1,diffusion coefficient,2
+307,eeg/meg,1,diffusion anisotropy,2
+308,eit,1,cranial nerves,2
+309,heart,1,b-value,2
+310,muscular tissue,1,myocardium infarction,2
+311,spatial normalization,1,white matter tracts,2
+312,riemannian manifold,1,projection fibers,2
+313,brain white matter,1,diffusion scalar maps,2
+314,quality control,1,mathematical,2
+315,stroke,1,cerebral white matter,2
+316,motor function,1,diffusion tensor analysis,2
+317,hemiparesis,1,normal development,2
+318,rat,1,diffusion weighted (dw) image,2
+319,thoracic cord,1,non,2
+320,cervical cord,1,white matter myelination,2
+321,phased array,1,paediatric brain,2
+322,spike noise,1,degenerative myelopathy,2
+323,outlier detection,1,hydrocephalus,2
+324,ripple,1,endoscopic third,2
+325,tissue,1,real-time processing,2
+326,region growing,1,optimal sequential,2
+327,clustering,1,susceptibility tensor imaging,2
+328,template,1,magnetic susceptibility,2
+329,normalization,1,model-based (mb) method,2
+330,shape-adaptive,1,t1-weighted (t1w) mri,2
+331,eigenvector shift,1,multi-contrast,2
+332,background noise,1,neurorehabilitation,2
+333,diffusion anisotropy index (dai),1,diffusion spectrum imaging,2
+334,high resolution,1,xanthogranulomatous pyelonephritis,2
+335,fluid mechanics,1,voxel-based analysis (vba),2
+336,high angular resolution,1,corpus callosum agenesis,2
+337,epidermoid,1,fetal mri,2
+338,diffusion tensor mode,1,brain shift,2
+339,pathology,1,functional navigation,2
+340,dw/dti,1,multimodal navigation,2
+341,upsampling,1,fast marching,2
+342,registration-based interpolation,1,brain connectivity analysis,2
+343,cerebral vascular,1,imaging gradients,2
+344,diffusivity quantification,1,acquisition parameters,2
+345,hypercapnia,1,diffusion-weighted,2
+346,diffusion-mri,1,dwi/dti,2
+347,higher order tensors,1,up-sampling,2
+348,ternary quartics,1,registration-based,2
+349,high-angular resolution diffusion imaging,1,arnold-chiari malformation,2
+350,voxel-wise analysis,1,type iii,2
+351,group comparison,1,eeg/meg,2
+352,noise reduction,1,eit,2
+353,vascular enhancement (ve),1,riemannian manifold,2
+354,allen-cahn equation,1,brain white matter,2
+355,finite volume method,1,quality control,2
+356,geometric,1,eigenvector shift,2
+357,partial volume,1,background noise,2
+358,fiber crossing,1,high angular resolution,2
+359,low b-value,1,dw/dti,2
+360,collagen fibre orientation,1,upsampling,2
+361,polarised light,1,registration-based interpolation,2
+362,pulsation,1,vascular enhancement (ve),2
+363,measurement uncertainty,1,cerebral,2
+364,wild bootstrap,1,allen-cahn equation,2
+365,monte,1,finite volume method,2
+366,ssfse,1,geometric,2
+367,epi,1,collagen fibre orientation,2
+368,sense,1,polarised light,2
+369,distortion correction,1,scale space,2
+370,susceptibility,1,riemannian geometry,2
+371,diffusion tenser imaging,1,biomedical image processing,2
+372,spatially adaptive smoothing,1,bayesian regularization,2
+373,scale space,1,line,2
+374,riemannian geometry,1,diffusion tensor interpolation,2
+375,biomedical image processing,1,diffusion tensor statistics,2
+376,bayesian regularization,1,image segmentation,2
+377,brain injury,1,kullback-leibler divergence,2
+378,amnesia,1,dwi (diffusion weighted imaging),2
+379,fornix,1,dti (diffusion tensor imaging),2
+380,diffusivity,1,porous,2
+381,line,1,functional,2
+382,phantom,1,fiber connectivity,2
+383,crossing tracts,1,white-matter fiber tracts,2
+384,diffusion tensor interpolation,1,alzheimer's disease,2
+385,diffusion tensor statistics,1,independent component analysis trace,2
+386,eigenvalues,1,small-angle x-ray scattering (saxs),1
+387,eigenvectors,1,diffusion-tensor imaging scalar,1
+388,b factor,1,cervical spondylotic myelopathy,1
+389,diffusion gradient scheme,1,spinocerebellar ataxia,1
+390,least-squares fit,1,diffusional kurtosis imaging (dki),1
+391,monte carlo,1,akaike information criterion,1
+392,distortion,1,biophysical mechanisms of mr diffusion,1
+393,correction,1,combined denoising and diffusion tensor fitting,1
+394,field map,1,registration evaluation,1
+395,mmme,1,diffusion tensor imaging(dti),1
+396,multiple echo,1,deterministic fiber tracking,1
+397,diffusion-weighted image,1,network,1
+398,image segmentation,1,axonal injury,1
+399,kullback-leibler divergence,1,narcissistic personality disorder,1
+400,dwi (diffusion weighted imaging),1,constrained spherical deconvolution,1
+401,dti (diffusion tensor imaging),1,graphics processing unit (gpu),1
+402,porous,1,ii gliomas,1
+403,trabecular bone,1,fiber dissection,1
+404,restricted diffusion,1,progressive multifocal leukoencephalopathy,1
+405,functional,1,number of diffusion gradient direction,1
+406,pulse,1,rotating interpolated compressed sensing,1
+407,fiber connectivity,1,nonlinear diffusion tensor estimation,1
+408,white-matter fiber tracts,1,mild traumatic brain injury,1
+409,alzheimer's disease,1,compressive sensing,1
+410,cognition,1,diffusion anisotropy index (dai),1
+411,newborn,1,high-angular resolution diffusion imaging,1
+412,development,1,noise reduction,1
+413,hippocampus,1,diffusion tenser imaging,1
+414,independent component analysis trace,1,spatially adaptive smoothing,1
+415,condition number,1,,

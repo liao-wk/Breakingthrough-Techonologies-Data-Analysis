@@ -1,0 +1,690 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE Capacity; distributed storage; network coding
+ID EXACT-REGENERATING CODES
+ER
+
+PT J
+DE Data deduplication; Delta compression; Distributed storage; Similarity
+   detection
+ER
+
+PT J
+DE Consistency; distributed storage; distributed computing; erasure coding;
+   index coding; shared memory
+ER
+
+PT J
+DE Tokamak; DAQ; Data storage; Distributed storage
+ID DATA ARCHIVING SYSTEM
+ER
+
+PT S
+DE Distributed energy storage; energy Internet; function orientation;
+   application mode; development strategy
+ER
+
+PT B
+DE Distributed energy storage; power distribution networks
+ID COORDINATION
+ER
+
+PT B
+DE software-defined data center; data storage system; distributed data
+   storage systems; software-defined storage; replicas; erasure codes; high
+   availability
+ER
+
+PT S
+DE distributed file storage system; distributed metadata; cloud computing;
+   fault-tolerance; load balancing; distributed consensus; agreement
+ER
+
+PT S
+ER
+
+PT J
+DE Distributed heterogeneous environment; massive data; storage; sharing;
+   distributed storage; HBase
+ER
+
+PT B
+DE Distributed control; energy storage system; power tracking; energy
+   balancing
+ID DC MICROGRIDS; DROOP CONTROL; OPERATION; INVERTERS
+ER
+
+PT S
+DE Alternating Optimization; Distributed Storage Systems; Erasure Coding;
+   Mean Latency
+ID TRADE-OFF; QUEUE
+ER
+
+PT J
+DE Distributed storage; erasure coding; efficiency; information dispersal
+   algorithm
+ID SYSTEMS; INFORMATION; DISPERSAL; FIELDS; CODES
+ER
+
+PT J
+DE Distributed heterogeneous environment; Massive data; Storage;
+   Clustering; Fuzzy C mean; Information fusion
+ER
+
+PT J
+DE Independent distributed source coding; exact repair; distributed
+   storage; binary codes
+ID REGENERATING CODES; RATE REGIONS; CONSTRUCTION; MULTICAST; SYSTEMS;
+   DESIGN
+ER
+
+PT J
+DE cognitive storage sinks; conventional sensors; DDD-framework;
+   distributed data distribution framework; DKI-framework; distributed
+   knowledge inference framework; distributed storage environment;
+   distributed knowledge inference
+ID DATA-CENTRIC STORAGE; WIRELESS SENSOR; SCHEME; NETWORKS
+ER
+
+PT J
+DE AC/DC hybrid microgrid; centralized energy storage; distributed energy
+   storage; benefit; reliability
+ER
+
+PT J
+DE File-system faults; data corruption; fault tolerance
+ID DESIGN
+ER
+
+PT S
+ID ENERGY-STORAGE; NETWORK CONSTRAINTS; SYSTEMS; AC
+ER
+
+PT S
+DE energy storage unit; distributed gradient algorithm; time-varying
+   topology; suppress channel noise
+ID COOPERATIVE CONTROL; SYSTEMS; GENERATION; BATTERIES
+ER
+
+PT S
+DE Distributed consensus algorithm; Energy storage systems; Transmission
+   losses; Supply-demand balance
+ID ENERGY-STORAGE SYSTEMS; COOPERATIVE CONTROL; ECONOMIC-DISPATCH; VOLTAGE
+   STABILITY; NETWORKS; STRATEGY; AGENTS
+ER
+
+PT S
+DE Electrical energy storage technology; micro grid; distributed
+   generation; new energy power generation; smart grid; energy internet;
+   electric vehicles
+ER
+
+PT B
+ID CODES
+ER
+
+PT B
+DE distributed storage system; mimic defense; dynamic; heterogeneous;
+   redundancy
+ER
+
+PT B
+DE big data; distributed file system; solid state drive; heterogeneous
+   storage; data value; HDFS
+ER
+
+PT S
+DE Cloud computing; Data flow calculation; Big data storage; Cloud storage;
+   Data mining
+ER
+
+PT S
+ER
+
+PT S
+DE distributed storage systems; reliability analysis; MTTDL; locally
+   repairable codes
+ID CODES
+ER
+
+PT B
+DE Distributed storage; performance; consistency; availability
+ER
+
+PT J
+DE Distributed storage system; transparent encryption; confidentiality;
+   integrity control model
+ER
+
+PT B
+DE Big Data; Hash Distribution; Distributed Storage; Data Backup; Load
+   balance
+ER
+
+PT S
+DE Mass Data; Divisional storage model; Distributed File System; Orbiting
+   Storage System
+ER
+
+PT B
+DE Distributed Storage System; Replication; Erasure Coding; Hybrid Codes;
+   Regenerating Codes; Network Coding; Repair Bandwidt; Storage
+ER
+
+PT J
+DE Regenerating codes; scalable distributed storage; redundancy upgrade;
+   upgrade bandwidth
+ID CONSTRUCTION; SYSTEMS
+ER
+
+PT J
+ID CONSTRUCTAL THEORY; SYSTEM; UNIT; PARAFFIN; PHYSICS; FINS
+ER
+
+PT J
+DE Distributed storage system; Storage overhead; Hadoop; HDFS; Data
+   replication; Erasure coding; RAID
+ID PACKING
+ER
+
+PT B
+DE space information network; autonomous system network; hybrid distributed
+   storage; data persistence
+ID CODES
+ER
+
+PT S
+DE distributed systems; distributed file system; network storage;
+   meta-description; cross-platform; big data
+ER
+
+PT B
+DE distributed storage system; data placement; data throughput; GlusterFS
+ER
+
+PT S
+DE LAN; Distributed System; Data Storage
+ER
+
+PT B
+DE optimization; RDBMS; column-oriented storage
+ER
+
+PT S
+ER
+
+PT B
+DE Named Data Networking; distributed storage; NFD
+ER
+
+PT J
+DE Distributed storage; MSR; Hadamard; repair strategy; computation load
+ER
+
+PT J
+DE Ant colony algorithm; distributed mass storage; heuristic algorithms;
+   scheduler
+ID OPTIMIZATION; MAPREDUCE; ACO; GA
+ER
+
+PT J
+DE Battery energy storage systems (BESS); distributed cooperative control;
+   microgrid; multi-agent systems
+ID INVERTERS
+ER
+
+PT J
+DE partial shading; flywheel storage system; photovoltaic; distribution
+   systems; distributed generation
+ID PV INTEGRATION; ENERGY-STORAGE; CAPACITY; BATTERY
+ER
+
+PT J
+DE Decentralized control; distributed control; distributed generation (DG);
+   distributed storage (DS); droop control; global power sharing (GPS)
+   control; hybrid grid; multilevel control; smart grid
+ID CONTROL STRATEGY; GENERATION INVERTERS; HIERARCHICAL CONTROL; PARALLEL
+   OPERATION; ENERGY-STORAGE; DC MICROGRIDS; VOLTAGE; SYSTEM;
+   COMMUNICATION; MITIGATION
+ER
+
+PT J
+DE Cloud computing; Distributed storage system; Green computing; QoS
+   constraints
+ID COMPUTING ENVIRONMENTS; POWER MANAGEMENT; DATA CENTERS; AWARE;
+   COMPUTATION; SHUTDOWN; SERVERS
+ER
+
+PT S
+DE Distributed energy storage systems; Droop control; Equalization
+   algorithm; State of Charge
+ID OF-CHARGE BALANCE; DC-MICROGRIDS; HIERARCHICAL-CONTROL; DROOP CONTROL;
+   FUZZY CONTROL; MANAGEMENT; GENERATION; INVERTERS
+ER
+
+PT S
+DE Distributed storage systems; Fractional Repetition Codes; Flower Codes;
+   Sequences; Dress Codes; Codes for distributed storage
+ID STORAGE
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT B
+DE Repair-locality; distributed storage; Rateless codes
+ER
+
+PT B
+DE Cloud application benchmarks; Storage and file systems; Virtualization
+ER
+
+PT B
+DE Log storage; Load balance; Virtual node; Consistency hash
+ER
+
+PT S
+DE Distributed storage system; Data reliability; Successfully accessing
+   data probability
+ER
+
+PT S
+DE Data redundancy; Distributed storage; Erasure code; Storage reliability
+ER
+
+PT J
+DE Multi-agent system; distributed energy storage; plug-in hybrid
+   electrical vehicle; control architecture; plug and play
+ID POWER ENGINEERING APPLICATIONS; CONVERTER
+ER
+
+PT S
+DE SCADA simulation; distributed generation; storage technologies;
+   generation dispatch; generation cost
+ID ENERGY-STORAGE; POWER
+ER
+
+PT J
+DE Distributed Storage System; Block Migration; Storage Tiering; iSCSI
+ER
+
+PT J
+DE Energy storage systems; Automatic generation control; Frequency
+   regulation; Distributed generation
+ER
+
+PT B
+DE online social network; distributed storage system; dynamic partition and
+   replication; storage capacity limited
+ER
+
+PT S
+DE Hadoop; HDFS; MapReduce
+ER
+
+PT S
+DE cloud computing; storage structure; block-level; distributed storage
+ER
+
+PT S
+DE Cloud computing; Hadoop; distributed file systems; HDFS; file storage
+ER
+
+PT S
+DE Fuzzy logic control; gain-scheduling; energy storage system (ESS); DC
+   microgrids
+ID HIERARCHICAL CONTROL
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT S
+DE Distributed storage system; wireless storage; maximum distance separable
+   coding; failed recovery
+ID CONSTRUCTION
+ER
+
+PT S
+DE Distributed algorithms; Expanders; Geo-Routing; P2P; Random walk;
+   Voronoi Diagrams
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT B
+DE File System; Distributed File System; Data Center Networks
+ER
+
+PT S
+DE Trust management; Trust storage; Certificateless signature; Chord
+   protocol
+ID AD HOC NETWORKS; SERVICE
+ER
+
+PT S
+DE PV; voltage profile; distributed storage; demand management; peak
+   shaving; power quality
+ID OPTIMIZATION
+ER
+
+PT S
+ER
+
+PT S
+DE Distributed storage systems; Service level agreement; Quality of service
+ID SERVICE; QUALITY
+ER
+
+PT B
+DE distributed storage; highly available storage; imagery data; image
+   processing; LH*RS
+ER
+
+PT B
+DE information dispersal algorithm; HDFS; distributed storage; load
+   balancing ability
+ER
+
+PT S
+ID CODES; SYSTEMS
+ER
+
+PT S
+ER
+
+PT B
+DE SMES; distributed SMES; hybrid energy storage; energy management; smart
+   grid
+ER
+
+PT B
+ER
+
+PT B
+DE Cloud storage; distributed storage; without central authority;
+   attribute-based encryption; distributed erasure code
+ID ATTRIBUTE-BASED ENCRYPTION
+ER
+
+PT J
+DE Information storage; Intrinsic computation; Complex systems; Information
+   theory; Cellular automata; Particles
+ID CELLULAR-AUTOMATA; MEMORY; SYNCHRONIZATION; DYNAMICS; ENTROPY; SYSTEMS
+ER
+
+PT J
+DE Data reconstruction; distributed storage; partial downloading; wireless
+   resource allocation
+ID CONSTRUCTION; CODES
+ER
+
+PT J
+DE Active network management; advanced distribution automation; distributed
+   energy storage; islanded operation; islanding coordination; multiagent
+   systems; priority load restoration; smart grid
+ID SERVICE RESTORATION; DISTRIBUTION-SYSTEM; EXPERT-SYSTEM; PART I; POWER;
+   RECONFIGURATION
+ER
+
+PT J
+DE Decentralized erasure code; proxy re-encryption; threshold cryptography;
+   secure storage system
+ID DISTRIBUTED NETWORKED STORAGE
+ER
+
+PT B
+DE Erasure Code; Distributed File System; Hadoop
+ER
+
+PT S
+DE Distributed File Systems; Cloud Infrastructure; Distributed Hash Tables;
+   Data Partitioning; Query Evaluation
+ER
+
+PT B
+DE Distributed File System; Massive Small Files; Metadata; Storage
+   Efficiency
+ER
+
+PT B
+DE Erasure coding; Distributed Storage Systems
+ER
+
+PT B
+DE Cloud storage; distributed storage system; regenerating codes; network
+   coding
+ID DISTRIBUTED STORAGE
+ER
+
+PT B
+DE P2Pcloud; load balance; logical server; DHT
+ER
+
+PT S
+DE Distributed storage systems; Erasure codes; Regenerating codes
+ER
+
+PT S
+DE renewable energy generation; mechanical energy storage; electrochemical
+   energy storage
+ER
+
+PT J
+DE power systems; distributed generation; energy storage; renewable energy
+ID LEAD-ACID-BATTERIES; DYNAMICAL MODELS
+ER
+
+PT S
+DE Object-based storage; metadata management; bloom-filter; unstructured
+   data
+ER
+
+PT B
+DE mooring monitoring system; distributed storage; prediction method;
+   massive monitoring data; Map/Reduce framework
+ER
+
+PT J
+DE virtualization; virtualized desktop; distributed storage
+ER
+
+PT J
+DE Mass storage; fault tolerance; modeling techniques; redundant design;
+   distributed systems
+ID SYSTEMS
+ER
+
+PT B
+DE GFS; distributed; cloud storage; master
+ER
+
+PT S
+DE Data Storage Method; Integrated Threshold; Distributed; Wireless sensor
+   networks
+ID SENSOR NETWORKS; CENTRIC STORAGE
+ER
+
+PT B
+ER
+
+PT J
+DE Networked storage system; distributed storage system; decentralized
+   erasure code; threshold encryption; security
+ER
+
+PT S
+DE Micro-storage system (MSS); distributed generation (DG); photovoltaic
+   (PV); smart meter (SM); supervisory control and data acquisition (SCADA)
+ID INVERTER
+ER
+
+PT S
+DE Distributed Computing System; Storage Subsystem; iSCSI; External
+   Storage; Storage Cloud
+ID REMOTE
+ER
+
+PT B
+DE wireless sensor network; distributed data storage policy; query
+   optimization; data security
+ER
+
+PT J
+ID SYSTEMS; MEMORY
+ER
+
+PT B
+DE survivable storage; quorum system; coterie
+ER
+
+PT B
+DE distributed hash table; structured peer-to-peer networks; distributed
+   storage; virtual disk driver
+ER
+
+PT B
+DE Regular graph; Distributed hash table; Network storage; Peterson
+ER
+
+PT B
+DE distributed storage; survivability; data distributing; Jordan matrix
+ER
+
+PT B
+ER
+
+PT B
+DE distributed computing; data accessing; distributed storage;
+   configuration; fault tolerance
+ER
+
+PT B
+DE distributed storage system; replica; data currency
+ER
+
+PT B
+DE Distributed storage system; Cloud model; Reality
+ER
+
+PT J
+DE deletion-tolerant code; storage system; distributed system; reliability
+ER
+
+PT B
+DE Distributed storage; dependable network; virtual storage; scheme;
+   performance-optimizing
+ER
+
+PT B
+DE weighted distributed hash tables; data distribution; data node; storage
+   node
+ER
+
+PT B
+ID ARRAY CODES
+ER
+
+PT B
+ER
+
+PT J
+DE high temperature superconductor; energy storage; magnet; flywheel;
+   distributed power generation
+ER
+
+PT J
+DE distributed file storage; low-density parity-check (LDPC) codes;
+   high-availability; high-performance
+ID SYSTEMS; NETWORK
+ER
+
+PT J
+ER
+
+PT S
+DE wind enery; distribution systems; system losses; energy storage
+ER
+
+PT B
+DE fault tolerant; storage system; queue model; distributed storage
+ER
+
+PT B
+ID PACKET-SWITCHING NETWORKS; ALGORITHM
+ER
+
+PT S
+DE grid caching; collaborative cache; grid data access; temporal storage
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT B
+DE distributed storage; agent; performative
+ER
+
+PT S
+DE distributed storage; non-uniform capacity; dynamic interval mapping;
+   balanced distribution and adaptive
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT B
+DE application-control; data-intensive application; distributed storage
+   policies
+ER
+
+PT B
+DE distributed storage; data distribution policy; estimation and decision
+   mechanism; polyhedron view
+ER
+
+PT B
+DE GigaSpaces; tuple space; database; distributed processing
+ER
+
+PT S
+DE optical storage; media assets management; hierarchical storage
+ER
+
+PT S
+ID SYSTEMS
+ER
+
+EF

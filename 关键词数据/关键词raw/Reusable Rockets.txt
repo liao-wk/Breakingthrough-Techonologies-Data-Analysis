@@ -1,0 +1,736 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE Trajectory optimization; VTVL reusable rocket; finite-element
+   collocation approach; IPOPT; internal-external-growth strategies
+ID DYNAMIC OPTIMIZATION; ASCENT TRAJECTORIES; GUIDANCE; COLLOCATION;
+   CONSTRAINTS; STRATEGIES
+ER
+
+PT J
+ID REENTRY VEHICLES; OPTIMIZATION
+ER
+
+PT J
+ID POWERED-DESCENT GUIDANCE; TRAJECTORY OPTIMIZATION; LOSSLESS
+   CONVEXIFICATION; CONVEX-OPTIMIZATION; ENTRY; IMPLEMENTATION
+ER
+
+PT J
+ID SIMULATION; FLOW
+ER
+
+PT J
+DE Methane; Oxygen; Gas generator; Turbopump; Thrust chamber; Tests
+ER
+
+PT J
+DE Space access; Trajectory optimisation; Space transportation
+ID MULTIDISCIPLINARY DESIGN; OPTIMIZATION; VEHICLE
+ER
+
+PT J
+ER
+
+PT J
+DE Semi-circular cylinder; Turbulence; Compressibility; Calculation;
+   Experiment
+ID STRESS-TRANSFER MODEL; CIRCULAR-CYLINDER; VORTEX CELLS; AIRFOIL;
+   ENHANCEMENT; CURVATURE; SCHEMES; SUCTION; FLUID
+ER
+
+PT J
+ER
+
+PT J
+DE Rocket-based-combined-cycle; dual-rocket-based-combined-cycle; liquid
+   oxygen; methane staged cycle liquid-rocket engine; two-stage-to-orbit
+   launch vehicle; launch trajectory
+ID SUPERSONIC MIXING LAYER; PROPULSION; SPACE; FLAME
+ER
+
+PT J
+DE Sounding rocket; Microgravity; Suborbital; Hybrid rocket motor; Hydrogen
+   peroxide; Launch vehicle
+ER
+
+PT J
+DE Flush air data system; hypersonic flight test; Reusable Launch Vehicle
+   Technology; winged-body configuration
+ER
+
+PT J
+DE Burning rate; igniter; motor case; performance prediction; solid rocket
+   booster
+ID PERFORMANCE
+ER
+
+PT B
+ID COLLECTION; VEHICLES
+ER
+
+PT B
+ID ROCKET MOTOR; PERFORMANCE
+ER
+
+PT J
+ID HYPERSONIC VEHICLE; DESIGN; PROPULSION
+ER
+
+PT J
+DE Fluid-structural interaction; Rocket nozzle; Aeroelastic stability; Side
+   loads
+ER
+
+PT J
+DE Liquid Rocket Engine; Methane/Oxygen Propellant; Low Cost Launch
+   Vehicle; Reusable Launch Vehicle; Manned Planetary Exploration
+ER
+
+PT J
+DE Liquid-propellant rocket engine; health condition monitoring;
+   multi-algorithm parallel integrated; decision-making; Bayesian judgment
+   method
+ER
+
+PT J
+DE Rocket engine; Thrust chamber; Regenerative cooling; Heat transfer;
+   Mechanical load; Cyclic plasticity; Ratcheting
+ID NUMERICAL-SIMULATION
+ER
+
+PT J
+DE Thermal choking; Quasi-one-dimensional model; Ejection process; Combined
+   cycle engine; RBCC
+ID SUPERSONIC FLOWS; MOLECULAR-WEIGHT; PERFORMANCE; CONFIGURATION;
+   OPTIMIZATION; PROPULSION; AREA; JET
+ER
+
+PT J
+DE Liquid rocket; levitation force; small clearance; superconductor magnet
+   system; finite element method; non-coaxial
+ID HARD SUPERCONDUCTORS; PERMANENT-MAGNET; BEARINGS; VEHICLE; DESIGN; FIELD
+ER
+
+PT S
+ER
+
+PT S
+DE Sounding rocket; Technology Demonstrator; Trajectory; Simulation;
+   Dynamic
+ER
+
+PT J
+DE reusable lower stage; assessment of cost indexes; analysis of cost;
+   competitiveness; cost of launch services; launch vehicle cost
+ER
+
+PT S
+DE space debris; special spacecraft debris collector; criteria function;
+   characteristic velocity gains; design parameters; total resource
+ER
+
+PT S
+ER
+
+PT J
+DE Multidisciplinary Design Optimization; Two-Stage-to-Orbit Reusable
+   Launch Vehicle; Rocket-Based Combined Cycle Engine; Conceptual Design
+   Study; Future Space Transportation System
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT J
+DE Stratosphere; Ozone; Emissions
+ID STRATOSPHERIC WATER-VAPOR; NITRIC-OXIDE PRODUCTION; OZONE DEPLETION;
+   TEMPERATURE; MESOSPHERE; EXHAUST; REENTRY; ROCKET; CLOUDS; TRENDS
+ER
+
+PT J
+DE Liquid-Propellant Rocket Engine (LRE); Space Shuttle Main Engine (SSME);
+   Simulation Model; Fault Simulation and Analysis; Fault Detection and
+   Diagnosis (FDD); MATLAB/Simulink
+ER
+
+PT J
+ER
+
+PT J
+DE Space shuttle main engine; Fault detection; Fault diagnosis; Fault
+   factor; Linear regression; Confidence interval
+ER
+
+PT J
+DE Ablative materials; Elastomeric heat shielding materials; Solid rocket
+   motors; Thermal protection system
+ID THERMAL PROTECTION SYSTEMS; DEGRADATION BEHAVIOR; INSULATOR COMPOUND;
+   COMPOSITE-MATERIAL; RUBBER COMPOSITES; NANOCOMPOSITE; FLAMMABILITY;
+   FIBERS
+ER
+
+PT J
+DE liquid rocket engine; staged combustion cycle; expander cycle; gas
+   generator cycle; kerosene; hydrogen; methane; KSLV-II; 3D printing
+ID FUELS
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE alpha, alpha '-bis(substituted-benzylidene)cycloalkanones; Nano-TiO2;
+   Crystal structure
+ID CROSS-ALDOL CONDENSATION; SOLVENT-FREE SYNTHESIS; REUSABLE CATALYST;
+   ROCKET FUELS; NANO TIO2; EFFICIENT; CYCLOALKANONES; MICROWAVE; KETONES;
+   DEGRADATION
+ER
+
+PT S
+ER
+
+PT J
+DE Space Tethered System; Payload Tossing; Optimal Control; Hamilton Energy
+ID ELLIPTIC ORBITS; DYNAMICS
+ER
+
+PT J
+DE space launch; specific cost; reusability; aerospace plane; rocket;
+   WIG-craft; sea waves; flight control; relative motion control; docking;
+   landing in the sea
+ER
+
+PT B
+ER
+
+PT B
+DE GEO; Satellite Launcher; Hohmann Transfer Ellipse; Satellite Orbit;
+   Launching Vehicles
+ER
+
+PT B
+ER
+
+PT B
+DE Sounding rocket; Technology Demonstrator; Reusability; COTS;
+   Improvements; Student
+ER
+
+PT B
+DE paraglider; precision airdrop system; sounding rocket; cost-effective;
+   COTS; modular architecture; reusable
+ER
+
+PT J
+DE Sounding Rocket; Microgravity experiment
+ER
+
+PT J
+DE tethered satellite system; TSS; payload transport; optimal control;
+   Hamiltonian energy
+ER
+
+PT J
+DE General Public; First Year Undergraduate/General; Demonstrations;
+   Analogies/Transfer; Phases/Phase Transitions/Diagrams; Reactions;
+   Thermal Analysis; Alcohols; Gases
+ID SAFETY; THEME
+ER
+
+PT J
+ER
+
+PT J
+DE E-sail; Mars; Manned spaceflight; Asteroid mining; Propellantless
+   propulsion
+ID RADIATION; ASTEROIDS; MISSIONS; TRANSIT; THRUST
+ER
+
+PT J
+DE Creep properties; Processing; Texture; Copper alloy
+ID ALLOYS
+ER
+
+PT J
+DE Dynamic pressure; Reusable launch vehicle; Factor of safety; Ablation
+   system; Reliability; Slow buming propellant; Static test
+ER
+
+PT J
+DE Reusable sounding rocket; Rocket propulsion; Aerospace education; Solid
+   rocket motor; Detonation engine; Cansat
+ER
+
+PT B
+ER
+
+PT S
+DE Winged Rocket; Parafoil
+ER
+
+PT B
+DE sounding rocket; rocket propulsion; cost-effective atmospheric
+   measurements; modular architecture; reusable
+ER
+
+PT S
+DE SMARD; REXUS; TUM; CubeSat; MOVE-II; SMA; HDRM
+ER
+
+PT B
+DE Liquid rocket engine; oxygen; hydrogen; mechanical seal; hybrid ceramic
+   ball bearing
+ER
+
+PT J
+ER
+
+PT S
+ER
+
+PT S
+DE Reentry; Hypersonic; Trajectory Optimization; RBCC; Gauss Pseudospectral
+   Method
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT J
+ID THERMOCHEMICAL EROSION; HEAT-TRANSFER; GRAPHITE; ABLATION; MOTORS;
+   MODEL; RECESSION; INSERTS; FLOWS
+ER
+
+PT J
+DE fluid-structure interaction; FEMs; damage; viscoplasticity;
+   Navier-Stokes
+ID LOCALIZATION; FORMULATION; PLASTICITY; LINER
+ER
+
+PT J
+DE Reusable rocket engine; Preventive maintenance; Effective age;
+   Reliability; Cost; Genetic algorithm
+ID REPAIRABLE SYSTEMS; OPTIMIZATION; REDUCTION; INTENSITY; POLICIES; AGE
+ER
+
+PT J
+DE Economics; electromagnetic (EM) launch; pulsed power; space launch
+ER
+
+PT J
+ID ELLIPTIC SHAPE-TRANSITION; SPACE; COMBUSTION; PROPULSION; PLANES
+ER
+
+PT S
+ER
+
+PT B
+DE reusable rocket; health monitoring system; RVT; wireless sensor network;
+   wireless power transmission; IC sensor tag; MIMO; amplifier; GaAs pHEMT
+ID LOW-NOISE AMPLIFIER; M CMOS TECHNOLOGY
+ER
+
+PT B
+ER
+
+PT S
+DE Starshade; Occulter; Exoplanet; Debris Disk; Formation Flying; Airship
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT J
+ID DRAG REDUCTION; OPTIMIZATION; BLUNTNESS; VEHICLES; SYSTEMS; BODIES
+ER
+
+PT B
+DE trajectory optimization; winged rocket; distributed genetic algorithm;
+   hierarchical clustering
+ER
+
+PT S
+ID DIRECTIONAL SOLIDIFICATION; IN-SITU; ALLOYS; TRANSITION
+ER
+
+PT J
+ER
+
+PT J
+DE Sapphire; Platinum; Thin film metallization; Pressure sensor; Harsh
+   environment; Reusable packaging
+ID THIN-FILMS; 500-DEGREES-C; RESISTIVITY; OPERATION; SAPPHIRE; SILICON;
+   HEATER; FIELD
+ER
+
+PT B
+ER
+
+PT S
+ID PHASE NONLINEAR-SYSTEMS
+ER
+
+PT B
+ER
+
+PT B
+DE Adaptive Control; Flight Control
+ER
+
+PT J
+DE Flyback; Navigation; Information Fusion
+ER
+
+PT J
+DE Cu-Cr2Nb alloy; In situ precipitation; Cu-8Cr-4Nb; Aluminothermic
+   process
+ID PRECIPITATION
+ER
+
+PT S
+ER
+
+PT B
+DE Adaptive Control; Flight Control
+ER
+
+PT J
+DE Space-tourism roadmap; RLV; SpaceLiner
+ER
+
+PT J
+ER
+
+PT S
+DE sapphire; platinum; thin film metallization; pressure sensor; harsh
+   environment; reusable packaging
+ID 500-DEGREES-C; OPERATION
+ER
+
+PT S
+ER
+
+PT B
+DE Winged Rocket; Flight Test; Navigation; Guidance; Control
+ER
+
+PT B
+DE Optimal Trajectory Generation; Genetic Algorithm; FPGA; Winged Rocket
+ER
+
+PT B
+DE rocket based combined cycle; system design; hypersonic vehicle;
+   experimental investigation; mode transition; thermal choke
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE DARE; DEIMOS; methane; student projects; rocket engine; amateur altitude
+   record; design; tests
+ER
+
+PT J
+ID PROPELLANT; IGNITION; FLOW
+ER
+
+PT J
+ID ELLIPTIC SHAPE TRANSITION
+ER
+
+PT S
+ER
+
+PT J
+ER
+
+PT S
+DE heating test; C/C composite; SiC coating; interlayer effect
+ER
+
+PT J
+DE evolution; infrastructure; launch vehicle; multidisciplinary; rockets
+ER
+
+PT J
+ER
+
+PT J
+DE coatings; tension test; adhesion; finite element modeling
+ID THERMAL BARRIER COATINGS; ALUMINIDE BOND COAT; SUBSTRATE ADHESION; FILMS
+ER
+
+PT J
+ER
+
+PT S
+ER
+
+PT J
+DE health monitoring; fiber Bragg grating sensor; strain measurement;
+   cryogenic composite tank; reusable rocket
+ID BRAGG GRATING SENSORS; VEHICLE; SYSTEM
+ER
+
+PT J
+ER
+
+PT J
+ID COMPUTATIONS
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT S
+ER
+
+PT J
+DE software framework; multiphysics simulation; system integration; data
+   abstraction
+ID OVERLAYING SURFACE MESHES; ALGORITHMS; LOAD
+ER
+
+PT S
+DE polymer matrix composites; extreme environments; damage; fracture;
+   durability; high voltage; high temperature; graphite/polyimides;
+   composite insulators; rocket engine
+ID NON-CERAMIC INSULATORS; X-RAY-DIFFRACTION; BRITTLE-FRACTURE; NONCERAMIC
+   INSULATORS; ELASTIC PROPERTIES; THERMAL-EXPANSION; FAILURE ANALYSES;
+   GRAPHITE FIBERS; COEFFICIENTS
+ER
+
+PT J
+ER
+
+PT S
+DE nuclear propulsion; Lunar missions
+ER
+
+PT J
+ID COEFFICIENTS; NOZZLE
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE reusable launch vehicle; Integral-Rocket-Ramjet; two-stage-to-orbit
+ER
+
+PT J
+ID FAULT-DIAGNOSIS; SYSTEMS
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT B
+ID FLIGHT EXPERIMENTS; SMART STRUCTURES
+ER
+
+PT S
+ER
+
+PT J
+ID GENERATION; LAUNCHERS
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT J
+ER
+
+PT J
+DE reusable launchers; SABRE; SKYLON; SSTO
+ER
+
+PT J
+ID CONSTRAINTS
+ER
+
+PT J
+ID SSTO ROCKETS; PRACTICAL POSSIBILITY; X-33; SPACE
+ER
+
+PT B
+ER
+
+PT S
+DE real-time health monitoring; fiber Bragg grating sensor; strain
+   measurement; CFRP composite; cryogenic tank; reusable rocket
+ID REUSABLE LAUNCH VEHICLE; SYSTEM
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT J
+DE carbon fibre; ablation; thermal properties; mechanical properties
+ID FIBERS; NANOTUBES
+ER
+
+PT J
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT J
+DE impact; licensing; maximum probable loss; reusable launch vehicles;
+   probabilistic methods; risk analysis; satellites; space vehicles
+ER
+
+PT J
+ER
+
+PT J
+ID DAMAGE-MITIGATING CONTROL; SYSTEMS
+ER
+
+PT J
+ER
+
+PT J
+ID DAMAGE-MITIGATING CONTROL; ROBUST MULTIVARIABLE CONTROL; MECHANICAL
+   SYSTEMS; PERFORMANCE; ROTORCRAFT; FLIGHT
+ER
+
+PT J
+ER
+
+PT J
+DE mechanical properties; cryogenics; propellant tank; matrix crack;
+   delan-lination; interlaminar fracture toughness
+ER
+
+PT J
+ID SLIDING REGIMES; SPACECRAFT
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ID DAMAGE-MITIGATING CONTROL; MECHANICAL SYSTEMS
+ER
+
+PT J
+ER
+
+PT J
+ID REYNOLDS-STRESS MODEL; DILATATION-DISSIPATION; CLOSURE; LAYER;
+   PREDICTION; CORNER
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE system and mission optimization; conceptual vehicle design; airbreathing
+   vehicle; rocket vehicle; trajectory optimization; nonlinear programming
+ER
+
+PT J
+DE damage-mitigating control; fatigue crack growth; variable-amplitude
+   stress excitation
+ID LIFE-EXTENDING CONTROL; MECHANICAL STRUCTURES; SYSTEMS
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+EF

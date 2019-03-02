@@ -1,0 +1,5808 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Haapaniemi, E
+   Botla, S
+   Persson, J
+   Schmierer, B
+   Taipale, J
+AF Haapaniemi, Emma
+   Botla, Sandeep
+   Persson, Jenna
+   Schmierer, Bernhard
+   Taipale, Jussi
+ID CELLS; INHIBITION; EFFICIENCY; REPAIR; GENES
+RI Schmierer, Bernhard/C-1416-2009
+OI Schmierer, Bernhard/0000-0002-9082-7022; Botla,
+   Sandeep/0000-0001-9937-0455
+NR 20
+TC 59
+Z9 61
+U1 92
+U2 98
+ER
+
+PT J
+AU Chen, JS
+   Ma, EB
+   Harrington, LB
+   Da Costa, M
+   Tian, XR
+   Palefsky, JM
+   Doudna, JA
+AF Chen, Janice S.
+   Ma, Enbo
+   Harrington, Lucas B.
+   Da Costa, Maria
+   Tian, Xinran
+   Palefsky, Joel M.
+   Doudna, Jennifer A.
+ID CRISPR-CAS SYSTEMS; HUMAN-CELLS; CPF1; RNA; ENDONUCLEASE; CLEAVAGE;
+   SPECIFICITIES; DIVERSITY; EVOLUTION; INFECTION
+NR 34
+TC 52
+Z9 55
+U1 97
+U2 112
+ER
+
+PT J
+AU Konermann, S
+   Lotfy, P
+   Brideau, NJ
+   Oki, J
+   Shokhirev, MN
+   Hsu, PD
+AF Konermann, Silvana
+   Lotfy, Peter
+   Brideau, Nicholas J.
+   Oki, Jennifer
+   Shokhirev, Maxim N.
+   Hsu, Patrick D.
+ID FRONTOTEMPORAL DEMENTIA; CAS IMMUNITY; DNA; SYSTEMS; COMPLEX;
+   ENDONUCLEASE; PERFORMANCE; ADAPTATION; ALIGNMENT; PROTEINS
+OI Hsu, Patrick/0000-0002-9380-2648
+NR 63
+TC 29
+Z9 29
+U1 10
+U2 18
+ER
+
+PT J
+AU Hu, JH
+   Miller, SM
+   Geurts, MH
+   Tang, WX
+   Chen, LW
+   Sun, N
+   Zeina, CM
+   Gao, X
+   Rees, HA
+   Lin, Z
+   Liu, DR
+AF Hu, Johnny H.
+   Miller, Shannon M.
+   Geurts, Maarten H.
+   Tang, Weixin
+   Chen, Liwei
+   Sun, Ning
+   Zeina, Christina M.
+   Gao, Xue
+   Rees, Holly A.
+   Lin, Zhi
+   Liu, David R.
+ID CONTINUOUS DIRECTED EVOLUTION; OFF-TARGET CLEAVAGE; CRISPR-CAS9
+   NUCLEASES; GENOMIC DNA; SYSTEM; ENDONUCLEASE; BASE; TRANSCRIPTION;
+   RECOGNITION; CPF1
+OI Miller, Shannon/0000-0003-3569-6231
+NR 40
+TC 93
+Z9 103
+U1 151
+U2 202
+ER
+
+PT J
+AU Cossu, G
+   Birchall, M
+   Brown, T
+   De Coppi, P
+   Culme-Seymour, E
+   Gibbon, S
+   Hitchcock, J
+   Mason, C
+   Montgomery, J
+   Morris, S
+   Muntoni, F
+   Napier, D
+   Owji, N
+   Prasad, A
+   Round, J
+   Saprai, P
+   Stilgoe, J
+   Thrasher, A
+   Wilson, J
+AF Cossu, Giulio
+   Birchall, Martin
+   Brown, Tracey
+   De Coppi, Paolo
+   Culme-Seymour, Emily
+   Gibbon, Sahra
+   Hitchcock, Julian
+   Mason, Chris
+   Montgomery, Jonathan
+   Morris, Steve
+   Muntoni, Francesco
+   Napier, David
+   Owji, Nazanin
+   Prasad, Aarathi
+   Round, Jeff
+   Saprai, Prince
+   Stilgoe, Jack
+   Thrasher, Adrian
+   Wilson, James
+ID DUCHENNE MUSCULAR-DYSTROPHY; SEVERE COMBINED IMMUNODEFICIENCY; LEBERS
+   CONGENITAL AMAUROSIS; ADENOSINE-DEAMINASE DEFICIENCY; VIVO GENE-THERAPY;
+   CLINICAL-TRIALS; PARKINSONS-DISEASE; BONE-MARROW; LENTIVIRAL VECTORS;
+   ISSCR GUIDELINES
+OI Round, Jeff/0000-0002-3103-6984; Montgomery,
+   Jonathan/0000-0002-4592-0930
+NR 168
+TC 13
+Z9 13
+U1 27
+U2 53
+ER
+
+PT J
+AU Yin, H
+   Song, CQ
+   Suresh, S
+   Kwan, SY
+   Wu, QQ
+   Walsh, S
+   Ding, JM
+   Bogorad, RL
+   Zhu, LJ
+   Wolfe, SA
+   Koteliansky, V
+   Xue, W
+   Langer, R
+   Anderson, DG
+AF Yin, Hao
+   Song, Chun-Qing
+   Suresh, Sneha
+   Kwan, Suet-Yan
+   Wu, Qiongqiong
+   Walsh, Stephen
+   Ding, Junmei
+   Bogorad, Roman L.
+   Zhu, Lihua Julie
+   Wolfe, Scot A.
+   Koteliansky, Victor
+   Xue, Wen
+   Langer, Robert
+   Anderson, Daniel G.
+ID HUMAN-CELLS; IN-VIVO; CHEMICAL-MODIFICATION; NUCLEASE SPECIFICITY;
+   CRYSTAL-STRUCTURE; RNA; CRISPR-CAS9; CLEAVAGE; ENDONUCLEASE; ACTIVATION
+OI Suresh, Sneha/0000-0001-9545-6366
+NR 48
+TC 13
+Z9 13
+U1 32
+U2 84
+ER
+
+PT J
+AU Finn, JD
+   Smith, AR
+   Patel, MC
+   Shaw, L
+   Youniss, MR
+   van Heteren, J
+   Dirstine, T
+   Ciullo, C
+   Lescarbeau, R
+   Seitzer, J
+   Shah, RR
+   Shah, A
+   Ling, DD
+   Growe, J
+   Pink, M
+   Rohde, E
+   Wood, KM
+   Salomon, WE
+   Harrington, WF
+   Dombrowski, C
+   Strapps, WR
+   Chang, Y
+   Morrissey, DV
+AF Finn, Jonathan D.
+   Smith, Amy Rhoden
+   Patel, Mihir C.
+   Shaw, Lucinda
+   Youniss, Madeleine R.
+   van Heteren, Jane
+   Dirstine, Tanner
+   Ciullo, Corey
+   Lescarbeau, Reynald
+   Seitzer, Jessica
+   Shah, Ruchi R.
+   Shah, Aalok
+   Ling, Dandan
+   Growe, Jacqueline
+   Pink, Melissa
+   Rohde, Ellen
+   Wood, Kristy M.
+   Salomon, William E.
+   Harrington, William F.
+   Dombrowski, Christian
+   Strapps, Walter R.
+   Chang, Yong
+   Morrissey, David V.
+ID LIVER HOMEOSTASIS; SIRNA DELIVERY; MOUSE-LIVER; REGENERATION;
+   HEPATOCYTES; CELLS; CAS9; SYSTEM; VITRO; RNA
+NR 31
+TC 25
+Z9 25
+U1 18
+U2 34
+ER
+
+PT J
+AU Li, XF
+   Mitch, WA
+AF Li, Xing-Fang
+   Mitch, William A.
+ID N-NITROSODIMETHYLAMINE FORMATION; MASS-SPECTROMETRY; RELATIVE
+   IMPORTANCE; BLADDER-CANCER; SURFACE WATERS; AMINO-ACIDS; NITROSAMINES;
+   TOXICITY; CHLORINATION; HALOBENZOQUINONES
+OI Li, Xing-Fang/0000-0003-1844-7700
+NR 83
+TC 21
+Z9 21
+U1 44
+U2 89
+ER
+
+PT J
+AU Hagemann, M
+   Hesse, WR
+AF Hagemann, Martin
+   Hesse, Wolfgang R.
+ID SP PCC 6803; C-13 FLUX ANALYSIS; CARBON-DIOXIDE; PHOTOAUTOTROPHIC
+   METABOLISM; ETHANOL-PRODUCTION; GENE-EXPRESSION; PHOTOSYNTHESIS;
+   PATHWAY; LIGHT; ISOBUTYRALDEHYDE
+OI Hess, Wolfgang/0000-0002-5340-3423
+NR 64
+TC 15
+Z9 17
+U1 39
+U2 61
+ER
+
+PT J
+AU Verwaal, R
+   Buiting-Wiessenhaan, N
+   Dalhuijsen, S
+   Roubos, JA
+AF Verwaal, Rene
+   Buiting-Wiessenhaan, Nathalie
+   Dalhuijsen, Sacha
+   Roubos, Johannes A.
+DE CRISPR; Cpf1; CRISPR; Cas9; single Cpf1 crRNA array; genome editing;
+   Saccharomyces cerevisiae
+ID CAS SYSTEMS; DNA; RNA; CPF1; TRANSFORMATION; YEAST; ENDONUCLEASE;
+   STRAINS; MICE
+NR 35
+TC 16
+Z9 16
+U1 13
+U2 27
+ER
+
+PT J
+AU Li, R
+   Li, R
+   Li, XD
+   Fu, DQ
+   Zhu, BZ
+   Tian, HQ
+   Luo, YB
+   Zhu, HL
+AF Li, Rui
+   Li, Ran
+   Li, Xindi
+   Fu, Daqi
+   Zhu, Benzhong
+   Tian, Huiqin
+   Luo, Yunbo
+   Zhu, Hongliang
+DE CRISPR/Cas9; genome editing; tomato; GABA; metabolic engineering;
+   multiplex
+ID SUCCINIC-SEMIALDEHYDE-DEHYDROGENASE; GABA ACCUMULATION;
+   GLUTAMATE-DECARBOXYLASE; TARGETED MUTAGENESIS; AUTOINHIBITORY DOMAIN;
+   TOMATO FRUIT; SYSTEM; EFFICIENT; PLANTS; RICE
+NR 47
+TC 16
+Z9 16
+U1 23
+U2 52
+ER
+
+PT J
+AU Glass, Z
+   Lee, M
+   Li, YM
+   Xu, QB
+AF Glass, Zachary
+   Lee, Matthew
+   Li, Yamin
+   Xu, Qiaobing
+ID LIPID-LIKE NANOPARTICLES; IN-VIVO; NONVIRAL DELIVERY; GENE DELIVERY;
+   CAS9 PROTEIN; HUMAN-CELLS; INTRACELLULAR DELIVERY; MUSCULAR-DYSTROPHY;
+   EFFICIENT DELIVERY; CANCER-THERAPY
+NR 67
+TC 17
+Z9 19
+U1 38
+U2 103
+ER
+
+PT J
+AU Gao, X
+   Tao, Y
+   Lamas, V
+   Huang, MQ
+   Yeh, WH
+   Pan, BF
+   Hu, YJ
+   Hu, JH
+   Thompson, DB
+   Shu, YL
+   Li, YM
+   Wang, HY
+   Yang, SM
+   Xu, QB
+   Polley, DB
+   Liberman, MC
+   Kong, WJ
+   Holt, JR
+   Chen, ZY
+   Liu, DR
+AF Gao, Xue
+   Tao, Yong
+   Lamas, Veronica
+   Huang, Mingqian
+   Yeh, Wei-Hsi
+   Pan, Bifeng
+   Hu, Yu-Juan
+   Hu, Johnny H.
+   Thompson, David B.
+   Shu, Yilai
+   Li, Yamin
+   Wang, Hongyang
+   Yang, Shiming
+   Xu, Qiaobing
+   Polley, Daniel B.
+   Liberman, M. Charles
+   Kong, Wei-Jia
+   Holt, Jeffrey R.
+   Chen, Zheng-Yi
+   Liu, David R.
+ID MOUSE MODEL; NUCLEASE SPECIFICITY; VESTIBULAR FUNCTION; DEAFNESS;
+   SYSTEM; EXPRESSION; COMPONENTS; CLEAVAGE; CHANNEL; ENABLES
+OI Polley, Daniel/0000-0002-5120-2409; Kong, Wei-Jia/0000-0001-5410-2297
+NR 28
+TC 38
+Z9 43
+U1 31
+U2 92
+ER
+
+PT J
+AU Alsaiari, SK
+   Patil, S
+   Alyami, M
+   Alamoudi, KO
+   Aleisa, FA
+   Merzaban, JS
+   Li, M
+   Khashab, NM
+AF Alsaiari, Shahad K.
+   Patil, Sachin
+   Alyami, Mram
+   Alamoudi, Kholod O.
+   Aleisa, Fajr A.
+   Merzaban, Jasmeen S.
+   Li, Mo
+   Khashab, Niveen M.
+ID METAL-ORGANIC FRAMEWORKS; IN-VIVO; RNA; CHALLENGES; SYSTEM; CELLS;
+   VITRO; CAS9
+RI Merzaban, Jasmeen/V-3147-2018
+OI Merzaban, Jasmeen/0000-0002-7276-2907; Li, Mo/0000-0003-0827-8907;
+   khashab, niveen/0000-0003-2728-0666
+NR 25
+TC 17
+Z9 17
+U1 45
+U2 114
+ER
+
+PT J
+AU Guo, P
+   Liu, DX
+   Subramanyam, K
+   Wang, BR
+   Yang, J
+   Huang, J
+   Auguste, DT
+   Moses, MA
+AF Guo, Peng
+   Liu, Daxing
+   Subramanyam, Kriti
+   Wang, Biran
+   Yang, Jiang
+   Huang, Jing
+   Auguste, Debra T.
+   Moses, Marsha A.
+ID MEMBRANE-FUSION; BREAST-CANCER; DRUG-DELIVERY; PARTICLES; SHAPE;
+   ACCUMULATION; PHAGOCYTOSIS; CIRCULATION; CLEARANCE; STIFFNESS
+RI WANG, BIRAN/D-7708-2012
+OI WANG, BIRAN/0000-0001-6637-6156; Liu, Daxing/0000-0001-8532-9611
+NR 42
+TC 15
+Z9 15
+U1 30
+U2 44
+ER
+
+PT J
+AU Timin, AS
+   Muslimov, AR
+   Lepik, KV
+   Epifanovskaya, OS
+   Shakirova, AI
+   Mock, U
+   Riecken, K
+   Okilova, MV
+   Sergeev, VS
+   Afanasyev, BV
+   Fehse, B
+   Sukhorukov, GB
+AF Timin, Alexander S.
+   Muslimov, Albert R.
+   Lepik, Kirill V.
+   Epifanovskaya, Olga S.
+   Shakirova, Alena I.
+   Mock, Ulrike
+   Riecken, Kristoffer
+   Okilova, Maria V.
+   Sergeev, Vladislav S.
+   Afanasyev, Boris V.
+   Fehse, Boris
+   Sukhorukov, Gleb B.
+DE Gene delivery; CRISPR-Cas9; Gene editing; Polyelectrolyte microcapsules;
+   Sol-gel
+ID ONTOLOGY LEGO VECTORS; MESSENGER-RNA; MICROCAPSULES; CAPSULES; THERAPY;
+   RELEASE; CELLS; NANOPARTICLES; ENCAPSULATION; ONCOGENESIS
+OI Abramowski-Mock, Ulrike/0000-0003-2961-5327
+NR 46
+TC 7
+Z9 8
+U1 13
+U2 51
+ER
+
+PT J
+AU Wang, PC
+   Zhang, J
+   Sun, L
+   Ma, YZ
+   Xu, J
+   Liang, SJ
+   Deng, JW
+   Tan, JF
+   Zhang, QH
+   Tu, LL
+   Daniell, H
+   Jin, SX
+   Zhang, XL
+AF Wang, Pengcheng
+   Zhang, Jun
+   Sun, Lin
+   Ma, Yizan
+   Xu, Jiao
+   Liang, Sijia
+   Deng, Jinwu
+   Tan, Jiafu
+   Zhang, Qinghua
+   Tu, Lili
+   Daniell, Henry
+   Jin, Shuangxia
+   Zhang, Xianlong
+DE cotton; allotetraploid; genome editing; CRISPR/Cas9; high-throughput
+   sequencing
+ID RED FLUORESCENT PROTEIN; TARGETED MUTAGENESIS; CRISPR-CAS9 SYSTEM;
+   HUMAN-CELLS; CAS SYSTEM; TRANSIENT EXPRESSION; FUNCTIONAL GENOMICS;
+   PROVIDES INSIGHTS; ANALYSIS REVEALS; GENE-EXPRESSION
+NR 64
+TC 13
+Z9 15
+U1 23
+U2 48
+ER
+
+PT J
+AU Perales, MA
+   Kebriaei, P
+   Kean, LS
+   Sadelain, M
+AF Perales, Miguel-Angel
+   Kebriaei, Partow
+   Kean, Leslie S.
+   Sadelain, Michel
+DE Chimeric antigen receptor T cells; CART; Immunotherapy; Adoptive T cell
+   therapy; Adoptive immunotherapy; Hematopoietic stem cell
+   transplantation; Cytokine release syndrome; Neurologic Toxicity
+ID RECEPTOR T-CELLS; CYTOKINE RELEASE SYNDROME; CHIMERIC ANTIGEN RECEPTORS;
+   THERAPY; PERSISTENCE; TRANSPLANTATION; MALIGNANCIES; REMISSIONS;
+   BIOMARKERS; MANAGEMENT
+NR 45
+TC 10
+Z9 10
+U1 12
+U2 22
+ER
+
+PT J
+AU Hegge, JW
+   Swarts, DC
+   van der Oost, J
+AF Hegge, Jorrit W.
+   Swarts, Daan C.
+   van der Oost, John
+ID CRYSTAL-STRUCTURE; BACTERIAL ARGONAUTE; GUIDE RNA; DNA; CLEAVAGE;
+   INSIGHTS; DOMAIN; CRISPR; RECOGNITION; NUCLEASE
+OI Swarts, Daan/0000-0003-4412-9191
+NR 44
+TC 9
+Z9 9
+U1 6
+U2 19
+ER
+
+PT J
+AU Kim, D
+   Alptekin, B
+   Budak, H
+AF Kim, Dongjin
+   Alptekin, Burcu
+   Budak, Hikmet
+DE Wheat; Genome editing; CRISPR/Cas9; TaDREB2; TaERF3
+ID ABIOTIC STRESS RESPONSES; TRANSCRIPTION FACTORS; SYSTEM; GENE; PLANTS;
+   RICE; EXPRESSION; MUTATIONS; ARABIDOPSIS; TOLERANCE
+OI Alptekin, Burcu/0000-0002-0041-0240; Budak, Hikmet/0000-0002-2556-2478
+NR 43
+TC 18
+Z9 19
+U1 17
+U2 62
+ER
+
+PT J
+AU Yin, H
+   Song, CQ
+   Suresh, S
+   Wu, QQ
+   Walsh, S
+   Rhym, LH
+   Mintzer, E
+   Bolukbasi, MF
+   Zhu, LJ
+   Kauffman, K
+   Mou, HW
+   Oberholzer, A
+   Ding, JM
+   Kwan, SY
+   Bogorad, RL
+   Zatsepin, T
+   Koteliansky, V
+   Wolfe, SA
+   Xue, W
+   Langer, R
+   Anderson, DG
+AF Yin, Hao
+   Song, Chun-Qing
+   Suresh, Sneha
+   Wu, Qiongqiong
+   Walsh, Stephen
+   Rhym, Luke Hyunsik
+   Mintzer, Esther
+   Bolukbasi, Mehmet Fatih
+   Zhu, Lihua Julie
+   Kauffman, Kevin
+   Mou, Haiwei
+   Oberholzer, Alicia
+   Ding, Junmei
+   Kwan, Suet-Yan
+   Bogorad, Roman L.
+   Zatsepin, Timofei
+   Koteliansky, Victor
+   Wolfe, Scot A.
+   Xue, Wen
+   Langer, Robert
+   Anderson, Daniel G.
+ID CRISPR-CAS NUCLEASES; INDUCED LIVER-INJURY; MOUSE MODEL; LACTOFERRIN
+   PROTECTS; MUSCULAR-DYSTROPHY; HUMAN-CELLS; TARGET DNA; DELIVERY; MICE;
+   NANOPARTICLES
+OI Suresh, Sneha/0000-0001-9545-6366; Zhu, Lihua/0000-0001-7416-0590
+NR 48
+TC 43
+Z9 45
+U1 36
+U2 88
+ER
+
+PT J
+AU Scheben, A
+   Wolter, F
+   Batley, J
+   Puchta, H
+   Edwards, D
+AF Scheben, Armin
+   Wolter, Felix
+   Batley, Jacqueline
+   Puchta, Holger
+   Edwards, David
+DE breeding; crops; CRISPR; Cas; gene targeting (GT); genome editing;
+   targeted mutagenesis
+ID ZINC-FINGER NUCLEASES; RNA-GUIDED ENDONUCLEASE; DOUBLE-STRAND BREAKS;
+   TARGETED MUTAGENESIS; HIGH-EFFICIENCY; HOMOLOGOUS RECOMBINATION; PLANT
+   GENOMES; DNA CLEAVAGE; INDUCED MUTATIONS; WIDE PREDICTION
+RI Batley, Jacqueline/A-5723-2008
+OI Batley, Jacqueline/0000-0002-5391-5824; Puchta,
+   Holger/0000-0003-1073-8546; Edwards, David/0000-0001-7599-6760
+NR 152
+TC 29
+Z9 29
+U1 20
+U2 78
+ER
+
+PT J
+AU Chen, JS
+   Dagdas, YS
+   Kleinstiver, BP
+   Welch, MM
+   Sousa, AA
+   Harrington, LB
+   Sternberg, SH
+   Joung, JK
+   Yildiz, A
+   Doudna, JA
+AF Chen, Janice S.
+   Dagdas, Yavuz S.
+   Kleinstiver, Benjamin P.
+   Welch, Moira M.
+   Sousa, Alexander A.
+   Harrington, Lucas B. .
+   Sternberg, Samuel H.
+   Joung, J. Keith
+   Yildiz, Ahmet
+   Doudna, Jennifer A.
+ID MOLECULAR SIMULATIONS; DNA RECOGNITION; CAS NUCLEASES; RNA; CLEAVAGE;
+   COMPLEX; ENDONUCLEASE; SPECIFICITY
+NR 22
+TC 119
+Z9 122
+U1 33
+U2 119
+ER
+
+PT J
+AU Rodriguez-Leal, D
+   Lemmon, ZH
+   Man, J
+   Bartlett, ME
+   Lippman, ZB
+AF Rodriguez-Leal, Daniel
+   Lemmon, Zachary H.
+   Man, Jarrett
+   Bartlett, Madelaine E.
+   Lippman, Zachary B.
+ID CIS-REGULATORY MODULES; STEM-CELL HOMEOSTASIS; SHOOT MERISTEM; GUIDE
+   RNA; TOMATO; GENE; WUSCHEL; DOMESTICATION; SYSTEM; GENERATION
+OI Rodriguez Leal, Daniel/0000-0003-1871-7432
+NR 65
+TC 63
+Z9 69
+U1 27
+U2 137
+ER
+
+PT J
+AU Fogarty, NME
+   McCarthy, A
+   Snijders, KE
+   Powell, BE
+   Kubikova, N
+   Lakeley, PB
+   Lea, R
+   Lder, KE
+   Wamaitha, SE
+   Kim, D
+   Maciulyte, V
+   Kleinjung, J
+   Kim, JS
+   Wells, D
+   Vallier, L
+   Ertero, AB
+   Urner, JMAT
+   Niakan, KK
+AF Fogarty, Norah M. E.
+   McCarthy, Afshan
+   Snijders, Kirsten E.
+   Powell, Benjamin E.
+   Kubikova, Nada
+   Lakeley, Paul B.
+   Lea, Rebecca
+   Lder, Kay E.
+   Wamaitha, Sissy E.
+   Kim, Daesik
+   Maciulyte, Valdone
+   Kleinjung, Jens
+   Kim, Jin-Soo
+   Wells, Dagan
+   Vallier, Ludovic
+   Ertero, Alessandro B.
+   Urner, James M. A. T.
+   Niakan, Kathy K.
+ID INNER CELL MASS; HUMAN EMBRYOS; HUMAN ZYGOTES; POU DOMAIN; CAS9;
+   NORMALIZATION; GENERATION; ANALYZER; GENES; FGF
+OI Wamaitha, Sissy/0000-0001-6245-6255; Kleinjung,
+   Jens/0000-0002-7875-5724; Bertero, Alessandro/0000-0002-4919-9087;
+   Fogarty, Norah/0000-0003-1085-8185; Vallier, Ludovic/0000-0002-3848-2602
+NR 50
+TC 54
+Z9 61
+U1 16
+U2 100
+ER
+
+PT J
+AU Begemann, MB
+   Gray, BN
+   January, E
+   Gordon, GC
+   He, YH
+   Liu, HJ
+   Wu, XR
+   Brutnell, TP
+   Mockler, TC
+   Oufattole, M
+AF Begemann, Matthew B.
+   Gray, Benjamin N.
+   January, Emma
+   Gordon, Gina C.
+   He, Yonghua
+   Liu, Haijun
+   Wu, Xingrong
+   Brutnell, Thomas P.
+   Mockler, Todd C.
+   Oufattole, Mohammed
+ID EFFICIENT TARGETED MUTAGENESIS; HUMAN-CELLS; RICE; CAS9; RNA;
+   SPECIFICITIES; ENDONUCLEASES
+RI Mockler, Todd/L-2609-2013; Brutnell, Thomas/M-2840-2013
+OI Mockler, Todd/0000-0002-0462-5775; Brutnell, Thomas/0000-0002-3581-8211;
+   Liu, Haijun/0000-0003-0537-0302
+NR 30
+TC 17
+Z9 19
+U1 7
+U2 42
+ER
+
+PT J
+AU Chadwick, AC
+   Wang, X
+   Musunuru, K
+AF Chadwick, Alexandra C.
+   Wang, Xiao
+   Musunuru, Kiran
+DE gene therapy; lipids and lipoprotein metabolism; molecular biology;
+   nucleotides; PCSK9
+ID OF-FUNCTION MUTATIONS; MAMMALIAN-CELLS; DISEASE; SPECIFICITIES;
+   PROTECTION; ENABLES; MICE
+NR 22
+TC 31
+Z9 34
+U1 5
+U2 26
+ER
+
+PT J
+AU Ma, H
+   Marti-Gutierrez, N
+   Park, SW
+   Wu, J
+   Lee, Y
+   Suzuki, K
+   Koski, A
+   Ji, DM
+   Hayama, T
+   Ahmed, R
+   Darby, H
+   Van Dyken, C
+   Li, Y
+   Kang, E
+   Park, AR
+   Kim, D
+   Kim, ST
+   Gong, JH
+   Gu, Y
+   Xu, X
+   Battaglia, D
+   Krieg, SA
+   Lee, DM
+   Wu, DH
+   Wolf, DP
+   Heitner, SB
+   Belmonte, JCI
+   Mato, PA
+   Kim, JS
+   Kaul, S
+   Mitalipov, S
+AF Ma, Hong
+   Marti-Gutierrez, Nuria
+   Park, Sang-Wook
+   Wu, Jun
+   Lee, Yeonmi
+   Suzuki, Keiichiro
+   Koski, Amy
+   Ji, Dongmei
+   Hayama, Tomonari
+   Ahmed, Riffat
+   Darby, Hayley
+   Van Dyken, Crystal
+   Li, Ying
+   Kang, Eunju
+   Park, A. -Reum
+   Kim, Daesik
+   Kim, Sang-Tae
+   Gong, Jianhui
+   Gu, Ying
+   Xu, Xun
+   Battaglia, David
+   Krieg, Sacha A.
+   Lee, David M.
+   Wu, Diana H.
+   Wolf, Don P.
+   Heitner, Stephen B.
+   Belmonte, Juan Carlos Izpisua
+   Mato, Paula A.
+   Kim, Jin-Soo
+   Kaul, Sanjiv
+   Mitalipov, Shoukhrat
+ID RNA-GUIDED ENDONUCLEASES; HUMAN-CELLS; PRIMATE EMBRYOS; DIGENOME-SEQ;
+   CAS9; CRISPR-CAS9; NUCLEASES; MOUSE; DNA; ZYGOTES
+RI Kim, Sang-Tae/U-9457-2018
+OI Kim, Sang-Tae/0000-0003-1645-6021
+NR 48
+TC 204
+Z9 221
+U1 77
+U2 599
+ER
+
+PT J
+AU Wang, HX
+   Li, M
+   Lee, CM
+   Chakraborty, S
+   Kim, HW
+   Bao, G
+   Leong, KW
+AF Wang, Hong-Xia
+   Li, Mingqiang
+   Lee, Ciaran M.
+   Chakraborty, Syandan
+   Kim, Hae-Won
+   Bao, Gang
+   Leong, Kam W.
+ID RNA-GUIDED ENDONUCLEASE; ZINC-FINGER NUCLEASES; CRISPR-CAS SYSTEM;
+   OFF-TARGET SITES; COMPACTED DNA NANOPARTICLES; DUCHENNE
+   MUSCULAR-DYSTROPHY; STAPHYLOCOCCUS-AUREUS CAS9; PLURIPOTENT STEM-CELLS;
+   MEDIATED GENE-TRANSFER; HEPATITIS-B-VIRUS
+RI Wang, Hongxia/N-7752-2017
+OI Wang, Hongxia/0000-0002-3269-5770; Li, Mingqiang/0000-0002-5178-4138;
+   Lee, Ciaran/0000-0002-0789-9149
+NR 299
+TC 42
+Z9 44
+U1 29
+U2 129
+ER
+
+PT J
+AU Dagdas, YS
+   Chen, JS
+   Sternberg, SH
+   Doudna, JA
+   Yildiz, A
+AF Dagdas, Yavuz S.
+   Chen, Janice S.
+   Sternberg, Samuel H.
+   Doudna, Jennifer A.
+   Yildiz, Ahmet
+ID GUIDED ENDONUCLEASE CAS9; ADAPTIVE IMMUNITY; STRUCTURAL BASIS; TARGET
+   CLEAVAGE; COMPLEX; RECOGNITION; SPECIFICITY; NUCLEASES; SYSTEMS;
+   PLASTICITY
+OI Dagdas, Yavuz Selim/0000-0002-8900-9794; Yildiz,
+   Ahmet/0000-0003-4792-174X
+NR 32
+TC 36
+Z9 36
+U1 9
+U2 20
+ER
+
+PT J
+AU Zhang, YW
+   Bai, Y
+   Wu, GH
+   Zou, SH
+   Chen, YF
+   Gao, CX
+   Tang, DZ
+AF Zhang, Yunwei
+   Bai, Yang
+   Wu, Guangheng
+   Zou, Shenghao
+   Chen, Yongfang
+   Gao, Caixia
+   Tang, Dingzhong
+DE genome editing; CRISPR/Cas9; hexaploid wheat; Triticum aestivum L.;
+   powdery mildew; Blumeria graminis; EDR1
+ID EDR1 PROTEIN-KINASE; DISEASE RESISTANCE; HEXAPLOID WHEAT; CELL-DEATH;
+   CRISPR/CAS SYSTEM; DRAFT GENOME; ARABIDOPSIS; PLANT; RICE; IMMUNITY
+NR 58
+TC 21
+Z9 25
+U1 19
+U2 90
+ER
+
+PT J
+AU Yin, KQ
+   Gao, CX
+   Qiu, JL
+AF Yin, Kangquan
+   Gao, Caixia
+   Qiu, Jin-Long
+ID CRISPR-CAS SYSTEM; STAPHYLOCOCCUS-AUREUS CAS9; DOUBLE-STRAND BREAKS;
+   TARGETED MUTAGENESIS; HUMAN-CELLS; RIBONUCLEOPROTEIN COMPLEXES;
+   TRANSCRIPTIONAL REGULATION; DEAMINASE FUSIONS; MAMMALIAN-CELLS;
+   IMMUNE-SYSTEM
+OI YIN, Kangquan/0000-0002-4627-6585; Qiu, Jin-Long/0000-0001-8054-2552
+NR 90
+TC 48
+Z9 49
+U1 32
+U2 142
+ER
+
+PT J
+AU Jia, HG
+   Zhang, YZ
+   Orbovic, V
+   Xu, J
+   White, FF
+   Jones, JB
+   Wang, N
+AF Jia, Hongge
+   Zhang, Yunzeng
+   Orbovic, Vladimir
+   Xu, Jin
+   White, Frank F.
+   Jones, Jeffrey B.
+   Wang, Nian
+DE Xanthomonas citri; Cas9; sgRNA; Citrus paradisi
+ID FAMILY; EXPRESSION; RICE
+OI xu, jin/0000-0003-2289-4896
+NR 22
+TC 31
+Z9 37
+U1 9
+U2 57
+ER
+
+PT J
+AU Kaczmarek, JC
+   Kowalski, PS
+   Anderson, DG
+AF Kaczmarek, James C.
+   Kowalski, Piotr S.
+   Anderson, Daniel G.
+DE Antisense oligonucleotide; Clinical trial; CRISPR; Gene editing; Gene
+   therapy; Messenger RNA delivery; mRNA vaccine; RNA nanoparticle; Short
+   interfering RNA delivery
+ID MODIFIED MESSENGER-RNA; SMALL INTERFERING RNA; ANTISENSE OLIGONUCLEOTIDE
+   THERAPY; LIPID-LIKE MATERIALS; EDITING IN-VITRO; SYSTEMIC DELIVERY;
+   DENDRITIC CELLS; SIRNA DELIVERY; CHEMICAL-MODIFICATION; PROTEIN
+   EXPRESSION
+OI Kowalski, Piotr/0000-0001-8607-0189
+NR 160
+TC 90
+Z9 92
+U1 54
+U2 126
+ER
+
+PT J
+AU Braatz, J
+   Harloff, HJ
+   Mascher, M
+   Stein, N
+   Himmelbach, A
+   Jung, C
+AF Braatz, Janina
+   Harloff, Hans-Joachim
+   Mascher, Martin
+   Stein, Nils
+   Himmelbach, Axel
+   Jung, Christian
+ID RNA-GUIDED CAS9; GENOME; ARABIDOPSIS; MUTATIONS; PLANTS; SPECIFICITY;
+   NUCLEASES; SYSTEM; BARLEY; RICE
+OI Himmelbach, Axel/0000-0001-7338-0946; Mascher,
+   Martin/0000-0001-6373-6013; Stein, Nils/0000-0003-3011-8731; Braatz,
+   Janina/0000-0002-4446-8743
+NR 36
+TC 24
+Z9 28
+U1 9
+U2 73
+ER
+
+PT J
+AU Simsek, D
+   Tiu, GC
+   Flynn, RA
+   Byeon, GW
+   Leppek, K
+   Xu, AF
+   Chang, HY
+   Barna, M
+AF Simsek, Deniz
+   Tiu, Gerald C.
+   Flynn, Ryan A.
+   Byeon, Gun W.
+   Leppek, Kathrin
+   Xu, Adele F.
+   Chang, Howard Y.
+   Barna, Maria
+ID EMBRYONIC STEM-CELLS; PROTEIN-RNA INTERACTIONS; MESSENGER-RNA;
+   PYRUVATE-KINASE; LIGASE COMPLEX; TRANSLATION; DYNAMICS; CANCER;
+   DIFFERENTIATION; TRANSLOCATION
+OI Leppek, Kathrin/0000-0002-8012-8076
+NR 70
+TC 51
+Z9 52
+U1 7
+U2 38
+ER
+
+PT J
+AU Klann, TS
+   Black, JB
+   Chellappan, M
+   Safi, A
+   Song, LY
+   Hilton, IB
+   Crawford, GE
+   Reddy, TE
+   Gersbach, CA
+AF Klann, Tyler S.
+   Black, Joshua B.
+   Chellappan, Malathi
+   Safi, Alexias
+   Song, Lingyun
+   Hilton, Isaac B.
+   Crawford, Gregory E.
+   Reddy, Timothy E.
+   Gersbach, Charles A.
+ID BREAST-CANCER; TRANSCRIPTION FACTORS; GENETIC SCREENS; OPEN CHROMATIN;
+   HUMAN-CELLS; ENHANCERS; CLUSTERS; PLATFORM; REGIONS
+OI Hilton, Isaac/0000-0002-3064-8532
+NR 56
+TC 64
+Z9 67
+U1 20
+U2 102
+ER
+
+PT J
+AU Roper, J
+   Tammela, T
+   Cetinbas, NM
+   Akkad, A
+   Roghanian, A
+   Rickelt, S
+   Almeqdadi, M
+   Wu, K
+   Oberli, MA
+   Sanchez-Rivera, F
+   Park, YK
+   Liang, X
+   Eng, G
+   Taylor, MS
+   Azimi, R
+   Kedrin, D
+   Neupane, R
+   Beyaz, S
+   Sicinska, ET
+   Suarez, Y
+   Yoo, J
+   Chen, LL
+   Zukerberg, L
+   Katajisto, P
+   Deshpande, V
+   Bass, AJ
+   Tsichlis, PN
+   Lees, J
+   Langer, R
+   Hynes, RO
+   Chen, JZ
+   Bhutkar, A
+   Jacks, T
+   Yilmaz, OH
+AF Roper, Jatin
+   Tammela, Tuomas
+   Cetinbas, Naniye Malli
+   Akkad, Adam
+   Roghanian, Ali
+   Rickelt, Steffen
+   Almeqdadi, Mohammad
+   Wu, Katherine
+   Oberli, Matthias A.
+   Sanchez-Rivera, Francisco
+   Park, Yoona K.
+   Liang, Xu
+   Eng, George
+   Taylor, Martin S.
+   Azimi, Roxana
+   Kedrin, Dmitriy
+   Neupane, Rachit
+   Beyaz, Semir
+   Sicinska, Ewa T.
+   Suarez, Yvelisse
+   Yoo, James
+   Chen, Lillian
+   Zukerberg, Lawrence
+   Katajisto, Pekka
+   Deshpande, Vikram
+   Bass, Adam J.
+   Tsichlis, Philip N.
+   Lees, Jacqueline
+   Langer, Robert
+   Hynes, Richard O.
+   Chen, Jianzhu
+   Bhutkar, Arjun
+   Jacks, Tyler
+   Yilmaz, Oemer H.
+ID MULTIPLE INTESTINAL NEOPLASIA; ENGINEERED MOUSE MODELS; LGR5(+)
+   STEM-CELL; COLON-CANCER; DRUG DEVELOPMENT; VITRO EXPANSION; APC GENE;
+   K-RAS; MICE; GENERATION
+OI Katajisto, Pekka/0000-0002-3033-4189; Sanchez-Rivera, Francisco
+   J./0000-0002-8466-8563; Almeqdadi, Mohammad/0000-0002-5503-2371; Taylor,
+   Martin/0000-0001-5824-142X; /0000-0002-5224-7764; Roper,
+   Jatin/0000-0002-8851-1352; Beyaz, Semir/0000-0003-4730-4012
+NR 62
+TC 36
+Z9 38
+U1 24
+U2 76
+ER
+
+PT J
+AU Yin, H
+   Kauffman, KJ
+   Anderson, DG
+AF Yin, Hao
+   Kauffman, Kevin J.
+   Anderson, Daniel G.
+ID ZINC-FINGER NUCLEASES; HEMATOPOIETIC STEM-CELLS; HEMOPHILIA
+   GENE-THERAPY; DOUBLE-STRAND BREAKS; OFF-TARGET CLEAVAGE; HUMAN T-CELLS;
+   IN-VIVO; MESSENGER-RNA; REPLACEMENT THERAPY; MUSCULAR-DYSTROPHY
+NR 136
+TC 77
+Z9 77
+U1 47
+U2 183
+ER
+
+PT J
+AU Cameron, P
+   Fuller, CK
+   Donohoue, PD
+   Jones, BN
+   Thompson, MS
+   Carter, MM
+   Gradia, S
+   Vidal, B
+   Garner, E
+   Slorach, EM
+   Lau, E
+   Banh, LM
+   Lied, AM
+   Edwards, LS
+   Settle, AH
+   Capurso, D
+   Llaca, V
+   Deschamps, S
+   Cigan, M
+   Young, JK
+   May, AP
+AF Cameron, Peter
+   Fuller, Chris K.
+   Donohoue, Paul D.
+   Jones, Brittnee N.
+   Thompson, Matthew S.
+   Carter, Matthew M.
+   Gradia, Scott
+   Vidal, Bastien
+   Garner, Elizabeth
+   Slorach, Euan M.
+   Lau, Elaine
+   Banh, Lynda M.
+   Lied, Alexandra M.
+   Edwards, Leslie S.
+   Settle, Alexander H.
+   Capurso, Daniel
+   Llaca, Victor
+   Deschamps, Stephane
+   Cigan, Mark
+   Young, Joshua K.
+   May, Andrew P.
+ID OFF-TARGET CLEAVAGE; HUMAN-CELLS; CAS NUCLEASES; DIGENOME-SEQ; DNA
+   CLEAVAGE; GUIDE RNA; ENDONUCLEASE; SPECIFICITY; IMMUNITY; COMPLEX
+NR 34
+TC 40
+Z9 44
+U1 6
+U2 30
+ER
+
+PT J
+AU Tsai, SQ
+   Nguyen, NT
+   Malagon-Lopez, J
+   Topkar, VV
+   Aryee, MJ
+   Joung, JK
+AF Tsai, Shengdar Q.
+   Nguyen, Nhu T.
+   Malagon-Lopez, Jose
+   Topkar, Ved V.
+   Aryee, Martin J.
+   Joung, J. Keith
+ID STRAND BREAK REPAIR; EDITING TECHNOLOGIES; DIGENOME-SEQ; SPECIFICITY;
+   ENDONUCLEASE; CLEAVAGE; CELLS; GENE; RECOGNITION; ACTIVATION
+RI Tsai, Shengdar/G-4600-2012
+OI Aryee, Martin/0000-0002-6848-1344
+NR 43
+TC 74
+Z9 79
+U1 11
+U2 41
+ER
+
+PT J
+AU Morineau, C
+   Bellec, Y
+   Tellier, F
+   Gissot, L
+   Kelemen, Z
+   Nogue, F
+   Faure, JD
+AF Morineau, Celine
+   Bellec, Yannick
+   Tellier, Frederique
+   Gissot, Lionel
+   Kelemen, Zsolt
+   Nogue, Fabien
+   Faure, Jean-Denis
+DE CRISPR-Cas9; oleic acid; Camelina; FAD2
+ID ARABIDOPSIS FAD2 GENE; TARGETED MUTAGENESIS; CRISPR/CAS9 SYSTEM; BIOFUEL
+   CROP; GUIDE RNA; EFFICIENT; PLANTS; MULTIPLEX; MUTANTS; CAS9
+OI Nogue, Fabien/0000-0003-0619-4638
+NR 60
+TC 27
+Z9 27
+U1 3
+U2 55
+ER
+
+PT J
+AU Jiang, Y
+   Qian, FH
+   Yang, JJ
+   Liu, YM
+   Dong, F
+   Xu, CM
+   Sun, BB
+   Chen, B
+   Xu, XS
+   Li, Y
+   Wang, RX
+   Yang, S
+AF Jiang, Yu
+   Qian, Fenghui
+   Yang, Junjie
+   Liu, Yingmiao
+   Dong, Feng
+   Xu, Chongmao
+   Sun, Bingbing
+   Chen, Biao
+   Xu, Xiaoshu
+   Li, Yan
+   Wang, Renxiao
+   Yang, Sheng
+ID LACTOBACILLUS-REUTERI; ACCURATE DOCKING; GENE-EXPRESSION; CAS SYSTEMS;
+   PROTEIN; MODEL; GLIDE; REPLACEMENT; GENERATION; PARAMETERS
+NR 45
+TC 50
+Z9 51
+U1 21
+U2 93
+ER
+
+PT J
+AU Pacher, M
+   Puchta, H
+AF Pacher, Michael
+   Puchta, Holger
+DE genome engineering; synthetic DNA nucleases; gene editing;
+   non-homologous end-joining
+ID DOUBLE-STRAND BREAKS; CHIMERIC RNA/DNA OLIGONUCLEOTIDES;
+   SEQUENCE-SPECIFIC NUCLEASES; ZINC-FINGER NUCLEASES; SOMATIC PLANT-CELLS;
+   ONE-SIDED INVASION; HOMOLOGOUS RECOMBINATION; TARGETED MUTAGENESIS;
+   CRISPR/CAS9 SYSTEM; STAPHYLOCOCCUS-AUREUS
+OI Puchta, Holger/0000-0003-1073-8546
+NR 138
+TC 19
+Z9 19
+U1 8
+U2 62
+ER
+
+PT J
+AU Staahl, BT
+   Benekareddy, M
+   Coulon-Bainier, C
+   Banfal, AA
+   Floor, SN
+   Sabo, JK
+   Urnes, C
+   Munares, GA
+   Ghosh, A
+   Doudna, JA
+AF Staahl, Brett T.
+   Benekareddy, Madhurima
+   Coulon-Bainier, Claire
+   Banfal, Ashwin A.
+   Floor, Stephen N.
+   Sabo, Jennifer K.
+   Urnes, Cole
+   Munares, Gabriela Acevedo
+   Ghosh, Anirvan
+   Doudna, Jennifer A.
+ID IN-VIVO; MUSCULAR-DYSTROPHY; HUMAN-CELLS; RNA; PROTEINS; MUSCLE; MODEL;
+   SPECIFICITY; SYSTEM
+NR 29
+TC 63
+Z9 66
+U1 7
+U2 48
+ER
+
+PT J
+AU Ren, JT
+   Liu, XJ
+   Fang, CY
+   Jiang, SG
+   June, CH
+   Zhao, YB
+AF Ren, Jiangtao
+   Liu, Xiaojun
+   Fang, Chongyun
+   Jiang, Shuguang
+   June, Carl H.
+   Zhao, Yangbing
+ID CHIMERIC-ANTIGEN-RECEPTOR; ZINC-FINGER NUCLEASES; MESSENGER-RNA; HIV-1
+   INFECTION; TUMOR; LEUKEMIA; CRISPR/CAS9; STEM; IMMUNOTHERAPY;
+   SPECIFICITY
+RI Ren, Jiangtao/J-4985-2017
+NR 42
+TC 103
+Z9 111
+U1 30
+U2 122
+ER
+
+PT J
+AU Taning, CNT
+   Van Eynde, B
+   Yu, N
+   Ma, SY
+   Smagghe, G
+AF Taning, Clauvis Nji Tizi
+   Van Eynde, Benigna
+   Yu, Na
+   Ma, Sanyuan
+   Smagghe, Guy
+DE CRISPR/Cas9; Insect; Application; Best practice; Biosafety
+ID HOMING ENDONUCLEASE GENES; TAL EFFECTOR NUCLEASES; MOSQUITO
+   AEDES-AEGYPTI; ZINC-FINGER NUCLEASES; BOMBYX-MORI; HOMOLOGOUS
+   RECOMBINATION; DROSOPHILA-MELANOGASTER; BIOLOGICAL-CONTROL; TARGETED
+   MUTAGENESIS; GENOME MODIFICATIONS
+NR 131
+TC 20
+Z9 20
+U1 21
+U2 98
+ER
+
+PT J
+AU Kim, YB
+   Komor, AC
+   Levy, JM
+   Packer, MS
+   Zhao, KT
+   Liu, DR
+AF Kim, Y. Bill
+   Komor, Alexis C.
+   Levy, Jonathan M.
+   Packer, Michael S.
+   Zhao, Kevin T.
+   Liu, David R.
+ID STAPHYLOCOCCUS-AUREUS CAS9; DNA CLEAVAGE; CRYSTAL-STRUCTURE;
+   MAMMALIAN-CELLS; CRISPR-CAS9; APOBEC3G; DOMAIN
+OI Komor, Alexis/0000-0001-5043-0998
+NR 19
+TC 109
+Z9 123
+U1 16
+U2 95
+ER
+
+PT J
+AU Cornu, TI
+   Mussolino, C
+   Cathomen, T
+AF Cornu, Tatjana I.
+   Mussolino, Claudio
+   Cathomen, Toni
+ID ZINC-FINGER NUCLEASES; HEMATOPOIETIC STEM/PROGENITOR CELLS; DUCHENNE
+   MUSCULAR-DYSTROPHY; HOMOLOGY-DIRECTED REPAIR; IN-VIVO; GENE-THERAPY;
+   STEM-CELLS; DNA-CLEAVAGE; MAMMALIAN-CELLS; MOUSE MODEL
+OI Cathomen, Toni/0000-0002-7757-4630
+NR 99
+TC 62
+Z9 65
+U1 12
+U2 56
+ER
+
+PT J
+AU Gorski, SA
+   Vogel, J
+   Doudna, JA
+AF Gorski, Stanislaw A.
+   Vogel, Joerg
+   Doudna, Jennifer A.
+ID GUIDED SURVEILLANCE COMPLEX; CRISPR-CAS SYSTEMS; ARGONAUTE SILENCING
+   COMPLEX; BACTERIAL SMALL RNA; SM-LIKE PROTEIN; MESSENGER-RNA;
+   ESCHERICHIA-COLI; NONCODING RNA; CRYSTAL-STRUCTURE; IN-VIVO
+RI Vogel, Jorg/D-5574-2011
+OI Vogel, Jorg/0000-0003-2220-1404
+NR 118
+TC 48
+Z9 49
+U1 10
+U2 88
+ER
+
+PT J
+AU Mout, R
+   Ray, M
+   Tonga, GY
+   Lee, YW
+   Tay, T
+   Sasaki, K
+   Rotello, VM
+AF Mout, Rubul
+   Ray, Moumita
+   Tonga, Gulen Yesilbag
+   Lee, Yi-Wei
+   Tay, Tristan
+   Sasaki, Kanae
+   Rotello, Vincent M.
+DE CRISPR/Cas9; gene editing; CRISPR/Cas9 engineering; nanoparticle; CRISPR
+   delivery; genome engineering
+ID CAS9 RIBONUCLEOPROTEINS; HUMAN-CELLS; CRISPR-CAS9; NANOPARTICLES;
+   CRISPR/CAS9; CHALLENGES; ACTIVATION; PROTEINS; SYSTEM; RNA
+OI Mout, Rubul/0000-0001-6125-5873
+NR 28
+TC 68
+Z9 72
+U1 43
+U2 207
+ER
+
+PT J
+AU Tang, X
+   Lowder, LG
+   Zhang, T
+   Malzahn, AA
+   Zheng, XL
+   Voytas, DF
+   Zhong, ZH
+   Chen, YY
+   Ren, QR
+   Li, Q
+   Kirkland, ER
+   Zhang, Y
+   Qi, YP
+AF Tang, Xu
+   Lowder, Levi G.
+   Zhang, Tao
+   Malzahn, Aimee A.
+   Zheng, Xuelian
+   Voytas, Daniel F.
+   Zhong, Zhaohui
+   Chen, Yiyi
+   Ren, Qiurong
+   Li, Qian
+   Kirkland, Elida R.
+   Zhang, Yong
+   Qi, Yiping
+ID TARGETED MUTAGENESIS; HUMAN-CELLS; CPF1; SPECIFICITIES; NUCLEASES; MICE;
+   DNA
+RI Tang, Xu/P-3205-2017; Zhang, Tao/L-9336-2013
+OI Zhang, Tao/0000-0002-7897-0205
+NR 17
+TC 78
+Z9 84
+U1 26
+U2 127
+ER
+
+PT J
+AU Hospodiuk, M
+   Dey, M
+   Sosnoski, D
+   Ozbolat, IT
+AF Hospodiuk, Monika
+   Dey, Madhuri
+   Sosnoski, Donna
+   Ozbolat, Ibrahim T.
+DE Bioink; Bioprinting; Hydrogels; Cell aggregates; Microcarriers;
+   Decellularized matrix components; Tissue and organ biofabrication
+ID TISSUE ENGINEERING APPLICATIONS; EXTRACELLULAR-MATRIX BIOINK;
+   CELL-ADHESION MOLECULES; MESENCHYMAL STEM-CELLS; PHOTO-CROSS-LINKING;
+   ON-A-CHIP; HYALURONIC-ACID; IN-VITRO; DRUG-DELIVERY; BIOMEDICAL
+   APPLICATIONS
+OI Nakayama, Koichi/0000-0002-7324-8862
+NR 264
+TC 66
+Z9 66
+U1 45
+U2 220
+ER
+
+PT J
+AU Zsogon, A
+   Cermak, T
+   Voytas, D
+   Peres, LEP
+AF Zsogon, Agustin
+   Cermak, Tomas
+   Voytas, Dan
+   Peres, Lazar Eustaquio Pereira
+DE Breeding; CRISPR/Cas9; Genome editing; Stress resistance; TALENs; Yield
+ID CYTOKININ-ACTIVATING ENZYME; FORM ADVENTITIOUS ROOTS; SELF-PRUNING GENE;
+   CV MICRO-TOM; SOLANUM-LYCOPERSICON; PLANT ARCHITECTURE; QUANTITATIVE
+   TRAIT; FRUIT-SET; TRANSCRIPTIONAL REGULATION; TARGETED MUTAGENESIS
+RI Zsogon, Agustin/E-9365-2013; Peres, Lazaro/C-1598-2012
+OI Zsogon, Agustin/0000-0001-7828-7425; Peres, Lazaro/0000-0002-8761-5934
+NR 116
+TC 18
+Z9 18
+U1 17
+U2 70
+ER
+
+PT J
+AU Kim, E
+   Koo, T
+   Park, SW
+   Kim, D
+   Kim, K
+   Cho, HY
+   Song, DW
+   Lee, KJ
+   Jung, MH
+   Kim, S
+   Kim, JH
+   Kim, JH
+   Kim, JS
+AF Kim, Eunji
+   Koo, Taeyoung
+   Park, Sung Wook
+   Kim, Daesik
+   Kim, Kyoungmi
+   Cho, Hee-Yeon
+   Song, Dong Woo
+   Lee, Kyu Jun
+   Jung, Min Hee
+   Kim, Seokjoong
+   Kim, Jin Hyoung
+   Kim, Jeong Hun
+   Kim, Jin-Soo
+ID STAPHYLOCOCCUS-AUREUS CAS9; RNA-GUIDED ENDONUCLEASES; HUMAN-CELLS;
+   CHOROIDAL NEOVASCULARIZATION; GENE KNOCKOUT; MICE; MODEL;
+   RIBONUCLEOPROTEINS; TRANSCRIPTION; MUTATIONS
+RI Park, Sung Wook/D-5541-2012
+OI Park, Sung Wook/0000-0001-8151-6663
+NR 35
+TC 54
+Z9 61
+U1 5
+U2 33
+ER
+
+PT J
+AU Kim, H
+   Kim, ST
+   Ryu, J
+   Kang, BC
+   Kim, JS
+   Kim, SG
+AF Kim, Hyeran
+   Kim, Sang-Tae
+   Ryu, Jahee
+   Kang, Beum-Chang
+   Kim, Jin-Soo
+   Kim, Sang-Gyu
+ID CRISPR RNA; TARGETED MUTAGENESIS; CPF1; RIBONUCLEOPROTEINS;
+   ENDONUCLEASES; SYSTEM
+RI Kim, Sang-Tae/U-9457-2018; Kim, Sang-Gyu/T-5925-2017
+OI Kim, Sang-Tae/0000-0003-1645-6021; 
+NR 22
+TC 59
+Z9 69
+U1 14
+U2 85
+ER
+
+PT J
+AU Zhang, K
+   Raboanatahiry, N
+   Zhu, B
+   Li, MT
+AF Zhang, Kai
+   Raboanatahiry, Nadia
+   Zhu, Bin
+   Li, Maoteng
+DE Genome editing technology; ZFN; TALEN; CRISPR-Cas9; CRISPR-Cpf1;
+   CRISPR-C2c1; RNAi; CRISPR-C2c2
+ID ZINC-FINGER NUCLEASES; CRISPR-CAS SYSTEMS; DOUBLE-STRANDED-RNA; TARGETED
+   GENE REPLACEMENT; DNA-BINDING SPECIFICITY; SHORT INTERFERING RNAS;
+   HEXAPLOID BREAD WHEAT; MAMMALIAN-CELLS; HOMOLOGOUS RECOMBINATION;
+   FUNCTIONAL GENOMICS
+NR 131
+TC 19
+Z9 20
+U1 5
+U2 144
+ER
+
+PT J
+AU Bradner, JE
+   Hnisz, D
+   Young, RA
+AF Bradner, James E.
+   Hnisz, Denes
+   Young, Richard A.
+ID ACUTE PROMYELOCYTIC LEUKEMIA; BET BROMODOMAIN INHIBITION; ACUTE
+   LYMPHOBLASTIC-LEUKEMIA; COVALENT CDK7 INHIBITOR; NEGATIVE BREAST-CANCER;
+   MLL-FUSION LEUKEMIA; CELL IDENTITY GENES; RNA-POLYMERASE-II;
+   SUPER-ENHANCER; C-MYC
+OI /0000-0001-8855-8647
+NR 129
+TC 81
+Z9 83
+U1 9
+U2 46
+ER
+
+PT J
+AU Zhang, YK
+   Lamb, BM
+   Feldman, AW
+   Zhou, AX
+   Lavergne, T
+   Li, LJ
+   Romesberg, FE
+AF Zhang, Yorke
+   Lamb, Brian M.
+   Feldman, Aaron W.
+   Zhou, Anne Xiaozhou
+   Lavergne, Thomas
+   Li, Lingjun
+   Romesberg, Floyd E.
+DE unnatural base pair; CRISPR; Cas9; DNA replication; nucleotide
+   transporter
+ID UNNATURAL BASE-PAIR; NATURAL-LIKE REPLICATION; ESCHERICHIA-COLI K-12;
+   IMMUNE-SYSTEM; HOST STRAINS; ONE-STEP; DNA; VECTORS; CLONING;
+   OPTIMIZATION
+RI LAVERGNE, Thomas/N-8896-2013
+OI LAVERGNE, Thomas/0000-0002-0029-0015; Romesberg,
+   Floyd/0000-0001-6317-1315
+NR 41
+TC 53
+Z9 56
+U1 6
+U2 75
+ER
+
+PT J
+AU Spit, J
+   Philips, A
+   Wynant, N
+   Santos, D
+   Plaetinck, G
+   Broeck, JV
+AF Spit, Jornt
+   Philips, Annelies
+   Wynant, Niels
+   Santos, Dulce
+   Plaetinck, Geert
+   Broeck, Jozef Vanden
+DE RNA interference; RNAi; Colorado potato beetle; Desert locust; dsRNase;
+   Nuclease; dsRNA
+ID DOUBLE-STRANDED-RNA; RECEPTOR-MEDIATED ENDOCYTOSIS; INTERFERENCE
+   RESPONSE; PEST-CONTROL; BOMBYX-MORI; INSECTS; EXPRESSION; GENES; DSRNA;
+   IDENTIFICATION
+OI Vanden Broeck, Jozef/0000-0001-7653-0516
+NR 58
+TC 19
+Z9 20
+U1 5
+U2 21
+ER
+
+PT J
+AU Ruan, GX
+   Barry, E
+   Yu, D
+   Lukason, M
+   Cheng, SH
+   Scaria, A
+AF Ruan, Guo-Xiang
+   Barry, Elizabeth
+   Yu, Dan
+   Lukason, Michael
+   Cheng, Seng H.
+   Scaria, Abraham
+ID IN-VIVO; RETINAL DEGENERATION; GENE-TRANSFER; HUMAN-CELLS; CEP290;
+   MUTATION; DELIVERY; SYSTEM; MOUSE; MODEL
+NR 36
+TC 43
+Z9 46
+U1 8
+U2 19
+ER
+
+PT J
+AU Burkard, C
+   Lillico, SG
+   Reid, E
+   Jackson, B
+   Mileham, AJ
+   Ait-Ali, T
+   Whitelaw, CBA
+   Archibald, AL
+AF Burkard, Christine
+   Lillico, Simon G.
+   Reid, Elizabeth
+   Jackson, Ben
+   Mileham, Alan J.
+   Ait-Ali, Tahar
+   Whitelaw, C. Bruce A.
+   Archibald, Alan L.
+ID RESPIRATORY-SYNDROME-VIRUS; PORCINE ALVEOLAR MACROPHAGES; SCAVENGER
+   RECEPTOR CD163; LELYSTAD-VIRUS; UNITED-STATES; STRUCTURAL PROTEIN;
+   ECONOMIC-IMPACT; INFECTION; IDENTIFICATION; CELLS
+RI Institute, Pirbright/K-4476-2014
+OI Whitelaw, Bruce/0000-0002-2918-1605; Burkard,
+   Christine/0000-0002-0471-3230; Archibald, Alan/0000-0001-9213-1830;
+   Reid, Elizabeth/0000-0003-4806-0902
+NR 81
+TC 54
+Z9 64
+U1 13
+U2 46
+ER
+
+PT J
+AU Al-Chalabi, A
+   van den Berg, LH
+   Veldink, J
+AF Al-Chalabi, Ammar
+   van den Berg, Leonard H.
+   Veldink, Jan
+ID HEXANUCLEOTIDE REPEAT EXPANSION; GENOME-WIDE ASSOCIATION; FRONTOTEMPORAL
+   DEMENTIA; SUPEROXIDE-DISMUTASE; CHROMOSOME 9P; MUTATIONS; C9ORF72; ALS;
+   DISEASE; LOCI
+NR 94
+TC 46
+Z9 49
+U1 4
+U2 32
+ER
+
+PT J
+AU Fellmann, C
+   Cowen, BC
+   Lin, PC
+   Doudna, JA
+   Corn, JE
+AF Fellmann, Christof
+   Cowen, Benjamin C.
+   Lin, Pei-Chun
+   Doudna, Jennifer A.
+   Corn, Jacob E.
+ID EMBRYONIC STEM-CELLS; HEMATOPOIETIC STEM/PROGENITOR CELLS;
+   GENOME-EDITING SPECIFICITY; ZINC-FINGER NUCLEASES; VIRUS ENTRY REQUIRES;
+   DOUBLE-STRAND BREAKS; HUMAN CANCER-CELLS; OFF-TARGET SITES; IN-VIVO;
+   T-CELLS
+OI Fellmann, Christof/0000-0002-9545-5723
+NR 159
+TC 76
+Z9 77
+U1 49
+U2 149
+ER
+
+PT J
+AU Lai, AC
+   Crews, CM
+AF Lai, Ashton C.
+   Crews, Craig M.
+ID E3 UBIQUITIN LIGASE; ADVANCED PROSTATE-CANCER; SMALL-MOLECULE PROTACS;
+   ADVANCED BREAST-CANCER; ESTROGEN-RECEPTOR DEGRADER; HIGH-AFFINITY
+   LIGANDS; CELL LUNG-CANCER; KAPPA-B-ALPHA; ANDROGEN RECEPTOR; IN-VIVO
+NR 215
+TC 104
+Z9 107
+U1 49
+U2 154
+ER
+
+PT J
+AU Liang, Z
+   Chen, KL
+   Li, TD
+   Zhang, Y
+   Wang, YP
+   Zhao, Q
+   Liu, JX
+   Zhang, HW
+   Liu, CM
+   Ran, YD
+   Gao, CX
+AF Liang, Zhen
+   Chen, Kunling
+   Li, Tingdong
+   Zhang, Yi
+   Wang, Yanpeng
+   Zhao, Qian
+   Liu, Jinxing
+   Zhang, Huawei
+   Liu, Cuimin
+   Ran, Yidong
+   Gao, Caixia
+ID SYSTEM; PLANTS
+OI Liu, Cuimin/0000-0003-4982-4804
+NR 15
+TC 99
+Z9 110
+U1 22
+U2 186
+ER
+
+PT J
+AU Komor, AC
+   Badran, AH
+   Liu, DR
+AF Komor, Alexis C.
+   Badran, Ahmed H.
+   Liu, David R.
+ID PLURIPOTENT STEM-CELLS; ZINC-FINGER NUCLEASES; DOUBLE-STRAND BREAKS;
+   OFF-TARGET CLEAVAGE; DNA-CLEAVAGE; HOMOLOGOUS RECOMBINATION; KNOCK-IN;
+   GENE DELIVERY; CAS9 PROTEIN; MOUSE MODEL
+OI Komor, Alexis/0000-0001-5043-0998
+NR 228
+TC 170
+Z9 180
+U1 92
+U2 493
+ER
+
+PT J
+AU De Ravin, SS
+   Li, LH
+   Wu, XL
+   Choi, U
+   Allen, C
+   Koontz, S
+   Lee, J
+   Theobald-Whiting, N
+   Chu, J
+   Garofalo, M
+   Sweeney, C
+   Kardava, L
+   Moir, S
+   Viley, A
+   Natarajan, P
+   Su, L
+   Kuhns, D
+   Zarember, KA
+   Peshwa, MV
+   Malech, HL
+AF De Ravin, Suk See
+   Li, Linhong
+   Wu, Xiaolin
+   Choi, Uimook
+   Allen, Cornell
+   Koontz, Sherry
+   Lee, Janet
+   Theobald-Whiting, Narda
+   Chu, Jessica
+   Garofalo, Mary
+   Sweeney, Colin
+   Kardava, Lela
+   Moir, Susan
+   Viley, Angelia
+   Natarajan, Pachai
+   Su, Ling
+   Kuhns, Douglas
+   Zarember, Kol A.
+   Peshwa, Madhusudan V.
+   Malech, Harry L.
+ID SEVERE COMBINED IMMUNODEFICIENCY; B-CELLS; THERAPY; EXPRESSION;
+   NUCLEASES; MUTATION; IMMUNITY
+OI Zarember, Kol/0000-0002-9624-7096
+NR 31
+TC 39
+Z9 40
+U1 10
+U2 39
+ER
+
+PT J
+AU Liang, XQ
+   Potter, J
+   Kumar, S
+   Ravinder, N
+   Chesnut, JD
+AF Liang, Xiquan
+   Potter, Jason
+   Kumar, Shantanu
+   Ravinder, Namritha
+   Chesnut, Jonathan D.
+DE CRISPR; Cas9; gRNA; Genome editing; Knock-in; Homologous recombination
+ID STEM-CELLS; GENERATION; OLIGODEOXYNUCLEOTIDES; MUTATIONS
+NR 25
+TC 47
+Z9 47
+U1 5
+U2 54
+ER
+
+PT J
+AU van Agtmaal, EL
+   Andre, LM
+   Willemse, M
+   Cumming, SA
+   van Kessel, IDG
+   van den Broek, WJAA
+   Gourdon, G
+   Furling, D
+   Mouly, V
+   Monckton, DG
+   Wansink, DG
+   Wieringa, B
+AF van Agtmaal, Ellen L.
+   Andre, Laurene M.
+   Willemse, Marieke
+   Cumming, Sarah A.
+   van Kessel, Ingeborg D. G.
+   van den Broek, Walther J. A. A.
+   Gourdon, Genevieve
+   Furling, Denis
+   Mouly, Vincent
+   Monckton, Darren G.
+   Wansink, Derick G.
+   Wieringa, Be
+ID HOMOLOGY-DIRECTED REPAIR; HUMAN-CELLS; TRIPLET-REPEAT; CTG REPEAT;
+   ENDONUCLEASE ACTIVITY; MOLECULAR-MECHANISMS; SOMATIC INSTABILITY;
+   REDUCES EXPRESSION; HUMAN MYOBLASTS; RNA TOXICITY
+RI Gourdon, Genevieve/F-2996-2013; Andre, Laurene/A-3200-2016; Wansink,
+   Derick/F-3404-2010
+OI Gourdon, Genevieve/0000-0002-3319-1347; Andre,
+   Laurene/0000-0002-6200-7764; Mouly, Vincent/0000-0003-3809-4033
+NR 83
+TC 28
+Z9 28
+U1 7
+U2 26
+ER
+
+PT S
+AU Jiang, FG
+   Doudna, JA
+AF Jiang, Fuguo
+   Doudna, Jennifer A.
+BE Dill, KA
+DE CRISPR; Cas9; genome engineering; structure; mechanism; off-target
+ID RNA-GUIDED ENDONUCLEASE; GENOME EDITING SPECIFICITY;
+   STAPHYLOCOCCUS-AUREUS CAS9; ALTERED PAM SPECIFICITIES; TARGET DNA
+   RECOGNITION; R-LOOP FORMATION; CRYSTAL-STRUCTURE;
+   NEISSERIA-MENINGITIDIS; SURVEILLANCE COMPLEX; IMMUNE-SYSTEM
+RI JIANG, FUGUO/G-6581-2012
+OI JIANG, FUGUO/0000-0003-4469-1803
+NR 109
+TC 79
+Z9 81
+U1 64
+U2 145
+ER
+
+PT J
+AU Ordon, J
+   Gantner, J
+   Kemna, J
+   Schwalgun, L
+   Reschke, M
+   Streubel, J
+   Boch, J
+   Stuttmann, J
+AF Ordon, Jana
+   Gantner, Johannes
+   Kemna, Jan
+   Schwalgun, Lennart
+   Reschke, Maik
+   Streubel, Jana
+   Boch, Jens
+   Stuttmann, Johannes
+DE CRISPR/Cas; chromosomal deletion; Nicotiana benthamiana; Arabidopsis
+   thaliana; plant immunity; EDS1; technical advance
+ID ACETYLSERINE THIOL LYASE; TAL EFFECTOR NUCLEASES; ARABIDOPSIS-THALIANA;
+   CRISPR/CAS SYSTEM; INNATE IMMUNITY; III EFFECTORS; DIRECTED MUTAGENESIS;
+   TARGETED MUTAGENESIS; HUMAN-CELLS; GENES
+OI Stuttmann, Johannes/0000-0002-6207-094X
+NR 65
+TC 21
+Z9 21
+U1 2
+U2 28
+ER
+
+PT J
+AU Krappmann, S
+AF Krappmann, Sven
+DE CRISPR/Cas; Aspergillus; molecular biology
+ID CAS SYSTEMS; ASPERGILLUS-FUMIGATUS; GENE; CRISPR/CAS9; REPEATS; DNA;
+   PROKARYOTES; MECHANISMS; EVOLUTION; IMMUNITY
+RI Krappmann, Sven/K-2615-2012
+OI Krappmann, Sven/0000-0002-8299-7777
+NR 33
+TC 15
+Z9 16
+U1 8
+U2 51
+ER
+
+PT J
+AU Li, L
+   Song, LJ
+   Liu, XW
+   Yang, X
+   Li, X
+   He, T
+   Wang, N
+   Yang, SLX
+   Yu, C
+   Yin, T
+   Wen, YZ
+   He, ZY
+   Wei, XW
+   Su, WJ
+   Wu, QJ
+   Yao, SH
+   Gong, CY
+   Wei, YQ
+AF Li, Ling
+   Song, Linjiang
+   Liu, Xiaowei
+   Yang, Xi
+   Li, Xia
+   He, Tao
+   Wang, Ning
+   Yang, Suleixin
+   Yu, Chuan
+   Yin, Tao
+   Wen, Yanzhu
+   He, Zhiyao
+   Wei, Xiawei
+   Su, Weijun
+   Wu, Qinjie
+   Yao, Shaohua
+   Gong, Changyang
+   Wei, Yuquan
+DE CRISPR-Cas9; artificial virus; MTH1; genome editing; nucleus-targeting
+ID GENE DELIVERY; IN-VIVO; MEDIATED DELIVERY; CAS NUCLEASES; CANCER; RNA;
+   SIRNA; CRISPR/CAS9; EFFICIENCY; STRATEGY
+RI yang, xueqin/K-1830-2017
+OI He, Zhi-Yao/0000-0001-7888-211X
+NR 55
+TC 47
+Z9 49
+U1 30
+U2 126
+ER
+
+PT J
+AU Zhu, CF
+   Bortesi, L
+   Baysal, C
+   Twyman, RM
+   Fischer, R
+   Capell, T
+   Schillberg, S
+   Christou, P
+AF Zhu, Changfu
+   Bortesi, Luisa
+   Baysal, Can
+   Twyman, Richard M.
+   Fischer, Rainer
+   Capell, Teresa
+   Schillberg, Stefan
+   Christou, Paul
+ID CRISPR-CAS SYSTEM; MEDIATED TARGETED MUTAGENESIS; TAL EFFECTOR
+   NUCLEASES; ZINC-FINGER NUCLEASES; HOMOLOGOUS RECOMBINATION; HERITABLE
+   MUTATIONS; HOMING ENDONUCLEASE; RESISTANT RICE; PLANT GENOMES; GUIDE RNA
+RI Twyman, Richard/M-5016-2018
+OI Twyman, Richard/0000-0002-8764-3003; Zhu, Changfu/0000-0003-2834-2742;
+   Bortesi, Luisa/0000-0003-2911-0863
+NR 90
+TC 21
+Z9 24
+U1 8
+U2 59
+ER
+
+PT J
+AU Soyk, S
+   Muller, NA
+   Park, SJ
+   Schmalenbach, I
+   Jiang, K
+   Hayama, R
+   Zhang, L
+   Van Eck, J
+   Jimenez-Gomez, JM
+   Lippman, ZB
+AF Soyk, Sebastian
+   Mueller, Niels A.
+   Park, Soon Ju
+   Schmalenbach, Inga
+   Jiang, Ke
+   Hayama, Ryosuke
+   Zhang, Lei
+   Van Eck, Joyce
+   Jimenez-Gomez, Jose M.
+   Lippman, Zachary B.
+ID LOCUS-T; CULTIVATED TOMATO; NATURAL VARIATION; CIRCADIAN CLOCK; GROWTH;
+   FT; PHOTOPERIOD; REGULATOR; RICE; ARABIDOPSIS
+OI Soyk, Sebastian/0000-0003-0325-4404; Jimenez-Gomez, Jose
+   M/0000-0002-5033-7192
+NR 60
+TC 58
+Z9 66
+U1 25
+U2 160
+ER
+
+PT J
+AU Jaitin, DA
+   Weiner, A
+   Yofe, I
+   Lara-Astiaso, D
+   Keren-Shaul, H
+   David, E
+   Salame, TM
+   Tanay, A
+   van Oudenaarden, A
+   Amit, I
+AF Jaitin, Diego Adhemar
+   Weiner, Assaf
+   Yofe, Ido
+   Lara-Astiaso, David
+   Keren-Shaul, Hadas
+   David, Eyal
+   Salame, Tomer Meir
+   Tanay, Amos
+   van Oudenaarden, Alexander
+   Amit, Ido
+ID ONE-STEP GENERATION; GENOME-WIDE; DENDRITIC CELLS; BONE-MARROW;
+   MACROPHAGE; MOUSE; VECTORS; SYSTEM; HETEROGENEITY; COMBINATIONS
+NR 58
+TC 121
+Z9 123
+U1 4
+U2 42
+ER
+
+PT J
+AU Wang, QT
+   Lu, YD
+   Xin, Y
+   Wei, L
+   Huang, S
+   Xu, J
+AF Wang, Qintao
+   Lu, Yandu
+   Xin, Yi
+   Wei, Li
+   Huang, Shi
+   Xu, Jian
+DE oleaginous microalgae; Nannochloropsis spp.; clustered regularly
+   interspaced short palindromic repeat-Cas system; genome editing; nitrate
+   reductase; technical advance
+ID HOMOLOGOUS RECOMBINATION; CHLAMYDOMONAS-REINHARDTII; NITROGEN-DEPLETION;
+   BIOFUEL PRODUCTION; NEUTRAL LIPIDS; OCEANICA IMET1; GUIDE RNA;
+   EVOLUTION; SEQUENCE; REVEALS
+OI Lu, Yandu/0000-0002-0136-2252; huang, shi/0000-0002-7529-2269
+NR 62
+TC 38
+Z9 43
+U1 12
+U2 64
+ER
+
+PT J
+AU Ma, YQ
+   Zhang, JY
+   Yin, WJ
+   Zhang, ZC
+   Song, Y
+   Chang, X
+AF Ma, Yunqing
+   Zhang, Jiayuan
+   Yin, Weijie
+   Zhang, Zhenchao
+   Song, Yan
+   Chang, Xing
+ID CLASS-SWITCH RECOMBINATION; URACIL-DNA GLYCOSYLASE; ABL TYROSINE KINASE;
+   SOMATIC HYPERMUTATION; MOLECULAR-MECHANISMS; STRUCTURAL BASIS; BCR-ABL;
+   R-LOOPS; RESISTANCE; CRISPR
+OI Chang, Xing/0000-0002-5072-9225
+NR 43
+TC 85
+Z9 100
+U1 11
+U2 50
+ER
+
+PT J
+AU Suzuki, K
+   Tsunekawa, Y
+   Hernandez-Benitez, R
+   Wu, J
+   Zhu, J
+   Kim, EJ
+   Hatanaka, F
+   Yamamoto, M
+   Araoka, T
+   Li, Z
+   Kurita, M
+   Hishida, T
+   Li, M
+   Aizawa, E
+   Guo, SC
+   Chen, S
+   Goebl, A
+   Soligalla, RD
+   Qu, J
+   Jiang, TS
+   Fu, X
+   Jafari, M
+   Esteban, CR
+   Berggern, WT
+   Lajara, J
+   Nunez-Delicado, E
+   Guillen, P
+   Campistol, JM
+   Matsuzaki, F
+   Liu, GH
+   Magistretti, P
+   Zhang, K
+   Callaway, EM
+   Zhang, K
+   Belmonte, JCI
+AF Suzuki, Keiichiro
+   Tsunekawa, Yuji
+   Hernandez-Benitez, Reyna
+   Wu, Jun
+   Zhu, Jie
+   Kim, Euiseok J.
+   Hatanaka, Fumiyuki
+   Yamamoto, Mako
+   Araoka, Toshikazu
+   Li, Zhe
+   Kurita, Masakazu
+   Hishida, Tomoaki
+   Li, Mo
+   Aizawa, Emi
+   Guo, Shicheng
+   Chen, Song
+   Goebl, April
+   Soligalla, Rupa Devi
+   Qu, Jing
+   Jiang, Tingshuai
+   Fu, Xin
+   Jafari, Maryam
+   Esteban, Concepcion Rodriguez
+   Berggern, W. Travis
+   Lajara, Jeronimo
+   Nunez-Delicado, Estrella
+   Guillen, Pedro
+   Campistol, Josep M.
+   Matsuzaki, Fumio
+   Liu, Guang-Hui
+   Magistretti, Pierre
+   Zhang, Kun
+   Callaway, Edward M.
+   Zhang, Kang
+   Belmonte, Juan Carlos Izpisua
+ID LEBERS CONGENITAL AMAUROSIS; MINICIRCLE DNA VECTORS; GENE-THERAPY;
+   TRANSGENE EXPRESSION; STEM-CELLS; IPSCS; ELECTROPORATION; RECOMBINATION;
+   PROGENITORS; MECHANISM
+RI Nunez-Delicado, Estrella/F-7053-2012; Guo, Shicheng/D-9582-2017
+OI Nunez-Delicado, Estrella/0000-0002-0554-2365; Guo,
+   Shicheng/0000-0002-7047-9972; Lajara Blesa,
+   Jeronimo/0000-0003-1859-8998; Josep M, Campistol/0000-0001-6244-0253;
+   Magistretti, Pierre Julius/0000-0002-6678-320X; Suzuki,
+   Keiichiro/0000-0001-5603-9105; Hernandez-Benitez,
+   Reyna/0000-0003-2546-8956
+NR 45
+TC 191
+Z9 202
+U1 61
+U2 285
+ER
+
+PT J
+AU Dever, DP
+   Bak, RO
+   Reinisch, A
+   Camarena, J
+   Washington, G
+   Nicolas, CE
+   Pavel-Dinu, M
+   Saxena, N
+   Wilkens, AB
+   Mantri, S
+   Uchida, N
+   Hendel, A
+   Narla, A
+   Majeti, R
+   Weinberg, KI
+   Porteus, MH
+AF Dever, Daniel P.
+   Bak, Rasmus O.
+   Reinisch, Andreas
+   Camarena, Joab
+   Washington, Gabriel
+   Nicolas, Carmencita E.
+   Pavel-Dinu, Mara
+   Saxena, Nivi
+   Wilkens, Alec B.
+   Mantri, Sruthi
+   Uchida, Nobuko
+   Hendel, Ayal
+   Narla, Anupama
+   Majeti, Ravindra
+   Weinberg, Kenneth I.
+   Porteus, Matthew H.
+ID HOMOLOGOUS RECOMBINATION; DONOR LYMPHOCYTES; PROGENITOR CELLS;
+   MESSENGER-RNA; SELF-RENEWAL; THERAPY; DISEASE; TRANSPLANTATION;
+   ENDONUCLEASE; LEUKEMIA
+OI Camarena, Joab/0000-0002-3102-5820; Bak, Rasmus/0000-0002-7383-0297
+NR 42
+TC 171
+Z9 180
+U1 31
+U2 171
+ER
+
+PT J
+AU Svitashev, S
+   Schwartz, C
+   Lenderts, B
+   Young, JK
+   Cigan, AM
+AF Svitashev, Sergei
+   Schwartz, Christine
+   Lenderts, Brian
+   Young, Joshua K.
+   Cigan, A. Mark
+ID DOUBLE-STRAND BREAKS; HOMOLOGOUS RECOMBINATION; CAS9 RIBONUCLEOPROTEINS;
+   TARGETED MUTAGENESIS; RNA; DNA; NUCLEASES; EFFICIENT; PLANTS; SYSTEM
+NR 31
+TC 91
+Z9 100
+U1 15
+U2 136
+ER
+
+PT J
+AU Horvath, P
+   Aulner, N
+   Bickle, M
+   Davies, AM
+   Del Nery, E
+   Ebner, D
+   Montoya, MC
+   Ostling, P
+   Pietiainen, V
+   Price, LS
+   Shorte, SL
+   Turcatti, G
+   von Schantz, C
+   Carragher, NO
+AF Horvath, Peter
+   Aulner, Nathalie
+   Bickle, Marc
+   Davies, Anthony M.
+   Del Nery, Elaine
+   Ebner, Daniel
+   Montoya, Maria C.
+   Ostling, Paivi
+   Pietiainen, Vilja
+   Price, Leo S.
+   Shorte, Spencer L.
+   Turcatti, Gerardo
+   von Schantz, Carina
+   Carragher, Neil O.
+ID PLURIPOTENT STEM-CELLS; DIGITAL HOLOGRAPHIC MICROSCOPY; ORGANS-ON-CHIPS;
+   HIGH-THROUGHPUT MEASUREMENT; ACUTE MYELOID-LEUKEMIA; IN-VITRO
+   ASSESSMENT; DRUG-DISCOVERY; EXTRACELLULAR-MATRIX; CANCER-CELLS;
+   BETA-CELLS
+RI Montoya, Maria/N-1558-2014
+OI Montoya, Maria/0000-0001-8878-7028; Carragher, Neil/0000-0001-5541-9747;
+   Ebner, Daniel/0000-0002-6495-7026; Shorte, Spencer/0000-0002-2125-8663;
+   Ostling, Paivi/0000-0001-5501-466X
+NR 228
+TC 90
+Z9 91
+U1 17
+U2 87
+ER
+
+PT J
+AU Stewart, MP
+   Sharei, A
+   Ding, XY
+   Sahay, G
+   Langer, R
+   Jensen, KF
+AF Stewart, Martin P.
+   Sharei, Armon
+   Ding, Xiaoyun
+   Sahay, Gaurav
+   Langer, Robert
+   Jensen, Klavs F.
+ID LIVING CELLS; DRUG-DELIVERY; GENE DELIVERY; LIVE CELLS; LIPID
+   NANOPARTICLES; NONVIRAL VECTORS; MAMMALIAN-CELLS; DENDRITIC CELLS; SIRNA
+   DELIVERY; MESSENGER-RNA
+RI Stewart, Martin Philip/E-8059-2011
+OI Stewart, Martin Philip/0000-0003-4112-6622; Sahay,
+   Gaurav/0000-0003-1071-0500
+NR 100
+TC 141
+Z9 148
+U1 61
+U2 392
+ER
+
+PT J
+AU DeWitt, MA
+   Magis, W
+   Bray, NL
+   Wang, T
+   Berman, JR
+   Urbinati, F
+   Heo, SJ
+   Mitros, T
+   Munoz, DP
+   Boffelli, D
+   Kohn, DB
+   Walters, MC
+   Carroll, D
+   Martin, DIK
+   Corn, JE
+AF DeWitt, Mark A.
+   Magis, Wendy
+   Bray, Nicolas L.
+   Wang, Tianjiao
+   Berman, Jennifer R.
+   Urbinati, Fabrizia
+   Heo, Seok-Jin
+   Mitros, Therese
+   Munoz, Denise P.
+   Boffelli, Dario
+   Kohn, Donald B.
+   Walters, Mark C.
+   Carroll, Dana
+   Martin, David I. K.
+   Corn, Jacob E.
+ID BONE-MARROW-TRANSPLANTATION; STEM-CELLS; BETA-GLOBIN; MOUSE MODEL; GUIDE
+   RNAS; DISEASE; NUCLEASES; ANEMIA; DNA; CRISPR-CAS9
+NR 57
+TC 94
+Z9 99
+U1 10
+U2 56
+ER
+
+PT J
+AU Liu, XS
+   Wu, H
+   Ji, X
+   Stelzer, Y
+   Wu, XB
+   Czauderna, S
+   Shu, J
+   Dadon, D
+   Young, RA
+   Jaenisch, R
+AF Liu, X. Shawn
+   Wu, Hao
+   Ji, Xiong
+   Stelzer, Yonatan
+   Wu, Xuebing
+   Czauderna, Szymon
+   Shu, Jian
+   Dadon, Daniel
+   Young, Richard A.
+   Jaenisch, Rudolf
+ID GENE-EXPRESSION; 3D GENOME; DEPENDENT PHOSPHORYLATION; REGULATORY
+   LANDSCAPE; CELLS; DEMETHYLATION; RESOLUTION; DISEASE; CRISPR;
+   TRANSCRIPTION
+RI Wu, Xuebing/C-9152-2013
+OI Wu, Xuebing/0000-0003-0369-5269; /0000-0001-8855-8647
+NR 56
+TC 247
+Z9 257
+U1 38
+U2 166
+ER
+
+PT J
+AU Zhang, Y
+   Liang, Z
+   Zong, Y
+   Wang, YP
+   Liu, JX
+   Chen, KL
+   Qiu, JL
+   Gao, CX
+AF Zhang, Yi
+   Liang, Zhen
+   Zong, Yuan
+   Wang, Yanpeng
+   Liu, Jinxing
+   Chen, Kunling
+   Qiu, Jin-Long
+   Gao, Caixia
+ID NATURAL VARIATION; CAS9 NUCLEASE; COMMON WHEAT; CROP PLANTS;
+   HUMAN-CELLS; RICE; SYSTEM; GENE; RIBONUCLEOPROTEINS; SPECIFICITY
+OI Qiu, Jin-Long/0000-0001-8054-2552
+NR 28
+TC 98
+Z9 116
+U1 13
+U2 173
+ER
+
+PT J
+AU Zhu, GH
+   Xu, J
+   Cui, Z
+   Dong, XT
+   Ye, ZF
+   Niu, DJ
+   Huang, YP
+   Dong, SL
+AF Zhu, Guan-Heng
+   Xu, Jun
+   Cui, Zhen
+   Dong, Xiao-Tong
+   Ye, Zhan-Feng
+   Niu, Dong-Juan
+   Huang, Yong-Ping
+   Dong, Shuang-Lin
+DE CRISPR/Cas9 system; Genome editing; Spodoptera litura; Pheromone binding
+   protein 3
+ID PHEROMONE-BINDING-PROTEINS; ZINC-FINGER NUCLEASES; TIME RT-PCR;
+   BOMBYX-MORI; MOLECULAR CHARACTERIZATION; SEX-PHEROMONES; EFFICIENT;
+   GENE; MUTAGENESIS; DROSOPHILA
+NR 53
+TC 28
+Z9 32
+U1 2
+U2 33
+ER
+
+PT J
+AU McKenna, A
+   Findlay, GM
+   Gagnon, JA
+   Horwitz, MS
+   Schier, AF
+   Shendure, J
+AF McKenna, Aaron
+   Findlay, Gregory M.
+   Gagnon, James A.
+   Horwitz, Marshall S.
+   Schier, Alexander F.
+   Shendure, Jay
+ID CELL LINEAGE; TISSUE HOMEOSTASIS; SYSTEMS BIOLOGY; NERVOUS-SYSTEM;
+   STEM-CELLS; IN-VIVO; ZEBRAFISH; EXPRESSION; NUCLEASES; FATE
+OI Horwitz, Marshall/0000-0002-1683-1680
+NR 46
+TC 131
+Z9 134
+U1 16
+U2 92
+ER
+
+PT J
+AU Butler, NM
+   Baltes, NJ
+   Voytas, DF
+   Douches, DS
+AF Butler, Nathaniel M.
+   Baltes, Nicholas J.
+   Voytas, Daniel F.
+   Douches, David S.
+DE bean yellow dwarf virus; gene targeting; homologous recombination; gene
+   replacement; acetolactate synthase; CRISPR/Cas; TALEN; ZFN
+ID ZINC-FINGER NUCLEASES; YELLOW-DWARF-VIRUS; HOMOLOGOUS RECOMBINATION;
+   PLANT-CELLS; EFFECTOR NUCLEASES; ARABIDOPSIS; EXPRESSION;
+   TRANSFORMATION; TOMATO; REPLICATION
+NR 55
+TC 36
+Z9 40
+U1 7
+U2 66
+ER
+
+PT J
+AU Ma, XL
+   Zhu, QL
+   Chen, YL
+   Liu, YG
+AF Ma, Xingliang
+   Zhu, Qinlong
+   Chen, Yuanling
+   Liu, Yao-Guang
+DE CRISPR/Cas9; genome editing; multiplex editing; mutation; plants
+ID ZINC-FINGER NUCLEASES; RNA-GUIDED ENDONUCLEASE; AGROBACTERIUM-MEDIATED
+   TRANSFORMATION; DOUBLE-STRAND BREAKS; TARGETED MUTAGENESIS; CAS SYSTEM;
+   HOMOLOGOUS RECOMBINATION; STAPHYLOCOCCUS-AUREUS; ARABIDOPSIS-THALIANA;
+   DNA-RECOGNITION
+NR 122
+TC 76
+Z9 85
+U1 13
+U2 303
+ER
+
+PT J
+AU Gao, XH
+   Chen, JL
+   Dai, XH
+   Zhang, D
+   Zhao, YD
+AF Gao, Xiuhua
+   Chen, Jilin
+   Dai, Xinhua
+   Zhang, Da
+   Zhao, Yunde
+ID AUXIN-BINDING PROTEIN-1; GENE MODIFICATIONS; SYSTEM; PLANTS
+NR 27
+TC 34
+Z9 36
+U1 3
+U2 52
+ER
+
+PT J
+AU Altpeter, F
+   Springer, NM
+   Bartley, LE
+   Blechl, AE
+   Brutnell, TP
+   Citovsky, V
+   Conrad, LJ
+   Gelvin, SB
+   Jackson, DP
+   Kausch, AP
+   Lemaux, PG
+   Medford, JI
+   Orozco-Cardenas, ML
+   Tricoli, DM
+   Van Eck, J
+   Voytas, DF
+   Walbot, V
+   Wang, K
+   Zhang, ZYJ
+   Stewart, CN
+AF Altpeter, Fredy
+   Springer, Nathan M.
+   Bartley, Laura E.
+   Blechl, Ann E.
+   Brutnell, Thomas P.
+   Citovsky, Vitaly
+   Conrad, Liza J.
+   Gelvin, Stanton B.
+   Jackson, David P.
+   Kausch, Albert P.
+   Lemaux, Peggy G.
+   Medford, June I.
+   Orozco-Cardenas, Martha L.
+   Tricoli, David M.
+   Van Eck, Joyce
+   Voytas, Daniel F.
+   Walbot, Virginia
+   Wang, Kan
+   Zhang, Zhanyuan J.
+   Stewart, C. Neal, Jr.
+ID AGROBACTERIUM-MEDIATED TRANSFORMATION; PLANT SYNTHETIC BIOLOGY;
+   GENETIC-TRANSFORMATION; T-DNA; TRANSCRIPTION FACTOR; VIRD2 PROTEIN;
+   SOMATIC EMBRYOGENESIS; PARTICLE BOMBARDMENT; TRANSGENIC PLANTS;
+   TUMEFACIENS VIRD2
+RI Brutnell, Thomas/M-2840-2013
+OI Brutnell, Thomas/0000-0002-3581-8211; Citovsky,
+   Vitaly/0000-0003-2024-6844; Lemaux, Peggy/0000-0002-2842-4724
+NR 94
+TC 69
+Z9 71
+U1 18
+U2 150
+ER
+
+PT J
+AU Sprink, T
+   Eriksson, D
+   Schiemann, J
+   Hartung, F
+AF Sprink, Thorben
+   Eriksson, Dennis
+   Schiemann, Joachim
+   Hartung, Frank
+DE New plant breeding techniques; Genome editing; Genetic engineering;
+   Regulation; Site directed nucleases; CRISPR/Cas9; ODM
+ID EUROPE; CROPS
+NR 40
+TC 56
+Z9 57
+U1 3
+U2 36
+ER
+
+PT J
+AU Osakabe, Y
+   Watanabe, T
+   Sugano, SS
+   Ueta, R
+   Ishihara, R
+   Shinozaki, K
+   Osakabe, K
+AF Osakabe, Yuriko
+   Watanabe, Takahito
+   Sugano, Shigeo S.
+   Ueta, Risa
+   Ishihara, Ryosuke
+   Shinozaki, Kazuo
+   Osakabe, Keishi
+ID MEMBRANE PROTON PUMP; SITE-DIRECTED MUTAGENESIS; ZINC-FINGER NUCLEASES;
+   P-TYPE ATPASE; ARABIDOPSIS-THALIANA; TARGETED MUTAGENESIS; PAIRED
+   NICKASES; DNA CLEAVAGE; SYSTEM; RNA
+RI Shinozaki, Kazuo/G-4202-2013
+OI Shinozaki, Kazuo/0000-0002-6317-9867; Osakabe,
+   Yuriko/0000-0001-5503-1427
+NR 56
+TC 60
+Z9 62
+U1 5
+U2 70
+ER
+
+PT J
+AU Hockemeyer, D
+   Jaenisch, R
+AF Hockemeyer, Dirk
+   Jaenisch, Rudolf
+ID TERT PROMOTER MUTATIONS; DOUBLE-STRAND BREAKS; OFF-TARGET CLEAVAGE;
+   HUMAN IPS CELLS; GENE CORRECTION; HOMOLOGOUS RECOMBINATION;
+   CYSTIC-FIBROSIS; NUCLEAR TRANSPLANTATION; CRISPR-CAS9 NUCLEASES;
+   FUNCTIONAL GENOMICS
+OI Hockemeyer, Dirk/0000-0002-5598-5092
+NR 191
+TC 114
+Z9 118
+U1 21
+U2 156
+ER
+
+PT J
+AU Kang, XJ
+   He, WY
+   Huang, YL
+   Yu, Q
+   Chen, YY
+   Gao, XC
+   Sun, XF
+   Fan, Y
+AF Kang, Xiangjin
+   He, Wenyin
+   Huang, Yuling
+   Yu, Qian
+   Chen, Yaoyong
+   Gao, Xingcheng
+   Sun, Xiaofang
+   Fan, Yong
+DE CRISPR/Cas9; Genetic modification; CCR5; Human 3PN embryos
+ID PLURIPOTENT STEM-CELLS; ZINC-FINGER NUCLEASES; HIV-1 INFECTION;
+   GENERATION; CRISPR-CAS9; CCR5; DNA; SPECIFICITY; RESISTANCE; MICE
+NR 39
+TC 97
+Z9 111
+U1 25
+U2 151
+ER
+
+PT J
+AU Khatodia, S
+   Bhatotia, K
+   Passricha, N
+   Khurana, SMP
+   Tuteja, N
+AF Khatodia, Surender
+   Bhatotia, Kirti
+   Passricha, Nishat
+   Khurana, S. M. P.
+   Tuteja, Narendra
+DE CRISPR; Cas9/sgRNA; plant genome editing; GE crops; dCas9; RGENs; NPBTs
+ID SEQUENCE-SPECIFIC CONTROL; TARGETED MUTAGENESIS; GENE-EXPRESSION; CAS
+   SYSTEM; GUIDE RNA; ARABIDOPSIS-THALIANA; DIRECTED MUTAGENESIS;
+   CRISPR-CAS9 SYSTEM; CRISPRCAS SYSTEM; PAIRED NICKASES
+OI Khatodia, Surender/0000-0002-5764-8444
+NR 120
+TC 45
+Z9 46
+U1 12
+U2 220
+ER
+
+PT J
+AU Schwartz, CM
+   Hussain, MS
+   Blenner, M
+   Wheeldon, I
+AF Schwartz, Cory M.
+   Hussain, Murtaza Shabbir
+   Blenner, Mark
+   Wheeldon, Ian
+DE CRISPR-Cas9; Yarrowia lipolytica; genome editing; RNA polymerase III
+   promoters; synthetic promoters; sgRNA expression
+ID CRISPR-CAS SYSTEMS; YEAST; EXPRESSION; GENES
+NR 22
+TC 88
+Z9 93
+U1 8
+U2 50
+ER
+
+PT J
+AU Sauer, NJ
+   Narvaez-Vasquez, J
+   Mozoruk, J
+   Miller, RB
+   Warburg, ZJ
+   Woodward, MJ
+   Mihiret, YA
+   Lincoln, TA
+   Segami, RE
+   Sanders, SL
+   Walker, KA
+   Beetham, PR
+   Schopke, CR
+   Gocal, GFW
+AF Sauer, Noel J.
+   Narvaez-Vasquez, Javier
+   Mozoruk, Jerry
+   Miller, Ryan B.
+   Warburg, Zachary J.
+   Woodward, Melody J.
+   Mihiret, Yohannes A.
+   Lincoln, Tracey A.
+   Segami, Rosa E.
+   Sanders, Steven L.
+   Walker, Keith A.
+   Beetham, Peter R.
+   Schoepke, Christian R.
+   Gocal, Greg F. W.
+ID CHIMERIC RNA/DNA OLIGONUCLEOTIDES; TARGETED GENE CORRECTION;
+   ARABIDOPSIS-THALIANA; DISEASE-MODELS; DNA-DAMAGE; MUTAGENESIS; SYSTEM;
+   REPAIR; CELLS; TALEN
+OI Warburg, Zachary/0000-0003-3115-497X
+NR 45
+TC 35
+Z9 37
+U1 5
+U2 58
+ER
+
+PT J
+AU Peng, RX
+   Lin, GG
+   Li, JM
+AF Peng, Rongxue
+   Lin, Guigao
+   Li, Jinming
+DE Cas9; CRISPR/Cas systems; DNA cleavage; gene targeting; genome editing;
+   potential pitfalls; sgRNA; target specificity
+ID RNA-GUIDED ENDONUCLEASES; PLURIPOTENT STEM-CELLS; CRISPR-CAS NUCLEASES;
+   OFF-TARGET CLEAVAGE; GENE KNOCKOUT; DESIGN TOOL; IN-VIVO; DNA;
+   SPECIFICITY; SYSTEMS
+NR 80
+TC 66
+Z9 69
+U1 21
+U2 185
+ER
+
+PT J
+AU Song, GY
+   Jia, ML
+   Chen, K
+   Kong, XC
+   Khattak, B
+   Xie, CX
+   Li, AL
+   Mao, L
+AF Song, Gaoyuan
+   Jia, Meiling
+   Chen, Kai
+   Kong, Xingchen
+   Khattak, Bushra
+   Xie, Chuanxiao
+   Li, Aili
+   Mao, Long
+DE CRISPR/Cas9; Double-strand break; Genome editing; TALENs; ZFNs
+ID ZINC-FINGER NUCLEASES; DOUBLE-STRAND BREAKS; TARGETED MUTAGENESIS; CAS
+   SYSTEM; GUIDE RNA; ARABIDOPSIS-THALIANA; DIRECTED MUTAGENESIS; CRISPRCAS
+   SYSTEM; GENE; DNA
+NR 75
+TC 36
+Z9 42
+U1 7
+U2 70
+ER
+
+PT J
+AU Schuster, M
+   Schweizer, G
+   Reissmann, S
+   Kahmann, R
+AF Schuster, Mariana
+   Schweizer, Gabriel
+   Reissmann, Stefanie
+   Kahmann, Regine
+DE Cas9; Ustilago maydis; Plant pathogen; Biotrophic fungus; Reverse
+   genetics
+ID HUMAN-CELLS; SACCHAROMYCES-CEREVISIAE; PATHOGENIC DEVELOPMENT; GENE;
+   RNA; IDENTIFICATION; YEAST; TRANSFORMATION; RECOGNITION; GENERATION
+RI Schuster, Mariana/U-4866-2017
+OI Schuster, Mariana/0000-0002-3836-0242
+NR 60
+TC 47
+Z9 52
+U1 7
+U2 111
+ER
+
+PT J
+AU Wang, M
+   Zuris, JA
+   Meng, FT
+   Rees, H
+   Sun, S
+   Deng, P
+   Han, Y
+   Gao, X
+   Pouli, D
+   Wu, Q
+   Georgakoudi, I
+   Liu, DR
+   Xu, QB
+AF Wang, Ming
+   Zuris, John A.
+   Meng, Fantao
+   Rees, Holly
+   Sun, Shuo
+   Deng, Pu
+   Han, Yong
+   Gao, Xue
+   Pouli, Dimitra
+   Wu, Qi
+   Georgakoudi, Irene
+   Liu, David R.
+   Xu, Qiaobing
+DE genome editing; CRISPR/Cas9; Cre recombinase; protein delivery; lipid
+   nanoparticle
+ID CELLS IN-VITRO; INTRACELLULAR DELIVERY; COMBINATORIAL LIBRARY; CAS9
+   PROTEIN; CANCER-THERAPY; THERAPEUTICS; TRANSFECTION; VIVO; RNA
+RI gao, xue/J-7037-2016
+OI Wang, Ming/0000-0002-2783-9426
+NR 28
+TC 109
+Z9 112
+U1 28
+U2 199
+ER
+
+PT J
+AU Kaminski, R
+   Chen, YL
+   Fischer, T
+   Tedaldi, E
+   Napoli, A
+   Zhang, YG
+   Karn, J
+   Hu, WH
+   Khalili, K
+AF Kaminski, Rafal
+   Chen, Yilan
+   Fischer, Tracy
+   Tedaldi, Ellen
+   Napoli, Alessandro
+   Zhang, Yonggang
+   Karn, Jonathan
+   Hu, Wenhui
+   Khalili, Kamel
+ID LONG TERMINAL REPEAT; ANTIRETROVIRAL THERAPY; LATENT RESERVOIR; INFECTED
+   INDIVIDUALS; IN-VIVO; SYSTEM; CURE; CRISPR-CAS9; STRATEGIES; INHIBITORS
+RI Kaminski, Rafal/V-3516-2018
+OI Kaminski, Rafal/0000-0001-8827-6658; Napoli,
+   Alessandro/0000-0002-4061-3747
+NR 36
+TC 104
+Z9 109
+U1 15
+U2 144
+ER
+
+PT J
+AU Yin, H
+   Song, CQ
+   Dorkin, JR
+   Zhu, LHJ
+   Li, YX
+   Wu, QQ
+   Park, A
+   Yang, J
+   Suresh, S
+   Bizhanova, A
+   Gupta, A
+   Bolukbasi, MF
+   Walsh, S
+   Bogorad, RL
+   Gao, GP
+   Weng, ZP
+   Dong, YZ
+   Koteliansky, V
+   Wolfe, SA
+   Langer, R
+   Xue, W
+   Anderson, DG
+AF Yin, Hao
+   Song, Chun-Qing
+   Dorkin, Joseph R.
+   Zhu, Lihua J.
+   Li, Yingxiang
+   Wu, Qiongqiong
+   Park, Angela
+   Yang, Junghoon
+   Suresh, Sneha
+   Bizhanova, Aizhan
+   Gupta, Ankit
+   Bolukbasi, Mehmet F.
+   Walsh, Stephen
+   Bogorad, Roman L.
+   Gao, Guangping
+   Weng, Zhiping
+   Dong, Yizhou
+   Koteliansky, Victor
+   Wolfe, Scot A.
+   Langer, Robert
+   Xue, Wen
+   Anderson, Daniel G.
+ID HOMOLOGY-DIRECTED REPAIR; MAMMALIAN-CELLS; MESSENGER-RNA; MOUSE MODEL;
+   GENE; CAS9; MICE; DNA; NUCLEASES; CORRECTS
+RI Dong, Yizhou/O-9057-2015
+OI Dong, Yizhou/0000-0001-5786-0659; Suresh, Sneha/0000-0001-9545-6366;
+   Zhu, Lihua/0000-0001-7416-0590
+NR 46
+TC 252
+Z9 267
+U1 36
+U2 399
+ER
+
+PT J
+AU Richardson, CD
+   Ray, GJ
+   DeWitt, MA
+   Curie, GL
+   Corn, JE
+AF Richardson, Christopher D.
+   Ray, Graham J.
+   DeWitt, Mark A.
+   Curie, Gemma L.
+   Corn, Jacob E.
+ID DOUBLE-STRAND BREAK; ZINC-FINGER NUCLEASES; BACTERIAL IMMUNITY; TARGET
+   DNA; CAS9; RNA; REPAIR; CELLS; ENDONUCLEASE; INTERROGATION
+OI Corn, Jacob/0000-0002-7798-5309
+NR 33
+TC 234
+Z9 243
+U1 12
+U2 135
+ER
+
+PT J
+AU Maeder, ML
+   Gersbach, CA
+AF Maeder, Morgan L.
+   Gersbach, Charles A.
+ID ZINC-FINGER NUCLEASES; PLURIPOTENT STEM-CELLS; DUCHENNE
+   MUSCULAR-DYSTROPHY; HEPATITIS-B-VIRUS; RNA-GUIDED ENDONUCLEASE;
+   DOUBLE-STRAND BREAKS; CRISPR-CAS SYSTEMS; ARTIFICIAL TRANSCRIPTION
+   FACTORS; DNA-BINDING SPECIFICITY; OFF-TARGET CLEAVAGE
+NR 297
+TC 156
+Z9 159
+U1 28
+U2 236
+ER
+
+PT J
+AU Xu, L
+   Park, KH
+   Zhao, LX
+   Xu, J
+   El Refaey, M
+   Gao, YD
+   Zhu, H
+   Ma, JJ
+   Han, RZ
+AF Xu, Li
+   Park, Ki Ho
+   Zhao, Lixia
+   Xu, Jing
+   El Refaey, Mona
+   Gao, Yandi
+   Zhu, Hua
+   Ma, Jianjie
+   Han, Renzhi
+ID DUCHENNE MUSCULAR-DYSTROPHY; SKELETAL-MUSCLE; IN-VIVO; GENE; MOUSE; DNA;
+   MUTATIONS; REPAIR
+RI xu, li/M-1661-2015
+OI Han, Renzhi/0000-0002-8202-9186
+NR 30
+TC 84
+Z9 89
+U1 8
+U2 65
+ER
+
+PT J
+AU Weeks, DP
+   Spalding, MH
+   Yang, B
+AF Weeks, Donald P.
+   Spalding, Martin H.
+   Yang, Bing
+DE designer nucleases; CRISPR; Cas9; TAL effector nuclease; zinc finger
+   nuclease; site-directed mutagenesis; genome editing
+ID ZINC-FINGER NUCLEASES; TAL EFFECTOR NUCLEASES; CRISPR-CAS SYSTEM;
+   SITE-SPECIFIC MUTAGENESIS; DNA-BINDING SPECIFICITY; DOUBLE-STRAND
+   BREAKS; GUIDE RNA DESIGN; CHLAMYDOMONAS-REINHARDTII; HOMOLOGOUS
+   RECOMBINATION; TRANSPOSABLE ELEMENTS
+NR 159
+TC 75
+Z9 80
+U1 9
+U2 199
+ER
+
+PT J
+AU Wolt, JD
+   Wang, K
+   Yang, B
+AF Wolt, Jeffrey D.
+   Wang, Kan
+   Yang, Bing
+DE engineered nucleases; site-specific mutagenesis; site-directed
+   nucleases; homology-directed repair; CRISPR; Cas9; TALEN
+ID CHIMERIC RNA/DNA OLIGONUCLEOTIDES; GENETICALLY-MODIFIED CROPS;
+   PLANT-BREEDING TECHNIQUES; TARGETED MUTAGENESIS; CRISPR/CAS SYSTEM;
+   TRAIT STACKING; GENE; NUCLEASES; MAIZE; RICE
+OI Woltjer, Johan/0000-0003-3179-6294; Wolt, Jeff/0000-0003-0837-1976
+NR 68
+TC 81
+Z9 85
+U1 8
+U2 115
+ER
+
+PT J
+AU Long, CZ
+   Amoasii, L
+   Mireault, AA
+   McAnally, JR
+   Li, H
+   Sanchez-Ortiz, E
+   Bhattacharyya, S
+   Shelton, JM
+   Bassel-Duby, R
+   Olson, EN
+AF Long, Chengzu
+   Amoasii, Leonela
+   Mireault, Alex A.
+   McAnally, John R.
+   Li, Hui
+   Sanchez-Ortiz, Efrain
+   Bhattacharyya, Samadrita
+   Shelton, John M.
+   Bassel-Duby, Rhonda
+   Olson, Eric N.
+ID OFF-TARGET CLEAVAGE; GENE DELIVERY; CRISPR-CAS9; VECTORS; MICE;
+   GLYCOPROTEIN; INJECTION; THERAPY; SYSTEM; BRAIN
+NR 29
+TC 321
+Z9 339
+U1 24
+U2 173
+ER
+
+PT J
+AU Nelson, CE
+   Hakim, CH
+   Ousterout, DG
+   Thakore, PI
+   Moreb, EA
+   Rivera, RMC
+   Madhavan, S
+   Pan, XF
+   Ran, FA
+   Yan, WX
+   Asokan, A
+   Zhang, F
+   Duan, DS
+   Gersbach, CA
+AF Nelson, Christopher E.
+   Hakim, Chady H.
+   Ousterout, David G.
+   Thakore, Pratiksha I.
+   Moreb, Eirik A.
+   Rivera, Ruth M. Castellanos
+   Madhavan, Sarina
+   Pan, Xiufang
+   Ran, F. Ann
+   Yan, Winston X.
+   Asokan, Aravind
+   Zhang, Feng
+   Duan, Dongsheng
+   Gersbach, Charles A.
+ID GENE-THERAPY; MDX MOUSE; IMMUNE-RESPONSES; READING FRAME; CELLS;
+   EXPRESSION; MICE; CAS9; DNA; ENDONUCLEASE
+OI Duan, Dongsheng/0000-0003-4109-1132
+NR 43
+TC 381
+Z9 402
+U1 37
+U2 288
+ER
+
+PT S
+AU Wang, HF
+   La Russa, M
+   Qi, LS
+AF Wang, Haifeng
+   La Russa, Marie
+   Qi, Lei S.
+BE Kornberg, RD
+DE dCas9; Cas9 structure; gene regulation; epigenetic regulation; genomic
+   imaging; CRISPR applications
+ID RNA-GUIDED ENDONUCLEASE; PLURIPOTENT STEM-CELLS; STAPHYLOCOCCUS-AUREUS
+   CAS9; HEPATITIS-B-VIRUS; SEQUENCE-SPECIFIC CONTROL; REPETITIVE
+   DNA-SEQUENCES; DOUBLE-STRAND BREAKS; LIVING HUMAN-CELLS; CD4(+) T-CELLS;
+   IN-VIVO
+RI Wang, Haifeng/Q-3762-2017
+NR 256
+TC 160
+Z9 169
+U1 42
+U2 180
+ER
+
+PT J
+AU Dominguez, AA
+   Lim, WA
+   Qi, LS
+AF Dominguez, Antonia A.
+   Lim, Wendell A.
+   Qi, Lei S.
+ID CHROMATIN IMMUNOPRECIPITATION ENCHIP; SEQUENCE-SPECIFIC CONTROL;
+   RNA-GUIDED ENDONUCLEASE; PLURIPOTENT STEM-CELLS; GENE-EXPRESSION;
+   TRANSCRIPTION FACTORS; DNA-BINDING; CAS SYSTEM; CRISPR/CAS SYSTEM; WIDE
+   ANALYSIS
+NR 89
+TC 222
+Z9 228
+U1 43
+U2 342
+ER
+
+PT J
+AU Wang, JB
+   Exline, CM
+   DeClercq, JJ
+   Llewellyn, GN
+   Hayward, SB
+   Li, PWL
+   Shivak, DA
+   Surosky, RT
+   Gregory, PD
+   Holmes, MC
+   Cannon, PM
+AF Wang, Jianbin
+   Exline, Colin M.
+   DeClercq, Joshua J.
+   Llewellyn, G. Nicholas
+   Hayward, Samuel B.
+   Li, Patrick Wai-Lun
+   Shivak, David A.
+   Surosky, Richard T.
+   Gregory, Philip D.
+   Holmes, Michael C.
+   Cannon, Paula M.
+ID ZINC-FINGER NUCLEASES; ADENOASSOCIATED VIRUS VECTORS; TARGETED GENE
+   ADDITION; STRAND BREAK REPAIR; NOD/SCID MICE; IN-VIVO; MULTILINEAGE
+   ENGRAFTMENT; STEM/PROGENITOR CELLS; LENTIVIRAL VECTOR; CORD BLOOD
+NR 67
+TC 103
+Z9 107
+U1 3
+U2 25
+ER
+
+PT J
+AU Woo, JW
+   Kim, J
+   Il Kwon, S
+   Corvalan, C
+   Cho, SW
+   Kim, H
+   Kim, SG
+   Kim, ST
+   Choe, S
+   Kim, JS
+AF Woo, Je Wook
+   Kim, Jungeun
+   Il Kwon, Soon
+   Corvalan, Claudia
+   Cho, Seung Woo
+   Kim, Hyeran
+   Kim, Sang-Gyu
+   Kim, Sang-Tae
+   Choe, Sunghwa
+   Kim, Jin-Soo
+ID RNA-GUIDED ENDONUCLEASES; TRANSIENT GENE-EXPRESSION; HUMAN-CELLS; CAS9;
+   ARABIDOPSIS; SYSTEM; PROTOPLASTS; NUCLEASES; KNOCKOUT
+RI Kim, Sang-Tae/U-9457-2018; Kim, Sang-Gyu/T-5925-2017; Cho, Seung
+   Woo/B-2441-2019
+OI Kim, Sang-Tae/0000-0003-1645-6021; Cho, Seung Woo/0000-0001-9091-0937
+NR 23
+TC 210
+Z9 228
+U1 27
+U2 255
+ER
+
+PT J
+AU Kiani, S
+   Chavez, A
+   Tuttle, M
+   Hal, RN
+   Chari, R
+   Ter-Ovanesyan, D
+   Qian, J
+   Pruitt, BW
+   Beal, J
+   Vora, S
+   Buchthal, J
+   Kowal, EJK
+   Ebrahimkhani, MR
+   Collins, JJ
+   Weiss, R
+   Church, G
+AF Kiani, Samira
+   Chavez, Alejandro
+   Tuttle, Marcelle
+   Hal, Richard N.
+   Chari, Raj
+   Ter-Ovanesyan, Dmitry
+   Qian, Jason
+   Pruitt, Benjamin W.
+   Beal, Jacob
+   Vora, Suhani
+   Buchthal, Joanna
+   Kowal, Emma J. K.
+   Ebrahimkhani, Mohammad R.
+   Collins, James J.
+   Weiss, Ron
+   Church, George
+ID HUMAN-CELLS; CRISPR; RNA; CIRCUITS; SYSTEMS
+OI Ebrahimkhani, Mo R./0000-0001-5753-6779; church,
+   george/0000-0001-6232-9969; Kowal, Emma/0000-0002-8992-7608; Beal,
+   Jacob/0000-0002-1663-5102; Pruitt, Benjamin/0000-0001-7532-7081
+NR 17
+TC 88
+Z9 94
+U1 6
+U2 73
+ER
+
+PT J
+AU Schaeffer, SM
+   Nakata, PA
+AF Schaeffer, Scott M.
+   Nakata, Paul A.
+DE CRISPR; Cas9; Crop improvement; Gene editing; Gene knock-in
+ID EFFICIENT TARGETED MUTAGENESIS; SEQUENCE-SPECIFIC NUCLEASES; CRISPR-CAS
+   NUCLEASES; GUIDE RNA; INSERTIONAL MUTAGENESIS; TRANSCRIPTION FACTORS;
+   MOLECULAR-BIOLOGY; FLOWERING PLANTS; PAIRED NICKASES; FRUIT CROPS
+OI Nakata, Paul/0000-0002-6331-9700
+NR 115
+TC 53
+Z9 57
+U1 18
+U2 289
+ER
+
+PT J
+AU Sharma, R
+   Anguela, XM
+   Doyon, Y
+   Wechsler, T
+   DeKelver, RC
+   Sproul, S
+   Paschon, DE
+   Miller, JC
+   Davidson, RJ
+   Shivak, D
+   Zhou, SZ
+   Rieders, J
+   Gregory, PD
+   Holmes, MC
+   Rebar, EJ
+   High, KA
+AF Sharma, Rajiv
+   Anguela, Xavier M.
+   Doyon, Yannick
+   Wechsler, Thomas
+   DeKelver, Russell C.
+   Sproul, Scott
+   Paschon, David E.
+   Miller, Jeffrey C.
+   Davidson, Robert J.
+   Shivak, David
+   Zhou, Shangzhen
+   Rieders, Julianne
+   Gregory, Philip D.
+   Holmes, Michael C.
+   Rebar, Edward J.
+   High, Katherine A.
+ID ZINC-FINGER NUCLEASES; DOUBLE-STRAND BREAKS; ADENOASSOCIATED VIRUS;
+   GENE-TRANSFER; HEMOPHILIA-B; STEM-CELLS; T-CELLS; VECTOR; EXPRESSION;
+   SEROTYPE
+RI Huang, ZhiXin/H-5123-2017
+OI Huang, ZhiXin/0000-0003-0705-1970; Doyon, Yannick/0000-0002-3889-9563;
+   Anguela, Xavier/0000-0003-2430-8598; Sharma, Rajiv/0000-0002-8147-5723
+NR 27
+TC 91
+Z9 92
+U1 2
+U2 22
+ER
+
+PT J
+AU Sun, WJ
+   Ji, WY
+   Hall, JM
+   Hu, QY
+   Wang, C
+   Beisel, CL
+   Gu, Z
+AF Sun, Wujin
+   Ji, Wenyan
+   Hall, Jordan M.
+   Hu, Quanyin
+   Wang, Chao
+   Beisel, Chase L.
+   Gu, Zhen
+DE CRISPR-Cas9; DNA; drug delivery; genome editing; nanoparticles
+ID ANTICANCER DRUG-DELIVERY; CANCER-THERAPY; CAS9; TARGET; AMPLIFICATION;
+   ENDONUCLEASE; NANOCARRIERS; CLEAVAGE; IMMUNITY; CELLS
+RI Hu, Quanyin/E-1456-2017; Wang, Chao/G-5951-2012
+OI Wang, Chao/0000-0002-8054-3472; Beisel, Chase/0000-0003-0650-9943
+NR 38
+TC 129
+Z9 132
+U1 30
+U2 211
+ER
+
+PT J
+AU Li, ZS
+   Liu, ZB
+   Xing, AQ
+   Moon, BP
+   Koellhoffer, JP
+   Huang, LX
+   Ward, RT
+   Clifton, E
+   Falco, SC
+   Cigan, AM
+AF Li, Zhongsen
+   Liu, Zhan-Bin
+   Xing, Aiqiu
+   Moon, Bryan P.
+   Koellhoffer, Jessica P.
+   Huang, Lingxia
+   Ward, R. Timothy
+   Clifton, Elizabeth
+   Falco, S. Carl
+   Cigan, A. Mark
+ID ZINC-FINGER NUCLEASES; DOUBLE-STRAND BREAKS; HOMOLOGOUS RECOMBINATION;
+   TARGETED MUTAGENESIS; ARABIDOPSIS-THALIANA; EFFECTOR NUCLEASES;
+   CRISPR/CAS SYSTEM; GUIDED ENDONUCLEASE; CASSETTE EXCHANGE; PLANT GENOME
+NR 60
+TC 98
+Z9 115
+U1 4
+U2 113
+ER
+
+PT J
+AU Lowder, LG
+   Zhang, DW
+   Baltes, NJ
+   Paul, JW
+   Tang, X
+   Zheng, XL
+   Voytas, DF
+   Hsieh, TF
+   Zhang, Y
+   Qi, YP
+AF Lowder, Levi G.
+   Zhang, Dengwei
+   Baltes, Nicholas J.
+   Paul, Joseph W., III
+   Tang, Xu
+   Zheng, Xuelian
+   Voytas, Daniel F.
+   Hsieh, Tzung-Fu
+   Zhang, Yong
+   Qi, Yiping
+ID ZINC-FINGER NUCLEASES; AGROBACTERIUM-MEDIATED TRANSFORMATION; TAL
+   EFFECTOR NUCLEASES; PATTERN-RECOGNITION RECEPTORS; DOUBLE-STRAND BREAKS;
+   TARGETED MUTAGENESIS; ARABIDOPSIS-THALIANA; DNA METHYLATION;
+   DROSOPHILA-MELANOGASTER; GENE MODIFICATION
+RI Tang, Xu/P-3205-2017
+OI Qi, Yiping/0000-0002-9556-6706; Hsieh, Tzung-Fu/0000-0001-7584-3721;
+   Zhang, Yong/0000-0003-3704-4835
+NR 104
+TC 128
+Z9 136
+U1 18
+U2 206
+ER
+
+PT J
+AU Poirot, L
+   Philip, B
+   Schiffer-Mannioui, C
+   Le Clerre, D
+   Chion-Sotinel, I
+   Derniame, S
+   Potrel, P
+   Bas, C
+   Lemaire, L
+   Galetto, R
+   Lebuhotel, C
+   Eyquem, J
+   Cheung, GWK
+   Duclert, A
+   Gouble, A
+   Arnould, S
+   Peggs, K
+   Pule, M
+   Scharenberg, AM
+   Smith, J
+AF Poirot, Laurent
+   Philip, Brian
+   Schiffer-Mannioui, Cecile
+   Le Clerre, Diane
+   Chion-Sotinel, Isabelle
+   Derniame, Sophie
+   Potrel, Pierrick
+   Bas, Cecile
+   Lemaire, Laetitia
+   Galetto, Roman
+   Lebuhotel, Celine
+   Eyquem, Justin
+   Cheung, Gordon Weng-Kit
+   Duclert, Aymeric
+   Gouble, Agnes
+   Arnould, Sylvain
+   Peggs, Karl
+   Pule, Martin
+   Scharenberg, Andrew M.
+   Smith, Julianne
+ID CHIMERIC-ANTIGEN-RECEPTOR; CHRONIC LYMPHOCYTIC-LEUKEMIA;
+   CANCER-IMMUNOTHERAPY; IN-VIVO; INFECTIOUS COMPLICATIONS; SPECIFICITY;
+   TRANSPLANTATION; ANTIBODIES; DEPLETION; MALIGNANCIES
+OI Philip, Brian/0000-0003-3214-2954; Pule, Martin/0000-0002-8347-9867
+NR 45
+TC 115
+Z9 120
+U1 7
+U2 34
+ER
+
+PT J
+AU Li, YF
+   Lin, ZQ
+   Huang, C
+   Zhang, Y
+   Wang, ZW
+   Tang, YJ
+   Chen, T
+   Zhao, XM
+AF Li, Yifan
+   Lin, Zhenquan
+   Huang, Can
+   Zhang, Yan
+   Wang, Zhiwen
+   Tang, Ya-Jie
+   Chen, Tao
+   Zhao, Xueming
+DE CRISPR/Cas9; Genome editing; Combinatorial metabolic engineering;
+   beta-Carotene
+ID ISOPRENOID PATHWAY; BETA-CAROTENE; ONE-STEP; SYNTHETIC BIOLOGY; CAS
+   SYSTEMS; E. COLI; OPTIMIZATION; REPLACEMENT; GENE; OVERPRODUCTION
+RI Chen, Tao/N-1817-2015; Tang, Ya-Jie/M-2538-2016
+OI Chen, Tao/0000-0001-9588-1821; Tang, Ya-Jie/0000-0003-0056-6816
+NR 52
+TC 104
+Z9 114
+U1 20
+U2 188
+ER
+
+PT J
+AU Hendel, A
+   Bak, RO
+   Clark, JT
+   Kennedy, AB
+   Ryan, DE
+   Roy, S
+   Steinfeld, I
+   Lunstad, BD
+   Kaiser, RJ
+   Wilkens, AB
+   Bacchetta, R
+   Tsalenko, A
+   Dellinger, D
+   Bruhn, L
+   Porteus, MH
+AF Hendel, Ayal
+   Bak, Rasmus O.
+   Clark, Joseph T.
+   Kennedy, Andrew B.
+   Ryan, Daniel E.
+   Roy, Subhadeep
+   Steinfeld, Israel
+   Lunstad, Benjamin D.
+   Kaiser, Robert J.
+   Wilkens, Alec B.
+   Bacchetta, Rosa
+   Tsalenko, Anya
+   Dellinger, Douglas
+   Bruhn, Laurakay
+   Porteus, Matthew H.
+ID SOLID-PHASE; T-CELLS; CCR5; OLIGONUCLEOTIDES; PHOSPHONOACETATE; SYSTEMS;
+   GLOBIN; GENES; LOCI; HIV
+RI Huang, ZhiXin/H-5123-2017
+OI Huang, ZhiXin/0000-0003-0705-1970; Bak, Rasmus/0000-0002-7383-0297;
+   Clark, Joseph/0000-0001-7764-6000
+NR 24
+TC 223
+Z9 230
+U1 23
+U2 154
+ER
+
+PT J
+AU Ma, XL
+   Zhang, QY
+   Zhu, QL
+   Liu, W
+   Chen, Y
+   Qiu, R
+   Wang, B
+   Yang, ZF
+   Li, HY
+   Lin, YR
+   Xie, YY
+   Shen, RX
+   Chen, SF
+   Wang, Z
+   Chen, YL
+   Guo, JX
+   Chen, LT
+   Zhao, XC
+   Dong, ZC
+   Liu, YG
+AF Ma, Xingliang
+   Zhang, Qunyu
+   Zhu, Qinlong
+   Liu, Wei
+   Chen, Yan
+   Qiu, Rong
+   Wang, Bin
+   Yang, Zhongfang
+   Li, Heying
+   Lin, Yuru
+   Xie, Yongyao
+   Shen, Rongxin
+   Chen, Shuifu
+   Wang, Zhi
+   Chen, Yuanling
+   Guo, Jingxin
+   Chen, Letian
+   Zhao, Xiucai
+   Dong, Zhicheng
+   Liu, Yao-Guang
+DE sequence-specific nucleases; genome editing; CRISPR/Cas9; rice;
+   Arabidopsis
+ID AGROBACTERIUM-MEDIATED TRANSFORMATION; GUIDE RNA; ONE-STEP; HOMOLOGOUS
+   RECOMBINATION; ARABIDOPSIS-THALIANA; CRISPRCAS SYSTEM; FLORAL-DIP; CAS
+   SYSTEM; RICE; GENE
+RI Chen, Letian/B-1263-2015; Dong, Zhicheng/W-2879-2018
+OI Chen, Letian/0000-0001-6413-636X; Dong, Zhicheng/0000-0003-2909-5720;
+   Ma, Xingliang/0000-0001-5566-8874
+NR 51
+TC 282
+Z9 359
+U1 32
+U2 334
+ER
+
+PT J
+AU Nihongaki, Y
+   Kawano, F
+   Nakajima, T
+   Sato, M
+AF Nihongaki, Yuta
+   Kawano, Fuun
+   Nakajima, Takahiro
+   Sato, Moritoshi
+ID NUCLEASE-INDUCED MUTATIONS; HUMAN-CELLS; TARGET DNA; GUIDE RNA; CAS9;
+   PROTEIN; SPECIFICITY; SYSTEM; ENDONUCLEASE; ACTIVATION
+RI Sato, Moritoshi/O-2735-2018
+OI Sato, Moritoshi/0000-0002-3095-5831; Nihongaki, Yuta/0000-0002-9818-9344
+NR 30
+TC 166
+Z9 181
+U1 21
+U2 151
+ER
+
+PT J
+AU Cobb, RE
+   Wang, YJ
+   Zhao, HM
+AF Cobb, Ryan E.
+   Wang, Yajie
+   Zhao, Huimin
+DE genome engineering; CRISPR; Cas9; synthetic guide RNA; Streptomyces
+ID GENE-CLUSTER; BIOSYNTHESIS; CLONING; PHOSPHINOTHRICIN; IDENTIFICATION;
+   METABOLITES; DISCOVERY; BACTERIA; BIOLOGY; CAS9
+RI Yang, Sheng/G-1606-2010
+OI Yang, Sheng/0000-0003-3742-9989
+NR 32
+TC 147
+Z9 154
+U1 17
+U2 158
+ER
+
+PT J
+AU Maruyama, T
+   Dougan, SK
+   Truttmann, MC
+   Bilate, AM
+   Ingram, JR
+   Ploegh, HL
+AF Maruyama, Takeshi
+   Dougan, Stephanie K.
+   Truttmann, Matthias C.
+   Bilate, Angelina M.
+   Ingram, Jessica R.
+   Ploegh, Hidde L.
+ID DNA-LIGASE-IV; STRAND BREAK REPAIR; ONE-STEP GENERATION;
+   MAMMALIAN-CELLS; CAS SYSTEMS; MICE; RECOMBINATION; DEFICIENT; ABSENCE;
+   KU70
+OI truttmann, matthias/0000-0002-0536-7923
+NR 32
+TC 374
+Z9 414
+U1 16
+U2 179
+ER
+
+PT J
+AU Jinkerson, RE
+   Jonikas, MC
+AF Jinkerson, Robert E.
+   Jonikas, Martin C.
+DE Chlamydomonas reinhardtii; molecular tools; genome editing;
+   transformation; nuclear genome; reporters; markers; genetics
+ID DOMINANT SELECTABLE MARKER; REINHARDTII CONFERRING RESISTANCE;
+   ARGININOSUCCINATE LYASE GENE; ZINC-FINGER NUCLEASES; GREEN-ALGA;
+   HOMOLOGOUS RECOMBINATION; CELL-CYCLE; SYNCHRONIZED CHLAMYDOMONAS;
+   INSERTIONAL MUTAGENESIS; TRANSPOSABLE ELEMENT
+NR 193
+TC 61
+Z9 61
+U1 6
+U2 158
+ER
+
+PT J
+AU Davis, KM
+   Pattanayak, V
+   Thompson, DB
+   Zuris, JA
+   Liu, DR
+AF Davis, Kevin M.
+   Pattanayak, Vikram
+   Thompson, David B.
+   Zuris, John A.
+   Liu, David R.
+ID HUMAN-CELLS; NUCLEASE SPECIFICITY; DIRECTED EVOLUTION; MAMMALIAN-CELLS;
+   RNA; NICKASES; CLEAVAGE; DELIVERY; INTEIN
+NR 26
+TC 130
+Z9 141
+U1 10
+U2 90
+ER
+
+PT J
+AU Gantz, VM
+   Bier, E
+AF Gantz, Valentino M.
+   Bier, Ethan
+ID DROSOPHILA
+OI Gantz, Valentino/0000-0003-2453-0711
+NR 7
+TC 197
+Z9 203
+U1 9
+U2 162
+ER
+
+PT J
+AU Ran, FA
+   Cong, L
+   Yan, WX
+   Scott, DA
+   Gootenberg, JS
+   Kriz, AJ
+   Zetsche, B
+   Shalem, O
+   Wu, XB
+   Makarova, KS
+   Koonin, EV
+   Sharp, PA
+   Zhang, F
+AF Ran, F. Ann
+   Cong, Le
+   Yan, Winston X.
+   Scott, David A.
+   Gootenberg, Jonathan S.
+   Kriz, Andrea J.
+   Zetsche, Bernd
+   Shalem, Ophir
+   Wu, Xuebing
+   Makarova, Kira S.
+   Koonin, Eugene V.
+   Sharp, Phillip A.
+   Zhang, Feng
+ID OFF-TARGET SITES; GUIDE RNA; NUCLEASE SPECIFICITY; DNA CLEAVAGE; CRISPR
+   RNA; GENE; IMMUNITY; SYSTEMS; ENDONUCLEASE; SEQUENCE
+RI Wu, Xuebing/C-9152-2013; Cong, Le/M-9981-2013; Huang, ZhiXin/H-5123-2017
+OI Wu, Xuebing/0000-0003-0369-5269; Cong, Le/0000-0003-4725-8714; Huang,
+   ZhiXin/0000-0003-0705-1970; Gootenberg, Jonathan/0000-0003-2757-2175
+NR 50
+TC 768
+Z9 816
+U1 47
+U2 399
+ER
+
+PT J
+AU Belhaj, K
+   Chaparro-Garcia, A
+   Kamoun, S
+   Patron, NJ
+   Nekrasov, V
+AF Belhaj, Khaoula
+   Chaparro-Garcia, Angela
+   Kamoun, Sophien
+   Patron, Nicola J.
+   Nekrasov, Vladimir
+ID RNA-GUIDED ENDONUCLEASE; TARGETED MUTAGENESIS; HUMAN-CELLS; CAS SYSTEM;
+   HOMOLOGOUS RECOMBINATION; NUCLEASE SPECIFICITY; CRISPRCAS SYSTEM;
+   ANALYSIS REVEALS; DNA; GENE
+RI Nekrasov, Vladimir/N-4428-2017; Patron, Nicola/D-8778-2014; Kamoun,
+   Sophien/B-3529-2009
+OI Nekrasov, Vladimir/0000-0001-9386-1683; Patron,
+   Nicola/0000-0002-8389-1851; Kamoun, Sophien/0000-0002-0290-0315
+NR 68
+TC 187
+Z9 214
+U1 26
+U2 327
+ER
+
+PT J
+AU Huang, H
+   Zheng, GS
+   Jiang, WH
+   Hu, HF
+   Lu, YH
+AF Huang, He
+   Zheng, Guosong
+   Jiang, Weihong
+   Hu, Haifeng
+   Lu, Yinhua
+DE CRISPRs (clustered regularly interspaced short palindromic repeats);
+   genome editing; Streptomyces
+ID CRISPR-CAS SYSTEMS; SECONDARY METABOLITES; NITROGEN-METABOLISM;
+   SYNTHETIC BIOLOGY; COELICOLOR A3(2); IMMUNE-SYSTEM; HUMAN-CELLS; TARGET
+   DNA; GUIDE RNA; ANTIBIOTICS
+NR 60
+TC 89
+Z9 95
+U1 10
+U2 89
+ER
+
+PT J
+AU Dow, LE
+   Fisher, J
+   O'Rourke, KP
+   Muley, A
+   Kastenhuber, ER
+   Livshits, G
+   Tschaharganeh, DF
+   Socci, ND
+   Lowe, SW
+AF Dow, Lukas E.
+   Fisher, Jonathan
+   O'Rourke, Kevin P.
+   Muley, Ashlesha
+   Kastenhuber, Edward R.
+   Livshits, Geulah
+   Tschaharganeh, Darjus F.
+   Socci, Nicholas D.
+   Lowe, Scott W.
+ID ONE-STEP GENERATION; MICE; GENE; SYSTEM; CANCER; MOUSE; CELLS; CAS9;
+   DIFFERENTIATION; TRANSCRIPTION
+NR 25
+TC 175
+Z9 183
+U1 13
+U2 141
+ER
+
+PT J
+AU Jiang, Y
+   Chen, B
+   Duan, CL
+   Sun, BB
+   Yang, JJ
+   Yang, S
+AF Jiang, Yu
+   Chen, Biao
+   Duan, Chunlan
+   Sun, Bingbing
+   Yang, Junjie
+   Yang, Sheng
+ID GROUP-II INTRONS; MICROBIAL-PRODUCTION; CAS SYSTEMS; SYNTHETIC BIOLOGY;
+   GENE REPLACEMENT; PINK DISEASE; AMINO-ACIDS; RNA; EXPRESSION;
+   RECOMBINATION
+NR 54
+TC 145
+Z9 163
+U1 15
+U2 186
+ER
+
+PT J
+AU Osakabe, Y
+   Osakabe, K
+AF Osakabe, Yuriko
+   Osakabe, Keishi
+DE CRISPR/Cas9; DSB; Genome editing; TALEN; ZFN
+ID ZINC-FINGER NUCLEASES; TAL EFFECTOR NUCLEASES; DOUBLE-STRAND BREAKS;
+   TARGETED GENE DISRUPTION; DNA-BINDING SPECIFICITY; RNA-GUIDED
+   ENDONUCLEASE; CRISPR-CAS SYSTEMS; HOMOLOGOUS RECOMBINATION;
+   ARABIDOPSIS-THALIANA; MAMMALIAN-CELLS
+OI Osakabe, Yuriko/0000-0001-5503-1427
+NR 108
+TC 65
+Z9 72
+U1 6
+U2 170
+ER
+
+PT J
+AU Araki, M
+   Ishii, T
+AF Araki, Motoko
+   Ishii, Tetsuya
+DE genome editing; crops; breeding; GMO; regulations; society
+ID ZINC-FINGER NUCLEASES; CRISPR-CAS SYSTEM; TARGETED MUTAGENESIS; EFFECTOR
+   NUCLEASES; RICE; CROPS; FOODS; DEHYDROGENASE; FRAGRANCE; SAFETY
+OI Ishii, Tetsuya/0000-0002-7085-7750
+NR 39
+TC 71
+Z9 74
+U1 17
+U2 275
+ER
+
+PT J
+AU Yu, C
+   Liu, YX
+   Ma, TH
+   Liu, K
+   Xu, SH
+   Zhang, Y
+   Liu, HL
+   La Russa, M
+   Xie, M
+   Ding, S
+   Qi, LS
+AF Yu, Chen
+   Liu, Yanxia
+   Ma, Tianhua
+   Liu, Kai
+   Xu, Shaohua
+   Zhang, Yu
+   Liu, Honglei
+   La Russa, Marie
+   Xie, Min
+   Ding, Sheng
+   Qi, Lei S.
+ID STRAND BREAK REPAIR; EMBRYO MICROINJECTION; KNOCKOUT RATS;
+   SOMATIC-CELLS; SPECIFICITY; GENERATION; INHIBITORS; NUCLEASES; IMMUNITY;
+   PROTEIN
+RI Zhang, Yu/F-6583-2016; Xu, Shaohua/I-2252-2015
+OI Xu, Shaohua/0000-0002-9915-5170; Qi, Lei S/0000-0002-3965-3223
+NR 32
+TC 155
+Z9 168
+U1 4
+U2 104
+ER
+
+PT J
+AU Cox, DBT
+   Platt, RJ
+   Zhang, F
+AF Cox, David Benjamin Turitz
+   Platt, Randall Jeffrey
+   Zhang, Feng
+ID ZINC-FINGER NUCLEASES; DOUBLE-STRAND BREAKS; SEVERE COMBINED
+   IMMUNODEFICIENCY; CHRONIC GRANULOMATOUS-DISEASE; HEMATOPOIETIC
+   STEM-CELLS; DNA-BINDING SPECIFICITY; TAL-EFFECTOR NUCLEASES; I-SCE-I;
+   GENE-THERAPY; HOMOLOGOUS RECOMBINATION
+RI Huang, ZhiXin/H-5123-2017
+OI Huang, ZhiXin/0000-0003-0705-1970
+NR 141
+TC 363
+Z9 381
+U1 20
+U2 132
+ER
+
+PT J
+AU Kumar, V
+   Jain, M
+AF Kumar, Vinay
+   Jain, Mukesh
+DE CRISPR; Cas9; genome editing; mutation; protospacer adjacent motif;
+   sgRNA
+ID ZINC-FINGER NUCLEASES; SEQUENCE-SPECIFIC CONTROL; RNA-GUIDED
+   ENDONUCLEASE; ONE-STEP GENERATION; TARGETED MUTAGENESIS;
+   GENE-EXPRESSION; IMMUNE-SYSTEM; HUMAN-CELLS; DNA; ARABIDOPSIS
+NR 79
+TC 61
+Z9 64
+U1 4
+U2 157
+ER
+
+PT J
+AU Bortesi, L
+   Fischer, R
+AF Bortesi, Luisa
+   Fischer, Rainer
+DE CRISPR; Cas9; Site-specific nuclease; Genome editing; Targeted
+   mutagenesis; Gene targeting; Plants
+ID RNA-GUIDED ENDONUCLEASE; ZINC-FINGER NUCLEASES; MEDIATED TARGETED
+   INTEGRATION; DOUBLE-STRAND BREAKS; HUMAN-CELLS; CAS SYSTEM; CRISPRCAS
+   SYSTEM; ANALYSIS REVEALS; RATIONAL DESIGN; GENE-EXPRESSION
+OI Bortesi, Luisa/0000-0003-2911-0863
+NR 100
+TC 303
+Z9 329
+U1 30
+U2 320
+ER
+
+PT J
+AU Brinkman, EK
+   Chen, T
+   Amendola, M
+   van Steensel, B
+AF Brinkman, Eva K.
+   Chen, Tao
+   Amendola, Mario
+   van Steensel, Bas
+ID CRISPR-CAS9 SYSTEM; HUMAN-CELLS; NUCLEASES; SPECIFICITY; GUIDE; TALEN;
+   CAS9; TOOL
+RI Amendola, mario/I-1728-2017
+OI amendola, mario/0000-0002-1188-8856
+NR 17
+TC 291
+Z9 292
+U1 6
+U2 29
+ER
+
+PT J
+AU Xing, HL
+   Dong, L
+   Wang, ZP
+   Zhang, HY
+   Han, CY
+   Liu, B
+   Wang, XC
+   Chen, QJ
+AF Xing, Hui-Li
+   Dong, Li
+   Wang, Zhi-Ping
+   Zhang, Hai-Yan
+   Han, Chun-Yan
+   Liu, Bing
+   Wang, Xue-Chen
+   Chen, Qi-Jun
+DE CRISPR/Cas9; Genome editing; Multiple gene mutations; Assembly of
+   multiple gRNAs
+ID RNA-GUIDED ENDONUCLEASE; ONE-STEP GENERATION; CAS SYSTEM; TARGETED
+   MUTAGENESIS; T-DNA; CRISPRCAS SYSTEM; BINARY VECTORS; ARABIDOPSIS; RICE;
+   MODEL
+NR 50
+TC 193
+Z9 229
+U1 6
+U2 6
+ER
+
+PT J
+AU Doudna, JA
+   Charpentier, E
+AF Doudna, Jennifer A.
+   Charpentier, Emmanuelle
+ID TRIPLE-HELIX FORMATION; RNA-GUIDED CAS9; CRISPR/CAS9-MEDIATED TARGETED
+   MUTAGENESIS; PLURIPOTENT STEM-CELLS; SITE-SPECIFIC CLEAVAGE; ZINC-FINGER
+   NUCLEASES; DOUBLE-STRAND BREAKS; DNA-REPAIR SYSTEM; HOMOLOGOUS
+   RECOMBINATION; STREPTOCOCCUS-THERMOPHILUS
+NR 153
+TC 1510
+Z9 1602
+U1 267
+U2 2164
+ER
+
+PT J
+AU Platt, RJ
+   Chen, SD
+   Zhou, Y
+   Yim, MJ
+   Swiech, L
+   Kempton, HR
+   Dahlman, JE
+   Parnas, O
+   Eisenhaure, TM
+   Jovanovic, M
+   Graham, DB
+   Jhunjhunwala, S
+   Heidenreich, M
+   Xavier, RJ
+   Langer, R
+   Anderson, DG
+   Hacohen, N
+   Regev, A
+   Feng, GP
+   Sharp, PA
+   Zhang, F
+AF Platt, Randall J.
+   Chen, Sidi
+   Zhou, Yang
+   Yim, Michael J.
+   Swiech, Lukasz
+   Kempton, Hannah R.
+   Dahlman, James E.
+   Parnas, Oren
+   Eisenhaure, Thomas M.
+   Jovanovic, Marko
+   Graham, Daniel B.
+   Jhunjhunwala, Siddharth
+   Heidenreich, Matthias
+   Xavier, Ramnik J.
+   Langer, Robert
+   Anderson, Daniel G.
+   Hacohen, Nir
+   Regev, Aviv
+   Feng, Guoping
+   Sharp, Phillip A.
+   Zhang, Feng
+ID ZINC-FINGER NUCLEASES; GENE-EXPRESSION; HUMAN-CELLS; HOMOLOGOUS
+   RECOMBINATION; CRE RECOMBINASE; LUNG-CANCER; VECTORS; SYSTEM; RNA; DNA
+OI Jhunjhunwala, Siddharth/0000-0001-8046-2288
+NR 62
+TC 490
+Z9 537
+U1 33
+U2 429
+ER
+
+PT J
+AU Shan, QW
+   Wang, YP
+   Li, J
+   Gao, CX
+AF Shan, Qiwei
+   Wang, Yanpeng
+   Li, Jun
+   Gao, Caixia
+ID ZINC-FINGER NUCLEASES; ADAPTIVE IMMUNE-SYSTEMS; RNA-GUIDED ENDONUCLEASE;
+   TARGETED MUTAGENESIS; CAS SYSTEM; CRISPR-CAS9 SYSTEM; DNA CLEAVAGE;
+   HUMAN-CELLS; PLANTS; ARABIDOPSIS
+NR 54
+TC 150
+Z9 186
+U1 25
+U2 430
+ER
+
+PT J
+AU Anders, C
+   Niewoehner, O
+   Duerst, A
+   Jinek, M
+AF Anders, Carolin
+   Niewoehner, Ole
+   Duerst, Alessia
+   Jinek, Martin
+ID GENE-EXPRESSION; RNA; CRISPR; SYSTEM; SPECIFICITY; REFINEMENT;
+   DROSOPHILA; IMMUNITY
+RI Jinek, Martin/E-6621-2011
+OI Jinek, Martin/0000-0002-7601-210X
+NR 36
+TC 353
+Z9 368
+U1 16
+U2 208
+ER
+
+PT J
+AU Ding, QR
+   Strong, A
+   Patel, KM
+   Ng, SL
+   Gosis, BS
+   Regan, SN
+   Cowan, CA
+   Rader, DJ
+   Musunuru, K
+AF Ding, Qiurong
+   Strong, Alanna
+   Patel, Kevin M.
+   Ng, Sze-Ling
+   Gosis, Bridget S.
+   Regan, Stephanie N.
+   Cowan, Chad A.
+   Rader, Daniel J.
+   Musunuru, Kiran
+DE coronary disease; genetic therapy; lipoproteins; molecular biology;
+   prevention and control
+ID CHOLESTEROL; MUTATIONS
+NR 10
+TC 160
+Z9 180
+U1 5
+U2 63
+ER
+
+PT J
+AU Montague, TG
+   Cruz, JM
+   Gagnon, JA
+   Church, GM
+   Valen, E
+AF Montague, Tessa G.
+   Cruz, Jose M.
+   Gagnon, James A.
+   Church, George M.
+   Valen, Eivind
+ID HUMAN-CELLS; CRISPR-CAS9 SYSTEM; XENOPUS-TROPICALIS; CAS9 NUCLEASE;
+   DESIGN TOOL; SPECIFICITY; MUTAGENESIS; DROSOPHILA; EFFECTORS; GENES
+OI church, george/0000-0001-6232-9969; Gagnon, James/0000-0003-3978-6058;
+   Valen, Eivind/0000-0003-1840-6108
+NR 40
+TC 268
+Z9 283
+U1 7
+U2 83
+ER
+
+PT J
+AU Genovese, P
+   Schiroli, G
+   Escobar, G
+   Di Tomaso, T
+   Firrito, C
+   Calabria, A
+   Moi, D
+   Mazzieri, R
+   Bonini, C
+   Holmes, MC
+   Gregory, PD
+   van der Burg, M
+   Gentner, B
+   Montini, E
+   Lombardo, A
+   Naldini, L
+AF Genovese, Pietro
+   Schiroli, Giulia
+   Escobar, Giulia
+   Di Tomaso, Tiziano
+   Firrito, Claudia
+   Calabria, Andrea
+   Moi, Davide
+   Mazzieri, Roberta
+   Bonini, Chiara
+   Holmes, Michael C.
+   Gregory, Philip D.
+   van der Burg, Mirjam
+   Gentner, Bernhard
+   Montini, Eugenio
+   Lombardo, Angelo
+   Naldini, Luigi
+ID ZINC-FINGER NUCLEASES; GENE-TRANSFER; LENTIVIRAL VECTOR; T-CELLS;
+   IN-VIVO; THERAPY; SPECIFICITY; INTEGRATION; SAFE; CCR5
+RI bonini, chiara/I-9202-2012; Roberta, Mazzieri/C-9773-2015; Genovese,
+   Pietro/H-3710-2018
+OI Roberta, Mazzieri/0000-0002-5172-0927; Genovese,
+   Pietro/0000-0001-9507-9003; Gentner, Bernhard/0000-0001-6024-4718;
+   LOMBARDO, Angelo Leone/0000-0001-8262-042X; Escobar,
+   Giulia/0000-0001-9177-0251; NALDINI, Luigi/0000-0002-7835-527X; BONINI,
+   Maria Chiara/0000-0002-0772-1674; Calabria, Andrea/0000-0003-3515-3384;
+   Montini, Eugenio/0000-0003-1771-6067
+NR 43
+TC 237
+Z9 241
+U1 1
+U2 71
+ER
+
+PT J
+AU Yin, H
+   Xue, W
+   Chen, S
+   Bogorad, RL
+   Benedetti, E
+   Grompe, M
+   Koteliansky, V
+   Sharp, PA
+   Jacks, T
+   Anderson, DG
+AF Yin, Hao
+   Xue, Wen
+   Chen, Sidi
+   Bogorad, Roman L.
+   Benedetti, Eric
+   Grompe, Markus
+   Koteliansky, Victor
+   Sharp, Phillip A.
+   Jacks, Tyler
+   Anderson, Daniel G.
+ID MOUSE MODEL; HUMAN-CELLS; IN-VIVO; SPECIFICITY; NUCLEASES; REPAIR; GENE;
+   DNA
+OI Grompe, Markus/0000-0002-6616-4345
+NR 15
+TC 415
+Z9 454
+U1 32
+U2 302
+ER
+
+PT J
+AU Tsai, SQ
+   Wyvekens, N
+   Khayter, C
+   Foden, JA
+   Thapar, V
+   Reyon, D
+   Goodwin, MJ
+   Aryee, MJ
+   Joung, JK
+AF Tsai, Shengdar Q.
+   Wyvekens, Nicolas
+   Khayter, Cyd
+   Foden, Jennifer A.
+   Thapar, Vishal
+   Reyon, Deepak
+   Goodwin, Mathew J.
+   Aryee, Martin J.
+   Joung, J. Keith
+ID ZINC-FINGER NUCLEASES; TARGET DNA; CAS9; ENDONUCLEASE; ACTIVATION;
+   NICKASES; TALENS; SYSTEM; GENES
+RI Tsai, Shengdar/G-4600-2012
+NR 31
+TC 447
+Z9 495
+U1 11
+U2 150
+ER
+
+PT J
+AU Chen, C
+   Liu, Y
+   Rappaport, AR
+   Kitzing, T
+   Schultz, N
+   Zhao, Z
+   Shroff, AS
+   Dickins, RA
+   Vakoc, CR
+   Bradner, JE
+   Stock, W
+   LeBeau, MM
+   Shannon, KM
+   Kogan, S
+   Zuber, J
+   Lowe, SW
+AF Chen, Chong
+   Liu, Yu
+   Rappaport, Amy R.
+   Kitzing, Thomas
+   Schultz, Nikolaus
+   Zhao, Zhen
+   Shroff, Aditya S.
+   Dickins, Ross A.
+   Vakoc, Christopher R.
+   Bradner, James E.
+   Stock, Wendy
+   LeBeau, Michelle M.
+   Shannon, Kevin M.
+   Kogan, Scott
+   Zuber, Johannes
+   Lowe, Scott W.
+ID CHROMATIN REMODELING GENES; HEMATOPOIETIC-CELLS; COMPLEX KARYOTYPE;
+   STEM-CELLS; GENOME; CANCER; MICE; INACTIVATION; MUTATIONS; PATHWAYS
+RI Dickins, Ross/K-2852-2012; Zuber, Johannes/E-7517-2011
+OI Dickins, Ross/0000-0003-4112-5304; Zuber, Johannes/0000-0001-8810-6835;
+   Schultz, Nikolaus/0000-0002-0131-4904; Vakoc,
+   Christopher/0000-0002-1158-7180
+NR 61
+TC 112
+Z9 119
+U1 0
+U2 23
+ER
+
+PT J
+AU Barrangou, R
+   Marraffini, LA
+AF Barrangou, Rodolphe
+   Marraffini, Luciano A.
+ID SHORT PALINDROMIC REPEATS; ESCHERICHIA-COLI; STREPTOCOCCUS-THERMOPHILUS;
+   NATURAL TRANSFORMATION; ACQUIRED-RESISTANCE; BACTERIAL IMMUNITY;
+   ANTIVIRAL DEFENSE; GENE-EXPRESSION; SEED SEQUENCE; DNA CLEAVAGE
+RI Barrangou, Rodolphe/I-2878-2014
+OI Barrangou, Rodolphe/0000-0002-0648-3504
+NR 111
+TC 231
+Z9 249
+U1 12
+U2 212
+ER
+
+PT J
+AU Bondy-Denomy, J
+   Davidson, AR
+AF Bondy-Denomy, Joseph
+   Davidson, Alan R.
+ID ESCHERICHIA-COLI; IMMUNE-SYSTEM; H-NS; NATURAL TRANSFORMATION;
+   YERSINIA-PESTIS; DNA ELEMENTS; FOREIGN DNA; BACTERIOPHAGE; INTERFERENCE;
+   RNA
+NR 82
+TC 48
+Z9 50
+U1 6
+U2 61
+ER
+
+PT J
+AU Choi, PS
+   Meyerson, M
+AF Choi, Peter S.
+   Meyerson, Matthew
+ID LUNG-CANCER; GENE FUSIONS; ZINC-FINGER; HUMAN-CELLS; CAS9;
+   TRANSLOCATIONS; SPECIFICITY; RET; ADENOCARCINOMA; IDENTIFICATION
+OI Meyerson, Matthew/0000-0002-9133-8108
+NR 23
+TC 135
+Z9 140
+U1 1
+U2 48
+ER
+
+PT J
+AU Sander, JD
+   Joung, JK
+AF Sander, Jeffry D.
+   Joung, J. Keith
+ID ZINC-FINGER NUCLEASES; RNA-GUIDED ENDONUCLEASE; DOUBLE-STRAND BREAKS;
+   CRISPR-CAS; HUMAN-CELLS; CAENORHABDITIS-ELEGANS; GENE-EXPRESSION;
+   IMMUNE-SYSTEM; TRANSCRIPTION FACTORS; ENDOGENOUS GENES
+NR 101
+TC 1068
+Z9 1135
+U1 114
+U2 645
+ER
+
+PT J
+AU Chylinski, K
+   Makarova, KS
+   Charpentier, E
+   Koonin, EV
+AF Chylinski, Krzysztof
+   Makarova, Kira S.
+   Charpentier, Emmanuelle
+   Koonin, Eugene V.
+ID ADAPTIVE BACTERIAL IMMUNITY; SHORT PALINDROMIC REPEATS; ONE-STEP
+   GENERATION; STREPTOCOCCUS-THERMOPHILUS; CRYSTAL-STRUCTURE;
+   ESCHERICHIA-COLI; GENE-EXPRESSION; PROTEIN CSN2; RNA; DNA
+OI Chylinski, Krzysztof/0000-0001-7029-8090
+NR 83
+TC 153
+Z9 167
+U1 10
+U2 107
+ER
+
+PT J
+AU Cho, SW
+   Kim, S
+   Kim, Y
+   Kweon, J
+   Kim, HS
+   Bae, S
+   Kim, JS
+AF Cho, Seung Woo
+   Kim, Sojung
+   Kim, Yongsub
+   Kweon, Jiyeon
+   Kim, Heon Seok
+   Bae, Sangsu
+   Kim, Jin-Soo
+ID ZINC-FINGER NUCLEASES; HUMAN GENOME; CAS9 NUCLEASE; HUMAN-CELLS; GENE
+   ADDITION; SPECIFICITY; KNOCKOUT; SYSTEMS; NICKING; MICE
+RI KIM, Jin-Soo/M-6918-2013; Bae, Sangsu/E-5324-2017; Cho, Seung
+   Woo/B-2441-2019
+OI Bae, Sangsu/0000-0003-3615-8566; Cho, Seung Woo/0000-0001-9091-0937;
+   Kim, Sojung/0000-0002-2690-875X
+NR 47
+TC 540
+Z9 580
+U1 14
+U2 192
+ER
+
+PT J
+AU Chen, BH
+   Gilbert, LA
+   Cimini, BA
+   Schnitzbauer, J
+   Zhang, W
+   Li, GW
+   Park, J
+   Blackburn, EH
+   Weissman, JS
+   Qi, LS
+   Huang, B
+AF Chen, Baohui
+   Gilbert, Luke A.
+   Cimini, Beth A.
+   Schnitzbauer, Joerg
+   Zhang, Wei
+   Li, Gene-Wei
+   Park, Jason
+   Blackburn, Elizabeth H.
+   Weissman, Jonathan S.
+   Qi, Lei S.
+   Huang, Bo
+ID SEQUENCE-SPECIFIC CONTROL; CHROMATIN DYNAMICS; GENE-EXPRESSION; RNA;
+   ORGANIZATION; TELOMERES; CHROMOSOMES; VISUALIZATION; HYBRIDIZATION;
+   TRANSCRIPTION
+OI /0000-0001-7036-8511; Qi, Lei S/0000-0002-3965-3223
+NR 46
+TC 617
+Z9 654
+U1 13
+U2 230
+ER
+
+PT J
+AU Blitz, IL
+   Biesinger, J
+   Xie, XH
+   Cho, KWY
+AF Blitz, Ira L.
+   Biesinger, Jacob
+   Xie, Xiaohui
+   Cho, Ken W. Y.
+DE TALENs; CRISPR/Cas; zinc finger nucleases; gene knockouts; gene
+   targeting
+ID EFFECTOR NUCLEASES TALENS; TARGETED GENE DISRUPTION; ZINC-FINGER
+   NUCLEASES; ONE-STEP GENERATION; ADAPTIVE IMMUNITY; HUMAN-CELLS; CAS9;
+   SPECIFICITY; MUTAGENESIS; ENDONUCLEASE
+OI Biesinger, W Jacob B/0000-0003-0172-525X
+NR 31
+TC 89
+Z9 90
+U1 0
+U2 19
+ER
+
+PT J
+AU Ainley, WM
+   Sastry-Dent, L
+   Welter, ME
+   Murray, MG
+   Zeitler, B
+   Amora, R
+   Corbin, DR
+   Miles, RR
+   Arnold, NL
+   Strange, TL
+   Simpson, MA
+   Cao, ZH
+   Carroll, C
+   Pawelczak, KS
+   Blue, R
+   West, K
+   Rowland, LM
+   Perkins, D
+   Samuel, P
+   Dewes, CM
+   Shen, L
+   Sriram, S
+   Evans, SL
+   Rebar, EJ
+   Zhang, L
+   Gregory, PD
+   Urnov, FD
+   Webb, SR
+   Petolino, JF
+AF Ainley, William M.
+   Sastry-Dent, Lakshmi
+   Welter, Mary E.
+   Murray, Michael G.
+   Zeitler, Bryan
+   Amora, Rainier
+   Corbin, David R.
+   Miles, Rebecca R.
+   Arnold, Nicole L.
+   Strange, Tonya L.
+   Simpson, Matthew A.
+   Cao, Zehui
+   Carroll, Carley
+   Pawelczak, Katherine S.
+   Blue, Ryan
+   West, Kim
+   Rowland, Lynn M.
+   Perkins, Douglas
+   Samuel, Pon
+   Dewes, Cristie M.
+   Shen, Liu
+   Sriram, Shreedharan
+   Evans, Steven L.
+   Rebar, Edward J.
+   Zhang, Lei
+   Gregory, Phillip D.
+   Urnov, Fyodor D.
+   Webb, Steven R.
+   Petolino, Joseph F.
+DE gene targeting; designed zinc finger nucleases; transgene stacking
+ID ZINC-FINGER NUCLEASES; SITE-SPECIFIC INTEGRATION; HOMOLOGOUS
+   RECOMBINATION; TRANSGENE INTEGRATION; MULTIPLE TRANSGENES; PLANT-CELLS;
+   TRANSFORMATION; GENES; RESISTANCE; MAIZE
+NR 40
+TC 85
+Z9 90
+U1 0
+U2 47
+ER
+
+PT J
+AU Xie, KB
+   Yang, YN
+AF Xie, Kabin
+   Yang, Yinong
+DE CRISPRCas; gene targeting; genome editing
+ID ZINC-FINGER NUCLEASES; DNA-BINDING SPECIFICITY; HUMAN-CELLS; CAS
+   SYSTEMS; ENDONUCLEASE; EFFECTORS; BACTERIA; IMMUNITY
+OI Xie, Kabin/0000-0003-0643-2456
+NR 31
+TC 231
+Z9 273
+U1 11
+U2 265
+ER
+
+PT J
+AU Cradick, TJ
+   Fine, EJ
+   Antico, CJ
+   Bao, G
+AF Cradick, Thomas J.
+   Fine, Eli J.
+   Antico, Christopher J.
+   Bao, Gang
+ID ZINC-FINGER NUCLEASES; CHROMOSOMAL DELETIONS; EMBRYO MICROINJECTION;
+   ADAPTIVE IMMUNITY; KNOCKOUT RATS; DNA; CLEAVAGE; BACTERIA; CELLS; CAS9
+OI Fine, Eli/0000-0002-5745-4498
+NR 31
+TC 283
+Z9 293
+U1 9
+U2 118
+ER
+
+PT J
+AU Belhaj, K
+   Chaparro-Garcia, A
+   Kamoun, S
+   Nekrasov, V
+AF Belhaj, Khaoula
+   Chaparro-Garcia, Angela
+   Kamoun, Sophien
+   Nekrasov, Vladimir
+DE CRISPR; Cas9; Plant; Genome editing; Genome engineering; Targeted
+   mutagenesis
+ID RNA-GUIDED ENDONUCLEASE; ONE-STEP GENERATION; NICOTIANA-BENTHAMIANA; CAS
+   SYSTEM; CRISPRCAS SYSTEM; HUMAN-CELLS; SPECIFICITY; NUCLEASES; MULTIPLEX
+RI Kamoun, Sophien/B-3529-2009; Nekrasov, Vladimir/N-4428-2017
+OI Kamoun, Sophien/0000-0002-0290-0315; Nekrasov,
+   Vladimir/0000-0001-9386-1683
+NR 36
+TC 217
+Z9 238
+U1 32
+U2 530
+ER
+
+PT J
+AU Yang, LH
+   Guell, M
+   Byrne, S
+   Yang, JL
+   De Los Angeles, A
+   Mali, P
+   Aach, J
+   Kim-Kiselak, C
+   Briggs, AW
+   Rios, X
+   Huang, PY
+   Daley, G
+   Church, G
+AF Yang, Luhan
+   Guell, Marc
+   Byrne, Susan
+   Yang, Joyce L.
+   De Los Angeles, Alejandro
+   Mali, Prashant
+   Aach, John
+   Kim-Kiselak, Caroline
+   Briggs, Adrian W.
+   Rios, Xavier
+   Huang, Po-Yi
+   Daley, George
+   Church, George
+ID ZINC-FINGER NUCLEASES; MAMMALIAN-CELLS; GENE CORRECTION; TAL EFFECTORS;
+   BREAK; DNA; OLIGONUCLEOTIDES; TRANSCRIPTION; GENERATION; MUTATIONS
+OI church, george/0000-0001-6232-9969; Guell, Marc/0000-0003-4000-7912
+NR 38
+TC 175
+Z9 179
+U1 3
+U2 51
+ER
+
+PT J
+AU Cheng, AW
+   Wang, HY
+   Yang, H
+   Shi, LY
+   Katz, Y
+   Theunissen, TW
+   Rangarajan, S
+   Shivalila, CS
+   Dadon, DB
+   Jaenisch, R
+AF Cheng, Albert W.
+   Wang, Haoyi
+   Yang, Hui
+   Shi, Linyu
+   Katz, Yarden
+   Theunissen, Thorold W.
+   Rangarajan, Sudharshan
+   Shivalila, Chikdu S.
+   Dadon, Daniel B.
+   Jaenisch, Rudolf
+DE CRISPR; transcription factor; synthetic biology; gene expression;
+   artificial transcription factor
+ID TAL EFFECTORS; CAS SYSTEMS; EXPRESSION; BACTERIA; ARCHAEA; BINDING
+OI yang, hui/0000-0003-3590-722X; Theunissen, Thorold/0000-0001-6943-7858
+NR 25
+TC 301
+Z9 326
+U1 8
+U2 107
+ER
+
+PT J
+AU Ran, FA
+   Hsu, PD
+   Lin, CY
+   Gootenberg, JS
+   Konermann, S
+   Trevino, AE
+   Scott, DA
+   Inoue, A
+   Matoba, S
+   Zhang, Y
+   Zhang, F
+AF Ran, F. Ann
+   Hsu, Patrick D.
+   Lin, Chie-Yu
+   Gootenberg, Jonathan S.
+   Konermann, Silvana
+   Trevino, Alexandro E.
+   Scott, David A.
+   Inoue, Azusa
+   Matoba, Shogo
+   Zhang, Yi
+   Zhang, Feng
+ID ZINC-FINGER NUCLEASES; TAL EFFECTORS; HUMAN-CELLS; BACTERIA; SYSTEM;
+   TRANSCRIPTION; ENDONUCLEASE; GENERATION; MUTATIONS; KNOCKOUT
+RI MATOBA, Shogo/D-9995-2016; Yang, Sheng/G-1606-2010
+OI MATOBA, Shogo/0000-0003-0474-232X; Yang, Sheng/0000-0003-3742-9989; Hsu,
+   Patrick/0000-0002-9380-2648; Gootenberg, Jonathan/0000-0003-2757-2175
+NR 40
+TC 1303
+Z9 1430
+U1 48
+U2 910
+ER
+
+PT J
+AU Jao, LE
+   Wente, SR
+   Chen, WB
+AF Jao, Li-En
+   Wente, Susan R.
+   Chen, Wenbiao
+DE genome engineering; RNA-guided mutagenesis; pigmentation
+ID CAS SYSTEMS; RNA; BACTERIA; ENDONUCLEASE; REGENERATION; EVOLUTION;
+   CLEAVAGE; ABLATION; IMMUNITY; DEFENSE
+NR 33
+TC 448
+Z9 475
+U1 11
+U2 212
+ER
+
+PT J
+AU Bikard, D
+   Jiang, WY
+   Samai, P
+   Hochschild, A
+   Zhang, F
+   Marraffini, LA
+AF Bikard, David
+   Jiang, Wenyan
+   Samai, Poulami
+   Hochschild, Ann
+   Zhang, Feng
+   Marraffini, Luciano A.
+ID ESCHERICHIA-COLI; ADAPTIVE IMMUNITY; HUMAN GENOME; RNA; DNA; PROTEIN;
+   SEQUENCE; ENDONUCLEASE; PROKARYOTES; BACTERIOPHAGE
+RI Yang, Sheng/G-1606-2010; Bikard, David/L-2971-2015
+OI Yang, Sheng/0000-0003-3742-9989; Bikard, David/0000-0002-5729-1211
+NR 45
+TC 327
+Z9 359
+U1 5
+U2 186
+ER
+
+PT J
+AU Friedland, AE
+   Tzur, YB
+   Esvelt, KM
+   Colaiacovo, MP
+   Church, GM
+   Calarco, JA
+AF Friedland, Ari E.
+   Tzur, Yonatan B.
+   Esvelt, Kevin M.
+   Colaiacovo, Monica P.
+   Church, George M.
+   Calarco, John A.
+ID CAENORHABDITIS-ELEGANS; GENE-EXPRESSION; CAS SYSTEMS; ENDONUCLEASE;
+   BACTERIA; IMMUNITY; CELLS
+OI church, george/0000-0001-6232-9969; Esvelt, Kevin/0000-0001-8797-3945
+NR 25
+TC 438
+Z9 487
+U1 22
+U2 315
+ER
+
+PT J
+AU Hwang, WY
+   Fu, YF
+   Reyon, D
+   Maeder, ML
+   Kaini, P
+   Sander, JD
+   Joung, JK
+   Peterson, RT
+   Yeh, JRJ
+AF Hwang, Woong Y.
+   Fu, Yanfang
+   Reyon, Deepak
+   Maeder, Morgan L.
+   Kaini, Prakriti
+   Sander, Jeffry D.
+   Joung, J. Keith
+   Peterson, Randall T.
+   Yeh, Jing-Ruey Joanna
+ID ZINC-FINGER NUCLEASES; TARGETED GENE DISRUPTION; TALENS; ENDONUCLEASE;
+   MUTAGENESIS; BACTERIA; ARCHAEA; CELLS
+OI Hwang, Woong/0000-0002-0575-0033
+NR 35
+TC 182
+Z9 191
+U1 3
+U2 105
+ER
+
+PT J
+AU Bassett, AR
+   Tibbit, C
+   Ponting, CP
+   Liu, JL
+AF Bassett, Andrew R.
+   Tibbit, Charlotte
+   Ponting, Chris P.
+   Liu, Ji-Long
+ID ZINC-FINGER NUCLEASES; HOMOLOGOUS RECOMBINATION; HUMAN-CELLS; GENOME;
+   GENE; IDENTIFICATION; PROKARYOTES; CLEAVAGE; IMMUNITY; REPAIR
+OI Ponting, Chris/0000-0003-0202-7816
+NR 30
+TC 341
+Z9 377
+U1 5
+U2 228
+ER
+
+PT J
+AU Chylinski, K
+   Le Rhun, A
+   Charpentier, E
+AF Chylinski, Krzysztof
+   Le Rhun, Anais
+   Charpentier, Emmanuelle
+DE tracrRNA; CRISPR-Cas; type II system; Cas9 (Csn1); RNA processing; RNA
+   maturation; small non-coding RNA; bacteria; adaptive immunity; mobile
+   genetic elements
+ID SHORT PALINDROMIC REPEATS; PROVIDES ACQUIRED-RESISTANCE; PROCESSES
+   PRE-CRRNA; ADAPTIVE IMMUNITY; STREPTOCOCCUS-THERMOPHILUS;
+   ESCHERICHIA-COLI; SMALL RNAS; STRUCTURE PREDICTION; BACTERIAL IMMUNITY;
+   ANTIVIRAL DEFENSE
+OI Chylinski, Krzysztof/0000-0001-7029-8090; Le Rhun,
+   Anais/0000-0003-2211-2153
+NR 88
+TC 127
+Z9 139
+U1 5
+U2 115
+ER
+
+PT J
+AU Chang, NN
+   Sun, CH
+   Gao, L
+   Zhu, D
+   Xu, XF
+   Zhu, XJ
+   Xiong, JW
+   Xi, JJ
+AF Chang, Nannan
+   Sun, Changhong
+   Gao, Lu
+   Zhu, Dan
+   Xu, Xiufei
+   Zhu, Xiaojun
+   Xiong, Jing-Wei
+   Xi, Jianzhong Jeff
+DE CRISPR; Cas9; genome editing; knockin; conditional knockout
+ID ZINC-FINGER NUCLEASES; TALENS; ENDONUCLEASE; IMMUNITY; SYSTEMS
+RI Xiong, Jing-Wei/A-7113-2011; Xi, Jianzhong/J-1420-2014
+NR 23
+TC 391
+Z9 456
+U1 4
+U2 262
+ER
+
+PT J
+AU Hwang, WY
+   Fu, YF
+   Reyon, D
+   Maeder, ML
+   Tsai, SQ
+   Sander, JD
+   Peterson, RT
+   Yeh, JRJ
+   Joung, JK
+AF Hwang, Woong Y.
+   Fu, Yanfang
+   Reyon, Deepak
+   Maeder, Morgan L.
+   Tsai, Shengdar Q.
+   Sander, Jeffry D.
+   Peterson, Randall T.
+   Yeh, J-R Joanna
+   Joung, J. Keith
+ID ZINC-FINGER NUCLEASES; TALENS; PROKARYOTES; BACTERIA; IMMUNITY
+RI Tsai, Shengdar/G-4600-2012
+OI Hwang, Woong/0000-0002-0575-0033
+NR 20
+TC 1267
+Z9 1406
+U1 33
+U2 932
+ER
+
+PT J
+AU Jiang, WY
+   Bikard, D
+   Cox, D
+   Zhang, F
+   Marraffini, LA
+AF Jiang, Wenyan
+   Bikard, David
+   Cox, David
+   Zhang, Feng
+   Marraffini, Luciano A.
+ID ESCHERICHIA-COLI; IMMUNE-SYSTEM; STREPTOCOCCUS-THERMOPHILUS; SEED
+   SEQUENCE; DNA CLEAVAGE; IN-VIVO; ENDONUCLEASE; PROTEIN; RECOMBINATION;
+   INTERFERENCE
+RI Bikard, David/L-2971-2015
+OI Bikard, David/0000-0002-5729-1211
+NR 40
+TC 869
+Z9 997
+U1 39
+U2 720
+ER
+
+PT J
+AU Cong, L
+   Ran, FA
+   Cox, D
+   Lin, SL
+   Barretto, R
+   Habib, N
+   Hsu, PD
+   Wu, XB
+   Jiang, WY
+   Marraffini, LA
+   Zhang, F
+AF Cong, Le
+   Ran, F. Ann
+   Cox, David
+   Lin, Shuailiang
+   Barretto, Robert
+   Habib, Naomi
+   Hsu, Patrick D.
+   Wu, Xuebing
+   Jiang, Wenyan
+   Marraffini, Luciano A.
+   Zhang, Feng
+ID STREPTOCOCCUS-THERMOPHILUS; IMMUNE-SYSTEM; TAL EFFECTORS; CAS SYSTEMS;
+   SMALL RNAS; DNA; BACTERIA; ENDONUCLEASE; NUCLEASES; DEFENSE
+RI Lin, Shuailiang/O-3272-2016; Cong, Le/M-9981-2013; Wu,
+   Xuebing/C-9152-2013
+OI Cong, Le/0000-0003-4725-8714; Wu, Xuebing/0000-0003-0369-5269; Hsu,
+   Patrick/0000-0002-9380-2648
+NR 29
+TC 4871
+Z9 5285
+U1 509
+U2 4837
+ER
+
+PT J
+AU Ding, QR
+   Lee, YK
+   Schaefer, EAK
+   Peters, DT
+   Veres, A
+   Kim, K
+   Kuperwasser, N
+   Motola, DL
+   Meissner, TB
+   Hendriks, WT
+   Trevisan, M
+   Gupta, RM
+   Moisan, A
+   Banks, E
+   Friesen, M
+   Schinzel, RT
+   Xia, F
+   Tang, A
+   Xia, YL
+   Figueroa, E
+   Wann, A
+   Ahfeldt, T
+   Daheron, L
+   Zhang, F
+   Rubin, LL
+   Peng, LF
+   Chung, RT
+   Musunuru, K
+   Cowan, CA
+AF Ding, Qiurong
+   Lee, Youn-Kyoung
+   Schaefer, Esperance A. K.
+   Peters, Derek T.
+   Veres, Adrian
+   Kim, Kevin
+   Kuperwasser, Nicolas
+   Motola, Daniel L.
+   Meissner, Torsten B.
+   Hendriks, William T.
+   Trevisan, Marta
+   Gupta, Rajat M.
+   Moisan, Annie
+   Banks, Eric
+   Friesen, Max
+   Schinzel, Robert T.
+   Xia, Fang
+   Tang, Alexander
+   Xia, Yulei
+   Figueroa, Emmanuel
+   Wann, Amy
+   Ahfeldt, Tim
+   Daheron, Laurence
+   Zhang, Feng
+   Rubin, Lee L.
+   Peng, Lee F.
+   Chung, Raymond T.
+   Musunuru, Kiran
+   Cowan, Chad A.
+ID INSULIN-RESISTANCE; ADIPOSE-TISSUE; MICE LACKING; DNA; EFFECTORS;
+   PERILIPIN; NUCLEASES; SORTILIN; MUTATION; AKT2
+RI Ahfeldt, Tim/E-2935-2017
+OI Veres, Adrian/0000-0002-3849-3475; Kim, Kevin/0000-0002-7015-5871;
+   Rubin, Lee/0000-0002-8658-841X
+NR 46
+TC 299
+Z9 327
+U1 3
+U2 104
+ER
+
+PT J
+AU Jinek, M
+   East, A
+   Cheng, A
+   Lin, S
+   Ma, EB
+   Doudna, J
+AF Jinek, Martin
+   East, Alexandra
+   Cheng, Aaron
+   Lin, Steven
+   Ma, Enbo
+   Doudna, Jennifer
+ID BACTERIA; IMMUNITY; SYSTEMS; NUCLEASE; ARCHAEA
+RI Jinek, Martin/E-6621-2011
+OI Jinek, Martin/0000-0002-7601-210X; Seletsky,
+   Alexandra/0000-0001-6673-5817
+NR 14
+TC 859
+Z9 932
+U1 15
+U2 246
+ER
+
+PT J
+AU Joung, JK
+   Sander, JD
+AF Joung, J. Keith
+   Sander, Jeffry D.
+ID ZINC-FINGER NUCLEASES; PLURIPOTENT STEM-CELLS; DOUBLE-STRAND BREAKS;
+   EFFECTOR NUCLEASES; GENE DISRUPTION; DNA RECOGNITION; EMBRYO
+   MICROINJECTION; TRANSCRIPTION FACTORS; EFFICIENT GENERATION; CLEAVAGE
+   DOMAIN
+NR 100
+TC 620
+Z9 662
+U1 16
+U2 328
+ER
+
+PT J
+AU Bedell, VM
+   Wang, Y
+   Campbell, JM
+   Poshusta, TL
+   Starker, CG
+   Krug, RG
+   Tan, WF
+   Penheiter, SG
+   Ma, AC
+   Leung, AYH
+   Fahrenkrug, SC
+   Carlson, DF
+   Voytas, DF
+   Clark, KJ
+   Essner, JJ
+   Ekker, SC
+AF Bedell, Victoria M.
+   Wang, Ying
+   Campbell, Jarryd M.
+   Poshusta, Tanya L.
+   Starker, Colby G.
+   Krug, Randall G., II
+   Tan, Wenfang
+   Penheiter, Sumedha G.
+   Ma, Alvin C.
+   Leung, Anskar Y. H.
+   Fahrenkrug, Scott C.
+   Carlson, Daniel F.
+   Voytas, Daniel F.
+   Clark, Karl J.
+   Essner, Jeffrey J.
+   Ekker, Stephen C.
+ID ZINC-FINGER NUCLEASES; TARGETED GENE DISRUPTION; DNA-BINDING
+   SPECIFICITY; ZEBRAFISH; EFFECTORS; CELLS
+OI /0000-0002-4800-2844; Clark, Karl/0000-0002-9637-0967
+NR 27
+TC 555
+Z9 607
+U1 8
+U2 387
+ER
+
+PT J
+AU Reyon, D
+   Tsai, SQ
+   Khayter, C
+   Foden, JA
+   Sander, JD
+   Joung, JK
+AF Reyon, Deepak
+   Tsai, Shengdar Q.
+   Khayter, Cyd
+   Foden, Jennifer A.
+   Sander, Jeffry D.
+   Joung, J. Keith
+ID ZINC-FINGER NUCLEASES; DNA-BINDING SPECIFICITY; DOUBLE-STRAND BREAKS;
+   EFFECTOR NUCLEASES; GENE MODIFICATION; CELLS; TRANSCRIPTION; PROTEINS;
+   KNOCKOUT
+RI Tsai, Shengdar/G-4600-2012
+NR 32
+TC 503
+Z9 544
+U1 9
+U2 187
+ER
+
+PT S
+AU Barrangou, R
+   Horvath, P
+AF Barrangou, Rodolphe
+   Horvath, Philippe
+BE Doyle, MP
+   Klaenhammer, TR
+DE bacteriophage; cas gene; interference; typing; immunity; starter culture
+ID MYCOBACTERIUM-TUBERCULOSIS COMPLEX; ESCHERICHIA-COLI; IMMUNE-SYSTEM;
+   ACQUIRED-RESISTANCE; ANTIVIRAL DEFENSE; STRUCTURAL BASIS;
+   YERSINIA-PESTIS; REPEATS CRISPRS; GENE-TRANSFER; SMALL RNA
+RI HORVATH, Philippe/K-5266-2015; Barrangou, Rodolphe/I-2878-2014
+OI HORVATH, Philippe/0000-0003-2015-8123; Barrangou,
+   Rodolphe/0000-0002-0648-3504
+NR 118
+TC 91
+Z9 97
+U1 5
+U2 118
+ER
+
+PT J
+AU Chen, FQ
+   Pruett-Miller, SM
+   Huang, YP
+   Gjoka, M
+   Duda, K
+   Taunton, J
+   Collingwood, TN
+   Frodin, M
+   Davis, GD
+AF Chen, Fuqiang
+   Pruett-Miller, Shondra M.
+   Huang, Yuping
+   Gjoka, Monika
+   Duda, Katarzyna
+   Taunton, Jack
+   Collingwood, Trevor N.
+   Frodin, Morten
+   Davis, Gregory D.
+ID DOUBLE-STRAND BREAKS; MAMMALIAN-CELLS; GENE KNOCKOUT; REPAIR; PATHWAY;
+   LOCUS
+RI Pruett-Miller, Shondra/M-9414-2018
+OI Frodin, Morten/0000-0003-3691-9820
+NR 19
+TC 243
+Z9 254
+U1 7
+U2 55
+ER
+
+PT J
+AU Deltcheva, E
+   Chylinski, K
+   Sharma, CM
+   Gonzales, K
+   Chao, YJ
+   Pirzada, ZA
+   Eckert, MR
+   Vogel, J
+   Charpentier, E
+AF Deltcheva, Elitza
+   Chylinski, Krzysztof
+   Sharma, Cynthia M.
+   Gonzales, Karine
+   Chao, Yanjie
+   Pirzada, Zaid A.
+   Eckert, Maria R.
+   Vogel, Joerg
+   Charpentier, Emmanuelle
+ID PROVIDES ACQUIRED-RESISTANCE; GRAM-POSITIVE BACTERIA;
+   STAPHYLOCOCCUS-AUREUS; ENDORIBONUCLEASE-III; IMMUNE-SYSTEM; IN-VIVO;
+   PROKARYOTES; ARCHAEA; REPEATS; GENE
+RI Chao, Yanjie/J-1931-2014; Vogel, Jorg/D-5574-2011; Sharma,
+   Cynthia/D-2869-2013
+OI Chao, Yanjie/0000-0002-5735-7954; Vogel, Jorg/0000-0003-2220-1404;
+   Sharma, Cynthia Mira/0000-0002-2321-9705; Chylinski,
+   Krzysztof/0000-0001-7029-8090
+NR 66
+TC 853
+Z9 977
+U1 34
+U2 378
+ER
+
+PT J
+AU Miller, JC
+   Tan, SY
+   Qiao, GJ
+   Barlow, KA
+   Wang, JB
+   Xia, DF
+   Meng, XD
+   Paschon, DE
+   Leung, E
+   Hinkley, SJ
+   Dulay, GP
+   Hua, KL
+   Ankoudinova, I
+   Cost, GJ
+   Urnov, FD
+   Zhang, HS
+   Holmes, MC
+   Zhang, L
+   Gregory, PD
+   Rebar, EJ
+AF Miller, Jeffrey C.
+   Tan, Siyuan
+   Qiao, Guijuan
+   Barlow, Kyle A.
+   Wang, Jianbin
+   Xia, Danny F.
+   Meng, Xiangdong
+   Paschon, David E.
+   Leung, Elo
+   Hinkley, Sarah J.
+   Dulay, Gladys P.
+   Hua, Kevin L.
+   Ankoudinova, Irina
+   Cost, Gregory J.
+   Urnov, Fyodor D.
+   Zhang, H. Steve
+   Holmes, Michael C.
+   Zhang, Lei
+   Gregory, Philip D.
+   Rebar, Edward J.
+ID ZINC-FINGER NUCLEASES; DOUBLE-STRAND BREAKS; III EFFECTORS; DNA
+   RECOGNITION; TARGETED MUTAGENESIS; GENE MODIFICATION; HUMAN-CELLS;
+   PROTEIN; PLANT; RESISTANCE
+OI Cost, Gregory/0000-0002-8509-4653; Hua, Kevin/0000-0003-2186-6674
+NR 52
+TC 1065
+Z9 1155
+U1 9
+U2 293
+ER
+
+PT J
+AU Christian, M
+   Cermak, T
+   Doyle, EL
+   Schmidt, C
+   Zhang, F
+   Hummel, A
+   Bogdanove, AJ
+   Voytas, DF
+AF Christian, Michelle
+   Cermak, Tomas
+   Doyle, Erin L.
+   Schmidt, Clarice
+   Zhang, Feng
+   Hummel, Aaron
+   Bogdanove, Adam J.
+   Voytas, Daniel F.
+ID ZINC-FINGER NUCLEASES; HUMAN-CELLS; GENE; RECOGNITION
+NR 20
+TC 789
+Z9 882
+U1 7
+U2 164
+ER
+
+PT J
+AU Urnov, FD
+   Rebar, EJ
+   Holmes, MC
+   Zhang, HS
+   Gregory, PD
+AF Urnov, Fyodor D.
+   Rebar, Edward J.
+   Holmes, Michael C.
+   Zhang, H. Steve
+   Gregory, Philip D.
+ID ARTIFICIAL TRANSCRIPTION FACTORS; DNA-BINDING SPECIFICITY; TARGETED GENE
+   ADDITION; DOUBLE-STRAND BREAKS; HUMAN STEM-CELLS; HOMOLOGOUS
+   RECOMBINATION; CRYSTAL-STRUCTURE; CHIMERIC NUCLEASES; KNOCKOUT RATS;
+   PLANT-CELLS
+NR 94
+TC 967
+Z9 1039
+U1 20
+U2 445
+ER
+
+PT J
+AU Boch, J
+   Scholze, H
+   Schornack, S
+   Landgraf, A
+   Hahn, S
+   Kay, S
+   Lahaye, T
+   Nickstadt, A
+   Bonas, U
+AF Boch, Jens
+   Scholze, Heidi
+   Schornack, Sebastian
+   Landgraf, Angelika
+   Hahn, Simone
+   Kay, Sabine
+   Lahaye, Thomas
+   Nickstadt, Anja
+   Bonas, Ulla
+ID ORYZAE PV. ORYZAE; BACTERIAL AVIRULENCE PROTEIN; GENE-EXPRESSION;
+   HOST-PLANT; RECOGNITION; AVRBS3; RICE; ACTIVATION; RESISTANCE; CELL
+RI Schornack, Sebastian/A-3650-2011
+OI Schornack, Sebastian/0000-0002-7836-5881
+NR 26
+TC 1266
+Z9 1396
+U1 18
+U2 341
+ER
+
+PT J
+AU Brouns, SJJ
+   Jore, MM
+   Lundgren, M
+   Westra, ER
+   Slijkhuis, RJH
+   Snijders, APL
+   Dickman, MJ
+   Makarova, KS
+   Koonin, EV
+   van der Oost, J
+AF Brouns, Stan J. J.
+   Jore, Matthijs M.
+   Lundgren, Magnus
+   Westra, Edze R.
+   Slijkhuis, Rik J. H.
+   Snijders, Ambrosius P. L.
+   Dickman, Mark J.
+   Makarova, Kira S.
+   Koonin, Eugene V.
+   van der Oost, John
+ID PROVIDES ACQUIRED-RESISTANCE; STREPTOCOCCUS-THERMOPHILUS; REPEATS;
+   IDENTIFICATION; ELEMENTS; DNA; EVOLUTIONARY; SEQUENCE; VIRUSES; SYSTEM
+RI Jore, Matthijs/F-7852-2018
+OI Jore, Matthijs/0000-0002-0686-370X; Snijders, Bram/0000-0002-5416-8592
+NR 20
+TC 965
+Z9 1051
+U1 38
+U2 417
+ER
+
+PT J
+AU Andersson, AF
+   Banfield, JF
+AF Andersson, Anders F.
+   Banfield, Jillian F.
+ID LATERAL GENE-TRANSFER; ELEMENTS; GENOMES; DNA; BACTERIOPHAGES;
+   RECOMBINATION; SEQUENCES; REPEATS; PHAGE; PROKARYOTES
+OI Andersson, Anders/0000-0002-3627-6899; Banfield,
+   Jill/0000-0001-8203-8771
+NR 35
+TC 287
+Z9 306
+U1 5
+U2 87
+ER
+
+PT J
+AU Deveau, H
+   Barrangou, R
+   Garneau, JE
+   Labonte, J
+   Fremaux, C
+   Boyaval, P
+   Romero, DA
+   Horvath, P
+   Moineau, S
+AF Deveau, Helene
+   Barrangou, Rodolphe
+   Garneau, Josiane E.
+   Labonte, Jessica
+   Fremaux, Christophe
+   Boyaval, Patrick
+   Romero, Dennis A.
+   Horvath, Philippe
+   Moineau, Sylvain
+ID LACTIC-ACID BACTERIA; LACTOCOCCUS-LACTIS; COMPARATIVE GENOMICS; LYTIC
+   BACTERIOPHAGE; ABORTIVE INFECTION; DNA; REPEATS; IDENTIFICATION;
+   PROKARYOTES; PROTEINS
+RI Barrangou, Rodolphe/I-2878-2014; HORVATH, Philippe/K-5266-2015; Moineau,
+   Sylvain/N-3578-2013
+OI Barrangou, Rodolphe/0000-0002-0648-3504; HORVATH,
+   Philippe/0000-0003-2015-8123; Moineau, Sylvain/0000-0002-2832-5101
+NR 42
+TC 545
+Z9 585
+U1 15
+U2 167
+ER
+
+PT J
+AU Barrangou, R
+   Fremaux, C
+   Deveau, H
+   Richards, M
+   Boyaval, P
+   Moineau, S
+   Romero, DA
+   Horvath, P
+AF Barrangou, Rodolphe
+   Fremaux, Christophe
+   Deveau, Helene
+   Richards, Melissa
+   Boyaval, Patrick
+   Moineau, Sylvain
+   Romero, Dennis A.
+   Horvath, Philippe
+ID DNA; REPEATS; ELEMENTS; STRAIN; EVOLUTIONARY; SEQUENCES; BACTERIA;
+   SYSTEM; GENES; PHAGE
+RI Moineau, Sylvain/N-3578-2013; Barrangou, Rodolphe/I-2878-2014; HORVATH,
+   Philippe/K-5266-2015
+OI Barrangou, Rodolphe/0000-0002-0648-3504; HORVATH,
+   Philippe/0000-0003-2015-8123; Moineau, Sylvain/0000-0002-2832-5101
+NR 19
+TC 2000
+Z9 2201
+U1 103
+U2 1332
+ER
+
+PT J
+AU Bolotin, A
+   Ouinquis, B
+   Sorokin, A
+   Ehrlich, SD
+AF Bolotin, A
+   Ouinquis, B
+   Sorokin, A
+   Ehrlich, SD
+ID STREPTOCOCCUS-THERMOPHILUS; DNA REPEATS; SEQUENCE; BACTERIOPHAGES;
+   IDENTIFICATION; SULFOLOBUS; ARCHAEON; RNA; ENDONUCLEASES; GENOMICS
+NR 31
+TC 600
+Z9 690
+U1 18
+U2 201
+ER
+
+PT J
+AU Bibikova, M
+   Beumer, K
+   Trautman, JK
+   Carroll, D
+AF Bibikova, M
+   Beumer, K
+   Trautman, JK
+   Carroll, D
+ID EMBRYONIC STEM-CELLS; DOUBLE-STRAND BREAKS; HOMOLOGOUS RECOMBINATION;
+   RESTRICTION ENZYMES; DROSOPHILA; CLEAVAGE; MUTAGENESIS; REPLACEMENT;
+   SELECTION; DOMAINS
+NR 16
+TC 462
+Z9 514
+U1 3
+U2 59
+ER
+
+PT J
+AU Chevalier, BS
+   Kortemme, T
+   Chadsey, MS
+   Baker, D
+   Monnat, RJ
+   Stoddard, BL
+AF Chevalier, BS
+   Kortemme, T
+   Chadsey, MS
+   Baker, D
+   Monnat, RJ
+   Stoddard, BL
+ID ENCODED HOMING ENDONUCLEASE; I-CREI; CRYSTAL-STRUCTURE; PROTEIN DESIGN;
+   CHLAMYDOMONAS-REINHARDTII; RESTRICTION ENZYMES; ESCHERICHIA-COLI;
+   DNA-RECOGNITION; CLEAVAGE; INTRON
+RI Baker, David/K-8941-2012
+OI Baker, David/0000-0001-7896-6217
+NR 45
+TC 157
+Z9 161
+U1 0
+U2 21
+ER
+
+PT J
+AU Bibikova, M
+   Golic, M
+   Golic, KG
+   Carroll, D
+AF Bibikova, M
+   Golic, M
+   Golic, KG
+   Carroll, D
+ID INDUCED GAP REPAIR; CONTROLLING GENE-EXPRESSION; TRIPLE-HELIX FORMATION;
+   HOMOLOGOUS RECOMBINATION; DNA-RECOGNITION; TRANSCRIPTION FACTORS;
+   RESTRICTION ENZYMES; BINDING PROTEIN; IN-VIVO; MELANOGASTER
+NR 49
+TC 434
+Z9 491
+U1 5
+U2 63
+ER
+
+EF

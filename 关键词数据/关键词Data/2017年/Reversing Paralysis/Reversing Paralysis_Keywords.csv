@@ -1,0 +1,137 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,spinal cord injury,8,spinal cord injury,25
+1,functional electrical stimulation (fes),5,locomotion,12
+2,motor cortex,4,balance,12
+3,rehabilitation,4,rehabilitation,11
+4,brain-computer interface,3,motor cortex,10
+5,locomotion,3,functional electrical stimulation (fes),10
+6,functional electrical,3,simulator,8
+7,balance,3,bci,7
+8,biomechanics,3,functional,7
+9,musculoskeletal modeling,3,neuroprosthetics,7
+10,bci,2,electromyography,7
+11,neural decoding,2,bioinformatics,7
+12,brain-machine interface,2,biomechanics,7
+13,human-machine teaming,2,neural decoding,6
+14,functional,2,brain-computer interface,6
+15,motor control,2,functional electrical,6
+16,neural prosthesis,2,musculoskeletal modeling,6
+17,neuromuscular stimulation,2,control system,6
+18,control,2,brain-machine interface,5
+19,neuroprosthetics,2,motor control,5
+20,electromyography,2,neural prosthesis,5
+21,bioinformatics,2,neuromuscular stimulation,5
+22,simulator,2,control,5
+23,implantable,2,neuron,5
+24,activities of daily living,2,brain computer interface,5
+25,functional electrical stimulation,2,goal,5
+26,musculoskeletal,2,velocity,5
+27,control system,2,position,5
+28,intracortical brain computer interface,1,implantable,5
+29,motor,1,rodent,4
+30,rodent,1,primate,4
+31,primate,1,behavior,4
+32,behavior,1,corticostriatal plasticity,4
+33,corticostriatal plasticity,1,nmda,4
+34,nmda,1,neuromodulation,4
+35,imaging,1,subdural,4
+36,regeneration & plasticity,1,computer,4
+37,neuromodulation,1,fes,4
+38,subdural,1,artifact reduction,4
+39,computer,1,fes plus ibci,4
+40,brain-computer interfaces,1,stimulation artifact,4
+41,kalman filtering,1,optogenetics,4
+42,gaussian,1,neural interface,4
+43,fes,1,soft materials,4
+44,artifact reduction,1,optic fiber,4
+45,fes plus ibci,1,peripheral,4
+46,stimulation artifact,1,human-machine teaming,4
+47,optogenetics,1,kinematics,4
+48,neural interface,1,muscle synergies,4
+49,soft materials,1,neural ensemble,4
+50,optic fiber,1,robotics,4
+51,peripheral,1,command source,4
+52,artificial intelligence,1,cursor control,4
+53,fitts law,1,fitts' law,4
+54,polymeric scaffolds,1,head,4
+55,tissue remodeling,1,monkeys,4
+56,tissue engineering,1,rodents,4
+57,lower limb exoskeleton,1,translation,4
+58,rehabilitation robotics,1,syndromics,4
+59,soft pneumatic,1,activities of daily living,4
+60,electrical stimulation,1,functional electrical stimulation,4
+61,kinematics,1,musculoskeletal,4
+62,muscle synergies,1,posture,4
+63,neural ensemble,1,acceleration,4
+64,human,1,center of mass,4
+65,gait,1,feedback,4
+66,robotics,1,intracortical brain computer interface,3
+67,command source,1,motor,3
+68,cursor control,1,brain-computer interfaces,3
+69,fitts' law,1,kalman filtering,3
+70,head,1,gaussian,3
+71,upper extremity,1,polymeric scaffolds,3
+72,musculoskeletal modeling and simulation,1,tissue remodeling,3
+73,optimization,1,tissue engineering,3
+74,non-human primate,1,human,3
+75,big-data,1,gait,3
+76,neuroprosthetic technologies,1,non-human primate,3
+77,neurorehabilitation,1,big-data,3
+78,ageing,1,ageing,3
+79,alpha-synuclein,1,alpha-synuclein,3
+80,animal models,1,animal models,3
+81,adeno-associated viral vector,1,adeno-associated viral vector,3
+82,neuron,1,user interfaces,3
+83,brain computer interface,1,interface,3
+84,goal,1,electrode,3
+85,velocity,1,emg,3
+86,position,1,forward dynamics,3
+87,sensory feedback,1,shoulder,3
+88,proprioception,1,force control,3
+89,descending detour circuit formation,1,system,3
+90,user interfaces,1,spinal interface,3
+91,interface,1,neuromotor,3
+92,electrode,1,urinary bladder,3
+93,emg,1,neurogenic,3
+94,implantable sensors,1,spinal cord injuries,3
+95,inertial measurement unit (imu),1,eeg,3
+96,inertial sensors,1,driving,3
+97,monkeys,1,deer-collsion,3
+98,rodents,1,amputation,3
+99,translation,1,artificial neural network,3
+100,syndromics,1,electromyographic,3
+101,forward dynamics,1,imaging,2
+102,shoulder,1,regeneration & plasticity,2
+103,electric stimulation,1,artificial intelligence,2
+104,electrodes implanted,1,fitts law,2
+105,force control,1,lower limb exoskeleton,2
+106,system,1,rehabilitation robotics,2
+107,spinal interface,1,soft pneumatic,2
+108,neuromotor,1,electrical stimulation,2
+109,computational model,1,upper extremity,2
+110,electrical epidural stimulation,1,musculoskeletal modeling and simulation,2
+111,finite element,1,optimization,2
+112,neuronal dysfunction,1,neuroprosthetic technologies,2
+113,exhaustion of locomotor,1,neurorehabilitation,2
+114,urinary bladder,1,sensory feedback,2
+115,neurogenic,1,proprioception,2
+116,spinal cord injuries,1,descending detour circuit formation,2
+117,muscle electrode,1,implantable sensors,2
+118,eeg,1,inertial measurement unit (imu),2
+119,driving,1,inertial sensors,2
+120,deer-collsion,1,electric stimulation,2
+121,brain-computer interface (bci),1,electrodes implanted,2
+122,braingate,1,computational model,2
+123,local field potential (lfp),1,electrical epidural stimulation,2
+124,posture,1,finite element,2
+125,functional assessment,1,neuronal dysfunction,2
+126,acceleration,1,exhaustion of locomotor,2
+127,center of mass,1,muscle electrode,2
+128,feedback,1,brain-computer interface (bci),2
+129,amputation,1,braingate,2
+130,artificial neural network,1,local field potential (lfp),2
+131,electromyographic,1,functional assessment,2
+132,functional neuromuscular stimulation,1,functional neuromuscular stimulation,2
+133,nerve electrodes,1,nerve electrodes,2
+134,feedback control,1,feedback control,2
+135,bimanual work space,1,bimanual work space,2

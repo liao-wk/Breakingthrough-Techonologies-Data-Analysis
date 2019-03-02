@@ -1,0 +1,158 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,locomotion,3,locomotion,12
+1,robot,3,robot,12
+2,bioinspired,2,quadruped,9
+3,mobile robots,2,bioinspired,7
+4,motion planning,2,swimming,6
+5,quadruped,2,performance,6
+6,dynamics,2,keel,6
+7,legged locomotion,2,tail,6
+8,aerial robotics,1,stability,6
+9,computer vision,1,turning,6
+10,sensor fusion,1,mobile robots,6
+11,simultaneous,1,dynamics,6
+12,flying robots,1,legged locomotion,6
+13,bio-inspired robotics,1,motion planning,5
+14,insect flight,1,pantograph,5
+15,electro-active,1,open-source,5
+16,swimming,1,multiple gaits,5
+17,performance,1,open-loop,5
+18,keel,1,balance,5
+19,tail,1,lumbosacral organ,5
+20,stability,1,vestibular system,5
+21,turning,1,birds,5
+22,aquatic robots,1,perch,5
+23,bioinspired robots,1,compliant,5
+24,explosive motion,1,5gtango,5
+25,hydraulic,1,nfv,5
+26,affect mirroring,1,mano,5
+27,affective empathy,1,policy,5
+28,associative learning,1,sla,5
+29,emotional,1,slicing,5
+30,social robot,1,social robot,4
+31,elderly,1,elderly,4
+32,qualitative research,1,qualitative research,4
+33,needs analysis,1,needs analysis,4
+34,co-creation,1,co-creation,4
+35,soft robot,1,morphing robot,4
+36,dielectric elastomer,1,quadrotors,4
+37,ratcheting locomotion,1,obstacle avoidance,4
+38,path planning,1,aerial,4
+39,curvature constraints,1,gait,4
+40,state constraints,1,perturbation,4
+41,collaborative robots,1,bounding,4
+42,task-level programming,1,mice,4
+43,robot skills,1,treadmill,4
+44,intuitive,1,tailless,4
+45,morphing robot,1,flapping wing,4
+46,quadrotors,1,micro air vehicle,4
+47,obstacle avoidance,1,ornithopter,4
+48,aerial,1,unmanned air,4
+49,gait,1,buoyancy,4
+50,perturbation,1,control,4
+51,bounding,1,propellers,4
+52,mice,1,unmanned aerial vehicle,4
+53,treadmill,1,unmanned,4
+54,poly-articulated system,1,uav,4
+55,parallel robot,1,autonomous landing,4
+56,kinematic modeling,1,tracking,4
+57,tailless,1,visual servoing,4
+58,flapping wing,1,motion prediction,4
+59,micro air vehicle,1,swarm intelligence,4
+60,ornithopter,1,mini-uav,4
+61,unmanned air,1,stigmergy,4
+62,computational design,1,flocking,4
+63,animation,1,target search,4
+64,physical characters,1,iort,4
+65,collision avoidance,1,cloud robotics,4
+66,multi-robot systems,1,reliability,4
+67,buoyancy,1,redundancy,4
+68,control,1,standby,4
+69,propellers,1,brushstroke,4
+70,unmanned aerial vehicle,1,calligraphy,4
+71,unmanned,1,chinese character,4
+72,type-2 fuzzy neural networks,1,machining learning,4
+73,particle swarm optimization,1,rough terrain,4
+74,sliding mode,1,platform,4
+75,arthropods,1,hardware,4
+76,bio-inspired robots,1,aerial robotics,3
+77,aquatic environment,1,computer vision,3
+78,pantograph,1,sensor fusion,3
+79,open-source,1,simultaneous,3
+80,multiple gaits,1,flying robots,3
+81,open-loop,1,bio-inspired robotics,3
+82,impulsive actuation,1,insect flight,3
+83,underactuated robots,1,electro-active,3
+84,ontology,1,aquatic robots,3
+85,ros,1,bioinspired robots,3
+86,stream reasoning,1,explosive motion,3
+87,printeps,1,hydraulic,3
+88,balance,1,affect mirroring,3
+89,lumbosacral organ,1,affective empathy,3
+90,vestibular system,1,associative learning,3
+91,birds,1,emotional,3
+92,perch,1,soft robot,3
+93,compliant,1,dielectric elastomer,3
+94,industrial robots,1,ratcheting locomotion,3
+95,manufacturing capability services,1,path planning,3
+96,manufacturing cell,1,curvature constraints,3
+97,soft material robotics,1,state constraints,3
+98,mechanism design,1,collaborative robots,3
+99,compliant joint/mechanism,1,task-level programming,3
+100,reactive and sensor-based planning,1,robot skills,3
+101,motion and path planning,1,intuitive,3
+102,aerial systems: mechanics and control,1,computational design,3
+103,motion control,1,animation,3
+104,aerial systems,1,physical characters,3
+105,mechanics and control,1,arthropods,3
+106,quadrotor control,1,bio-inspired robots,3
+107,stochastic optimal control,1,aquatic environment,3
+108,dynamic programming,1,impulsive actuation,3
+109,tensor,1,underactuated robots,3
+110,convex optimization,1,ontology,3
+111,real-time optimization,1,ros,3
+112,robot control,1,stream reasoning,3
+113,robot taping,1,printeps,3
+114,industrial robotics,1,aerial systems,3
+115,robot end-effector design,1,mechanics and control,3
+116,robot path,1,quadrotor control,3
+117,uav,1,stochastic optimal control,3
+118,autonomous landing,1,dynamic programming,3
+119,tracking,1,tensor,3
+120,visual servoing,1,convex optimization,3
+121,motion prediction,1,real-time optimization,3
+122,single-dof planar linkage,1,robot control,3
+123,dexterous bionic leg,1,robot taping,3
+124,design principle,1,industrial robotics,3
+125,learning control,1,robot end-effector design,3
+126,robot navigation,1,robot path,3
+127,iterative improvement,1,learning control,3
+128,autonomous,1,robot navigation,3
+129,swarm intelligence,1,iterative improvement,3
+130,mini-uav,1,autonomous,3
+131,stigmergy,1,poly-articulated system,2
+132,flocking,1,parallel robot,2
+133,target search,1,kinematic modeling,2
+134,iort,1,collision avoidance,2
+135,cloud robotics,1,multi-robot systems,2
+136,reliability,1,type-2 fuzzy neural networks,2
+137,redundancy,1,particle swarm optimization,2
+138,standby,1,sliding mode,2
+139,brushstroke,1,industrial robots,2
+140,calligraphy,1,manufacturing capability services,2
+141,chinese character,1,manufacturing cell,2
+142,machining learning,1,soft material robotics,2
+143,5gtango,1,mechanism design,2
+144,nfv,1,compliant joint/mechanism,2
+145,mano,1,single-dof planar linkage,2
+146,policy,1,dexterous bionic leg,2
+147,sla,1,design principle,2
+148,slicing,1,robust tracking and following,2
+149,robust tracking and following,1,convolutional operation,2
+150,convolutional operation,1,bayesian,2
+151,bayesian,1,legged robot,2
+152,rough terrain,1,field robotics,2
+153,platform,1,reactive and sensor-based planning,1
+154,hardware,1,motion and path planning,1
+155,legged robot,1,aerial systems: mechanics and control,1
+156,field robotics,1,motion control,1

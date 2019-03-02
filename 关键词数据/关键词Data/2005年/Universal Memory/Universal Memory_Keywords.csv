@@ -1,0 +1,303 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,memory,6,memory,29
+1,universal,4,uvm,15
+2,universal memory,4,mram,14
+3,uvm,3,universal memory,14
+4,flash,3,universal,13
+5,mtj,3,verification,13
+6,mram,3,sd-card,13
+7,universality,2,flash,12
+8,intelligence,2,mtj,12
+9,information,2,embedded memory,10
+10,generic,2,intelligence,9
+11,verification,2,cbram,9
+12,sd-card,2,information,8
+13,embedded memory,2,generic,8
+14,cbram,2,access time,8
+15,dram,2,symmetrical sensing,8
+16,big data,2,e.mmc,7
+17,in memory database,2,onfi,7
+18,key-value store,2,one-nand,7
+19,rram,2,ufs,7
+20,stationary processes,2,sttram,7
+21,sttram,2,stt-ram,7
+22,nonvolatile memory,2,universality,6
+23,evolutionary algorithm,2,bfm,6
+24,shared memory programming,2,memory controller,6
+25,stt-ram,2,iot,6
+26,access time,2,automobile,6
+27,symmetrical sensing,2,charge trap,6
+28,reservoir computing (rc),1,monos,6
+29,echo state networks (esn),1,split gate,6
+30,classical theories of gravity,1,beol,6
+31,field theories in higher dimensions,1,endurance,6
+32,universal history,1,data retention,6
+33,bio-filiative memory,1,programming window,6
+34,memory of words,1,pcm,6
+35,recording,1,oxram,6
+36,reservoir computing,1,dram,6
+37,state-affine systems,1,rram,6
+38,sas,1,prediction,5
+39,echo state,1,causality,5
+40,ddrii,1,design,5
+41,controller,1,stt-mram,5
+42,ip core,1,failures,5
+43,chipscope pro,1,spin-transfer-torque,5
+44,prediction,1,process variations,5
+45,causality,1,low,5
+46,design,1,big data,5
+47,phonological representations,1,in memory database,5
+48,phonological short-term memory,1,key-value store,5
+49,second,1,stationary processes,5
+50,memory effect,1,nonvolatile memory,5
+51,metastable phase,1,scale,5
+52,"trans-1,4-polyisoprene",1,scale-invariance,5
+53,dependency distance,1,free recall,5
+54,language universal,1,serial recall,5
+55,syntactic patterns,1,kolmogorov,5
+56,database architecture,1,gmr,5
+57,database recovery,1,giant magnetoresistance,5
+58,storage class memory,1,hspice,5
+59,programmable matter,1,model,5
+60,self-organizing particle systems,1,mram spin-value,5
+61,object coating,1,reservoir computing,4
+62,abortable object,1,state-affine systems,4
+63,agreement problem,1,sas,4
+64,asynchronous read/write system,1,echo state,4
+65,explicit mpc,1,sdram,4
+66,memory reduction,1,latency,4
+67,floating point numbers,1,predictor,4
+68,source identification,1,synchronization,4
+69,non-stationary data modeling,1,algorithm,4
+70,memory-assisted,1,closure,4
+71,cache coherence uvm verification sva mesi protocol,1,exhumations,4
+72,universal verification methodology,1,historicity,4
+73,nv centers,1,memory boom,4
+74,quantum memory,1,politics of time,4
+75,quantum gate,1,memristors,4
+76,e.mmc,1,spintronics,4
+77,onfi,1,logic gates,4
+78,one-nand,1,non-volatile materials,4
+79,ufs,1,modeling,4
+80,bfm,1,low power,4
+81,memory controller,1,r-ram,4
+82,iot,1,mtj device modleing,4
+83,automobile,1,memory yield,4
+84,charge trap,1,greeks,4
+85,monos,1,chinese,4
+86,split gate,1,cognitive development,4
+87,beol,1,bugs,4
+88,stt-mram,1,cellular automata,4
+89,failures,1,gliders,4
+90,spin-transfer-torque,1,game of life,4
+91,process variations,1,larger than life,4
+92,low,1,reference cell,4
+93,endurance,1,1t1mtj,4
+94,data retention,1,universal history,3
+95,programming window,1,bio-filiative memory,3
+96,pcm,1,memory of words,3
+97,oxram,1,recording,3
+98,brain,1,ddrii,3
+99,discrete fourier transform (dft),1,controller,3
+100,dynamic computing random access,1,ip core,3
+101,sdram,1,chipscope pro,3
+102,latency,1,explicit mpc,3
+103,predictor,1,memory reduction,3
+104,synchronization,1,floating point numbers,3
+105,algorithm,1,network coding,3
+106,scientific method,1,linear broadcast,3
+107,scientific revolution,1,variable-rate,3
+108,the enlightenment,1,global encoding kernel,3
+109,random number generation,1,phase change memory,3
+110,fixed to variable-length,1,thermoelectric effects,3
+111,variable to,1,crystallization,3
+112,network coding,1,melting,3
+113,linear broadcast,1,universal memory controller,3
+114,variable-rate,1,low power memory controller,3
+115,global encoding kernel,1,machine to machine,3
+116,phase change memory,1,cuo,3
+117,thermoelectric effects,1,thin films,3
+118,crystallization,1,switching characterizations,3
+119,melting,1,sram,3
+120,universal memory controller,1,through-silicon via (tsv),3
+121,low power memory controller,1,3d memory,3
+122,turing machine,1,3d-ic,3
+123,neural network,1,transactional memory,3
+124,generational memory,1,contention management,3
+125,psychoanalytic case histories,1,shared memory,3
+126,oral history,1,concurrency,3
+127,closure,1,cognitive schemas,3
+128,exhumations,1,culture,3
+129,historicity,1,memory intrusion,3
+130,memory boom,1,posttraumatic stress,3
+131,politics of time,1,memory-assisted source coding,3
+132,shape memory polymer,1,compression,3
+133,constitutive model,1,network memory,3
+134,thermoelasticity,1,emerging memory,3
+135,algebra,1,non-volatile memory,3
+136,digital integrated circuits,1,device modeling,3
+137,multivalued logic,1,metal-insulator transition,3
+138,machine to machine,1,oxide,3
+139,memory-assisted compression,1,evolutionary algorithm,3
+140,networking,1,shared memory programming,3
+141,redundancy elimination,1,memory yield improvement,3
+142,cuo,1,distance law,3
+143,thin films,1,emergentism,3
+144,switching characterizations,1,filler-gap dependency,3
+145,reversible computing,1,pascal's law,3
+146,reversible logic element,1,electron traps,3
+147,reversible sequential,1,hole traps,3
+148,statistical learning,1,interface states,3
+149,stochastic processes,1,random-access storage,3
+150,sram,1,autoethnography,3
+151,through-silicon via (tsv),1,autopsychobiography,3
+152,3d memory,1,psychobiography,3
+153,3d-ic,1,mystory,3
+154,memristors,1,markov chains,3
+155,spintronics,1,order estimation,3
+156,logic gates,1,probability,3
+157,non-volatile materials,1,quantum dots,3
+158,modeling,1,universal quantum cloning,3
+159,low power,1,adiabatic evolution,3
+160,transactional memory,1,dark state,3
+161,contention management,1,trapped ions,3
+162,shared memory,1,universal sign code,3
+163,concurrency,1,mobile phone,3
+164,nonlinear system identification,1,portable game,3
+165,linear-in-the-parameters nonlinear,1,sign presenter,3
+166,finite-order multivariate normal universal portfolio,1,1t1cbj,3
+167,investment wealth,1,program,3
+168,vaccination,1,dsp,3
+169,hepatitis b virus,1,fpga,3
+170,italy,1,shared-memory,3
+171,cognitive schemas,1,tvdft,3
+172,culture,1,context algorithm,3
+173,memory intrusion,1,finite memory,3
+174,posttraumatic stress,1,finite-state machines (fsms),3
+175,ferroelectric random access memory,1,suffix,3
+176,ferroelectrics,1,phase-field models,3
+177,multilevel systems,1,memory effects,3
+178,universal embedded database,1,absorbing sets,3
+179,structure,1,universal attractors,3
+180,communication,1,reservoir computing (rc),2
+181,memory-assisted source coding,1,echo state networks (esn),2
+182,compression,1,phonological representations,2
+183,network memory,1,phonological short-term memory,2
+184,emerging memory,1,second,2
+185,non-volatile memory,1,memory effect,2
+186,device modeling,1,metastable phase,2
+187,metal-insulator transition,1,"trans-1,4-polyisoprene",2
+188,oxide,1,dependency distance,2
+189,computational,1,language universal,2
+190,memory modeling,1,syntactic patterns,2
+191,resistive-switching memory (rram),1,database architecture,2
+192,charge-controlled memristance,1,database recovery,2
+193,flux-controlled memristance,1,storage class memory,2
+194,zero-net,1,programmable matter,2
+195,memory yield improvement,1,self-organizing particle systems,2
+196,universal prediction,1,object coating,2
+197,individual continuous sequences,1,abortable object,2
+198,finite-memory,1,agreement problem,2
+199,distance law,1,asynchronous read/write system,2
+200,emergentism,1,source identification,2
+201,filler-gap dependency,1,non-stationary data modeling,2
+202,pascal's law,1,memory-assisted,2
+203,electron traps,1,universal verification methodology,2
+204,hole traps,1,nv centers,2
+205,interface states,1,quantum memory,2
+206,random-access storage,1,quantum gate,2
+207,ferroelectric storage,1,brain,2
+208,ferroelectric thin films,1,discrete fourier transform (dft),2
+209,piezoelectricity,1,dynamic computing random access,2
+210,byzantine fault-tolerance,1,scientific method,2
+211,shared memory algorithms,1,scientific revolution,2
+212,tuple spaces,1,the enlightenment,2
+213,r-ram,1,random number generation,2
+214,mtj device modleing,1,fixed to variable-length,2
+215,memory yield,1,variable to,2
+216,shift register,1,generational memory,2
+217,pipo shift register,1,psychoanalytic case histories,2
+218,universal shift register,1,oral history,2
+219,context-tree weighting,1,shape memory polymer,2
+220,discrete memoryless erasure channel,1,constitutive model,2
+221,entropy,1,thermoelasticity,2
+222,autoethnography,1,algebra,2
+223,autopsychobiography,1,digital integrated circuits,2
+224,psychobiography,1,multivalued logic,2
+225,mystory,1,memory-assisted compression,2
+226,markov chains,1,networking,2
+227,order estimation,1,redundancy elimination,2
+228,probability,1,reversible computing,2
+229,quantum dots,1,reversible logic element,2
+230,universal quantum cloning,1,reversible sequential,2
+231,adiabatic evolution,1,statistical learning,2
+232,dark state,1,stochastic processes,2
+233,trapped ions,1,vaccination,2
+234,scale,1,hepatitis b virus,2
+235,scale-invariance,1,italy,2
+236,free recall,1,ferroelectric random access memory,2
+237,serial recall,1,ferroelectrics,2
+238,kolmogorov,1,multilevel systems,2
+239,universal sign code,1,universal embedded database,2
+240,mobile phone,1,structure,2
+241,portable game,1,communication,2
+242,sign presenter,1,computational,2
+243,bi-directional current write parallelizing direction current read,1,memory modeling,2
+244,1t1cbj,1,resistive-switching memory (rram),2
+245,program,1,charge-controlled memristance,2
+246,dsp,1,flux-controlled memristance,2
+247,fpga,1,zero-net,2
+248,shared-memory,1,universal prediction,2
+249,tvdft,1,individual continuous sequences,2
+250,optical quantum computation,1,finite-memory,2
+251,universal quantum computer,1,ferroelectric storage,2
+252,optical cnot,1,ferroelectric thin films,2
+253,block sorting,1,piezoelectricity,2
+254,burrows-wheeler transform,1,byzantine fault-tolerance,2
+255,context tree weighting method,1,shared memory algorithms,2
+256,vhusc (volume holographic universal storage cache),1,tuple spaces,2
+257,disk,1,shift register,2
+258,volume,1,pipo shift register,2
+259,greeks,1,universal shift register,2
+260,chinese,1,context-tree weighting,2
+261,cognitive development,1,discrete memoryless erasure channel,2
+262,bugs,1,entropy,2
+263,cellular automata,1,optical quantum computation,2
+264,gliders,1,universal quantum computer,2
+265,game of life,1,optical cnot,2
+266,larger than life,1,block sorting,2
+267,universal remote,1,burrows-wheeler transform,2
+268,complementary metal oxide semiconductor (cmos) imager,1,context tree weighting method,2
+269,camera,1,vhusc (volume holographic universal storage cache),2
+270,context algorithm,1,disk,2
+271,finite memory,1,volume,2
+272,finite-state machines (fsms),1,complementary metal oxide semiconductor (cmos) imager,2
+273,suffix,1,camera,2
+274,exponentially decaying memory,1,exponentially decaying memory,2
+275,finite-state (fs) machines,1,finite-state (fs) machines,2
+276,fs,1,fs,2
+277,reference cell,1,short-term and sensory memory,2
+278,graph exploration,1,neurophysiological model,2
+279,universal traversal sequences,1,quantitative,2
+280,chalcogeinde based phase change ram (cram),1,quantum space complexity,2
+281,nonvolatile memory (nvm),1,read only memory,2
+282,phase-field models,1,reversible computation,2
+283,memory effects,1,associative memory,2
+284,absorbing sets,1,universal learning networks(ulns),2
+285,universal attractors,1,storage capacity,2
+286,short-term and sensory memory,1,classical theories of gravity,1
+287,neurophysiological model,1,field theories in higher dimensions,1
+288,quantitative,1,turing machine,1
+289,quantum computation,1,neural network,1
+290,1t1mtj,1,nonlinear system identification,1
+291,quantum space complexity,1,linear-in-the-parameters nonlinear,1
+292,read only memory,1,finite-order multivariate normal universal portfolio,1
+293,reversible computation,1,investment wealth,1
+294,associative memory,1,graph exploration,1
+295,universal learning networks(ulns),1,universal traversal sequences,1
+296,storage capacity,1,chalcogeinde based phase change ram (cram),1
+297,gmr,1,nonvolatile memory (nvm),1
+298,giant magnetoresistance,1,,
+299,hspice,1,,
+300,model,1,,
+301,mram spin-value,1,,

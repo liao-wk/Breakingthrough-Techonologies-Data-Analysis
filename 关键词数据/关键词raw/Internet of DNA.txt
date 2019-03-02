@@ -1,0 +1,698 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE Exome sequencing; genome sequencing; Neonatal intensive care unit;
+   Health policy
+ID COST-EFFECTIVENESS; CLINICAL UTILITY; QALYS; CHILDREN; CARE;
+   RECOMMENDATIONS; DISABILITY; STATEMENT; HEALTH
+ER
+
+PT J
+ID CANCER SUSCEPTIBILITY GENE; BREAST-CANCER; OVARIAN-CANCER; SEQUENCE
+   VARIANTS; MISSENSE SUBSTITUTIONS; CLINICAL-SIGNIFICANCE; CLASSIFICATION;
+   RISKS; INFORMATION; MUTATIONS
+ER
+
+PT J
+ID MATCHMAKING
+ER
+
+PT J
+DE Personal genomics; Open consent; Open access; Genome donation; Genome
+   reports; Genome app; Citizen science
+ID DNA METHYLATION; PATHOGENICITY; ASSOCIATION; FRAMEWORK; GENETICS;
+   SEQUENCE; AGE
+ER
+
+PT J
+DE data sharing; genomic knowledge; phenotype ontology; standards; variant
+   annotation; variant representation
+ER
+
+PT J
+DE de novo assembly; SMRT sequencing; GRCh38; human reference genome; human
+   whole-genome sequencing; population sequencing; Swedish population
+ID GENETIC-VARIATION; DISEASE
+ER
+
+PT J
+DE Nursing; Genetics; Genomics; Competency; Education; Genomic resources
+ID HEALTH-PROFESSIONALS; GENETIC EDUCATION; KNOWLEDGE; COMPETENCE;
+   MEDICINE; NURSES; CARE; WORKING; NEEDS
+ER
+
+PT J
+ID PRIVACY RISKS
+ER
+
+PT J
+ID DNA
+ER
+
+PT J
+DE Education; Genetics; Heredity; International Health; Global Health;
+   Nursing Practice; Policy
+ID PRECISION MEDICINE; COMPETENCE; HEALTH; CHALLENGES; EDUCATION; SERVICES;
+   GENETICS; NURSES; CARE
+ER
+
+PT J
+ID HEALTH-CARE; CONSENT; BIG; RECOMMENDATIONS; MEDICINE; CHILDREN; PRIVACY;
+   SCIENCE; SYSTEM
+ER
+
+PT J
+DE Non-binary SNP; Tetra-allelic SNP; AIM-SNP; Forensic genetics
+ID POPULATION-STRUCTURE; SNAPSHOT ASSAY; ANCESTRY; MARKERS; VALIDATION;
+   CHROMOSOME; INFERENCE; PROGRAM; TESTS
+ER
+
+PT J
+DE Multiplexed testing; Barcode free method; Single nucleotide
+   polymorphisms; Expectation maximization algorithm; Next-generation
+   sequencing; Personal Genome Project
+ID OVARIAN-CANCER; WIDE ANALYSIS; VULNERABILITIES; RESPONSES; HEIGHT;
+   LINES; PCR
+ER
+
+PT J
+DE genomic data sharing; genomic data transfer; whole exome sequencing;
+   clinical genomics; interoperability; laboratory workflows
+ID GENOMICS
+ER
+
+PT J
+ID AUTISM SPECTRUM DISORDER; CARDIAC-ARRHYTHMIA; CLINICAL EXOME; CANCER
+   SUSCEPTIBILITY; INCIDENTAL FINDINGS; GENETIC-VARIATION; MEDICAL
+   GENETICS; AMERICAN-COLLEGE; BREAST-CANCER; MUTATIONS
+ER
+
+PT J
+DE Genomics education; Personal genome sequencing; Whole genome sequencing
+ID HEALTH-CARE PROFESSIONALS; NEXT-GENERATION; MEDICINE; CURRICULUM;
+   STUDENTS; PROJECT; SCALE
+ER
+
+PT S
+DE Medicine; Preventive medicine; Public health; Epidemiology; Human Genome
+   Project; Human genetics; Human genome; Genetic medicine; Mutation and
+   polymorphism; Clinical cytogenetics; Genome analysis; Chromosomal and
+   genomic bases of diseases; Genetic bases for human diseases; Molecular
+   basis of genetic diseases; The treatment of genetic diseases;
+   Developmental genetics and birth defects; Cancer genetics and genomics;
+   Risk assessment and genetic counseling; Prenatal diagnosis and
+   screening; Genomics for medicine and personal health; Social and ethical
+   issues in genetic medicine; Human genetics and genetic epidemiology;
+   Statistical human genetics and statistical genetic epidemiology; Applied
+   statistical human genetics
+ID MOLECULAR EPIDEMIOLOGY; SCIENCE
+ER
+
+PT J
+DE Delphi; genetic testing; genomics; personal outcomes; personal utility;
+   utility
+ID PARTICIPANTS; INFORMATION; MEDICINE; PROJECT; CLINSEQ
+ER
+
+PT J
+DE biomedical informatics; community challenge; critical assessment;
+   genome; genome interpretation; open consent; personal genome project
+   (PGP); phenotype
+ID VARIANTS; DISEASES; DATABASE; ASSOCIATION; GENE
+ER
+
+PT J
+ID SNP DATA
+ER
+
+PT J
+DE genomic privacy; ga4gh; beacon; re-identification; genomic data sharing
+ER
+
+PT J
+ID CARE; IMPLEMENTATION; DISORDERS; GENETICS; INFANTS
+ER
+
+PT J
+DE Australia; Big Data; Data Sharing; Ethics Review; Genomics; Global
+   Alliance for Genomics and Health; Harmonisation; Human Research Ethics
+   Committees; International Research; Research Ethics; Research Ethics
+   Committees
+ID PANCREATIC-CANCER; MULTICENTER RESEARCH; CLINICAL-TRIALS; GOVERNANCE;
+   APPROVAL; MEDICINE; POLICIES; SYSTEM
+ER
+
+PT J
+DE Big Data; Data; Ethics; Genomics; Governance; Law; Medicine; Metadata;
+   Regulation; Sociology
+ID GENOMIC MEDICINE; ETHICS
+ER
+
+PT J
+DE Newborn Screening; Whole Genome Sequencing; Exome Sequencing; Public
+   Policy; Ethics; Public Health Genetics
+ID INCIDENTAL FINDINGS; NEXT-GENERATION; ETHICAL-ISSUES; INTELLECTUAL
+   DISABILITY; MEDICAL GENETICISTS; MENDELIAN DISORDERS; SEQUENCE VARIANTS;
+   INFORMED-CONSENT; CLINICAL EXOME; INBORN-ERRORS
+ER
+
+PT J
+ID RANDOMIZED-TRIAL; CLINICAL UTILITY; RISK-ASSESSMENT; DTC GENETICS;
+   DISEASE RISK; CANCER RISK; MEDICINE; EXOME; INDIVIDUALS; INFORMATION
+ER
+
+PT S
+DE privacy; security; genomics; open medical data; open consent; risk
+   analysis; restricted access; de-identification
+ID HEALTH; SCIENCE
+ER
+
+PT J
+DE personalised medicine; big data; data sharing; genomics; cancer;
+   bioethics
+ID CANCER; PRIVACY; RIGHTS
+ER
+
+PT J
+DE survey; genomics; film; attitudes; data sharing; GA4GH
+ID DISEASE; MEDICINE
+ER
+
+PT S
+DE patents; data sharing; sociology of science; model organisms; knowledge
+   commons; science policy
+ID HUMAN-GENOME-PROJECT; EXPRESSED SEQUENCE TAGS; PROTEOMICS DATA RELEASE;
+   INTERNATIONAL SUMMIT; INFORMED-CONSENT; SNP CONSORTIUM; POLICY ISSUES;
+   GENE PATENTS; DNA-SEQUENCE; PRIVACY
+ER
+
+PT J
+ER
+
+PT J
+ID GENOMIC RESEARCH; COMMITTEE; DATABASE
+ER
+
+PT J
+ID MOLECULE SEQUENCING READS; STRUCTURAL VARIATION; DATABASE; TOOL;
+   POLYMORPHISMS; ARCHITECTURE; ASSOCIATION; NEANDERTHAL; POPULATION;
+   ASSEMBLIES
+ER
+
+PT J
+DE Complete genomics; Haplotypes; Long fragment read; LFR; Personal Genome
+   Project; PGP; Whole genome sequencing
+ID DE-NOVO MUTATIONS; VARIANTS; DISEASE; READS; AGE
+ER
+
+PT J
+DE Whole genome sequencing; Informed decision-making; Genomic counseling;
+   Genetic counseling
+ID SCALE; MEDICINE; CANCER; RISK; ERA
+ER
+
+PT J
+ID CONFIDENTIALITY; INFORMATION; ATTITUDES; BIOBANKS; RISKS; CARE
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ID FRAMEWORK; READS
+ER
+
+PT J
+ID POLICY
+ER
+
+PT J
+DE Variome; Richard Cotton; UNESCO; GA4GH
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ID MONOALLELIC GENE-EXPRESSION; RNA-SEQ DATA; HUMAN GENOME; HUMAN-CELLS;
+   ENCODE DATA; TRANSCRIPTION; VARIANTS; FRAMEWORK; HUMANS; IDENTIFICATION
+ER
+
+PT J
+ER
+
+PT J
+DE Whole-genome sequencing; Whole-exome sequencing; Direct-to-consumer
+   genetic testing; Consumer genomics; Human genome research; Consent
+ID GENETIC TESTING COMPANIES; INFORMED-CONSENT
+ER
+
+PT J
+DE Psychoanalysis; disembodiment; terabyte era; Snyderome; epigenomics;
+   personalized genomics
+ID HUMAN-GENOME-PROJECT; EPIGENETICS; SCIENCES; MEDICINE
+ER
+
+PT J
+ID ONTOLOGY; DISEASE
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ID GENETIC RESEARCH; SCIENCE; HEALTH
+ER
+
+PT J
+DE clinical utility; patient perspectives; perceived utility; personal
+   utility; whole-genome sequencing
+ID MEDICINE; PERSPECTIVES; FRAMEWORK
+ER
+
+PT J
+ID ATTITUDES; MEDICINE; RISK
+ER
+
+PT J
+ER
+
+PT J
+ID PREDICTION; DISEASE
+ER
+
+PT J
+DE computational genomics; genomics; big data; APIs; genome informatics
+ID UPDATE
+ER
+
+PT J
+ER
+
+PT J
+DE biomarkers; genomics; personalised medicine; proteomics; targeted
+   therapy
+ID LUNG-CANCER
+ER
+
+PT J
+DE DTC-PGT; Personal genome project; Ethics
+ID PERSONAL GENOME PROJECT; CONSUMER; HEALTH; ISSUES; DNA
+ER
+
+PT J
+ER
+
+PT J
+ID MYELOID-LEUKEMIA GENOME; GENETIC-VARIATION; CANCER GENOME; MUTATIONS;
+   HAPLOTYPE; HISTORY
+ER
+
+PT J
+DE data sharing; ethics; policy; stem cells; translational science
+ER
+
+PT J
+ID ASSOCIATION
+ER
+
+PT J
+ID MULTILOCUS GENOTYPE DATA; DINUCLEOTIDE REPEAT; TANDEM REPEATS; HUMAN
+   GENOME; MICROSATELLITE VARIABILITY; LINKAGE DISEQUILIBRIUM; ALLELE
+   FREQUENCIES; FUNCTIONAL IMPACT; PERSONAL GENOMES; MUTATION-RATES
+ER
+
+PT J
+ID SEQUENCING DATA; DATABASE; FORMAT; WEB; PROGRAM; UCSC
+ER
+
+PT J
+ER
+
+PT J
+ID GENETIC DISCRIMINATION; RESPONSIBLE RESEARCH; RESEARCH ETHICS;
+   SOCIAL-SCIENCE; BIOETHICS; TAIWAN; ATTITUDES; SOCIETY; BIOBANK; CHINA
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE economic evaluation in genomic medicine; ethics in genomics; genethics;
+   genetics education; genome informatics; genome literacy; genomic
+   medicine; pharmacogenomics; public health genomics; whole-genome
+   sequencing
+ID TO-CONSUMER GENOMICS; PERSONALIZED MEDICINE; PHARMACOGENOMICS; HEALTH;
+   CHALLENGES; DATABASES; GENETICS
+ER
+
+PT J
+DE biodiversity; comparative genomics; consortium; evolution; GIGA;
+   invertebrates; metazoa
+ID MARINE NATURAL-PRODUCTS; GENE-EXPRESSION; DRAFT GENOME;
+   TETRANYCHUS-URTICAE; HUMAN MICROBIOME; WHOLE-GENOME; FRESH-WATER;
+   EVOLUTION; PHYLOGENY; CORAL
+ER
+
+PT J
+ER
+
+PT J
+DE indel; insertion; deletion; selection; site frequency spectrum; SNP
+ID MAMMALIAN GENOMES; MUTATION-RATE; GENETIC-VARIATION; EVOLUTION;
+   SEQUENCE; PATTERNS; DATABASE; SIZE; MAP; RECOMBINATION
+ER
+
+PT J
+ID SEQUENCE COMPRESSION; GENOMIC SEQUENCE; GENETIC-VARIATION; ALGORITHM;
+   READS; MAP
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ID DE-NOVO MUTATIONS; INTELLECTUAL DISABILITY; NUCLEOTIDE SUBSTITUTION;
+   AUTISM; SPECTRUM; NETWORK; CURVES; SERVER; EXOMES; MOUSE
+ER
+
+PT J
+ID INFORMED CONSENT; SAMPLES
+ER
+
+PT J
+ID WIDE ASSOCIATION; PROJECT; TRAITS; HUMANS
+ER
+
+PT J
+ID NEGLECTED TROPICAL DISEASES; AMERICAN DIPLOMACY; CIVILIAN POWER;
+   PUBLIC-HEALTH; GLOBAL HEALTH; NEED; 21ST-CENTURY; DISCOVERY; MEDICINE;
+   SOCIETY
+ER
+
+PT J
+ID DE-NOVO MUTATIONS; AUTISM; RISK; VARIANTS; DISEASE; RATES
+ER
+
+PT J
+ID GENE-EXPRESSION; TISSUE; GENOMICS; CANCER; IMPACT; CARCINOMA; PROTOCOL;
+   BIOLOGY
+ER
+
+PT J
+DE UCSC genome browser; bioinformatics; genetics; human genome; genomics;
+   sequencing
+ID STRUCTURAL VARIATION; DATABASE; UPDATE; ELEMENTS; MOUSE; VERTEBRATE;
+   RESOURCES; SEQUENCE; PROJECT; FORMAT
+ER
+
+PT J
+ID DNA; BACTERIOPHAGE; SEQUENCE; GENOMES
+ER
+
+PT J
+ID Y-STR LOCI; CHROMOSOME; PRIVACY; FOUNDERS; PROJECT; SCIENCE
+ER
+
+PT J
+ID BACTERIAL GENOMES; ANNOTATION; PREDICTION; DATABASES; SEQUENCE;
+   COLLECTION; EVOLUTION; PATHWAYS; SOFTWARE; GENES
+ER
+
+PT J
+DE phenomics; personal genomes; personal transcriptomes
+ID OPPORTUNITIES; PHARMACOGENOMICS; CHALLENGES; PHENOTYPES; MEDICINE
+ER
+
+PT J
+ID DATASHAPER APPROACH; TRANSLATION; BIOMARKERS; DATABASES; MEDICINE;
+   GENOMICS; QUALITY; SOCIETY; SCIENCE; ETHICS
+ER
+
+PT J
+ID SEQUENCING DATA; MAPREDUCE; FORMAT
+ER
+
+PT J
+ER
+
+PT J
+DE Human genome database system; Sequence alignment; Sequence compression;
+   Web-based database; DNA sequencing; System integration; Health
+   Information System
+ID DNA; REPRESENTATIONS; SEARCH
+ER
+
+PT J
+ID SPORADIC BREAST-CANCER; LOSS-OF-FUNCTION; WHOLE-GENOME; NUCLEOTIDE
+   POLYMORPHISMS; GENETIC EPIDEMIOLOGY; DISEASE GENES; HAPLOTYPE; VARIANTS;
+   SNPS; ASSOCIATION
+ER
+
+PT J
+ER
+
+PT J
+ID SEQUENCING DATA; DATABASE; IDENTIFICATION; MUTATIONS
+ER
+
+PT J
+DE whole genome sequence; pharmacogenomics; variation; disease associations
+ID NONCODING RNAS; DISEASE; SEQUENCE; DATABASE; PROJECT; EXPLORATION;
+   MUTATIONS; VARIANTS
+ER
+
+PT J
+DE genomics; metabolomics; nutritional therapy; pharmacological therapy
+ER
+
+PT J
+ID PHYSICAL-ANTHROPOLOGY; ANCESTRY; SCIENCE
+ER
+
+PT S
+DE whole-genome sequencing (WGS); exome sequencing; simple nucleotide
+   variation (SNV); structural variation; personal genomics
+ID COPY NUMBER POLYMORPHISM; HAJDU-CHENEY-SYNDROME; HUMAN GENE-EXPRESSION;
+   WHOLE EXOME CAPTURE; DE-NOVO MUTATIONS; STRUCTURAL VARIATION;
+   HEARING-LOSS; MITOCHONDRIAL CARDIOMYOPATHY; MENTAL-RETARDATION;
+   PARKINSON DISEASE
+ER
+
+PT J
+ID R-PACKAGE; ASSOCIATION
+ER
+
+PT J
+ID COMMON GOOD; SOCIETY; SCIENCE
+ER
+
+PT J
+DE allele-specific; ChIP-Seq; networks; RNA-Seq
+ID TRANSCRIPTION FACTOR-BINDING; PROTEIN-DNA INTERACTIONS; HUMAN GENOME;
+   X-CHROMOSOME; MOUSE-BRAIN; POPULATION; HUMANS; IDENTIFICATION;
+   ASSOCIATION; RESOLUTION
+ER
+
+PT J
+DE delivery of genetics care; personalized medicine; omics
+ID GENOME-WIDE ASSOCIATION; MACULAR DEGENERATION; HEPATITIS-C; DISEASE;
+   CANCER; THERAPY; MARKERS; FUTURE; IL28B
+ER
+
+PT J
+DE General intelligence; IQ; HapMap database; SNPlogic; Personal Genome
+   Project
+ID INTELLIGENCE; POLYMORPHISM
+ER
+
+PT J
+DE Human Genome Project; personalization; genetic determinism; privacy
+ER
+
+PT J
+DE ancestral allele; gene annotation; loss of function; nonsense SNP;
+   personal genomics; pseudogene
+ID MESSENGER-RNA; COPY NUMBER; STRUCTURAL VARIATION; POSITIVE SELECTION;
+   SEQUENCE; DISEASE; HUMANS; PROTEIN; MUTATIONS; PROJECT
+ER
+
+PT J
+DE biocuration; biosociality; citizen science; direct-to-consumer genomics;
+   genome interpretation; personal genomics
+ID SCIENCE; PROJECT
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ID HUMAN VARIOME PROJECT
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ID SEQUENCE
+ER
+
+PT S
+DE NGS; Resequence; Short Reads; Alignment; BWT
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ID ALZHEIMERS-DISEASE; APOLIPOPROTEIN-E; CARDIOVASCULAR-DISEASE; SEQUENCE
+   VARIANTS; GENETIC-VARIATION; ALS PATIENTS; PROJECT; GENOTYPE; WARFARIN;
+   CANCER
+ER
+
+PT J
+DE personal genome scanning; direct-to-consumer services; genomic risk
+   assessment
+ID GENETIC RISK; HEALTH; PROFILES; MEDICINE; SCIENCE; TECHNOLOGY; SERVICES;
+   DISEASE; PROJECT; ILLNESS
+ER
+
+PT J
+DE citizen science; DNA sequencing; genetic privacy; informed consent; open
+   consent; Personal Genome Project
+ID PARTICIPATORY RESEARCH; GENETIC PRIVACY; HEALTH; CONFIDENTIALITY;
+   IDENTIFIABILITY; RESEARCHERS; INFORMATION; ANONYMITY
+ER
+
+PT J
+ID CIONA-SAVIGNYI; DATABASE
+ER
+
+PT J
+DE iPS; next generation DNA sequencing; human genome project; personal
+   genomics; gene therapy; gene replacement therapy
+ID HUMAN FIBROBLASTS; INDUCTION
+ER
+
+PT J
+ID PLURIPOTENT STEM-CELLS; X-INACTIVATION; HUMAN GENOME; TRANSCRIPTOMES;
+   POLYMORPHISMS; PROBES; LINES
+ER
+
+PT J
+ER
+
+PT J
+DE Autonomy; Culture; Genome diversity research; Human Genome Diversity
+   Project; Identity; Informed concent
+ID GENETIC RESEARCH; PROJECT; SCIENCE; RISKS
+ER
+
+PT J
+ID COPY-NUMBER VARIATION; FINE-SCALE; RESOLUTION; IDENTIFICATION; TOOL;
+   POLYMORPHISM; ELEMENTS; SNPS; MAP
+ER
+
+PT J
+ER
+
+PT J
+ID GENOME-WIDE ASSOCIATION; MEDICAL-RECORDS; SYSTEMS BIOLOGY; PRIMARY-CARE;
+   INFORMATION; CONFIDENTIALITY; ETHICS; TECHNOLOGIES; DISEASES; NETWORK
+ER
+
+PT J
+ER
+
+PT J
+DE altruism; equity; ethical principles; future perspectives; Human Genome
+   Project; personalized medicine; Personal Genome Project;
+   pharmacogenomics; research ethics
+ID CLINICAL-PRACTICE; GENETIC RESEARCH; SOCIETY; SCIENCE; PHARMACOGENOMICS;
+   DATABASES; THERAPY; CANCER; EQUITY; CALL
+ER
+
+PT J
+DE strategic international alliances; nutrigenomics; gene-nutrient
+   interactions; health diaparities
+ID DIABETES-RELATED TRAITS; CORONARY-HEART-DISEASE; GENETIC ASSOCIATION;
+   POPULATION STRATIFICATION; CARBOHYDRATE INGESTION; COMPLEX DISEASES;
+   IMMUNE FUNCTION; HAPMAP PROJECT; MESSENGER-RNA; DIETARY FIBER
+ER
+
+PT J
+DE sequencing; single molecule; direct linear analysis; single molecule
+   scanning; cycle sequencing; polymerase reading; exonuclease; sequencing;
+   nanopore; personal genomics; US$ 1000 genome
+ID REPLACEABLE LINEAR POLYACRYLAMIDE; RESONANCE ENERGY-TRANSFER;
+   SINGLE-MOLECULE DETECTION; INDUCED FLUORESCENCE DETECTION; CAPILLARY
+   GEL-ELECTROPHORESIS; INTERNATIONAL HAPMAP PROJECT; SELF-ASSEMBLED
+   MONOLAYERS; BACTERIOPHAGE-LAMBDA DNA; HUMAN-GENOME; NUCLEOTIDE-SEQUENCE
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ID WHOLE-GENOME AMPLIFICATION; SINGLE DNA-MOLECULES; POLYMERASE COLONIES;
+   20,000 GENERATIONS; ESCHERICHIA-COLI; NUCLEIC-ACIDS; GENE; EXPRESSION;
+   PROJECT; ARRAYS
+ER
+
+PT J
+DE genome research; medical records; human subject; ELSI (ethical, legal,
+   and social issues); nature of science
+ER
+
+PT J
+ID GENETICS
+ER
+
+PT B
+ER
+
+PT J
+ER
+
+PT J
+DE personal computer; Linux operating system; Phred/Phrap/Consed software;
+   Blast software; bioinformatics; large-scale DNA sequencing
+ID DATABASE
+ER
+
+PT J
+DE genetic testing; eugenics; Human Genome Project; ethical decision-making
+ID GENOME
+ER
+
+EF

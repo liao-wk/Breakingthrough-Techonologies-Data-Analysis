@@ -1,0 +1,404 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,epigenetics,130,epigenetics,417
+1,dna methylation,31,dna methylation,91
+2,methylation,11,methylation,39
+3,chromatin,9,chromatin,33
+4,genetics,8,genetics,30
+5,dna,7,dna,25
+6,histone modification,6,histone modification,20
+7,environment,5,cancer,19
+8,histone,5,histones,19
+9,cancer,5,environment,17
+10,histones,5,schizophrenia,16
+11,schizophrenia,4,histone,15
+12,imprinting,4,acetylation,15
+13,acetylation,4,imprinting,13
+14,aging,3,aging,12
+15,epigenesis,3,evolution,12
+16,waddington,3,nutrition,12
+17,histone modifications,3,biomarkers,12
+18,microrna,3,epigenesis,10
+19,mitochondria,3,waddington,10
+20,evolution,3,mitochondria,10
+21,reproduction,3,histone modifications,9
+22,behavioral epigenetics,3,microrna,9
+23,imprinting disorders,3,reproduction,9
+24,nutrition,3,imprinting disorders,9
+25,biomarkers,3,lamarck,9
+26,plasticity,2,plasticity,8
+27,responsibility,2,responsibility,8
+28,chronic kidney disease,2,review,8
+29,review,2,behavioral epigenetics,8
+30,foetal programming,2,stress,8
+31,noncoding rna,2,stem cells,8
+32,gene expression,2,noncoding rna,7
+33,development,2,gene expression,7
+34,pathogenesis,2,development,7
+35,association,2,hepatocellular carcinoma,7
+36,fibrosis,2,cancer epigenetics,7
+37,hepatocellular carcinoma,2,maternal nutrition,7
+38,cancer epigenetics,2,diet,7
+39,maternal nutrition,2,longevity,7
+40,diet,2,cytokines,7
+41,longevity,2,gene-centrism,7
+42,stress,2,foetal programming,6
+43,cytokines,2,fibrosis,6
+44,lamarck,2,bet,6
+45,stem cells,2,brd2,6
+46,gene-environment interaction,2,h2a.z,6
+47,gene-centrism,2,histone variants,6
+48,leukemia,1,macroh2a,6
+49,non coding rna,1,behaviour,6
+50,developmental programming,1,gender,6
+51,biopolitics,1,butler,6
+52,privacy,1,embodiment,6
+53,equity,1,culture,6
+54,biosocial,1,chronic kidney disease,5
+55,pictorial representations,1,arid1a,5
+56,assisted reproduction,1,ovarian cancer,5
+57,hypertension,1,hdac,5
+58,in vitro,1,ezh2,5
+59,environments,1,swi/snf,5
+60,prenatal interventions,1,pathogenesis,5
+61,clinical trials,1,atherosclerosis,5
+62,forensic science,1,methytation,5
+63,forensic genetics,1,micro rna,5
+64,natural compounds,1,prevention,5
+65,histone acetylization,1,translation,5
+66,epigenetic clock,1,substance use,5
+67,biological aging,1,mental,5
+68,genomics,1,prokaryotes,5
+69,subtypes,1,eukaryotes,5
+70,transcriptome,1,mammals,5
+71,pediatric nephrology,1,diseases,5
+72,art,1,darwin,5
+73,epigenetic,1,natural selection,5
+74,frozen embryo transfer,1,curriculum,5
+75,crypreservation,1,instruction,5
+76,birth weight,1,technology,5
+77,narrative,1,gene-environment interaction,5
+78,childhood asthma,1,promise,5
+79,maternal exposure,1,novelty,5
+80,bioinformatics,1,social science,5
+81,ecological epigenetics,1,anorexia,5
+82,stress experiments,1,dopamine,5
+83,mitochondrial dna,1,drd2,5
+84,stem cell,1,dat1,5
+85,neuroimaging epigenetics,1,proopiomelanocortin,5
+86,cognitive neuroscience,1,diagnostics,5
+87,neuroimaging,1,preclinical,5
+88,fmri,1,clinical,5
+89,asthma,1,drug,5
+90,dna-damage,1,homeoproteins,5
+91,congenital hypothyroidism,1,otx2,5
+92,thyroid dysgenesis,1,axonal transport,5
+93,thyroid ectopy,1,trans-synaptic,5
+94,machine learning,1,exosomes,5
+95,precision medicine,1,pvs,5
+96,deep learning,1,developmental programming,4
+97,arid1a,1,biopolitics,4
+98,ovarian cancer,1,privacy,4
+99,hdac,1,equity,4
+100,ezh2,1,biosocial,4
+101,swi/snf,1,epigenetic clock,4
+102,neurogenesis,1,biological aging,4
+103,hsv-1,1,art,4
+104,hippocampus,1,epigenetic,4
+105,epigenetics mechanisms,1,frozen embryo transfer,4
+106,concepts of epigenetics,1,crypreservation,4
+107,embryology and,1,birth weight,4
+108,biology,1,neurogenesis,4
+109,early intervention,1,hsv-1,4
+110,child,1,hippocampus,4
+111,personalized nutrition,1,epigenetics mechanisms,4
+112,congenital heart disease,1,biology,4
+113,ciliates,1,early intervention,4
+114,cortical inheritance,1,child,4
+115,dna processing,1,5hmc,4
+116,mating type,1,alzheimer's disease,4
+117,developmental systems,1,diabetes,4
+118,nature-nurture concept,1,non-coding rna,4
+119,neo-darwinism,1,lipid metabolism,4
+120,punctuated equilibria,1,oncogenesis,4
+121,relational developmental systems,1,lsf,4
+122,reductionism,1,telemedicine,4
+123,coaction,1,telegenetics,4
+124,chinese medicine,1,teleepigenetics,4
+125,health and disease,1,obesity,4
+126,microbiome,1,geroprotectors,4
+127,heart disease,1,post-mortem,4
+128,histone methyltransferase,1,morphology,4
+129,inhibitor,1,proteomics,4
+130,5hmc,1,biology of cancer,4
+131,africa,1,nutri-epigenetics,4
+132,'hard' inheritance,1,ms-aflp,4
+133,representation,1,bisulfite sequencing,4
+134,science and society,1,local,4
+135,early-life stress,1,learning,4
+136,alzheimer's disease,1,physical exercise,4
+137,diabetes,1,school staff,4
+138,autoimmune thyroid diseases,1,autism,4
+139,drug discovery,1,neuroimmune interactions,4
+140,non-coding rna,1,monocytes,4
+141,lipid metabolism,1,darwinism,4
+142,functional genomics,1,'the four year old girl',4
+143,translational regulation,1,poetry,4
+144,oncogenesis,1,michael byers,4
+145,lsf,1,amateur,4
+146,social psychiatry,1,cell biology,4
+147,telemedicine,1,chemical biology,4
+148,telegenetics,1,structure,4
+149,teleepigenetics,1,abnormality,4
+150,methyl donors,1,biological plasticity,4
+151,developmental,1,race,4
+152,obesity,1,hic,4
+153,thyroid cancer,1,proximity ligation,4
+154,nutrigenetics,1,genome organization,4
+155,geroprotectors,1,alzheimer dementia,4
+156,epigenetic inheritance,1,cognition,4
+157,exogenetic inheritance,1,epigenetics diet,4
+158,placenta,1,nutraceuticals,4
+159,transport,1,imaginaries,4
+160,children,1,molecularization,4
+161,therapeutic pathways,1,bone,4
+162,post-mortem,1,homocysteine,4
+163,morphology,1,differentiation,4
+164,proteomics,1,regeneration,4
+165,biology of cancer,1,reprogramming,4
+166,nutri-epigenetics,1,adolescence,4
+167,cardiac muscle,1,risk,4
+168,protein kinases,1,brain networks,4
+169,cnvs,1,oral health,4
+170,asthma - mechanism,1,dentistry,4
+171,bipolar disorder,1,meaney,4
+172,major depressive disorder,1,neuroepigenetics,4
+173,mood disorders,1,postgenomics,4
+174,transgenerational epigenetics,1,checkpoint blockade,4
+175,cvd,1,immune evasion,4
+176,igf,1,immunotherapy,4
+177,chromatin-memory,1,pd-1,4
+178,transcription factors,1,gene,4
+179,neo-lamarckism,1,memory,4
+180,epitherapeutics,1,molecularisation,4
+181,medicine,1,ethnography,4
+182,ms-aflp,1,embedded body,4
+183,bisulfite sequencing,1,biosociality,4
+184,local,1,history,4
+185,early life stress,1,epigenetic landscape,4
+186,translational science,1,canalization,4
+187,atherosclerosis,1,biosensors,4
+188,methytation,1,enzymes,4
+189,micro rna,1,fret,4
+190,synthase,1,nanoparticles,4
+191,lipid-lowering drugs,1,mirna,4
+192,long noncoding rnas,1,presbycusis,4
+193,bet,1,hair cells,4
+194,brd2,1,organ of corti,4
+195,h2a.z,1,biomarker,4
+196,histone variants,1,cancer detection,4
+197,macroh2a,1,genomic context,4
+198,prevention,1,pictorial representations,3
+199,translation,1,assisted reproduction,3
+200,substance use,1,hypertension,3
+201,mental,1,in vitro,3
+202,lupus,1,environments,3
+203,aid,1,prenatal interventions,3
+204,b cell,1,clinical trials,3
+205,class switch dna recombination,1,forensic science,3
+206,breast cancer,1,forensic genetics,3
+207,iran,1,natural compounds,3
+208,multiple sclerosis,1,histone acetylization,3
+209,methylocytosine,1,genomics,3
+210,prokaryotes,1,subtypes,3
+211,eukaryotes,1,transcriptome,3
+212,mammals,1,narrative,3
+213,diseases,1,childhood asthma,3
+214,escherichia-coli,1,maternal exposure,3
+215,developmental trajectory,1,bioinformatics,3
+216,early developmental programming,1,ecological epigenetics,3
+217,chronic disease,1,stress experiments,3
+218,global health,1,mitochondrial dna,3
+219,migration,1,stem cell,3
+220,learning,1,neuroimaging epigenetics,3
+221,physical exercise,1,cognitive neuroscience,3
+222,school staff,1,neuroimaging,3
+223,identity,1,fmri,3
+224,inheritance,1,machine learning,3
+225,intergenerational responsibility,1,precision medicine,3
+226,systemic sclerosis,1,deep learning,3
+227,autism,1,concepts of epigenetics,3
+228,neuroimmune interactions,1,embryology and,3
+229,monocytes,1,congenital heart disease,3
+230,mitochondrial epigenetics,1,ciliates,3
+231,mitoepigenetics,1,cortical inheritance,3
+232,darwinism,1,dna processing,3
+233,epigenotype,1,mating type,3
+234,modelling,1,neo-darwinism,3
+235,systems biology,1,punctuated equilibria,3
+236,darwin,1,relational developmental systems,3
+237,natural selection,1,reductionism,3
+238,sirtuins,1,coaction,3
+239,spondyloarthritis,1,chinese medicine,3
+240,behaviour,1,heart disease,3
+241,gender,1,histone methyltransferase,3
+242,butler,1,inhibitor,3
+243,embodiment,1,africa,3
+244,culture,1,'hard' inheritance,3
+245,'the four year old girl',1,representation,3
+246,poetry,1,science and society,3
+247,michael byers,1,autoimmune thyroid diseases,3
+248,amateur,1,drug discovery,3
+249,plasmonic biosensors,1,methyl donors,3
+250,gold nanostars,1,developmental,3
+251,peptide nucleic,1,epigenetic inheritance,3
+252,epigenetics revolution,1,exogenetic inheritance,3
+253,epigenetic determinism,1,placenta,3
+254,genetic determinism,1,transport,3
+255,media,1,children,3
+256,metaphors,1,therapeutic pathways,3
+257,synthetic epigenetics,1,cardiac muscle,3
+258,targeted epigenome modification,1,protein kinases,3
+259,zinc fingers,1,bipolar disorder,3
+260,neonatal intensive care unit,1,major depressive disorder,3
+261,preterm birth,1,mood disorders,3
+262,cell biology,1,transgenerational epigenetics,3
+263,chemical biology,1,cvd,3
+264,structure,1,igf,3
+265,kidney cancer,1,chromatin-memory,3
+266,abnormality,1,transcription factors,3
+267,biological plasticity,1,neo-lamarckism,3
+268,race,1,early life stress,3
+269,hic,1,translational science,3
+270,proximity ligation,1,aid,3
+271,genome organization,1,b cell,3
+272,alzheimer dementia,1,class switch dna recombination,3
+273,cognition,1,breast cancer,3
+274,epigenetics diet,1,iran,3
+275,nutraceuticals,1,multiple sclerosis,3
+276,neuroscience,1,methylocytosine,3
+277,expectations,1,chronic disease,3
+278,critique,1,global health,3
+279,imaginaries,1,migration,3
+280,molecularization,1,identity,3
+281,bone,1,inheritance,3
+282,homocysteine,1,intergenerational responsibility,3
+283,lncrnas,1,systemic sclerosis,3
+284,transcriptional repression,1,mitochondrial epigenetics,3
+285,analysis,1,mitoepigenetics,3
+286,gene-expression,1,epigenotype,3
+287,macrophages,1,modelling,3
+288,toll-like receptors,1,systems biology,3
+289,differentiation,1,sirtuins,3
+290,regeneration,1,spondyloarthritis,3
+291,reprogramming,1,plasmonic biosensors,3
+292,curriculum,1,gold nanostars,3
+293,instruction,1,peptide nucleic,3
+294,technology,1,kidney cancer,3
+295,adolescence,1,neuroscience,3
+296,risk,1,expectations,3
+297,brain networks,1,critique,3
+298,oral health,1,lncrnas,3
+299,dentistry,1,transcriptional repression,3
+300,meaney,1,memigenetics,3
+301,neuroepigenetics,1,cell memory,3
+302,postgenomics,1,definition of epigenetics,3
+303,chemical safety,1,exercise epigenetics,3
+304,dna methylation micro rna,1,maternal environment,3
+305,memigenetics,1,offspring,3
+306,cell memory,1,adaptive evolution,3
+307,definition of epigenetics,1,domestication,3
+308,"3,6-dihydrodeoxycytidine derivatives",1,psychobiology,3
+309,dna demethylation,1,cultural epigenetics,3
+310,exercise epigenetics,1,socioeconomic status,3
+311,maternal environment,1,life,3
+312,offspring,1,environmental factors,3
+313,checkpoint blockade,1,gene transcription,3
+314,immune evasion,1,inflammatory bowel disease,3
+315,immunotherapy,1,chromosomal structure,3
+316,pd-1,1,colloidologist,3
+317,ecology,1,lysenko,3
+318,phenotypic variation,1,companion diagnostics,3
+319,promise,1,loss of imprinting,3
+320,novelty,1,next-generation,3
+321,social science,1,stress responsivity,3
+322,multi-stability,1,behavior,3
+323,steady state,1,drosophila,3
+324,anorexia,1,demethylation,3
+325,dopamine,1,dna modification,3
+326,drd2,1,mitochondrial dna copy number,3
+327,dat1,1,mtdna depletion,3
+328,proopiomelanocortin,1,chromosomal silencing,3
+329,diagnostics,1,acid phosphatase,3
+330,preclinical,1,dominance,3
+331,clinical,1,drosophila malerkotliana,3
+332,drug,1,dynamic systems,3
+333,adaptive evolution,1,gene regulation,3
+334,domestication,1,operon model,3
+335,psychobiology,1,prion,3
+336,cultural epigenetics,1,post-genomic,3
+337,gene,1,regulatory mechanisms,3
+338,memory,1,polycomb,3
+339,socioeconomic status,1,trithorax,3
+340,life,1,leukemia,2
+341,homeoproteins,1,non coding rna,2
+342,otx2,1,pediatric nephrology,2
+343,axonal transport,1,asthma,2
+344,trans-synaptic,1,dna-damage,2
+345,exosomes,1,congenital hypothyroidism,2
+346,pvs,1,thyroid dysgenesis,2
+347,environmental factors,1,thyroid ectopy,2
+348,gene transcription,1,personalized nutrition,2
+349,inflammatory bowel disease,1,developmental systems,2
+350,hydroxamic acid,1,nature-nurture concept,2
+351,developmental psychopathology,1,health and disease,2
+352,phases of development,1,microbiome,2
+353,molecularisation,1,early-life stress,2
+354,ethnography,1,functional genomics,2
+355,embedded body,1,translational regulation,2
+356,biosociality,1,social psychiatry,2
+357,chromosomal structure,1,thyroid cancer,2
+358,colloidologist,1,nutrigenetics,2
+359,lysenko,1,cnvs,2
+360,history,1,asthma - mechanism,2
+361,epigenetic landscape,1,epitherapeutics,2
+362,canalization,1,medicine,2
+363,companion diagnostics,1,synthase,2
+364,loss of imprinting,1,lipid-lowering drugs,2
+365,next-generation,1,long noncoding rnas,2
+366,biosensors,1,escherichia-coli,2
+367,enzymes,1,developmental trajectory,2
+368,fret,1,early developmental programming,2
+369,nanoparticles,1,epigenetics revolution,2
+370,stress responsivity,1,epigenetic determinism,2
+371,behavior,1,genetic determinism,2
+372,drosophila,1,media,2
+373,demethylation,1,metaphors,2
+374,dna modification,1,synthetic epigenetics,2
+375,neuropsychiatric,1,targeted epigenome modification,2
+376,neural networks,1,zinc fingers,2
+377,epimutations,1,neonatal intensive care unit,2
+378,mitochondrial dna copy number,1,preterm birth,2
+379,mtdna depletion,1,analysis,2
+380,mirna,1,gene-expression,2
+381,presbycusis,1,macrophages,2
+382,hair cells,1,toll-like receptors,2
+383,organ of corti,1,chemical safety,2
+384,gene silencing,1,dna methylation micro rna,2
+385,inheritable changes in gene expression,1,"3,6-dihydrodeoxycytidine derivatives",2
+386,chromosomal silencing,1,dna demethylation,2
+387,biomarker,1,ecology,2
+388,cancer detection,1,phenotypic variation,2
+389,meeting review,1,multi-stability,2
+390,acid phosphatase,1,steady state,2
+391,dominance,1,developmental psychopathology,2
+392,drosophila malerkotliana,1,phases of development,2
+393,dynamic systems,1,neuropsychiatric,2
+394,gene regulation,1,neural networks,2
+395,operon model,1,epimutations,2
+396,prion,1,gene silencing,2
+397,post-genomic,1,inheritable changes in gene expression,2
+398,regulatory mechanisms,1,meeting review,2
+399,genomic context,1,weismannism,2
+400,weismannism,1,association,1
+401,polycomb,1,lupus,1
+402,trithorax,1,,

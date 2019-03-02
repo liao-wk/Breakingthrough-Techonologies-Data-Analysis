@@ -1,0 +1,1653 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE AlGaN/GaN; High-Electron-Mobility Transistors (HEMTs); Graphene; Thermal
+   Management
+ID FIELD-EFFECT TRANSISTORS; BOUNDARY RESISTANCE; GAN; TEMPERATURE; HEMTS;
+   PERFORMANCE; SUBSTRATE
+ER
+
+PT J
+DE graphene field-effect transistors; polar organic dielectrics; flexible
+   graphene-based sensor technology
+ID BIOMEDICAL APPLICATIONS; ION GEL; LIQUIDS; LAYER
+ER
+
+PT J
+DE Graphene; Hysteresis effect; Amorphous silicon
+ID GLOW-DISCHARGE; FILMS; TEMPERATURE; SPECTRA
+ER
+
+PT J
+DE Electrochemically exfoliated graphene; Ferroelectric; Field-effect
+   transistor; Memory; Graphene
+ID FILMS; ELECTRONICS; MEMORY; SEMICONDUCTORS; TRANSPARENT; PHOTONICS;
+   POLYMERS; DEVICES
+ER
+
+PT J
+DE MEMS; acousto-electric effect; lithium niobate film; graphene
+   transistor; surface acoustic wave
+ID BODY TRANSISTOR; WAVE; MODE; TECHNOLOGY; FREQUENCY; RESONATORS;
+   PLATFORM; SILICON; SENSOR
+ER
+
+PT J
+ID THIN-FILM TRANSISTORS; CHARGE-TRANSPORT; PERFORMANCE; CONTACT;
+   MONOLAYER; DEVICES; POTENTIOMETRY; ENERGETICS; MOBILITY; AMBIENT
+ER
+
+PT J
+DE defect states; gas adsorption; graphene transistors; label free sensing;
+   scattering effects
+ID SENSORS
+ER
+
+PT J
+DE Graphene Nanomesh; Electron-Hole Puddles; Graphene Antidot Lattice;
+   Field Effect Transistors; GNMFETs; NEGF
+ID BALLISTIC TRANSPORT; SCALE
+ER
+
+PT J
+DE graphene field effect transistor; Dirac point; Fermi velocity;
+   asymmetric injection; intrinsic carrier mobility; short-range scattering
+ID CONTACT RESISTANCE; REALIZATION; FERMIONS; LIMIT
+ER
+
+PT J
+ID DETECTORS
+ER
+
+PT J
+DE GFET; graphene; graphene receiver; W-band
+ID FET
+ER
+
+PT J
+DE Graphene; graphene field effect transistors; infrared detectors;
+   microwave transistors
+ID 2-DIMENSIONAL MATERIALS; HYBRID SYSTEMS; NANOCOMPOSITES; CONTACT;
+   DEVICES
+ER
+
+PT J
+DE ambipolar transistors; frequency doublers; graphene/MoTe2
+   heterostructures; output phase control; vertical transistors
+ID SCHOTTKY-BARRIER; WAFER-SCALE; LOGIC-CIRCUITS; HETEROSTRUCTURES; GATE;
+   FREQUENCY; CARBON; ELECTRONICS; MODULATION; BARRISTOR
+ER
+
+PT J
+DE Air stability; Charge carrier mobility; Field effect transistor;
+   Graphene; Polythiophene
+ID SINGLE-LAYER GRAPHENE; GAS PERMEATION; TOP ELECTRODES; BARRIER FILMS;
+   SOLAR-CELLS; PERFORMANCE; ENCAPSULATION
+ER
+
+PT J
+DE Graphdiyne; Graphene; Heterojunction; Resonant tunneling transistor;
+   DFT-NEGF
+ID DEVICE
+ER
+
+PT J
+DE Double-gate; Field-effect transistor; Graphene; Transconductance
+ID MOBILITY
+ER
+
+PT J
+DE graphene; high-pressure annealing; oxygen; field-effect transistor
+ID CHEMICAL-VAPOR-DEPOSITION; SELF-ASSEMBLED MONOLAYERS; EPITAXIAL
+   GRAPHENE; HIGH-QUALITY; LARGE-AREA; FUNCTIONALIZATION; PHOTODETECTORS;
+   TEMPERATURE; DIELECTRICS; SENSORS
+ER
+
+PT J
+DE ambipolar transistor; chemical and biological sensors; device modeling;
+   frequency response; small-signal model; electrophysiology; graphene
+   field-effect transistor (GFET); graphene electrolyte-gated field-effect
+   transistor (EGFET)
+ID CURRENT-VOLTAGE MODEL; IMPEDANCE SPECTROSCOPY; BIOSENSORS; CAPACITANCE;
+   FILMS; OXIDE; NOSE
+ER
+
+PT J
+DE Graphene; Raman spectroscopy; Field effect transistor; Contact
+   resistance; Various metals
+ID ELECTRONIC-STRUCTURE; LAYER GRAPHENE; SCATTERING; SURFACES; TRANSISTORS;
+   RESISTANCE; SCHOTTKY; FILMS; MODE
+ER
+
+PT J
+DE field effect transistors; graphene scaffold; high-k dielectrics;
+   metal-organic oligomer; p-type characteristic
+ID CHEMICAL-VAPOR-DEPOSITION; LARGE-AREA; DIELECTRIC-CONSTANT;
+   DOUBLE-LAYERS; HIGH-QUALITY; FILMS; OXIDE; TRANSPARENT; PERFORMANCE;
+   DEVICES
+ER
+
+PT J
+DE Artificially stacked bilayer graphene; chemical vapor deposited
+   graphene; inverters; voltage gain
+ID CHEMICAL-VAPOR-DEPOSITION; TRANSISTORS
+ER
+
+PT J
+ID SILICON NANOWIRE TRANSISTORS; SCHOTTKY-BARRIER MOSFETS; MOS2
+   TRANSISTORS; MONOLAYER MOS2; GRAPHENE; PERFORMANCE; GATE; SOI;
+   ELECTRONICS; DEVICES
+ER
+
+PT J
+ID NITROGEN-DOPED GRAPHENE; FIELD-EFFECT TRANSISTOR; SPIN-VALVE;
+   RAMAN-SPECTROSCOPY; WEAK-LOCALIZATION; GROWN GRAPHENE; CARBON;
+   TEMPERATURE; IRRADIATION; EVOLUTION
+ER
+
+PT J
+DE graphene; WS2; Al2O3 gating substrate; field effect transistors
+ID ATOMIC LAYER DEPOSITION; GRAPHENE TRANSISTORS; DIELECTRICS; GATE; SHEETS
+ER
+
+PT J
+DE Carbon nanotubes (CNTs); CNT field-effect transistor (CNTFET);
+   field-effect transistors; graphene; Schottky barriers
+ID THIN-FILM; TRANSPARENT ELECTRODES; ARRAYS
+ER
+
+PT J
+ID EFFECT TRANSISTOR; SINGLE-CRYSTAL
+ER
+
+PT J
+DE graphene; transistor; thermal anneal; boron nitride; photoresist
+ER
+
+PT J
+DE Detectors; field effect transistor (FET); graphene; submillimeter wave
+   measurements; submillimeter wave transistors; terahertz (THz)
+ID POWER DETECTORS; PERFORMANCE; QUALITY; MODEL; CMOS
+ER
+
+PT J
+DE Bilayer graphene; field-effect transistors; frequency; parasitism
+ID MAXIMUM OSCILLATION FREQUENCY; CURRENT SATURATION; GATE
+ER
+
+PT J
+DE Graphene; Electronic properties; Field effect transistor; Contact
+   resistance; Metal/graphene interface
+ID CHEMICAL-VAPOR-DEPOSITION; TRANSITION-METAL DICHALCOGENIDES;
+   SINGLE-LAYER GRAPHENE; SPIN-VALVE DEVICES; EFFECT TRANSISTORS; BILAYER
+   GRAPHENE; ROOM-TEMPERATURE; 2-DIMENSIONAL MATERIALS; CARBON NANOTUBES;
+   MOS2 TRANSISTORS
+ER
+
+PT J
+ID EPITAXIAL GRAPHENE; CIRCUITS; GATE; FET
+ER
+
+PT J
+DE Graphene; Junction transistor
+ID BILAYER GRAPHENE; CONTACT RESISTANCE; VOLTAGE-AMPLIFIER; ELECTRIC-FIELD;
+   HIGH-FREQUENCY; CARBON; FILMS; NANORIBBONS; PERFORMANCE; DEVICE
+ER
+
+PT J
+DE optical lithography; graphene-based transistors; contact resistance; PS
+   film; complementary metal-oxide-semiconductor
+ID SURFACE; TRANSISTORS; MONOLAYER; QUALITY; DEVICES
+ER
+
+PT J
+ID ORGANIC ELECTROCHEMICAL TRANSISTORS; LIQUID-PHASE EXFOLIATION;
+   LABEL-FREE DETECTION; CVD-GROWN GRAPHENE; OXIDE-FILMS; DNA
+   HYBRIDIZATION; LARGE-AREA; GRAPHITE; SENSORS; NANOSHEETS
+ER
+
+PT J
+DE Subthreshold slope; graphene transistor; graphene tunnel transistor; hBN
+   tunneling barrier
+ID FIELD-EFFECT TRANSISTOR; CIRCUIT-DESIGN; HETEROSTRUCTURES
+ER
+
+PT J
+DE Composite materials; Carbon materials; Electrical properties; Thin
+   films; Electronic materials
+ID THIN-FILM TRANSISTORS; ZNO
+ER
+
+PT J
+DE graphene; solid carbon source; graphene-dielectric bi-layer;
+   polydimethylsiloxane; organic field-effect transistor
+ID FIELD-EFFECT TRANSISTORS; FEW-LAYER GRAPHENE; CARBON NANOTUBES;
+   CRYSTALS; FILMS; NANOSTRUCTURES; ELECTRODES; MONOLAYERS; NICKEL
+ER
+
+PT J
+DE Graphene; Doping; Developer
+ID TEMPERATURE; TRANSISTORS; FILMS
+ER
+
+PT J
+DE Analog applications; bilayer graphene nanoribbon; cutoff frequency;
+   digital applications; intrinsic gain; NEGF; ON/ OFF current ratio;
+   tunnel FET
+ID FIELD-EFFECT TRANSISTORS; CMOS LOGIC
+ER
+
+PT J
+DE graphene; field-effect transistor; electrolyte-gated device; frequency
+   response; graphene/electrolyte interface
+ID CHEMICAL-VAPOR-DEPOSITION; CAPACITANCE; FILMS; SUPERCAPACITORS; OXIDE
+ER
+
+PT J
+DE graphene; field effect transistor; microwave measurements; lithium
+   niobate; ferroelectric substrates; cut off frequency
+ID RAMAN-SPECTROSCOPY; PERFORMANCE; TRANSPORT
+ER
+
+PT J
+DE two-dimensional material; graphene; field-effect transistor; compact
+   model
+ID THIN-FILM TRANSISTORS; SHORT-CIRCUIT CURRENT; EPITAXIAL GRAPHENE;
+   ELECTRIC-FIELD; 2D MATERIALS; SOLAR-CELLS; FETS; MOSFET; TRANSPORT;
+   SILICON
+ER
+
+PT J
+DE Graphene; Thermal stability; Raman spectrum; Graphene transistors; High
+   mobility; Low defects
+ID DEPOSITION; GROWTH
+ER
+
+PT J
+DE graphene; thin film transistor; source drain electrode; oxide
+   semiconductor
+ID TITANIUM; OXIDATION; DISPLAYS; SURFACE; OXYGEN; ZN
+ER
+
+PT J
+ID CHEMICAL-VAPOR-DEPOSITION; SINGLE-LAYER GRAPHENE; ORGANIC
+   ELECTROCHEMICAL TRANSISTORS; ELECTRON-TRANSFER CHEMISTRY; MODIFIED GATE
+   ELECTRODES; NITROGEN-DOPED GRAPHENE; DEBYE-SCREENING LENGTH; LABEL-FREE;
+   QUANTUM CAPACITANCE; SILICON NANOWIRE
+ER
+
+PT J
+DE Analog RF devices; graphene-based devices; modeling
+ID HOT-ELECTRON TRANSISTORS; CURRENT GAIN; SIMULATION; TIO2; DIELECTRICS;
+   CELLS
+ER
+
+PT J
+DE nanopatterned graphene; field-effect transistor; photodetector
+ID FIELD-EFFECT TRANSISTORS; 2-DIMENSIONAL MATERIALS; TRANSPORT; NANOMESH
+ER
+
+PT S
+ID ELECTRONICS
+ER
+
+PT S
+DE Biosensor; GNR; GFET; CHEMFET; ISFET
+ID FIELD-EFFECT TRANSISTORS; BIOSENSORS; NANOTUBES; BANDGAP
+ER
+
+PT S
+ER
+
+PT S
+DE Irradiation Effect; Graphene FET; Oxide-Graphene Interface; I-V
+   Characteristics
+ID DEVICES; MODEL
+ER
+
+PT J
+DE Graphene; carbon nanotubes; transistors; neural probes; crumpling
+ID THIN-FILMS; GRAPHENE; ELECTRONICS; STIMULATION; INTERFACES;
+   MULTIFUNCTIONALITY; MICROELECTRODES; CRACKING; STRESS; SHEETS
+ER
+
+PT J
+ID CAPACITIVE ENERGY-STORAGE; HIGH-QUALITY; FILMS; SUPERCAPACITORS;
+   TRANSPORT; DENSITY
+ER
+
+PT J
+DE nanoimprint lithography; graphene; nanoribbon; transistor
+ID LAYER GRAPHENE; NANOIMPRINT; TRANSISTORS; FILMS
+ER
+
+PT J
+DE Graphene; Field effect transistor; Carrier generation; Modelling; Monte
+   Carlo; Graphene photo detector
+ER
+
+PT J
+DE graphene; field effect transistor; clean surface
+ID SUSPENDED GRAPHENE; RAMAN-SPECTROSCOPY; SCATTERING; SENSORS
+ER
+
+PT J
+ID THIN-FILM TRANSISTORS; SYNAPTIC TRANSISTOR; PYRAMIDAL NEURONS;
+   NEURAL-NETWORK; SYNAPSES; TRANSPARENT; COMPUTATION; PLASTICITY;
+   MEMRISTORS; COLLISION
+ER
+
+PT J
+ID FILMS
+ER
+
+PT J
+DE graphene; polydimethylsiloxane; hydrophobizer; transistor; interface
+   engineering
+ID SELF-ASSEMBLED MONOLAYERS; FIELD-EFFECT TRANSISTORS; ELECTRONICS;
+   CHEMISTRY
+ER
+
+PT J
+DE Graphene; Generation Rate; Field Effect Transistors; Breakdown Voltage;
+   Edge Effect
+ER
+
+PT J
+DE graphene; flexible electronics; bioelectronics; biosensors
+ID FIELD-EFFECT TRANSISTORS; ELECTROGENIC CELLS; STIMULATION; ELECTRODES;
+   DIAMOND; BRAIN; ARRAY; TRANSPARENT; NEURONS; NOISE
+ER
+
+PT J
+DE graphene transfer; PMMA residue; graphene field-effect transistor;
+   bias-stress-induced instability
+ID CHEMICAL-VAPOR-DEPOSITION; FILMS; METAL; SIZE
+ER
+
+PT J
+DE Graphene; Helium ion; SPICE model; Defective
+ID SCATTERING; TRANSPORT; GATE
+ER
+
+PT J
+DE grapheme; field effect transistor; HfO2/Al2O3; H2O-based atom layer
+   deposition
+ID ATOMIC LAYER DEPOSITION; NUCLEIC-ACIDS
+ER
+
+PT J
+DE Graphene; Photodiode; Generation rate; Field effect transistors;
+   Breakdown voltage; Edge effect
+ID BILAYER GRAPHENE; SATURATION; MODEL; IONIZATION; MECHANISM; REGION;
+   LENGTH
+ER
+
+PT J
+DE Transistor; Transconductance; Side gate; Back gate; Two dimensional
+   materials; Graphene; Molybdenum disulfide; Silicon carbide
+ID MOS2 TRANSISTORS; HIGH-PERFORMANCE; SINGLE-LAYER; GRAPHENE; ELECTRONICS;
+   TRANSITION; PROSPECTS
+ER
+
+PT J
+ID MAXIMUM OSCILLATION FREQUENCY; GATE
+ER
+
+PT S
+DE graphene; field effect transistor; mobility
+ID MOBILITY
+ER
+
+PT S
+ER
+
+PT B
+DE Graphene; Sensor; Transistor
+ID SENSORS; FILMS
+ER
+
+PT S
+DE graphene emitter; vacuum transistor; ambipolar device
+ID ON/OFF CURRENT RATIO; EMISSION; CATHODE
+ER
+
+PT B
+DE heterojunction transistor; reduced graphene oxide; Aluminium Gallium
+   Arsenide; Gallium Arsenide
+ER
+
+PT S
+ER
+
+PT S
+DE Graphene; Field-effect transistor (FET); model; Verilog-A; Boltzmann
+   transport equation; frequency doubler
+ER
+
+PT J
+ID ELASTIC PROPERTIES; MOLECULAR-DYNAMICS; NANORIBBONS; SIMULATIONS;
+   STRENGTH; SHEETS; ENERGY
+ER
+
+PT S
+DE CVD graphene; GFET; intrinsic voltage gain; mechanically stacked
+   bilayer; saturation
+ID CURRENT SATURATION; 2-DIMENSIONAL MATERIALS; CIRCUIT-DESIGN; MODEL
+ER
+
+PT J
+DE Single-molecule electronics; Franck-Condon blockade; avalanche
+   transport; electron-vibron coupling; graphene
+ID THERMOELECTRICITY; JUNCTIONS; NANOJUNCTIONS; C-60
+ER
+
+PT J
+DE Graphene/graphene oxide/graphene; Junction; Nonvolatile memory; High
+   on/off ratio; Fowler-Nordheim tunneling transistor; Graphene system on
+   chip
+ID LOCAL ANODIC-OXIDATION; HIGH-FREQUENCY; BAND-GAP; OXIDE; CARBON; FILMS;
+   DIODES; DEVICE
+ER
+
+PT J
+ID METAL CONTACTS; ELECTRODES; RESISTANCE
+ER
+
+PT J
+DE Graphene; nanoribbon; FET; non-equilibrium Green's function
+ID TRANSISTORS
+ER
+
+PT J
+DE graphene; demodulators; antenna; AM radio receiver; speaker; transistor
+ID HIGH-PERFORMANCE; ELECTRONICS; TRANSISTORS
+ER
+
+PT J
+DE DNA nanowire array-enabled lithography; self-assembly; graphene
+   nanoribbon; transistor
+ID CHEMICAL-VAPOR-DEPOSITION; FIELD-EFFECT TRANSISTORS;
+   LIGHT-EMITTING-DIODES; PATTERN-FORMATION; CARBON NANOTUBES; FABRICATION;
+   GROWTH; FILMS; RINGS
+ER
+
+PT J
+DE Graphene; Hot electron transistors graphene base transistor; GBT; HBT;
+   Ballistic transport; NEGF
+ID 2-DIMENSIONAL MATERIALS; TERAHERTZ OPERATION; BASE TRANSISTOR; DEVICE;
+   SIMULATION; GROWTH; PERFORMANCE; INTEGRATION; GERMANIUM; FILMS
+ER
+
+PT J
+DE Graphene; Field-effect mobility; Organic thin film transistor; Transport
+   properties
+ID ORGANIC ELECTRONICS; EXFOLIATED GRAPHENE; CARBON NANOTUBES; PENTACENE;
+   SEMICONDUCTOR; NUCLEATION; TRANSPORT; GROWTH; FILMS
+ER
+
+PT J
+DE graphene; transistor; contact; niobium; transfer characteristic; doping;
+   conductivity
+ID CHARGED-IMPURITY SCATTERING; LAYER GRAPHENE; BACK-GATE; RESISTANCE;
+   DEVICES; CONDUCTANCE; SUPERCURRENT; SUBSTRATE; TRANSPORT; BINDING
+ER
+
+PT J
+DE indium compounds; gallium compounds; graphene devices; thin film
+   transistors; semiconductor diodes; electrodes; transparent thin film
+   transistor; diode circuit; graphene active layer; amorphous
+   indium-gallium-zinc-oxide active layer; serial connection; transparent
+   graphene diode; a-IGZO active layer; graphene electrode; C; InGaZnO
+ER
+
+PT J
+ID CHEMICAL-VAPOR-DEPOSITION; FIELD-EFFECT TRANSISTORS; EFFICIENT TRANSFER;
+   FILMS; SUBSTRATE; MECHANISM; MOBILITY; DENSITY; GROWTH; AL2O3
+ER
+
+PT J
+DE field effect transistor; graphene; line defect
+ID NANORIBBON; TRANSPORT
+ER
+
+PT J
+DE suspended graphene; field-effect transistors; 2D materials
+ID TRANSISTORS; TRANSPORT; MOBILITY; SUPERCURRENT; RESONATORS; SYSTEMS;
+   PHASE; NOISE; GAS
+ER
+
+PT J
+ID FIELD-EFFECT TRANSISTORS; HOT-ELECTRON TRANSISTOR; BAND-GAP;
+   HETEROSTRUCTURES; TRANSPORT
+ER
+
+PT J
+DE ballistic transport; nanoribbons; graphene; graphene devices; carbon
+   nanotube field effect transistors; carbon nanotubes; nanoelectronics;
+   Schottky barriers; Schottky gate field effect transistors; permittivity;
+   electrical conductivity; gate dielectric material dependence;
+   current-voltage characteristics; ballistic Schottky barrier graphene
+   nanoribbon field-effect transistor; carbon nanotube field-effect
+   transistor; channel lengths; Moore law; dielectric constant; on-state
+   drain currents; off-state current ratios; transconductance; C
+ER
+
+PT J
+DE Graphene Nanoribbon; Multiple Channel; Field Effect Transistor; Graphene
+   Architecture
+ID WALLED CARBON NANOTUBES; EPITAXIAL GRAPHENE; SUSPENDED GRAPHENE; CURRENT
+   SATURATION; DIRAC FERMIONS; FABRICATION; DEVICE; NANORIBBONS;
+   PERFORMANCE; LIMITS
+ER
+
+PT J
+DE Armchair Monolayer Graphene Nanoribbon field effect Transistor; Tight
+   binding method; Non-Equilibrium Green Function method (NEGF); Real space
+   approach; Single vacancy defect (SV)
+ID TRANSPORT-PROPERTIES; SIMULATION; FETS
+ER
+
+PT J
+ID FEW-LAYER GRAPHENE; QUANTUM DOTS; CONDUCTANCE; JUNCTIONS
+ER
+
+PT J
+DE graphene; transistor; cut-off frequency; access resistance
+ID HIGH-FREQUENCY; CONTACT RESISTANCE; PAD PARASITICS; GATE; AMPLIFIER;
+   ACCOUNT
+ER
+
+PT J
+DE Graphene; modeling; quantum transport; simulation; transistor
+ID HOT-ELECTRON TRANSISTOR; TERAHERTZ OPERATION
+ER
+
+PT J
+DE Hydrophobic; Field-Effect Transistor; Buffer Layer; Scattering;
+   Wet-Transfer Method
+ID LITHIUM-ION BATTERIES; ELECTROCHEMICAL PERFORMANCE; PHOTOCATALYTIC
+   ACTIVITY; BILAYER GRAPHENE; HIGH-FREQUENCY; OXIDE; CARBON; ELECTRONICS;
+   COMPOSITES; DEVICES
+ER
+
+PT J
+ID FIELD-EFFECT TRANSISTORS; HIGH-QUALITY; TRANSPORT; BARRIER; FILMS
+ER
+
+PT J
+DE Graphene field effect transistor; Gate dielectric
+ID HEXAGONAL BORON-NITRIDE; ELECTRONICS; HYSTERESIS; TRANSPORT
+ER
+
+PT J
+DE Graphene; nanoribbon; thin-film transistors; bandgap modulation; power
+   gating
+ID NANORIBBONS; ELECTRONICS; FREQUENCY; CARBON
+ER
+
+PT J
+ID ATOMIC LAYER DEPOSITION; EPITAXIAL GRAPHENE; BENZOCYCLOBUTENE;
+   FUNCTIONALIZATION; TRANSPORT; DOPANTS; POLYMER; FILMS; SIO2
+ER
+
+PT J
+DE graphene FETs; vertical stack; flexible electronics; PMMA gate
+   dielectric
+ID THIN-FILM TRANSISTORS; SEMICONDUCTOR NANOWIRES; TRANSPARENT ELECTRODES;
+   GATE DIELECTRICS; HETEROSTRUCTURES; INVERTERS; DEVICES; MEMORY; LAYER
+ER
+
+PT J
+DE bioelectronics; graphene; field-effect transistors; sensors; biosensors
+ID FIELD-EFFECT TRANSISTOR; POTASSIUM CHANNELS; POTENTIALS; ADHESION; ARRAY
+ER
+
+PT J
+DE Semiconductor/electrode interface; Graphene; Morphology; Organic
+   thin-film transistors; Pentacene
+ID FIELD-EFFECT TRANSISTORS; EXFOLIATED GRAPHITE OXIDE; HIGH-PERFORMANCE;
+   ELASTOMERIC STAMPS; PATTERNED GRAPHENE; HIGH-MOBILITY; REDUCTION
+ER
+
+PT J
+ID SEMICONDUCTORS; FABRICATION
+ER
+
+PT J
+DE Graphene; Field effect transistors; Disorder; Electronic transport
+ID KLEIN PARADOX; CARBON
+ER
+
+PT J
+ID CHEMICALLY DERIVED GRAPHENE; FIELD-EFFECT TRANSISTORS; FLASH MEMORY;
+   LARGE-AREA; SENSING APPLICATIONS; EPITAXIAL GRAPHENE; VAPOR-DEPOSITION;
+   LAYER GRAPHENE; THIN-FILMS; TRANSPARENT
+ER
+
+PT J
+ID GRAPHENE TRANSISTORS; CHARGE-TRANSFER; DOPED GRAPHENE; PHOTONICS;
+   SUBSTRATE; CELLS; FILMS; GAS
+ER
+
+PT B
+DE Graphene; 2D Materials beyond graphene; Theory
+ER
+
+PT B
+ER
+
+PT B
+DE 3D transistor; Graphene; pH sensor; Hafnium oxide
+ID HIGH-FREQUENCY; TRANSISTORS; SENSORS; ARRAYS
+ER
+
+PT S
+DE Modelling; simulation; graphene based transistors; PSpice
+ID FIELD-EFFECT TRANSISTORS
+ER
+
+PT S
+DE ATK-SE package; graphene Nano-ribbon; GNRFET
+ER
+
+PT J
+ID WALLED CARBON NANOTUBES; JUNCTIONS; CONDUCTANCE; NANOJUNCTIONS;
+   RESONANCE; TRANSPORT; DEVICES
+ER
+
+PT J
+ID CONTACT-RESISTANCE; TRANSISTORS; ELECTRONICS; FREQUENCY; INVERTERS;
+   DEVICES
+ER
+
+PT J
+DE Transition metal dichalcogenide; molybdenum disulfide; contact
+   resistance graphene; field-effect transistor; heterostructure
+ID FIELD-EFFECT TRANSISTORS; 2-DIMENSIONAL MATERIAL; INTERFACES
+ER
+
+PT J
+DE Silicene; Field-effect transistor
+ID SURFACE-ADSORPTION; BAND-GAP; CRYSTALLINE; MEMBRANES; GRAPHENE; ORDER
+ER
+
+PT J
+DE Ambipolar transistor; chemical and biological sensors; device modeling;
+   electrophysiology; graphene field-effect transistors (GFETs)
+ID CHEMICAL-VAPOR-DEPOSITION; LARGE-AREA; FILMS; OXIDE
+ER
+
+PT J
+ID FIELD-EFFECT TRANSISTORS; SELF-ORGANIZATION; LARGE-AREA; BILAYER
+   GRAPHENE; HIGH-PERFORMANCE; SOLAR-CELLS; OXIDE; GRAPHITE; PATTERNS;
+   FLASH
+ER
+
+PT J
+DE millimeter-scale graphene domain; radio-frequency transistor; cut-off
+   frequency; maximum oscillation frequency
+ID CHEMICAL-VAPOR-DEPOSITION; SINGLE-CRYSTAL GRAPHENE; HIGH-FREQUENCY;
+   EPITAXIAL GRAPHENE; CONTACT RESISTANCE; GROWTH; CARBON; COPPER; FILMS;
+   GATE
+ER
+
+PT J
+DE Nanoelectronics; thin-film transistors
+ER
+
+PT J
+DE dirac point; graphene; transistor; electrostatic gating; polyallylamine
+   hydrochloride (PAH); sodium polystyrene sulfonate (PSS)
+ID CARBON NANOTUBE; ADSORPTION; LIQUID; CHARGE
+ER
+
+PT J
+DE Fluorination; graphene; ionic liquid (IL)
+ID TRANSPORT
+ER
+
+PT J
+ID FIELD-EFFECT TRANSISTORS; IONIC LIQUIDS; STEM-CELLS; FILMS
+ER
+
+PT J
+DE graphene; field-effect transistors; sensing
+ID CHEMICAL-VAPOR-DEPOSITION; THIN-FILM TRANSISTORS; SINGLE-LAYER GRAPHENE;
+   LABEL-FREE DETECTION; CVD-GROWN GRAPHENE; CARBON-NANOTUBE; EPITAXIAL
+   GRAPHENE; 3-DIMENSIONAL GRAPHENE; LARGE-AREA; GOLD-NANOPARTICLE
+ER
+
+PT J
+ID MECHANISMS; DEVICE; NOISE; GATE
+ER
+
+PT J
+DE Graphene field effect transistors; direct terahertz detection; CVD
+   graphene; antenna-integrated detectors
+ID TERAHERTZ TECHNOLOGY; TRANSISTORS; FREQUENCY; ELECTRONICS
+ER
+
+PT J
+ER
+
+PT J
+ID LABEL-FREE DETECTION; EFFECT TRANSISTOR; NANOWIRE NANOSENSORS;
+   NUCLEIC-ACID; HYBRIDIZATION; DEVICES; OLIGONUCLEOTIDE; DEPOSITION;
+   BIOSENSORS; ELECTRODE
+ER
+
+PT J
+DE Epitaxial graphene; semi-insulating silicon carbide; Schottky barrier
+   transistor; space-charge-limited current; tunneling field effect
+   transistor
+ID CHARGE-LIMITED CURRENT; CARBIDE; MOSFETS; SOLIDS; DEVICE
+ER
+
+PT J
+DE Single-electron transistor; graphene; benzene; orientation; ab initio;
+   charge stability; conductance
+ID MOLECULE; DEVICES; 1ST-PRINCIPLES; STATES; SIMULATION; TRANSPORT
+ER
+
+PT J
+ID FIELD-EFFECT TRANSISTORS; QUANTUM-DOT PHOTODETECTORS; THIN-FILM
+   TRANSISTORS; SINGLE-LAYER GRAPHENE; NEAR-INFRARED PHOTORESPONSE;
+   EXFOLIATED GRAPHITE OXIDE; LIQUID-PHASE EXFOLIATION;
+   SCIENCE-AND-TECHNOLOGY; TERAHERTZ RADIATION; EPITAXIAL GRAPHENE
+ER
+
+PT J
+ID EPITAXIAL GRAPHENE; CUTOFF FREQUENCY; GATE; ELECTRONICS
+ER
+
+PT J
+ID FEW-LAYER GRAPHENES; NETWORKS
+ER
+
+PT J
+DE Bandgap; graphene FET; interlayer capacitance; off-current; quantum
+   capacitance; SPICE; surface potential; threshold voltage; temperature
+ID FIELD-EFFECT TRANSISTORS; BILAYER GRAPHENE; GATE; BANDGAP
+ER
+
+PT J
+DE functionalization; graphene; field-effect transistors;
+   sensors/biosensors; polymers
+ID FIELD-EFFECT TRANSISTORS; PH CHANGES; CARBON; SPECTROSCOPY; INTERFACE;
+   MOLECULES; FILMS
+ER
+
+PT J
+DE Barrier height; carbon nanotube (CNT); FET; graphene; SPICE
+ID FIELD-EFFECT TRANSISTORS; TRANSPARENT; DIELECTRICS; CONTACT; VOLTAGE;
+   FILMS
+ER
+
+PT J
+DE graphene; self-assembled monolayers; field effect transistors; doping;
+   phosphonic acid
+ID CHEMICAL-VAPOR-DEPOSITION; THRESHOLD-VOLTAGE CONTROL; FIELD-EFFECT
+   TRANSISTORS; THIN-FILM TRANSISTORS; INDIUM TIN OXIDE; WORK-FUNCTION;
+   GATE DIELECTRICS; ELECTRON; SURFACE; APPROXIMATION
+ER
+
+PT J
+DE graphene; near-field electrospinning; graphene doping; field effect
+   transistor; electrical junction
+ID NANORIBBONS; NANOFIBERS
+ER
+
+PT J
+DE graphene; strain; field-effect-transistor; simulation
+ID FIELD-EFFECT TRANSISTORS; SUSPENDED GRAPHENE; BILAYER GRAPHENE;
+   BAND-GAP; ELECTRONICS; FREQUENCY; SHEETS; MEMBRANES; GRAPHITE
+ER
+
+PT J
+ID FIELD-EFFECT TRANSISTORS; RAMAN-SPECTROSCOPY; TRANSPORT; DEFECTS;
+   ELECTRONICS; HYSTERESIS; SUBSTRATE
+ER
+
+PT J
+DE Organic Field Effect Transistors (OFETs); Organic Semi-Conducting
+   Polymer; Poly-3-Hexylthiophene; Graphene; Graphene Nanocomposite
+ID SINGLE-LAYER GRAPHENE; SOLAR-CELLS; POLYMER; FILMS; ELECTRODES; GATE
+ER
+
+PT J
+ID HEXAGONAL BORON-NITRIDE; BAND-GAP; SILICON; CRYSTALS; DEVICES
+ER
+
+PT J
+ID CARBON NANOTUBE TRANSISTORS; SUSPENDED GRAPHENE; LOGIC-CIRCUITS;
+   TRANSPORT; BANDGAP; CONDUCTANCE; INTERFACE; DEVICES; GATES
+ER
+
+PT J
+DE Current saturation; frequency doubler; graphene; graphene amplifier;
+   NEGF
+ID HIGH-FREQUENCY; AMBIENT CONDITIONS; CURRENT SATURATION; GATE; AMPLIFIER;
+   DOUBLER; CARBON
+ER
+
+PT J
+DE graphene; fluorinated graphene; CF4 plasma; transistors
+ID RAMAN-SPECTROSCOPY; FLUOROGRAPHENE; GRAPHITE; DISORDER
+ER
+
+PT J
+ID FIELD-EFFECT TRANSISTORS; BILAYER GRAPHENE; BAND-GAP; TRANSPORT;
+   GRAPHITE; TEMPERATURE; PERFORMANCE; DEVICE
+ER
+
+PT J
+ID FIELD-EFFECT TRANSISTORS; CHEMICAL-VAPOR-DEPOSITION; SINGLE-LAYER
+   GRAPHENE; THIN-FILM TRANSISTORS; FREQUENCY ELECTRONICS; CURRENT
+   SATURATION; HIGH-MOBILITY; DIELECTRICS; DEVICES
+ER
+
+PT J
+ID THIN-FILM TRANSISTORS; FIELD-EFFECT TRANSISTORS; SELF-ASSEMBLED
+   MONOLAYERS; CURRENT SATURATION; PERFORMANCE LIMITS; HIGH-QUALITY;
+   MULTILAYERS; DEPOSITION; TRANSPORT; MOBILITY
+ER
+
+PT J
+ER
+
+PT J
+DE graphene; transistors; dopamine sensors; biosensors
+ID ORGANIC ELECTROCHEMICAL TRANSISTORS; THIN-FILM TRANSISTORS;
+   GRAPHENE-BASED BIOSENSORS; FIELD-EFFECT TRANSISTORS; PBS QUANTUM DOTS;
+   ASCORBIC-ACID; MICROFLUIDIC SYSTEMS; GOLD ELECTRODE; TOP ELECTRODES;
+   SOLAR-CELLS
+ER
+
+PT J
+DE Graphene field-effect transistor (GFET); negative differential
+   resistance (NDR); terahertz operation; voltage amplifier
+ID FIELD-EFFECT TRANSISTORS; HIGH-FREQUENCY; CURRENT SATURATION; EPITAXIAL
+   GRAPHENE; GATE; ELECTRONICS; AMPLIFIER; BANDGAP
+ER
+
+PT J
+ID ATOMIC LAYER DEPOSITION; DIELECTRICS; ELECTRONICS; STRENGTH
+ER
+
+PT B
+ID VOLTAGE-AMPLIFIER
+ER
+
+PT B
+DE graphene; field effect transistor; ambipolar; HfO2
+ER
+
+PT B
+DE armchair graphene nanoribbon; dual-channel; field-effect transistor
+ID ARRAY; FABRICATION
+ER
+
+PT S
+DE graphene; transition metal dichalcogenides; transistor; mobility; on/off
+   ratio
+ID ELECTRONICS; TRANSISTORS; GRAPHENE
+ER
+
+PT S
+DE graphene; transistors; graphene transfer; wafer scale; GFET; more than
+   Moore; Moore's Law
+ID BILAYER GRAPHENE; MEMBRANES; STRENGTH; FILMS
+ER
+
+PT S
+DE Transistor; Graphene; Conductance; ssDNA immobilization
+ID DNA HYBRIDIZATION DETECTION; EXFOLIATED GRAPHITE OXIDE; BIOSENSORS;
+   NANOSHEETS; REDUCTION; SENSOR; FILMS
+ER
+
+PT J
+ID SCALE EPITAXIAL GRAPHENE; TRANSISTORS; GATE; ELECTRONICS; AMPLIFIER;
+   GROWTH; FACE; FET
+ER
+
+PT J
+DE Graphene; graphene heterostructures; graphene nanoribbon (GNR);
+   nonequilibrium Green's function (NEGF); tunneling transistors
+ID BORON-NITRIDE; TRANSISTORS; DEVICES
+ER
+
+PT J
+DE graphene transistor; contact resistance; zigzag edge; etching; nickel
+   contacts
+ID RAMAN-SPECTROSCOPY; LAYER GRAPHENE; METAL-GRAPHENE; GRAPHITE
+ER
+
+PT B
+ID GRAPHENE
+ER
+
+PT S
+DE Graphene FET; power gain; hydrogen interclated graphene; wideband
+   amplifiers
+ER
+
+PT B
+DE high frequency; high power; large scale; carbon; field effect
+   transistors
+ID GRAPHENE TRANSISTORS; POLYCRYSTALLINE DIAMOND; FREQUENCY
+ER
+
+PT J
+DE graphene; graphene nanoribbon; nanodevices; etching; patterning
+ID WALLED CARBON NANOTUBES; SINGLE-LAYER GRAPHENE; RAMAN-SPECTROSCOPY;
+   ATOMIC STRUCTURES; GROWTH; HYDROGENATION; TRANSISTORS; SAPPHIRE;
+   GRAPHITE; BANDGAP
+ER
+
+PT J
+DE interface; graphene; rotaxane; optoelectronic device; logic computation
+ID FIELD-EFFECT TRANSISTORS; WALLED CARBON NANOTUBES; GRAPHENE TRANSISTORS;
+   FUNCTIONALIZATION; PHOTORESPONSE; NANOMATERIALS; BIOSENSORS; DEVICES;
+   LIQUID; DRIVEN
+ER
+
+PT J
+ER
+
+PT J
+ID SINGLE-LAYER GRAPHENE; TRANSPORT; MOLECULES; FILMS; SIO2
+ER
+
+PT J
+DE field effect transistors; nanoelectronics; quantum theory; vacancies
+   (crystal); graphene; nanoribbons; vacancy defects; graphene nanoribbon
+   field effect transistor; single vacancy; divacancy; Stone-Wales defects;
+   555 777 defects; quantum-mechanics-based simulation; energy band;
+   transmission coefhcient; transfer characteristics; C
+ID CARBON
+ER
+
+PT J
+ID NEGATIVE DIFFERENTIAL RESISTANCE; FIELD-EFFECT TRANSISTORS; BILAYER
+   GRAPHENE; HIGH-FREQUENCY; BAND-GAP; LITHOGRAPHY; GROWTH; CARBON
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE Graphene; Work function; Self-assembled monolayer; Dirac point
+ID DIRAC POINT
+ER
+
+PT J
+DE Graphene; graphene base transistor (GBT); hot-electron transistor (HET);
+   terahertz operation
+ID SCHOTTKY-BARRIER; SILICIDE; CARBON; GATE
+ER
+
+PT J
+DE Graphene field-effect transistors; Potassium; Sodium; Selective ion
+   sensors; Ionophore; Valinomycin
+ID NANOWIRE; VALINOMYCIN; NA,K-ATPASE; ELECTRODES; STABILITY; GLUCOSE;
+   LAYER
+ER
+
+PT J
+DE graphene; transistor; carbon nanotube; nanoribbon; tunnelling;
+   high-frequency amplifier
+ID CHEMICAL-VAPOR-DEPOSITION; FIELD-EFFECT TRANSISTORS; P-N-JUNCTIONS;
+   CARBON NANOTUBE; QUANTUM CAPACITANCE; EPITAXIAL GRAPHENE; SUSPENDED
+   GRAPHENE; LAYER GRAPHENE; KLEIN PARADOX; 2-DIMENSIONAL CRYSTALS
+ER
+
+PT J
+DE graphene; MoS2; two-dimensional (2D) materials; field-effect transistors
+ID SELF-ASSEMBLED MONOLAYERS; HEXAGONAL BORON-NITRIDE; P-N-JUNCTIONS;
+   GRAPHENE NANORIBBONS; CARBON NANOTUBES; DIRAC FERMIONS;
+   ELECTRICAL-PROPERTIES; BILAYER GRAPHENE; MOS2 TRANSISTORS; GATE
+ER
+
+PT J
+DE graphene; electronic device; optoelectronic device; circuit
+ID FIELD-EFFECT TRANSISTORS; HIGH-FREQUENCY; EPITAXIAL-GRAPHENE; OPTICAL
+   MODULATOR; VOLTAGE-AMPLIFIER; ROOM-TEMPERATURE; HIGH-QUALITY; CARBON;
+   TRANSPORT; GROWTH
+ER
+
+PT J
+ID FIELD-EFFECT TRANSISTORS; THIN-FILMS; BILAYER GRAPHENE; HAFNIUM DIOXIDE;
+   TRANSPORT; BANDGAP; EVAPORATION
+ER
+
+PT J
+DE Electro-thermal coupled transport; graphene transistors; self-heating
+   effects; substrate material; surface polar phonon scattering
+ID THERMAL-PROPERTIES; HIGH-FREQUENCY; CARBON; GATE
+ER
+
+PT J
+ID CARBON NANOTUBE; LAYER GRAPHENE; SINGLE-LAYER; FILMS
+ER
+
+PT J
+ID TRANSISTORS; HYSTERESIS; MOLECULES; GAS
+ER
+
+PT J
+ID INTEGRATED-CIRCUITS; FILMS
+ER
+
+PT J
+ID TRANSISTOR; SCATTERING; TRANSPORT
+ER
+
+PT J
+DE Graphene; Thin film transistor; Metal modification layer; Electrode;
+   Semiconductor channel; Review
+ID FIELD-EFFECT TRANSISTORS; PATTERNED GRAPHENE; ELECTRODES; MOBILITY;
+   FABRICATION; GATE
+ER
+
+PT J
+DE Bilayer graphene; Field-effect transistor (FET); graphene; graphene
+   nanoribbon; logic circuit; radio frequency (RF)
+ID FIELD-EFFECT TRANSISTORS; SINGLE-LAYER GRAPHENE; BILAYER GRAPHENE;
+   HIGH-FREQUENCY; EPITAXIAL-GRAPHENE; CURRENT SATURATION;
+   ROOM-TEMPERATURE; GATE DIELECTRICS; MOS2 TRANSISTORS; BAND-STRUCTURE
+ER
+
+PT J
+DE Graphene field-effect transistors (GFETs); hexagonal boron nitride (hBN)
+ID CHEMICAL-VAPOR-DEPOSITION; SCANNING-TUNNELING-MICROSCOPY;
+   HIGH-FREQUENCY; EPITAXIAL-GRAPHENE; WAFER-SCALE; ELECTRONIC-PROPERTIES;
+   CURRENT SATURATION; BILAYER GRAPHENE; DIRECT GROWTH; HIGH-QUALITY
+ER
+
+PT J
+DE Current gain; field-effect transistor (FET); graphene analog integrated
+   circuits (ICs); graphene nanoelectronics; power gain; voltage gain
+ID CHEMICAL-VAPOR-DEPOSITION; SCALE EPITAXIAL GRAPHENE; FIELD-EFFECT
+   TRANSISTORS; BILAYER GRAPHENE; SUSPENDED GRAPHENE; HIGH-FREQUENCY; KLEIN
+   PARADOX; BERRYS PHASE; LARGE-AREA; TRANSPORT
+ER
+
+PT J
+DE Bioelectronics; graphene
+ID FIELD-EFFECT TRANSISTORS; EPITAXIAL GRAPHENE; ELECTROGENIC CELLS;
+   ACTION-POTENTIALS; CARBON NANOTUBES; POLYMER BRUSHES; ION CHANNELS;
+   FILMS; ARRAY; OXIDE
+ER
+
+PT J
+ID FIELD-EFFECT TRANSISTORS; IN2O3 NANOWIRES; SURFACE; FILMS
+ER
+
+PT J
+DE Graphene; transistor; hot electrons; hot carrier transport; tunneling
+ID DEVICE; FILMS
+ER
+
+PT J
+DE Bilayer graphene transistor; Transfer-free growth on insulator;
+   Ultra-high on/off-current ratio; Full silicon CMOS compatible
+ID FEW-LAYER GRAPHENE; HYSTERESIS; TRANSPORT
+ER
+
+PT J
+DE Epitaxial graphene; silicon carbide; field effect transistors; high
+   frequency electronics; nanoelectronics; maximum oscillation frequency
+ID FIELD-EFFECT TRANSISTORS; GATE; FABRICATION
+ER
+
+PT J
+ID FIELD-EFFECT TRANSISTORS; WALLED CARBON NANOTUBES; EPITAXIAL GRAPHENE;
+   BILAYER GRAPHENE; ROOM-TEMPERATURE; TUNABLE BANDGAP; BORON-NITRIDE;
+   AB-INITIO; TRANSPORT; DEVICES
+ER
+
+PT J
+DE Graphene; Ionic Liquid; Ball Milling; Field-Effect; Ambipolar Effect
+ID CARBON; TRANSISTORS; SHEETS
+ER
+
+PT J
+ID HEXAGONAL BORON-NITRIDE; EFFECTIVE-MASS; SILICON
+ER
+
+PT J
+ID FIELD-EFFECT TRANSISTORS; CURRENT SATURATION; WAFER-SCALE; PERFORMANCE;
+   CIRCUIT; DEVICES
+ER
+
+PT S
+DE graphene; transistor; ion irradiation; transport gap
+ER
+
+PT J
+ID CHEMICAL SENSORS; GATED GRAPHENE; NANOWIRES; LIQUID; FILMS
+ER
+
+PT S
+DE Graphene; Transition metal dichalcogenides; 2D crystals; FETs;
+   transistors; TFETs; tunneling transistors
+ID GRAPHENE
+ER
+
+PT S
+DE graphene; graphene waveguides; graphene transistors
+ER
+
+PT B
+DE Graphene; RF transistor; buried gate; bottom gate; graphene after
+   source/drain
+ID FIELD-EFFECT TRANSISTORS; CARBON
+ER
+
+PT S
+DE graphene; ion sensitive field effect transistor; drift coefficient;
+   potassium; ion
+ID MEMBRANE
+ER
+
+PT S
+DE graphene; epitaxy; field effect transistor
+ID FIELD-EFFECT TRANSISTORS; EPITAXIAL-GRAPHENE
+ER
+
+PT J
+ID RAMAN-SPECTROSCOPY; ULTRAVIOLET OZONE; SUBSTRATE; DEFECTS; DEVICE; FILMS
+ER
+
+PT S
+DE graphene transistor; growth on insulator; silicon CMOS compatible;
+   transfer-free
+ID CHEMICAL-VAPOR-DEPOSITION
+ER
+
+PT J
+ID SCANNING-ELECTRON-MICROSCOPY; OPTOELECTRONICS; TRANSISTORS; MECHANISM;
+   RIBBONS; VACANCY; SHEETS; EDGES; RAMAN
+ER
+
+PT B
+DE GFET; Graphene Oxide; Maximum frequency of oscillation; Tunneling
+ID THIN-FILM TRANSISTORS
+ER
+
+PT B
+DE radiation detection; graphene field effect transistor
+ER
+
+PT S
+ID PYROLYTIC BORON-NITRIDE; THERMAL-CONDUCTIVITY
+ER
+
+PT S
+ER
+
+PT B
+ID FIELD-EFFECT TRANSISTORS; BILAYER GRAPHENE; RING OSCILLATORS; LAYER
+   GRAPHENE; EPITAXIAL-GRAPHENE; SUSPENDED GRAPHENE; CURRENT SATURATION;
+   VOLTAGE-AMPLIFIER; CARBON NANOTUBE; HETEROSTRUCTURES
+ER
+
+PT S
+ID BILAYER GRAPHENE; CARBON NANOTUBES; ANNEALING TWINS; COPPER; STATE;
+   FABRICATION; CRYSTALS; DEVICES; SHAPE; EDGE
+ER
+
+PT J
+DE Graphene/Si field-effect transistor; CVD; Current saturation; Local
+   graphene gate
+ID EPITAXIAL GRAPHENE; WAFER; FILMS; JUNCTION; DEVICES
+ER
+
+PT J
+ID GATE; ELECTRONICS; OXIDE
+ER
+
+PT J
+DE aluminium compounds; chemical vapour deposition; gallium arsenide;
+   graphene; high electron mobility transistors; III-V semiconductors;
+   integrated circuits; semiconductor heterojunctions; surface morphology;
+   two-dimensional electron gas
+ID GRAPHENE TRANSISTORS; CARBON; FILMS
+ER
+
+PT J
+DE phosphorus; phosphorus doping; nucleophilicity; Air stable n-type
+   semiconducting channel; field-effect transistor
+ID CARBON NANOTUBES; EPITAXIAL GRAPHENE; FILMS; MOLECULES; DEVICES; GROWTH
+ER
+
+PT J
+DE field-effect transistors; reduced graphene oxide; thermal
+   responsiveness; sensors
+ID THIN-FILM TRANSISTORS; ELECTRICAL-PROPERTIES; SENSORS; LAYER;
+   PHOTODETECTORS; ELECTRONICS; PRESSURE; CHANNEL; SHEETS; VAPOR
+ER
+
+PT J
+DE graphene transistor; coplanar-gate configuration; transparent
+   electronics; flexible electronics
+ID THIN-FILM TRANSISTORS; FIELD-EFFECT TRANSISTORS; DIELECTRICS;
+   ELECTRODES; CIRCUITS; WAFER
+ER
+
+PT J
+DE graphene; graphene oxide; graphene nanoribbons; synthesis; electronic
+   device and transparent electrode
+ID FIELD-EFFECT TRANSISTORS; CHEMICAL-VAPOR-DEPOSITION; EXFOLIATED GRAPHITE
+   OXIDE; NITROGEN-DOPED GRAPHENE; CARBON NANOTUBES; LARGE-AREA; DIAZONIUM
+   FUNCTIONALIZATION; TRANSPARENT ELECTRODES; AQUEOUS DISPERSIONS;
+   RAMAN-SPECTROSCOPY
+ER
+
+PT J
+ID SELF-ASSEMBLED MONOLAYERS; FIELD-EFFECT TRANSISTORS; HIGH-QUALITY;
+   THIN-FILMS; OXIDE; TRANSPARENT; DEPOSITION; REDUCTION; GRAPHITE
+ER
+
+PT J
+ER
+
+PT J
+DE Graphene; Chemical vapor deposition; Transistor; Molecular doping
+ID SELF-ASSEMBLED MONOLAYERS; LIGHT-EMITTING-DIODES; CHARGED-IMPURITY
+   SCATTERING; CHEMICAL-VAPOR-DEPOSITION; BILAYER GRAPHENE; EPITAXIAL
+   GRAPHENE; HIGH-QUALITY; PATTERNED GRAPHENE; ROOM-TEMPERATURE; GRAPHITE
+   OXIDE
+ER
+
+PT J
+DE cut-off frequency; transfer gate
+ID FIELD-EFFECT TRANSISTORS; EPITAXIAL-GRAPHENE; DEPOSITION; CARBON;
+   NANORIBBONS; PHASE; FILMS
+ER
+
+PT J
+ID FIELD-EFFECT TRANSISTORS; CHEMICAL-VAPOR-DEPOSITION; SCALE EPITAXIAL
+   GRAPHENE; WAFER-SCALE; GATE DIELECTRICS; LARGE-AREA; MONOLAYER GRAPHENE;
+   SUSPENDED GRAPHENE; LAYER GRAPHENE; HIGH-MOBILITY
+ER
+
+PT J
+DE Graphene; graphene oxide; flexible electronics; thin film transistor
+ID FIELD-EFFECT TRANSISTORS; SCALE EPITAXIAL GRAPHENE; GRAPHITE OXIDE;
+   TRANSPARENT; ELECTRONICS; GATE; DIELECTRICS; HYSTERESIS; REDUCTION;
+   INTERFACE
+ER
+
+PT J
+DE graphene; radio frequency (RF); field-effect transistor (FET); SiC
+ID EPITAXIAL GRAPHENE
+ER
+
+PT J
+DE Graphene transistors; self-aligned gate; cutoff frequency; rf mixers
+ID LARGE-AREA; FILMS; OPERATION
+ER
+
+PT J
+DE Large-area graphene; radio frequency; voltage gain; power gain;
+   integrated circuit; amplifier
+ID EPITAXIAL-GRAPHENE; CUTOFF FREQUENCY; TRANSISTORS; GATE
+ER
+
+PT J
+DE graphene nanostripe; functionalized graphene; field-effect transistor
+ID LAYER GRAPHENE; NANORIBBONS; GRAPHANE; MAGNETORESISTANCE; LITHOGRAPHY;
+   ELECTRONICS; TRANSPORT; MAGNETISM
+ER
+
+PT J
+DE Graphene; hot-electron transistor (HET); radio frequency (RF)
+ID SPECTROSCOPY; GRAPHITE; DEVICES
+ER
+
+PT J
+DE graphene; transistors; self-aligned fabrication; T-shaped gate; mushroom
+   gate
+ID FIELD-EFFECT TRANSISTORS; HIGH-FREQUENCY; AMPLIFIER; VOLTAGE; CARBON;
+   FILMS
+ER
+
+PT J
+DE doping; field effect transistors; graphene; pyrenes; reduced graphene
+   oxide
+ID FIELD-EFFECT TRANSISTORS; EPITAXIAL GRAPHENE; CHEMICAL-REDUCTION; CARBON
+   NANOTUBES; THIN-FILM; ELECTRONICS; NANOELECTRONICS; TRANSPARENT;
+   SCATTERING; BANDGAP
+ER
+
+PT J
+DE Solution-exfoliated graphene; Graphene field effect transistor;
+   Graphite-binding peptide; Adsorption
+ID FIELD-EFFECT TRANSISTORS; BINDING PEPTIDES; GOLD; EXFOLIATION; FILMS
+ER
+
+PT J
+ID EPITAXIAL-GRAPHENE; GAS MOLECULES; TRANSPARENT; GRAPHITE; NANOSCALE
+ER
+
+PT J
+DE Graphene; single-layer; solution-based; transistor; high-frequency;
+   flexible electronics
+ID THIN-FILM TRANSISTORS; FIELD-EFFECT TRANSISTORS; NANOTUBE ELECTRONICS;
+   INTEGRATED-CIRCUITS; EPITAXIAL-GRAPHENE; HIGH-FREQUENCY; CARBON;
+   PERFORMANCE; GATE; INKS
+ER
+
+PT J
+DE graphene; layer-by-layer assembly; nitrogen doping; ambipolar to
+   unipolar transition; transistor
+ID FIELD-EFFECT TRANSISTORS; NITROGEN-DOPED GRAPHENE; CARBON NANOTUBES;
+   GRAPHITE OXIDE; TRANSPARENT CONDUCTORS; COMPOSITE FILMS; ELECTRONICS;
+   MONOLAYERS; REDUCTION; NANOSHEETS
+ER
+
+PT J
+DE Graphene; hydrogenation; fluorination; field-effect transistor
+ID GRAPHANE; ELECTRONICS
+ER
+
+PT J
+DE carbon nanotube (CNT); graphene; preparation; field-effect transistor
+   (FET); biosensor
+ER
+
+PT J
+DE field-effect transistors; graphene; liquid gating; nanopipettes; pH
+   sensing
+ID FIELD-EFFECT TRANSISTORS; CARBON-NANOTUBE-NETWORK; LABEL-FREE DETECTION;
+   ULTRASENSITIVE DETECTION; PROTEIN ADSORPTION; DNA; TRANSPARENT; SENSORS;
+   FILMS
+ER
+
+PT B
+ID LARGE-AREA; TRANSISTORS; GATE; NANOELECTRONICS; GRAPHITE; GROWTH;
+   CARBON; LAYERS
+ER
+
+PT B
+ID FIELD-EFFECT TRANSISTORS; CURRENT SATURATION
+ER
+
+PT S
+DE Graphene; TEM; Raman spectroscopy; FET; mobility
+ID RAMAN-SPECTROSCOPY
+ER
+
+PT S
+DE graphene; transistor; on/off ratio; ambipolar behavior
+ER
+
+PT B
+DE Graphene; liquid gate; field-effect transistors; sensors
+ID FILMS
+ER
+
+PT S
+DE Graphene; Transistor
+ID CHEMICAL-VAPOR-DEPOSITION; BERRYS PHASE; LARGE-AREA; FILMS
+ER
+
+PT J
+ID CHEMICAL-VAPOR-DEPOSITION; GEL GATE DIELECTRICS; LARGE-SCALE GRAPHENE;
+   LARGE-AREA; BILAYER GRAPHENE; SUSPENDED GRAPHENE; CARBON NANOTUBES;
+   LAYER GRAPHENE; HIGH-QUALITY; EPITAXIAL GRAPHENE
+ER
+
+PT J
+ID FEW-LAYER GRAPHENE; TRANSPORT
+ER
+
+PT J
+DE graphene; resonant channel transistor; nano-eletromechanical system
+ID MONOLAYER GRAPHENE; SHEETS
+ER
+
+PT B
+DE graphene; spin diode; spin transistor
+ER
+
+PT B
+DE graphene; flexible transistor; printing; surface energy
+ID ELECTRODES; CIRCUITS; FILMS
+ER
+
+PT J
+ID EPITAXIAL GRAPHENE
+ER
+
+PT J
+DE Ambipolarity; graphene; graphene field-effect transistor; phase detector
+ID NANORIBBON FETS; TRANSISTORS
+ER
+
+PT J
+ID FIELD-EFFECT TRANSISTORS; ATOMIC-FORCE MICROSCOPY; LARGE-AREA; LAYER
+   GRAPHENE; GRAPHITE OXIDE; THIN-FILMS; ELECTRODES; TRANSPARENT;
+   NANOSCALE; NANOSHEETS
+ER
+
+PT J
+DE Graphene field-effect transistors (GFETs); hexagonal boron nitride
+   (hBN); radio frequency (RF)
+ID EPITAXIAL GRAPHENE; BORON-NITRIDE; HIGH-QUALITY; FILMS
+ER
+
+PT J
+DE bilayer graphene; field-effect transistor; adsorbate doping; graphene
+   devices; band gap
+ID GAS; STATE
+ER
+
+PT J
+DE Graphene; transistors; dielectrics; current saturation; self-alignment
+ID FIELD-EFFECT TRANSISTORS; EPITAXIAL-GRAPHENE; CARBON; FILMS
+ER
+
+PT J
+ID THIN-FILM TRANSISTORS; FIELD-EFFECT TRANSISTORS; PATTERNED GRAPHENE;
+   CONTACT RESISTANCE; DIELECTRICS; CARBON
+ER
+
+PT J
+ID ELECTRIC-FIELD
+ER
+
+PT J
+ID THIN-FILM TRANSISTORS; BOTTOM-CONTACT; PATTERNED GRAPHENE; OXIDE;
+   DISPLAYS; CARBON
+ER
+
+PT B
+DE graphene; noise; degradation; hysteresis
+ER
+
+PT S
+ID FIELD-EFFECT TRANSISTORS; ATOMIC LAYER DEPOSITION; ELECTRICAL-TRANSPORT;
+   EPITAXIAL GRAPHENE; CARBON NANOTUBES; GATE DIELECTRICS; LARGE-AREA;
+   FILMS; PERFORMANCE; NANOELECTRONICS
+ER
+
+PT B
+ID ELECTRONICS
+ER
+
+PT S
+DE Graphene; electron transport; transistors; photoexcitation;
+   photodetectors
+ID SCALE EPITAXIAL GRAPHENE; TRANSISTORS; DEVICES; CARBON; LIMITS; FILMS
+ER
+
+PT J
+DE graphene transistor; conductance hysteresis; charge transfer; capacitive
+   gating; water dipole
+ID FIELD-EFFECT TRANSISTORS; MOLECULES; MEMORY; DEVICES; FILMS
+ER
+
+PT J
+ID CHARGED-IMPURITY SCATTERING; WALLED CARBON NANOTUBES; ALIGNED ARRAYS;
+   LARGE-AREA; ELECTRONICS; TRANSPORT; FILMS
+ER
+
+PT J
+ID LOW-FREQUENCY NOISE; 1/F-GAMMA NOISE; FLICKER-NOISE; SEMICONDUCTORS;
+   TEMPERATURE; FILMS; OXIDE; BIAS
+ER
+
+PT J
+DE graphene; transistor; ambipolar; triple-mode amplifier; phase shift
+   keying; frequency shift keying
+ID FIELD-EFFECT TRANSISTORS; LAYER GRAPHENE; OPERATION; NOISE
+ER
+
+PT J
+DE Graphene transistors; self-aligned gate. nanowires; transit time; cutoff
+   frequency
+ID FIELD-EFFECT TRANSISTORS; ELECTRICAL-TRANSPORT; EPITAXIAL GRAPHENE;
+   CARBON NANOTUBES; GATE DIELECTRICS; PERFORMANCE; MOBILITY;
+   HETEROSTRUCTURES
+ER
+
+PT J
+DE Graphene; Silicon; FET; Contact resistance
+ER
+
+PT J
+ID OXIDE SHEETS; VAPOR
+ER
+
+PT J
+ID FIELD-EFFECT TRANSISTORS; EPITAXIAL-GRAPHENE; CARBON NANOTUBE; BILAYER
+   GRAPHENE; ROOM-TEMPERATURE; INDUCED BANDGAP; LAYER GRAPHENE; LARGE-AREA;
+   PERFORMANCE; FILMS
+ER
+
+PT J
+DE electrodes; ferromagnetic materials; field effect transistors; graphene;
+   oxidation
+ER
+
+PT J
+ID SUSPENDED GRAPHENE; CONDUCTANCE; JUNCTIONS
+ER
+
+PT J
+DE graphene; epitaxial graphene gate oxide; atomic layer deposition;
+   Al(2)O(3); HfO(2); TiO(2); Ta(2)O(5)
+ID GATE; TRANSISTORS; OXIDES
+ER
+
+PT J
+ID GAS MOLECULES; OXIDE SHEETS; SENSORS; FILMS; VAPOR
+ER
+
+PT J
+DE Graphene; Field-effect transistor; Mobility; Doping
+ID EPITAXIAL GRAPHENE; GRAPHITE OXIDE; CARBON; ELECTRONICS; SHEETS; ARRAYS;
+   FILMS
+ER
+
+PT J
+DE electronic structure; electrostatics; energy gap; graphene; multilayers;
+   transistors
+ID FIELD-EFFECT TRANSISTORS
+ER
+
+PT J
+ID CARBON NANOTUBES; NANORIBBONS; ELECTRONICS; FILMS
+ER
+
+PT J
+DE field effect transistors; graphene; nanoelectronics; tunnel transistors
+ID FIELD-EFFECT TRANSISTORS
+ER
+
+PT S
+DE Graphene; bandgap; carrier transport; mobility; MOSFET; RF transistor;
+   transistor
+ID FIELD-EFFECT TRANSISTORS; EPITAXIAL-GRAPHENE; PERFORMANCE;
+   INTERCONNECTS; DEVICE
+ER
+
+PT B
+ID SCALE EPITAXIAL GRAPHENE; TRANSISTORS
+ER
+
+PT S
+ER
+
+PT S
+ID FIELD-EFFECT TRANSISTORS; GENERATION; TRANSPORT; DEVICES; FILMS; SIO2
+ER
+
+PT J
+DE Access resistance; dual gate; field-effect transistor (FET); graphene;
+   radio frequency (RF)
+ID TRANSISTORS
+ER
+
+PT J
+DE Carbon CVD; carbon transistors; chemical-vapor deposition (CVD);
+   epitaxial graphene; graphene; graphene transistors
+ID FILMS
+ER
+
+PT J
+DE annealing; field effect transistors; graphene; logic gates;
+   nanostructured materials
+ID SUSPENDED GRAPHENE; DEVICE; TRANSISTORS; FILMS
+ER
+
+PT J
+DE electronic structure; graphene; multilayers; nanotube devices; optical
+   microscopy; photoconductivity
+ID CARBON NANOTUBE TRANSISTORS; DEVICES; BARRIERS
+ER
+
+PT J
+DE Boolean functions; fullerene devices; graphene; logic gates; transistors
+ID ELECTRON TRANSISTOR; SUSPENDED GRAPHENE; CARBON NANOTUBES; SILICON;
+   DEVICE; FILMS
+ER
+
+PT J
+DE ballistic transport; contact resistance; diffusion; field effect
+   transistors; graphene; semiconductor device noise; shot noise
+ID SCATTERING; DEVICES
+ER
+
+PT J
+ID FIELD-EFFECT TRANSISTORS; MOBILITY; PHASE
+ER
+
+PT J
+DE carbon devices; carbon transistors; epitaxial graphene; graphene;
+   graphene devices; graphene transistors; HfO(2) dielectric; high-k
+   dielectric; high mobility; semimetal; SiC; thin-film transistors
+ID FIELD-EFFECT TRANSISTORS; GRAPHITE
+ER
+
+PT J
+ER
+
+PT J
+DE graphene; field effect transistor; mobility; SOI
+ID SIMULATION; MOSFETS; FETS
+ER
+
+PT B
+DE CMOS; carbon nanotubes; graphene; silicon
+ID FIELD-EFFECT TRANSISTORS; ELECTRONIC-STRUCTURE; BILAYER GRAPHENE;
+   GRAPHITE; DEPOSITION; THICKNESS; FILMS
+ER
+
+EF
