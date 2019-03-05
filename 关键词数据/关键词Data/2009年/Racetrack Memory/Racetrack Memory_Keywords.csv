@@ -1,128 +1,123 @@
 ,Keyword_1,frequency,Keyword_2,degreee
-0,racetrack memory,30,racetrack memory,80
-1,skyrmion,6,skyrmion,19
-2,racetrack memory (rm),5,racetrack memory (rm),14
-3,gpgpu,4,domain wall,13
-4,domain wall,4,gpgpu,11
-5,cache,3,domain-wall,9
-6,domain-wall,3,register file,8
-7,register file,3,performance,8
-8,chiral domain wall motion,3,racetrack,8
-9,racetrack,3,spintronics,7
-10,spin-transfer torque,2,cache,7
-11,magnetic skyrmions,2,energy,7
-12,domain wall (dw),2,spintronic technology,7
-13,magnetic skyrmion,2,magnetic skyrmion,6
-14,spintronics,2,magnetic nanowire,6
-15,energy,2,chiral domain wall motion,6
-16,performance,2,magnetic domain wall,6
-17,magnetic nanowire,2,hspice,6
-18,magnetic field assistance,2,domain wall motion,6
-19,low power,2,mumax3,5
-20,spintronic technology,2,notches,5
-21,magnetic domain wall,2,breathing mode,5
-22,emerging technologies,2,mobility,5
-23,domain wall (dw) motion,2,magnetic skyrmions,5
-24,hspice,2,domain wall (dw),5
-25,domain wall motion,2,low power,5
-26,mumax3,1,domain wall (dw) motion,5
-27,notches,1,spin-transfer torque,4
-28,breathing mode,1,random-access storage,4
-29,mobility,1,racetrack logic,4
-30,deletions,1,memory systems,4
-31,sticky insertions,1,ibm,4
-32,run-length limited,1,bitwise,4
-33,data update,1,micromagnetism,4
-34,magnetic skyrmion (sk),1,3d,4
-35,voltage,1,domain wall memory,4
-36,hybrid look-up table,1,x-bar cell structure,4
-37,reconfiguration,1,1txc,4
-38,reusable,1,anti-disturbance,4
-39,energy efficient,1,review,4
-40,pre-shifting,1,domain-wall memory,4
-41,direction optimized,1,shift operations,4
-42,neuromorphic computing,1,reliability,4
-43,nanomagnetism,1,in-memory computing,4
-44,magneto-optical kerr effect,1,sot-mram,4
-45,dark field,1,in-memory,4
-46,random-access storage,1,magnetic field assistance,4
-47,racetrack logic,1,emerging technologies,4
-48,memory systems,1,main memory,4
-49,ibm,1,shifts,4
-50,bitwise,1,stt-ram,4
-51,micromagnetism,1,slc,4
-52,3d,1,mlc,4
-53,domain wall memory,1,deletions,3
-54,x-bar cell structure,1,sticky insertions,3
-55,1txc,1,run-length limited,3
-56,anti-disturbance,1,data update,3
-57,two-lane racetrack,1,magnetic skyrmion (sk),3
-58,magnetocrystalline anisotropy,1,voltage,3
-59,review,1,hybrid look-up table,3
-60,domain-wall memory,1,reconfiguration,3
-61,shift operations,1,reusable,3
-62,reliability,1,energy efficient,3
-63,analog-to-digital converter (adc),1,pre-shifting,3
-64,emerging circuits,1,direction optimized,3
-65,interfacial dzyaloshinskii-moriya interaction,1,nanomagnetism,3
-66,magnetic vortex,1,magneto-optical kerr effect,3
-67,micromagnetic simulation,1,dark field,3
-68,magnetic,1,magnetic vortex,3
-69,in-memory computing,1,micromagnetic simulation,3
-70,sot-mram,1,magnetic,3
-71,in-memory,1,spin memory and logic,3
-72,modular multiplier,1,multiple skyrmions,3
-73,asymmetric cryptography,1,domain-wall pair,3
-74,covert channel,1,threshold,3
-75,last level cache,1,voltage manipulation,3
-76,spin memory and logic,1,mram,3
-77,multiple skyrmions,1,skyrmionics,3
-78,domain-wall pair,1,memory devices,3
-79,threshold,1,racetracks,3
-80,voltage manipulation,1,demultiplexing,3
-81,l2 cache,1,logic in memory,3
-82,field-programmable gate array (fpga),1,non-volatile memory,3
-83,multicontext,1,non-volatile full,3
-84,mram,1,domain wall motion (dw),3
-85,general computer systems organization,1,emerging,3
-86,memory,1,modeling,3
-87,logical to physical mapping,1,adc,3
-88,power consumption,1,image sensor,3
-89,skyrmionics,1,spin-transfer-torque,3
-90,memory devices,1,magnetic adder,3
-91,racetracks,1,magnetic circuit,3
-92,main memory,1,magnetic tunnel,3
-93,shifts,1,non-volatility,3
-94,error correction code,1,doped permalloy,3
-95,position error,1,damping,3
-96,context switch,1,domain walls speed,3
-97,gpu,1,domain wall dynamics,3
-98,demultiplexing,1,domain wall pinning,3
-99,logic in memory,1,spin,3
-100,non-volatile memory,1,magnetization dynamics,3
-101,non-volatile full,1,breather,3
-102,perpendicular magnetic,1,neuromorphic computing,2
-103,domain wall motion (dw),1,two-lane racetrack,2
-104,emerging,1,magnetocrystalline anisotropy,2
-105,stt-ram,1,analog-to-digital converter (adc),2
-106,slc,1,emerging circuits,2
-107,mlc,1,modular multiplier,2
-108,dzyaloshinskii-moriya interaction,1,asymmetric cryptography,2
-109,modeling,1,covert channel,2
-110,adc,1,last level cache,2
-111,image sensor,1,l2 cache,2
-112,spin-transfer-torque,1,field-programmable gate array (fpga),2
-113,cache memory,1,multicontext,2
-114,magnetic adder,1,general computer systems organization,2
-115,magnetic circuit,1,memory,2
-116,magnetic tunnel,1,logical to physical mapping,2
-117,non-volatility,1,power consumption,2
-118,cross-layer design,1,error correction code,2
-119,doped permalloy,1,position error,2
-120,damping,1,context switch,2
-121,domain walls speed,1,gpu,2
-122,domain wall dynamics,1,perpendicular magnetic,2
-123,domain wall pinning,1,dzyaloshinskii-moriya interaction,2
-124,spin,1,interfacial dzyaloshinskii-moriya interaction,1
-125,magnetization dynamics,1,cache memory,1
-126,breather,1,cross-layer design,1
+0,domain wall,4,racetrack memory,11
+1,racetrack memory,3,domain wall,11
+2,nanowire,3,nanowire,10
+3,crystal structure,2,crystal structure,7
+4,spintronics,2,spintronics,5
+5,biaryls,2,biaryls,5
+6,exchange bias,2,wettability,5
+7,micromagnetic simulation,2,contact angle,5
+8,domain wall motion,2,crystal packing,5
+9,field sensor,1,indexing,5
+10,giant magnetoresistance (gmr),1,aspirin,5
+11,magnetic engineering,1,x-ray,5
+12,domain wall structure,1,exchange bias,5
+13,domain wall energy,1,micromagnetic simulation,5
+14,domain wall width,1,molecular beam epitaxy,5
+15,domain,1,mn4n,5
+16,acenes,1,ni4n,5
+17,alkynes,1,mgo,5
+18,aromatic compounds,1,magnetic,5
+19,organic materials,1,mumax3,5
+20,short electrode,1,notches,5
+21,electric-acoustic stimulation,1,breathing mode,5
+22,sensorineural,1,mobility,5
+23,hearing,1,skyrmion,5
+24,organic field effect transistors,1,domain wall motion,5
+25,organic,1,ferrite-garnet,4
+26,half-metallic ferromagnets,1,heat capacity,4
+27,heusler compounds,1,entropy,4
+28,topological,1,domain wall structure,3
+29,simvastatin,1,domain wall energy,3
+30,inflammation,1,domain wall width,3
+31,endothelial cells,1,domain,3
+32,cell adhesion molecules,1,acenes,3
+33,synthase,1,alkynes,3
+34,rho gtpase,1,aromatic compounds,3
+35,domain wall dynamics,1,organic materials,3
+36,domain wall pinning,1,short electrode,3
+37,spin,1,electric-acoustic stimulation,3
+38,cytotoxicity,1,sensorineural,3
+39,haemolytic activity,1,hearing,3
+40,surfactant-lipid interactions,1,half-metallic ferromagnets,3
+41,dppc,1,heusler compounds,3
+42,palladium,1,topological,3
+43,suzuki cross-coupling,1,simvastatin,3
+44,ullmann cross-coupling,1,inflammation,3
+45,wettability,1,endothelial cells,3
+46,contact angle,1,cell adhesion molecules,3
+47,crystal packing,1,domain wall dynamics,3
+48,indexing,1,domain wall pinning,3
+49,aspirin,1,spin,3
+50,x-ray,1,cytotoxicity,3
+51,polychlorinated biphenyls (pcbs),1,haemolytic activity,3
+52,sulfates,1,surfactant-lipid interactions,3
+53,environmental contaminants,1,dppc,3
+54,dioxin-like pcbs,1,palladium,3
+55,dihedral angle,1,suzuki cross-coupling,3
+56,crystal,1,ullmann cross-coupling,3
+57,shooting gallery,1,environmental contaminants,3
+58,injecting drug use,1,dioxin-like pcbs,3
+59,drug settings,1,dihedral angle,3
+60,harm reduction,1,crystal,3
+61,precessional magnetodynamics,1,shooting gallery,3
+62,magnetoelastic coupling,1,injecting drug use,3
+63,straintronics,1,drug settings,3
+64,x-ray magnetic circular dichroism,1,harm reduction,3
+65,photoemission electron microscopy,1,core-shell nanowires,3
+66,dipolar interaction,1,monte carlo,3
+67,core-shell nanocylinders,1,ferromagnetism,3
+68,core-shell nanowires,1,landau-lifschitz equation,3
+69,monte carlo,1,asymptotic process,3
+70,spin pumping,1,full rotation,3
+71,ferromagnetic resonance,1,loop-shape,3
+72,spin-orbitronics,1,ambient vibrations,3
+73,y-shaped nanostructure,1,energy harvesting,3
+74,spin-orbit torque,1,internet of,3
+75,damping-like term,1,high density,3
+76,magnetic switching direction,1,ring-shaped,3
+77,ferrite-garnet,1,l2 cache,3
+78,heat capacity,1,field sensor,2
+79,entropy,1,giant magnetoresistance (gmr),2
+80,magneto-optical kerr effect microscopy,1,magnetic engineering,2
+81,vortex domain wall,1,organic field effect transistors,2
+82,depinning,1,organic,2
+83,spin orbit torque,1,polychlorinated biphenyls (pcbs),2
+84,interface effect,1,sulfates,2
+85,perpendicular anisotropy,1,precessional magnetodynamics,2
+86,perpendicular magnetic anisotropy,1,magnetoelastic coupling,2
+87,dzyaloshinskii-moriya,1,straintronics,2
+88,ferromagnetism,1,dipolar interaction,2
+89,landau-lifschitz equation,1,core-shell nanocylinders,2
+90,asymptotic process,1,spin pumping,2
+91,nanoparticles,1,ferromagnetic resonance,2
+92,ferrite,1,spin-orbitronics,2
+93,rare earth elements,1,y-shaped nanostructure,2
+94,full rotation,1,spin-orbit torque,2
+95,loop-shape,1,damping-like term,2
+96,molecular beam epitaxy,1,magnetic switching direction,2
+97,mn4n,1,magneto-optical kerr effect microscopy,2
+98,ni4n,1,vortex domain wall,2
+99,mgo,1,depinning,2
+100,magnetic,1,spin orbit torque,2
+101,charge distribution,1,interface effect,2
+102,ferromagnet/oxide interface,1,perpendicular anisotropy,2
+103,interfacial magnetic,1,perpendicular magnetic anisotropy,2
+104,micro-magnetic simulation,1,dzyaloshinskii-moriya,2
+105,bloch point,1,nanoparticles,2
+106,edge defect,1,ferrite,2
+107,mumax3,1,rare earth elements,2
+108,notches,1,charge distribution,2
+109,breathing mode,1,ferromagnet/oxide interface,2
+110,mobility,1,interfacial magnetic,2
+111,skyrmion,1,micro-magnetic simulation,2
+112,ambient vibrations,1,bloch point,2
+113,energy harvesting,1,edge defect,2
+114,internet of,1,magnetic tunneling junctions,2
+115,high density,1,magnetoresistance,2
+116,ring-shaped,1,multilevel states,2
+117,l2 cache,1,collective coordinate modeling,2
+118,magnetic tunneling junctions,1,synthase,1
+119,magnetoresistance,1,rho gtpase,1
+120,multilevel states,1,x-ray magnetic circular dichroism,1
+121,collective coordinate modeling,1,photoemission electron microscopy,1

@@ -1,372 +1,323 @@
 ,Keyword_1,frequency,Keyword_2,degreee
-0,memory,12,memory,44
-1,ion implantation,12,ion implantation,35
-2,cochlear implants,10,niti,32
-3,working memory,9,cochlear implants,30
-4,niti,9,working memory,29
-5,cochlear implant,6,nitinol,25
-6,nitinol,6,cochlear implant,22
-7,children,5,children,18
-8,multiple sclerosis,4,sma,16
-9,shape memory alloy,4,language,15
-10,language,4,corrosion,13
-11,corrosion,4,shape memory alloy,12
-12,plasma immersion ion implantation,4,implant,12
-13,deafness,3,shape memory,12
-14,cochlear,3,deafness,11
-15,shape memory effect,3,cochlear,11
-16,sma,3,multiple sclerosis,11
-17,matrix pencils,2,depression,9
-18,3d printing,2,outcome,9
-19,polyurethane,2,cognition,9
-20,depression,2,3d printing,8
-21,internet,2,polyurethane,8
-22,speech perception,2,internet,8
-23,patient-specific,2,shape memory effect,8
-24,implants,2,reading,8
-25,orbital reconstruction,2,bone,8
-26,reading,2,stiffness,8
-27,outcome,2,sme,8
-28,short-term memory,2,laser,8
-29,shape memory alloy (sma),2,nanocrystal,8
-30,shape memory polymer,2,speech perception,7
-31,development,2,patient-specific,7
-32,cognition,2,development,7
-33,acetylcholine,2,plasma immersion ion implantation,7
-34,implant,2,si,7
-35,shape memory,2,nanocrystals,7
-36,corrosion resistance,2,niti alloy,7
-37,shape memory alloys,2,fructose,6
-38,tini,2,diet,6
-39,surface properties,2,liver,6
-40,nanocrystal,2,steatosis,6
-41,nanoclusters,2,fat,6
-42,si,2,lipocalin 2,6
-43,nanocrystals,2,nafld,6
-44,non-volatile memory,2,implants,6
-45,niti alloy,2,orbital reconstruction,6
-46,ti-ni shape memory alloy,1,short-term memory,6
-47,wire electro-discharge machining,1,shape memory alloy (sma),6
-48,topography,1,acetylcholine,6
-49,distance to singularity,1,germanium,6
-50,gap distance,1,tem,6
-51,stiffness memory,1,rbs,6
-52,3d-tips,1,retention,6
-53,phase separation,1,matrix pencils,5
-54,language development,1,anxiety,5
-55,farsi,1,comorbidity,5
-56,grammar,1,transdiagnostic,5
-57,phonological short-term memory,1,tailored,5
-58,phonological,1,learning,5
-59,verbal,1,shape memory polymer,5
-60,anxiety,1,plasticity,5
-61,comorbidity,1,amygdala,5
-62,transdiagnostic,1,thalamus,5
-63,tailored,1,dorso-ventral,5
-64,attitudes,1,predictor,5
-65,icbt,1,corrosion resistance,5
-66,internet intervention,1,tini,5
-67,randomized,1,surface properties,5
-68,black phosphorus,1,nanoclusters,5
-69,near-infrared light,1,attention,5
-70,photothermal effect,1,child,5
-71,single side deafness,1,hearing aid,5
-72,bone-anchored hearing implant,1,stiffness memory,4
-73,speech,1,3d-tips,4
-74,learning,1,phase separation,4
-75,cannabis,1,farsi,4
-76,mental disorders,1,grammar,4
-77,adherence,1,attitudes,4
-78,social presence,1,icbt,4
-79,mobile health,1,internet intervention,4
-80,fructose,1,randomized,4
-81,diet,1,cannabis,4
-82,liver,1,mental disorders,4
-83,steatosis,1,adherence,4
-84,fat,1,social presence,4
-85,lipocalin 2,1,mobile health,4
-86,nafld,1,bioinks,4
-87,bioinks,1,memory-shape implants,4
-88,memory-shape implants,1,silk,4
-89,silk,1,galactic cosmic radiation,4
-90,disorders of memory content,1,mars,4
-91,electrical brain stimulation,1,geant4,4
-92,fear memory,1,monte-carlo,4
-93,sensorineural hearing loss,1,particle flux,4
-94,galactic cosmic radiation,1,auditory feedback,4
-95,mars,1,production effect,4
-96,geant4,1,study,4
-97,monte-carlo,1,smart material,4
-98,particle flux,1,mems,4
-99,polylactide,1,microelectromechanical,4
-100,activation energy,1,adolescents,4
-101,3d-printing,1,cochlear implantation,4
-102,disease-modifying therapy,1,lexicon,4
-103,discontinuation,1,morphosyntax,4
-104,relapse,1,auditory skills,4
-105,differential-algebraic systems,1,acquisition,4
-106,descriptor systems,1,digit span,4
-107,disturbance,1,language age,4
-108,orbital floor fractures,1,short-term auditory,4
-109,myelin oligodendrocyte glycoprotein,1,neuromyelitis optica,4
-110,demyelination,1,rituximab,4
-111,autoantibodies,1,b-cells,4
-112,auditory feedback,1,clonal,4
-113,production effect,1,macaque,4
-114,study,1,parietal cortex,4
-115,physiotherapy,1,frontal cortex,4
-116,rhythmic-cued motor imagery,1,subarachnoid space,4
-117,walking,1,muscimol,4
-118,smart material,1,cd8(+) t cells,4
-119,mems,1,chemotherapy,4
-120,microelectromechanical,1,chemoimmunotherapy,4
-121,adolescents,1,cyclophosphamide,4
-122,cochlear implantation,1,drug,4
-123,lexicon,1,medical radar,4
-124,morphosyntax,1,microwave imaging,4
-125,auditory skills,1,vital signs,4
-126,acquisition,1,uwb,4
-127,digit span,1,switched array,4
-128,language age,1,hearing,4
-129,short-term auditory,1,induction heating,4
-130,neuromyelitis optica,1,electrochemical test,4
-131,rituximab,1,thin films,4
-132,b-cells,1,stent,4
-133,clonal,1,polycaprolactone,4
-134,dram cell transistor,1,cell culture,4
-135,peripheral transistor,1,abutment,4
-136,implant and anneal process,1,dental implants,4
-137,nano memory,1,microleakage,4
-138,electrical pulse,1,peri-implantitis,4
-139,cnt,1,shape memory alloys,4
-140,orbital floor fracture,1,charge transfer,4
-141,auditory digit span,1,epr spectroscopy,4
-142,macaque,1,oxygen,4
-143,parietal cortex,1,tio2 nanocrystals,4
-144,frontal cortex,1,uv-induced,4
-145,subarachnoid space,1,routing,4
-146,muscimol,1,flexible manufacturing systems,4
-147,blood-meningeal barrier,1,simulation,4
-148,memory t-cells,1,stigmergy,4
-149,meningeal tumor,1,netlogo,4
-150,viral therapy,1,antibodies,4
-151,cd8(+) t cells,1,biological availability,4
-152,chemotherapy,1,blood,4
-153,chemoimmunotherapy,1,interferon-beta,4
-154,cyclophosphamide,1,multiple,4
-155,drug,1,non-volatile memory,4
-156,passive networks,1,gixrd,4
-157,network redesign,1,amorphization,4
-158,root locus,1,elastic recovery,4
-159,phase change material,1,hardness,4
-160,crystallization temperature,1,implantation,4
-161,shape memory effect (sme),1,single electron tunneling,4
-162,nickel titanium,1,osseointegration,4
-163,immunology,1,trans-femoral implant,4
-164,endothelialization,1,fea,4
-165,pathology,1,overload protection,4
-166,aneurysm,1,biocompatibility,4
-167,farsi-speaking children,1,bone healing,4
-168,niti shape memory alloy,1,trace metals,4
-169,"micro-, nano-indentation",1,phonological short-term memory,3
-170,prosody,1,phonological,3
-171,discrimination of f0,1,verbal,3
-172,duration and intensity,1,single side deafness,3
-173,medical radar,1,bone-anchored hearing implant,3
-174,microwave imaging,1,speech,3
-175,vital signs,1,polylactide,3
-176,uwb,1,activation energy,3
-177,switched array,1,3d-printing,3
-178,hearing,1,disease-modifying therapy,3
-179,auditory cortex,1,discontinuation,3
-180,brain stimulation,1,relapse,3
-181,neurophysiology,1,orbital floor fractures,3
-182,executive functions,1,physiotherapy,3
-183,fluorinated polymer,1,rhythmic-cued motor imagery,3
-184,waterborne polyurethane urea,1,walking,3
-185,niti-based shape memory alloys,1,orbital floor fracture,3
-186,superelastic alloys,1,blood-meningeal barrier,3
-187,x-ray powder,1,memory t-cells,3
-188,bone,1,meningeal tumor,3
-189,stiffness,1,viral therapy,3
-190,sme,1,passive networks,3
-191,laser,1,network redesign,3
-192,auditory learning,1,root locus,3
-193,auditory perception,1,endothelialization,3
-194,auditory training,1,pathology,3
-195,induction heating,1,aneurysm,3
-196,nickel alloys,1,farsi-speaking children,3
-197,titanium alloys,1,prosody,3
-198,social anxiety disorder,1,discrimination of f0,3
-199,internet-based self-help,1,duration and intensity,3
-200,structured diagnostic,1,auditory cortex,3
-201,nickel-titanium,1,brain stimulation,3
-202,nano-hardness,1,neurophysiology,3
-203,electrochemical test,1,executive functions,3
-204,thin films,1,auditory learning,3
-205,false memory,1,auditory perception,3
-206,compliance,1,auditory training,3
-207,online health information,1,nickel alloys,3
-208,electronic mail,1,titanium alloys,3
-209,frequently asked,1,nickel-titanium,3
-210,limit of viability,1,nano-hardness,3
-211,ethical decision-making,1,false memory,3
-212,provisional intensive care,1,compliance,3
-213,plasticity,1,online health information,3
-214,amygdala,1,electronic mail,3
-215,thalamus,1,frequently asked,3
-216,dorso-ventral,1,charge-trapping flash (ctf),3
-217,predictor,1,hfon,3
-218,charge-trapping flash (ctf),1,ion implant,3
-219,hfon,1,nonvolatile memory (nvm),3
-220,ion implant,1,association,3
-221,nonvolatile memory (nvm),1,behavioral state,3
-222,association,1,nucleus basalis,3
-223,behavioral state,1,melatonin,3
-224,nucleus basalis,1,pinealectomy,3
-225,melatonin,1,morris water maze,3
-226,pinealectomy,1,meta-memory,3
-227,morris water maze,1,porous niti shape memory alloy,3
-228,meta-memory,1,shs,3
-229,porous niti shape memory alloy,1,implant material,3
-230,shs,1,compressive,3
-231,implant material,1,al2o3,3
-232,compressive,1,alo- ion implantation,3
-233,automated insertion tool,1,deep trap,3
-234,al2o3,1,nonvolatile-memory (nvm),3
-235,alo- ion implantation,1,shape memory niti alloy,3
-236,deep trap,1,wear,3
-237,nonvolatile-memory (nvm),1,surface,3
-238,stent,1,simulations,3
-239,polycaprolactone,1,modular implants,3
-240,cell culture,1,humerus,3
-241,surface morphology and,1,numerical simulations,3
-242,abutment,1,modularity,3
-243,dental implants,1,orthopedic implants,3
-244,microleakage,1,hemo-compatibility,3
-245,peri-implantitis,1,biomedical,3
-246,shape memory niti alloy,1,alzheimer's disease,3
-247,wear,1,amyloid beta (ap),3
-248,surface,1,implanted cannula,3
-249,simulations,1,y-maze test,3
-250,modular implants,1,acoustic simulations,3
-251,humerus,1,auditory memory,3
-252,ion implanted polymers,1,novel word learning,3
-253,organic field-effect devices,1,non-word repetition,3
-254,numerical simulations,1,cortex,3
-255,modularity,1,dendrite,3
-256,orthopedic implants,1,hyperpolarization-activated cationic current,3
-257,hemo-compatibility,1,neuronal,3
-258,biomedical,1,bioactive niti alloy,3
-259,nickel-titanium shape memory alloy,1,hydroxyapatite layer,3
-260,differential scanning calorimetry,1,bone bonding,3
-261,"cochlear implant, children",1,ion irradiation,3
-262,mismatch negativity,1,sio2,3
-263,holistic medicine and health,1,photoluminescence,3
-264,clinical holistic medicine,1,interbody fusion,3
-265,cam,1,minimal access surgery,3
-266,titanium dioxide,1,spinal surgery,3
-267,nanoporous electrode,1,block copolymers,3
-268,charge transfer reductive,1,elastomers,3
-269,porous nickel-titanium,1,polymer networks,3
-270,plasma immersion ion,1,shape memory polymers,3
-271,binary-symmetric markov source,1,ti-ni,3
-272,critical distortion,1,ca ion implantation,3
-273,lossy source,1,phosphorus,3
-274,germanium,1,plasma-based implantation (pbii),3
-275,tem,1,hemocompatibiliy,3
-276,rbs,1,microstructure,3
-277,retention,1,phosphorus ion implantation,3
-278,alzheimer's disease,1,multi-channel,3
-279,amyloid beta (ap),1,acute slice,3
-280,implanted cannula,1,fepsp,3
-281,y-maze test,1,ltp,3
-282,charge transfer,1,gaba,3
-283,epr spectroscopy,1,hippocampal neuron,3
-284,oxygen,1,inhibitory post-synaptic current,3
-285,tio2 nanocrystals,1,lubricant,3
-286,uv-induced,1,ti-ni shape memory alloy,2
-287,surfaces,1,wire electro-discharge machining,2
-288,rutile,1,topography,2
-289,acoustic simulations,1,distance to singularity,2
-290,auditory memory,1,gap distance,2
-291,biodegradable shape-memory polymers,1,language development,2
-292,polymer systems,1,black phosphorus,2
-293,stimuli-sensitive,1,near-infrared light,2
-294,niti shape memory alloys,1,photothermal effect,2
-295,novel word learning,1,disorders of memory content,2
-296,non-word repetition,1,electrical brain stimulation,2
-297,cortex,1,fear memory,2
-298,dendrite,1,sensorineural hearing loss,2
-299,hyperpolarization-activated cationic current,1,differential-algebraic systems,2
-300,neuronal,1,descriptor systems,2
-301,bioactive niti alloy,1,disturbance,2
-302,hydroxyapatite layer,1,myelin oligodendrocyte glycoprotein,2
-303,bone bonding,1,demyelination,2
-304,ion irradiation,1,autoantibodies,2
-305,sio2,1,dram cell transistor,2
-306,photoluminescence,1,peripheral transistor,2
-307,glasses,1,implant and anneal process,2
-308,nonvolatile,1,nano memory,2
-309,transition,1,electrical pulse,2
-310,porous shape memory alloy,1,cnt,2
-311,combustion synthesis,1,auditory digit span,2
-312,routing,1,phase change material,2
-313,flexible manufacturing systems,1,crystallization temperature,2
-314,simulation,1,shape memory effect (sme),2
-315,stigmergy,1,nickel titanium,2
-316,netlogo,1,niti shape memory alloy,2
-317,interbody fusion,1,"micro-, nano-indentation",2
-318,minimal access surgery,1,fluorinated polymer,2
-319,spinal surgery,1,waterborne polyurethane urea,2
-320,block copolymers,1,niti-based shape memory alloys,2
-321,elastomers,1,superelastic alloys,2
-322,polymer networks,1,x-ray powder,2
-323,shape memory polymers,1,social anxiety disorder,2
-324,tini shape memory alloy,1,internet-based self-help,2
-325,n+ ion implantation,1,structured diagnostic,2
-326,tin,1,limit of viability,2
-327,antibodies,1,ethical decision-making,2
-328,biological availability,1,provisional intensive care,2
-329,blood,1,automated insertion tool,2
-330,interferon-beta,1,surface morphology and,2
-331,multiple,1,differential scanning calorimetry,2
-332,ti-ni,1,"cochlear implant, children",2
-333,ca ion implantation,1,mismatch negativity,2
-334,gixrd,1,holistic medicine and health,2
-335,amorphization,1,clinical holistic medicine,2
-336,elastic recovery,1,cam,2
-337,hardness,1,titanium dioxide,2
-338,"sequential, short-term memory",1,nanoporous electrode,2
-339,auditory temporal sequencing,1,charge transfer reductive,2
-340,receptive,1,porous nickel-titanium,2
-341,implantation,1,plasma immersion ion,2
-342,single electron tunneling,1,binary-symmetric markov source,2
-343,phosphorus,1,critical distortion,2
-344,plasma-based implantation (pbii),1,lossy source,2
-345,attention,1,biodegradable shape-memory polymers,2
-346,child,1,polymer systems,2
-347,hearing aid,1,stimuli-sensitive,2
-348,osseointegration,1,niti shape memory alloys,2
-349,trans-femoral implant,1,glasses,2
-350,fea,1,nonvolatile,2
-351,overload protection,1,transition,2
-352,hemocompatibiliy,1,porous shape memory alloy,2
-353,microstructure,1,combustion synthesis,2
-354,phosphorus ion implantation,1,tini shape memory alloy,2
-355,biocompatibility,1,n+ ion implantation,2
-356,bone healing,1,tin,2
-357,trace metals,1,"sequential, short-term memory",2
-358,multi-channel,1,auditory temporal sequencing,2
-359,acute slice,1,receptive,2
-360,fepsp,1,nonstationary nonlinear modeling,2
-361,ltp,1,volterra models,2
-362,gaba,1,time-varying,2
-363,hippocampal neuron,1,immunology,1
-364,inhibitory post-synaptic current,1,ion implanted polymers,1
-365,lubricant,1,organic field-effect devices,1
-366,nonstationary nonlinear modeling,1,nickel-titanium shape memory alloy,1
-367,volterra models,1,surfaces,1
-368,time-varying,1,rutile,1
-369,array,1,array,1
-370,synaptic potentials,1,synaptic potentials,1
+0,hippocampus,23,hippocampus,81
+1,memory,6,memory,23
+2,prefrontal cortex,6,ensemble,16
+3,nonlinear modeling,5,prefrontal cortex,15
+4,brain-computer interface,4,nonlinear modeling,15
+5,arrays,4,ca1,13
+6,ensemble,4,ca3,13
+7,recollection,3,recollection,11
+8,brain-machine interface,3,eeg,11
+9,spike,3,emotion,11
+10,spatio-temporal pattern,3,deep brain stimulation,11
+11,plasticity,3,decomposition,11
+12,volterra kernels,3,fagus sylvatica,11
+13,deep brain stimulation,3,attention,10
+14,decomposition,3,theta,10
+15,fagus sylvatica,3,brain-computer interface,10
+16,neuroprosthetics,3,spike,10
+17,ca1,3,spatio-temporal pattern,10
+18,ca3,3,plasticity,10
+19,place cells,2,neuroprosthetics,10
+20,oscillations,2,brain-machine interface,9
+21,eeg,2,volterra kernels,9
+22,emotion,2,cognition,8
+23,attention,2,subiculum,8
+24,theta,2,fmri,8
+25,motor cortex,2,arrays,8
+26,electrocorticography,2,functional connectivity,8
+27,primary motor cortex,2,litter quality,8
+28,cognition,2,litterbag,8
+29,feedback,2,mixing,8
+30,subiculum,2,motor cortex,7
+31,fmri,2,feedback,7
+32,cerebral cortex,2,cannabinoids,7
+33,electrophysiology,2,climosequence,7
+34,cannabinoids,2,learning,7
+35,endocannabinoids,2,epilepsy,7
+36,functional connectivity,2,place cells,6
+37,delayed memory task,2,oscillations,6
+38,litter quality,2,alpha,6
+39,litterbag,2,coherence,6
+40,mixing,2,frontal midline theta,6
+41,climosequence,2,cerebral cortex,6
+42,generalized laguerre-volterra,2,electrophysiology,6
+43,brain-computer interface (bci),2,endocannabinoids,6
+44,learning,2,neural prosthesis,6
+45,silicon neuron,2,biomimetic,6
+46,epilepsy,2,primary motor cortex,5
+47,neural prosthesis,2,affect,5
+48,biomimetic,2,humans,5
+49,psychophysics,1,temperature,5
+50,signal detection theory,1,warmth,5
+51,sequential analysis,1,modeling,5
+52,motion,1,nonlinear,5
+53,familiarity,1,systems analysis,5
+54,perirhinal cortex,1,cortex,5
+55,striatum,1,stimulation,5
+56,reinforcement learning,1,limb,5
+57,stereotypy,1,neurotechnology,5
+58,procedural learning,1,brain-computer interface (bci),5
+59,alpha,1,silicon neuron,5
+60,coherence,1,reentrance,5
+61,frontal midline theta,1,mvar model,5
+62,columnar organization,1,monkey,4
+63,minicolumns,1,emg,4
+64,modules,1,synchrony,4
+65,monkey,1,electrocorticography,4
+66,emg,1,long-term potentiation,4
+67,synchrony,1,enriched environment,4
+68,long-term potentiation,1,creb,4
+69,enriched environment,1,norepinephrine,4
+70,creb,1,dopamine,4
+71,neural prosthetics,1,stress,4
+72,perturbation,1,cofilin,4
+73,population,1,actin,4
+74,sleep deprivation,1,psd-95,4
+75,monkeys,1,phosphorylation,4
+76,orexin-a (hypocretin-1),1,unsupervised learning,4
+77,hippocampal place cells,1,volterra kernel,4
+78,interspike interval distributions,1,ibotenate lesion,4
+79,markov,1,entorhinal cortex,4
+80,norepinephrine,1,delay,4
+81,dopamine,1,theta rhythm,4
+82,stress,1,temporal coding,4
+83,cofilin,1,phase shift,4
+84,actin,1,cocaine,4
+85,psd-95,1,executive function,4
+86,phosphorylation,1,imaging,4
+87,unsupervised learning,1,non-human primate,4
+88,laguerre expansion,1,prefrontal,4
+89,multiple-input,1,episodic memory,4
+90,amnesia,1,rats,4
+91,recognition memory,1,relational memory,4
+92,autism,1,delayed memory task,4
+93,columns,1,delayed-nonmatch-to-sample,4
+94,frontal cortex,1,behavior,4
+95,brain-machine-brain interface,1,review,4
+96,neural plasticity,1,mechanism,4
+97,traumatic brain,1,parkinson disease,4
+98,volterra kernel,1,essential,4
+99,biomimetic signal processing,1,schizophrenia,4
+100,mixed signal,1,neuropathology,4
+101,multisite,1,cell counts,4
+102,fast-spiking,1,neurons,4
+103,regular-spiking,1,electron microscopy,4
+104,spectrotemporal,1,circuitry,4
+105,auditory cortex,1,working memory,4
+106,ibotenate lesion,1,primate,4
+107,entorhinal cortex,1,ultrastructure,4
+108,delay,1,spatial,4
+109,theta rhythm,1,encoding,4
+110,temporal coding,1,cross-correlation,4
+111,phase shift,1,litter decomposition,4
+112,cocaine,1,litterbags,4
+113,executive function,1,climate,4
+114,imaging,1,ft-mir,4
+115,non-human primate,1,ampakine,4
+116,prefrontal,1,bioinformatics,4
+117,affect,1,biological system modeling,4
+118,humans,1,eons,4
+119,temperature,1,glutamate,4
+120,warmth,1,bionics,4
+121,multi-input/multi-output (mimo) nonlinear model,1,neural engineering,4
+122,neural,1,visual cortex,4
+123,non-rem sleep,1,blindness,4
+124,low frequency delta eeg,1,electrodes,4
+125,nonverbal,1,short-term memory,4
+126,autistic disorder,1,axons,4
+127,neuroanatomy,1,brain repair,4
+128,episodic memory,1,neural interfaces,4
+129,rats,1,neuronal networks,4
+130,relational memory,1,stem cells,4
+131,electric microstimulation,1,spatial representation,4
+132,modeling,1,numeric categorization,4
+133,nonlinear,1,closed-loop,4
+134,systems analysis,1,assembly formation,4
+135,neuroprosthetic,1,competition,4
+136,cortical physiology,1,engrams,4
+137,darpa,1,excitability,4
+138,neuroscience,1,brain stimulation,4
+139,cortex,1,memory enhancement,4
+140,stimulation,1,cerebellum,4
+141,limb,1,fpga,4
+142,neurotechnology,1,delay eyeblink conditioning,4
+143,cb1 antagonist,1,spiking,4
+144,wiener kernels,1,psychophysics,3
+145,poisson inputs,1,signal detection theory,3
+146,generalized linear model,1,sequential analysis,3
+147,sparsity,1,motion,3
+148,penalized,1,familiarity,3
+149,in vitro modular networks,1,perirhinal cortex,3
+150,whole brain,1,striatum,3
+151,lesioned circuits,1,reinforcement learning,3
+152,in silico,1,stereotypy,3
+153,machine interfaces,1,procedural learning,3
+154,cortical cultures,1,neural prosthetics,3
+155,long-term,1,perturbation,3
+156,closed-loop feedback,1,population,3
+157,cortical neural prosthesis,1,sleep deprivation,3
+158,facilitation,1,monkeys,3
+159,depression,1,orexin-a (hypocretin-1),3
+160,poisson random train,1,laguerre expansion,3
+161,delayed-nonmatch-to-sample,1,multiple-input,3
+162,behavior,1,biomimetic signal processing,3
+163,review,1,mixed signal,3
+164,mechanism,1,multisite,3
+165,parkinson disease,1,fast-spiking,3
+166,essential,1,regular-spiking,3
+167,schizophrenia,1,spectrotemporal,3
+168,neuropathology,1,auditory cortex,3
+169,cell counts,1,non-rem sleep,3
+170,neurons,1,low frequency delta eeg,3
+171,electron microscopy,1,nonverbal,3
+172,circuitry,1,electric microstimulation,3
+173,working memory,1,darpa,3
+174,primate,1,neuroscience,3
+175,ultrastructure,1,cb1 antagonist,3
+176,multi-input multi-output neuronal systems,1,wiener kernels,3
+177,dynamic,1,poisson inputs,3
+178,oculometrics,1,generalized linear model,3
+179,pupil diameter,1,sparsity,3
+180,frontal cortical neurons,1,penalized,3
+181,cognitive,1,in vitro modular networks,3
+182,spatial,1,whole brain,3
+183,encoding,1,lesioned circuits,3
+184,cross-correlation,1,in silico,3
+185,litter decomposition,1,machine interfaces,3
+186,litterbags,1,cortical cultures,3
+187,climate,1,long-term,3
+188,ft-mir,1,facilitation,3
+189,closed-loop control,1,depression,3
+190,hippocampal ensembles,1,poisson random train,3
+191,nonlinear math model,1,oculometrics,3
+192,amplifier,1,pupil diameter,3
+193,cmos,1,frontal cortical neurons,3
+194,common-mode feedback,1,cognitive,3
+195,common-mode rejection ratio,1,amplifier,3
+196,field-programmable gate array (fpga),1,cmos,3
+197,ampakine,1,common-mode feedback,3
+198,bioinformatics,1,common-mode rejection ratio,3
+199,biological system modeling,1,trial sequence,3
+200,eons,1,neural ensemble codes,3
+201,glutamate,1,elevation gradient,3
+202,trial sequence,1,neural recording,3
+203,neural ensemble codes,1,pet imaging,3
+204,elevation gradient,1,cocaine rewards,3
+205,neural recording,1,facilitation. depression,3
+206,pet imaging,1,poisson stimulus,3
+207,cocaine rewards,1,volterra,3
+208,facilitation. depression,1,paired associative stimulation,3
+209,poisson stimulus,1,stdp,3
+210,volterra,1,spiking neuron,3
+211,multi-electrode arrays,1,laguerre expansions,3
+212,acute hippocampal slices,1,neuron model,3
+213,spatial neural,1,nonlinear dynamics,3
+214,array,1,motor prosthetics,3
+215,paired associative stimulation,1,sensory feedback,3
+216,stdp,1,electrical,3
+217,microelectrodes,1,neuronal modeling,3
+218,bionics,1,laguerre,3
+219,neural engineering,1,closed loop,3
+220,visual cortex,1,bidirectional,3
+221,blindness,1,system identification,3
+222,electrodes,1,volterra modeling,3
+223,spiking neuron,1,rodent,3
+224,field programmable gate array (fpga),1,natural images,3
+225,computational modeling,1,receptive fields,3
+226,cognitive processing,1,spike-triggered,3
+227,science education,1,covariance,3
+228,short-term memory,1,learning rule,3
+229,multi-input/multi-output (mimo) neuronal systems,1,spike-timing-dependent,3
+230,laguerre expansions,1,ssppf,3
+231,neuron model,1,adaptive filter,3
+232,nonlinear dynamics,1,neural modeling,3
+233,motor prosthetics,1,field-programmable gate array,3
+234,sensory feedback,1,neuron,3
+235,electrical,1,threshold dynamics,3
+236,neuronal modeling,1,whole-cell patch-clamp,3
+237,laguerre,1,qualitative modeling,3
+238,axons,1,non-linear dynamics,3
+239,brain repair,1,low-power,3
+240,neural interfaces,1,neurostimulation,3
+241,neuronal networks,1,spiking network model,3
+242,stem cells,1,kernel adaptive,3
+243,closed loop,1,neuromodulation,3
+244,bidirectional,1,parkinson's disease,3
+245,spatial representation,1,analog signal processing,3
+246,numeric categorization,1,gm-c filters,3
+247,system identification,1,neuromorphic,3
+248,volterra modeling,1,hippocampal neurons,3
+249,rodent,1,hierarchical encoding,3
+250,natural images,1,retention and,3
+251,receptive fields,1,cell assembly,3
+252,spike-triggered,1,multineuronal recording,3
+253,covariance,1,optogenetics,3
+254,computer-controlled electrical stimulation,1,live cell imaging,3
+255,cortical electrical,1,integration,3
+256,neuromorphic engineering,1,coordination,3
+257,biohybrid interface,1,cortical layers,3
+258,learning rule,1,cortical minicolumns,3
+259,spike-timing-dependent,1,brain machine interface,3
+260,ssppf,1,organoid,3
+261,adaptive filter,1,whole,3
+262,neural modeling,1,neuronal cultures,3
+263,field-programmable gate array,1,neural networks,3
+264,neuron,1,spontaneous activity,3
+265,threshold dynamics,1,columnar organization,2
+266,whole-cell patch-clamp,1,minicolumns,2
+267,qualitative modeling,1,modules,2
+268,non-linear dynamics,1,hippocampal place cells,2
+269,low-power,1,interspike interval distributions,2
+270,closed-loop,1,markov,2
+271,neurostimulation,1,amnesia,2
+272,spiking network model,1,recognition memory,2
+273,kernel adaptive,1,autism,2
+274,reentrance,1,columns,2
+275,mvar model,1,frontal cortex,2
+276,neuromodulation,1,brain-machine-brain interface,2
+277,parkinson's disease,1,neural plasticity,2
+278,analog signal processing,1,traumatic brain,2
+279,gm-c filters,1,multi-input/multi-output (mimo) nonlinear model,2
+280,neuromorphic,1,neural,2
+281,hippocampal neurons,1,autistic disorder,2
+282,hierarchical encoding,1,neuroanatomy,2
+283,retention and,1,neuroprosthetic,2
+284,hippocampal prosthesis,1,cortical physiology,2
+285,ensemble activity,1,closed-loop feedback,2
+286,assembly formation,1,cortical neural prosthesis,2
+287,competition,1,multi-input multi-output neuronal systems,2
+288,engrams,1,dynamic,2
+289,excitability,1,closed-loop control,2
+290,emotional intelligence,1,hippocampal ensembles,2
+291,practical intelligence,1,nonlinear math model,2
+292,vlsi,1,generalized laguerre-volterra,2
+293,reconfigurable computing,1,multi-electrode arrays,2
+294,brain stimulation,1,acute hippocampal slices,2
+295,memory enhancement,1,spatial neural,2
+296,cell assembly,1,microelectrodes,2
+297,multineuronal recording,1,computational modeling,2
+298,optogenetics,1,cognitive processing,2
+299,live cell imaging,1,science education,2
+300,cerebellum,1,neuromorphic engineering,2
+301,fpga,1,biohybrid interface,2
+302,delay eyeblink conditioning,1,hippocampal prosthesis,2
+303,spiking,1,ensemble activity,2
+304,integration,1,emotional intelligence,2
+305,coordination,1,practical intelligence,2
+306,cortical layers,1,vlsi,2
+307,cortical minicolumns,1,reconfigurable computing,2
+308,brain machine interface,1,advanced materials,2
+309,organoid,1,artificial biological organs,2
+310,whole,1,bioelectronics,2
+311,network,1,neural spiking activity,2
+312,cerebral-cortex,1,neural simulator,2
+313,advanced materials,1,field-programmable gate,2
+314,artificial biological organs,1,field-programmable gate array (fpga),1
+315,bioelectronics,1,field programmable gate array (fpga),1
+316,neuronal cultures,1,multi-input/multi-output (mimo) neuronal systems,1
+317,neural networks,1,computer-controlled electrical stimulation,1
+318,spontaneous activity,1,cortical electrical,1
+319,neural spiking activity,1,network,1
+320,neural simulator,1,cerebral-cortex,1
+321,field-programmable gate,1,,
