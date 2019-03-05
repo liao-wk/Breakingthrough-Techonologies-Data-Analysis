@@ -1,0 +1,244 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,prenatal diagnosis,24,prenatal diagnosis,65
+1,down syndrome,12,down syndrome,36
+2,cell-free fetal dna,10,aneuploidy,25
+3,aneuploidy,8,cell-free fetal dna,24
+4,fetal dna,8,fetal dna,22
+5,cell-free dna,7,dna,21
+6,next-generation sequencing,6,nipt,18
+7,noninvasive prenatal testing,6,cell-free dna,18
+8,nipt,5,prenatal,18
+9,noninvasive,5,fetal cells,16
+10,dna,5,noninvasive prenatal testing,15
+11,prenatal,5,noninvasive,15
+12,noninvasive prenatal diagnosis,5,next-generation sequencing,14
+13,next-generation,4,next-generation,10
+14,next generation sequencing,4,fetal aneuploidy,10
+15,massively parallel sequencing,4,noninvasive prenatal diagnosis,10
+16,fetal cells,4,non-invasive,9
+17,fetal aneuploidy,4,next generation sequencing,9
+18,maternal plasma,4,massively parallel sequencing,9
+19,dna methylation,3,maternal plasma,9
+20,non-invasive prenatal,3,treatment,8
+21,noninvasive prenatal,3,rna,8
+22,non-invasive,3,dna methylation,7
+23,non-invasive prenatal testing,3,non-invasive prenatal,7
+24,polymorphisms,3,transplant,7
+25,treatment,3,genetics,6
+26,fetal dna in maternal plasma,3,noninvasive prenatal,6
+27,circulating nucleic acids,3,non-invasive prenatal testing,6
+28,genetics,2,maternal plasma dna,6
+29,thalassemia,2,maternal,6
+30,noninvasive prenatal test,2,circulating nucleic acids,6
+31,monogenic diseases,2,thalassemia,5
+32,maternal plasma dna,2,noninvasive prenatal test,5
+33,digital pcr,2,monogenic diseases,5
+34,maternal,2,polymorphisms,5
+35,circulating fetal dna,2,gene,5
+36,plasma dna,2,metabolism,5
+37,transplant,2,rare,5
+38,trisomy 21,2,villus,5
+39,rna,2,digital pcr,5
+40,circulating cell-free fetal dna,2,depth of coverage,5
+41,non-invasive prenatal diagnosis,2,ngs,5
+42,beta-thalassemia,2,whole genome,5
+43,gene mutation,2,plasma dna,5
+44,calves,1,genome,5
+45,prenatal stress,1,exome,5
+46,prenatal exome,1,mendelian,5
+47,variants of unknown clinical significance,1,cancer,5
+48,phenotyping,1,trisomy 21,5
+49,cell-free dna sequencing,1,qf-pcr,5
+50,copy-number variant,1,chromosome x aneuploidies,5
+51,incidental finding,1,amelogenin,5
+52,cell free fetal dna,1,nucleic,5
+53,monogenic disorders,1,beta-thalassemia,5
+54,cell-free deoxyribonucleic acid (cfdna),1,gene mutation,5
+55,fetus,1,trisomy,4
+56,genetic diagnosis,1,screening,4
+57,hemophilia b,1,chromosomes,4
+58,karyomapping,1,fragmented dna,4
+59,preimplantation genetic,1,genetic analysis,4
+60,infant,1,intact,4
+61,premature,1,chromosome abnormality,4
+62,gastrointestinal microbiome,1,microarray,4
+63,anti-bacterial agents,1,genetic,4
+64,genomics,1,fetal dna in maternal plasma,4
+65,expanded carrier screening,1,fetal diagnosis,4
+66,cell free dna,1,first trimester,4
+67,chromosomal,1,circulating fetal dna,4
+68,fetal overgrowth,1,genetic counselling,4
+69,gpc3,1,single gene disorders,4
+70,prenatal symptoms,1,general,4
+71,simpson-golabi-behmel,1,circulating cell-free fetal dna,4
+72,copy number variation,1,nucleic acids and proteins,4
+73,prenatal paternity testing,1,single gene,4
+74,massively parallel,1,cytogenetics,4
+75,target region capture,1,array cgh,4
+76,massively,1,snp arrays,4
+77,high-throughput sequencing,1,dna sequencing,4
+78,sex chromosomal aneuploidies,1,structural,4
+79,choroideremia,1,cell free fetal dna,3
+80,dna mutation,1,cell-free deoxyribonucleic acid (cfdna),3
+81,aneuploidies,1,fetus,3
+82,circulating cell-free dna,1,genetic diagnosis,3
+83,targeted sequencing,1,hemophilia b,3
+84,massive,1,karyomapping,3
+85,chromosomal microarray analysis,1,preimplantation genetic,3
+86,noninvasive prenatal screening,1,infant,3
+87,case reports,1,premature,3
+88,obstetrics,1,gastrointestinal microbiome,3
+89,prenatal care,1,anti-bacterial agents,3
+90,"cell-free dna, (cfdna)",1,genomics,3
+91,"cell-free fetal dna, (cffdna)",1,expanded carrier screening,3
+92,copy number,1,cell free dna,3
+93,gene,1,chromosomal,3
+94,metabolism,1,fetal overgrowth,3
+95,rare,1,gpc3,3
+96,villus,1,prenatal symptoms,3
+97,tyrosinemia,1,simpson-golabi-behmel,3
+98,fah gene,1,target region capture,3
+99,methylome,1,massively,3
+100,transcriptome,1,choroideremia,3
+101,massive parallel sequencing,1,dna mutation,3
+102,bioinformatics analysis,1,targeted sequencing,3
+103,trisomy,1,massive,3
+104,screening,1,case reports,3
+105,chromosomes,1,obstetrics,3
+106,aneuploidy screening,1,prenatal care,3
+107,massive-parallel dna sequencing,1,tyrosinemia,3
+108,array analysis,1,fah gene,3
+109,commercialization,1,methylome,3
+110,fragmented dna,1,transcriptome,3
+111,genetic analysis,1,massive parallel sequencing,3
+112,intact,1,amplification-free,3
+113,array cgh limitations,1,library preparation,3
+114,molecular karyotyping,1,karyotyping,3
+115,prenatal cnv-seq,1,sequencing,3
+116,amplification-free,1,trisomy 9,3
+117,library preparation,1,arpkd,3
+118,karyotyping,1,pkhd1,3
+119,sequencing,1,compound heterozygous mutation,3
+120,trisomy 9,1,size profiling,3
+121,chromosome abnormality,1,down,3
+122,microarray,1,chromosomal aberrations,3
+123,genetic,1,clinical practice,3
+124,depth of coverage,1,next generation,3
+125,ngs,1,ldr microarray,3
+126,whole genome,1,congenital deafness,3
+127,arpkd,1,amniocentesis,3
+128,pkhd1,1,chorionic villus sampling,3
+129,compound heterozygous mutation,1,fetal aneuploidies,3
+130,congenital adrenal hyperplasia,1,maternal serum,3
+131,haplotype,1,chromosomal abnormalities,3
+132,size profiling,1,plasma nucleic acids,3
+133,down,1,foetal dna in maternal,3
+134,chromosomal aberrations,1,nucleic acids & proteins,3
+135,clinical practice,1,maternal serum screening,3
+136,next generation,1,hemoglobinopathies,3
+137,ldr microarray,1,pyrosequencing,3
+138,congenital deafness,1,maternal dna,3
+139,whole genome sequencing,1,carrier testing,3
+140,massive parallel genomic sequencing,1,non-invasive prenatal diagnosis,3
+141,fetal sex,1,chromosomal aneuploidy,3
+142,fetal diagnosis,1,monogenic disease,3
+143,first trimester,1,hemophilia,3
+144,down syndrome screening,1,dna inversions,3
+145,chromosomal abnormality,1,is-pcr,3
+146,prenatal screening,1,egypt,3
+147,cffdna,1,outcome,3
+148,chromosomal aneuploidies,1,epigenetic,3
+149,amniocentesis,1,polymerase chain reaction,3
+150,chorionic villus sampling,1,short tandem,3
+151,fetal aneuploidies,1,haemophilia,3
+152,maternal serum,1,pregnancy,3
+153,fetal whole genome recovery,1,tuberous sclerosis,3
+154,genome,1,rhabdomyoma,3
+155,exome,1,hereditary spastic paraplegia,3
+156,mendelian,1,hsp,3
+157,cancer,1,spg4,3
+158,cell free fetal dna in maternal blood,1,beta thalassemia,3
+159,chromosomal abnormalities,1,dna maternal contamination,3
+160,cell-free dna (cfdna),1,hla ssp-pcr,3
+161,plasma nucleic acids,1,eec syndrome,3
+162,foetal dna in maternal,1,genodermatosis,3
+163,genetic counselling,1,p63 gene mutation,3
+164,single gene disorders,1,netherton syndrome,3
+165,general,1,spink5,3
+166,nucleic acids & proteins,1,serine protease,3
+167,maternal serum screening,1,epidermolysis bullosa simplex,3
+168,hemoglobinopathies,1,keratin 14,3
+169,pyrosequencing,1,mutation,3
+170,maternal dna,1,calves,2
+171,carrier testing,1,prenatal stress,2
+172,nipd,1,prenatal exome,2
+173,cell-free fetal nucleic acids,1,variants of unknown clinical significance,2
+174,fetal,1,phenotyping,2
+175,nucleic acids and proteins,1,cell-free dna sequencing,2
+176,single gene,1,copy-number variant,2
+177,chromosomal aneuploidy,1,incidental finding,2
+178,monogenic disease,1,monogenic disorders,2
+179,cytogenetics,1,copy number variation,2
+180,array cgh,1,prenatal paternity testing,2
+181,snp arrays,1,massively parallel,2
+182,dna sequencing,1,high-throughput sequencing,2
+183,structural,1,sex chromosomal aneuploidies,2
+184,epigenomics,1,aneuploidies,2
+185,prevention of chromosome abnormalities,1,circulating cell-free dna,2
+186,genetic treatment,1,noninvasive prenatal screening,2
+187,real-time pcr,1,"cell-free dna, (cfdna)",2
+188,huntington-disease,1,"cell-free fetal dna, (cffdna)",2
+189,sex determination,1,copy number,2
+190,point,1,bioinformatics analysis,2
+191,genetic digital pcr,1,aneuploidy screening,2
+192,quantitative-analysis,1,massive-parallel dna sequencing,2
+193,qf-pcr,1,array analysis,2
+194,chromosome x aneuploidies,1,commercialization,2
+195,amelogenin,1,array cgh limitations,2
+196,nucleic,1,molecular karyotyping,2
+197,hemophilia,1,prenatal cnv-seq,2
+198,dna inversions,1,congenital adrenal hyperplasia,2
+199,is-pcr,1,haplotype,2
+200,fluorescence amplifying slides,1,whole genome sequencing,2
+201,solexa sequencing,1,massive parallel genomic sequencing,2
+202,egypt,1,fetal sex,2
+203,outcome,1,down syndrome screening,2
+204,epigenetic,1,chromosomal abnormality,2
+205,polymerase chain reaction,1,prenatal screening,2
+206,short tandem,1,cffdna,2
+207,beta-thalassemia (thal),1,chromosomal aneuploidies,2
+208,reverse dot-blot,1,fetal whole genome recovery,2
+209,haemophilia,1,cell free fetal dna in maternal blood,2
+210,pregnancy,1,cell-free dna (cfdna),2
+211,holocarboxylase synthetase,1,nipd,2
+212,molecular diagnosis,1,cell-free fetal nucleic acids,2
+213,dmd,1,fetal,2
+214,carrier analysis,1,epigenomics,2
+215,semiquantitative pcr,1,prevention of chromosome abnormalities,2
+216,circulating nucleic,1,genetic treatment,2
+217,tuberous sclerosis,1,real-time pcr,2
+218,rhabdomyoma,1,huntington-disease,2
+219,xeroderma pigmentosum group a,1,sex determination,2
+220,hereditary spastic paraplegia,1,point,2
+221,hsp,1,genetic digital pcr,2
+222,spg4,1,solexa sequencing,2
+223,mutation analysis,1,beta-thalassemia (thal),2
+224,iran,1,reverse dot-blot,2
+225,beta thalassemia,1,holocarboxylase synthetase,2
+226,dna maternal contamination,1,molecular diagnosis,2
+227,hla ssp-pcr,1,dmd,2
+228,eec syndrome,1,carrier analysis,2
+229,genodermatosis,1,semiquantitative pcr,2
+230,p63 gene mutation,1,circulating nucleic,2
+231,netherton syndrome,1,xeroderma pigmentosum group a,2
+232,spink5,1,mutation analysis,2
+233,serine protease,1,iran,2
+234,d-bifunctional protein deficiency,1,d-bifunctional protein deficiency,2
+235,peroxisomal disorder,1,peroxisomal disorder,2
+236,graft rejection,1,graft rejection,2
+237,polymerase chain reaction (pcr),1,polymerase chain reaction (pcr),2
+238,epidermolysis bullosa simplex,1,primary immunodeficiency,2
+239,keratin 14,1,wiskott-aldrich syndrome,2
+240,mutation,1,chromosomal microarray analysis,1
+241,primary immunodeficiency,1,quantitative-analysis,1
+242,wiskott-aldrich syndrome,1,fluorescence amplifying slides,1

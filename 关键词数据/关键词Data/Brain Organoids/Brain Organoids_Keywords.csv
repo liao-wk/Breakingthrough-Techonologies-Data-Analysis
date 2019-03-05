@@ -1,0 +1,452 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,blood-brain barrier,13,mass spectrometry,36
+1,mass spectrometry,10,blood-brain barrier,36
+2,proteomics,8,proteomics,28
+3,neurons,7,brain,28
+4,brain,7,neurons,26
+5,glioma,7,astrocytes,20
+6,astrocytes,6,lactate,18
+7,glioblastoma,5,glia,18
+8,microglia,5,microglia,18
+9,lactate,4,glioblastoma,16
+10,lc-ms,4,lc-ms,16
+11,glia,4,glioma,15
+12,astrocyte,4,astrocyte,14
+13,drug,3,neuron,13
+14,neuroinflammation,3,glycolysis,11
+15,liquid,3,drug,11
+16,neuroscience,3,cell culture,11
+17,alzheimer's disease,3,liquid,10
+18,neuron,3,neuroscience,10
+19,cell culture,3,mass,9
+20,traumatic brain injury,3,actin,9
+21,muscle,2,muscle,8
+22,bdnf,2,metabolomics,8
+23,neural progenitor cells,2,alzheimer's disease,8
+24,proliferation,2,in vitro,8
+25,zika virus,2,morphine,8
+26,metabolomics,2,zika virus,7
+27,phosphorylation,2,cancer stem cells,7
+28,brain-derived neurotrophic factor,2,pharmacokinetics,7
+29,endothelial cells,2,cns,7
+30,mass,2,neuroinflammation,7
+31,glycolysis,2,peptidomics,7
+32,cancer stem cells,2,invasion,7
+33,drug discovery,2,gfap,7
+34,differentiation,2,drug delivery,7
+35,glioblastoma multiforme,2,stem cells,7
+36,imaging mass,2,bdnf,6
+37,pharmacokinetics,2,neural progenitor cells,6
+38,cns,2,proliferation,6
+39,actin,2,phosphorylation,6
+40,bbb,2,endothelial cells,6
+41,issue 88,2,drug discovery,6
+42,neural progenitor cell,2,glioblastoma multiforme,6
+43,neural precursor cell,2,bbb,6
+44,primary culture,2,issue 88,6
+45,peptidomics,2,neural progenitor cell,6
+46,in vitro,2,neural precursor cell,6
+47,invasion,2,primary culture,6
+48,gfap,2,drug metabolism,6
+49,drug metabolism,2,neural stem cell,6
+50,drug delivery,2,traumatic brain injury,6
+51,neural stem cell,2,cd133,6
+52,stem cells,2,facs,6
+53,cd133,2,microarray,6
+54,morphine,2,glutamate,6
+55,migration,2,tca cycle,6
+56,muscular contraction,1,migration,6
+57,myocytes,1,chromatography,5
+58,myokines,1,efavirenz,5
+59,skeletal muscle mass,1,hiv,5
+60,gts-201,1,differentiation,5
+61,mimetic,1,imaging mass,5
+62,dipeptide,1,lamin,5
+63,neuroprotective activity,1,isoform,5
+64,glial maturation factor beta,1,spliceoform,5
+65,acute cerebral ischemia,1,label-free,5
+66,lung injury,1,cell type,5
+67,rna,1,oligodendrocyte,5
+68,erk activation,1,secreted peptides,5
+69,neurogenesis,1,ce-ms,5
+70,development,1,dependence,5
+71,cerebral cortex,1,nervous system,5
+72,mitochondrial metabolism,1,proteome,5
+73,perinatal,1,fetal human,5
+74,algae,1,spinal cord,5
+75,single cell,1,drebrin,5
+76,liquid capture,1,stomach,5
+77,laser,1,kidney,5
+78,rna metabolism,1,epithelial cell,5
+79,tight junction proteins,1,parietal cell,5
+80,gliopeptide odn,1,antiserum,5
+81,moderate oxidative stress,1,astroglia,5
+82,reactive oxygen species,1,glutathione,5
+83,odn,1,oligodendroglia,5
+84,brain endothelial cells,1,muscular contraction,4
+85,blood-brain barrier model,1,myocytes,4
+86,ipsc,1,myokines,4
+87,digoxin,1,skeletal muscle mass,4
+88,maldi imaging,1,gts-201,4
+89,nucleotide sugar,1,mimetic,4
+90,udp-mannose,1,dipeptide,4
+91,mannosylation,1,neuroprotective activity,4
+92,lc-esi-ms/ms,1,algae,4
+93,sugars,1,single cell,4
+94,mammalian-cells,1,liquid capture,4
+95,glycans,1,laser,4
+96,glycosylation,1,digoxin,4
+97,postmortem brain tissue,1,maldi imaging,4
+98,schizophrenia,1,brain-derived neurotrophic factor,4
+99,rat brain endothelial cell line (rbe-4) cells,1,copper,4
+100,ammonia,1,manganese,4
+101,3d cell culture,1,free radicals,4
+102,organoids,1,sh-sy5y cells,4
+103,quantitative proteomics,1,neuronal death,4
+104,liquid-liquid extraction,1,in vitro blood brain barrier,4
+105,gc-ms,1,mea,4
+106,lithiumion battery (lib),1,neuronal network culture,4
+107,organic,1,omics,4
+108,brevibacillus choshinensis,1,serotonylation,4
+109,biotinylation,1,transamidation,4
+110,membrane proteins,1,transglutaminase,4
+111,irradiation,1,fibrinogen,4
+112,quantitative image analysis,1,kalirin,4
+113,neuron transport rate,1,dendritic spine,4
+114,quantitative phase,1,actin cytoskeleton,4
+115,basement membrane,1,aging,4
+116,invitro models,1,ethoxzolamide,4
+117,caudal cell mass,1,uplc-ms/ms,4
+118,secondary neural tube,1,absorption,4
+119,neurosphere,1,moesin,4
+120,neural progenitor,1,erm,4
+121,alzheimer disease,1,phospho-erm,4
+122,amyloid-p protein,1,extracellular proteins,4
+123,amyloid-p,1,blood-spinal cord barrier,4
+124,degradation fragments,1,teer,4
+125,copper,1,angiogenesis,4
+126,manganese,1,annexin a2,4
+127,free radicals,1,edema disease,4
+128,sh-sy5y cells,1,glycolipids,4
+129,neuronal death,1,lipid rafts,4
+130,chromatography,1,tlc,4
+131,efavirenz,1,issue 73,4
+132,hiv,1,neurobiology,4
+133,genetic alterations,1,developmental biology,4
+134,ecv304/c6 coculture,1,anatomy,4
+135,bbb model,1,axon,4
+136,rhubarb,1,branching,4
+137,microfluidic device,1,cofilin,4
+138,cns drugs,1,dendrite,4
+139,drug permeability,1,neuronal development,4
+140,brain cancer stem cell,1,biomarkers,4
+141,hypoxia tolerance,1,tbi,4
+142,brain tumors,1,ms-quantitation,4
+143,tumor microenvironment,1,genomic instability,4
+144,animal models,1,review,4
+145,xenotransplantation,1,co-culture,4
+146,magnesium homeostasis,1,transport,4
+147,trpm7,1,glucose,4
+148,in vitro blood brain barrier,1,malate-aspartate shuttle,4
+149,mea,1,nadh,4
+150,neuronal network culture,1,bile-duct-ligation,4
+151,omics,1,phospholipid,4
+152,arrays,1,phosphatidylglucoside,4
+153,opiorphin,1,ms/ms,4
+154,peptidase inhibitor,1,quantitative,4
+155,brain endothelial,1,leukotrienes,4
+156,serotonylation,1,neutrophils,4
+157,transamidation,1,salinomycin,4
+158,transglutaminase,1,monensin,4
+159,fibrinogen,1,lc/ms/ms,4
+160,kalirin,1,optimem cell culture medium,4
+161,dendritic spine,1,mouse,4
+162,actin cytoskeleton,1,human mesenchymal stem cells,4
+163,aging,1,ms,4
+164,ethoxzolamide,1,online scx-rp,4
+165,uplc-ms/ms,1,prostaglandins,4
+166,absorption,1,nmr spectroscopy,4
+167,brain microvascular endothelial cells,1,pattern recognition,4
+168,in vitro bbb,1,tumour,4
+169,chlorinated fatty aldehyde,1,human,4
+170,moesin,1,"indoleamine 2,3-dioxygenase",4
+171,erm,1,synaptic transmission,4
+172,phospho-erm,1,myosin,4
+173,extracellular proteins,1,septins,4
+174,angiotensin ii,1,vesicle transport,4
+175,angiotensin peptides,1,signal,4
+176,cath.a neurons,1,disulfide linker,4
+177,neurodegenerative disease,1,liposomes,4
+178,parkinson disease,1,gene delivery,4
+179,maldi-tof imaging,1,plasmid dna,4
+180,autoantibody,1,glial maturation factor beta,3
+181,immunology,1,acute cerebral ischemia,3
+182,central nervous system,1,lung injury,3
+183,tetrahydroisoquinoline,1,rna,3
+184,parkinson's disease,1,erk activation,3
+185,aswagandha,1,neurogenesis,3
+186,neurological disorder,1,development,3
+187,hormone,1,cerebral cortex,3
+188,growth-factor,1,mitochondrial metabolism,3
+189,two-photon imaging,1,perinatal,3
+190,ultraviolet microscopy,1,brain endothelial cells,3
+191,neurotransmitter imaging,1,blood-brain barrier model,3
+192,proteomic,1,ipsc,3
+193,translational study,1,nucleotide sugar,3
+194,cancer-associated,1,udp-mannose,3
+195,neurosphere/subspheres,1,mannosylation,3
+196,adherent stem,1,lc-esi-ms/ms,3
+197,mesenchymal stem cells,1,sugars,3
+198,secretome,1,mammalian-cells,3
+199,lamin,1,glycans,3
+200,isoform,1,glycosylation,3
+201,spliceoform,1,postmortem brain tissue,3
+202,label-free,1,schizophrenia,3
+203,neuropeptide,1,3d cell culture,3
+204,bioactive peptide,1,organoids,3
+205,in vitro test,1,quantitative proteomics,3
+206,nerve tissue engineering,1,liquid-liquid extraction,3
+207,neural cell,1,gc-ms,3
+208,stem cell,1,lithiumion battery (lib),3
+209,biomimetic material,1,organic,3
+210,gelatin,1,biotinylation,3
+211,hyaluronic acid/hyaluronan,1,membrane proteins,3
+212,cell type,1,irradiation,3
+213,oligodendrocyte,1,basement membrane,3
+214,blood-spinal cord barrier,1,invitro models,3
+215,teer,1,caudal cell mass,3
+216,angiogenesis,1,secondary neural tube,3
+217,annexin a2,1,neurosphere,3
+218,edema disease,1,neural progenitor,3
+219,glycolipids,1,alzheimer disease,3
+220,lipid rafts,1,amyloid-p protein,3
+221,tlc,1,amyloid-p,3
+222,serine protease,1,degradation fragments,3
+223,gfap2,1,genetic alterations,3
+224,issue 73,1,ecv304/c6 coculture,3
+225,neurobiology,1,bbb model,3
+226,developmental biology,1,rhubarb,3
+227,anatomy,1,microfluidic device,3
+228,release,1,cns drugs,3
+229,maldi-tof,1,drug permeability,3
+230,brain mass,1,brain tumors,3
+231,staphylococcus aureus,1,tumor microenvironment,3
+232,infancy,1,animal models,3
+233,fetoprotein,1,xenotransplantation,3
+234,absolute mass pectrometric quantitation,1,magnesium homeostasis,3
+235,immunoaffinity enrichment,1,trpm7,3
+236,maitotoxin,1,opiorphin,3
+237,neurobrucellosis,1,peptidase inhibitor,3
+238,nongranulomatous encephalitis and cerebral mass,1,brain endothelial,3
+239,axon,1,angiotensin ii,3
+240,branching,1,angiotensin peptides,3
+241,cofilin,1,cath.a neurons,3
+242,dendrite,1,autoantibody,3
+243,neuronal development,1,immunology,3
+244,exchange factor,1,central nervous system,3
+245,gtpase-activating proteins,1,aswagandha,3
+246,beta-pix,1,neurological disorder,3
+247,secreted peptides,1,hormone,3
+248,ce-ms,1,growth-factor,3
+249,biomarkers,1,proteomic,3
+250,tbi,1,translational study,3
+251,ms-quantitation,1,cancer-associated,3
+252,resveratrol,1,neurosphere/subspheres,3
+253,sulfonation,1,adherent stem,3
+254,drug resistance,1,mesenchymal stem cells,3
+255,astroglial differentiation,1,secretome,3
+256,membrane protein,1,in vitro test,3
+257,silac,1,nerve tissue engineering,3
+258,phencyclidine,1,neural cell,3
+259,quantification,1,stem cell,3
+260,isocitrate dehydrogenase 2-hydroxyglutarate,1,biomimetic material,3
+261,microdialysis,1,gelatin,3
+262,brain microvessel endothelial cell culture,1,hyaluronic acid/hyaluronan,3
+263,genomic instability,1,brain mass,3
+264,review,1,staphylococcus aureus,3
+265,tumor stem-cells,1,infancy,3
+266,culture,1,fetoprotein,3
+267,clinical disorders,1,absolute mass pectrometric quantitation,3
+268,lipids,1,resveratrol,3
+269,time-of-flight secondary,1,sulfonation,3
+270,intact cell mass spectrometry (icms),1,drug resistance,3
+271,maldi-tof-ms,1,astroglial differentiation,3
+272,geissoschizine methyl ether,1,membrane protein,3
+273,uncaria hook,1,silac,3
+274,obesity,1,phencyclidine,3
+275,feeding,1,quantification,3
+276,amyloid beta-peptide,1,clinical disorders,3
+277,receptor for advanced,1,lipids,3
+278,bond,1,time-of-flight secondary,3
+279,in-vitro,1,bond,3
+280,fibril formation,1,in-vitro,3
+281,transgenic mice,1,fibril formation,3
+282,co-culture,1,transgenic mice,3
+283,transport,1,dimerization,3
+284,multipotent adult progenitor cells,1,immunoprecipitation,3
+285,silver nanoparticle,1,seed,3
+286,ultrastructure,1,tdp-43,3
+287,dimerization,1,grape polyphenols,3
+288,immunoprecipitation,1,accelerator,3
+289,seed,1,bone marrow stromal cells,3
+290,tdp-43,1,dorsal root ganglion,3
+291,grape polyphenols,1,coculture,3
+292,accelerator,1,neurotrophic,3
+293,differential protein expression,1,magnocellular neuron,3
+294,fluid percussion injury,1,supraoptic nucleus,3
+295,bone marrow stromal cells,1,hippocampus,3
+296,dorsal root ganglion,1,brain edema,3
+297,coculture,1,cerebral hemorrhage,3
+298,neurotrophic,1,estrogen,3
+299,magnocellular neuron,1,iron,3
+300,supraoptic nucleus,1,adult neurogenesis,3
+301,hippocampus,1,neurosphere assay,3
+302,brain edema,1,neural stem cells,3
+303,cerebral hemorrhage,1,adenoid glioblastoma,3
+304,estrogen,1,cancer stem cell,3
+305,iron,1,niche,3
+306,adult neurogenesis,1,brain metastasis,3
+307,neurosphere assay,1,brain pathology,3
+308,neural stem cells,1,breast cancer,3
+309,glucose,1,myelin,3
+310,malate-aspartate shuttle,1,neutral glycosphingolipid,3
+311,nadh,1,oligodendrocytes,3
+312,neuron-glia interactions,1,mass spectrometric imaging,3
+313,adenoid glioblastoma,1,maldi msi,3
+314,cancer stem cell,1,biomarker discovery,3
+315,niche,1,sims,3
+316,bile-duct-ligation,1,fibroblasts,3
+317,brain metastasis,1,swedish amyloid mutation,3
+318,brain pathology,1,phospholipids,3
+319,breast cancer,1,plasmalogens,3
+320,phospholipid,1,gill lesion,3
+321,phosphatidylglucoside,1,sebastes schlegeli,3
+322,ms/ms,1,histopathology,3
+323,quantitative,1,bacterial infection,3
+324,facs,1,brain tumor stem cell,3
+325,microarray,1,flow cytometry,3
+326,glutamate,1,c6 astrocytoma,3
+327,tca cycle,1,hanging drops,3
+328,leukotrienes,1,human gliomas,3
+329,neutrophils,1,invasion assays,3
+330,myelin,1,doublecortin,3
+331,neutral glycosphingolipid,1,ischemia,3
+332,oligodendrocytes,1,rat brain,3
+333,sulfate,1,reticuline,3
+334,neolacto-series,1,isoquinoline alkaloid,3
+335,salinomycin,1,gene therapy,3
+336,monensin,1,cytosine deaminase,3
+337,lc/ms/ms,1,astrocytoma,3
+338,optimem cell culture medium,1,brain neoplasm,3
+339,mouse,1,human glioma cell lines,3
+340,human mesenchymal stem cells,1,glial progenitor cells,3
+341,ms,1,cell-surface,3
+342,online scx-rp,1,organotypic slice culture,3
+343,prostaglandins,1,glial tumor,3
+344,nmr spectroscopy,1,non-central nervous,3
+345,pattern recognition,1,2-arachidonoylglycerol,3
+346,tumour,1,anandamide,3
+347,mass spectrometric imaging,1,endocannabinoids,3
+348,maldi msi,1,human brain,3
+349,biomarker discovery,1,neurotoxicity,3
+350,sims,1,glial cell,3
+351,synaptoneurosome,1,cerebral aspergillosis,3
+352,synaptic vesicle,1,aspergillus,3
+353,fibroblasts,1,amyloid beta peptide,3
+354,swedish amyloid mutation,1,elisa,3
+355,phospholipids,1,glycine,3
+356,plasmalogens,1,astroglial cells,3
+357,gill lesion,1,serine,3
+358,sebastes schlegeli,1,brain capillary endothelial cell,3
+359,histopathology,1,p-glycoprotein,3
+360,bacterial infection,1,apoptosis,3
+361,argatroban,1,cell proliferation,3
+362,thrombin,1,cns remodeling,3
+363,dependence,1,20-hydroxyecdysone,3
+364,nervous system,1,centrosome,3
+365,proteome,1,cytoskeleton,3
+366,human,1,microtubules,3
+367,"indoleamine 2,3-dioxygenase",1,nucleation,3
+368,alpha b-crystallin,1,rna metabolism,2
+369,alpha-synuclein,1,tight junction proteins,2
+370,multiple system atrophy,1,gliopeptide odn,2
+371,brain tumor stem cell,1,moderate oxidative stress,2
+372,flow cytometry,1,reactive oxygen species,2
+373,hippocampal glia,1,rat brain endothelial cell line (rbe-4) cells,2
+374,gaba,1,ammonia,2
+375,c6 astrocytoma,1,brevibacillus choshinensis,2
+376,hanging drops,1,quantitative image analysis,2
+377,human gliomas,1,neuron transport rate,2
+378,invasion assays,1,quantitative phase,2
+379,doublecortin,1,brain cancer stem cell,2
+380,ischemia,1,hypoxia tolerance,2
+381,boron neutron capture therapy,1,brain microvascular endothelial cells,2
+382,cultured tumour cells,1,in vitro bbb,2
+383,secondary ion mass,1,chlorinated fatty aldehyde,2
+384,l-leucine methyl ester,1,neurodegenerative disease,2
+385,p450c21,1,parkinson disease,2
+386,2-ag,1,maldi-tof imaging,2
+387,gas chromatography,1,tetrahydroisoquinoline,2
+388,rat brain,1,parkinson's disease,2
+389,reticuline,1,two-photon imaging,2
+390,isoquinoline alkaloid,1,ultraviolet microscopy,2
+391,gene therapy,1,neurotransmitter imaging,2
+392,cytosine deaminase,1,neuropeptide,2
+393,astrocytoma,1,bioactive peptide,2
+394,brain neoplasm,1,exchange factor,2
+395,human glioma cell lines,1,gtpase-activating proteins,2
+396,glial progenitor cells,1,beta-pix,2
+397,cell-surface,1,culture,2
+398,organotypic slice culture,1,intact cell mass spectrometry (icms),2
+399,glial tumor,1,maldi-tof-ms,2
+400,non-central nervous,1,geissoschizine methyl ether,2
+401,fetal human,1,uncaria hook,2
+402,spinal cord,1,obesity,2
+403,brain capillary endothelial cells,1,feeding,2
+404,2-arachidonoylglycerol,1,amyloid beta-peptide,2
+405,anandamide,1,receptor for advanced,2
+406,endocannabinoids,1,multipotent adult progenitor cells,2
+407,human brain,1,silver nanoparticle,2
+408,hydrolase,1,ultrastructure,2
+409,regional distribution,1,differential protein expression,2
+410,n-acylethanolamines,1,fluid percussion injury,2
+411,neurotoxicity,1,neuron-glia interactions,2
+412,glial cell,1,synaptoneurosome,2
+413,cerebral aspergillosis,1,synaptic vesicle,2
+414,aspergillus,1,argatroban,2
+415,synaptic transmission,1,thrombin,2
+416,myosin,1,alpha b-crystallin,2
+417,septins,1,alpha-synuclein,2
+418,vesicle transport,1,multiple system atrophy,2
+419,signal,1,boron neutron capture therapy,2
+420,drebrin,1,cultured tumour cells,2
+421,stomach,1,secondary ion mass,2
+422,kidney,1,l-leucine methyl ester,2
+423,epithelial cell,1,p450c21,2
+424,parietal cell,1,2-ag,2
+425,disulfide linker,1,gas chromatography,2
+426,liposomes,1,brain capillary endothelial cells,2
+427,gene delivery,1,hydrolase,2
+428,plasmid dna,1,regional distribution,2
+429,antiserum,1,n-acylethanolamines,2
+430,astroglia,1,nociceptin orphanin fq,2
+431,glutathione,1,enzyme biotransformation,2
+432,oligodendroglia,1,cultured cells,2
+433,amyloid beta peptide,1,serine protease,1
+434,elisa,1,gfap2,1
+435,glycine,1,release,1
+436,astroglial cells,1,maldi-tof,1
+437,serine,1,immunoaffinity enrichment,1
+438,brain capillary endothelial cell,1,maitotoxin,1
+439,p-glycoprotein,1,neurobrucellosis,1
+440,apoptosis,1,nongranulomatous encephalitis and cerebral mass,1
+441,cell proliferation,1,isocitrate dehydrogenase 2-hydroxyglutarate,1
+442,cns remodeling,1,microdialysis,1
+443,20-hydroxyecdysone,1,brain microvessel endothelial cell culture,1
+444,nociceptin orphanin fq,1,tumor stem-cells,1
+445,enzyme biotransformation,1,sulfate,1
+446,cultured cells,1,neolacto-series,1
+447,centrosome,1,hippocampal glia,1
+448,cytoskeleton,1,gaba,1
+449,microtubules,1,,
+450,nucleation,1,,

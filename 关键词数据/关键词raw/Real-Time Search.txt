@@ -1,0 +1,1288 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+ER
+
+PT S
+DE Fiber Bragg Grating; Tunable Fabry-Perot filter; Demodulation system;
+   Field programmable gate array
+ER
+
+PT J
+ID INTENSITY-MODULATED RADIOTHERAPY; INTERNAL MARKER TRACKING; BEAM CT
+   PROJECTIONS; COLLIMATOR TRACKING; POSITION ESTIMATION; MOTION
+   MANAGEMENT; FIDUCIAL MARKERS; MLC TRACKING; LYMPH-NODES; LUNG-TUMORS
+ER
+
+PT J
+DE Flying Real-Time Network; flying witness units; UAVs; real-time
+   schedulability; communication support; disaster management
+ID AD-HOC NETWORKS; WIRELESS SENSOR NETWORKS; CHALLENGES; SYSTEMS; FANETS
+ER
+
+PT J
+DE Plasma control system; Real-time framework; Data sharing; Data logging;
+   Data process
+ID CONTROL-SYSTEM; GENERATION; ITER
+ER
+
+PT S
+DE Real-time systems; Multi-core processing
+ER
+
+PT J
+DE Control; embedded; nonconvex; optimization; real time
+ID INTERIOR-POINT METHODS; MODEL-PREDICTIVE CONTROL; GLOBAL CONVERGENCE;
+   ALGORITHM; BOUNDS
+ER
+
+PT J
+DE path planning; incremental search; real-time search; moving agents;
+   partially observable environment
+ID TIME HEURISTIC-SEARCH; REAL-TIME; ENVIRONMENTS
+ER
+
+PT J
+DE Cherenkov telescopes; CTA; CUDA; HPC; real-time analysis; science-alert
+   system; SIMD; TLP; VHE gamma-ray astronomy
+ER
+
+PT J
+DE online data analytics; real-time; delay-bounded processing; Skyline
+   query
+ID EFFICIENT; COMPUTATION
+ER
+
+PT S
+DE Real-time strategy games; Actions; Resources; Planning; Search
+ER
+
+PT B
+DE Real-Time systems; Specification and Verification; RT-Maude; Rewriting
+   logic; Model Checking; SysML
+ID ALGEBRA
+ER
+
+PT S
+ID TRAVELING-SALESMAN PROBLEMS; PROBABILISTIC SEARCH; STRATEGIES
+ER
+
+PT B
+DE Adaptive filtering; Adaptive thresholding; ECG signal processing;
+   Genetic algorithm; QRS complex detection
+ID QRS COMPLEX DETECTION; WAVELET TRANSFORM; FILTER; OPTIMIZATION; SENSORS;
+   EEG/ERP; DESIGN
+ER
+
+PT B
+DE Video Communication; Video Coding; Video Conferencing; Motion
+   Estimation; Block Matching
+ID MOTION ESTIMATION ALGORITHM; SEARCH ALGORITHM; DIAMOND SEARCH
+ER
+
+PT B
+DE Time difference of arrival; Sound source localization; Golden section
+   search
+ER
+
+PT B
+DE WebRTC; Node.js; HTML5; Javascript; multimedia conferencing system
+ER
+
+PT S
+DE Decision-making; Sport expertise; Above real-time training; Football
+ID VISUAL-SEARCH BEHAVIOR; SENSORIMOTOR SKILLS; PERCEIVING PATTERNS; EXPERT
+   PERFORMANCE; TASK CONSTRAINTS; SOCCER PLAYERS; VIDEO GAMES; SPORT;
+   ATTENTION; INFORMATION
+ER
+
+PT B
+DE CCS; CAMSHIFT; Histogram; histogram projection; intensity; pixel; real
+   time; TM320DM6437; YUV; VPFE; VPBE; VPSS
+ER
+
+PT J
+DE Real-time stimulus selection; Functional magnetic resonance imaging;
+   Object recognition; Real-time signal processing; Computational modeling
+ID MACAQUE INFEROTEMPORAL CORTEX; FEATURES; SHAPE; MONKEY
+ER
+
+PT J
+DE real time search; index entry invalidator; efficiency
+ER
+
+PT J
+DE Industrial wireless sensor networks (IWSNs); Node placement; Harmony
+   search; Differential evolution; Pareto; Real time; Reliability
+ID REAL-TIME; NSGA-II; ALGORITHM; OPTIMIZATION; DESIGN; DEPLOYMENT;
+   DISPATCH; SYSTEMS
+ER
+
+PT J
+DE IEEE 802.11 WLAN; Optimization of retransmission number; Real-time
+   transmission; Quality of service
+ID PERFORMANCE ANALYSIS; RELAY SELECTION; CHANNEL ACCESS; DCF; NETWORKS;
+   MODEL
+ER
+
+PT S
+DE Voice adaptation; speech processing; voice profile; parameter fitting;
+   search algorithm
+ER
+
+PT B
+DE Real-time Multi-step GA; Visual-servoing; Performance analysis;
+   Underwater vehicle
+ER
+
+PT B
+DE schedulability test; Quantified Constraint Satisfaction Problems;
+   real-time sechduling; preemptive
+ER
+
+PT S
+DE repeater; topology; network; sensor
+ER
+
+PT S
+DE Audio; Source tracking; Real time; Fast implementation
+ER
+
+PT S
+ID DESIGN PATTERNS
+ER
+
+PT S
+DE Feature selection; Fuzzy Rough sets; Fuzzy Entropy; Ant Colony
+   Optimization; Real-Time Intrusion Detection
+ID ALGORITHM
+ER
+
+PT B
+DE information base; dynamic models; perception and processing of images;
+   real time; human visual analyzer; intelligent perception;
+   parallelization
+ER
+
+PT J
+DE Electric vehicles (EVs); energy management architecture;
+   hardware-in-the-loop (HIL) simulation; hybrid energy sources; real-time
+   implementation
+ID FUEL-CELL VEHICLES; OF-THE-ART; CONTROL STRATEGIES; STORAGE SYSTEMS;
+   HYBRID; BATTERY; STATE; MODEL
+ER
+
+PT J
+ID ENCRYPTION
+ER
+
+PT S
+ID OPTICAL-FLOW; TREES
+ER
+
+PT B
+DE UAV; real-time path planning; receding horizon control;
+   A(star)algorithm; search strategy
+ER
+
+PT B
+ER
+
+PT S
+DE NoSQL databases; multidimensional analysis; geospatial analysis;
+   real-time and scalability
+ER
+
+PT S
+DE Embedded GIS; Route Programming; A* Algorithm; Road Network
+ER
+
+PT B
+DE UUV; USV; Real-time Communication; Sonar Image
+ER
+
+PT S
+DE WebRTC; Bundle; RTC through plugins
+ER
+
+PT S
+DE Electromagnetic Transients; Real-Time Simulation; Local Iterative
+   Method; Instruction Stream Arithmetic Unit; decoding search method; FPGA
+ID HARDWARE
+ER
+
+PT B
+DE Network-on-chip; mixed-criticality; hard real-time; task allocation
+ER
+
+PT S
+DE Elasticsearch; data management; real-time search; Kibana
+ER
+
+PT S
+DE Genetic algorithm; Resource scheduling; Mult-fitness; Resources
+   perception
+ER
+
+PT S
+DE Empirical Mode Decomposition; Support Vector Machine; real-time forecast
+ER
+
+PT J
+DE Real-time PCR; Coronavirus; Meta-analysis
+ID RESPIRATORY SYNDROME CORONAVIRUS; POLYMERASE-CHAIN-REACTION;
+   MIDDLE-EAST; UNITED-KINGDOM; SEPTEMBER 2012; SAUDI-ARABIA
+ER
+
+PT S
+DE Twitter; Data mining; Triple pattern; Real-time; Health; Chronic
+   disease; Social media analysis; Text mining
+ER
+
+PT J
+ID HEURISTIC-SEARCH
+ER
+
+PT S
+DE Diffuse reflection laser ranging; Genetic Algorithm; signal extraction;
+   data correlation; co-evolution
+ER
+
+PT J
+DE FPGA; Video stitching; Seam searching; Seam update; Video surveillance
+ID IMAGE; MOSAICS; MODEL
+ER
+
+PT J
+DE TTEthernet; Real-time; Network protocols; Scheduling; Frame packing;
+   Routing
+ID CONTROLLER-AREA-NETWORK; SCHEDULABILITY ANALYSIS; COMMUNICATION
+   PROTOCOL; ETHERNET
+ER
+
+PT J
+DE data; device; digital; live methods; real-time; technological culture;
+   temporality
+ID WEB
+ER
+
+PT J
+DE social media; real-time search; exponential time index set; personalized
+   search
+ID WEB
+ER
+
+PT J
+DE Non-photorealistic rendering; Photomosaics; Real-time; Genetic feature
+   selection; CUDA
+ID FEATURE-SELECTION
+ER
+
+PT J
+DE EMG; Real-time pattern recognition; Wavelet packet; Non-parametric
+   weighted feature extraction; SVM
+ID FEATURE-EXTRACTION; FEATURE-PROJECTION; FEATURE REDUCTION;
+   CLASSIFICATION; SIGNAL; REPRESENTATION; SYSTEM
+ER
+
+PT J
+DE search engines; index methods; sensor networks; spatial-temporal
+   databases; internet of things; information retrieval for big data
+ID MANAGEMENT
+ER
+
+PT J
+DE Railway rescheduling; Real-time; Optimization models and algorithms;
+   Disturbances and disruptions; Review paper
+ID RAPID-TRANSIT NETWORKS; DISRUPTION MANAGEMENT; DELAY MANAGEMENT; ROLLING
+   STOCK; TRAINS; TRANSPORTATION; DISTURBANCES; PROPAGATION; BOTTLENECK;
+   SEARCH
+ER
+
+PT J
+DE Real-time systems; Pre-run-time scheduling; Artificial Intelligence;
+   Problem solving
+ID CONSTRAINT SATISFACTION; PERIODIC TASKS; SEARCH; BACKTRACKING;
+   ALGORITHM; ASSIGNMENT
+ER
+
+PT J
+DE real-time visual effects; smoothed-particle hydrodynamics; character
+   animation
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ID HEURISTIC-SEARCH
+ER
+
+PT S
+ID APPROXIMATE NEAREST-NEIGHBOR; SEARCH
+ER
+
+PT S
+ID MODEL TRANSFORMATIONS; SYNCHRONOUS AADL; REWRITING LOGIC; FORMAL
+   PATTERNS; SYSTEMS; SPECIFICATION; SEMANTICS; CHECKING; PROTOCOL; TOOL
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT B
+DE Depth estimation; full HD; hardware implementation; Real-time
+ER
+
+PT S
+DE Output feedback; model predictive control; uncertain system; off-line
+   approach
+ID STABILITY; SYSTEMS; MPC
+ER
+
+PT J
+DE Motion planning; dynamic obstacles; heuristic search; real-time search;
+   randomized search
+ER
+
+PT S
+DE Image processing; machine vision; visual tracking; target following;
+   visual servo
+ID OBJECT TRACKING; MEAN SHIFT
+ER
+
+PT B
+ER
+
+PT S
+DE heterogeneous multiprocessor systems; real-time task scheduling; local
+   search; global search; artificial bee colony
+ID GENETIC-ALGORITHM; COMPUTING SYSTEMS; OPTIMIZATION
+ER
+
+PT B
+DE Hybrid Median Filter; FPGA; real-time; ultrasound; despeckle filter;
+   speckle
+ID ANISOTROPIC DIFFUSION; ALGORITHM; MODEL; SCANS
+ER
+
+PT B
+DE Optimal Real Time Search; Rescues Operation; Potential Field
+ER
+
+PT S
+ER
+
+PT J
+DE Database; game pathfinding; real-time search
+ID PATH
+ER
+
+PT J
+DE information retrieval; ranking
+ID INFORMATION-RETRIEVAL; LANGUAGE MODELS; SEARCH
+ER
+
+PT J
+DE Real-time systems; Scheduling algorithms; Genetic algorithms;
+   Multiobjective optimisations
+ID TASK ALLOCATION PROBLEM; SCHEDULABILITY ANALYSIS; EMBEDDED SYSTEMS;
+   OPTIMIZATION
+ER
+
+PT J
+ID WORDS
+ER
+
+PT J
+DE Autonomous agents; control architectures and programming; real-time
+   scheduling; service robots
+ID SYSTEMS; ARCHITECTURE; ALGORITHMS; SEARCH; GRAPHS; COMPUTATIONS;
+   FRAMEWORK; SOFTWARE; AGENTS
+ER
+
+PT B
+DE ElasticSearch; Big Data; Hbase; real time search; Hadoop
+ER
+
+PT S
+DE social network; real-time search technology; microblog; classification
+   algorithm
+ER
+
+PT S
+ID INJECTED GENETIC ALGORITHMS
+ER
+
+PT S
+DE infrared search and track system; phase correlation registration;
+   feature point registration; image registration; real-time
+ER
+
+PT B
+DE dynamic terrain; wheel ruts; agricultural machinery; Vega Prime;
+   multi-thread
+ER
+
+PT B
+DE compenent: Google Insights; Google Trends; web search; prediction;
+   elections
+ER
+
+PT S
+DE production scheduling; rescheduling; real time systems
+ID MACHINES
+ER
+
+PT B
+DE ai; games; real time; evolutionary algorithms; mcts
+ER
+
+PT S
+DE adaptive window search; real-time; object map; object detection
+ER
+
+PT S
+DE Data mining; Intelligent Transportation System; optimization; real-time
+   vehicle routing; Variable Neighborhood Search
+ID DECISION-SUPPORT-SYSTEM; ALGORITHM
+ER
+
+PT S
+ER
+
+PT S
+ID SCHEDULABILITY ANALYSIS
+ER
+
+PT B
+DE Ditributed Computing; Distributed Genetic Algorithms; Parallel
+   Processing; Traveling Salesman Problems (TSP)
+ER
+
+PT S
+DE vision measurement; embedded system; real-time; high resolution; data
+   transmission
+ID SINGLE CAMERA; TRACKING
+ER
+
+PT S
+DE complexity; GUI; myosin; cognitive study
+ID SYNTHETIC BIOLOGY; VARIABLES; STRATEGY; MOTORS
+ER
+
+PT J
+DE Real-time control; Simulation modeling; Truck management
+ID SHOP-FLOOR CONTROL; FRAMEWORK
+ER
+
+PT J
+DE Feed; index freshness; index coverage; real-time search; search engine;
+   information retrieval
+ID INVENTORY MODEL; DETERIORATING INVENTORY; POLICY; WEB
+ER
+
+PT J
+ER
+
+PT J
+DE Knowledge representation; Algorithm; Decision support system; Real-time
+   vehicle routing
+ID MANAGEMENT-SYSTEM; DELIVERY
+ER
+
+PT J
+DE Mobile device; Social software; Interface; Synchronization; Compression;
+   Operational transformation; Operational merging; Retrieval
+ID ALGORITHM; COMPRESSION; SYSTEMS
+ER
+
+PT J
+DE N-FINDR; Real-time circular N-FINDR (RT Circular N-FINDR); RT iterative
+   N-FINDR (RT IN-FINDR); Real-time SeQuential N-FINDR (RT SQ N-FINDR);
+   Real-time SuCcessive N-FINDR (RT SC N-FINDR); Virtual dimensionality
+   (VD)
+ID INDEPENDENT COMPONENT ANALYSIS; ENDMEMBER EXTRACTION; DIMENSIONALITY
+   REDUCTION
+ER
+
+PT J
+DE Intelligent Surveillance System; Object Tracking; Color classification
+ID TRACKING
+ER
+
+PT J
+ID SPECTROMETRY-BASED PROTEOMICS; MASS-SPECTROMETRY
+ER
+
+PT B
+DE real-time search engines; search engines; social media; search engine
+   indexes
+ER
+
+PT B
+DE ASM; 2D profile; 4D profile; Face judgment; IMM; Frank; real time video
+ER
+
+PT S
+DE real-time monitoring; potentiometric sensors; measurement system;
+   RuO2/PET structure; pH value
+ID ELECTRODE; SENSOR
+ER
+
+PT B
+DE real-time; service composition; middleware; distributed systems;
+   reconfiguration; SOA
+ID ENVIRONMENTS
+ER
+
+PT B
+ID TRAVELING SALESMAN PROBLEM; ALGORITHMS
+ER
+
+PT S
+ER
+
+PT S
+DE real time; motion estimation; spatiotemporal correlation; search pattern
+ID SEARCH
+ER
+
+PT S
+DE path-finding; GPU acceleration; A* algorithm; real-time search; search
+   space decomposition
+ER
+
+PT J
+ER
+
+PT S
+ER
+
+PT S
+DE Disease Detection; Twitter; Real time Search; Information Retrieval
+ER
+
+PT J
+DE Optimization; Real-time; Industrial Ethernet; Device allocation;
+   Steady-state genetic algorithm; Variable neighborhood search
+ID VARIABLE NEIGHBORHOOD SEARCH; PARTITION; DESIGN
+ER
+
+PT J
+DE Logistics management; Vehicle routing problem; Vehicle assignment;
+   Real-time information; Sweep method; Tabu search
+ID TRAVEL-TIMES; ALGORITHMS; DISPATCH
+ER
+
+PT J
+DE Gravitational waves; real-time burst search; multi-messenger astronomy
+ER
+
+PT J
+DE Real time search; Real time content; Collecta; Twitter; Economic value
+   of search; Search topics
+ID RECOMMENDER SYSTEMS; ENGINE; USERS
+ER
+
+PT S
+DE input method; mu C / OS-II; search tree
+ER
+
+PT S
+ID QUEUE LENGTH CONSTRAINTS; INTERSECTIONS; SYSTEMS
+ER
+
+PT J
+ER
+
+PT S
+DE Patch sweeping; HRM; Depth estimation; 3D Video Communication;
+   Real-time; GPGPU; Cuda
+ER
+
+PT S
+DE Artificial Intelligence; Automated Planning; Real-time Search
+ID HEURISTIC-SEARCH; LANDMARKS
+ER
+
+PT S
+ER
+
+PT S
+DE component; E-magazine; Recommender; Confabulation-Model
+ER
+
+PT B
+DE son fault dictionary; BP neural network; fault search; binary tree;
+   index
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT B
+DE component; Dynamic Search Range estimation; Image processing; Census;
+   Stereo Vision; Computer vision
+ER
+
+PT S
+DE distributed real-time; holistic scheduling; priority assignment;
+   permutational genetic algorithm; optimization
+ID SCHEDULABILITY ANALYSIS; DEADLINE ASSIGNMENT
+ER
+
+PT J
+DE Real-time pursuit; Multi-agent search; Real-time search; Path planning
+ID HEURISTIC-SEARCH; ENVIRONMENTS; OBSTACLES
+ER
+
+PT J
+ID CAMERA CALIBRATION; STRUCTURED LIGHT; SYSTEM; VISION; SENSOR
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE Real-time search; Gridworlds; Benchmark; Phase transition
+ER
+
+PT S
+DE component; Wireless sensor networks; on-demand real-time routing;
+   multi-hop lookahead
+ID COMMUNICATION; PROTOCOL
+ER
+
+PT S
+DE cascading failures; small-world network; long-range connectivity; WAMS;
+   real-time searching
+ER
+
+PT B
+DE component; Video summarization; Object tracking; Tunnel processing; HOG;
+   Direct Shift Collision Detection; Distance Transform; Film Map
+   generation; Just-in-Time renderer
+ER
+
+PT S
+ID DYNAMIC-SYSTEMS
+ER
+
+PT S
+DE Discrete event system; real-time scheduling; power-limited system;
+   optimization
+ID TRANSMISSION
+ER
+
+PT B
+DE Intelligent transportation systems; Real-time route planning;
+   Virus-evolutionary genetic algorithms
+ER
+
+PT S
+ER
+
+PT J
+DE Real-time System; Preemptive and/or non-preemptive Tasks; Static
+   Priority Scheduling; Linear Programming; Local Search
+ER
+
+PT S
+DE Shot Change Detection; Real-time SCD Model; Adaptive Threshold; Variable
+   Reference Block
+ID SCENE CHANGE DETECTION; COMPRESSED VIDEO
+ER
+
+PT S
+DE web data mining; posting weight; publish pattern; crawl scheduling
+ER
+
+PT J
+DE Video compression; Real time; Hardware; Motion estimation; simulation
+ID ARRAY ARCHITECTURE; BLOCK; ALGORITHM
+ER
+
+PT J
+DE Visual surveillance; Real time tracking; Particle filters; Multiscale
+ER
+
+PT J
+DE Time constraints; Agents; Real-time search; Incremental search
+ID UNKNOWN TERRAIN; ANT-ROBOTS
+ER
+
+PT J
+DE Moving target search; real-time path planning
+ER
+
+PT J
+DE Soft real-time task; Multiobjective genetic algorithm
+ID TOTAL TARDINESS; SYSTEMS; HARD; MACHINE
+ER
+
+PT J
+DE algorithms; computational complexity; knapsack problem; greedy
+   algorithms; branch and bound scheduling; real-time systems; cache
+   memory; periodic loading
+ER
+
+PT J
+DE Motion estimation; Digital signal processor; Real-time; H.264 AVC/SVC
+ID ALGORITHM
+ER
+
+PT B
+ER
+
+PT B
+DE tabu search; particle filter; real time vision tracking; accuracy
+ID VISUAL TRACKING
+ER
+
+PT S
+DE Endmember extraction algorithm (EEA); p-Pass real-time SGA; Simplex
+   Growing Algorithm (SGA)
+ER
+
+PT S
+ER
+
+PT B
+ID HEURISTIC-SEARCH
+ER
+
+PT S
+DE Path Planning; Real-Time Search; Moving Target Search
+ER
+
+PT S
+ER
+
+PT S
+DE Logistics; Inventory Routing problem; Vendor managed inventory; Online
+   vehicle routing problem; Dynamic fleet management; Intelligent
+   transportation systems (ITS); Commercial vehicle operations (CVO);
+   Real-time information; On-line problems; Freight transportation
+ID SUPPLY CHAIN; DELIVERIES; HEURISTICS; WINDOWS; SEARCH; PICKUP
+ER
+
+PT S
+DE Case-based planning; real time strategy (RTS) games; genetic algorithm;
+   artificial neural network
+ER
+
+PT B
+DE search charts; special users; real-time charts
+ER
+
+PT B
+DE tracking; search-window; characteristic point; visual object
+ER
+
+PT B
+DE cellular automata; real-time; marine search and rescue simulator; 3D
+   cloud rendering
+ER
+
+PT B
+DE anisotropic high pass filtering; edge's orientation estimation; step
+   angle searching; coordinate transformation
+ER
+
+PT B
+DE Real-time Systems; Isochronal; Static Scheduling; TUF; Genetic Algorithm
+ER
+
+PT B
+DE Real-time Systems; Isochronal; Static Scheduling; TUF; Simulated
+   Annealing
+ID GENETIC-ALGORITHM
+ER
+
+PT J
+DE control; real-time simulation; model reduction; deformations; fluids
+ID SMOKE ANIMATION; MODEL-REDUCTION; HUMAN MOTION; FLUID
+ER
+
+PT J
+DE Agent architectures and systems; Multi-agent systems; Distributed
+   intelligent systems; Soft real-time environments; Adjustable autonomy
+   systems
+ID ONTOLOGIES
+ER
+
+PT J
+DE short-term GDP forecasting; bridge model; real-time data-set; automatic
+   forecasting; first release; final GDP prediction
+ID CONSISTENT COVARIANCE-MATRIX; MODEL SELECTION; BUSINESS-CYCLE;
+   HETEROSKEDASTICITY; ECONOMETRICS; RATIONALITY; INSTABILITY; INDICATORS;
+   RETINA; PCGETS
+ER
+
+PT J
+DE Markov decision processes; real-time communication; noisy feedback;
+   dynamic teams; information state; common knowledge; common belief
+ID DELAY
+ER
+
+PT B
+DE RFID; Real time vehicle routing problem; Logistics; GIS; GPS
+ID ROUTING PROBLEM
+ER
+
+PT B
+DE real-time; lossless; network stream reassembly
+ER
+
+PT B
+ER
+
+PT B
+DE Motion Estimation; Video Coding; H.264
+ID SEARCH ALGORITHM
+ER
+
+PT S
+ER
+
+PT S
+DE Real-Time; Multi-Agent Systems; Case-Based Reasoning
+ER
+
+PT B
+ID HEURISTIC-SEARCH
+ER
+
+PT J
+ID TREE-SEARCH
+ER
+
+PT S
+ER
+
+PT S
+DE Real-time and active database; Reasoning; Event-condition-action Rules;
+   Heuristic search; Rule graph
+ER
+
+PT B
+ER
+
+PT J
+DE real-time search; path planning
+ID HEURISTIC-SEARCH
+ER
+
+PT J
+DE motion estimation; fast search algorithms; exhaustive search algorithm;
+   VLSI; VHDL implementation; finite state machine
+ID ARRAY ARCHITECTURE
+ER
+
+PT J
+DE path planning; real-time heuristic search
+ID HEURISTIC-SEARCH
+ER
+
+PT J
+DE dynamic vehicle routing problems; milk runs transportation;
+   vehicle-dispatching system
+ID ROUTING PROBLEM; TABU SEARCH; WINDOWS
+ER
+
+PT J
+DE modeling; power system harmonics; real-time systems; simulation
+ID ELECTRIC-POWER NETWORKS; ARC-FURNACE MODEL; SYSTEM; INITIALIZATION;
+   IMPLEMENTATION; PROPAGATION; TRANSIENTS; CIRCUITS; ELEMENTS; FLICKER
+ER
+
+PT J
+DE real-time embedded systems; static priority scheduling; simulated
+   annealing search framework
+ID TASKS
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT S
+DE optimization; real-time scheduling; stacking crane; automated container
+   terminal
+ER
+
+PT S
+ID SPECIFICATION; TERMINATION
+ER
+
+PT S
+DE movement planning; freight train dispatch; fuzzy control; search
+ID OPTIMIZATION
+ER
+
+PT B
+DE genetic algorithms; neural networks; real-time processing; adaptive
+   search control
+ER
+
+PT S
+ER
+
+PT S
+ID REAL-TIME SEARCH
+ER
+
+PT J
+DE learning real-time heuristic search; state abstraction; goal-directed
+   navigation
+ER
+
+PT S
+DE ultrasound elastography; strain; computational requirement;
+   correlation-based search; median filter; realtime imaging
+ID ELASTIC PROPERTIES; TISSUES; MEDIAPROCESSORS; SYSTEM; BREAST
+ER
+
+PT S
+DE real-time processing; gray-level Hough transform; needle segmentation;
+   biopsy tracking; coarse-fine search
+ID BIOPSY
+ER
+
+PT B
+ID TIME-INTERVAL ERROR
+ER
+
+PT S
+ER
+
+PT J
+DE infrared detecting system; large view field; real-time signal
+   processing; CPCI
+ID ADAPTIVE NONUNIFORMITY CORRECTION; IRFPA
+ER
+
+PT J
+ER
+
+PT J
+DE bioprocess; monitoring; control; real-time in situ; sensor; on-line
+ID NEAR-INFRARED SPECTROSCOPY; GREEN FLUORESCENT PROTEIN;
+   SACCHAROMYCES-CEREVISIAE; ELECTRONIC TONGUE; HIGH-THROUGHPUT;
+   CARBON-DIOXIDE; CELL-CULTURES; SHAKE-FLASKS; AT-LINE; FERMENTATION
+   PROCESSES
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT S
+DE Real-time elastography; 2D motion estimation in ultrasound imaging;
+   correlation estimation
+ID ELASTOGRAPHY; ELASTICITY; ULTRASOUND; TISSUES; MOTION
+ER
+
+PT B
+DE hybrid P2PSIP; cross layer P2P overlay; SOMCO; real-time multintedia
+   services
+ER
+
+PT B
+ER
+
+PT S
+ID HEURISTIC-SEARCH
+ER
+
+PT B
+ER
+
+PT B
+DE applications; real-time; emergence; agents; population-based search;
+   evolution
+ID EVOLUTION; SYSTEMS
+ER
+
+PT J
+ID HEURISTIC-SEARCH
+ER
+
+PT B
+DE intelligent transport systems; genetic algorithm; pedestrians; real-time
+   recognition; car-mounted camera
+ER
+
+PT S
+DE block matching; FPGA; full-search motion estimation; video coding
+ID VLSI ARCHITECTURE; SEARCH ALGORITHM
+ER
+
+PT S
+ER
+
+PT J
+ER
+
+PT S
+ID PERIODIC TASKS; SYSTEMS
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT B
+DE real-time map; label placement; icon; small-display cartography
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT J
+DE phased array radar; real-time dwell scheduling; rate-based scheduling;
+   radar control computer
+ER
+
+PT B
+ER
+
+PT B
+ID SEGMENTATION; ALGORITHM
+ER
+
+PT B
+DE NC system; hybrid-tasks system; heuristic search; best-first search
+ER
+
+PT B
+DE real-time; scheduling; optimization; reliability utilization
+ID PERIODIC TASKS; SYSTEMS
+ER
+
+PT S
+DE real-time systems; 3D median filtering; majority voting; 3D convolution;
+   FPGA
+ID LEVEL SYSTOLIC ARRAY; IMPLEMENTATION; ALGORITHM; DESIGN
+ER
+
+PT B
+ID ALGORITHMS; SOFTWARE
+ER
+
+PT B
+ID HEURISTIC-SEARCH
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT S
+ID TOPOLOGICAL NAVIGATION; MOBILE ROBOTS
+ER
+
+PT S
+ID REWRITING LOGIC
+ER
+
+PT B
+ID ARCHITECTURES
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT B
+DE real-time applications; scheduling; optimization; reliability
+   utilization
+ID PERIODIC TASKS; SYSTEMS
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT J
+DE search; dynamic-window; real-time simulation; dynamic system
+ER
+
+PT J
+DE real-time heuristic search; adaptive learning; convergence process;
+   rational agent; resource-boundedness
+ID TREE
+ER
+
+PT B
+DE real-time data management; temporal consistency; mobile computing
+ER
+
+PT B
+ER
+
+PT B
+DE video compression; affine motion estimation; one-dimensional
+   hierarchical search; pipelined architectures; memory partitioning
+ID BLOCK-MATCHING ALGORITHM
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT B
+DE autonomous virtual agents; procedure animation; real-time crowd
+   simulation
+ER
+
+PT J
+DE real-time search; multi-agent real-time search; coordination
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT S
+DE code vector; fast search speed; vector quantization; nearest neighbor
+   search; lumber inspection
+ID IMAGE VECTOR QUANTIZATION; ENCODING ALGORITHM
+ER
+
+PT S
+DE distributed computer control systems; real-time systems; scheduling
+   algorithms; heuristic search; real-time operating systems
+ID TRAVELING SALESMAN PROBLEM
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+DE fractal image compression; fast Fourier transform; cross-correlation;
+   Digital Signal Processor (DSP)
+ER
+
+PT J
+DE MPEG-4; video codec; motion estimation
+ID ALGORITHM
+ER
+
+PT J
+DE emergency vehicles; coverage models; tabu search heuristic; real-time
+ID AVAILABILITY LOCATION PROBLEM
+ER
+
+PT J
+DE real-time; synthesis; distributed system; voltage scaling
+ER
+
+PT J
+DE interleaving planning and plan executions; real-time heuristic search;
+   minimax search; localization; robot navigation
+ID ROBOTS
+ER
+
+PT J
+ER
+
+PT J
+DE AI architectures; planning; real-time scheduling; fault-tolerance
+ER
+
+PT J
+DE multimedia information system; Internet; object-oriented technology;
+   QoS; real-time distributed system
+ID SYNCHRONIZATION PROTOCOLS; MANAGEMENT; SERVICES; SYSTEMS; MEDIA
+ER
+
+PT S
+ER
+
+PT J
+DE ant robots; cover time; graph coverage; lawn mowing; learning real-time
+   A*; node counting; real-time heuristic search; surveillance; vacuum
+   cleaning
+ER
+
+PT J
+DE image compression; vector quantizatioin; VLSI architecture; wavelet;
+   wireless communications
+ID IMAGE
+ER
+
+PT S
+DE automated reasoning; computational complexity; real time; temporal
+   reasoning; many-valued logic; control systems
+ID SEARCH
+ER
+
+PT J
+DE ATM networks; adaptive real-time connections; connection admission
+   control; deadlines
+ID NETWORK DELAY; CALCULUS
+ER
+
+PT J
+DE real-time scheduling; combined task and message scheduling; distributed
+   hard real-time systems; resource constraints; deadlock
+ID PRECEDENCE; ALGORITHM
+ER
+
+PT J
+DE hard real-time; system level synthesis; force-directed heuristic; A*
+   search; EDF scheduling
+ID DIGITAL-SYSTEMS; BOUNDS; DESIGN
+ER
+
+PT J
+DE vector quantization; functional memory; parallel processor; low-rate
+   image compression; noise robustness; MSHVQ
+ER
+
+EF

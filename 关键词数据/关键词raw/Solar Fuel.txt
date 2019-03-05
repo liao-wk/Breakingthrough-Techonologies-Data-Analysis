@@ -1,0 +1,1088 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE GeO2/Ge based solar-chemical cycle; Hydrogen production; Non-volatile
+   redox; Isothermal and nonisothermal operation; Syngas production
+ID WATER; CO2; FUEL; COPRODUCTION; SELECTIVITY; CONVERSION; REDUCTION; H2O
+ER
+
+PT J
+DE Solar fuels; Solar thermochemical; Methane reduction; Multi-cycles
+   stability
+ID HYDROGEN-PRODUCTION; THERMODYNAMIC ANALYSIS; SYNGAS PRODUCTION;
+   SYNTHESIS GAS; WATER; CO2; SYSTEM; FE3O4-REDUCTION; COPRODUCTION;
+   DISSOCIATION
+ER
+
+PT J
+DE perovskites; oxygen vacancies; non-stoichiometric materials;
+   thermochemical cycles; CO2/H2O splitting; hydrogen; solar fuel;
+   concentrating solar technologies
+ID LANTHANUM MANGANITE PEROVSKITES; OXYGEN-EXCHANGE MATERIALS; SOLID-STATE
+   REACTIONS; CA/SR A-SITE; EQUAL-TO X; HYDROGEN-PRODUCTION; B-SITE;
+   THERMODYNAMIC CHARACTERIZATION; ENERGY-CONVERSION; ISOTHERMAL REDOX
+ER
+
+PT J
+DE Renewable energy; Solar energy; Clean energy; Porous electrode; Thermal
+   management
+ID ANION-EXCHANGE MEMBRANE; MICROBIAL ELECTROCHEMICAL SYSTEMS;
+   THERMAL-ENERGY STORAGE; FLAT-PLATE COLLECTOR; METAL-FOAM; METHANOL FUEL;
+   FLOW DISTRIBUTOR; NICKEL FOAM; HIGH-PERFORMANCE; BIPOLAR PLATES
+ER
+
+PT J
+DE Solar fuel; Integrated reactor concept; Concentrated radiation;
+   High-temperature solid oxide electrolyzer
+ID HIGH-TEMPERATURE; HYDROGEN-PRODUCTION; PHOTOVOLTAIC SYSTEMS; DESIGN
+   GUIDELINES; CO-ELECTROLYSIS; CARBON-DIOXIDE; STEAM; EFFICIENCY;
+   OPTIMIZATION; SIMULATIONS
+ER
+
+PT J
+DE Hybridizing solar energy system; Solid oxide fuel cell; Solar
+   thermochemical process; Concentrator photovoltaics
+ID HEAT-TRANSFER; PERFORMANCE ANALYSIS; METHANOL DECOMPOSITION;
+   THERMAL-ENERGY; POWER-PLANTS; NANOFLUIDS; TECHNOLOGIES; INTEGRATION;
+   COLLECTORS; SIMULATION
+ER
+
+PT J
+ER
+
+PT J
+DE biomass; hybrid fuel cell; photocatalysis; polyoxometalates; thermal
+   conversion
+ID ANION-EXCHANGE MEMBRANE; NEUTRAL-STATE ELECTROLYTE; ACTIVATED CARBON
+   ANODE; LIGNOCELLULOSIC BIOMASS; GLUCOSE ELECTROOXIDATION; COULOMBIC
+   EFFICIENCY; METHYL VIOLOGEN; ELECTRICITY-GENERATION; OXIDATION;
+   PERFORMANCE
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE Solar fuel; Mid and low-temperature; Solar heat; Thermodynamic analysis;
+   Energy level upgrade
+ID EXERGY ANALYSIS; ENERGY; METHANOL; FUELS; CO2; PERFORMANCE; CATALYSTS;
+   SYSTEM; CYCLE; H2O
+ER
+
+PT S
+DE Hydrogen fuel cell; Solar-hydrogen; FC vehicles; Zero-pollution
+ER
+
+PT J
+DE Copper oxide; Hydrogen; Photoelectrochemical water splitting; Sb2Se3;
+   Solar fuels
+ID PHOTOCATHODES; STABILITY; LAYER; CELLS; FILM
+ER
+
+PT J
+ER
+
+PT J
+ID FORMIC-ACID DEHYDROGENATION; HYDROGEN-PEROXIDE SYNTHESIS; ANION-EXCHANGE
+   MEMBRANE; PARTICULATE PHOTOCATALYST SHEETS; HIGHLY EFFICIENT
+   DEHYDROGENATION; ELECTROCHEMICAL CO2 REDUCTION; SUSTAINABLE
+   ENERGY-PRODUCTION; TRANSITION-METAL-COMPLEXES; VISIBLE-LIGHT
+   IRRADIATION; GRAPHITIC CARBON NITRIDE
+ER
+
+PT J
+DE artificial photosynthesis; charge separation; co(2) reduction; solar
+   fuels; water splitting
+ID VISIBLE-LIGHT IRRADIATION; PHOTOELECTROCHEMICAL WATER OXIDATION;
+   PHOTOCATALYTIC H-2 PRODUCTION; SHUTTLE REDOX MEDIATOR; DIFFERENT
+   SEMICONDUCTOR PHOTOCATALYSTS; ENERGY-CONVERSION EFFICIENCY; DRIVEN
+   HYDROGEN-PRODUCTION; THIN-FILM ELECTRODES; Z-SCHEME; HIGHLY EFFICIENT
+ER
+
+PT J
+ID LIFE-CYCLE ASSESSMENT; ENVIRONMENTAL-IMPACT; CO2 CAPTURE; ENERGY; AIR;
+   TECHNOLOGIES; SEPARATION; SYSTEM; CERIA; H2O
+ER
+
+PT J
+DE CO2; Artificial tree; Solar energy; Photovoltaic cell; Photovoltaic
+   reactor
+ID CLIMATE-CHANGE; CONSUMPTION; GAS; EFFICIENCY; CONVERSION; IMPACT
+ER
+
+PT J
+DE Trigeneration system; Methanol steam reforming; Fuel cell; Solar
+ID HYBRID-CCHP SYSTEM; POWER-SYSTEM; ENVIRONMENTAL-ANALYSIS; BIOMASS
+   GASIFICATION; ENERGY; OPTIMIZATION; TECHNOLOGIES; MANAGEMENT; COLLECTOR;
+   DESIGN
+ER
+
+PT J
+DE Solar hydrogen production; Artificial leaf; Photosynthesis;
+   Photoelectrochemical cell; Solar fuel
+ID VISIBLE-LIGHT IRRADIATION; RENEWABLE ENERGY SYSTEM; PHOTOCATALYTIC
+   ACTIVITY; SEMICONDUCTOR PHOTOCATALYST; WATER; TIO2; OXYGEN; PERFORMANCE;
+   ADSORPTION; EFFICIENCY
+ER
+
+PT J
+DE cobalt; energy conversion; platinum; reduction; rhodium
+ID OXYGEN CARRIERS; POWER-GENERATION; DIMETHYL ETHER; GAS-TURBINE;
+   COMBUSTION; HYDROGEN; NIO; PERFORMANCE; REACTIVITY; REDUCTION
+ER
+
+PT J
+ID OXYGEN; H2O
+ER
+
+PT J
+ID LANTHANUM MANGANITE PEROVSKITES; THERMOCHEMICAL HYDROGEN-PRODUCTION;
+   VACANCY FORMATION ENERGETICS; OXYGEN-EXCHANGE MATERIALS; CA/SR A-SITE;
+   IN-SITU; NEUTRON-DIFFRACTION; HIGH-TEMPERATURES; HEAT-TRANSFER; X-RAY
+ER
+
+PT J
+DE Solar fuel; Methanol decomposition; Distributed energy system; Chemical
+   recuperation process
+ID METHANOL DECOMPOSITION; HYDROGEN-PRODUCTION; POWER-GENERATION;
+   THERMAL-ENERGY; SYNGAS PRODUCTION; PARABOLIC TROUGH; FUEL PRODUCTION;
+   FOSSIL POWER; COLLECTORS; RECEIVER/REACTOR
+ER
+
+PT J
+ID SOLAR HYDROGEN-PRODUCTION; WATER-SPLITTING DEVICES; ENERGY-CONVERSION;
+   CELLS; EFFICIENCY; LIGHT; SEMICONDUCTORS; REALIZATION; CALIBRATION;
+   SIMULATION
+ER
+
+PT J
+ID NONSTOICHIOMETRIC CERIUM DIOXIDE; ISOTHERMAL REDOX CYCLE; FUEL
+   PRODUCTION; THERMODYNAMIC ANALYSIS; OXYGEN NONSTOICHIOMETRY; SYNGAS
+   PRODUCTION; CARBON-MONOXIDE; REDUCTION; H2O; REACTOR
+ER
+
+PT J
+ID OXYGEN EVOLUTION CATALYST; COUPLED ELECTRON-TRANSFER; CO2 REDUCTION;
+   WATER; PHOTOSYNTHESIS; EFFICIENCIES; BACTERIA; SYSTEM
+ER
+
+PT J
+DE Solar fuels; CO2 sequestration; Hydrogen economy; Photoelectrochemistry;
+   Electrolysis; Fuel cell; Thermochemical processes; Solar energy
+ID HYDROGEN-PRODUCTION; CARBON-DIOXIDE; REDOX REACTIONS; RECENT PROGRESS;
+   CO2; WATER; ENERGY; REDUCTION; H2O; DISSOCIATION
+ER
+
+PT S
+ER
+
+PT J
+DE Thermochemical hybrid power generation systems; Solar-assisted power
+   systems; Hybrid power generation systems; Thermodynamics of
+   thermochemical hybrid power generation systems; Solar exergy
+ID RANKINE-CYCLE; ENERGY
+ER
+
+PT J
+ID WATER OXIDATION; SILICON PHOTOANODES; CARBON-MONOXIDE; H-2 EVOLUTION;
+   NEUTRAL PH; EFFICIENCY; OXYGEN; CELLS; LAYER; GAP
+ER
+
+PT J
+ID MN-O SYSTEM; NONSTOICHIOMETRIC CERIUM DIOXIDE; LANTHANUM MANGANITE
+   PEROVSKITES; CA/SR A-SITE; OXYGEN NONSTOICHIOMETRY; DOPED CERIA;
+   SOLID-SOLUTIONS; CO2; SR; H2O
+ER
+
+PT J
+ID HYDROGEN EVOLUTION REACTION; ELECTROCHEMICAL CO2 REDUCTION;
+   TRANSITION-METAL SURFACES; DENSITY-FUNCTIONAL THEORY; WATER-SPLITTING
+   SYSTEMS; ACTIVE EDGE SITES; OXYGEN-EVOLUTION; CARBON-DIOXIDE;
+   SEMICONDUCTING PHOTOELECTRODES; ELECTROCATALYTIC MATERIALS
+ER
+
+PT J
+DE Mid-temperature solar fuel process; Synergetic dual thermochemical
+   reactions; Annual performance; Effective utilization of wider solar
+   irradiance
+ID HYDROGEN-PRODUCTION; THERMAL-ENERGY; METHANOL DECOMPOSITION; COLLECTOR;
+   CYCLE; RECEIVER/REACTOR; DISSOCIATION; PERFORMANCE; BIOMASS; REACTOR
+ER
+
+PT J
+DE energy conversion; fuel cells; hydrogen peroxides; photocatalysis; solar
+   fuels
+ID CARBON-FIBER CLOTH; PHOTOCATALYTIC WATER OXIDATION; COUPLED
+   ELECTRON-TRANSFER; 2-ELECTRON REDUCTION; ENERGY-CONVERSION;
+   HORSERADISH-PEROXIDASE; OXYGEN REDUCTION; HIGH-PERFORMANCE; ARTIFICIAL
+   PHOTOSYNTHESIS; STATIONARY APPLICATIONS
+ER
+
+PT J
+DE artificial photosynthesis; device design; photocatalysis; solar fuels;
+   water splitting
+ID WATER OXIDATION CATALYSTS; HIGHLY EFFICIENT; COMPLEXES; PHOTOSYNTHESIS;
+   EVOLUTION; ELECTROCATALYST
+ER
+
+PT J
+DE Isothermal; Polygeneration; Solar fuel; Syngas; Thermochemical cycling;
+   Methanol
+ID ISOTHERMAL REDOX CYCLE; METHANOL SYNTHESIS; CO2; HYDROGEN; WATER; GAS;
+   TECHNOLOGY; RECOVERY; OXYGEN; CERIA
+ER
+
+PT J
+DE Solar conversion; Photocatalysis; Pt/TiO2; Methanol dehydrogenation; PEM
+   fuel cell
+ID RHODOBACTER-CAPSULATUS; WATER; METHANOL; LIGHT; ELECTROLYSIS; PLATINUM;
+   SYSTEMS
+ER
+
+PT J
+DE Photosynthesis; Solar fuel; Climate change; Fuel security; Light
+   harvesting; Multiscale analysis
+ID NET PRIMARY PRODUCTION; SPLITTING RECENT PROGRESS; CARBON FIXATION
+   PATHWAYS; PHOTOSYSTEM-II ANTENNA; ENERGY RETURN; ARTIFICIAL
+   PHOTOSYNTHESIS; HYDROTHERMAL LIQUEFACTION; HUMAN APPROPRIATION; BIOFUEL
+   PRODUCTION; QUANTUM COHERENCE
+ER
+
+PT J
+DE Mid-temperature solar thermochemical process; Solar fuel; CCHP
+ID CHEMICAL-LOOPING COMBUSTION; THERMAL-ENERGY; HYBRID SOLAR; METHANOL
+   DECOMPOSITION; TRIGENERATION SYSTEMS; CYCLE; INTEGRATION; EFFICIENT;
+   STORAGE; DRIVEN
+ER
+
+PT J
+DE Hydrogen; Fuel reforming; Solar energy; Solar thermal collector; Fuel
+   cell systems
+ID THERMAL-ENERGY; PERFORMANCE ANALYSIS; COLLECTORS; SYSTEM; CYCLE;
+   RECEIVER/REACTOR; DECOMPOSITION; CATALYST; EXERGY; CELLS
+ER
+
+PT J
+ID NITROGEN-DOPED TIO2; TITANIUM-DIOXIDE; CO2; SPECTROSCOPY; CHALLENGES;
+   REDUCTION; NANOWIRES; OXIDATION; PROSPECTS; CELLS
+ER
+
+PT J
+DE artificial photosynthesis; unbiased photoelectrochemical cell; ZnTe
+   photocathode; perovskite solar cell; CO2 reduction
+ID CONVERSION EFFICIENCY; HYDROGEN-PRODUCTION; ENERGY-CONVERSION;
+   REDUCTION; WATER; SYSTEM; FUELS; PHOTOVOLTAICS; EVOLUTION; NANOWIRE
+ER
+
+PT J
+DE solar thermochemical; thermodynamics; hydrogen; water splitting;
+   samarium oxide; computational analysis
+ID ZN/ZNO REDOX REACTIONS; THERMODYNAMIC ANALYSIS; FUEL PRODUCTION; SYNGAS
+   PRODUCTION; CO2; H2O; DISSOCIATION; REACTOR; CERIA; NANOPARTICLES
+ER
+
+PT J
+DE solar energy; SOFC; evaluation method; electrolyte-free fuel cell
+ER
+
+PT J
+DE photoanodes; crystal facets; solar energy; solar fuel production; water
+   splitting
+ID WATER OXIDATION; ARTIFICIAL PHOTOSYNTHESIS; SEMICONDUCTOR NANOWIRES;
+   PHOTOGENERATED HOLES; CHARGE SEPARATION; OXYGEN EVOLUTION;
+   SINGLE-CRYSTALS; EFFICIENT; MECHANISM; SURFACE
+ER
+
+PT J
+ID LIFE-CYCLE ASSESSMENT; CO2 CAPTURE; ENERGY; CERIA; H2O; AIR;
+   DESALINATION; GENERATION; SEPARATION; SYSTEM
+ER
+
+PT B
+DE Hydrogen-based; Energy; Fuel Cell; Solar Energy; Sensing Robot
+ID FUEL-CELLS
+ER
+
+PT S
+ID FUEL PRODUCTION; THERMAL REDUCTION; WATER; 2-STEP; EFFICIENCY;
+   RESISTANCE; HEAT
+ER
+
+PT S
+ER
+
+PT J
+DE Photoactivated Fuel Cells; photocatalytic fuel cells; PhotoFuelCells;
+   solar cells; hydrogen production
+ID PHOTOELECTROCATALYTIC HYDROGEN-PRODUCTION; SENSITIZED SOLAR-CELLS;
+   VISIBLE-LIGHT; WATER OXIDATION; GENERATE ELECTRICITY; PHOTOANODES;
+   TITANIA; PHOTOCATALYSIS; ELECTRODE; ELECTROCATALYSTS
+ER
+
+PT J
+DE Photovoltaics; Artificial photosynthesis; Photocatalysis; Solar fuel;
+   Photosensitizers; Photocatalysts
+ID CELLS; LIMIT
+ER
+
+PT S
+DE Electrocatalysis; In operando; In situ; Photocatalysis; Solar fuels
+ID TRANSMISSION ELECTRON-MICROSCOPY; SCANNING ELECTROCHEMICAL MICROSCOPY;
+   OXYGEN-EVOLVING CATALYST; ENERGY-LOSS SPECTROSCOPY; PHOTOELECTROCHEMICAL
+   WATER OXIDATION; RAY-ABSORPTION-SPECTROSCOPY; ENHANCED
+   RAMAN-SPECTROSCOPY; HYDROGEN EVOLUTION REACTION; SILICON
+   SCHOTTKY-BARRIER; LITHIUM-ION BATTERIES
+ER
+
+PT J
+DE Solar energy; Passive house; Hydrogen; PEM fuel cell; Alkaline
+   electrolyzer; Mathematical modeling
+ID ELECTROLYZER; MODULE; PV
+ER
+
+PT J
+DE Solar chimney; Solid oxide electrolysis cell; Solid oxide fuel cell;
+   Economic analysis
+ID ARTIFICIAL NEURAL-NETWORK; TURBINE HYBRID SYSTEM; FUEL-CELL; GEOMETRIC
+   PARAMETERS; HYDROGEN-PRODUCTION; INFILTRATION PARAMETERS;
+   COMBINED-CYCLE; MONTHLY INFLOW; TUBULAR SOFC; ELECTROLYZER
+ER
+
+PT J
+ID ELECTROCHEMICAL CO2 REDUCTION; PHOTOSYSTEM-II; METAL-ELECTRODES;
+   MOLECULAR ELECTROCATALYSTS; MULTIELECTRON REDUCTION;
+   ATMOSPHERIC-PRESSURE; CATALYTIC-REDUCTION; HYDROGEN-PRODUCTION; LOW
+   OVERPOTENTIALS; AMMONIA-SYNTHESIS
+ER
+
+PT J
+ID ENERGY; POWER
+ER
+
+PT J
+DE solar; thermochemistry; isothermal; water splitting; methane; syngas;
+   oxygen permeation membrane
+ID HYDROGEN; WATER; METHANE
+ER
+
+PT J
+DE Hybrid solar-fossil fuel; Solar reforming; Fuel conversion; Solar
+   receiver-reactor
+ID CHEMICAL-LOOPING COMBUSTION; ABSORPTION CATALYTIC REACTOR; VOLUMETRIC
+   RECEIVER-REACTOR; ROTARY BED REACTOR; OF-THE-ART; HYDROGEN-PRODUCTION;
+   SYNTHESIS GAS; LOW-TEMPERATURE; NATURAL-GAS; MEMBRANE REACTOR
+ER
+
+PT J
+DE CO2 reduction; graphene; hydrogen production; photocatalysis; solar fuel
+ID VISIBLE-LIGHT IRRADIATION; P-N-JUNCTION; CADMIUM SULFIDE NANOCOMPOSITE;
+   INTERFACIAL CHARGE-TRANSFER; HYDROGEN-PRODUCTION; H-2-PRODUCTION
+   ACTIVITY; TIO2-GRAPHENE NANOCOMPOSITES; ENVIRONMENTAL APPLICATIONS; TIO2
+   NANOPARTICLES; OXIDE NANOSHEETS
+ER
+
+PT J
+DE Photocatalysts; Photoelectrodes; Water splitting; Nanostructure; CO2
+   photoreduction; Atomic layer deposition
+ID ATOMIC LAYER DEPOSITION; PHOTOELECTROCHEMICAL WATER OXIDATION;
+   ENERGY-CONVERSION EFFICIENCY; ULTRATHIN HEMATITE FILMS; TA3N5 NANOROD
+   ARRAYS; HYDROGEN-PRODUCTION; SILICON PHOTOANODES; CHARGE SEPARATION;
+   BISMUTH VANADATE; VISIBLE-LIGHT
+ER
+
+PT J
+ID WATER; PHOTOANODE; EFFICIENCY; HYDROGEN
+ER
+
+PT J
+DE CCHP technology; Solar panels; Solar collectors; Fuel price; Emission
+ID COMBINED HEAT; POWER-SYSTEMS; MICRO-CHP; IRAN; PERFORMANCE; BUILDINGS;
+   OPERATION; TURBINES; STRATEGY; DESIGN
+ER
+
+PT J
+DE Electrolysis; Hydrogen; Photovoltaic; Solar fuels
+ID SOLAR HYDROGEN-PRODUCTION; EARTH-ABUNDANT CATALYSTS; OXYGEN-EVOLVING
+   CATALYST; SEMICONDUCTOR ELECTRODES; CONVERSION EFFICIENCY;
+   AQUEOUS-ELECTROLYTES; PHOTOELECTROLYSIS; PHOTOLYSIS; EVOLUTION;
+   PHOSPHATE
+ER
+
+PT J
+DE Life Cycle Assessment; Hybrid; Solar; Biomass; Fossil; Energy Payback
+   Time
+ID LIFE-CYCLE ASSESSMENT; GREENHOUSE-GAS EMISSIONS; COAL-MINE SPOILS;
+   BIOMASS COMBUSTION; WOOD PELLETS; WHEAT-STRAW; ELECTRICITY; GENERATION;
+   IMPACTS; PEAT
+ER
+
+PT J
+ER
+
+PT J
+ID POWER-SYSTEM
+ER
+
+PT B
+DE Photosynthetic microbial fuel cells; biological solar panel; sustainable
+   power generation; microbial photosynthesis; microbial respiration
+ID FUEL-CELLS; ENERGY; SYSTEM
+ER
+
+PT S
+DE solar energy; hydrogen energy; fuel cell; hybrid system
+ID HIGH-EFFICIENCY; SIMULATION; RADIATION; SURFACES
+ER
+
+PT J
+ID ORGANIC PHOTOELECTROCHEMICAL CELLS; WATER-SPLITTING PHOTOANODES;
+   HYDROGEN-PRODUCTION; PHOTOCHEMICAL FUNCTIONALIZATION; HEMATITE
+   PHOTOELECTRODES; AQUEOUS-ELECTROLYTES; SURFACE CONDUCTIVITY; SILICON
+   PHOTOANODES; CHARGE SEPARATION; SI(111) SURFACES
+ER
+
+PT S
+DE Hydrogen; thermochemical; solar fuels; carbon dioxide
+ID THERMODYNAMIC PROPERTIES; NONSTOICHIOMETRIC CERIA; HYDROGEN-PRODUCTION;
+   WATER; ENERGY; OXIDE; HEAT; SYSTEM; CYCLE; CO2
+ER
+
+PT S
+DE Solar Fuel; High Temperature Solar Applications; CSP; South Africa;
+   Synfuels; Road map
+ER
+
+PT J
+ID DOPED CERIA; ELECTRICAL-CONDUCTIVITY; NONSTOICHIOMETRIC CERIA; OXYGEN
+   NONSTOICHIOMETRY; HYDROGEN-PRODUCTION; CHEMICAL EXPANSION; CO
+   PRODUCTION; OXIDE; REDOX; CELLS
+ER
+
+PT S
+ER
+
+PT J
+ID WATER-SPLITTING PHOTOANODES; DRIVEN HYDROGEN-PRODUCTION;
+   PHOTOELECTROCHEMICAL CELLS; ENERGY-CONVERSION; SEMICONDUCTING
+   PHOTOELECTRODES; PHOTOASSISTED ELECTROLYSIS; SILICON PHOTOELECTRODES;
+   PHOTO-CATHODES; PHOTOSYSTEM-I; EFFICIENCY
+ER
+
+PT J
+DE Methane; Reforming; Hydrogen; Redox reaction; Solar energy
+ID CO2 MITIGATION; PURE HYDROGEN; SYNTHESIS GAS; REDOX SYSTEM; NATURAL-GAS;
+   IRON-OXIDES; REACTOR; CAPTURE; SYNGAS; FE3O4-REDUCTION
+ER
+
+PT J
+DE Solar energy; Methanol steam reforming; Distributed energy system;
+   Hydrogen energy; Proton exchange membrane fuel cell
+ID OPTIMIZATION; MODEL; EFFICIENCY; REACTOR; DESIGN; ENERGY; WATER
+ER
+
+PT J
+DE solar cell; earth abundant; renewable; artificial leaf; multijunction
+ID OXYGEN-EVOLVING CATALYST; WATER OXIDATION; HYDROGEN-PRODUCTION;
+   THIN-FILM; IN-SITU; SEMICONDUCTING PHOTOELECTRODES; EVOLUTION CATALYST;
+   SPLITTING WATER; DESIGN CRITERIA; EFFICIENCY
+ER
+
+PT J
+DE Photovoltaic; solar water heating; solar radiation; life cycle cost;
+   greenhouse gases
+ID STANDARD SKIES; SYSTEM; PERFORMANCE
+ER
+
+PT J
+DE Hydrogen; Thermochemical; Solar fuels; Carbon dioxide
+ID WATER; HYDROGEN; SYSTEM; OXYGEN; CERIA; HEAT
+ER
+
+PT J
+ER
+
+PT J
+DE Bioethanol; hydrogen production; proton-exchange membrane fuel cell;
+   simulation; solar radiation; solar reforming
+ER
+
+PT J
+DE Hybrid systems; Solar thermal energy; Chemical looping combustion;
+   Energy storage
+ID INHERENT CO2 SEPARATION; OXYGEN CARRIERS; ENERGY; NIO/NIAL2O4;
+   PARTICLES; CYCLE; HEAT; CLC
+ER
+
+PT J
+ID SOLAR FUEL; CARBON-DIOXIDE; AMBIENT AIR; ATMOSPHERE; CAPTURE; FUTURE
+ER
+
+PT J
+ID SPLITTING THERMOCHEMICAL CYCLE; CHEMICAL LOOPING PROCESS; IRON-OXIDES;
+   CO2 MITIGATION; H-2 PRODUCTION; PURE HYDROGEN; SYNTHESIS GAS; WATER;
+   2-STEP; METHANE
+ER
+
+PT J
+ID CARBON NANOTUBES; AZOBENZENE; FLUORESCENCE;
+   (FULVALENE)TETRACARBONYLDIRUTHENIUM; PHOTOISOMERIZATION;
+   FUNCTIONALIZATION; DERIVATIVES; BATTERY; DEVICES
+ER
+
+PT J
+DE atomic layer deposition; batteries; energy conversion; electrochemistry;
+   electrolysis; fuel cells; photovoltaics; solar cells; thin films
+ID SENSITIZED SOLAR-CELLS; OXIDE FUEL-CELLS; THIN-FILMS; NANOTUBES;
+   ENHANCEMENT; ELECTRODES; CHALLENGES; BATTERIES; OXIDATION; CHEMISTRY
+ER
+
+PT J
+DE Green solar parking-refueling station; Fuel cell vehicle; Economic and
+   environmental evaluations
+ID HYDROGEN-PRODUCTION; ENERGY SYSTEM; ELECTROLYZER; GENERATION; US
+ER
+
+PT J
+ID HOMOGENEOUS CATALYSIS; POWER-GENERATION; OXIDATION; ENERGY; OXYGEN;
+   WATER; DEGRADATION; TECHNOLOGY
+ER
+
+PT B
+DE Solar radiation; parabolic trough collector; concentrating solar power;
+   Yemen
+ER
+
+PT S
+DE Renewable Energy; Fuel Cell; Hydrogen; Solar Energy
+ER
+
+PT J
+DE solar fuels; photosystem I; photosystem II; CO2; photosynthesis;
+   artificial leaf; artificial photosynthesis; solar-to-fuel nanodevices
+ID CYCLIC ELECTRON FLOW; ALGA CHLAMYDOMONAS-REINHARDTII; PLANT
+   PHOTOSYSTEM-I; WATER-OXIDATION; HYDROGEN-PRODUCTION; BIOFUEL PRODUCTION;
+   CRYSTAL-STRUCTURE; CARBON-DIOXIDE; ANGSTROM RESOLUTION; REACTION CENTERS
+ER
+
+PT S
+DE Modeling; Supervisory Control; Ultracapacitor; Photovoltaic power; and
+   PEM fuel cell
+ID PEM FUEL-CELL; GENERATION SYSTEM
+ER
+
+PT J
+DE artificial leaf; oxygen evolution; photochemistry; solar fuel; water
+   splitting
+ID OXYGEN-EVOLVING CATALYST; WATER-OXIDATION; HYDROGEN-PRODUCTION;
+   PHOTOELECTRODES; PHOTOANODES; PHOSPHATE
+ER
+
+PT J
+DE carbon dioxide; ceria; ferrite; gas splitting; hydrogen
+ID YTTRIA-STABILIZED ZIRCONIA; NONSTOICHIOMETRIC CERIUM DIOXIDE; FEO/FE3O4
+   REDOX REACTIONS; OXYGEN STORAGE CAPACITY; HYDROGEN-PRODUCTION;
+   SOLID-SOLUTIONS; THERMODYNAMIC ANALYSIS; H-2 GENERATION; THERMAL-ENERGY;
+   IRON-OXIDE
+ER
+
+PT J
+DE Methane; Reforming; Hydrogen; Syngas; Solar thermal; Solar reactors
+ID VOLUMETRIC RECEIVER-REACTOR; AEROSOL FLOW REACTOR; SODIUM HEAT-PIPE;
+   NATURAL-GAS; THERMODYNAMIC ANALYSIS; COMPOSITE CATALYST;
+   ENERGY-CONVERSION; CHEMICAL REACTOR; FOAM ABSORBER; POWER-PLANTS
+ER
+
+PT J
+ID HYDROGEN; ENERGY; CONVERSION; CATALYSTS; BIOMASS; PLANET; WATER
+ER
+
+PT J
+ID WATER-SPLITTING SYSTEMS; HYDROGEN-PRODUCTION; PHOTOELECTROCHEMICAL
+   CELLS; ARTIFICIAL PHOTOSYNTHESIS; EFFICIENCY; ENERGY; DEVICE; DESIGN;
+   TEMPERATURE; CHALLENGES
+ER
+
+PT S
+ER
+
+PT S
+DE fuel cell; solar cell; hybrid system; simulation
+ID RENEWABLE ENERGY; POWER-SYSTEMS; FUEL-CELLS; HYDROGEN; STORAGE; DESIGN
+ER
+
+PT J
+DE methane formation; metal oxides; photocatalysis; semiconductors; solar
+   fuels
+ID REDUCTION; CO2; TIO2; CATALYSTS; HYDROGEN; DIOXIDE; WATER
+ER
+
+PT J
+DE solar energy; greenhouse; storage tank; stratification; NPV
+ID PRESSURE-DROP STATIONS; TOMATO PRODUCTION; FEASIBILITY; SYSTEMS; INPUTS;
+   WATER
+ER
+
+PT J
+DE Hybrid system; Oxy-fuel cycle; Solar heat; Zero CO2 emission;
+   Performance analysis
+ID RANKINE-CYCLE POWER; SENSITIVITY-ANALYSIS; COOLING-SYSTEM; GAS; PLANTS;
+   INTEGRATION; CAPTURE; DESIGN; FUELS; HEAT
+ER
+
+PT J
+DE Parabolic trough collector; Rankine cycle; System integration; Solar
+   thermal power plant
+ID INTEGRATION; PERFORMANCE
+ER
+
+PT J
+DE Parabolic trough; Rankine cycle; Combined cycle; Solar thermal power
+   plants
+ER
+
+PT J
+ER
+
+PT J
+DE photosynthesis; solar energy; artificial photosynthesis; biofuels; solar
+   fuel; polyoxometalates
+ID LIGHT-HARVESTING COMPLEX; CRYSTAL-STRUCTURE; PHOTOSYSTEM-II; WATER;
+   CATALYST; CARBOXYSOMES; HYDROGENASE; ENERGETICS; RESOLUTION; EVOLUTION
+ER
+
+PT J
+DE conjugated polymers; fullerenes; solar cells; solar fuels
+ID TANDEM POLYMER; EFFICIENT; LIGHT; FUEL
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE Solar energy; Building-integrated solar; Fuel poverty; TRNSYS; Solar
+   system optimisation
+ID CONNECTED PHOTOVOLTAIC SYSTEMS; WATER-HEATING SYSTEM; ENERGY EFFICIENCY;
+   ARRAY; SIMULATION; INVERTER
+ER
+
+PT J
+DE Hybrid power plant; Integrated solar combined cycle system; Solar
+   electric generating system; Solar aided power generation; Feedwater
+   preheating; Repowering
+ID COMBINED-CYCLE SYSTEM; DIRECT STEAM-GENERATION; HYBRID GAS-TURBINE;
+   PERFORMANCE ANALYSIS; ECONOMIC-EVALUATION; SUSTAINABLE FUTURE; PARABOLIC
+   TROUGHS; FUEL CONSUMPTION; TECHNOLOGY; ELECTRICITY
+ER
+
+PT J
+DE Hybrid solar-fossil fuel; Solar reforming; Solar tower; Optimization
+ID INTEGRATION; SYSTEMS
+ER
+
+PT J
+DE ionic liquid; poly(ionic liquid); electrolyte; fuel cells;
+   dye-sensitized solar cells
+ID SENSITIZED SOLAR-CELLS; ANION-EXCHANGE MEMBRANES; ALKALINE FUEL-CELLS;
+   LIQUIDS; SUPERCAPACITORS; PERFORMANCE
+ER
+
+PT J
+ID PHOTOCHEMICAL CONVERSION; AZOBENZENE DERIVATIVES;
+   (FULVALENE)TETRACARBONYLDIRUTHENIUM; NORBORNADIENE; SYSTEM
+ER
+
+PT J
+DE Solar; Carbon monoxide; Drudgery; Fuel
+ER
+
+PT J
+ID P-TYPE NIO; NANOCRYSTALLINE THIN-FILMS; OPEN-CIRCUIT VOLTAGE;
+   PHOTOVOLTAIC ENERGY-CONVERSION; ELECTRON-TRANSFER DYNAMICS; SELECTIVE
+   CO2 CONVERSION; DOPED TIO2 ELECTRODES; CHARGE-TRANSFER; HIGH-EFFICIENCY;
+   ARTIFICIAL PHOTOSYNTHESIS
+ER
+
+PT B
+DE Effective energy production; Solar tracker; recyclable process; non
+   polluting exhaust; abundant input source
+ER
+
+PT J
+ID REGENERATIVE BRAYTON CYCLE; GAS-TURBINE; THERMAL-ENERGY;
+   HYDROGEN-PRODUCTION; NATURAL-GAS; RECEIVER SYSTEMS; PLANTS;
+   OPTIMIZATION; HEAT; DECOMPOSITION
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ID CO2; TEMPERATURE; REDUCTION; HYDROGEN; CELL; H2O; EFFICIENCY; ELECTRODE;
+   CYCLE
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE Solar energy; Photovoltaics; Solar fuels; Solar thermal energy
+ER
+
+PT J
+DE Solar fuels; Artificial photosynthesis; Renewable fuels; Solar energy;
+   Photobiological hydrogen
+ID ARTIFICIAL PHOTOSYNTHESIS
+ER
+
+PT J
+DE Cyanobacteria; Design and engineering; Renewable energy; Microbial
+   cells; Solar fuels; Synthetic biology
+ID STRAIN PCC 6803; HETEROCYST PATTERN; CYANOBACTERIA; HYDROGENASE;
+   EXPRESSION; GENE
+ER
+
+PT S
+ID MAGNESIUM PRODUCTION
+ER
+
+PT S
+DE Solar Fuels; Artificial Photosynthesis; Energy security; Anthropocene;
+   Sustainocene; Hydrogen economy; Photon economy; International human
+   rights; International trade law; Common heritage of humanity
+ID WATER OXIDATION; PHOTOSYSTEM-II; ENERGY; CATALYST; BIOMASS; CONVERSION;
+   COHERENCE; TRANSPORT; SYSTEMS; PROTEIN
+ER
+
+PT J
+ID PHOTOCHEMICAL HYDROGEN-PRODUCTION; PHOTOSYSTEM-II; SYNTHETIC BIOLOGY;
+   H-2 PRODUCTION; WATER; OXYGEN; OXIDATION; ENERGY; CATALYST; COMPLEX
+ER
+
+PT J
+DE fuel cell (PEM); photovoltaic panel; hydrogen; power energy
+ER
+
+PT J
+ID PHOTOSYSTEM-II; OXYGEN; CELLS
+ER
+
+PT J
+DE Residential energy system; Fuel cell; Electric power; Domestic hot
+   water; Solar energy
+ID PERFORMANCE; MANAGEMENT
+ER
+
+PT J
+DE PEMFC; Solar collector; Catalytic electrodes; Solar power generation
+ID WATER-HEATERS; FUEL-CELLS; DESIGN
+ER
+
+PT J
+DE Residential hydrogen fueling; Photovoltaic; Electrolyzer; Safety;
+   Well-to-wheel; Energy efficiency
+ID PANELS
+ER
+
+PT J
+DE Dynamic experimental data; Fuel cell; Electrolyzer; Solar-hydrogen;
+   Hybrid energy storage; Renewable residential power
+ID REGENERATIVE FUEL-CELL; HYDROGEN STORAGE; SIZING OPTIMIZATION; POWER;
+   MODEL; UNIT; PV
+ER
+
+PT J
+ER
+
+PT J
+DE Solar thermal fuel; renewable energy; photoswitch; carbon nanotubes;
+   density functional theory
+ID PHOTOCHEMICAL CONVERSION; STORAGE; (FULVALENE)TETRACARBONYLDIRUTHENIUM;
+   DERIVATIVES; LIGHT
+ER
+
+PT J
+DE solar aided thermal power generation; solar energy to electricity
+   efficiency; coal consumption rate
+ID EXERGY ANALYSIS; PERFORMANCE
+ER
+
+PT J
+DE Solar energy; Efficiency; Hydrogen production; Fuel; Reformation
+ID NATURAL-GAS; AMMONIA; STORAGE; SYSTEMS
+ER
+
+PT J
+DE Solar-hydrogen; Combined heat and power; PEM fuel cell; Heat recovery;
+   Remote areas power supply
+ID STAND-ALONE APPLICATIONS; PEFC SYSTEM; CHP-SYSTEM; ENERGY; DESIGN;
+   MEXICO; PV
+ER
+
+PT J
+DE artificial photosynthesis; carbon dioxide fixation; hydrogen; low carbon
+   fuel; solar fuel
+ID PHOTOINDUCED HYDROGEN EVOLUTION; SOLUBLE ZINC PORPHYRIN; ACTIVE-SITE
+   MODEL; MG CHLOROPHYLL-A; ELECTRON-TRANSFER COMMUNICATION; PHOTOCATALYTIC
+   CO2 REDUCTION; METHYL VIOLOGEN REDUCTION; VISIBLE-LIGHT; CARBON-DIOXIDE;
+   COLLOIDAL PLATINUM
+ER
+
+PT J
+DE Solar thermal power; Fossil fuels; Rankine regenerative cycle;
+   Repowering; High pressure heaters; Fresnel collectors
+ER
+
+PT J
+DE Solar chemistry; Solar tower; Central receiver; Heliostat field; High
+   temperature; Thermochemical
+ID CENTRAL RECEIVER SYSTEMS; HYDROGEN
+ER
+
+PT J
+DE Solar fuels; Solar energy; Photovoltaics; EFRC; Catalysis
+ER
+
+PT B
+ID HYDROGEN-PRODUCTION; THERMOCHEMICAL HYDROGEN; NATURAL-GAS; WATER; CYCLE;
+   ENERGY; TECHNOLOGIES; EMISSIONS; SYSTEM; STEAM
+ER
+
+PT J
+ID CARBON-DIOXIDE; PHOTOCATALYTIC CONVERSION; THERMAL-DISSOCIATION;
+   HYDROGEN-PRODUCTION; H-2 GENERATION; TEMPERATURE; REDUCTION; WATER;
+   ENERGY; ZNO
+ER
+
+PT J
+ER
+
+PT J
+DE Greenhouse; Solar photovoltaic system; Electrolyzer; Fuel cell
+ID RENEWABLE ENERGY; SIZING OPTIMIZATION; GENERATION SYSTEM; HYDROGEN
+   SYSTEMS; DESIGN; SIMULATION; BATTERY; STORAGE; ARRAYS; PV
+ER
+
+PT J
+ID HYDROGEN-PRODUCTION; THERMOCHEMICAL CYCLES
+ER
+
+PT J
+ID HYDROGEN-PRODUCTION; STEAM-GASIFICATION; REDOX REACTIONS; FLOW REACTOR;
+   BED REACTOR; WATER; CYCLES; RADIATION; FERRITES; AEROSOL
+ER
+
+PT J
+DE Photomicrobial fuel cell; Microbial solar cell; Photo hydrogen;
+   Bioelectrochemical systems; Algae; Fuel cells
+ID FERMENTATIVE HYDROGEN-PRODUCTION; ALGA CHLAMYDOMONAS-REINHARDTII;
+   BIOCHEMICAL ENERGY-CONVERSION; IMMOBILIZED WHOLE CELLS; WASTE-WATER;
+   ELECTRICITY-GENERATION; PHOTOBIOLOGICAL HYDROGEN;
+   RHODOBACTER-SPHAEROIDES; GREEN-ALGA; ANABAENA-VARIABILIS
+ER
+
+PT J
+DE Portable fuel cell system; Methanol reforming; Solar collector;
+   Low-temperature fuel cell; Exergy; Exergetic efficiency
+ID CATALYTIC PARTIAL OXIDATION; HYDROGEN-PRODUCTION; PERFORMANCE ANALYSIS;
+   SYSTEM; STEAM; MODEL; CO; PROCESSOR; KINETICS; PROPANE
+ER
+
+PT J
+DE Solar Stirling systems; Hydrogen; Fuel cell; Experimental data
+ID RENEWABLE ENERGY; SYSTEM; ENGINE; FUTURE; CYCLE
+ER
+
+PT J
+DE biofuels; biomass; hydrogen; semiconductors; solar fuels
+ID HYDROGEN-PRODUCTION; CARBON-DIOXIDE; VISIBLE-LIGHT; ELECTROCHEMICAL
+   REDUCTION; ELECTROCATALYTIC CONVERSION; PHOTOCATALYTIC ACTIVITY; PHOTO
+   REDUCTION; H-2 PRODUCTION; ENERGY; CATALYSTS
+ER
+
+PT J
+ID CATHODIC OXYGEN REDUCTION; ELECTRICITY-GENERATION; ION-TRANSPORT;
+   WASTE-WATER; PERFORMANCE; MEMBRANE; BACTERIA; BIOFILM; ANODE; PH
+ER
+
+PT B
+ID HYDROGEN-PRODUCTION; OXIDATION; ENERGY; SYNGAS; LIQUID; MODEL
+ER
+
+PT J
+DE Solar thermal technologies; Solar energy system study; Solar energy
+   system design; Solar energy system development
+ID DOMESTIC HOT-WATER; AIR-CONDITIONING SYSTEM; MANTLE HEAT-EXCHANGERS;
+   TRANSPARENT INSULATION MATERIAL; ARTIFICIAL NEURAL-NETWORKS;
+   BIOMASS-BACKUP HEATER; CHIMNEY POWER-PLANTS; PERFORMANCE EVALUATION;
+   COOKING VESSEL; STORAGE UNIT
+ER
+
+PT J
+ER
+
+PT J
+DE high world food prices; alternate energy; bio-fuels; solar energy;
+   fossil fuels
+ER
+
+PT J
+DE Renewable; Biodiesel; Solar utility; Exergy analysis; Simulation
+ID EXERGY ANALYSIS; COLLECTOR; CHILLER; OILS
+ER
+
+PT J
+DE automobiles; building integrated photovoltaics; fuel cells; hydrogen
+   economy; solar cell arrays
+ER
+
+PT J
+DE Solar cooker; Thermal energy storage systems; Phase change material;
+   Solar energy; Latent heat
+ID THERMAL-ENERGY STORAGE; PHASE-CHANGE MATERIALS; PERFORMANCE EVALUATION;
+   EVENING COOKING; UNIT; TECHNOLOGIES; EXCHANGER; DESIGN; INDIA; PCMS
+ER
+
+PT J
+ID EVOLUTION; PROTEINS
+ER
+
+PT B
+DE Fuel Cells; Solar Energy; Natural Gas; Hybrid Power Plant
+ER
+
+PT J
+DE Solar hydrogen; Cracking; Reforming; Solar reactor
+ID TORNADO FLOW CONFIGURATION; HYDROGEN-PRODUCTION; THERMAL-DISSOCIATION;
+   CHEMICAL REACTOR; NATURAL-GAS; METHANE DECOMPOSITION; CENTRAL RECEIVER;
+   TEMPERATURE; CARBON; SIMULATION
+ER
+
+PT J
+DE Hydrogen; photovoltaic solar energy; wind energy; sustainable building;
+   adsorption; solar cold; Hydro Solar 21
+ER
+
+PT J
+ER
+
+PT J
+DE photovoltaic (PV); electrolyzer; high-pressure hydrogen production;
+   fuel-cell electric vehicle; hydrogen generation efficiency; hydrogen
+   fueling
+ID ENERGY SYSTEM; EXPERIENCE; INSTALLATION; CELL
+ER
+
+PT J
+DE solar; energy; fuel; hydrogen; zinc; carbothermal; reduction;
+   concentrated
+ID REDUCTION; REACTOR; METALS
+ER
+
+PT J
+DE renewable energy; solar; hydrogen; transport; passenger cars; LCA
+ID SPLITTING THERMOCHEMICAL CYCLE; ENERGY; TECHNOLOGIES; SYSTEMS; REACTOR;
+   GAS
+ER
+
+PT B
+DE Hybrid robotic wheelchair; Photovoltanic solar cell; Fuel cell; Energy
+   control
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT S
+DE parabolic trough collector; water-gas shift reaction; energy analysis
+ER
+
+PT J
+DE solar; hydrogen; natural gas; syngas; coal; decomposition; reforming;
+   gasification; decarbonization
+ID STEAM-GASIFICATION; FLOW REACTOR; NATURAL-GAS; METHANE; DECOMPOSITION;
+   CARBON
+ER
+
+PT J
+DE solar energy; solar lime; solar calcination; CO2 mitigation; economic
+   assessment
+ID CENTRAL RECEIVER SYSTEMS; TOWER-REFLECTOR; POWER-PLANT; DECARBONATION;
+   REACTOR; ENERGY
+ER
+
+PT J
+DE solar energy; fuel cell vehicles; hydrogen storage; energy efficiency
+ER
+
+PT J
+ER
+
+PT B
+DE universal motor; photovoltaic generator
+ID DC MOTORS; SYSTEM
+ER
+
+PT B
+DE universal motor; photovoltaic generator
+ID DC MOTORS; SYSTEM
+ER
+
+PT B
+DE solar energy; hydrogen; fuel cell; transport; technology; solar cell;
+   electrolysis
+ER
+
+PT J
+ER
+
+PT J
+DE hydrogen; solar energy; water splitting; solar thermal;
+   photoelectrochemical; photovoltaic
+ID ENERGY CONVERSION; WATER; ELECTROLYSIS; WORLD; CELL
+ER
+
+PT J
+ID SEMICONDUCTOR ALLOYS
+ER
+
+PT J
+DE solar; collector; fuel oil
+ER
+
+PT J
+DE upgrading of fuels; solar reforming; solar thermal electricity
+   generation
+ID METHANE
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+EF

@@ -1,0 +1,538 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,real-time,26,real-time,81
+1,real-time search,14,real-time search,38
+2,real-time systems,9,real-time systems,24
+3,optimization,6,real time,21
+4,real time,6,optimization,19
+5,motion estimation,6,motion estimation,16
+6,path planning,5,search,14
+7,genetic algorithm,5,genetic algorithm,14
+8,search,4,control,13
+9,real time search,4,real time search,13
+10,scheduling,4,twitter,12
+11,component,4,scheduling,12
+12,real-time scheduling,4,component,12
+13,control,3,fpga,11
+14,video coding,3,path planning,10
+15,real-time simulation,3,real-time scheduling,10
+16,twitter,3,real-time simulation,9
+17,fpga,3,data,9
+18,real-time heuristic search,3,video coding,8
+19,incremental search,2,sensor,8
+20,resources,2,data mining,8
+21,planning,2,isochronal,8
+22,webrtc,2,static scheduling,8
+23,sensor,2,tuf,8
+24,real-time path planning,2,resources,7
+25,a* algorithm,2,planning,7
+26,real-time communication,2,a* algorithm,7
+27,hard real-time,2,elasticsearch,7
+28,elasticsearch,2,search engine,7
+29,data mining,2,simulation,7
+30,data,2,agents,7
+31,social media,2,logistics,7
+32,search engines,2,incremental search,6
+33,artificial intelligence,2,webrtc,6
+34,depth estimation,2,ccs,6
+35,heuristic search,2,camshift,6
+36,image processing,2,histogram,6
+37,information retrieval,2,histogram projection,6
+38,genetic algorithms,2,intensity,6
+39,search engine,2,pixel,6
+40,object tracking,2,real,6
+41,video compression,2,hard real-time,6
+42,simulation,2,social media,6
+43,agents,2,search engines,6
+44,moving target search,2,depth estimation,6
+45,computational complexity,2,heuristic search,6
+46,logistics,2,image processing,6
+47,isochronal,2,object tracking,6
+48,static scheduling,2,asm,6
+49,tuf,2,2d profile,6
+50,simulated,2,4d profile,6
+51,multi-agent systems,2,face judgment,6
+52,distributed,2,imm,6
+53,real-time processing,2,frank,6
+54,vector quantization,2,real time video,6
+55,fiber bragg grating,1,video compression,6
+56,tunable fabry-perot filter,1,computational complexity,6
+57,demodulation system,1,simulated,6
+58,flying real-time network,1,vector quantization,6
+59,flying witness units,1,cherenkov telescopes,5
+60,uavs,1,cta,5
+61,plasma control system,1,cuda,5
+62,real-time framework,1,hpc,5
+63,data sharing,1,real-time analysis,5
+64,data logging,1,science-alert,5
+65,multi-core processing,1,real-time communication,5
+66,embedded,1,triple pattern,5
+67,nonconvex,1,health,5
+68,moving agents,1,chronic,5
+69,cherenkov telescopes,1,device,5
+70,cta,1,digital,5
+71,cuda,1,live methods,5
+72,hpc,1,technological culture,5
+73,real-time analysis,1,genetic algorithms,5
+74,science-alert,1,real-time processing,5
+75,online data analytics,1,bioprocess,5
+76,delay-bounded processing,1,monitoring,5
+77,skyline,1,real-time in situ,5
+78,real-time strategy games,1,on-line,5
+79,actions,1,embedded,4
+80,specification and verification,1,nonconvex,4
+81,rt-maude,1,real-time strategy games,4
+82,rewriting,1,actions,4
+83,adaptive filtering,1,node.js,4
+84,adaptive thresholding,1,html5,4
+85,ecg signal processing,1,javascript,4
+86,video communication,1,multimedia conferencing system,4
+87,video conferencing,1,video stitching,4
+88,motion,1,seam searching,4
+89,time difference of arrival,1,seam update,4
+90,sound source localization,1,video surveillance,4
+91,golden section,1,ttethernet,4
+92,node.js,1,network protocols,4
+93,html5,1,frame packing,4
+94,javascript,1,artificial intelligence,4
+95,multimedia conferencing system,1,hybrid median filter,4
+96,decision-making,1,ultrasound,4
+97,sport expertise,1,despeckle filter,4
+98,above real-time training,1,information retrieval,4
+99,football,1,big data,4
+100,ccs,1,hbase,4
+101,camshift,1,hadoop,4
+102,histogram,1,ai,4
+103,histogram projection,1,games,4
+104,intensity,1,evolutionary algorithms,4
+105,pixel,1,mcts,4
+106,real,1,vision measurement,4
+107,real-time stimulus selection,1,embedded system,4
+108,functional magnetic resonance imaging,1,high resolution,4
+109,index entry invalidator,1,feed,4
+110,efficiency,1,index freshness,4
+111,industrial wireless sensor networks (iwsns),1,index coverage,4
+112,node placement,1,mobile device,4
+113,harmony,1,social software,4
+114,ieee 802.11 wlan,1,interface,4
+115,optimization of retransmission number,1,synchronization,4
+116,voice adaptation,1,compression,4
+117,speech processing,1,path-finding,4
+118,voice profile,1,gpu acceleration,4
+119,parameter fitting,1,real time content,4
+120,real-time multi-step ga,1,collecta,4
+121,visual-servoing,1,economic value,4
+122,performance analysis,1,video summarization,4
+123,schedulability test,1,tunnel processing,4
+124,quantified constraint satisfaction problems,1,hog,4
+125,repeater,1,hardware,4
+126,topology,1,model reduction,4
+127,network,1,deformations,4
+128,audio,1,fluids,4
+129,source tracking,1,multi-agent systems,4
+130,fast implementation,1,distributed,4
+131,feature selection,1,rfid,4
+132,fuzzy rough sets,1,real time vehicle routing problem,4
+133,fuzzy entropy,1,gis,4
+134,ant colony,1,gps,4
+135,information base,1,real-time heuristic search,4
+136,dynamic models,1,applications,4
+137,perception and processing of images,1,emergence,4
+138,electric vehicles (evs),1,population-based search,4
+139,energy management architecture,1,ant robots,4
+140,uav,1,cover time,4
+141,receding horizon control,1,graph coverage,4
+142,nosql databases,1,lawn mowing,4
+143,multidimensional analysis,1,learning real-time,4
+144,geospatial analysis,1,flying real-time network,3
+145,embedded gis,1,flying witness units,3
+146,route programming,1,uavs,3
+147,road network,1,plasma control system,3
+148,uuv,1,real-time framework,3
+149,usv,1,data sharing,3
+150,sonar image,1,data logging,3
+151,bundle,1,moving agents,3
+152,rtc through plugins,1,online data analytics,3
+153,electromagnetic transients,1,delay-bounded processing,3
+154,local iterative,1,skyline,3
+155,network-on-chip,1,specification and verification,3
+156,mixed-criticality,1,rt-maude,3
+157,task allocation,1,rewriting,3
+158,data management,1,video communication,3
+159,kibana,1,video conferencing,3
+160,resource scheduling,1,motion,3
+161,mult-fitness,1,decision-making,3
+162,empirical mode decomposition,1,sport expertise,3
+163,support vector machine,1,above real-time training,3
+164,real-time forecast,1,football,3
+165,real-time pcr,1,voice adaptation,3
+166,coronavirus,1,speech processing,3
+167,meta-analysis,1,voice profile,3
+168,triple pattern,1,parameter fitting,3
+169,health,1,repeater,3
+170,chronic,1,topology,3
+171,diffuse reflection laser ranging,1,network,3
+172,signal extraction,1,audio,3
+173,video stitching,1,source tracking,3
+174,seam searching,1,fast implementation,3
+175,seam update,1,feature selection,3
+176,video surveillance,1,fuzzy rough sets,3
+177,ttethernet,1,fuzzy entropy,3
+178,network protocols,1,ant colony,3
+179,frame packing,1,real-time path planning,3
+180,device,1,embedded gis,3
+181,digital,1,route programming,3
+182,live methods,1,road network,3
+183,technological culture,1,uuv,3
+184,exponential time index set,1,usv,3
+185,personalized,1,sonar image,3
+186,non-photorealistic rendering,1,network-on-chip,3
+187,photomosaics,1,mixed-criticality,3
+188,genetic feature,1,task allocation,3
+189,emg,1,data management,3
+190,real-time pattern recognition,1,kibana,3
+191,wavelet packet,1,resource scheduling,3
+192,non-parametric,1,mult-fitness,3
+193,index methods,1,exponential time index set,3
+194,sensor networks,1,personalized,3
+195,spatial-temporal,1,non-photorealistic rendering,3
+196,railway rescheduling,1,photomosaics,3
+197,optimization models and algorithms,1,genetic feature,3
+198,pre-run-time scheduling,1,emg,3
+199,real-time visual effects,1,real-time pattern recognition,3
+200,smoothed-particle hydrodynamics,1,wavelet packet,3
+201,character,1,non-parametric,3
+202,full hd,1,index methods,3
+203,hardware implementation,1,sensor networks,3
+204,output feedback,1,spatial-temporal,3
+205,model predictive control,1,full hd,3
+206,uncertain system,1,hardware implementation,3
+207,off-line,1,output feedback,3
+208,motion planning,1,model predictive control,3
+209,dynamic obstacles,1,uncertain system,3
+210,machine vision,1,off-line,3
+211,visual tracking,1,motion planning,3
+212,target following,1,dynamic obstacles,3
+213,heterogeneous multiprocessor systems,1,machine vision,3
+214,real-time task scheduling,1,visual tracking,3
+215,local,1,target following,3
+216,hybrid median filter,1,social network,3
+217,ultrasound,1,real-time search technology,3
+218,despeckle filter,1,microblog,3
+219,optimal real time search,1,classification,3
+220,rescues operation,1,dynamic terrain,3
+221,potential field,1,wheel ruts,3
+222,database,1,agricultural machinery,3
+223,game pathfinding,1,vega prime,3
+224,ranking,1,compenent: google insights,3
+225,scheduling algorithms,1,google trends,3
+226,autonomous agents,1,web search,3
+227,control architectures and programming,1,prediction,3
+228,big data,1,adaptive window search,3
+229,hbase,1,object map,3
+230,hadoop,1,object detection,3
+231,social network,1,intelligent transportation system,3
+232,real-time search technology,1,complexity,3
+233,microblog,1,gui,3
+234,classification,1,myosin,3
+235,infrared search and track system,1,cognitive study,3
+236,phase correlation registration,1,knowledge representation,3
+237,dynamic terrain,1,algorithm,3
+238,wheel ruts,1,decision support system,3
+239,agricultural machinery,1,real-time search engines,3
+240,vega prime,1,service composition,3
+241,compenent: google insights,1,middleware,3
+242,google trends,1,distributed systems,3
+243,web search,1,spatiotemporal correlation,3
+244,prediction,1,search pattern,3
+245,production scheduling,1,disease detection,3
+246,rescheduling,1,industrial ethernet,3
+247,real time systems,1,device allocation,3
+248,ai,1,patch sweeping,3
+249,games,1,hrm,3
+250,evolutionary algorithms,1,3d video communication,3
+251,mcts,1,e-magazine,3
+252,adaptive window search,1,recommender,3
+253,object map,1,confabulation-model,3
+254,object detection,1,son fault dictionary,3
+255,intelligent transportation system,1,bp neural network,3
+256,ditributed computing,1,fault search,3
+257,distributed genetic algorithms,1,binary tree,3
+258,parallel,1,dynamic search range estimation,3
+259,vision measurement,1,census,3
+260,embedded system,1,real-time pursuit,3
+261,high resolution,1,multi-agent search,3
+262,complexity,1,gridworlds,3
+263,gui,1,benchmark,3
+264,myosin,1,phase transition,3
+265,cognitive study,1,cascading failures,3
+266,real-time control,1,small-world network,3
+267,simulation modeling,1,long-range connectivity,3
+268,truck management,1,wams,3
+269,feed,1,shot change detection,3
+270,index freshness,1,real-time scd model,3
+271,index coverage,1,adaptive threshold,3
+272,knowledge representation,1,variable,3
+273,algorithm,1,web data mining,3
+274,decision support system,1,posting weight,3
+275,mobile device,1,publish pattern,3
+276,social software,1,crawl scheduling,3
+277,interface,1,visual surveillance,3
+278,synchronization,1,real time tracking,3
+279,compression,1,particle filters,3
+280,n-findr,1,multiscale,3
+281,real-time circular n-findr (rt circular n-findr),1,time constraints,3
+282,rt iterative,1,moving target search,3
+283,intelligent surveillance system,1,algorithms,3
+284,color classification,1,knapsack problem,3
+285,real-time search engines,1,greedy,3
+286,asm,1,digital signal processor,3
+287,2d profile,1,h.264 avc/svc,3
+288,4d profile,1,tabu search,3
+289,face judgment,1,particle filter,3
+290,imm,1,real time vision tracking,3
+291,frank,1,accuracy,3
+292,real time video,1,inventory routing problem,3
+293,real-time monitoring,1,vendor managed inventory,3
+294,potentiometric sensors,1,online,3
+295,measurement system,1,tracking,3
+296,service composition,1,search-window,3
+297,middleware,1,characteristic point,3
+298,distributed systems,1,visual object,3
+299,spatiotemporal correlation,1,cellular automata,3
+300,search pattern,1,marine search and rescue simulator,3
+301,path-finding,1,3d,3
+302,gpu acceleration,1,short-term gdp forecasting,3
+303,disease detection,1,bridge model,3
+304,industrial ethernet,1,real-time data-set,3
+305,device allocation,1,automatic,3
+306,logistics management,1,modeling,3
+307,vehicle routing problem,1,power system harmonics,3
+308,vehicle assignment,1,stacking crane,3
+309,gravitational waves,1,automated container,3
+310,real-time burst search,1,movement planning,3
+311,multi-messenger astronomy,1,freight train dispatch,3
+312,real time content,1,fuzzy control,3
+313,collecta,1,neural networks,3
+314,economic value,1,adaptive,3
+315,input method,1,hybrid p2psip,3
+316,mu c / os-ii,1,cross layer p2p overlay,3
+317,search tree,1,somco,3
+318,patch sweeping,1,real-time multintedia,3
+319,hrm,1,intelligent transport systems,3
+320,3d video communication,1,pedestrians,3
+321,automated planning,1,block matching,3
+322,e-magazine,1,full-search motion estimation,3
+323,recommender,1,real-time map,3
+324,confabulation-model,1,label placement,3
+325,son fault dictionary,1,icon,3
+326,bp neural network,1,small-display cartography,3
+327,fault search,1,nc system,3
+328,binary tree,1,hybrid-tasks system,3
+329,dynamic search range estimation,1,best-first search,3
+330,census,1,reliability utilization,3
+331,distributed real-time,1,3d median filtering,3
+332,holistic scheduling,1,majority voting,3
+333,priority assignment,1,3d convolution,3
+334,real-time pursuit,1,real-time applications,3
+335,multi-agent search,1,reliability,3
+336,gridworlds,1,dynamic-window,3
+337,benchmark,1,dynamic system,3
+338,phase transition,1,code vector,3
+339,wireless sensor networks,1,fast search speed,3
+340,on-demand real-time routing,1,nearest neighbor,3
+341,cascading failures,1,emergency vehicles,3
+342,small-world network,1,coverage models,3
+343,long-range connectivity,1,tabu search heuristic,3
+344,wams,1,synthesis,3
+345,video summarization,1,distributed system,3
+346,tunnel processing,1,voltage scaling,3
+347,hog,1,ai architectures,3
+348,discrete event system,1,fault-tolerance,3
+349,power-limited system,1,image compression,3
+350,intelligent transportation systems,1,vector quantizatioin,3
+351,real-time route planning,1,vlsi architecture,3
+352,real-time system,1,wavelet,3
+353,preemptive and/or non-preemptive tasks,1,automated reasoning,3
+354,static,1,temporal,3
+355,shot change detection,1,system level synthesis,3
+356,real-time scd model,1,force-directed heuristic,3
+357,adaptive threshold,1,a*,3
+358,variable,1,functional memory,3
+359,web data mining,1,parallel processor,3
+360,posting weight,1,low-rate,3
+361,publish pattern,1,fiber bragg grating,2
+362,crawl scheduling,1,tunable fabry-perot filter,2
+363,hardware,1,demodulation system,2
+364,visual surveillance,1,adaptive filtering,2
+365,real time tracking,1,adaptive thresholding,2
+366,particle filters,1,ecg signal processing,2
+367,multiscale,1,time difference of arrival,2
+368,time constraints,1,sound source localization,2
+369,soft real-time task,1,golden section,2
+370,multiobjective genetic algorithm,1,index entry invalidator,2
+371,algorithms,1,efficiency,2
+372,knapsack problem,1,industrial wireless sensor networks (iwsns),2
+373,greedy,1,node placement,2
+374,digital signal processor,1,harmony,2
+375,h.264 avc/svc,1,ieee 802.11 wlan,2
+376,tabu search,1,optimization of retransmission number,2
+377,particle filter,1,real-time multi-step ga,2
+378,real time vision tracking,1,visual-servoing,2
+379,accuracy,1,performance analysis,2
+380,endmember extraction algorithm (eea),1,information base,2
+381,p-pass real-time sga,1,dynamic models,2
+382,simplex,1,perception and processing of images,2
+383,inventory routing problem,1,uav,2
+384,vendor managed inventory,1,receding horizon control,2
+385,online,1,nosql databases,2
+386,case-based planning,1,multidimensional analysis,2
+387,real time strategy (rts) games,1,geospatial analysis,2
+388,search charts,1,bundle,2
+389,special users,1,rtc through plugins,2
+390,real-time charts,1,electromagnetic transients,2
+391,tracking,1,local iterative,2
+392,search-window,1,empirical mode decomposition,2
+393,characteristic point,1,support vector machine,2
+394,visual object,1,real-time forecast,2
+395,cellular automata,1,real-time pcr,2
+396,marine search and rescue simulator,1,coronavirus,2
+397,3d,1,meta-analysis,2
+398,anisotropic high pass filtering,1,diffuse reflection laser ranging,2
+399,edge's orientation estimation,1,signal extraction,2
+400,step,1,railway rescheduling,2
+401,model reduction,1,optimization models and algorithms,2
+402,deformations,1,pre-run-time scheduling,2
+403,fluids,1,real-time visual effects,2
+404,agent architectures and systems,1,smoothed-particle hydrodynamics,2
+405,short-term gdp forecasting,1,character,2
+406,bridge model,1,heterogeneous multiprocessor systems,2
+407,real-time data-set,1,real-time task scheduling,2
+408,automatic,1,local,2
+409,markov decision processes,1,optimal real time search,2
+410,noisy feedback,1,rescues operation,2
+411,rfid,1,potential field,2
+412,real time vehicle routing problem,1,database,2
+413,gis,1,game pathfinding,2
+414,gps,1,scheduling algorithms,2
+415,lossless,1,autonomous agents,2
+416,network stream reassembly,1,control architectures and programming,2
+417,h.264,1,production scheduling,2
+418,case-based reasoning,1,rescheduling,2
+419,real-time and active database,1,real time systems,2
+420,reasoning,1,ditributed computing,2
+421,event-condition-action rules,1,distributed genetic algorithms,2
+422,fast search algorithms,1,parallel,2
+423,exhaustive search algorithm,1,real-time control,2
+424,dynamic vehicle routing problems,1,simulation modeling,2
+425,milk runs transportation,1,truck management,2
+426,modeling,1,n-findr,2
+427,power system harmonics,1,real-time circular n-findr (rt circular n-findr),2
+428,real-time embedded systems,1,rt iterative,2
+429,static priority scheduling,1,intelligent surveillance system,2
+430,stacking crane,1,color classification,2
+431,automated container,1,real-time monitoring,2
+432,movement planning,1,potentiometric sensors,2
+433,freight train dispatch,1,measurement system,2
+434,fuzzy control,1,logistics management,2
+435,neural networks,1,vehicle routing problem,2
+436,adaptive,1,vehicle assignment,2
+437,learning real-time heuristic search,1,gravitational waves,2
+438,state abstraction,1,real-time burst search,2
+439,goal-directed,1,multi-messenger astronomy,2
+440,ultrasound elastography,1,input method,2
+441,strain,1,mu c / os-ii,2
+442,computational requirement,1,search tree,2
+443,gray-level hough transform,1,automated planning,2
+444,needle segmentation,1,distributed real-time,2
+445,infrared detecting system,1,holistic scheduling,2
+446,large view field,1,priority assignment,2
+447,real-time signal,1,wireless sensor networks,2
+448,bioprocess,1,on-demand real-time routing,2
+449,monitoring,1,discrete event system,2
+450,real-time in situ,1,power-limited system,2
+451,on-line,1,real-time system,2
+452,real-time elastography,1,preemptive and/or non-preemptive tasks,2
+453,2d motion estimation in ultrasound imaging,1,static,2
+454,hybrid p2psip,1,endmember extraction algorithm (eea),2
+455,cross layer p2p overlay,1,p-pass real-time sga,2
+456,somco,1,simplex,2
+457,real-time multintedia,1,case-based planning,2
+458,applications,1,real time strategy (rts) games,2
+459,emergence,1,search charts,2
+460,population-based search,1,special users,2
+461,intelligent transport systems,1,real-time charts,2
+462,pedestrians,1,anisotropic high pass filtering,2
+463,block matching,1,edge's orientation estimation,2
+464,full-search motion estimation,1,step,2
+465,real-time map,1,agent architectures and systems,2
+466,label placement,1,markov decision processes,2
+467,icon,1,noisy feedback,2
+468,small-display cartography,1,lossless,2
+469,phased array radar,1,network stream reassembly,2
+470,real-time dwell scheduling,1,h.264,2
+471,rate-based scheduling,1,case-based reasoning,2
+472,nc system,1,real-time and active database,2
+473,hybrid-tasks system,1,reasoning,2
+474,best-first search,1,event-condition-action rules,2
+475,reliability utilization,1,fast search algorithms,2
+476,3d median filtering,1,exhaustive search algorithm,2
+477,majority voting,1,real-time embedded systems,2
+478,3d convolution,1,static priority scheduling,2
+479,real-time applications,1,learning real-time heuristic search,2
+480,reliability,1,state abstraction,2
+481,dynamic-window,1,goal-directed,2
+482,dynamic system,1,ultrasound elastography,2
+483,adaptive learning,1,strain,2
+484,convergence process,1,computational requirement,2
+485,real-time data management,1,gray-level hough transform,2
+486,temporal consistency,1,needle segmentation,2
+487,mobile computing,1,infrared detecting system,2
+488,affine motion estimation,1,large view field,2
+489,one-dimensional,1,real-time signal,2
+490,autonomous virtual agents,1,phased array radar,2
+491,procedure animation,1,real-time dwell scheduling,2
+492,real-time crowd,1,rate-based scheduling,2
+493,multi-agent real-time search,1,adaptive learning,2
+494,coordination,1,convergence process,2
+495,code vector,1,real-time data management,2
+496,fast search speed,1,temporal consistency,2
+497,nearest neighbor,1,mobile computing,2
+498,distributed computer control systems,1,affine motion estimation,2
+499,fractal image compression,1,one-dimensional,2
+500,fast fourier transform,1,autonomous virtual agents,2
+501,cross-correlation,1,procedure animation,2
+502,mpeg-4,1,real-time crowd,2
+503,video codec,1,multi-agent real-time search,2
+504,emergency vehicles,1,coordination,2
+505,coverage models,1,distributed computer control systems,2
+506,tabu search heuristic,1,fractal image compression,2
+507,synthesis,1,fast fourier transform,2
+508,distributed system,1,cross-correlation,2
+509,voltage scaling,1,mpeg-4,2
+510,interleaving planning and plan executions,1,video codec,2
+511,ai architectures,1,multimedia information system,2
+512,fault-tolerance,1,internet,2
+513,multimedia information system,1,object-oriented technology,2
+514,internet,1,atm networks,2
+515,object-oriented technology,1,adaptive real-time connections,2
+516,ant robots,1,connection admission,2
+517,cover time,1,combined task and message scheduling,2
+518,graph coverage,1,multi-core processing,1
+519,lawn mowing,1,real-time stimulus selection,1
+520,learning real-time,1,functional magnetic resonance imaging,1
+521,image compression,1,schedulability test,1
+522,vector quantizatioin,1,quantified constraint satisfaction problems,1
+523,vlsi architecture,1,electric vehicles (evs),1
+524,wavelet,1,energy management architecture,1
+525,automated reasoning,1,ranking,1
+526,temporal,1,infrared search and track system,1
+527,atm networks,1,phase correlation registration,1
+528,adaptive real-time connections,1,intelligent transportation systems,1
+529,connection admission,1,real-time route planning,1
+530,combined task and message scheduling,1,soft real-time task,1
+531,system level synthesis,1,multiobjective genetic algorithm,1
+532,force-directed heuristic,1,dynamic vehicle routing problems,1
+533,a*,1,milk runs transportation,1
+534,functional memory,1,real-time elastography,1
+535,parallel processor,1,2d motion estimation in ultrasound imaging,1
+536,low-rate,1,interleaving planning and plan executions,1

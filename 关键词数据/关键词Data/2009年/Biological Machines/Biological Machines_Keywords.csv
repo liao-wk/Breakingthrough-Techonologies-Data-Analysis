@@ -1,0 +1,275 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,machine learning,10,machine learning,28
+1,molecular machines,4,deep learning,14
+2,biological,4,biological,13
+3,support vector machine,4,molecular machines,10
+4,deep learning,3,support vector machine,10
+5,neural networks,2,molecular,8
+6,qsar,2,neural networks,7
+7,thermodynamics with finite speed,2,qsar,7
+8,quantum biological thermodynamics with,2,bioinformatics,7
+9,bioinformatics,2,classification,7
+10,physarum machines,2,metaplasticity,7
+11,slime mould,2,plasticity,7
+12,support,2,mlp,7
+13,classification,2,mmlp,7
+14,rough sets,2,amp,7
+15,biomimetic,2,wbcd,7
+16,finite state machine,2,feature,7
+17,gene mutation,2,biomimetic,7
+18,parallel biological computers,2,physarum machines,6
+19,amorphous computers,2,support,6
+20,human-machine interaction,2,rough sets,6
+21,molecular,2,cybernetics,6
+22,cybernetics,2,slime mould,5
+23,object recognition,1,finite state machine,5
+24,machine-like systems,1,gene mutation,5
+25,macroscopic machines,1,human-machine interaction,5
+26,multi-task learning,1,biomems,5
+27,biomarker discovery,1,computer vision,5
+28,psychiatry,1,drops,5
+29,automated synthesis,1,lab-on-a-chip,5
+30,auto-updating learning systems,1,microfluidics,5
+31,bacteria,1,big data,4
+32,biomedical machines,1,biosensors,4
+33,biosystems,1,glucose-oxidase,4
+34,micro/nanomachines,1,kurzweil,4
+35,biohybrid robots,1,transhumanism,4
+36,biological machines,1,androids,4
+37,pegda scaffolds,1,cyborgs,4
+38,skeletal,1,biological ontology,4
+39,machine pedestal structure,1,biohybrid,4
+40,adaptive growth method,1,living machines,4
+41,stiffener layout,1,mammalian robots,4
+42,deep learning technology,1,social,4
+43,psychosis,1,parallel biological computers,4
+44,neuroimaging,1,amorphous computers,4
+45,human machine interaction,1,co-evolution,4
+46,flexible/stretchable electronics,1,co-development,4
+47,tactile,1,cladistics,4
+48,artificial intelligence,1,planar graphs,4
+49,quantum chemistry,1,tanglegrams,4
+50,big data,1,svm,4
+51,petri nets,1,ann,4
+52,boolean functions,1,cross-validation,4
+53,natural computing,1,object recognition,3
+54,machine reading,1,multi-task learning,3
+55,big data in literature,1,biomarker discovery,3
+56,text mining cell signaling,1,psychiatry,3
+57,child stress monitoring,1,bacteria,3
+58,wearable device,1,biomedical machines,3
+59,audio signal,1,biosystems,3
+60,heart rate,1,micro/nanomachines,3
+61,brain-machine interfaces,1,biohybrid robots,3
+62,prosthetic models,1,biological machines,3
+63,bionic experiments in,1,pegda scaffolds,3
+64,hydrogel,1,skeletal,3
+65,biological machine,1,deep learning technology,3
+66,self-folding,1,psychosis,3
+67,contractile force,1,neuroimaging,3
+68,evolutionary machine learning,1,artificial intelligence,3
+69,rule knowledge representations,1,quantum chemistry,3
+70,structural machine,1,petri nets,3
+71,physarum machine,1,boolean functions,3
+72,unconventional,1,natural computing,3
+73,computational modeling,1,child stress monitoring,3
+74,biological mechanism,1,wearable device,3
+75,visual cortex,1,audio signal,3
+76,pain,1,heart rate,3
+77,biosensors,1,hydrogel,3
+78,glucose-oxidase,1,biological machine,3
+79,similarity metric learning,1,self-folding,3
+80,biological sequence,1,contractile force,3
+81,biological data,1,structural machine,3
+82,drug discovery,1,physarum machine,3
+83,virtual screening,1,unconventional,3
+84,prediction of,1,computational modeling,3
+85,embedded automaton,1,biological mechanism,3
+86,generative device,1,visual cortex,3
+87,recognition device,1,pain,3
+88,functional materials,1,biological data,3
+89,molecular devices,1,drug discovery,3
+90,sensor,1,virtual screening,3
+91,controlled drug-release,1,prediction of,3
+92,host-guest interactions,1,embedded automaton,3
+93,cyborg intelligence,1,generative device,3
+94,brain-machine collaboration,1,recognition device,3
+95,motivation driven,1,dimension reduction,3
+96,dimension reduction,1,eigen-matrix translation,3
+97,eigen-matrix translation,1,glycan,3
+98,glycan,1,pareto optimality,3
+99,pareto optimality,1,e. coli modelling,3
+100,e. coli modelling,1,turing machine,3
+101,turing machine,1,molecular machine,3
+102,molecular machine,1,molecular mechanics,3
+103,molecular mechanics,1,central dogma of biology,3
+104,central dogma of biology,1,f0f1,3
+105,f0f1,1,physarum polycephalum,3
+106,physarum polycephalum,1,transition systems,3
+107,transition systems,1,analysis,3
+108,metaplasticity,1,crystal-structure,3
+109,plasticity,1,single-parameter,3
+110,mlp,1,proteins,3
+111,mmlp,1,naive bayes,3
+112,amp,1,domain adaptation,3
+113,wbcd,1,supervised learning,3
+114,feature,1,semi-supervised,3
+115,kurzweil,1,monte carlo,3
+116,transhumanism,1,diffuse reflected light,3
+117,androids,1,photochromic compounds,3
+118,cyborgs,1,ferrocene,3
+119,biological ontology,1,polymerization,3
+120,analysis,1,control methods,3
+121,crystal-structure,1,exoskeleton robot,3
+122,single-parameter,1,impedance,3
+123,proteins,1,control analysis,3
+124,extreme learning machine,1,gene expression,3
+125,least square support,1,metabolism,3
+126,automated physiological recovery,1,emulator,3
+127,plant-machine interface,1,synthetic intelligence,3
+128,avocado plant,1,autonomous systems,3
+129,biohybrid,1,dna computation,3
+130,living machines,1,self-assembly,3
+131,mammalian robots,1,nanomachine,3
+132,social,1,nanobiotechnology,3
+133,walking machines,1,support vector machines,3
+134,motion synthesis,1,attribute reduction,3
+135,walking stability,1,biological imaging,3
+136,micromechanical drilling,1,image analysis,3
+137,micro-hole array,1,image datasets,3
+138,pvc mask,1,benchmarks,3
+139,mathematical formulation,1,biological computing,3
+140,living technology,1,dna computing,3
+141,naive bayes,1,single robot cell,3
+142,domain adaptation,1,multiple robot,3
+143,supervised learning,1,bistable rotaxanes,3
+144,semi-supervised,1,bottom-up fabrication,3
+145,biologically inspired behavior,1,kernel,3
+146,reactive robot systems,1,biological sequence data,3
+147,cooperative,1,computational,3
+148,multiple sequence alignments (msas),1,neural network,3
+149,feature selection,1,moving light display,3
+150,machine,1,human,3
+151,monte carlo,1,ceteris paribus,3
+152,diffuse reflected light,1,machine experiments,3
+153,photochromic compounds,1,material models,3
+154,ferrocene,1,bacteria classification,3
+155,polymerization,1,kernel machines,3
+156,control methods,1,mixing kernel,3
+157,exoskeleton robot,1,computational neuroscience,3
+158,impedance,1,spiking neurons,3
+159,formal modelling,1,dynamic synapses,3
+160,x-machines,1,finite,3
+161,spatial agents,1,machine-like systems,2
+162,bionic vibration damping technology,1,macroscopic machines,2
+163,morphological structure,1,automated synthesis,2
+164,electro-chemical discharge machining,1,auto-updating learning systems,2
+165,micro hole processing,1,machine pedestal structure,2
+166,smallest,1,adaptive growth method,2
+167,evolutionary computation,1,stiffener layout,2
+168,darwinian evolution,1,human machine interaction,2
+169,punctuated equilibria,1,flexible/stretchable electronics,2
+170,control analysis,1,tactile,2
+171,gene expression,1,thermodynamics with finite speed,2
+172,metabolism,1,quantum biological thermodynamics with,2
+173,biological warfare agents,1,machine reading,2
+174,fast detection system,1,big data in literature,2
+175,multi-species,1,text mining cell signaling,2
+176,self-maintenance,1,brain-machine interfaces,2
+177,engineering immune systems,1,prosthetic models,2
+178,prognostics and health,1,bionic experiments in,2
+179,biological terms,1,similarity metric learning,2
+180,co-evolution,1,biological sequence,2
+181,co-development,1,functional materials,2
+182,cladistics,1,molecular devices,2
+183,planar graphs,1,sensor,2
+184,tanglegrams,1,controlled drug-release,2
+185,biomems,1,host-guest interactions,2
+186,computer vision,1,cyborg intelligence,2
+187,drops,1,brain-machine collaboration,2
+188,lab-on-a-chip,1,motivation driven,2
+189,microfluidics,1,extreme learning machine,2
+190,emulator,1,least square support,2
+191,synthetic intelligence,1,automated physiological recovery,2
+192,autonomous systems,1,plant-machine interface,2
+193,dna computation,1,avocado plant,2
+194,self-assembly,1,walking machines,2
+195,nanomachine,1,motion synthesis,2
+196,nanobiotechnology,1,walking stability,2
+197,support vector machines,1,micromechanical drilling,2
+198,attribute reduction,1,micro-hole array,2
+199,protein stabiligy prediction,1,pvc mask,2
+200,biological feature selection,1,mathematical formulation,2
+201,biological effects of radiation,1,living technology,2
+202,modeling,1,biologically inspired behavior,2
+203,probability,1,reactive robot systems,2
+204,semantic biological feedback,1,cooperative,2
+205,"""man-machine"" systems monitoring",1,multiple sequence alignments (msas),2
+206,biological imaging,1,feature selection,2
+207,image analysis,1,machine,2
+208,image datasets,1,formal modelling,2
+209,benchmarks,1,x-machines,2
+210,biological computing,1,spatial agents,2
+211,dna computing,1,electro-chemical discharge machining,2
+212,single robot cell,1,micro hole processing,2
+213,multiple robot,1,smallest,2
+214,thermal fluctuation,1,evolutionary computation,2
+215,single molecule measurements,1,darwinian evolution,2
+216,biological molecular,1,punctuated equilibria,2
+217,bistable rotaxanes,1,biological warfare agents,2
+218,bottom-up fabrication,1,fast detection system,2
+219,biological inspired music,1,multi-species,2
+220,music composition,1,self-maintenance,2
+221,representation techniques,1,engineering immune systems,2
+222,organic computing,1,prognostics and health,2
+223,machine biological clock,1,biological terms,2
+224,knowledge-based operating,1,protein stabiligy prediction,2
+225,thermodynamics,1,biological feature selection,2
+226,biological motors,1,biological effects of radiation,2
+227,single molecule kinetics,1,modeling,2
+228,kernel,1,probability,2
+229,biological sequence data,1,thermal fluctuation,2
+230,computational,1,single molecule measurements,2
+231,neural network,1,biological molecular,2
+232,moving light display,1,biological inspired music,2
+233,human,1,music composition,2
+234,service robotics,1,representation techniques,2
+235,mobile robot,1,organic computing,2
+236,systems biology,1,machine biological clock,2
+237,metabolic networks,1,knowledge-based operating,2
+238,symbolic-statistical frameworks,1,thermodynamics,2
+239,molecular biophysics,1,biological motors,2
+240,nonequilibrium statistical thermodynamics,1,single molecule kinetics,2
+241,system architecture,1,service robotics,2
+242,micro machine vision,1,mobile robot,2
+243,micromanipulating system,1,systems biology,2
+244,ceteris paribus,1,metabolic networks,2
+245,machine experiments,1,symbolic-statistical frameworks,2
+246,material models,1,system architecture,2
+247,immunotronic system,1,micro machine vision,2
+248,hardware fault detection,1,micromanipulating system,2
+249,tolerance conditions,1,immunotronic system,2
+250,biomimetic actuators,1,hardware fault detection,2
+251,biomimetic smart materials,1,tolerance conditions,2
+252,contractility,1,biomimetic actuators,2
+253,bacteria classification,1,biomimetic smart materials,2
+254,kernel machines,1,contractility,2
+255,mixing kernel,1,natural language processing,2
+256,natural language processing,1,data mining,2
+257,data mining,1,biological sensing,2
+258,biological sensing,1,computational intelligence,2
+259,computational intelligence,1,subway biodefense,2
+260,subway biodefense,1,biological modeling move-in-mud robot,2
+261,biological modeling move-in-mud robot,1,motion process,2
+262,motion process,1,computer,2
+263,computer,1,production system,2
+264,computational neuroscience,1,holonic manufacturing system,2
+265,spiking neurons,1,process planning,2
+266,dynamic synapses,1,evolutionary machine learning,1
+267,finite,1,rule knowledge representations,1
+268,production system,1,bionic vibration damping technology,1
+269,holonic manufacturing system,1,morphological structure,1
+270,process planning,1,semantic biological feedback,1
+271,svm,1,"""man-machine"" systems monitoring",1
+272,ann,1,molecular biophysics,1
+273,cross-validation,1,nonequilibrium statistical thermodynamics,1

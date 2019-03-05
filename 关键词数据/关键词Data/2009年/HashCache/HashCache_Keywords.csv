@@ -1,0 +1,288 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,hashing,9,hashing,26
+1,cache,7,cache,24
+2,caching,6,caching,18
+3,hash,5,hash,16
+4,hash routing,5,hash routing,16
+5,peer-to-peer,4,peer-to-peer,13
+6,load balancing,4,bloom filter,11
+7,information-centric networking,3,memory,11
+8,hash table,3,hash table,9
+9,consistent hashing,3,consistent hashing,9
+10,design,3,deduplication,9
+11,performance,3,design,9
+12,bloom filter,3,performance,9
+13,memory,3,load balancing,9
+14,consistent,2,algorithms,8
+15,cache memory,2,hash join,8
+16,cache management,2,information-centric networking,7
+17,hash-routing,2,web,7
+18,ccn,2,distributed hash table,7
+19,in-network caching,2,consistent,6
+20,deduplication,2,cache memory,6
+21,content centric network,2,cache management,6
+22,wireless networks,2,hash-routing,6
+23,cache-oblivious algorithms,2,ccn,6
+24,cooperative caching,2,in-network caching,6
+25,algorithms,2,wireless networks,6
+26,web,2,web caching,6
+27,distributed hash table,2,chunking,5
+28,hash function,2,cloud storage,5
+29,cache indexing,2,erasure,5
+30,hash join,2,recovery,5
+31,zipf-like law,2,content centric network,5
+32,packet classification,2,sorting,5
+33,proxy caching,2,aggregation,5
+34,web caching,2,grouping,5
+35,non-volatile memory,1,cache-efficient,5
+36,hashing scheme,1,shared-memory,5
+37,write endurance,1,cooperative caching,5
+38,collision,1,hash function,5
+39,named data networking,1,cache indexing,5
+40,caching strategy,1,cpu cache performance,5
+41,probability-based,1,cpu,5
+42,ip lookup,1,zipf-like law,5
+43,prefix grouping,1,packet classification,5
+44,information centric networking,1,main memory database,4
+45,ndn online caching,1,index,4
+46,ski-rental problem,1,t tree,4
+47,main memory database,1,cache sensitive,4
+48,index,1,cdn,4
+49,t tree,1,de-duplication,4
+50,cache sensitive,1,scalable hash,4
+51,concurrent data structures,1,gmm,4
+52,lock-free hash tries,1,fisher vector aggregation,4
+53,constant-time hash,1,icn,4
+54,content-centric networking,1,in-network caches,4
+55,http proxy,1,off-path caching,4
+56,distributed proxy cache,1,latency,4
+57,autonomous,1,hash-based cache,4
+58,distributed memory cache,1,last-level cache,4
+59,memcached,1,linux,4
+60,dynamic server provisioning,1,operating system,4
+61,cdn,1,page,4
+62,de-duplication,1,multicore,4
+63,scalable hash,1,private caches (pcs),4
+64,gmm,1,last level cache (llc),4
+65,fisher vector aggregation,1,time-to-live(ttl),4
+66,icn,1,caching freshness,4
+67,in-network caches,1,pre-judgment,4
+68,off-path caching,1,result cache,4
+69,latency,1,flash memory,4
+70,manifold learning,1,ssd,4
+71,network algorithm,1,lifespan,4
+72,membership query,1,reliability,4
+73,mapreduce,1,component,4
+74,distributed caching,1,mongodb,4
+75,distributed hash,1,spatio-temporal r-tree,4
+76,hash-based cache,1,real-time index,4
+77,last-level cache,1,trajectory,4
+78,linux,1,kinetic monte carlo,4
+79,operating system,1,nanowire,4
+80,page,1,sintering,4
+81,multicore,1,cluster utilization,4
+82,private caches (pcs),1,scalability,4
+83,last level cache (llc),1,storage,4
+84,time-to-live(ttl),1,traffic management,4
+85,caching freshness,1,multi-core,4
+86,pre-judgment,1,memory coherence,4
+87,result cache,1,cache optmization,4
+88,collaborative caching,1,cache performance,4
+89,information-centric networks,1,hashing algorithms,4
+90,cache aware routing,1,sha-3 finalists,4
+91,off-path in-network,1,sha-1,4
+92,cache storage,1,arm,4
+93,computer architecture,1,integrity verification,4
+94,search problems,1,merkle tree,4
+95,hybrid approach,1,universal hash,4
+96,chunking,1,wh,4
+97,cloud storage,1,speculative,4
+98,erasure,1,skewed associative cache,4
+99,recovery,1,yaarc cache,4
+100,pup,1,conflict misses,4
+101,dynamic languages,1,hit rate,4
+102,jit compiler,1,caching schemes,4
+103,inline caching,1,replication,4
+104,clustering,1,distributed,4
+105,peer to peer,1,hierarchical,4
+106,overlay,1,domain cache,4
+107,distributed hash able,1,information retrieval system,4
+108,cache popularity,1,inverted file,4
+109,flash memory,1,proxy caching,4
+110,ssd,1,search,4
+111,lifespan,1,hash join algorithms,4
+112,reliability,1,netcaches,4
+113,popularity based caching,1,smps,4
+114,cooperative,1,clusters,4
+115,bloom filters,1,performance evaluation,4
+116,hash functions,1,controlled replication,4
+117,digest truncation,1,carp,4
+118,pre-image attack,1,web proxy,4
+119,sorting,1,non-volatile memory,3
+120,aggregation,1,hashing scheme,3
+121,grouping,1,write endurance,3
+122,cache-efficient,1,collision,3
+123,shared-memory,1,named data networking,3
+124,linear hashing,1,caching strategy,3
+125,chained hashing,1,probability-based,3
+126,cuckoo hashing,1,ip lookup,3
+127,hopscotch hashing,1,prefix grouping,3
+128,session cookies,1,http proxy,3
+129,mobile devices,1,distributed proxy cache,3
+130,component,1,autonomous,3
+131,mongodb,1,manifold learning,3
+132,spatio-temporal r-tree,1,mapreduce,3
+133,real-time index,1,distributed caching,3
+134,trajectory,1,distributed hash,3
+135,kinetic monte carlo,1,cache storage,3
+136,nanowire,1,computer architecture,3
+137,sintering,1,search problems,3
+138,cloud computing,1,hybrid approach,3
+139,multicore processor,1,pup,3
+140,data similarity,1,dynamic languages,3
+141,forwarding,1,jit compiler,3
+142,internet sessions,1,inline caching,3
+143,collaborative environments,1,clustering,3
+144,mobile,1,peer to peer,3
+145,file system,1,overlay,3
+146,storage system,1,distributed hash able,3
+147,metadata management,1,cache popularity,3
+148,metadata cache,1,bloom filters,3
+149,terrain simulation,1,hash functions,3
+150,global multi-resolution,1,digest truncation,3
+151,algorithm,1,pre-image attack,3
+152,stream data,1,linear hashing,3
+153,real-time storage,1,chained hashing,3
+154,threshold,1,cuckoo hashing,3
+155,tcp lookup,1,hopscotch hashing,3
+156,cache-friendly hash table,1,session cookies,3
+157,high-performance network,1,mobile devices,3
+158,interactive shape modeling,1,cloud computing,3
+159,implicit surface rendering,1,multicore processor,3
+160,procedural,1,data similarity,3
+161,cluster utilization,1,forwarding,3
+162,scalability,1,internet sessions,3
+163,storage,1,collaborative environments,3
+164,traffic management,1,mobile,3
+165,cache buffer search,1,file system,3
+166,lru,1,storage system,3
+167,longest prefix matching,1,metadata management,3
+168,multi-core,1,metadata cache,3
+169,memory coherence,1,terrain simulation,3
+170,cache optmization,1,global multi-resolution,3
+171,fpga,1,algorithm,3
+172,blockram,1,stream data,3
+173,hash cache,1,real-time storage,3
+174,distributed hashing,1,threshold,3
+175,hashing routing,1,cache buffer search,3
+176,on-demand routing,1,lru,3
+177,cache performance,1,longest prefix matching,3
+178,hashing algorithms,1,hash cache,3
+179,sha-3 finalists,1,distributed hashing,3
+180,sha-1,1,hashing routing,3
+181,arm,1,on-demand routing,3
+182,conjunctive query,1,conjunctive query,3
+183,minimal perfect hashing,1,distributed cache,3
+184,indexing internal memory,1,information retrieval,3
+185,linear probing,1,complex queries,3
+186,distributed cache,1,multi-machine hot standby,3
+187,information retrieval,1,shared memory,3
+188,complex queries,1,cyclic backup,3
+189,multi-machine hot standby,1,hash map,3
+190,shared memory,1,improvement,3
+191,cyclic backup,1,seeking,3
+192,hash map,1,balanced cache,3
+193,improvement,1,miss reduction,3
+194,seeking,1,power consumption,3
+195,integrity verification,1,radix-join,3
+196,merkle tree,1,shared l2-cache,3
+197,universal hash,1,cache conflict,3
+198,wh,1,chip multi-processor,3
+199,speculative,1,query response,3
+200,balanced cache,1,flooding,3
+201,miss reduction,1,distributed caching and adaptive,3
+202,power consumption,1,xor-based hash function,3
+203,ip routers,1,conflict-free mapping,3
+204,cache replacement policies,1,null space,3
+205,radix-join,1,column,3
+206,shared l2-cache,1,cache hashing,3
+207,cache conflict,1,prime modulo,3
+208,chip multi-processor,1,odd-multiplier,3
+209,explicit state model checking,1,hot-video broadcasting,3
+210,state explosion problem,1,content delivery network,3
+211,state space,1,streaming,3
+212,xor-based hash functions,1,cooperative web caching,3
+213,conflict-free,1,object allocation,3
+214,2-way skewed-associative,1,dns,3
+215,skewed associative cache,1,reverse proxy server,3
+216,yaarc cache,1,routing algorithm,3
+217,conflict misses,1,distributed hash tables,3
+218,hit rate,1,service location,3
+219,cpu cache performance,1,load,3
+220,cpu,1,internet traffic,3
+221,query response,1,traffic locality,3
+222,flooding,1,traffic scheduling,3
+223,distributed caching and adaptive,1,hash-based,3
+224,reverse proxy server routing algorithm,1,network processor,3
+225,xor-based hash function,1,database,3
+226,conflict-free mapping,1,parallel computer,3
+227,null space,1,fault tolerance,3
+228,column,1,distributed www caching systems,3
+229,cache hashing,1,hit,3
+230,prime modulo,1,query,3
+231,odd-multiplier,1,information centric networking,2
+232,transcoding,1,ndn online caching,2
+233,system performance,1,ski-rental problem,2
+234,hot-video broadcasting,1,concurrent data structures,2
+235,content delivery network,1,lock-free hash tries,2
+236,streaming,1,constant-time hash,2
+237,cooperative web caching,1,content-centric networking,2
+238,object allocation,1,distributed memory cache,2
+239,dns,1,memcached,2
+240,internet,1,dynamic server provisioning,2
+241,high-speed network,1,network algorithm,2
+242,reverse proxy server,1,membership query,2
+243,routing algorithm,1,collaborative caching,2
+244,distributed hash tables,1,information-centric networks,2
+245,service location,1,cache aware routing,2
+246,load,1,off-path in-network,2
+247,caching schemes,1,popularity based caching,2
+248,replication,1,cooperative,2
+249,distributed,1,cache-oblivious algorithms,2
+250,hierarchical,1,tcp lookup,2
+251,domain cache,1,cache-friendly hash table,2
+252,internet traffic,1,high-performance network,2
+253,traffic locality,1,interactive shape modeling,2
+254,traffic scheduling,1,implicit surface rendering,2
+255,hash-based,1,procedural,2
+256,information retrieval system,1,fpga,2
+257,inverted file,1,blockram,2
+258,adaptable controlled replication,1,ip routers,2
+259,internet cache protocol,1,cache replacement policies,2
+260,network processor,1,explicit state model checking,2
+261,search,1,state explosion problem,2
+262,database,1,state space,2
+263,parallel computer,1,xor-based hash functions,2
+264,hash join algorithms,1,conflict-free,2
+265,netcaches,1,2-way skewed-associative,2
+266,smps,1,reverse proxy server routing algorithm,2
+267,clusters,1,transcoding,2
+268,performance evaluation,1,system performance,2
+269,controlled replication,1,internet,2
+270,carp,1,high-speed network,2
+271,web proxy,1,adaptable controlled replication,2
+272,distributed caching schemes,1,internet cache protocol,2
+273,hash routing schemes,1,distributed caching schemes,2
+274,internet caching,1,hash routing schemes,2
+275,modal logics,1,internet caching,2
+276,satisfiability,1,modal logics,2
+277,caching structures,1,satisfiability,2
+278,latency-sensitive hashing,1,caching structures,2
+279,collaborative web caching,1,latency-sensitive hashing,2
+280,fault tolerance,1,collaborative web caching,2
+281,distributed www caching systems,1,evolvable hardware,2
+282,hit,1,evolutionary algorithms,2
+283,evolvable hardware,1,non-linear circuit,2
+284,evolutionary algorithms,1,minimal perfect hashing,1
+285,non-linear circuit,1,indexing internal memory,1
+286,query,1,linear probing,1

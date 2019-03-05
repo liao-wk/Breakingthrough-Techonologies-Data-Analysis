@@ -1,0 +1,410 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,flexible electronics,10,flexible electronics,27
+1,implantable electronics,9,implantable electronics,25
+2,implantable devices,8,implantable devices,19
+3,biomedical electronics,6,biomedical electronics,15
+4,energy harvesting,5,energy harvesting,14
+5,neural,5,neural,14
+6,wireless power transfer,4,wireless,12
+7,implantable,4,implantable,12
+8,biomedical,4,biomedical,12
+9,bioelectronics,3,implantable medical,10
+10,medical electronics,3,bioelectronics,9
+11,biomedical engineering,3,multichannel,9
+12,cmos,3,cmos,9
+13,wireless,3,wireless power transfer,9
+14,implantable medical,3,telemetry,9
+15,implantable device,3,prosthesis,9
+16,sensors,3,stretchable,8
+17,biomedical communication,3,biosensor,8
+18,implantable biomedical devices,3,implantable device,8
+19,arrays,3,sensors,8
+20,telemetry,3,electrode,8
+21,prosthesis,3,soft robotics,7
+22,soft robotics,2,hydrogels,7
+23,stretchable,2,medical electronics,7
+24,implantable biosensors,2,self-powered,7
+25,hydrogels,2,wireless power,7
+26,additive manufacturing,2,implantable sensors,7
+27,bioresorbable electronics,2,neural interface,7
+28,self-powered,2,silicon,7
+29,biosensor,2,pressure sensor,7
+30,wireless power,2,implantable biosensors,6
+31,multichannel,2,in-vitro,6
+32,in-vitro,2,neural interfaces,6
+33,neural interfaces,2,biomedical implants,6
+34,biomedical implants,2,telemedicine,6
+35,cmos integrated circuits,2,implant,6
+36,implantable medical devices,2,biomedical communication,6
+37,implantable sensors,2,implantable biosensor,6
+38,telemedicine,2,implantable cardioverter-defibrillator,6
+39,flexible,2,biomedical engineering,5
+40,neural interface,2,additive manufacturing,5
+41,stretchable electronics,2,optogenetics,5
+42,implant,2,inductive,5
+43,biomedical transducers,2,retinal,5
+44,implantable antenna,2,injectable,5
+45,biodegradable electronics,2,eeg,5
+46,implantable biosensor,2,ecg,5
+47,array,2,hibernation,5
+48,implantable cardioverter-defibrillator,2,software-defined radio,5
+49,biomedical telemetry,2,cmos integrated circuits,5
+50,silicon,2,flexible,5
+51,pressure sensor,2,implantable antenna,5
+52,neural prosthesis,2,implantable biomedical devices,5
+53,electrodes,2,sub,5
+54,neural prosthetics,2,ghz,5
+55,electrode,2,uwb,5
+56,e-skins,1,wireless communication,5
+57,kirigami,1,arrays,5
+58,flexible optoelectronics,1,electrodes,5
+59,light emitting diodes,1,neural prosthetics,5
+60,implantable medical electronics,1,e-skins,4
+61,in vivo,1,kirigami,4
+62,toxicity,1,cross-links,4
+63,bioresorption,1,epoxy-resin,4
+64,cell traction force,1,composites,4
+65,epidermal electronics,1,polymers,4
+66,reinforced electronic,1,bioresorbable electronics,4
+67,cancer,1,diabetes,4
+68,foreign body response,1,electronic-skin,4
+69,precision,1,glucose detection,4
+70,triboelectric nanogenerator,1,analog circuit design,4
+71,near-infrared irradiation,1,bio-impedance,4
+72,self-healing,1,cardiac tissue,4
+73,cross-links,1,human motion,4
+74,epoxy-resin,1,wearable devices,4
+75,composites,1,ambient energy,4
+76,polymers,1,smart,4
+77,biocompatible,1,battery-free,4
+78,biodegradable,1,fully implantable,4
+79,polysaccharide,1,optofluidic,4
+80,biosensors,1,implantable medical devices,4
+81,flexible implants,1,research,4
+82,artificial heart,1,innovation,4
+83,artificial implant,1,personal health,4
+84,low-cost,1,nanotechnology,4
+85,biodegradable batteries,1,biotechnology,4
+86,magnesium,1,dna,4
+87,molybdenum trioxide,1,logic gates,4
+88,polymeric medical devices,1,biomolecular electronics,4
+89,sterilization,1,adders,4
+90,biomaterials,1,visual dsd software,4
+91,molecular dynamics simulations,1,egain,4
+92,on-skin electronics,1,galinstan,4
+93,silk,1,liquid metals,4
+94,gasket underfill,1,soft electronics,4
+95,spring interconnects on flexible electrode arrays,1,stretchable electronics,4
+96,ferroelectric materials,1,biomedical transducers,4
+97,implantable materials,1,biodegradable electronics,4
+98,low-profile bioelectronics,1,biomechanics,4
+99,diabetes,1,mems sensor,4
+100,electronic-skin,1,cochlear implant,4
+101,glucose detection,1,zero,4
+102,bilayer rolled-up enzymatic nanomembranes,1,bci,4
+103,biobatteries,1,ecog recording,4
+104,glucose biofuel,1,long-term implant,4
+105,self-powered sensors,1,aimd,4
+106,enzymatic fuel cells,1,biomedical telemetry,4
+107,wearable and implantable,1,biocompatibility,4
+108,biomedical applications,1,biointerfaces,4
+109,divider,1,bionics,4
+110,ook transmitter,1,moore,4
+111,power amplifier (pa),1,mems,4
+112,optogenetics,1,patient monitoring,4
+113,inductive,1,brachytherapy,4
+114,retinal,1,dosimeters,4
+115,biomedical instrumentation,1,dosimetry,4
+116,invasive devices,1,iridium,4
+117,medical,1,neural prosthesis,4
+118,buck-boost converter,1,neuroprostheses,4
+119,nonminimum phase system,1,microsystern,4
+120,optimized type-3,1,coating,4
+121,conductive elastomer,1,neuroprosthesis,4
+122,sensing,1,myoelectric,4
+123,robotic hand,1,sensor,4
+124,deformable electronics,1,pre-amplifier,4
+125,nanowire electronics,1,polyimide,4
+126,biodegradable devices,1,fes,4
+127,fluorescence detection,1,lead-wire,4
+128,soft materials,1,in-line,4
+129,flexible hybrid electronics,1,toxicity,3
+130,wearable electronics,1,bioresorption,3
+131,inductive power transfer,1,cell traction force,3
+132,dynamic resonance tuning,1,cancer,3
+133,parallel,1,foreign body response,3
+134,neural inhibition,1,precision,3
+135,upconversion,1,biocompatible,3
+136,near-infrared light,1,biodegradable,3
+137,halorhodopsin,1,polysaccharide,3
+138,backscattering,1,biosensors,3
+139,constant-idle-time,1,flexible implants,3
+140,efficiency,1,biodegradable batteries,3
+141,analog circuit design,1,magnesium,3
+142,bio-impedance,1,molybdenum trioxide,3
+143,cardiac tissue,1,biomaterials,3
+144,human motion,1,molecular dynamics simulations,3
+145,wearable devices,1,on-skin electronics,3
+146,ambient energy,1,silk,3
+147,smart,1,biomedical applications,3
+148,battery-free,1,divider,3
+149,fully implantable,1,ook transmitter,3
+150,optofluidic,1,power amplifier (pa),3
+151,injectable,1,biomedical instrumentation,3
+152,eeg,1,invasive devices,3
+153,ecg,1,medical,3
+154,hibernation,1,conductive elastomer,3
+155,software-defined radio,1,sensing,3
+156,implantable system,1,robotic hand,3
+157,power management,1,neural inhibition,3
+158,single-inductor multiple-output,1,upconversion,3
+159,switched capacitor,1,near-infrared light,3
+160,hybrid dc-dc converter,1,halorhodopsin,3
+161,buck converter,1,backscattering,3
+162,adaptive on-time (aot),1,constant-idle-time,3
+163,transistors stacking,1,efficiency,3
+164,soft,1,buck converter,3
+165,cmos rectifier,1,adaptive on-time (aot),3
+166,internet of things,1,transistors stacking,3
+167,rf energy,1,soft,3
+168,active rectifier,1,cmos rectifier,3
+169,resonant coupling,1,internet of things,3
+170,pulse skip,1,rf energy,3
+171,sige,1,active rectifier,3
+172,voltage-controlled oscillators,1,resonant coupling,3
+173,phase,1,pulse skip,3
+174,human machine interaction,1,sige,3
+175,flexible/stretchable electronics,1,voltage-controlled oscillators,3
+176,tactile,1,phase,3
+177,eeg recording,1,eeg recording,3
+178,instrument amplifier,1,instrument amplifier,3
+179,chopper,1,chopper,3
+180,fully integrated,1,fully integrated,3
+181,flexible inductive coil,1,2.5d wafer-level,3
+182,inductive links,1,2.45-ghz,3
+183,neural amplifier,1,cmos-ipd technology,3
+184,two-stage ota,1,neural signals,3
+185,triple-well pseudoresistor,1,neural network,3
+186,2.5d wafer-level,1,compressive sensing,3
+187,2.45-ghz,1,learning-based,3
+188,cmos-ipd technology,1,ir-wpt,3
+189,neural signals,1,inductive powering,3
+190,neural network,1,class-e rectifier,3
+191,compressive sensing,1,wearable sensors,3
+192,learning-based,1,digital health,3
+193,midfield wireless power transfer,1,nanomaterial,3
+194,biomedical device,1,wearable device,3
+195,smart wearable band,1,silver nanowire,3
+196,implantable nanoplasmonic biochip,1,transparent,3
+197,nano-biosensing,1,flexibility,3
+198,ir-wpt,1,median filtering circuits,3
+199,inductive powering,1,neuron mosfets,3
+200,class-e rectifier,1,neuron cmos inverters,3
+201,implantable medical device,1,image,3
+202,inductive coupling,1,liquid metal,3
+203,research,1,printed,3
+204,innovation,1,e-skin,3
+205,personal health,1,implantable bioelectronics,3
+206,nanotechnology,1,neural recording,3
+207,biotechnology,1,wearable,3
+208,wearable sensors,1,healthcare,3
+209,digital health,1,connectors,3
+210,bioresorbable materials,1,hybrid nanogenerators,3
+211,nanomaterial,1,implanted medical devices,3
+212,wearable device,1,packaged,3
+213,silver nanowire,1,compact antenna,3
+214,transparent,1,parylene,3
+215,flexibility,1,incoherent light source,3
+216,organic transistor,1,recharging method,3
+217,dna,1,monte,3
+218,logic gates,1,wireless sensor,3
+219,biomolecular electronics,1,implantable sensor,3
+220,adders,1,biopotential,3
+221,visual dsd software,1,passive telemetry,3
+222,median filtering circuits,1,current crowding,3
+223,neuron mosfets,1,fill factor,3
+224,neuron cmos inverters,1,inductive power links,3
+225,image,1,printed spiral,3
+226,egain,1,shape memory polymers,3
+227,galinstan,1,array,3
+228,liquid metals,1,surgical sutures,3
+229,soft electronics,1,wireless powering,3
+230,liquid metal,1,batteryless microsystem,3
+231,printed,1,coil antenna,3
+232,e-skin,1,low dropout,3
+233,implantable bioelectronics,1,death,3
+234,pulse generators,1,sudden,3
+235,low-power electronics,1,heart failure,3
+236,neural recording,1,impedance matrix,3
+237,printed electronics,1,magnetic resonant coupling,3
+238,screen printing,1,optimization,3
+239,biocompatible encapsulation,1,pacemaker,3
+240,parylene c,1,remote,3
+241,amphiphilic block copolymers,1,vision prostheses,3
+242,slot antenna,1,charge balance,3
+243,wearable,1,safe stimulation,3
+244,healthcare,1,biomedical materials,3
+245,minimally invasive surgical,1,prosthetics,3
+246,implantable biomedical,1,biomedical implant,3
+247,fiber-shaped structure,1,smart prosthesis,3
+248,organic single crystal,1,activation circuit,3
+249,field-effect transistor,1,biotransducers,3
+250,connectors,1,microarrays,3
+251,hybrid nanogenerators,1,integrated biochips,3
+252,implanted medical devices,1,microelectrode array,3
+253,packaged,1,brain-machine interface,3
+254,wireline communication,1,system in package,3
+255,implantable communication,1,body sensor node,3
+256,compact antenna,1,glucose,3
+257,parylene,1,analog design techniques,3
+258,free form electronics,1,low-power,3
+259,brain machine interface,1,low-noise,3
+260,piezoelectric effect,1,blood pressure,3
+261,ieee 802.15.6,1,microsystems,3
+262,silver nanowires,1,implanted systems,3
+263,composite fibers,1,electrical stimulation,3
+264,twining spring configuration,1,biphasic pulse,3
+265,molecular imaging,1,continuous,3
+266,pet/ct imaging,1,nervous-system,3
+267,fluorine-18,1,unit,3
+268,cardiology,1,biomimetic systems,3
+269,implantable microdevices,1,vlsi,3
+270,nanomaterials,1,neuron-silicon interface,3
+271,biomechanics,1,amperometric,3
+272,mems sensor,1,biotelemetry,3
+273,cochlear implant,1,flexible optoelectronics,2
+274,zero,1,light emitting diodes,2
+275,incoherent light source,1,implantable medical electronics,2
+276,recharging method,1,in vivo,2
+277,monte,1,epidermal electronics,2
+278,nanofibrous substrates,1,reinforced electronic,2
+279,elastic devices,1,triboelectric nanogenerator,2
+280,biocompatible electronics,1,near-infrared irradiation,2
+281,implantation,1,self-healing,2
+282,remote powering,1,artificial heart,2
+283,wireless sensor,1,artificial implant,2
+284,implantable sensor,1,low-cost,2
+285,biopotential,1,polymeric medical devices,2
+286,passive telemetry,1,sterilization,2
+287,ingestible antenna,1,ferroelectric materials,2
+288,implantable and ingestible,1,bilayer rolled-up enzymatic nanomembranes,2
+289,micro-electro-mechanical,1,biobatteries,2
+290,current crowding,1,glucose biofuel,2
+291,fill factor,1,self-powered sensors,2
+292,inductive power links,1,enzymatic fuel cells,2
+293,printed spiral,1,wearable and implantable,2
+294,bci,1,buck-boost converter,2
+295,ecog recording,1,nonminimum phase system,2
+296,long-term implant,1,optimized type-3,2
+297,aimd,1,deformable electronics,2
+298,shape memory polymers,1,nanowire electronics,2
+299,surgical sutures,1,biodegradable devices,2
+300,wireless powering,1,fluorescence detection,2
+301,batteryless microsystem,1,soft materials,2
+302,coil antenna,1,flexible hybrid electronics,2
+303,low dropout,1,wearable electronics,2
+304,microscale light-emitting,1,inductive power transfer,2
+305,analog integrated circuits,1,dynamic resonance tuning,2
+306,biosignal amplifier,1,parallel,2
+307,biopotential amplifier,1,implantable system,2
+308,death,1,power management,2
+309,sudden,1,single-inductor multiple-output,2
+310,heart failure,1,switched capacitor,2
+311,implantable microsystems,1,hybrid dc-dc converter,2
+312,nanotubes,1,human machine interaction,2
+313,ultra wideband (uwb) antenna,1,flexible/stretchable electronics,2
+314,implantable antennas,1,tactile,2
+315,impedance matrix,1,flexible inductive coil,2
+316,magnetic resonant coupling,1,inductive links,2
+317,optimization,1,neural amplifier,2
+318,biomedical signal processing,1,two-stage ota,2
+319,rohs,1,triple-well pseudoresistor,2
+320,active implantable medical devices,1,midfield wireless power transfer,2
+321,use conditions,1,biomedical device,2
+322,biological tissue,1,smart wearable band,2
+323,biomedical power supplies,1,implantable nanoplasmonic biochip,2
+324,biocompatibility,1,nano-biosensing,2
+325,biointerfaces,1,implantable medical device,2
+326,bionics,1,inductive coupling,2
+327,moore,1,bioresorbable materials,2
+328,pacemaker,1,organic transistor,2
+329,remote,1,pulse generators,2
+330,bio-implantable,1,low-power electronics,2
+331,bpsk demodulator,1,printed electronics,2
+332,noncoherent detection,1,screen printing,2
+333,sub,1,biocompatible encapsulation,2
+334,ghz,1,parylene c,2
+335,uwb,1,amphiphilic block copolymers,2
+336,wireless communication,1,slot antenna,2
+337,vision prostheses,1,minimally invasive surgical,2
+338,charge balance,1,implantable biomedical,2
+339,safe stimulation,1,fiber-shaped structure,2
+340,biomedical materials,1,organic single crystal,2
+341,prosthetics,1,field-effect transistor,2
+342,biomedical implant,1,wireline communication,2
+343,smart prosthesis,1,implantable communication,2
+344,activation circuit,1,free form electronics,2
+345,biotransducers,1,brain machine interface,2
+346,microarrays,1,piezoelectric effect,2
+347,integrated biochips,1,ieee 802.15.6,2
+348,mems,1,silver nanowires,2
+349,patient monitoring,1,composite fibers,2
+350,microelectrode array,1,twining spring configuration,2
+351,brain-machine interface,1,molecular imaging,2
+352,brain,1,pet/ct imaging,2
+353,device,1,fluorine-18,2
+354,system in package,1,cardiology,2
+355,body sensor node,1,implantable microdevices,2
+356,glucose,1,nanomaterials,2
+357,implantable telemetry,1,nanofibrous substrates,2
+358,glucose monitoring,1,elastic devices,2
+359,blood glucose level,1,biocompatible electronics,2
+360,brachytherapy,1,implantation,2
+361,dosimeters,1,remote powering,2
+362,dosimetry,1,ingestible antenna,2
+363,iridium,1,implantable and ingestible,2
+364,analog design techniques,1,micro-electro-mechanical,2
+365,low-power,1,microscale light-emitting,2
+366,low-noise,1,analog integrated circuits,2
+367,blood pressure,1,biosignal amplifier,2
+368,microsystems,1,biopotential amplifier,2
+369,implanted systems,1,implantable microsystems,2
+370,high-reliability electronics,1,ultra wideband (uwb) antenna,2
+371,multiple recording site microprobes,1,rohs,2
+372,design,1,active implantable medical devices,2
+373,simulation,1,use conditions,2
+374,electrical stimulation,1,biological tissue,2
+375,biphasic pulse,1,biomedical power supplies,2
+376,continuous,1,bio-implantable,2
+377,accelerometer,1,bpsk demodulator,2
+378,implantable hearing aids,1,noncoherent detection,2
+379,epi-poly encapsulation,1,brain,2
+380,on-demand gastric electrical stimulation,1,device,2
+381,obesity,1,implantable telemetry,2
+382,application specific integrated circuits,1,glucose monitoring,2
+383,electrical neural stimulation,1,blood glucose level,2
+384,long-term animal,1,high-reliability electronics,2
+385,spike sorting algorithms,1,multiple recording site microprobes,2
+386,spike sorting circuits,1,design,2
+387,neuroprostheses,1,simulation,2
+388,microsystern,1,accelerometer,2
+389,coating,1,implantable hearing aids,2
+390,nervous-system,1,epi-poly encapsulation,2
+391,unit,1,on-demand gastric electrical stimulation,2
+392,biomimetic systems,1,obesity,2
+393,vlsi,1,electrical neural stimulation,2
+394,neuron-silicon interface,1,long-term animal,2
+395,neuroprosthesis,1,spike sorting algorithms,2
+396,myoelectric,1,spike sorting circuits,2
+397,sensor,1,biomodulation,2
+398,pre-amplifier,1,electrical bio-impedance,2
+399,polyimide,1,multi-frequency measurement,2
+400,biomodulation,1,transcutaneous,2
+401,electrical bio-impedance,1,gasket underfill,1
+402,multi-frequency measurement,1,spring interconnects on flexible electrode arrays,1
+403,transcutaneous,1,implantable materials,1
+404,fes,1,low-profile bioelectronics,1
+405,lead-wire,1,nanotubes,1
+406,in-line,1,implantable antennas,1
+407,amperometric,1,biomedical signal processing,1
+408,biotelemetry,1,application specific integrated circuits,1

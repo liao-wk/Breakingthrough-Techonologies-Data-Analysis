@@ -1,0 +1,314 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,paper-based microfluidics,16,paper-based microfluidics,39
+1,paper,8,paper,29
+2,microfluidics,7,microfluidics,25
+3,biosensors,7,biosensors,19
+4,biosensor,5,biosensor,18
+5,paper-based,5,paper-based,18
+6,point-of-care diagnostics,5,diagnostics,13
+7,paper-based device,4,paper devices,11
+8,diagnostics,4,point-of-care diagnostics,11
+9,microfluidic system,3,paper-based device,11
+10,paper devices,3,microfluidic system,9
+11,paper microfluidics,3,paper microfluidics,9
+12,microfluidic paper-based analytical devices,3,cellulose paper,8
+13,electrochemical detection,3,polymer,8
+14,point-of-care,3,point-of-care,8
+15,paper-based analytical device,3,mu pad,8
+16,microbial fuel cells,3,antibody,7
+17,paper-based diagnostics,3,electrochemical detection,7
+18,cellulose paper,2,paper-based analytical device,7
+19,fluorescence,2,cancer,7
+20,polymer,2,electrochemistry,7
+21,paper-based microfluidic devices,2,microbial fuel cells,7
+22,nucleic acid extraction,2,origami,7
+23,loop-mediated isothermal,2,paper-based diagnostics,7
+24,microfluidic paper-based analytical device,2,lab-on-a-chip,7
+25,antibody,2,fluorescence,6
+26,electrochemiluminescence immunoassay,2,paper-based sensors,6
+27,paper-based devices,2,printed sensors,6
+28,nucleic acid testing,2,immunoassay,6
+29,cancer,2,microfluidic paper-based analytical devices,5
+30,paper-based immunodevice,2,paper-based devices,5
+31,point-of-care testing,2,paper-based immunodevice,5
+32,microfluidic paper-based analytical devices (mu pads),2,assured,5
+33,paper-based sensors,2,ued,5
+34,printed sensors,2,operation technique,5
+35,electrochemistry,2,readout technique,5
+36,mu pad,2,longevity,5
+37,paper-based microfluidic device,2,paper-based microfluidic device,5
+38,origami techniques,2,origami techniques,5
+39,origami,2,paper-based battery,5
+40,immunoassay,2,microbial fuel cell,5
+41,paper-based assays,2,sensor,5
+42,paper-based platform,2,device,5
+43,organophosphate poisoning,2,chromatography,5
+44,acetylcholinesterase,2,diagnostic,5
+45,paper-based battery,2,microfluidic,5
+46,microbial fuel cell,2,micropad,5
+47,low-cost sensing,2,screen printing,4
+48,mobile phone,2,dna,4
+49,lab-on-a-chip,2,tumor cells,4
+50,paper-based digital microfluidics,1,current trend,4
+51,electrohydrodynamic jet printing,1,immunosensor,4
+52,screen printing,1,type,4
+53,dna,1,detection technique,4
+54,tumor cells,1,viscometer,4
+55,current trend,1,protein stability,4
+56,immunosensor,1,nucleic acid extraction,4
+57,type,1,loop-mediated isothermal,4
+58,detection technique,1,blood typing,4
+59,same detection zone,1,paper diagnostic,4
+60,sandwich,1,aging,4
+61,viscometer,1,storage conditions,4
+62,protein stability,1,biochip,4
+63,chitosan,1,plasmonics,4
+64,paper-based biosensor,1,nanofabrication,4
+65,biomimetic catalyst,1,micropads,4
+66,peroxidase,1,fluid control,4
+67,uric acid,1,actuators,4
+68,renal dysfunction,1,nucleic acid testing,4
+69,paper diagnostics,1,filtration,4
+70,colorimetric detection,1,filter paper,4
+71,wax printing,1,glucose detection,4
+72,capillary flow,1,point-of-care testing,4
+73,micro-channels,1,electroanalytical chemistry,4
+74,rapid detection,1,nanodevice,4
+75,quick response code,1,chemosensor,4
+76,low-cost,1,lateral,4
+77,paper-based valves,1,biofuel cells,4
+78,plastic,1,cellulose,4
+79,paper-based test,1,epad,4
+80,mechanical dispersion,1,paper-based assays,4
+81,paper based microfluidics,1,paper-based platform,4
+82,paper based gradient,1,organophosphate poisoning,4
+83,anesthesia,1,acetylcholinesterase,4
+84,informatics,1,t7 bacteriophages,4
+85,electronic medical record,1,viruses,4
+86,quality improvement,1,antibodies,4
+87,enzyme immobilization,1,sandwich elisa,4
+88,biofunctional paper,1,colorimetric assay,4
+89,lab-on-paper,1,light reflectance,4
+90,artificial neural network,1,metal ions,4
+91,blood typing,1,nitrite,4
+92,paper diagnostic,1,low-cost sensing,4
+93,aging,1,mobile phone,4
+94,storage conditions,1,same detection zone,3
+95,microfluidic paper-based device,1,sandwich,3
+96,fluorogenic detection,1,chitosan,3
+97,in vitro diagnostics,1,paper-based biosensor,3
+98,point,1,biomimetic catalyst,3
+99,quantitative diagnostics,1,peroxidase,3
+100,capillary,1,uric acid,3
+101,biochip,1,renal dysfunction,3
+102,plasmonics,1,paper diagnostics,3
+103,nanofabrication,1,colorimetric detection,3
+104,biomarker,1,wax printing,3
+105,enhancement,1,capillary flow,3
+106,sandwich immunoassay,1,micro-channels,3
+107,micropads,1,paper-based microfluidic devices,3
+108,fluid control,1,low-cost,3
+109,actuators,1,anesthesia,3
+110,antibiotic resistance genes,1,informatics,3
+111,paper-based chip,1,electronic medical record,3
+112,electrochemical sensor,1,quality improvement,3
+113,inkjet printing,1,enzyme immobilization,3
+114,carbon nanomaterials,1,biofunctional paper,3
+115,microfluidic paper-based chip,1,lab-on-paper,3
+116,formaldehyde,1,microfluidic paper-based analytical device,3
+117,hantzsch,1,electrochemiluminescence immunoassay,3
+118,cognitive activity level,1,fluorogenic detection,3
+119,skills,1,in vitro diagnostics,3
+120,national diagnostic test,1,point,3
+121,online test,1,biomarker,3
+122,analytical techniques,1,enhancement,3
+123,mu pads,1,sandwich immunoassay,3
+124,sensing,1,electrochemical sensor,3
+125,nanomaterials,1,inkjet printing,3
+126,microfluidic chip,1,carbon nanomaterials,3
+127,chemiluminescence immunoassay,1,microfluidic paper-based chip,3
+128,laser carving,1,formaldehyde,3
+129,micro-crack,1,hantzsch,3
+130,flow velocity,1,cognitive activity level,3
+131,fast self-acting,1,skills,3
+132,filtration,1,national diagnostic test,3
+133,filter paper,1,online test,3
+134,glucose detection,1,analytical techniques,3
+135,paper based biosensors,1,mu pads,3
+136,personalized health care,1,sensing,3
+137,point of care testing,1,nanomaterials,3
+138,chemiluminescence,1,microfluidic chip,3
+139,sugar barrier,1,chemiluminescence immunoassay,3
+140,reagent,1,laser carving,3
+141,drug-induced liver injury,1,micro-crack,3
+142,lab monitoring,1,flow velocity,3
+143,sweat sensor patch,1,fast self-acting,3
+144,self-powered glucose sensor,1,chemiluminescence,3
+145,enzymatic fuel cell,1,sugar barrier,3
+146,biomedical,1,reagent,3
+147,text-display,1,text-display,3
+148,colorimetry,1,colorimetry,3
+149,protein,1,protein,3
+150,low-cost paper substrates,1,surface flow,3
+151,sample preparation,1,capillarity,3
+152,disease diagnostics,1,parallel plates,3
+153,point-of-care testing (poct),1,concentration,3
+154,colorimetric assays,1,extraction,3
+155,surface flow,1,bioengineering,3
+156,capillarity,1,issue 121,3
+157,parallel plates,1,paper analytical,3
+158,concentration,1,paper-based sensing,3
+159,extraction,1,cataluminescence,3
+160,digital microfluidics,1,plasma-assisted,3
+161,microfluidics paper-based analytical devices,1,ethylene,3
+162,cellulose paper-based analytical devices,1,wicking,3
+163,continuous,1,imbibition,3
+164,laser induced fluorescence,1,relative humidity,3
+165,silica,1,loop-mediated isothermal amplification,3
+166,bioengineering,1,molecular,3
+167,issue 121,1,wireless communication,3
+168,paper analytical,1,radio,3
+169,paper-based sensing,1,heavy metal,3
+170,cataluminescence,1,cost-effective,3
+171,plasma-assisted,1,dengue infections,3
+172,ethylene,1,early diagnosis,3
+173,wicking,1,paper-based batteries,3
+174,imbibition,1,battery,3
+175,relative humidity,1,drug screening,3
+176,microfluidic paper-based analytical device (mu pad),1,gradient concentration,3
+177,ion concentration,1,3-d,3
+178,loop-mediated isothermal amplification,1,paper-based elisa,3
+179,molecular,1,escherichia coli,3
+180,wireless communication,1,urinary,3
+181,radio,1,printed electronics,3
+182,heavy metal,1,micro paper-based,3
+183,cost-effective,1,paper-based 3d microfluidic device,3
+184,dengue infections,1,wax,3
+185,early diagnosis,1,wicking height,3
+186,assured,1,wicking mass,3
+187,ued,1,evaporation,3
+188,operation technique,1,2d paper network,3
+189,readout technique,1,lateral-flow immunoassay,3
+190,longevity,1,aqueous two-phase,3
+191,capillary filling,1,data quality,3
+192,viscometry,1,documentation,3
+193,multistep assays,1,nursing care plan,3
+194,fluidic time delays,1,standardized nursing,3
+195,paper-based batteries,1,biabattery,3
+196,battery,1,origami technique,3
+197,electrochemical paper-based microfluidics,1,wood cellulose fiber,3
+198,paper-based analytical,1,paper sensors,3
+199,self-powered sensors,1,piezoelectric paper,3
+200,enzymatic fuel cells,1,bioassay,3
+201,glucose monitoring,1,electronic health record,3
+202,paper-based diagnostic device,1,hospital ward,3
+203,isothermal,1,nursing,3
+204,electroanalytical chemistry,1,paper documentation,3
+205,nanodevice,1,drugs of abuse,3
+206,chemosensor,1,recombinant antibody,3
+207,lateral,1,immunocomplex assay,3
+208,biofuel cells,1,paper chip,3
+209,cellulose,1,electrowetting,3
+210,epad,1,active transport,3
+211,drug screening,1,carbon nanotube,3
+212,gradient concentration,1,bio-assays,3
+213,3-d,1,antigens,3
+214,protein immobilization,1,electrochemiluminescence,3
+215,protein engineering,1,immunoassays,3
+216,clinical guidelines,1,antimicrobial paper,3
+217,childhood cancer survivors,1,bacteriophage,3
+218,clinical decision,1,bioactive paper,3
+219,paper-based analytical device (pad),1,rapid detection,2
+220,nucleic acid testing (nat),1,quick response code,2
+221,amplification,1,paper-based valves,2
+222,luminescence resonance energy transfer,1,plastic,2
+223,upconversion nanoparticle,1,paper-based test,2
+224,paper-based elisa,1,mechanical dispersion,2
+225,escherichia coli,1,paper based microfluidics,2
+226,urinary,1,paper based gradient,2
+227,low-cost bioassays,1,quantitative diagnostics,2
+228,paper-based microfluidic lab-on-a-chip,1,capillary,2
+229,paper hybrid,1,antibiotic resistance genes,2
+230,printed electronics,1,paper-based chip,2
+231,micro paper-based,1,paper based biosensors,2
+232,paper-based 3d microfluidic device,1,personalized health care,2
+233,wax,1,point of care testing,2
+234,wicking height,1,drug-induced liver injury,2
+235,wicking mass,1,lab monitoring,2
+236,evaporation,1,sweat sensor patch,2
+237,2d paper network,1,self-powered glucose sensor,2
+238,lateral-flow immunoassay,1,enzymatic fuel cell,2
+239,aqueous two-phase,1,biomedical,2
+240,t7 bacteriophages,1,low-cost paper substrates,2
+241,viruses,1,sample preparation,2
+242,antibodies,1,point-of-care testing (poct),2
+243,sandwich elisa,1,colorimetric assays,2
+244,data quality,1,microfluidic paper-based analytical devices (mu pads),2
+245,documentation,1,laser induced fluorescence,2
+246,nursing care plan,1,silica,2
+247,standardized nursing,1,capillary filling,2
+248,influenza virus,1,viscometry,2
+249,biabattery,1,multistep assays,2
+250,origami technique,1,fluidic time delays,2
+251,wood cellulose fiber,1,self-powered sensors,2
+252,paper sensors,1,enzymatic fuel cells,2
+253,piezoelectric paper,1,glucose monitoring,2
+254,carbon tape electrode,1,paper-based diagnostic device,2
+255,paper-based electroanalytical devices,1,isothermal,2
+256,dopamine,1,protein immobilization,2
+257,label-free immunoassay,1,protein engineering,2
+258,carbon nanotubes,1,clinical guidelines,2
+259,paper-based biobatteries,1,childhood cancer survivors,2
+260,hiv/hcv co-infection,1,clinical decision,2
+261,electrochemical,1,paper-based analytical device (pad),2
+262,bioassay,1,nucleic acid testing (nat),2
+263,electronic health record,1,amplification,2
+264,hospital ward,1,low-cost bioassays,2
+265,nursing,1,paper-based microfluidic lab-on-a-chip,2
+266,paper documentation,1,paper hybrid,2
+267,atmospheric-pressure plasmas,1,influenza virus,2
+268,microplasma,1,carbon tape electrode,2
+269,paper-based power sources,1,paper-based electroanalytical devices,2
+270,multi-anode,1,dopamine,2
+271,drugs of abuse,1,label-free immunoassay,2
+272,recombinant antibody,1,carbon nanotubes,2
+273,immunocomplex assay,1,paper-based biobatteries,2
+274,point-of-care (poc),1,hiv/hcv co-infection,2
+275,paper chip,1,electrochemical,2
+276,electrowetting,1,atmospheric-pressure plasmas,2
+277,active transport,1,microplasma,2
+278,colorimetric assay,1,paper-based power sources,2
+279,light reflectance,1,multi-anode,2
+280,metal ions,1,point-of-care (poc),2
+281,nitrite,1,low-cost diagnostics,2
+282,low-cost diagnostics,1,potentiostat,2
+283,potentiostat,1,high school/introductory chemistry,2
+284,high school/introductory chemistry,1,forensic chemistry,2
+285,forensic chemistry,1,learning,2
+286,learning,1,zero-cost analytical device,2
+287,zero-cost analytical device,1,urinalysis,2
+288,urinalysis,1,microfabrication,2
+289,microfabrication,1,lab on paper,2
+290,micro total,1,screen-printed,2
+291,carbon nanotube,1,two-dimensional paper networks,2
+292,bio-assays,1,signal,2
+293,sensor,1,microfluidic devices,2
+294,device,1,paper microfluidic devices,2
+295,antigens,1,paper-based digital microfluidics,1
+296,electrochemiluminescence,1,electrohydrodynamic jet printing,1
+297,immunoassays,1,artificial neural network,1
+298,lab on paper,1,microfluidic paper-based device,1
+299,screen-printed,1,disease diagnostics,1
+300,chromatography,1,digital microfluidics,1
+301,diagnostic,1,microfluidics paper-based analytical devices,1
+302,microfluidic,1,cellulose paper-based analytical devices,1
+303,micropad,1,continuous,1
+304,two-dimensional paper networks,1,microfluidic paper-based analytical device (mu pad),1
+305,signal,1,ion concentration,1
+306,microfluidic devices,1,electrochemical paper-based microfluidics,1
+307,paper microfluidic devices,1,paper-based analytical,1
+308,arrays,1,luminescence resonance energy transfer,1
+309,health,1,upconversion nanoparticle,1
+310,antimicrobial paper,1,micro total,1
+311,bacteriophage,1,arrays,1
+312,bioactive paper,1,health,1

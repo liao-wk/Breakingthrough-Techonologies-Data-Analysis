@@ -1,0 +1,883 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE air breakdown; charge density; energy harvesting; electret
+   nanogenerator; dielectrics
+ID CHARGE-DENSITY; TRIBOELECTRIC NANOGENERATORS; SURFACE-CHARGE; GENERATOR
+ER
+
+PT J
+DE nanogenerator; wearable electronics; biodevices; self-powered;
+   piezoelectric nanogenerator; triboelectric nanogenerator
+ID TRIBOELECTRIC NANOGENERATORS; ELECTROSTATIC-INDUCTION;
+   ELECTRICAL-STIMULATION; ENERGY-CONVERSION; ELECTRONIC-SKIN; THIN-FILM;
+   SENSORS; PRESSURE; ELECTRIFICATION; SUPERCAPACITORS
+ER
+
+PT J
+DE Triboelectric nanogenerator; Hybrid nanogenerator; Self-charging power
+   system; Green micro/nano-system; Wearable/portable electronic
+ID SCAVENGING BIOMECHANICAL ENERGY; LITHIUM-ION BATTERY; WEARABLE
+   ELECTRONICS; THERMAL-ENERGY; GENERATOR; CELL; TEXTILE; SENSOR; SOLAR;
+   SUPERCAPACITORS
+ER
+
+PT J
+ID ELECTRON-TRANSFER REACTIONS; ELECTRIFICATION; GENERATION
+ER
+
+PT J
+DE Piezoelectric nanogenerator; Triboelectric nanogenerator; Bionic micro
+   aerial vehicle; Hybrid; Flexible; Intelligent
+ID TRIBOELECTRIC NANOGENERATOR; PERFORMANCE; SEPARATION
+ER
+
+PT J
+DE Triboelectric nanogenerator (TENG); Self-powered; Starch; Sensor
+ID WASTE-WATER; ENERGY; SENSOR; MICROSYSTEMS; ELECTRONICS; MICROWIRE
+ER
+
+PT J
+DE ambient environment harvester; hybrid nanogenerator; thermal energy
+   harvester; thermoelectric nanogenerator; triboelectric nanogenerator
+ID PYROELECTRIC NANOGENERATORS; PIEZOELECTRIC GENERATORS; NANOWIRES
+ER
+
+PT J
+DE Triboelectric nanogenerator (TENG); self-powered system; micro/nano
+   fabrication; paper; height sensor
+ID ENERGY HARVESTING APPLICATIONS; WEARABLE ELECTRONICS; MOBILE
+   ELECTRONICS; ZNO NANOGENERATOR; PERFORMANCE; SENSOR; OPTIMIZATION;
+   MICROSYSTEMS; FABRICATION; CONVERSION
+ER
+
+PT J
+DE Triboelectric nanogenerator; Cellulose; Silver nanowire; Energy
+   harvesting; Vacuum filtration
+ID HARVESTING WIND ENERGY; WALKING
+ER
+
+PT J
+DE Nanogenerator; Polyvinylidene fluoride; Graphene quantum dots; Barium
+   titanate; Mechanical deformation; beta-phase
+ID POLY(VINYLIDENE FLUORIDE); DIELECTRIC-PROPERTIES; BATIO3 NANOPARTICLES;
+   COMPOSITES; TRANSDUCER; GENERATOR; LAYER; FILMS
+ER
+
+PT J
+ID GENERATOR; PERFORMANCE; ENERGY; INJECTION; SENSORS; LAYER
+ER
+
+PT J
+DE piezoelectret; nanogenerator; pressure sensor; active sensor; large
+   linear region
+ID CELLULAR POLYPROPYLENE PIEZOELECTRET; PIEZOTRONIC TRANSISTORS;
+   HIGH-RESOLUTION; SENSOR; ARRAY; ELECTRONICS; MATRIX; ROBOTS; SKIN
+ER
+
+PT J
+DE Triboelectric nanogenerator; Powder; Silica; Sand;
+   Polytetrafluoroethylene; Appropriate technology
+ID VIBRATION ENERGY; ELECTROMAGNETIC GENERATOR; POWER SOURCE; PERFORMANCE;
+   MOTION; LAYER
+ER
+
+PT J
+DE Triboelectricity; Piezoelectricity; Hybrid; Nanogenerator
+ID TRIBOELECTRIC NANOGENERATOR; SURFACE MODIFICATION; MECHANICAL-ENERGY;
+   PHASE-INVERSION; TRANSPARENT; SENSORS; FILMS; NANOCOMPOSITE;
+   PERFORMANCE; GENERATOR
+ER
+
+PT J
+DE Self-powered technology; Knowledge profile; Nanogenerator; Knowledge
+   base; Research fronts
+ID CO-WORD ANALYSIS; ENERGY HARVESTING DEVICE; TRIBOELECTRIC NANOGENERATOR;
+   PORTABLE ELECTRONICS; EMERGING TRENDS; SENSOR; GENERATOR; BODY;
+   NANOPIEZOTRONICS; PERFORMANCE
+ER
+
+PT J
+DE Finite element model; Diphenylalanine; Peptide; Nanogenerator;
+   Piezoelectricity; Flexible device
+ID ENERGY-CONVERSION; NANOWIRE ARRAYS; SELF; NANOTUBES; POLARIZATION;
+   RECOGNITION; MICROTUBES; GENERATION; MOS2
+ER
+
+PT J
+DE triboelectric nanogenerators; electromagnetic generators; hybrid
+   nanogenerators
+ID ELECTROMAGNETIC-TRIBOELECTRIC NANOGENERATOR; MECHANICAL ENERGY;
+   THERMAL-ENERGY; SENSORS; BATTERIES; SYSTEMS; ARRAYS; CELL
+ER
+
+PT J
+DE Triboelectric nanogenerator; Self-powered sensor; Pressure sensing;
+   Nanofibers; Electrospinning
+ID ACCELERATION SENSOR; NANOFIBER MATS; NANOGENERATOR; ENERGY; VIBRATION;
+   OUTPUT; MODE; GENERATOR; WALKING
+ER
+
+PT J
+DE electrokinetic; porous carbon films; self-powered; thermal-electric;
+   waste heat
+ID THERMOELECTRIC FIGURE; ENERGY; POWER; HEAT; CONVERSION; MERIT;
+   TEMPERATURE; NANOTUBE
+ER
+
+PT J
+DE triboelectric nanogenerator; piezoelectric nanogenerator; pyroelectric
+   nanogenerator; energy harvesting wearable device
+ID AIR-FLOW ENERGY; TRIBOELECTRIC NANOGENERATOR; PYROELECTRIC
+   NANOGENERATOR; MECHANICAL ENERGY; WIND ENERGY; SENSOR; DRIVEN; SOLAR;
+   CELL; NANOWIRES
+ER
+
+PT J
+DE dye-sensitized solar cells; hybrid energy system; self-powered devices;
+   soft lithium batteries; triboelectric nanogenerators
+ID HARVESTING MECHANICAL ENERGY; WIND ENERGY; GENERATOR; SYSTEMS;
+   EFFICIENCY
+ER
+
+PT J
+ER
+
+PT J
+DE barium titanate; energy scavenging; multieffects; nanogenerators
+ID HYBRID NANOGENERATOR; GENERATOR; DEVICES; SYSTEMS; FLOW
+ER
+
+PT B
+DE ZnO nanowires; nanogenerator; pyramid Si; piezoelectric effect
+ID ARRAYS
+ER
+
+PT B
+DE Triboelectric nanogenerator; voltage; generated power and temperature
+   effect
+ER
+
+PT S
+ID ENERGY HARVESTER; BIOMECHANICAL ENERGY; DISK; DESIGN; ARRAY
+ER
+
+PT J
+DE hybrid nanogenerator; triboelectric nanogenerator; vibration;
+   self-powered
+ID TRIBOELECTRIC NANOGENERATOR; BLUE ENERGY; WAVE ENERGY; SENSOR;
+   ELECTRONICS; GENERATOR
+ER
+
+PT J
+ID ORGANIC SOLAR-CELLS; CONTACT ELECTRIFICATION; WEARABLE DEVICES;
+   NANOGENERATOR; PERFORMANCE; TRANSPORT; ELECTRON; TIO2; RECOMBINATION;
+   PHOTODETECTOR
+ER
+
+PT J
+DE stretchable; transparent; piezoelectric nanocomposite; triboelectric;
+   strain sensor; self-powered; physiological monitoring
+ID PIEZOELECTRIC ENERGY HARVESTER; WEARABLE ELECTRONICS; HYBRID
+   NANOGENERATOR; PRESSURE SENSORS; GRAPHENE OXIDE; STRAIN SENSORS;
+   PERFORMANCE; SKIN; FIBER; DEVICES
+ER
+
+PT J
+DE Triboelectric nanogenerator; Natural design; Low-frequency energy;
+   Wearable electronic
+ID BIOMECHANICAL ENERGY; ELECTRONICS; STORAGE; POWER; DEVICES; SYSTEMS
+ER
+
+PT J
+DE moisture-triggered nanogenerator; graphene quantum dots; electrochemical
+   treatment; ion concentration gradient; moisture-electric energy
+   transformation
+ID ENABLED ELECTRICITY-GENERATION; POWER-GENERATION; OXIDE; GRAPHITE;
+   SENSORS; FILMS
+ER
+
+PT J
+DE triboelectric nanogenerator; electromagnetic generator; hybrid
+   nanogenerator; impedance match; mechanical energy
+ID CONVERSION EFFICIENCY; GENERATOR; PERFORMANCE; SENSOR; MOTION; FILM;
+   TRANSPARENT; POWER
+ER
+
+PT J
+ID BIOMECHANICAL ENERGY; HIGH-PERFORMANCE; CONTACT; BATTERY;
+   ELECTRIFICATION; EFFICIENCY; GRAPHENE
+ER
+
+PT J
+ID DIPHENYLALANINE PEPTIDE; POLARIZATION; GENERATION
+ER
+
+PT J
+DE piezoelectric nanogenerator; self-powered wearable active sensor; PVDF;
+   respiratory monitoring; tachypnea
+ID THIN-FILM NANOGENERATOR; IN-VIVO
+ER
+
+PT J
+ER
+
+PT J
+ID ELECTRIC ENERGY DENSITY; TRIBOELECTRIC NANOGENERATOR; POLY(VINYLIDENE
+   FLUORIDE); FERROELECTRIC PROPERTIES; CONTACT ELECTRIFICATION; POLYMER;
+   FILMS; PHASE; FIELD; ELECTRONICS
+ER
+
+PT J
+DE Triboelectric nanogenerator; Electromagnetic generator; Hybrid
+   nanogenerator; Non-contact; Self-powering
+ID WEARABLE ELECTRONICS; PIEZOELECTRIC NANOGENERATOR; GENERATING
+   ELECTRICITY; MECHANICAL ENERGY; PERFORMANCE; POWER; DEVICES; SENSORS;
+   WALKING; UNIT
+ER
+
+PT J
+DE Triboelectric nanogenerator; Energy harvesting; Electrospinning; Spongy
+   parenchyma-like structure
+ID FLUOROCARBON PLASMA TREATMENT; HYBRID NANOGENERATOR; ENERGY HARVESTER;
+   ELECTRET FILM; WAVE ENERGY; PERFORMANCE; ELECTRONICS; SENSOR;
+   EFFICIENCY; GENERATORS
+ER
+
+PT J
+DE Nanogenerators; Piezoelectric nanogenerator (PENG); Triboelectric
+   nanogenerator (TENG); Pyroelectric nanogenerator (PRNG); Hybrid-electric
+   nanogenerator; Bibliographic coupling
+ID TRIBOELECTRIC NANOGENERATORS; ENERGY-CONVERSION; ELECTRONICS; SENSORS;
+   NANOSCALE; GROWTH
+ER
+
+PT J
+DE nanogenerator; nanocomposite; 2D material; energy harvesting;
+   self-powered sensor
+ID PYROELECTRIC NANOGENERATORS; LAYER MOS2; PERFORMANCE; ENERGY;
+   CONVERSION; FILMS
+ER
+
+PT J
+ID TRIBOELECTRIC NANOGENERATOR; PYROELECTRIC NANOGENERATORS; HYBRID;
+   PERFORMANCE; GENERATOR; CELLS; ELECTRIFICATION; SENSORS
+ER
+
+PT J
+DE Triboelectric nanogenerator; Magnetically levitated generator;
+   Vibrometer; Self-powered; Monitoring technology
+ID WATER-WAVE ENERGY; CONTACT-ELECTRIFICATION; HARVESTING ENERGY; ACTIVE
+   SENSORS; HYBRID CELL; GENERATOR; SYSTEM; SURFACE; ELECTRONICS
+ER
+
+PT J
+DE energy harvesting; nanocomposite; hybrid nanogenerator;
+   piezoelectricity; triboelectricity
+ID HYDROTHERMAL METHOD; GENERATOR; ENERGY; SYSTEM; ELECTRIFICATION;
+   TRANSPARENT; SENSOR
+ER
+
+PT J
+DE Barium titanate (BaTiO3); energy harvesting; flexible nanogenerator;
+   graphene; piezoelectric nanocomposite; zinc oxide (ZnO)
+ID PIEZOELECTRIC DEVICES; NANOWIRE ARRAYS; ALIGNED ARRAYS; NANOGENERATOR;
+   PARTICLES; SENSOR
+ER
+
+PT J
+ID SILICON ELECTRONICS; MECHANICAL ENERGY; GENERATOR; ELECTRIFICATION;
+   SENSOR; DRIVEN; WATER
+ER
+
+PT J
+DE Nanowires; KNbO3; Copper foil; Sensing voltage; Nanogenerator
+ID PIEZOELECTRIC NANOGENERATORS; HYDROTHERMAL METHOD; V OUTPUT;
+   NANOSTRUCTURES; NANOTUBES; GROWTH; ARRAYS; NANORODS; ZNO
+ER
+
+PT J
+DE Electrospun PVDF; LiCl nanogenerator; finite element method; energy
+   approach; piezoelectric; coupling coefficient
+ID FIBERS
+ER
+
+PT J
+DE biodegradable; transparent; electret nanogenerators; paper-based;
+   self-powered
+ID FLEXIBLE ELECTRONICS; GREEN ELECTRONICS; TRANSIENT ELECTRONICS; DEVICES;
+   DISSOLUTION; CELLULOSE; POLYMERS; SENSORS; SILICON; FIBERS
+ER
+
+PT J
+ID 25TH ANNIVERSARY ARTICLE; TRIBOELECTRIC NANOGENERATOR; ENERGY
+   HARVESTERS; SYSTEMS; SENSORS; CONDUCTORS; CONVERSION; DEVICES; DESIGN;
+   DRIVEN
+ER
+
+PT J
+DE blue energy harvester; rolling triboelectric nanogenerator; hybrid
+   nanogenerator; water motion
+ID WATER-WAVE ENERGY; MECHANICAL ENERGY; CONVERSION EFFICIENCY;
+   BIOMECHANICAL ENERGY; WEARABLE ELECTRONICS; ELECTRIFICATION;
+   OPTIMIZATION; ELECTRICITY; INDUCTION; STORAGE
+ER
+
+PT J
+DE energy harvesting; hybrid nanogenerator; friction heat; triboelectric;
+   thermoelectric
+ID GENERATOR; CELL
+ER
+
+PT J
+DE energy harvesting; triboelectricity; self-powering; nanogenerator;
+   vertically aligned carbon nanotubes
+ID ENERGY
+ER
+
+PT J
+DE nanogenerator; lead-free; BiFeO3; piezoelectricity; composites
+ID BIOMECHANICAL ENERGY; ROOM-TEMPERATURE; SOLAR-CELLS; THIN-FILM;
+   CERAMICS; NANOCOMPOSITE; SENSOR; ZNO; NANOPARTICLES; POLARIZATION
+ER
+
+PT J
+DE energy harvesting; triboelectric nanogenerator; wettability;
+   nanostructure; anodized aluminum
+ID ENERGY; NANOWIRES; GENERATOR; SENSORS; SURFACE; SYSTEM
+ER
+
+PT J
+ID LIGHT-EMITTING DEVICES; TRIBOELECTRIC NANOGENERATOR; CARBON NANOTUBES;
+   SENSOR MATRIX; SKIN; PRESSURE; DRIVEN; ELECTRIFICATION; SUPERCAPACITORS;
+   NANOCOMPOSITE
+ER
+
+PT J
+DE Piezoelectric nanogenerator; Lead zirconate titanate; Polymer; Output
+   voltage; Finite element method
+ID V OUTPUT; FLEXIBLE NANOGENERATOR; SENSOR; VOLTAGE; DRIVEN
+ER
+
+PT J
+DE hybridized nanogenerator; electromagnetic generator; triboelectric
+   nanogenerator; sliding motions; self-powered sensor; power management
+   circuit
+ID SELF-POWERED SENSOR; ENERGY; GENERATOR; WALKING
+ER
+
+PT J
+DE Nanogenerator; Hybridized; Thermoelectric; Electromagnetic;
+   Triboelectric
+ID GENERATING ELECTRICITY; BIOMECHANICAL ENERGY; WALKING; SENSOR
+ER
+
+PT J
+DE hybridized nanogenerator; vibration; wireless transmission; self-powered
+ID WATER-WAVE ENERGY; HARVESTING VIBRATION ENERGY; TRIBOELECTRIC
+   NANOGENERATOR; MECHANICAL ENERGY; WASTE-WATER; SENSORS; MOTION;
+   ELECTRIFICATION; GENERATION; SYSTEM
+ER
+
+PT J
+DE hybrid nanogenerator; electromagnetic; triboelectric; vibration energy;
+   Li-ion battery
+ID GENERATING ELECTRICITY; BIOMECHANICAL ENERGY; HUMAN WALKING; HUMIDITY;
+   SENSORS
+ER
+
+PT J
+DE broad frequency band; blue energy; TENG; EMG; hybrid nanogenerator
+ID MECHANICAL ENERGY; WASTE-WATER; PERFORMANCE; GENERATOR; SYSTEM; DRIVEN;
+   TRANSITION; CHALLENGES; FUTURE; STATES
+ER
+
+PT J
+ID PERFORMANCE TRIBOELECTRIC NANOGENERATOR; ZNO NANOWIRE ARRAYS; WATER-WAVE
+   ENERGY; WEARABLE ELECTRONICS; PIEZOELECTRIC NANOGENERATOR; HYBRID
+   NANOGENERATOR; BIOMECHANICAL ENERGY; MECHANICAL ENERGY; PRESSURE
+   SENSORS; LARGE-AREA
+ER
+
+PT J
+DE triboelectric nanogenerator; solar cells; smart city; hybridized
+   nanogenerator; Li-ion battery; self-powered
+ID TRIBOELECTRIC NANOGENERATOR; CELLS; GENERATION
+ER
+
+PT J
+DE hybridized electromagnetic-triboelectric nanogenerator; self-powered
+   wireless sensor
+ID HARVESTING VIBRATION ENERGY; WATER-WAVE ENERGY; SYSTEM; ELECTRIFICATION;
+   ELECTRONICS; NETWORKS; MOTION
+ER
+
+PT J
+DE Chemical vapor deposition (CVD) grown graphene; flexibility; optical
+   transmittance; triboelectric nanogenerator (TENG)
+ID ENERGY DENSITY; POWER SOURCE; SENSOR; VIBRATION; SURFACE; ELECTRONICS;
+   FABRICATION; GENERATION; ARRAYS; FILMS
+ER
+
+PT J
+DE conductive fabric; Ag nanowires; stretchable nanogenerator;
+   biomechanical energy
+ID TRIBOELECTRIC GENERATOR; WEARABLE ELECTRONICS; TRANSPARENT ELECTRODES;
+   AG NANOWIRES; NETWORKS; GRAPHENE; FIBERS; DRIVEN
+ER
+
+PT J
+DE energy harvesting; hybridized nanogenerator; conjunction operation;
+   sliding motion; self-powered electronics
+ID GENERATING ELECTRICITY; BIOMECHANICAL ENERGY; WEARABLE ELECTRONICS;
+   MECHANICAL ENERGY; WALKING
+ER
+
+PT J
+DE Hybrid cell; Nanogenerator; Supercapacitor; Piezoelectric nanowire; High
+   conversion efficiency
+ID WATER-WAVE ENERGY; TRIBOELECTRIC NANOGENERATOR; SILICON NANOWIRES;
+   ARRAYS; ZNO; GROWTH; PERFORMANCE; DEVICES; SURFACE; DRIVEN
+ER
+
+PT J
+DE ZnO nanorod; Heterojunction; Direct current; Piezoelectric;
+   Nanogenerator
+ID ENHANCED PERFORMANCE; ELECTRODES; NANOWIRES; NANORODS; DRIVEN; ENERGY
+ER
+
+PT J
+ID FILMS
+ER
+
+PT S
+ID SOLAR THERMOELECTRIC GENERATORS; COMPOSITES; FIGURE
+ER
+
+PT J
+ID WALLED CARBON NANOTUBES; 3-DIMENSIONAL GRAPHENE FOAM; VOLTAGE
+   GENERATION; ENERGY; WATER; SURFACE; LIQUID; YARNS
+ER
+
+PT J
+DE hybridized; electromagnetic; triboelectric; self-powered; electronic
+   watch
+ID SCAVENGING BIOMECHANICAL ENERGY; HARVESTING MECHANICAL ENERGY;
+   GENERATING ELECTRICITY; WEARABLE ELECTRONICS; WALKING; SENSOR
+ER
+
+PT J
+DE triboelectric nanogenerator; energy harvesting; optimization
+ID ENERGY; ELECTRIFICATION; GENERATOR; EFFICIENCY; DYNAMICS
+ER
+
+PT J
+DE hybrid nanogenerator; triboelectric; electromagnetic; Li-ion battery;
+   vibration energy
+ID SENSORS
+ER
+
+PT J
+ID PIEZOELECTRIC NANOGENERATOR; GENERATOR; ARRAY
+ER
+
+PT J
+DE contact electrification; triboelectric nanogenerator; anodized aluminum
+   xide; superhydrophobic tubular system; compact design
+ID CONTACT ELECTRIFICATION; RENEWABLE ENERGY; SLIDING ELECTRIFICATION;
+   SUSTAINABLE DEVELOPMENT; WAVE ENERGY; SURFACE; GENERATOR; DROPLETS;
+   CHARGE
+ER
+
+PT J
+ID HARVESTING ENERGY; CARBON NANOTUBES; WATER-FLOW; OXIDE; LIQUID; CHARGE;
+   GAS
+ER
+
+PT J
+DE fiber; fabric; triboelectric nanogenerator; strechable; wearable device
+ID HARVESTING WIND ENERGY; WATER-WAVE ENERGY; GENERATOR; ELECTRONICS;
+   MOTIONS; SENSOR; SYSTEM
+ER
+
+PT J
+DE ZnO nanogenerator; Ag nanowires; contact electrification; piezoelectric
+   effect; paper substrate
+ID TRIBOELECTRIC NANOGENERATOR; ENERGY; DEVICES; DESIGN
+ER
+
+PT J
+DE piezoelectric nanogenerator; flexible; hybrid film; BaTi(1-x)ZrxO3
+   nanocubes; self-powered sensor; molten salt process
+ID THIN-FILM; 0.5BA(ZR0.2TI0.8)O-3-0.5(BA0.7CA0.3)TIO3 NANOWIRES;
+   TRIBOELECTRIC NANOGENERATOR; PYROELECTRIC NANOGENERATORS; FERROELECTRIC
+   PROPERTIES; NANOCOMPOSITE GENERATOR; DIELECTRIC-PROPERTIES; BATIO3;
+   ENERGY; CERAMICS
+ER
+
+PT J
+ID FLEXIBLE PIEZOELECTRIC NANOGENERATORS; NANOWIRE ARRAYS; ZNO NANORODS;
+   SOLAR-CELLS; SENSOR; ELECTRICITY; GENERATION; CARRIERS; GROWTH
+ER
+
+PT J
+DE Nanogenerator; Environmental effect; Temperature; Humidity; Adsorption;
+   Pressure
+ID TRANSMISSION ELECTRON-MICROSCOPY; POWERED TEMPERATURE SENSORS;
+   PIEZOELECTRIC NANOGENERATORS; TRIBOELECTRIC NANOGENERATOR; NANOWIRE
+   ARRAYS; ZNO NANOWIRES; THERMOELECTRIC NANOGENERATORS; PYROELECTRIC
+   NANOGENERATORS; POLY(VINYLIDENE FLUORIDE); CONTACT ELECTRIFICATION
+ER
+
+PT J
+DE Hybrid energy cells; Piezoelectric nanogenerator; Triboelectric
+   nanogenerator; Pyroelectric nanogenerator; Li-ion battery
+ID CHARGING POWER CELL; ELECTROCHEMICAL OXIDATION; PERSONAL ELECTRONICS;
+   WASTE-WATER; SOLAR; NANOGENERATOR
+ER
+
+PT J
+DE Nanogenerator; Piezoelectricity; ZnO Nanowires; PVDF-CNT Composite
+ID POLY(VINYLIDENE FLUORIDE); ENERGY-CONVERSION; GROWTH; PHASE;
+   CRYSTALLIZATION; NANOCOMPOSITES; TEMPERATURE; MORPHOLOGY; BLENDS
+ER
+
+PT J
+ID NANOFIBERS; ARRAYS; TRANSPARENT; GENERATION; PVDF
+ER
+
+PT J
+DE Piezoelectric composite fiber; Fabric nariogenerator; Mechanical energy;
+   harvesting; Interdigited electrodes
+ID THIN-FILM; TRIBOELECTRIC NANOGENERATOR; BIOMECHANICAL ENERGY;
+   0.5BA(ZR0.2TI0.8)O-3-0.5(BA0.7CA0.3)TIO3 NANOWIRES;
+   CONTACT-ELECTRIFICATION; WIND ENERGY; WAVE ENERGY; ZINC-OXIDE;
+   GENERATOR; SENSOR
+ER
+
+PT J
+DE Electromagnetic generator; Triboelectric nanogenerator; Biomechanical
+   energy; Hybridized nanogenerator; Mobile power source
+ID HARVESTING MECHANICAL ENERGY; GENERATING ELECTRICITY; SHOE INSOLE;
+   WALKING; ELECTRONICS
+ER
+
+PT J
+DE hybridized nanogenerator; biomechanical energy; walking; wearable
+   device; self-powered shoes
+ID HARVESTING MECHANICAL ENERGY; GENERATING ELECTRICITY; SHOE INSOLE;
+   WALKING; CELL; VIBRATION; SENSOR
+ER
+
+PT J
+DE hybridized nanogenerator; triboelectric nanogenerator; electromagnetic
+   generator; self-powered sensor; wind energy; air-flow energy
+ID HARVESTING MECHANICAL ENERGY; WIND ENERGY; GENERATOR; SYSTEM
+ER
+
+PT J
+ID PIEZOELECTRIC NANOGENERATORS; NANOCOMPOSITE GENERATOR; HYBRID
+   NANOSTRUCTURES; CONTROLLED GROWTH; NANOWIRE ARRAYS; ZNO NANORODS;
+   LARGE-AREA; GRAPHENE; ENERGY; PHOTORESPONSE
+ER
+
+PT S
+ID ENERGY; NANOSYSTEMS
+ER
+
+PT J
+ID TRIBOELECTRIC NANOGENERATORS; AQUEOUS DISPERSIONS; HIGH-QUALITY; FILMS;
+   STRAIN; SHEETS
+ER
+
+PT J
+ER
+
+PT J
+ID THIN-FILM TRANSISTORS; LOW-VOLTAGE; GATE DIELECTRICS; ELECTROLYTES;
+   PERFORMANCE; GENERATOR
+ER
+
+PT J
+ID PIEZOELECTRIC NANOGENERATORS; NANOWIRE ARRAYS; PERFORMANCE; SYSTEM;
+   ENERGY; NANORODS; DRIVEN; SENSOR
+ER
+
+PT J
+ID TRIBOELECTRIC NANOGENERATOR; ENERGY; NANOPARTICLES; HARVEST; ARRAYS
+ER
+
+PT J
+DE Single fiber; Piezoelectric nano generator; Self-alignment; Wearable
+   device
+ID TEMPLATED GRAIN-GROWTH; PIEZOELECTRIC NANOGENERATOR; TRANSPARENT
+   NANOGENERATORS; THIN-FILM; ENERGY; NANOCOMPOSITE; CERAMICS; GENERATION;
+   NANOTUBES; COMPOSITE
+ER
+
+PT J
+ID TRIBOELECTRIC NANOGENERATOR; NANOWIRE ARRAYS; WIND ENERGY; PRESSURE;
+   NANOCOMPOSITE; NANOPARTICLES; GENERATION; COMPOSITE; DEVICES; OUTPUT
+ER
+
+PT J
+DE Carbon-fiber/ZnO-ZnSe; Nanogenerator; Piezoelectric; High-output current
+ID PHOTODETECTOR; NANODEVICES; DEVICES
+ER
+
+PT J
+DE ZnO nanowires; Nanogenerator; Piezoelectric potential; Schottkey contact
+ID ENERGY; ARRAYS; SCALE; WIRES
+ER
+
+PT J
+DE ZnO Nanowires; Triboelectricity; Piezoelectricity; Hybrid Nanogenerator
+ID PYROELECTRIC NANOGENERATORS; ENERGY; SENSORS; ARRAYS
+ER
+
+PT J
+DE mechanical energy harvesting; contact electrification; electrostatic
+   induction; triboelectric nanogenerator; self-powering technology
+ID CONTACT ELECTRIFICATION; SOLAR-CELLS; GENERATOR; SEPARATION; SENSOR;
+   CHARGE
+ER
+
+PT J
+DE energy harvesting; triboelectric nanogenerator; piezoelectric
+   nanogenerator; hybrid; fiber; flexible
+ID TRIBOELECTRIC NANOGENERATOR; ELECTRONICS; GENERATOR
+ER
+
+PT J
+DE nanogenerator; piezoelectric effect; triboelectric effect; graphene
+ID V OUTPUT VOLTAGE; TRIBOELECTRIC NANOGENERATOR; NANOWIRE ARRAYS; NANOROD
+   ARRAYS; ENERGY; GRAPHENE; LASERS; SENSOR; CONVERSION; STRAIN
+ER
+
+PT J
+DE Aqueous chemical Growth Method; Zinc Oxide Nanowires; Flexible Sandwich
+   Nanogenerator
+ID SUBSTRATE; TEXTILE; GROWTH; ARRAYS; ENERGY
+ER
+
+PT J
+DE Implantable medical electronic device; wearable medical electronic
+   device; piezoelectric nanogenerator; body mechanical energy;
+   biomechanical energy harvester; new power source
+ID ENERGY; GENERATOR; CONTRACTION; VENTRICLE; PRESSURE; DESIGN; HEART
+ER
+
+PT J
+DE Mechanical energy harvesting; Triboelectric nanogenerators; Equivalent
+   circuits; Simulation method; Integrated systems
+ID CONTACT ELECTRIFICATION; ELECTROMAGNETIC GENERATOR; MOTION; CHARGE;
+   POWER; OPTIMIZATION; SEPARATION; SURFACE
+ER
+
+PT J
+DE hybrid nanogenerator; pH sensor; PVDF; self-powered device;
+   solution-casting; ZnO nanowire
+ID TRANSPARENT NANOGENERATORS; NANOWIRE NANOSENSORS; ENERGY; FILM;
+   NANOPARTICLES; NANOTUBES; CONSTANT; DEVICES; ARRAYS; PVDF
+ER
+
+PT J
+DE Flexible; Nanogenerator; Thermopoling; PVDF-TrFE; Energy scavenging;
+   Self-powered
+ID ENERGY-CONVERSION; POWER-GENERATION; DEVICES; RESPIRATION; NANOFIBERS;
+   POLYMER; DRIVEN; ARRAYS; SENSOR; CELL
+ER
+
+PT J
+ID NANOWIRE NANOGENERATOR; ZNO; GRAPHENE; OUTPUT; NANOCRYSTALS;
+   ELECTRICITY; DRIVEN; ARRAYS; ENERGY; FILM
+ER
+
+PT J
+ID SOLAR-CELLS; ELECTRONICS; CONVERSION; SENSORS; SYSTEMS; FILMS
+ER
+
+PT J
+DE triboelectric nanogenerator; power-transformed-and-managed; self-powered
+   wireless sensing
+ID ENERGY; GENERATOR; SYSTEMS; SENSOR
+ER
+
+PT J
+ID GENERATOR; ENERGY
+ER
+
+PT J
+DE triboelectric nanogenerator; acoustic energy harvesting; self-powered
+   acoustic sensing
+ID VIBRATION; GENERATOR; DRIVEN; SENSOR; SOUND
+ER
+
+PT J
+ID ETHANOL SENSING PROPERTIES; NANOARRAY NANOGENERATOR; OPTICAL-PROPERTIES;
+   ROOM-TEMPERATURE; THIN-FILMS; DRIVEN
+ER
+
+PT B
+DE grapheme oxide film; ZnO nanoparticles; KNN-LTS nanopowder;
+   nanogenerator
+ER
+
+PT J
+DE triboelectric nanogenerator; self-powerd system; polyamide;
+   polytetrafluoroethylene; tracking system
+ID ENERGY-CONVERSION; ARTIFICIAL SKIN; PRESSURE SENSOR; HUMAN MOTION;
+   LARGE-AREA; TRANSISTORS; MATRIX; GENERATOR; ARRAYS
+ER
+
+PT J
+DE Nanogenerator; Nanowires; Kapton; Si
+ID NANOWIRE ARRAYS; RESISTANCE; DRIVEN; GROWTH; OUTPUT
+ER
+
+PT J
+DE contact electrification; sustainable chemistry; nanosensor;
+   triboelectric nanogenerator; wave energy
+ID TRIBOELECTRIC NANOGENERATOR; ELECTRETS; GENERATOR; CHARGE; NANOSENSOR;
+   SEPARATION; MECHANISM
+ER
+
+PT J
+DE triboelectric effect; nanogenerator; vibration sensor; harmonic
+   resonator; energy harvesting
+ID CONTACT ELECTRIFICATION; ENERGY; GENERATOR; CONVERSION; SURFACE; DRIVEN
+ER
+
+PT J
+DE Power generation; Stacked; Spring; Triboelectric nanogenerator
+ID ENERGY-CONVERSION; SOLAR-CELLS; EFFICIENCY
+ER
+
+PT J
+DE Carbon nanotubes; graphene; nanogenerator; optimization
+ID CARBON NANOTUBE; NANOWIRES; NANORODS; GRAPHENE; PLASMA; SENSOR; FILMS;
+   ZINC
+ER
+
+PT J
+DE Electrospinning; BaTiO3 Nanowire; Nanogenerator; Energy Harvesting
+ID SOLAR-CELLS; SILICON NANOWIRES; V OUTPUT; ENERGY; TECHNOLOGIES;
+   PERFORMANCE; GENERATION; DEVICES; DRIVEN
+ER
+
+PT J
+DE piezoelectric nanogenerator model; conical nanowire; open circuit output
+   voltage
+ID SELF-POWERED NANOSYSTEMS; PIEZOTRONICS; NANOWIRES; DRIVEN; SENSOR
+ER
+
+PT J
+DE ZnO; PZT; Piezoelectricity; Hetero-junction; Nanogenerator
+ID PIEZOELECTRIC COMPOSITES; ENERGY; TEMPERATURE; FILMS
+ER
+
+PT J
+ID V OUTPUT VOLTAGE; PIEZOELECTRIC NANOWIRES; POLY(VINYLIDENE FLUORIDE);
+   NANBO3; DEVICES; GROWTH; EFFICIENCY; CONVERSION
+ER
+
+PT J
+ID NANOWIRE ARRAYS; ENERGY; NETWORKS; PRESSURE; ZNO
+ER
+
+PT B
+DE Hydrothermal synthesis; ZnO nanowire; piezoelectric generation; hybrid
+   cell; nanogenerator
+ID SOLAR-CELLS; ENERGIES; ARRAYS
+ER
+
+PT B
+DE ZnO nanogenerator fabrication improvement; top electrode; sputtering
+ID ENERGY
+ER
+
+PT J
+ID PIEZOELECTRIC NANOGENERATOR; NANOWIRE ARRAYS; V OUTPUT; DRIVEN;
+   ELECTRICITY; GENERATION; VOLTAGE; SENSOR; FILMS
+ER
+
+PT B
+DE ZnO; nanowire; nanogenerator; flexible
+ID NANOWIRE
+ER
+
+PT J
+ID DRIVEN; ENERGY
+ER
+
+PT J
+DE Piezoelectric Nanowire; Nanogenerator; ZnO; Mechanical Energy Harvesting
+ID NANOWIRE ARRAYS; ENERGY-CONVERSION; VOLTAGE
+ER
+
+PT J
+DE Nanogenerator; ZnO micro/nanowires; PZT nanowires; energy harvesting;
+   noncontact mode
+ID FREE PIEZOELECTRIC CERAMICS; SILICON NANOWIRES; SOLAR-CELLS; RECTENNA;
+   STRAIN; OUTPUT; ARRAYS
+ER
+
+PT J
+DE Nanogenerator; ZnO; energy harvesting; functional electrical stimulation
+ID PIEZOELECTRIC NANOGENERATORS; ACTION POTENTIALS; NERVE FIBRE; NANOWIRE;
+   FROG; FIBERS; SYSTEM; DRIVEN; ARRAYS; SENSOR
+ER
+
+PT J
+DE ZnSnO3; microbelts; lead-free; piezoelectric nanogenerator
+ID POLAR OXIDE ZNSNO3; ZNO NANOWIRE; OUTPUT; 1ST-PRINCIPLES; ZN2SNO4;
+   DIODES; SENSOR; WIRES
+ER
+
+PT S
+DE ZnO nanowires; nanogenerator; piezoelectricity
+ER
+
+PT S
+DE three-phase; piezoelectric materials; vibration; nano; generators; power
+ID NANOPIEZOTRONICS; DEVICES
+ER
+
+PT J
+DE Three-phase; Piezoelectric Materials; Nano; Generators; Power
+ID NANOPIEZOTRONICS; NANOGENERATORS; DEVICES
+ER
+
+PT J
+ID NANOWIRE ARRAYS
+ER
+
+PT J
+ID CONDITION MONITORING APPLICATIONS; ZNO; NANOWIRES; NANORODS; GROWTH;
+   SYSTEM
+ER
+
+PT J
+ER
+
+PT J
+DE ZnO nanorod; Piezoelectric nanogenerator; Nitrogen-doped diamond;
+   Heterojunction; AFM
+ID FIELD-EFFECT TRANSISTORS; NANOWIRE ARRAYS; ZNO; NANORODS; DIAMOND;
+   SURFACE; SENSOR; PROBE
+ER
+
+PT J
+DE BaTiO3; thin film; piezoelectric; flexible electronics; nanogenerator;
+   energy harvesting
+ID DRIVEN; ENERGY; ELECTRICITY; NANOWIRE; SILICON; LAYER
+ER
+
+PT J
+ID POWER-GENERATION; ENERGY
+ER
+
+PT J
+ER
+
+EF

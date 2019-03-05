@@ -1,0 +1,451 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE Input devices; Gestural interfaces; Fitts' law; Performance evaluation/
+   methodology; Age; Selection tasks; Microsoft Kinect; Leap Motion
+ID USER INTERFACES; ACCURACY; DEVICES
+ER
+
+PT S
+DE Natural language processing; Speech interface; Multimodal
+ID RECOGNITION; INTONATION
+ER
+
+PT J
+ID COMMUNICATION; THOUGHT
+ER
+
+PT J
+DE gestural data management; gesture interaction middleware; Kinect-like
+   devices
+ID GESTURE RECOGNITION
+ER
+
+PT J
+DE In-air hand gestures; Kinect sensor; Older adults; Natural user
+   interface
+ER
+
+PT J
+DE Wearable technology; augmented reality; holographic computing; usability
+ER
+
+PT B
+DE microgestures; gesture interaction; augmented reality
+ER
+
+PT S
+DE HCI; Virtual Reality; Luxury brands; Hand gesture; Semi-immersive;
+   Product visualization
+ID CUSTOMER EXPERIENCE
+ER
+
+PT S
+DE Gestures; Comparison; On skin touch; Freehand; User-elicitation;
+   Mid-air; Embodied interaction; Skin gestures; On-body gestures
+ER
+
+PT B
+DE Touchless Interaction; Gestural Interaction; Natural Interfaces;
+   Human-Computer Interaction; Information-provision Systems
+ER
+
+PT S
+ER
+
+PT J
+ID RECOGNITION; SENSOR
+ER
+
+PT J
+ID ANIMATION
+ER
+
+PT J
+DE gestural action; performance; instrument; affordances; practise-based
+   research
+ER
+
+PT B
+DE Tangible and gestural interaction; Multimodal interaction; Collaboration
+   in collocated workspaces; Collaborative gameplay
+ER
+
+PT S
+DE Accessibility; Gestural interface; Assistive technology
+ER
+
+PT S
+DE Gestural interface; Age; Elderly people
+ER
+
+PT B
+ER
+
+PT B
+DE Human-Computer Interaction (HCI); image processing; Computer Vision;
+   gesture recognition
+ER
+
+PT B
+ER
+
+PT J
+ER
+
+PT J
+DE Gestural writing; Museum information system; Kinetic hypertext
+   authoring; Kinect; Image schemata; Deictic and iconic gestures
+ER
+
+PT J
+DE Full-body games; Interactivity; Kinect; Concurrent full-body gestures;
+   User-elicitation approach; Choice-based elicitation approach
+ER
+
+PT J
+DE Mimetic; art; emergence; gesture; real time
+ER
+
+PT B
+DE gestural commands; concern independence; gesture-based interfaces;
+   LeapMotion; Kinect
+ID INTERFACE
+ER
+
+PT B
+DE Gesture recognition; hand gesture; gesture interface; human computer
+   interaction; natural user interfaces
+ID HUMAN-COMPUTER INTERACTION; RECOGNITION
+ER
+
+PT S
+DE Poetry; Gestural interfaces; Pragmatism; Aesthetics; Semiotics
+ER
+
+PT S
+DE Human-agent body interaction; Coupling
+ER
+
+PT S
+DE Human computer communication; gestural communication; control a
+   computer; communicate with a computer
+ER
+
+PT B
+DE H.1.2 [Models and Principles]: User/Machine Systems Human factors; H.5.2
+   [Information interfaces and presentation]: User Interfaces User-centered
+   design
+ER
+
+PT S
+DE Gestural interaction; Accessibility; Visual impairment; Interactive
+   maps; Non-visual interaction
+ER
+
+PT S
+DE shamanic interface; gesture-based interfaces; cultural awareness in
+   gestures; personal customization of gestures; high-order gestural
+   commands; gestural commands
+ER
+
+PT S
+DE gestures; natural user interfaces; user experience; touchscreen
+ER
+
+PT S
+DE Sketching; technique; gestural interface; interactive environment;
+   ActionSketch
+ID DESIGN
+ER
+
+PT S
+DE gestural interaction; domotics; organizational semiotics; EBNF; smart
+   home; home automation
+ER
+
+PT S
+DE user experience; mental model; think-aloud protocol
+ER
+
+PT S
+ER
+
+PT S
+DE Gesture; Tracking; Immersion; Leap; Kinect; User Interface;
+   Interactivity; Design
+ER
+
+PT S
+DE mobile devices; intuitive interfaces; emotional gestures; musical
+   behaviour; sound.-apps
+ER
+
+PT B
+DE gestural input; usability testing; heuristic evaluation; interaction
+   styles; natural language; user-centered design
+ID DESIGN
+ER
+
+PT J
+DE gestural interaction; design education; creative drama; mime
+ID ENTERTAINMENT-EDUCATION; DESIGN; IMPACT
+ER
+
+PT J
+DE 3D selection; Freehand gesture; Marking menu
+ID DESIGN; ENVIRONMENTS; MOVEMENT
+ER
+
+PT J
+DE Natural interaction; Gesture; User interfaces; Video games; Middleware
+ID RECOGNITION
+ER
+
+PT J
+DE Touches interaction; gestural interfaces; natural user interfaces
+ID HAND GESTURES; VISION
+ER
+
+PT J
+ID VIRTUAL ENVIRONMENTS; REALITY
+ER
+
+PT B
+DE Human computer interaction (HCI) [Interaction techniques]: Gestural
+   input-; Human computer interaction (HCI) [Interaction paradigms]:
+   Virtual reality-
+ER
+
+PT B
+ER
+
+PT B
+DE Gestural control; interactive performance; improvisation
+ER
+
+PT J
+DE internet of things; human-centric sensing; gestural interface; remote
+   control; wearable; gesture recognition
+ID RECOGNITION; TRACKING
+ER
+
+PT J
+ER
+
+PT B
+DE 3D Interfaces; Natural User Interfaces; Motion Capture; Kinect; Wiimote;
+   Human Computer Interaction; Empirical Evaluation
+ER
+
+PT B
+DE gestural interface; proxemic interaction; usability
+ER
+
+PT B
+DE user interfaces; interaction styles; freehand; hand pose; 3D; gesture;
+   wizard of oz; laid-back
+ER
+
+PT S
+DE Gesture commands; usage; incremental learning
+ER
+
+PT B
+DE digital image processing; Human Machine Interaction (HMI); gestures
+ER
+
+PT J
+ID RECOGNITION; SYSTEM
+ER
+
+PT B
+DE Dataflow; GPUs; operating systems; GPGPU; gestural interface;
+   accelerators
+ID PROGRAMMING LANGUAGE; DISKS
+ER
+
+PT S
+DE Multi-touch & Tangible User Interfaces; Immersive Computing; Multi-modal
+   Collaboration; Interactive Surface Interface; WIMP Interface; Graphical
+   User Interfaces (GUI); Multi-Touch Surface; Tangible Interfaces; 3D User
+   Interfaces; Wearable Computing
+ER
+
+PT S
+DE Mutual Information; Pattern Recognition; Classification; User Interface
+ER
+
+PT S
+ER
+
+PT S
+DE Immersive environment; 3D objects; interaction; visualization;
+   animation; synchronization
+ER
+
+PT S
+DE FLING framework; Multi-touch interface; multiple input peripherals;
+   application development
+ER
+
+PT S
+ER
+
+PT J
+DE CHI; TUI; Modality; Virtual assembly; Clutching
+ER
+
+PT S
+DE SAGA corpus; iconic gesture; gesture typology; partial ontology;
+   speech-gesture interface
+ER
+
+PT S
+DE gestures; user interfaces; sound design; semantics
+ID MIRROR NEURONS
+ER
+
+PT B
+DE Gesture; gestural interface; chirocentric; spatiotemporal; telekinetic;
+   video; 3D; pinch; g-speak
+ER
+
+PT J
+DE IOHMM; HCRF; HCI; Hand gesture recognition; Gesture spotting; Adaptive
+   threshold model
+ID SEGMENTATION
+ER
+
+PT B
+DE Computer-based conducting system; Drill and practice; Gestural
+   interface; Pedagogy; Visual representation
+ER
+
+PT S
+DE Gestures; Large Displays; Touch Screens; User-centered Study
+ER
+
+PT B
+DE 3D gestural interfaces; video games; music; Wii Remote
+ER
+
+PT S
+ID CONTOUR INTEGRATION; NETWORK; SYSTEM; GRAPH
+ER
+
+PT S
+DE haptic interaction; assistive technology; gestures
+ER
+
+PT J
+DE motion capture; silhouette analysis; gestural interfaces; geodesic
+   distance
+ID MOTION
+ER
+
+PT B
+DE human/computer interaction; metrics; path tortuosity; gestural joystick
+ER
+
+PT B
+DE Immersiveness; multimodality; projection display; position tracking;
+   gestural input; usability testing
+ER
+
+PT S
+DE Time; space; interactive film
+ER
+
+PT J
+DE mathematical sketching; mathematical expression recognition; gestural
+   user interface; user evaluation
+ID RECOGNITION; ANIMATION
+ER
+
+PT J
+DE Urban East Norwegian; morphological derived-environment effects;
+   phonologically conditioned allomorphy; rhotics; Articulatory Phonology;
+   Optimality Theory
+ID GRAMMAR
+ER
+
+PT J
+DE intelligent robots; interactive systems; user interfaces; user-centered
+   design
+ER
+
+PT B
+ER
+
+PT B
+DE Gestural interface; Touch-screen system; Museums; Social interaction;
+   Video Analysis; Ethnomethodology
+ER
+
+PT J
+ID SYSTEMS; INTENTIONS; LOCOMOTION; PARAMETERS; GESTURE; MODEL; ART
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT J
+DE interaction design; industrial design; gestural interaction; tangible
+   user interfaces
+ER
+
+PT J
+ER
+
+PT B
+ER
+
+PT B
+DE responsive environments; sensate space; sonification; visualisation;
+   gestural controllers
+ER
+
+PT S
+ER
+
+PT J
+DE pen-based interfaces; mathematical sketching; gestures
+ID RECOGNITION
+ER
+
+PT J
+DE Gesture; Photo album; Interaction
+ER
+
+PT J
+DE audio systems; music; signal synthesis; user interfaces
+ID ELECTRONIC MUSICAL-INSTRUMENTS; INPUT DEVICES; COMPUTERS; DESIGN
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+DE dynamic autonomy; gesture; human-robot interaction; intelligent
+   communication; intelligent systems; mixed-initiative; multimodal
+   interface; natural language; Wizard-of-Oz
+ER
+
+PT S
+ER
+
+PT J
+ID ENVIRONMENT
+ER
+
+EF

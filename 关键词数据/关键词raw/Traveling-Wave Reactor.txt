@@ -1,0 +1,517 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE Backup protection; similarity measure; traveling wave; VSC-HVDC grid
+ER
+
+PT J
+DE Correlation; directional relay; EHV/UHV transmission lines; incremental
+   quantities; protective relaying; traveling waves
+ID PROTECTION; MODELS
+ER
+
+PT J
+DE UHV transmission lines; Boundary protection; Non-unit transient based
+   protection; Ultra high speed; Backward traveling wave; Wavelet transform
+ID REAL-TIME IMPLEMENTATION; FAULT-GENERATED NOISE; WAVELET TRANSFORM; HVDC
+   LINE; SCHEME; RELAY
+ER
+
+PT J
+DE Control engineering; piezoelectric resonators; switched systems
+ID POSITION CONTROL; SPEED CONTROL
+ER
+
+PT J
+DE entropy production; traveling waves; spatiotemporal dissipative
+   structures; non-linear dynamic system; fixed-bed catalyst
+ID IRREVERSIBLE THERMODYNAMICS; VARIATIONAL-PRINCIPLES; RECIPROCAL
+   RELATIONS
+ER
+
+PT J
+DE Backward-wave oscillator (BWO); double corrugated waveguide (DCW);
+   nano-computer numerical control (CNC) milling; nuclear fusion; vacuum
+   electronics
+ID DIAMOND FILMS; WAVE
+ER
+
+PT J
+DE Travelling wave pilot protection; Rogowski coil based electronic current
+   transformer; Capacitance divided electronic voltage transformer;
+   Differential output; PSCAD/EMTDC
+ID FAULT COMPONENT CURRENT; PRINCIPLE
+ER
+
+PT J
+DE Monte Carlo; Criticality; Biases; Clustering; Traveling waves
+ID DOMINANCE RATIO; COMPUTATION
+ER
+
+PT J
+DE H-infinity; RST; Robustness; Piezoelectric motor; Motion control;
+   Stability criteria
+ID POSITION CONTROL; DRIVE SYSTEM; DESIGN; COMPENSATION
+ER
+
+PT J
+DE traveling wave solutions; epidemic model; different susceptibility;
+   different infectivity; latent period
+ID REACTION-DIFFUSION SYSTEM; BIO-REACTOR MODEL; DIFFERENTIAL
+   SUSCEPTIBILITY; INCUBATION PERIOD; ASYMPTOTIC SPEEDS; AVIAN INFLUENZA;
+   MALARIA MODEL; INFECTION; SPREAD; DYNAMICS
+ER
+
+PT J
+DE Microwave heating; Traveling waves; Heterogeneous catalysis; Endothermic
+   chemical reaction; Mathematical modeling
+ID FLUID DISPERSION COEFFICIENTS; MASS-TRANSFER; PACKED-BEDS; COMBUSTION;
+   RADIATION; PROPAGATION; MAXWELL; NUMBERS; FRONT
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT J
+DE Gray-Scott model; travelling wave; multi-peak waves; stability;
+   spreading of local disturbance
+ID MODELING QUADRATIC AUTOCATALYSIS; CHEMICAL-REACTION MODEL;
+   STEADY-STATES; DECAY; DIFFUSION; DYNAMICS; PROPAGATION; PATTERNS;
+   REACTOR
+ER
+
+PT S
+DE FCCI; FCCI barrier; Nuclear fuel; High-burnup fuel; Metallic fuel;
+   Diffusion couple; HT9; TerraPower; Traveling wave reactor;
+   Intermetallic; Decarburization
+ID SYSTEMS
+ER
+
+PT J
+ID CANDLE BURNUP; REGIME; STRATEGY; COOLANT; CORE; FUEL
+ER
+
+PT J
+DE ICRH; traveling-wave antenna; DEMO; coupling; load resilient
+ID PLASMA
+ER
+
+PT J
+DE Autocatalytic chemical systems; Microbial growth and competition;
+   Traveling wave
+ID ISOTHERMAL CHEMICAL-SYSTEM; REACTION-DIFFUSION SYSTEMS; MODELING
+   QUADRATIC AUTOCATALYSIS; BIO-REACTOR MODEL; CUBIC AUTOCATALYSIS;
+   PARABOLIC-SYSTEMS; STEADY-STATES; EQUATIONS; PROPAGATION; DYNAMICS
+ER
+
+PT J
+DE Isothermal chemical systems; microbial growth in a flow reactor;
+   traveling wave; multiple peak solutions; minimum speed; existence;
+   non-existence
+ID REACTION-DIFFUSION SYSTEMS; BIO-REACTOR MODEL; CRITICAL NONLINEARITY;
+   SELF-SIMILARITY; STEADY-STATES; DYNAMICS; DECAY; AUTOCATALYSIS;
+   PROPAGATION; ORDER
+ER
+
+PT J
+DE Non-monotone reaction diffusion systems; Traveling wave solutions;
+   Homotopy invariance; Fundamental groups; Minimum wave speed
+ID LOTKA-VOLTERRA EQUATIONS; PREDATOR-PREY SYSTEMS; EXISTENCE; MODEL;
+   CONNECTION; SPEEDS
+ER
+
+PT J
+DE Directional protection; power system protection; prototype
+   implementation; traveling wave; ultra-high-speed protection;
+   ultra-high-voltage (UHV) transmission line; wavelet transform
+ID CAPACITOR VOLTAGE TRANSFORMERS; RELAY; TRANSIENT; MODELS
+ER
+
+PT J
+DE Bioreactor development; Computational fluid dynamics; Power input; Shear
+   stress; Travelling wave
+ID ORBITALLY SHAKEN BIOREACTORS; SURFACE AERATION; OXYGEN-TRANSFER; CELLS;
+   SCALE; VISCOSITY; REACTORS; CULTURES; GROWTH; PLATES
+ER
+
+PT J
+DE Isothermal diffusion; Auto-catalytic chemical reaction; Traveling wave;
+   Existence; Minimum speed
+ID BIO-REACTOR MODEL; FRONT SOLUTIONS; AUTOCATALYSIS; PROPAGATION;
+   COMBUSTION; EQUATIONS; DYNAMICS; DECAY
+ER
+
+PT J
+DE traveling waves; fault location; transmission lines; local mean
+   decomposition; three current measurements
+ID HILBERT SPECTRUM; LINES
+ER
+
+PT J
+DE Microbial growth in a flow reactor; Isothermal chemical systems with
+   decay; Traveling wave; Existence; Non-existence
+ID BIO-REACTOR MODEL; CRITICAL NONLINEARITY; CUBIC AUTOCATALYSIS;
+   SELF-SIMILARITY; STEADY-STATES; DYNAMICS; PROPAGATION
+ER
+
+PT B
+DE directional protection; power system protection; travelling wave; UHV
+   transmission fine; ultra-high-speed protection
+ID TRANSMISSION-LINES
+ER
+
+PT B
+DE Fault Location; Transmission Lines; Wavelet Transform; Neural Network
+ER
+
+PT S
+ER
+
+PT J
+DE travelling waves; geometric singular perturbation theory; bifurcations;
+   reaction-diffusion systems
+ID SINGULAR PERTURBATION-THEORY; REACTION-DIFFUSION SYSTEM; STIRRED TANK
+   REACTOR; AUTOCATALYTIC REACTIONS; PATTERN-FORMATION; EQUATIONS; FRONTS;
+   INSTABILITIES; COMPETITION
+ER
+
+PT J
+ID PROTECTION SCHEME; HVDC SYSTEMS; PARAMETERS
+ER
+
+PT J
+DE Glycolytic reaction; Reaction-diffusion models; Traveling waves;
+   Kinematic waves; Computer simulation
+ID WAVES; OSCILLATIONS
+ER
+
+PT J
+DE MCNPX; Traveling wave reactor; Flux profile
+ID CANDLE BURNUP; FISSION WAVE; STARTUP
+ER
+
+PT J
+DE stepwise radial fuel shuffling; traveling wave reactor; asymptotic
+   state; numerical study
+ER
+
+PT J
+DE TWR; CANDLE strategy; CANDLE strategy application; Axial fuel shuffling;
+   Radial fuel shuffling
+ID COOLED FAST-REACTOR; BURN-UP WAVES; CRITICALITY WAVES; DESIGN; REGIME
+ER
+
+PT J
+ID DIGITAL IMAGE-ANALYSIS; TRAVELING-WAVE SOLUTIONS; PARTICLE FLOWS;
+   MESOSCALE STRUCTURES; 2-FLUID MODELS; SIMULATION; DYNAMICS;
+   HYDRODYNAMICS; REACTORS; RISER
+ER
+
+PT B
+DE TWR; Wave reactor; Optimization; SERPENT Monte Carlo code
+ER
+
+PT B
+ER
+
+PT B
+DE Traveling Wave Reactor; Ignition Stage; Multizone Design
+ER
+
+PT B
+ER
+
+PT J
+DE distribution systems; fault location; non-effectively grounding;
+   traveling wave
+ID DISTRIBUTION NETWORKS; TRANSFORM; SIGNALS
+ER
+
+PT J
+DE a-Si:H thin films; mu c-SiH thin films; electromagnetic effect;
+   plasma-enhanced chemical vapor deposition (PECVD); standing wave effect
+ID STANDING-WAVE; SHAPED ELECTRODE; DEPOSITION; REACTOR; SI
+ER
+
+PT J
+ID SIMULATION; CONVERTER; REACTOR
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE Traveling wave solutions; R-D equations; singular perturbation; strong
+   generic delay kernels; nonlocal effect
+ID FUNCTIONAL-DIFFERENTIAL EQUATIONS; NICHOLSONS BLOWFLIES EQUATION;
+   VECTOR-DISEASE MODEL; DIFFUSION; FRONTS; EXISTENCE; SYSTEMS
+ER
+
+PT B
+DE Ultrasonic motor; microcontroller; frequency and voltage amplitude
+   control
+ID SPEED CONTROL; MOTOR DRIVE
+ER
+
+PT S
+DE PWM Dead Band Protection; Temperature Drift; Reversing Pulse Width
+   Adjustment
+ER
+
+PT J
+DE Traveling waves; SIR model; Schauder fixed point theorem; Laplace
+   transform
+ID DETERMINISTIC EPIDEMIC WAVES; LOTKA-VOLTERRA EQUATIONS; BIO-REACTOR
+   MODEL; SPATIAL SPREAD; INTEGRAL-EQUATIONS; ASYMPTOTIC SPEED; INFECTION;
+   POPULATION; EXISTENCE; DYNAMICS
+ER
+
+PT J
+DE Amplitude integral; busbar protection; extra high speed; fault;
+   traveling wave
+ER
+
+PT J
+DE Bio-reactor model; Traveling wave solutions; Stage-structure; Fixed
+   point theorem
+ID EPIDEMIC MODEL; DIFFUSION; CHEMOSTAT; SPREAD; RABIES
+ER
+
+PT S
+DE Spent nuclear fuel; TWR; McCARD
+ER
+
+PT J
+ER
+
+PT J
+ID D-HE-3 FUSION; SIMULATION; REACTOR
+ER
+
+PT J
+ID REACTOR; WAVES
+ER
+
+PT J
+DE Force feedback; real-time control; haptic display; ultrasonic motor
+ER
+
+PT J
+DE traveling wave reactor; nuclear burning wave; nuclear fuel; neutron
+   concentration
+ID COOLANT; REGIME
+ER
+
+PT J
+DE Isothermal autocatalytic chemical reaction; traveling waves;
+   reaction-diffusion systems; centre manifold
+ID REACTION-DIFFUSION SYSTEMS; CUBIC AUTOCATALYSIS; EPIDEMIC MODEL; RATES
+ER
+
+PT J
+ER
+
+PT J
+DE Persistence; Traveling wave; Singular perturbation; Center manifold
+   theorem; Nonlocal delays; Bio-reactor model
+ID NICHOLSONS BLOWFLIES EQUATION; REACTION-DIFFUSION EQUATIONS;
+   VECTOR-DISEASE MODEL; DIFFERENTIAL-EQUATIONS; SPATIOTEMPORAL DELAYS;
+   POPULATION-MODEL; FRONTS; COMPETITION; EXISTENCE; GROWTH
+ER
+
+PT J
+ER
+
+PT J
+DE Cables; Earthing; Electromotive force; Lightning; Travelling waves; Wind
+   turbine
+ID GROUNDING SYSTEM; PROTECTION; ISSUES
+ER
+
+PT S
+DE Fuzzy; Modeling; Ultrasonic Motor; Generalized Predictive Control
+ID ROTARY
+ER
+
+PT B
+DE electric power system; potential transformers; transient travelling
+   waves; travelling waves transform characteristic
+ER
+
+PT J
+DE Microbial flow reactor; reaction-diffusion equations; traveling waves;
+   shooting method; continuation argument
+ER
+
+PT J
+DE Acoustic motors; motor drives; position control; rotating machine
+   stability
+ER
+
+PT J
+ER
+
+PT J
+DE Frequency response analysis; multiconductor transmission lines; transfer
+   functions; transformer windings
+ID PARAMETER-IDENTIFICATION; MUTUAL IMPEDANCES; FAST TRANSIENTS; FRA;
+   MOVEMENT; SELF
+ER
+
+PT S
+ID ALLOSTERIC ENZYME MODEL; OSCILLATIONS; YEAST; DYNAMICS; PATTERNS
+ER
+
+PT J
+DE traveling wave ultrasonic motor; generalized regression neural network
+ID SPEED CONTROL; FREQUENCY; PHASE
+ER
+
+PT J
+DE Traveling waves; reaction-diffusion systems; centre manifold
+ID ISOTHERMAL CHEMICAL-SYSTEM; CUBIC AUTOCATALYSIS; EPIDEMIC MODEL; RATES;
+   PROPAGATION; DECAY
+ER
+
+PT J
+DE Direct energy conversion; Advanced fusion; TWDEC
+ID SIMULATION; REACTOR
+ER
+
+PT J
+DE reciprocal traveling wave pulse; direct-grounding; high-speed
+   repetition; NO removal; space charge effect
+ID CORONA; REMOVAL; REACTOR; GAS
+ER
+
+PT S
+DE Transmission line; Nature frequencies; High frequency signals; Traveling
+   wave; Lumped parameter model; Distributed parameter model; Spectrum
+ID WAVE DISTANCE PROTECTION; RELAY
+ER
+
+PT B
+DE converter; wavelet; distance protection; PSCAD; simulation; travelling
+   wave; UHVDC
+ER
+
+PT J
+ID IDENTIFICATION; DRIVE
+ER
+
+PT J
+DE modeling; speed control; traveling-wave; ultrasonic motor
+ID MODULATION; CONTACT; STATOR
+ER
+
+PT J
+ER
+
+PT J
+DE travelling wave; reaction diffusion equations; singular perturbation;
+   center manifold theorem; heteroclinic orbit
+ID FUNCTIONAL-DIFFERENTIAL EQUATIONS; GLOBAL ASYMPTOTIC STABILITY; FRONTS;
+   POPULATION; EXISTENCE
+ER
+
+PT B
+DE ATP simulation; dispersion characteristic; fault frequency band; fault
+   location; location precision; power grid; propagation velocity;
+   traveling wave; wavelet analysis; wavelet energy spectrum
+ER
+
+PT S
+ER
+
+PT B
+DE transformer winding; frequency response analysis; transfer function;
+   deformation detection
+ER
+
+PT J
+DE direct energy conversion; advanced fusion; TWDEC
+ER
+
+PT J
+DE reaction-diffusion equations; microbial growth in flow reactor;
+   traveling wave solutions; uniqueness
+ID GROWTH; MODEL
+ER
+
+PT J
+DE microbial flow reactor model; reaction-diffusion equations; unstable
+   manifold; weakly coupled traveling waves
+ER
+
+PT S
+ER
+
+PT B
+ID STRAY CAPACITANCES
+ER
+
+PT J
+DE bio-reactor model; traveling waves; heteroclinic orbit; singular
+   perturbation theory; center manifold theorem
+ID GROWTH
+ER
+
+PT J
+DE actuator; causal modeling; haptic; phase control; piezoelectric;
+   traveling wave; ultrasonic
+ER
+
+PT J
+DE propagation failure; nonlinear lattice
+ID BISTABLE CHEMICAL REACTORS; REACTION-DIFFUSION-SYSTEMS; TRANSMISSION
+   LINE; COUPLED SYSTEMS; CELLS; NEURISTOR; ELEMENTS; EQUATION; ARRAYS;
+   WAVES
+ER
+
+PT B
+DE fault location; traveling-wave; sensor
+ER
+
+PT J
+DE repetitive high-voltage pulse; reciprocal traveling wave; direct
+   grounding; streamer discharge; NOx decomposition
+ID REMOVAL; NOX
+ER
+
+PT J
+ID FUSION
+ER
+
+PT J
+ID REACTOR
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT J
+ID PERMANENT MAGNETIC-FIELD; SUPERCONDUCTING TOKAMAK; CURRENT DRIVE;
+   TORE-SUPRA; ARRAY; STARTUP
+ER
+
+PT J
+ER
+
+PT J
+DE traveling wave direct energy conversion; D-He-3 fusion; 14.7 MeV proton;
+   reclamation of kinetic energy; high energy particle beam
+ER
+
+PT J
+ER
+
+EF

@@ -1,0 +1,226 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,nanogenerator,30,nanogenerator,97
+1,triboelectric nanogenerator,25,triboelectric nanogenerator,56
+2,energy harvesting,14,energy harvesting,36
+3,hybrid nanogenerator,10,hybrid nanogenerator,27
+4,self-powered,8,triboelectric,22
+5,piezoelectric nanogenerator,8,self-powered,21
+6,triboelectric,8,piezoelectric nanogenerator,19
+7,piezoelectricity,6,piezoelectricity,19
+8,hybrid,6,electromagnetic,15
+9,zno nanowires,5,piezoelectric,15
+10,hybridized nanogenerator,5,hybrid,14
+11,electromagnetic,5,zno nanowires,14
+12,piezoelectric,5,zno,13
+13,electromagnetic generator,4,hybridized nanogenerator,12
+14,contact electrification,4,vibration,10
+15,zno,4,hybridized,10
+16,triboelectricity,3,flexible,10
+17,vibration,3,triboelectricity,9
+18,hybridized,3,contact electrification,9
+19,flexible,3,three-phase,9
+20,mechanical energy harvesting,3,piezoelectric materials,9
+21,triboelectric nanogenerator (teng),2,nano,9
+22,energy,2,generators,9
+23,graphene quantum dots,2,power,9
+24,triboelectric nanogenerators,2,electromagnetic generator,8
+25,energy scavenging,2,energy scavenging,7
+26,nanogenerators,2,nanowires,7
+27,piezoelectric effect,2,lead-free,7
+28,transparent,2,output,7
+29,pvdf,2,piezoelectric nanowire,7
+30,electrospinning,2,mechanical energy harvesting,7
+31,nanocomposite,2,zno nanowire,7
+32,nanowires,2,znsno3,7
+33,lead-free,2,energy,6
+34,output,2,piezoelectric effect,6
+35,ag nanowires,2,transparent,6
+36,piezoelectric nanowire,2,electrospinning,6
+37,zno nanorod,2,wearable,6
+38,optimization,2,triboelectric effect,6
+39,wearable,2,graphene,6
+40,triboelectric effect,2,triboelectric nanogenerator (teng),5
+41,graphene,2,graphene quantum dots,5
+42,zno nanowire,2,nanogenerators,5
+43,znsno3,2,pvdf,5
+44,three-phase,2,nanocomposite,5
+45,piezoelectric materials,2,ag nanowires,5
+46,nano,2,zno nanorod,5
+47,generators,2,optimization,5
+48,power,2,piezoelectret,4
+49,air breakdown,1,pressure sensor,4
+50,charge density,1,active sensor,4
+51,electret,1,large,4
+52,wearable electronics,1,triboelectric nanogenerators,4
+53,biodevices,1,knbo3,4
+54,self-charging power,1,copper foil,4
+55,bionic micro,1,sensing voltage,4
+56,starch,1,bifeo3,4
+57,sensor,1,composites,4
+58,ambient environment harvester,1,broad frequency band,4
+59,thermal energy,1,blue energy,4
+60,self-powered system,1,teng,4
+61,micro/nano,1,emg,4
+62,cellulose,1,hybrid cell,4
+63,silver nanowire,1,supercapacitor,4
+64,polyvinylidene fluoride,1,high,4
+65,barium,1,electronic,4
+66,piezoelectret,1,fiber,4
+67,pressure sensor,1,fabric,4
+68,active sensor,1,strechable,4
+69,large,1,wearable device,4
+70,powder,1,environmental effect,4
+71,silica,1,temperature,4
+72,sand,1,humidity,4
+73,self-powered technology,1,adsorption,4
+74,knowledge profile,1,thermopoling,4
+75,knowledge,1,pvdf-trfe,4
+76,finite element model,1,pzt,4
+77,diphenylalanine,1,hetero-junction,4
+78,peptide,1,1st-principles,4
+79,electromagnetic generators,1,zn2sno4,4
+80,self-powered sensor,1,batio3,4
+81,pressure sensing,1,thin film,4
+82,electrokinetic,1,flexible electronics,4
+83,porous carbon films,1,air breakdown,3
+84,thermal-electric,1,charge density,3
+85,pyroelectric,1,electret,3
+86,dye-sensitized solar cells,1,wearable electronics,3
+87,hybrid energy system,1,biodevices,3
+88,self-powered devices,1,starch,3
+89,barium titanate,1,sensor,3
+90,multieffects,1,cellulose,3
+91,pyramid si,1,silver nanowire,3
+92,voltage,1,polyvinylidene fluoride,3
+93,generated power and temperature,1,barium,3
+94,stretchable,1,powder,3
+95,piezoelectric nanocomposite,1,silica,3
+96,natural design,1,sand,3
+97,low-frequency energy,1,self-powered technology,3
+98,moisture-triggered nanogenerator,1,knowledge profile,3
+99,electrochemical,1,knowledge,3
+100,self-powered wearable active sensor,1,finite element model,3
+101,spongy,1,diphenylalanine,3
+102,piezoelectric nanogenerator (peng),1,peptide,3
+103,2d material,1,electrokinetic,3
+104,magnetically levitated generator,1,porous carbon films,3
+105,barium titanate (batio3),1,thermal-electric,3
+106,flexible nanogenerator,1,barium titanate,3
+107,knbo3,1,multieffects,3
+108,copper foil,1,pyramid si,3
+109,sensing voltage,1,stretchable,3
+110,electrospun pvdf,1,piezoelectric nanocomposite,3
+111,licl nanogenerator,1,spongy,3
+112,finite element method,1,2d material,3
+113,biodegradable,1,electrospun pvdf,3
+114,electret nanogenerators,1,licl nanogenerator,3
+115,paper-based,1,finite element method,3
+116,blue energy harvester,1,biodegradable,3
+117,rolling triboelectric nanogenerator,1,electret nanogenerators,3
+118,friction heat,1,paper-based,3
+119,self-powering,1,friction heat,3
+120,bifeo3,1,self-powering,3
+121,composites,1,lead zirconate titanate,3
+122,wettability,1,polymer,3
+123,lead zirconate titanate,1,thermoelectric,3
+124,polymer,1,wireless transmission,3
+125,thermoelectric,1,vibration energy,3
+126,wireless transmission,1,solar cells,3
+127,vibration energy,1,smart city,3
+128,broad frequency band,1,heterojunction,3
+129,blue energy,1,direct current,3
+130,teng,1,li-ion battery,3
+131,emg,1,zno nanogenerator,3
+132,solar cells,1,hybrid film,3
+133,smart city,1,bati(1-x)zrxo3,3
+134,hybridized electromagnetic-triboelectric nanogenerator,1,pvdf-cnt composite,3
+135,chemical vapor deposition (cvd) grown graphene,1,biomechanical energy,3
+136,flexibility,1,walking,3
+137,optical,1,single fiber,3
+138,conductive fabric,1,piezoelectric nano generator,3
+139,stretchable nanogenerator,1,self-alignment,3
+140,conjunction operation,1,carbon-fiber/zno-znse,3
+141,hybrid cell,1,high-output current,3
+142,supercapacitor,1,piezoelectric potential,3
+143,high,1,schottkey contact,3
+144,heterojunction,1,ph sensor,3
+145,direct current,1,self-powered device,3
+146,electronic,1,kapton,3
+147,li-ion battery,1,si,3
+148,anodized aluminum,1,vibration sensor,3
+149,fiber,1,harmonic,3
+150,fabric,1,power generation,3
+151,strechable,1,stacked,3
+152,wearable device,1,spring,3
+153,zno nanogenerator,1,carbon nanotubes,3
+154,hybrid film,1,batio3 nanowire,3
+155,bati(1-x)zrxo3,1,hydrothermal synthesis,3
+156,environmental effect,1,piezoelectric generation,3
+157,temperature,1,nanowire,3
+158,humidity,1,zno micro/nanowires,3
+159,adsorption,1,pzt nanowires,3
+160,hybrid energy cells,1,functional electrical stimulation,3
+161,pvdf-cnt composite,1,microbelts,3
+162,piezoelectric composite fiber,1,self-charging power,2
+163,fabric nariogenerator,1,bionic micro,2
+164,mechanical energy,1,ambient environment harvester,2
+165,biomechanical,1,thermal energy,2
+166,biomechanical energy,1,self-powered system,2
+167,walking,1,micro/nano,2
+168,single fiber,1,electromagnetic generators,2
+169,piezoelectric nano generator,1,self-powered sensor,2
+170,self-alignment,1,pressure sensing,2
+171,carbon-fiber/zno-znse,1,pyroelectric,2
+172,high-output current,1,dye-sensitized solar cells,2
+173,piezoelectric potential,1,hybrid energy system,2
+174,schottkey contact,1,self-powered devices,2
+175,electrostatic,1,voltage,2
+176,aqueous chemical growth method,1,generated power and temperature,2
+177,zinc oxide nanowires,1,natural design,2
+178,flexible sandwich,1,low-frequency energy,2
+179,implantable medical electronic device,1,moisture-triggered nanogenerator,2
+180,wearable medical electronic,1,electrochemical,2
+181,equivalent,1,self-powered wearable active sensor,2
+182,ph sensor,1,piezoelectric nanogenerator (peng),2
+183,self-powered device,1,barium titanate (batio3),2
+184,thermopoling,1,flexible nanogenerator,2
+185,pvdf-trfe,1,blue energy harvester,2
+186,power-transformed-and-managed,1,rolling triboelectric nanogenerator,2
+187,acoustic energy harvesting,1,wettability,2
+188,grapheme oxide film,1,chemical vapor deposition (cvd) grown graphene,2
+189,zno nanoparticles,1,flexibility,2
+190,knn-lts nanopowder,1,optical,2
+191,self-powerd system,1,conductive fabric,2
+192,polyamide,1,stretchable nanogenerator,2
+193,kapton,1,conjunction operation,2
+194,si,1,anodized aluminum,2
+195,sustainable chemistry,1,hybrid energy cells,2
+196,nanosensor,1,piezoelectric composite fiber,2
+197,vibration sensor,1,fabric nariogenerator,2
+198,harmonic,1,mechanical energy,2
+199,power generation,1,biomechanical,2
+200,stacked,1,electrostatic,2
+201,spring,1,aqueous chemical growth method,2
+202,carbon nanotubes,1,zinc oxide nanowires,2
+203,batio3 nanowire,1,flexible sandwich,2
+204,piezoelectric nanogenerator model,1,equivalent,2
+205,conical nanowire,1,power-transformed-and-managed,2
+206,open circuit output,1,acoustic energy harvesting,2
+207,pzt,1,grapheme oxide film,2
+208,hetero-junction,1,zno nanoparticles,2
+209,hydrothermal synthesis,1,knn-lts nanopowder,2
+210,piezoelectric generation,1,self-powerd system,2
+211,zno nanogenerator fabrication improvement,1,polyamide,2
+212,top electrode,1,sustainable chemistry,2
+213,sputtering,1,nanosensor,2
+214,nanowire,1,piezoelectric nanogenerator model,2
+215,zno micro/nanowires,1,conical nanowire,2
+216,pzt nanowires,1,open circuit output,2
+217,functional electrical stimulation,1,zno nanogenerator fabrication improvement,2
+218,microbelts,1,top electrode,2
+219,1st-principles,1,sputtering,2
+220,zn2sno4,1,nitrogen-doped diamond,2
+221,nitrogen-doped diamond,1,magnetically levitated generator,1
+222,batio3,1,hybridized electromagnetic-triboelectric nanogenerator,1
+223,thin film,1,implantable medical electronic device,1
+224,flexible electronics,1,wearable medical electronic,1

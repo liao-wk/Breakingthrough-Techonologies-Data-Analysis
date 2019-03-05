@@ -1,0 +1,441 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,spinal cord injury,15,spinal cord injury,43
+1,spinal cord,11,spinal cord,40
+2,locomotion,8,locomotion,28
+3,arrays,8,epidural stimulation,20
+4,epidural stimulation,8,electrodes,17
+5,array,7,neural,15
+6,neural,5,bioelectronics,12
+7,electrodes,5,arrays,12
+8,flexible electronics,4,flexible electronics,11
+9,bioelectronics,4,electrode,11
+10,electrical stimulation,4,elasticity,11
+11,neural recording,3,neural recording,10
+12,peripheral nerve,3,functional,10
+13,stretchable electronics,3,peripheral nerve,9
+14,spinal cord stimulation,3,ecog,9
+15,neural prostheses,3,cns,9
+16,intraspinal microstimulation,3,stretchable electronics,9
+17,neuroprosthetics,3,spinal cord stimulation,9
+18,functional electrical stimulation,3,neural prostheses,9
+19,functional,3,neuroprosthetics,9
+20,human,3,electrical stimulation,9
+21,electrode,3,animal models,8
+22,elasticity,3,array,8
+23,stretchable,2,3d,8
+24,scaffolds,2,neuromodulation,8
+25,axonal regeneration,2,functional electrical stimulation,8
+26,silicon,2,human,8
+27,cpg,2,stiffness,8
+28,animal models,2,hippocampus,8
+29,ecog,2,silicon,7
+30,cns,2,cpg,7
+31,neural stimulation,2,tissue engineering,7
+32,flexible devices,2,mechanical properties,7
+33,liquid metal,2,drug delivery,7
+34,hydrogel,2,conducting polymers,7
+35,spinal,2,decoding,7
+36,brain-computer interface,2,carbon nanotubes,7
+37,tissue engineering,2,motor cortex,7
+38,mechanical properties,2,brain,7
+39,drug delivery,2,biomechanics,7
+40,rehabilitation,2,stretchable,6
+41,neurorehabilitation,2,flexible devices,6
+42,3d,2,liquid metal,6
+43,conducting polymers,2,hydrogel,6
+44,rheology,2,intraspinal microstimulation,6
+45,decoding,2,soft materials,6
+46,soft materials,2,bioinformatics,6
+47,carbon nanotubes,2,muscle,6
+48,bioinformatics,2,fpga,6
+49,neuromodulation,2,silicon neuron,6
+50,muscle,2,motor control,6
+51,fpga,2,posture,6
+52,silicon neuron,2,afm,5
+53,computational model,2,mri,5
+54,motor cortex,2,nanomechanics,5
+55,motor control,2,reduced graphene oxide,5
+56,brain,2,scaffold,5
+57,stiffness,2,scaffolds,5
+58,constitutive modeling,2,axonal regeneration,5
+59,posture,2,sci,5
+60,hippocampus,2,nonhuman primates,5
+61,biomechanics,2,ssep,5
+62,nerve regeneration,1,mep,5
+63,evaluation method,1,spinal,5
+64,neurological deficiency,1,rehabilitation,5
+65,wearable glucose sensor system,1,neurorehabilitation,5
+66,single-wall carbon nanotubes,1,rheology,5
+67,glucose,1,migration,5
+68,e-skins,1,mechanotaxis,5
+69,kirigami,1,foreign body reaction,5
+70,soft robotics,1,random walk,5
+71,cellular substrate,1,lps,5
+72,finite deformation,1,gliosis,5
+73,negative poisson's ratios,1,implant,5
+74,afm,1,fbr,5
+75,mri,1,astrocyte,5
+76,nanomechanics,1,microglia,5
+77,reduced graphene oxide,1,grasping,5
+78,scaffold,1,self-paced,5
+79,tubulin isotype,1,classification,5
+80,electrical impedance tomography,1,bci,5
+81,motor coordination,1,bmi,5
+82,nb-3,1,constitutive modeling,5
+83,serotonergic raphespinal,1,e-skins,4
+84,auditory brainstem implant (abi),1,kirigami,4
+85,history,1,soft robotics,4
+86,cochlear implant,1,biosensor,4
+87,biosensor,1,cortisol,4
+88,cortisol,1,electrophysiology,4
+89,electrophysiology,1,bioimplant,4
+90,bioimplant,1,stress,4
+91,stress,1,cardiac,4
+92,cardiac,1,nanowire,4
+93,nanowire,1,modulation,4
+94,modulation,1,optical,4
+95,optical,1,snake robot,4
+96,snake robot,1,biomimetic,4
+97,biomimetic,1,spiking neural network,4
+98,spiking neural network,1,glassy carbon,4
+99,sci,1,pyrolysis,4
+100,nonhuman primates,1,neural implants,4
+101,ssep,1,conformability,4
+102,mep,1,long-term neural implant,4
+103,electrically evoked spinal motor potentials,1,pns,4
+104,epidural electrical,1,immune,4
+105,electrophysiological assessment,1,egain,4
+106,transcutaneous electrical spinal cord,1,silver inks,4
+107,glassy carbon,1,hydroprinted electronics,4
+108,pyrolysis,1,anisotropic,4
+109,neural implants,1,rodent,4
+110,conformability,1,primate,4
+111,implantable neural probes,1,behavior,4
+112,brain-machine interface,1,corticostriatal plasticity,4
+113,multi-channel,1,nmda,4
+114,microelectrode arrays,1,brain-computer interface,4
+115,neural stem cell,1,photoreceptors,4
+116,treadmill training,1,retinas,4
+117,insulin-like,1,stem cells,4
+118,long-term neural implant,1,elastomer,4
+119,pns,1,composite,4
+120,immune,1,network,4
+121,neural depth probes,1,polymer,4
+122,poly vinyl alcohol (pva),1,upper-limb,4
+123,color filters,1,extreme learning machines,4
+124,interferences,1,emg,4
+125,stretchable devices,1,reliability,4
+126,egain,1,iee,4
+127,silver inks,1,animal model,4
+128,hydroprinted electronics,1,plasticity,4
+129,anisotropic,1,recovery,4
+130,soft conductive hydrogel microelectrode,1,rehabilitative training,4
+131,electrophysiological recording,1,pillar electrodes,4
+132,modeling by a reaction method,1,cardiomyocytes,4
+133,none-equilibrium molecular,1,drug screening,4
+134,regenerated silk fibroin,1,local field,4
+135,conductive biopolymer,1,neural interfaces,4
+136,in situ chemical,1,hydrogels,4
+137,electrode array,1,molecular sutures,4
+138,conformable,1,stitching polymers,4
+139,soft electrodes,1,tissues,4
+140,bacterial cellulose,1,topological,4
+141,spike detection,1,subdural,4
+142,neural signals,1,computer,4
+143,upper limb prosthetics,1,force,4
+144,rodent,1,fatigue,4
+145,primate,1,optogenetics,4
+146,behavior,1,neural interface,4
+147,corticostriatal plasticity,1,optic fiber,4
+148,nmda,1,peripheral,4
+149,biomedical electrodes,1,autonomic,4
+150,micro electrodes,1,cardiovascular,4
+151,neural engineering,1,neurological injury,4
+152,surgical,1,swine,4
+153,functional liquid metal,1,computational model,4
+154,hybrid flexible electronics,1,kinematics,4
+155,ni-gain amalgam,1,muscle synergies,4
+156,conductive polymers,1,neural ensemble,4
+157,cyborganics,1,robotics,4
+158,flexible bioelectronics,1,balance,4
+159,fan-out wafer-level packaging (fowlp),1,bipedal locomotion,4
+160,flexible hybrid electronics,1,rat,4
+161,intrathecal delivery,1,sensorimotor cortex,4
+162,spinal canal,1,impedance,4
+163,charge balancing,1,magnetic insertion,4
+164,neural stimulator,1,tissue,4
+165,proportional-integral (pi),1,gray matter,4
+166,nanostructured materials,1,white matter,4
+167,patch clamp,1,indentation,4
+168,cholesterol,1,viscoelasticity,4
+169,synaptic release,1,biomaterials,4
+170,functional electrical,1,graphene,4
+171,electroencephalography,1,nanowires,4
+172,blind source,1,stretchable circuits,4
+173,photoreceptors,1,thermoplastic circuits,4
+174,retinas,1,2.5d,4
+175,stem cells,1,thermoforming,4
+176,elastomer,1,alginate,4
+177,composite,1,electroactive polymer,4
+178,network,1,growth factor,4
+179,polymer,1,interface,4
+180,polymer mechanochemistry,1,mems,4
+181,neurons,1,motoneuron,4
+182,upper-limb,1,corticospinal,4
+183,extreme learning machines,1,reticulospinal,4
+184,emg,1,tract,4
+185,reliability,1,brain tissue,4
+186,iee,1,heterogeneity,4
+187,bioelectrodes,1,mechanical,4
+188,galinstan,1,viscosity,4
+189,liquid metals,1,retina,4
+190,magnetoactive fluids,1,motor coordination,3
+191,biosensors,1,nb-3,3
+192,flexible implants,1,serotonergic raphespinal,3
+193,implantable devices,1,neural stem cell,3
+194,medical electronics,1,treadmill training,3
+195,brain-computer interface (bci),1,insulin-like,3
+196,electroencephalography (eeg),1,neural stimulation,3
+197,mechanoresponsive materials,1,color filters,3
+198,soft,1,interferences,3
+199,animal model,1,stretchable devices,3
+200,plasticity,1,electrode array,3
+201,recovery,1,conformable,3
+202,rehabilitative training,1,soft electrodes,3
+203,imaging,1,bacterial cellulose,3
+204,regeneration & plasticity,1,biomedical electrodes,3
+205,films,1,micro electrodes,3
+206,in-vitro,1,neural engineering,3
+207,foil,1,surgical,3
+208,electronics,1,intrathecal delivery,3
+209,pdms modification,1,spinal canal,3
+210,microfluidic,1,nanostructured materials,3
+211,self-healing,1,patch clamp,3
+212,neuroplasticity,1,cholesterol,3
+213,brain stimulation,1,synaptic release,3
+214,precision,1,bioelectrodes,3
+215,brain machine interface,1,galinstan,3
+216,neurorobotics,1,liquid metals,3
+217,tilt perturbation,1,magnetoactive fluids,3
+218,neurotrophin-3,1,biosensors,3
+219,controlled artificial release system,1,flexible implants,3
+220,inflammation,1,implantable devices,3
+221,motor primitive,1,medical electronics,3
+222,movement block,1,mechanoresponsive materials,3
+223,movement,1,soft,3
+224,shape memory polymers,1,films,3
+225,pillar electrodes,1,in-vitro,3
+226,cardiomyocytes,1,foil,3
+227,drug screening,1,electronics,3
+228,local field,1,pdms modification,3
+229,neural interfaces,1,microfluidic,3
+230,computer interfaces,1,self-healing,3
+231,advanced fibers,1,neuroplasticity,3
+232,thermal drawing,1,brain stimulation,3
+233,amyotrophic lateral sclerosis,1,precision,3
+234,communication,1,brain machine interface,3
+235,hyperbaric oxygen,1,neurorobotics,3
+236,glycogen synthase kinase-3 beta,1,tilt perturbation,3
+237,chondroitinase abc,1,motor primitive,3
+238,inner speech,1,movement block,3
+239,electrocorticography,1,movement,3
+240,hydrogels,1,shape memory polymers,3
+241,molecular sutures,1,computer interfaces,3
+242,stitching polymers,1,advanced fibers,3
+243,tissues,1,thermal drawing,3
+244,topological,1,inner speech,3
+245,bioinspired imaging systems,1,electrocorticography,3
+246,cerebral-cortex,1,cerebral-cortex,3
+247,non-contact characterization,1,3d printing,3
+248,contactless,1,ecology,3
+249,noncontact sensing,1,environmental monitoring,3
+250,3d printing,1,anaesthesia,3
+251,ecology,1,bionic vision,3
+252,environmental monitoring,1,retinal prosthesis,3
+253,anaesthesia,1,microelectromechanical systems,3
+254,bionic vision,1,photonics,3
+255,retinal prosthesis,1,omentum,3
+256,axonal collaterals,1,omentomyelopexy,3
+257,brain-spinal interface,1,angiogenesis,3
+258,closed-loop neuromodulation,1,biomimetic neural network,3
+259,closed-loop,1,hodgkin-huxley,3
+260,subdural,1,neurological diseases,3
+261,computer,1,stimulation,3
+262,force,1,state dependence,3
+263,fatigue,1,brain-machine interfaces,3
+264,microelectromechanical systems,1,neural coding,3
+265,photonics,1,polymeric scaffolds,3
+266,transcranial magnetic stimulation,1,tissue remodeling,3
+267,omentum,1,intra-neural electrode,3
+268,omentomyelopexy,1,selectivity,3
+269,angiogenesis,1,stability,3
+270,biomimetic neural network,1,biocompatibility,3
+271,hodgkin-huxley,1,neuromechanical simulation,3
+272,neurological diseases,1,human locomotion,3
+273,optogenetics,1,spinal control,3
+274,neural interface,1,modele,3
+275,optic fiber,1,axon growth,3
+276,peripheral,1,neuronal regeneration,3
+277,autonomic,1,intrinsic growth,3
+278,cardiovascular,1,mouse models,3
+279,neurological injury,1,gait,3
+280,stimulation,1,non-human primate,3
+281,swine,1,big-data,3
+282,state dependence,1,ageing,3
+283,brain-machine interfaces,1,alpha-synuclein,3
+284,neural coding,1,adeno-associated viral vector,3
+285,spinal motor learning,1,repetitive nerve stimulation,3
+286,polymeric scaffolds,1,rhythm generation,3
+287,tissue remodeling,1,therapy,3
+288,intra-neural electrode,1,physiotherapy,3
+289,selectivity,1,electric stimulation,3
+290,stability,1,spinal cord injuries,3
+291,biocompatibility,1,implanted electrodes,3
+292,neuromechanical simulation,1,tissue-response,3
+293,human locomotion,1,atomic force microscopy,3
+294,spinal control,1,neuron,3
+295,modele,1,cell mechanics,3
+296,lower limb exoskeleton,1,atomic force microscopy (afm),3
+297,rehabilitation robotics,1,central nervous,3
+298,soft pneumatic,1,rheological properties,3
+299,electrical peripheral nerve stimulation,1,charge-injection,3
+300,finite,1,microelectrodes,3
+301,discomplete and incomplete spinal cord injury,1,electrochemistry,3
+302,interneuron network,1,moment arm,3
+303,axon growth,1,joint center,3
+304,neuronal regeneration,1,spinal reflexes,3
+305,intrinsic growth,1,rats,3
+306,mouse models,1,interneurons,3
+307,kinematics,1,transcription factors,3
+308,muscle synergies,1,molecular genetic,3
+309,neural ensemble,1,sprague-dawley rats,3
+310,gait,1,organ weight,3
+311,brain-computer interfaces,1,body weight,3
+312,scanning electron,1,brain weight,3
+313,robotics,1,computer modeling,3
+314,balance,1,recruitment order,3
+315,motor complete paralysis,1,neuroprosthetic,3
+316,neuronal network,1,silicon microelectrode,3
+317,transcutaneous spinal cord,1,compound,3
+318,bipedal locomotion,1,central pattern generator,3
+319,rat,1,stenosis,3
+320,sensorimotor cortex,1,nerve regeneration,2
+321,migration,1,evaluation method,2
+322,mechanotaxis,1,neurological deficiency,2
+323,foreign body reaction,1,wearable glucose sensor system,2
+324,random walk,1,single-wall carbon nanotubes,2
+325,lps,1,glucose,2
+326,non-human primate,1,cellular substrate,2
+327,big-data,1,finite deformation,2
+328,neuroprosthetic technologies,1,negative poisson's ratios,2
+329,ageing,1,electrical impedance tomography,2
+330,alpha-synuclein,1,auditory brainstem implant (abi),2
+331,adeno-associated viral vector,1,history,2
+332,repetitive nerve stimulation,1,cochlear implant,2
+333,rhythm generation,1,implantable neural probes,2
+334,impedance,1,brain-machine interface,2
+335,magnetic insertion,1,multi-channel,2
+336,tissue,1,neural depth probes,2
+337,sensory feedback,1,poly vinyl alcohol (pva),2
+338,proprioception,1,modeling by a reaction method,2
+339,descending detour circuit formation,1,none-equilibrium molecular,2
+340,gray matter,1,regenerated silk fibroin,2
+341,white matter,1,conductive biopolymer,2
+342,indentation,1,in situ chemical,2
+343,viscoelasticity,1,spike detection,2
+344,central pattern generation,1,neural signals,2
+345,epidural spinal cord stimulation,1,upper limb prosthetics,2
+346,therapy,1,functional liquid metal,2
+347,physiotherapy,1,hybrid flexible electronics,2
+348,electric stimulation,1,ni-gain amalgam,2
+349,spinal cord injuries,1,conductive polymers,2
+350,human spinal cord injury,1,cyborganics,2
+351,voluntary movement,1,flexible bioelectronics,2
+352,curcumin,1,charge balancing,2
+353,intracortical microelectrodes,1,neural stimulator,2
+354,mechanically adaptive,1,proportional-integral (pi),2
+355,group box 1,1,functional electrical,2
+356,polymer nanocomposites,1,electroencephalography,2
+357,gliosis,1,blind source,2
+358,implant,1,polymer mechanochemistry,2
+359,fbr,1,neurons,2
+360,astrocyte,1,brain-computer interface (bci),2
+361,microglia,1,electroencephalography (eeg),2
+362,biomaterials,1,imaging,2
+363,graphene,1,regeneration & plasticity,2
+364,nanowires,1,neurotrophin-3,2
+365,stretchable circuits,1,controlled artificial release system,2
+366,thermoplastic circuits,1,inflammation,2
+367,2.5d,1,amyotrophic lateral sclerosis,2
+368,thermoforming,1,communication,2
+369,electrical epidural stimulation,1,hyperbaric oxygen,2
+370,finite element,1,glycogen synthase kinase-3 beta,2
+371,implanted electrodes,1,chondroitinase abc,2
+372,tissue-response,1,bioinspired imaging systems,2
+373,locomotor control,1,non-contact characterization,2
+374,spinal cord electrode array,1,contactless,2
+375,semiconductor nanomaterials,1,noncontact sensing,2
+376,alginate,1,axonal collaterals,2
+377,electroactive polymer,1,brain-spinal interface,2
+378,growth factor,1,closed-loop neuromodulation,2
+379,future,1,closed-loop,2
+380,grasping,1,spinal motor learning,2
+381,self-paced,1,lower limb exoskeleton,2
+382,classification,1,rehabilitation robotics,2
+383,bci,1,soft pneumatic,2
+384,bmi,1,electrical peripheral nerve stimulation,2
+385,functional electrical stimulation (fes),1,finite,2
+386,ground reaction forces,1,brain-computer interfaces,2
+387,age-dependence,1,scanning electron,2
+388,heterogeneous mechanical,1,motor complete paralysis,2
+389,atomic force microscopy,1,neuronal network,2
+390,neuron,1,transcutaneous spinal cord,2
+391,cell mechanics,1,neuroprosthetic technologies,2
+392,atomic force microscopy (afm),1,sensory feedback,2
+393,central nervous,1,proprioception,2
+394,interface,1,descending detour circuit formation,2
+395,mems,1,central pattern generation,2
+396,literature review,1,epidural spinal cord stimulation,2
+397,magnetic resonance elastography,1,human spinal cord injury,2
+398,motor function,1,voluntary movement,2
+399,neuroprosthetic interfaces,1,curcumin,2
+400,rheological properties,1,intracortical microelectrodes,2
+401,charge-injection,1,mechanically adaptive,2
+402,microelectrodes,1,group box 1,2
+403,electrochemistry,1,polymer nanocomposites,2
+404,deep brain-stimulation,1,electrical epidural stimulation,2
+405,motoneuron,1,finite element,2
+406,corticospinal,1,spinal cord electrode array,2
+407,reticulospinal,1,semiconductor nanomaterials,2
+408,tract,1,functional electrical stimulation (fes),2
+409,use-dependent plasticity,1,ground reaction forces,2
+410,moment arm,1,age-dependence,2
+411,joint center,1,heterogeneous mechanical,2
+412,computed muscle control,1,literature review,2
+413,forward dynamic simulation,1,magnetic resonance elastography,2
+414,musculoskeletal,1,motor function,2
+415,brain tissue,1,neuroprosthetic interfaces,2
+416,heterogeneity,1,use-dependent plasticity,2
+417,mechanical,1,computed muscle control,2
+418,viscosity,1,forward dynamic simulation,2
+419,retina,1,musculoskeletal,2
+420,spinal reflexes,1,gait rehabilitation,2
+421,rats,1,muscle coordination,2
+422,interneurons,1,tubulin isotype,1
+423,transcription factors,1,electrically evoked spinal motor potentials,1
+424,molecular genetic,1,epidural electrical,1
+425,sprague-dawley rats,1,electrophysiological assessment,1
+426,organ weight,1,transcutaneous electrical spinal cord,1
+427,body weight,1,microelectrode arrays,1
+428,brain weight,1,soft conductive hydrogel microelectrode,1
+429,gait rehabilitation,1,electrophysiological recording,1
+430,muscle coordination,1,fan-out wafer-level packaging (fowlp),1
+431,geometry,1,flexible hybrid electronics,1
+432,adult cat,1,transcranial magnetic stimulation,1
+433,computer modeling,1,discomplete and incomplete spinal cord injury,1
+434,recruitment order,1,interneuron network,1
+435,neuroprosthetic,1,locomotor control,1
+436,silicon microelectrode,1,future,1
+437,compound,1,deep brain-stimulation,1
+438,central pattern generator,1,geometry,1
+439,stenosis,1,adult cat,1

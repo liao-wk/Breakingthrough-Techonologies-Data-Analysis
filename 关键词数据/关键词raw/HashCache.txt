@@ -1,0 +1,620 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+ER
+
+PT J
+DE Non-volatile memory; hashing scheme; write endurance; collision
+   resolution
+ER
+
+PT B
+DE named data networking; caching strategy; probability-based; consistent
+   hash
+ER
+
+PT B
+ER
+
+PT S
+DE cache memory; IP lookup; hashing; prefix grouping
+ER
+
+PT J
+DE Information centric networking; NDN online caching; Ski-Rental problem;
+   cooperative forwarding; consistent hashing
+ER
+
+PT B
+DE main memory database; index; hash; T tree; cache sensitive
+ER
+
+PT J
+DE concurrent data structures; lock-free hash tries; constant-time hash
+   tries; expected constant time
+ER
+
+PT J
+DE information-centric networking; content-centric networking; caching;
+   cache replacement algorithm
+ID PERFORMANCE
+ER
+
+PT J
+DE HTTP proxy; Distributed proxy cache; Cache management; Autonomous
+   perception; Autonomous decision
+ER
+
+PT J
+DE Distributed memory cache; memcached; dynamic server provisioning;
+   consistent hashing; energy efficiency
+ID DATA CENTERS; THROUGHPUT
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT S
+DE CDN; de-duplication; scalable hash; GMM; Fisher Vector aggregation
+ER
+
+PT B
+DE ICN; hash-routing; in-network caches; off-path caching; latency
+ER
+
+PT S
+DE CCN; in-network caching; hash routing; manifold learning
+ER
+
+PT S
+ID ARCHITECTURE
+ER
+
+PT B
+DE Hash Table; Network Algorithm; Membership Query
+ID LIST UPDATE
+ER
+
+PT S
+DE MapReduce; Distributed Caching; Consistent Hashing; Distributed Hash
+   Table
+ID JOBS; HADOOP
+ER
+
+PT J
+DE Hash-based cache; last-level cache; Linux; operating system; page
+   coloring
+ID OS-LEVEL
+ER
+
+PT J
+DE Multicore; Private caches (PCs); Last level cache (LLC); Hashing; Cache
+   performance metrics; AMAT; Overuse distance
+ID PROCESSORS
+ER
+
+PT J
+DE Time-to-live(TTL); Caching freshness; Pre-judgment; Result cache; Cache
+   structure
+ER
+
+PT J
+DE Collaborative caching; hash-routing; information-centric networking;
+   in-network caching
+ER
+
+PT J
+ER
+
+PT J
+DE Information-centric networks; Cache aware routing; Off-path in-network
+   caching; Nodal clustering/partitioning; Hash routing
+ID CACHE MANAGEMENT; DESIGN
+ER
+
+PT J
+ER
+
+PT J
+DE cache storage; computer architecture; search problems; hybrid approach;
+   partial tag comparison technique; search methods; cache performance;
+   cache memory; computer architecture; partial comparison unit; n-bit
+   comparator; multiple search methods; PTC; least significant bits; LSB;
+   multistage techniques; hash searching method; searching methods
+ER
+
+PT B
+DE Chunking; Cloud Storage; Deduplication; Erasure; Hashing; Recovery
+ER
+
+PT B
+DE PUP; dynamic languages; JIT compiler; inline caching
+ID TIME
+ER
+
+PT B
+DE CCN; in-network caching; hash routing; clustering
+ER
+
+PT S
+ER
+
+PT B
+DE peer to peer; overlay; distributed hash able; cache popularity
+ER
+
+PT B
+ER
+
+PT J
+DE Flash memory; SSD; deduplication; lifespan; reliability
+ER
+
+PT S
+ID EMBEDDED SYSTEMS; CONFIGURATION
+ER
+
+PT B
+ER
+
+PT B
+DE Content Centric Network; Popularity based caching; Cooperative
+   Forwarding
+ER
+
+PT B
+DE Bloom filters; Hash functions; Digest truncation; Pre-image attack;
+   Denial-of-Service
+ER
+
+PT B
+DE Hashing; sorting; aggregation; grouping; cache-efficient; shared-memory;
+   robust performance; "group by"; adaptive algorithm
+ID MULTI-CORE; JOINS
+ER
+
+PT J
+DE Linear hashing; Chained hashing; Cuckoo hashing; Hopscotch hashing;
+   Lock-free; Cache line
+ID TABLES; TIME
+ER
+
+PT J
+DE Session cookies; Mobile devices; Wireless networks; Caching
+ID AUTHENTICATION
+ER
+
+PT J
+DE Cache-oblivious algorithms; Hashing
+ID INDEPENDENCE; COMPLEXITY
+ER
+
+PT B
+DE component; MongoDB; spatio-temporal R-tree; real-time index; trajectory
+   queries
+ER
+
+PT S
+ID DICTIONARIES; SPACE
+ER
+
+PT J
+DE kinetic Monte Carlo; caching; hash table; nanowire; sintering
+ID GRAIN-GROWTH; HETEROEPITAXIAL GROWTH; HOMOEPITAXIAL GROWTH; SCALE
+   SIMULATION; POTTS-MODEL; DYNAMICS; TEMPERATURE; MECHANISM; EPITAXY;
+   SILICON
+ER
+
+PT J
+DE Cloud computing; multicore processor; cache management; data similarity
+ID CACHE; PLACEMENT; LOCALITY
+ER
+
+PT B
+DE Cooperative Caching; Content Centric Network; Forwarding; Consistent
+   Hashing; Virtual routers; Content popularity
+ER
+
+PT B
+DE Internet Sessions; Collaborative environments; Wireless networks; Mobile
+   devices; one-way hash; authentication
+ID PROTOCOL
+ER
+
+PT J
+DE Design; Algorithms; Performance; Information-Centric Networking;
+   collaborative caching; hash-routing
+ER
+
+PT J
+DE File system; Storage system; Metadata management; Metadata cache
+ID STORAGE-SYSTEMS
+ER
+
+PT S
+DE terrain simulation; global multi-resolution; hash table; algorithm
+ER
+
+PT B
+ER
+
+PT B
+DE Stream Data; Real-Time Storage; Threshold; Consistent Hashing
+ER
+
+PT S
+DE TCP lookup; Cache-friendly Hash Table; High-performance Network
+   Processing
+ER
+
+PT J
+DE Design; Performance
+ER
+
+PT J
+DE Interactive shape modeling; Implicit surface rendering; Procedural
+   textures; Runtime cache; Parallel hashing
+ID IMPLICIT SURFACES
+ER
+
+PT J
+DE cluster utilization; scalability; storage; traffic management; web
+   caching
+ID AD HOC NETWORKS; DELIVERY; SYSTEM; LOAD
+ER
+
+PT B
+DE Cache Buffer Search; Hash; LRU; Longest Prefix Matching
+ER
+
+PT S
+DE multi-core; memory coherence; bloom filter; cache optmization; memory
+   efficient design
+ER
+
+PT B
+DE Cache; FPGA; BlockRAM
+ER
+
+PT J
+DE Hash cache; Distributed hashing; Hashing routing; On-demand routing;
+   Source-based routing
+ER
+
+PT B
+DE cache performance; hashing algorithms; SHA-3 finalists; SHA-1; ARM
+   processors
+ER
+
+PT J
+DE peer-to-peer; Distributed Hash Table; conjunctive query; bloom filter
+ER
+
+PT J
+DE Minimal perfect hashing; Indexing internal memory
+ID TABLES; ACCESS; SIZE
+ER
+
+PT J
+DE hashing; linear probing
+ID HASH FUNCTIONS; UNIVERSAL CLASSES; ALGORITHMS
+ER
+
+PT S
+DE Distributed Cache; Information Retrieval; Complex Queries; Peer-to-Peer;
+   DHT
+ID RANGE QUERIES
+ER
+
+PT B
+DE multi-machine hot standby; hash; shared memory; cyclic backup
+ER
+
+PT S
+DE Hash map; improvement; seeking; memory
+ER
+
+PT S
+DE integrity verification; Merkle Tree; universal hash; WH; speculative
+   caching
+ER
+
+PT S
+DE Balanced Cache; Miss Reduction; Hash Function; Power Consumption;
+   Performance; IPC(Instruction Per Cycle)
+ER
+
+PT B
+DE Cache-oblivious algorithms; hashing
+ER
+
+PT S
+DE IP Routers; Cache Indexing; Cache Replacement Policies
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT S
+DE Radix-Join; Shared L2-Cache; Cache Conflict; Chip Multi-Processor
+ER
+
+PT S
+DE explicit state model checking; state explosion problem; state space
+   reduction; hash compaction; delayed duplicate detection
+ID AD-HOC NETWORKS; HASH COMPACTION; MODEL CHECKING; VERIFICATION;
+   VALIDATION; PROTOCOL; MEMORY
+ER
+
+PT J
+DE XOR-based hash functions; conflict-free; 2-way skewed-associative
+   caches; interbank dispersion; null space; rank
+ID COMPLEMENTED CA; LINEAR TPMACA
+ER
+
+PT J
+DE cache; skewed associative cache; YAARC cache; conflict misses; hit rate
+ID CACHE; PERFORMANCE
+ER
+
+PT J
+ER
+
+PT B
+ID SELECTION
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT J
+DE algorithms; design; performance; hash join; CPU cache performance; CPU
+   cache prefetching; group prefetching; software-pipelined prefetching
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT S
+ID VERIFICATION
+ER
+
+PT S
+ID NETWORKS
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT J
+DE peer-to-peer; query response; flooding; distributed caching and adaptive
+   search; search efficiency
+ER
+
+PT J
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT J
+DE load balancing; reverse proxy server routing algorithm; zipf-like law;
+   cache hit rate
+ER
+
+PT J
+DE XOR-based hash function; conflict-free mapping; null space; column
+   space; skewed-associative cache; interbank dispersion
+ID ASSOCIATIVITY; CACHES
+ER
+
+PT J
+DE cache hashing; cache indexing; prime modulo; odd-multiplier
+   displacement; conflict misses
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT S
+ID PERFORMANCE
+ER
+
+PT S
+ER
+
+PT J
+DE transcoding; system performance; hash function
+ER
+
+PT J
+DE hot-video broadcasting; content delivery network; cache; streaming;
+   peer-to-peer communications
+ID ON-DEMAND SERVICE; RECEIVING SCHEME
+ER
+
+PT J
+DE cooperative web caching; hash routing; object allocation; DNS
+   allocation; load distribution; performance analysis; non-linear
+   optimization
+ID WORLD-WIDE-WEB; SERVER SYSTEMS; PERFORMANCE; ALGORITHMS; CACHE
+ER
+
+PT J
+DE Internet; high-speed network; packet classification
+ER
+
+PT B
+ER
+
+PT B
+DE load balancing; reverse proxy server; routing algorithm; zipf-like law;
+   cache hit rate
+ER
+
+PT S
+ER
+
+PT S
+DE Distributed Hash Tables; Service Location; Consistent Hashing; load
+   balancing
+ER
+
+PT B
+DE caching schemes; replication; distributed; hierarchical; domain cache;
+   hash routing
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT J
+DE internet traffic; traffic locality; traffic scheduling; hash-based
+   scheduling
+ER
+
+PT J
+DE information retrieval system; inverted file; cache; hashing; memory
+   management
+ER
+
+PT J
+DE proxy caching; adaptable controlled replication; load balancing;
+   hot-spot relief; hash routing; World Wide Web
+ID SYSTEMS; SERVER
+ER
+
+PT B
+ER
+
+PT B
+DE web caching; internet cache protocol; cooperative caching
+ER
+
+PT B
+ER
+
+PT B
+DE caching; hash; network processor; packet classification
+ER
+
+PT S
+DE search; distributed hash table; Peer-to-Peer; bloom filter; caching
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT B
+DE cache memory; database; parallel computer; hash join
+ER
+
+PT S
+ER
+
+PT J
+DE hash join algorithms; netcaches; SMPs; clusters; performance evaluation
+ID DATABASES
+ER
+
+PT J
+DE controlled replication; web caching; CARP; web proxy; hash routing
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT J
+DE distributed caching schemes; hash routing schemes; Internet caching
+   protocol
+ER
+
+PT J
+DE modal logics; satisfiability; caching structures
+ID SYSTEMS; COMPLEXITY
+ER
+
+PT J
+ID FILE SYSTEM; CONSISTENCY; PERFORMANCE
+ER
+
+PT J
+DE latency-sensitive hashing; proxy caching; collaborative Web caching;
+   performance; load balancing
+ID PROXY
+ER
+
+PT J
+DE fault tolerance; distributed WWW caching systems; hash routing; hit
+   rates; network traffic
+ER
+
+PT S
+ER
+
+PT J
+ID CACHE
+ER
+
+PT J
+DE evolvable hardware; evolutionary algorithms; non-linear circuit
+   synthesis; FPGA
+ER
+
+PT J
+DE Web; cache; query; hash
+ER
+
+PT J
+DE caching; hashing; load balancing
+ER
+
+EF

@@ -1,0 +1,1310 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE e-skins; flexible electronics; kirigami; soft robotics; stretchable
+   transparent electrodes
+ID NEGATIVE POISSONS RATIO; CARBON NANOTUBE FILMS; SEMICONDUCTING POLYMER;
+   TRANSPARENT ELECTRODE; CONDUCTING FILMS; SOFT; GRAPHENE; SKIN;
+   FABRICATION; THIN
+ER
+
+PT J
+DE bioelectronics; flexible optoelectronics; light emitting diodes;
+   wearable devices
+ID GRAPHENE QUANTUM DOTS; CESIUM LEAD HALIDE; HIGH-EFFICIENCY; SOLAR-CELLS;
+   SHELL THICKNESS; GALLIUM NITRIDE; NANOCRYSTALS; PHOTOLUMINESCENCE;
+   PERFORMANCE; ELECTROLUMINESCENCE
+ER
+
+PT J
+DE energy harvesting; implantable medical electronics; in vivo;
+   self-powered
+ID ELECTROMAGNETIC-TRIBOELECTRIC NANOGENERATOR; FLEXIBLE PIEZOELECTRIC
+   DEVICES; POWERED CARDIAC-PACEMAKER; IN-VIVO; BIOFUEL CELL; HYBRID CELL;
+   BIOMECHANICAL ENERGY; ELECTRICAL-STIMULATION; PERSONAL ELECTRONICS;
+   MECHANICAL ENERGIES
+ER
+
+PT J
+DE toxicity; bioresorption; implantable electronics; cell traction force;
+   cell metabolism
+ID CELL TRACTION FORCE; TRANSIENT ELECTRONICS; SILICON NANOMEMBRANES;
+   DISSOLUTION CHEMISTRY; TUNGSTEN COILS; TENDON CELLS; BIOCOMPATIBILITY;
+   TOXICITY; DEVICES; CULTURE
+ER
+
+PT J
+DE epidermal electronics; implantable electronics; reinforced electronic
+   skin; electrophysiological monitoring; omniphobic R-F paper
+ID R-F PAPER; STRETCHABLE ELECTRONICS; MICROFLUIDIC DEVICES;
+   SKIN-ELECTRONICS; LOW-COST; ON-SKIN; PRESSURE; SOFT; TRANSPARENT;
+   FABRICATION
+ER
+
+PT J
+DE Cancer; Foreign body response; Implantable biosensors; Precision
+   medicine
+ID FOREIGN-BODY REACTION; CHICK CHORIOALLANTOIC MEMBRANE; GLUCOSE
+   MONITORING-SYSTEM; SMALL LABORATORY-ANIMALS; IN-VIVO MODEL;
+   DRUG-DELIVERY; CARDIOVERTER-DEFIBRILLATORS; NONPHAGOCYTOSABLE SURFACES;
+   IMMUNOLOGICAL RELEASE; NEUTROPHIL LEUKOCYTES
+ER
+
+PT J
+DE Triboelectric nanogenerator; Near-infrared irradiation; Self-healing;
+   Vitrimer; Implantable electronics
+ID DISULFIDE CROSS-LINKS; EPOXY-RESIN; COMPOSITES; HYDROGELS; POLYMERS;
+   DEVICES; LIGHT
+ER
+
+PT J
+DE biocompatible; biodegradable; implantable electronics; polysaccharide;
+   transient electronics
+ID SILICON ELECTRONICS; DEVICES; TRANSISTORS; DESIGN; ACID
+ER
+
+PT J
+DE biosensors; flexible implants; implantable devices; medical electronics;
+   medical implant injectors
+ID SOFT LITHOGRAPHY; CONTACT AREA; GECKO SETAE; IN-VIVO; ADHESION;
+   FABRICATION; FRICTION; SENSORS; PROBES; SCALE
+ER
+
+PT J
+DE Artificial heart; Biomedical engineering; Artificial implant
+ER
+
+PT J
+DE additive manufacturing; bioresorbable electronics; low-cost
+   manufacturing; printing; transient electronics
+ID THIN-FILM TRANSISTORS; FIELD-EFFECT TRANSISTORS; NANOWIRE PERCOLATION
+   NETWORK; SOLUTION-DEPOSITED NANOPARTICLES; TISSUE ENGINEERING
+   APPLICATIONS; DIGITAL SELECTIVE GROWTH; EXPLODING WIRE TECHNIQUE; SILK
+   FIBROIN SCAFFOLDS; SIO2 GATE INSULATOR; TRANSIENT ELECTRONICS
+ER
+
+PT J
+DE biodegradable batteries; magnesium; molybdenum trioxide; self-powered
+   electronics; transient electronics
+ID SILICON ELECTRONICS; FILM; THIN; ELECTROLYTE; POLYMER; DEVICES
+ER
+
+PT J
+DE Polymeric medical devices; Implantable devices; Sterilization;
+   Sterilization techniques for implantable medical devices
+ID ARTHROPLASTIES; MICROWAVE; LIGHT
+ER
+
+PT J
+DE biomaterials; molecular dynamics simulations; on-skin electronics; silk
+   proteins; stretchable electronics
+ID MECHANICAL-PROPERTIES; FIBROIN; DEVICES; FILMS; MEMORY; BIOMATERIALS;
+   FABRICATION; LIGHTWEIGHT; PEPTIDES; STRENGTH
+ER
+
+PT J
+DE gasket underfill; spring interconnects on flexible electrode arrays;
+   implantable systems
+ID FLIP-CHIP; INTERFACES; ADHESION; FILMS
+ER
+
+PT J
+ID SILICON ELECTRONICS
+ER
+
+PT J
+DE biomedical electronics; energy harvesting; ferroelectric materials;
+   piezoelectric effect; pyroelectric effect
+ID SENSITIZED SOLAR-CELLS; FREE PIEZOELECTRIC CERAMICS; THIN-FILM
+   NANOGENERATOR; POLYMER NANOCOMPOSITES; ROOM-TEMPERATURE; PYROELECTRIC
+   NANOGENERATORS; NANOWIRE ARRAYS; POLYVINYLIDENE FLUORIDE; VINYLIDENE
+   FLUORIDE; ULTRAHIGH PIEZOELECTRICITY
+ER
+
+PT J
+DE implantable materials; low-profile bioelectronics;
+   micro/nanofabrication; medical devices; biodegradable materials;
+   miniaturization
+ID LIQUID-CRYSTAL POLYMER; INTRAOCULAR-PRESSURE SENSOR; CONTACT-LENS
+   SENSOR; IN-VIVO; STRETCHABLE ELECTRONICS; BIOMEDICAL APPLICATIONS;
+   MECHANICAL-PROPERTIES; SILICON ELECTRONICS; CAPACITIVE SENSOR; PARYLENE
+   C
+ER
+
+PT J
+DE Diabetes; Biosensor; Electronic-skin; Self-powered; Glucose detection;
+   Implantable electronics
+ID TRIBOELECTRIC NANOGENERATOR; ZNO NANORODS; ELECTRONIC-SKIN; SENSING
+   SYSTEM; DRUG-DELIVERY; BIOSENSOR; SENSOR; PERFORMANCE; NANOWIRES;
+   OXIDASE
+ER
+
+PT J
+DE bilayer rolled-up enzymatic nanomembranes; biobatteries; glucose biofuel
+   cells; immobilized enzymes; glucose dehydrogenase
+ID BIOFUEL CELL; GLUCOSE; TEMPERATURE; COMPOSITES; KINETICS
+ER
+
+PT J
+DE self-powered sensors; enzymatic fuel cells; wearable and implantable
+   electronics
+ID DEPENDENT GLUCOSE-DEHYDROGENASE; SALIVARY URIC-ACID; BIOFUEL CELL;
+   CARDIOVASCULAR-DISEASE; KETONE-BODIES; IN-VIVO; BIOSENSOR; ELECTRODES;
+   SARCOSINE; CHOLESTEROL
+ER
+
+PT J
+DE Biomedical applications; divider; OOK transmitter; power amplifier (PA)
+ID CMOS; LOCKING; DESIGN; RANGE
+ER
+
+PT J
+ID IMPLANTABLE NEUROSTIMULATION DEVICES; POWERED CARDIAC-PACEMAKER;
+   BONE-GROWTH STIMULATION; DEEP BRAIN-STIMULATION; DRUG-DELIVERY SYSTEMS;
+   SMART CONTACT-LENSES; CENTRAL SLEEP-APNEA; MEDICAL DEVICES; COCHLEAR
+   IMPLANTS; LITHIUM BATTERIES
+ER
+
+PT J
+DE Optogenetics; Wireless power; Inductive; Multichannel; In-vitro; Retinal
+   ganglion cells; Human embryonic kidney cells; Channelrhodopsin
+ID BRAIN; PERCEPTION; IMPLANTS; SYSTEM; CELLS; MODEL
+ER
+
+PT J
+ID ECOG-RECORDINGS; HUMANS; ARRAY; MU; ELECTROCORTICOGRAPHY;
+   OPTOELECTRONICS; TRANSISTORS; IMPLANT; CORTEX
+ER
+
+PT J
+DE Biomedical instrumentation; neural interfaces; invasive devices; medical
+   industry; optogenetics; 2D probe
+ID DEEP BRAIN-STIMULATION; OPTOGENETICS; SENSOR; ELECTRODES; SIGNALS;
+   DESIGN; FUTURE; PROBES; LIGHT; ARRAY
+ER
+
+PT J
+DE Buck-boost converter; nonminimum phase system; optimized Type-3
+   controller; small-signal modeling; tristate buck-boost converter
+ID VOLTAGE APPLICATIONS; III CONTROLLER; DESIGN; ZERO
+ER
+
+PT J
+DE soft robotics; conductive elastomer; sensing; robotic hand
+ID STRETCHABLE ELECTRONICS; POLYMER COMPOSITES; STRAIN SENSORS; DESIGN;
+   SKIN
+ER
+
+PT J
+DE biomedical electronics; deformable electronics; nanowire electronics;
+   nanowire transistors; stretchable transistors
+ID SEMICONDUCTING POLYMER; ELECTRONIC SKIN; NANOFIBERS;
+   POLY(3-HEXYLTHIOPHENE); DIELECTRICS; ELASTICITY; KIRIGAMI; DESIGN;
+   MEMORY; LAYER
+ER
+
+PT J
+DE biodegradable devices; fluorescence detection; implantable devices;
+   optical fibers; optogenetics
+ID HYDROLYTIC DEGRADATION; REACTIVE GLIOSIS; WAVE-GUIDES; IN-VIVO;
+   KINETICS; BRAIN; OPTOGENETICS; POLYLACTIDES; ELECTRONICS; HYDROGELS
+ER
+
+PT J
+DE soft materials; flexible hybrid electronics; wearable electronics;
+   stretchable electronics; medicine; healthcare; human-machine interfaces
+ID IN-VITRO BIOCOMPATIBILITY; WEARABLE STRAIN SENSORS; EPIDERMAL
+   ELECTRONICS; CARBON NANOTUBES; BIOMEDICAL APPLICATIONS; TRANSIENT
+   ELECTRONICS; ENDOTHELIAL-CELLS; PRESSURE SENSORS; MNO2 NANOSHEETS;
+   GRAPHENE OXIDE
+ER
+
+PT J
+DE inductive power transfer; dynamic resonance tuning; parallel
+   compensated; switch-mode; gyrator; variable inductance; magnetic
+   coupling; resonant inductive coupling; wireless power transfer (WPT)
+ID TRANSFER SYSTEMS; CONVERTERS; EFFICIENCY; ELEMENTS
+ER
+
+PT J
+DE Neural inhibition; upconversion; near-infrared light; halorhodopsin;
+   wireless optogenetics; lanthanide-doped nanoparticles
+ID IN-VIVO; CORE/SHELL NANOPARTICLES; PHOTODYNAMIC THERAPY; NANOCRYSTALS;
+   STIMULATION; BRAIN; NANOTRANSDUCERS; CIRCUITRY; NEURONS; SYSTEMS
+ER
+
+PT J
+DE Backscattering; biomedical implants; constant-idle-time; efficiency;
+   flexible printed circuits (FPCs); full integration; load-transient
+   response; voltage regulation; wireless power transfer (WPT)
+ID RECTIFIER; DESIGN
+ER
+
+PT J
+DE Analog circuit design; bio-impedance; biosensor; cardiac tissue; CMOS;
+   low power; impedance measurement; instrumentation amplifier;
+   programmable amplifier
+ID MIXED-SIGNAL APPROACH; ANALYZER; DYNAMICS; SOC
+ER
+
+PT J
+DE Human motion; Energy harvesting; Wearable devices; Ambient energy; Smart
+   materials and structures
+ID FLEXIBLE THERMOELECTRIC GENERATOR; DISK TRIBOELECTRIC NANOGENERATOR;
+   PIEZOELECTRIC POWER GENERATOR; WIRELESS SENSOR NETWORKS; AIR-FLOW
+   ENERGY; BIOMECHANICAL ENERGY; HUMAN-BODY; HYBRID NANOGENERATOR;
+   THERMAL-ENERGY; ELECTROMAGNETIC GENERATOR
+ER
+
+PT J
+ID ROOM-TEMPERATURE; TRIBOELECTRIC NANOGENERATOR; NANOARRAY NANOGENERATOR;
+   WEARABLE ELECTRONICS; SENSOR ARRAYS; HUMAN MOTION; URIC-ACID; BIOSENSOR;
+   POPULATION; PROGRESSION
+ER
+
+PT J
+DE battery-free; fully implantable; neural; optofluidic; wireless
+ID FLEXIBLE NEURAL PROBES; IN-VIVO; MICROFLUIDIC CHANNELS; CIRCUITS;
+   OPTOELECTRONICS; NEUROSCIENCE; FABRICATION; IMPLANTS; PARYLENE; DELIVERY
+ER
+
+PT J
+ID ELECTRONIC SKIN; SENSOR ARRAY; EPIDERMAL ELECTRONICS; PRESSURE SENSORS;
+   STRAIN SENSORS; TEMPERATURE; DEVICES; FABRICATION; HUMIDITY; LAYERS
+ER
+
+PT J
+DE Injectable; wireless; EEG; ECG; hibernation; software-defined radio;
+   inductive coupling
+ID EUROPEAN GROUND-SQUIRRELS; POWER INTEGRATED-CIRCUIT; SENSITIVITY
+   DISTRIBUTIONS; MAMMALIAN HIBERNATION; TELEMETRIC SYSTEM; AROUSAL
+   EPISODES; RECORDING EEG; SLEEP; TORPOR; TEMPERATURE
+ER
+
+PT B
+ER
+
+PT B
+DE implantable system; power management; single-inductor multiple-output
+   converter; auxiliary current source based control
+ER
+
+PT B
+DE Implantable electronics; Switched Capacitor; Hybrid DC-DC converter;
+   Solar power
+ER
+
+PT B
+DE buck converter; adaptive on-time (AOT); transistors stacking; soft
+   start-up
+ID CONTROLLED BUCK CONVERTER
+ER
+
+PT B
+ER
+
+PT S
+DE CMOS rectifier; implantable devices; Internet of Things; RF energy
+   harvester; RF-to-DC converter; reconfigurable matching network;
+   self-startup; ultralow power
+ID CMOS RECTIFIER; ANTENNA
+ER
+
+PT S
+DE Active rectifier; wireless power transfer; resonant coupling; pulse skip
+   modulation; automatic digital offset compensation; implantable medical
+   devices
+ER
+
+PT S
+ID PLL
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ID BRAIN
+ER
+
+PT S
+DE CMOS integrated circuits; SiGe; voltage-controlled oscillators; phase
+   noise; biomedical communication; low power electronics; implants
+ER
+
+PT S
+DE Human machine interaction; Flexible/stretchable electronics; Tactile
+   sensor; Biopotential sensor; Multi-sensory data
+ID SKIN; PRESSURE; ELECTRONICS; FILMS; SOFT
+ER
+
+PT B
+DE EEG recording; instrument amplifier; chopper; fully integrated;
+   implantable
+ID INSTRUMENTATION AMPLIFIER
+ER
+
+PT B
+ER
+
+PT B
+DE Implantable medical devices; flexible inductive coil; inductive links
+ER
+
+PT B
+DE Neural amplifier; two-stage OTA; triple-well pseudoresistor
+ER
+
+PT B
+DE 2.5D wafer-level; 2.45-GHz; CMOS-IPD technology; implantable medical
+   devices; rectifier; rectenna
+ER
+
+PT S
+DE Neural signals; neural network; compressive sensing; learning-based
+   signal processing; low-power; signal recovery
+ER
+
+PT B
+DE Midfield wireless power transfer; Biomedical device; Wireless Power
+   Transfer(WPT)
+ID TRANSMISSION
+ER
+
+PT S
+ER
+
+PT S
+DE Smart Wearable Band; Implantable Nanoplasmonic Biochip; Nano-biosensing;
+   Noninvasive Optical Diagnosis; Optical Wireless Communications;
+   Intra-body Optical Channel Modeling
+ID SURFACE-PLASMON RESONANCE; CANCER; BIOMARKERS; SCATTERING; SENSORS;
+   TISSUES; MODEL
+ER
+
+PT S
+DE Implantable device; IR-WPT; Inductive Powering; Class-E rectifier
+ID LOAD; EFFICIENCY
+ER
+
+PT S
+DE wireless power transfer; implantable medical device; inductive coupling;
+   rectifier; neurostimulator
+ER
+
+PT J
+DE Research; Innovation; Personal health; Nanotechnology; Biotechnology;
+   Forecasting
+ID TRIBOELECTRIC NANOGENERATORS; PIEZOELECTRIC DEVICES; ELECTRONICS;
+   TRANSIENT; SENSORS; SKIN
+ER
+
+PT S
+DE wearable sensors; implantable sensors; telemedicine; digital health
+   monitoring; mobile health; biosensors; biomedical applications
+ID PHYSICAL-ACTIVITY; ELECTRONICS; TEXTILES; DISEASE; PATCH; SKIN
+ER
+
+PT J
+ID DESIGN; TELEMETRY; ANTENNAS; SYSTEMS
+ER
+
+PT J
+DE bioresorbable electronics; bioresorbable materials; flexible
+   electronics; implantable devices
+ID FIELD-EFFECT TRANSISTORS; TRANSIENT ELECTRONICS; BIODEGRADABLE
+   MATERIALS; DRUG-DELIVERY; MAGNESIUM ALLOY; DISSOLUTION CHEMISTRY;
+   SILICON ELECTRONICS; CORROSION BEHAVIOR; CARBON NANOTUBES; BETA-CAROTENE
+ER
+
+PT J
+ID SYRINGE-INJECTABLE ELECTRONICS; ON-A-CHIP; POLY(ETHER URETHANE)
+   BIODEGRADATION; FIELD-EFFECT TRANSISTORS; IN-VIVO; TRANSIENT
+   ELECTRONICS; DRUG-DELIVERY; POLY(CARBONATE URETHANE); STRETCHABLE
+   ELECTRONICS; MYOCARDIAL-INFARCTION
+ER
+
+PT J
+DE Nanomaterial; Flexible Electronics; Bioelectronics; Wearable Device;
+   Implantable Device; Minimally Invasive Surgical Tool
+ID STRETCHABLE ELECTRONICS; EPIDERMAL ELECTRONICS; SILICON ELECTRONICS;
+   HIGH-PERFORMANCE; ENERGY DEVICES; QUANTUM DOTS; IN-VIVO; NANOPARTICLES;
+   TRANSPARENT; THERAPY
+ER
+
+PT J
+DE implantable electronics; silver nanowire; transparent; flexibility;
+   nitrocellulose
+ID CELLULOSE NANOPAPER; SILVER NANOWIRES; FLEXIBLE ELECTRONICS; WEARABLE
+   ELECTRONICS; INTEGRATED-CIRCUITS; HIGHLY TRANSPARENT; SOLAR-CELLS;
+   PAPER; THIN; NANOCOMPOSITE
+ER
+
+PT J
+ID FIELD-EFFECT TRANSISTORS; THIN-FILM TRANSISTORS; COMPLEMENTARY
+   INVERTERS; GROWTH; ELECTRONICS; FABRICATION; SEMICONDUCTORS;
+   TRANSPARENT; MOBILITY; POLYMER
+ER
+
+PT J
+DE flexible electronics; organic transistor; implantable device;
+   bio-compatible gel; electrocardiogram; electrocorticography
+ID FIELD-EFFECT TRANSISTORS; IN-VIVO; CIRCUITS; ARRAY; OPTOGENETICS;
+   INTERFACE
+ER
+
+PT J
+DE DNA; logic gates; biomolecular electronics; adders; visual DSD software;
+   full-adder circuit; analogue designs; gate enabling technique;
+   modularity property; dual-rail design; DNA strand displacement
+   operation; seesaw DNA circuits; implantable medical devices; biomedical
+   applications; silicon transistor; logic inverter gate design
+ID MAJORITY GATE; COMPUTATION; NANOROBOT; CIRCUITS
+ER
+
+PT J
+DE Median filtering circuits; Neuron MOSFETs; Neuron CMOS inverters; Image
+   processing; Implantable electronics
+ID MOS-TRANSISTORS
+ER
+
+PT J
+DE EGaIn; Galinstan; liquid metals; soft electronics; stretchable
+   electronics
+ID GALLIUM-INDIUM ALLOY; PRINTABLE ELASTIC CONDUCTORS; CARBON NANOTUBES;
+   POLYDIMETHYLSILOXANE PDMS; METAMATERIAL ABSORBER; NANOWIRE CONDUCTORS;
+   INTEGRATED-CIRCUITS; MATTER ELECTRONICS; POLYMER COMPOSITE;
+   HIGH-CONDUCTIVITY
+ER
+
+PT J
+ID LIQUID-CRYSTALLINE DISPERSIONS; NANOTUBE FIBER MICROELECTRODES; PULSED
+   AMPEROMETRIC DETECTION; REDUCED GRAPHENE OXIDE; NEURAL STIMULATION;
+   ELECTRICAL-STIMULATION; IN-VITRO; POLY(3,4-ETHYLENEDIOXYTHIOPHENE)
+   PEDOT; RECORDING ELECTRODES; CONDUCTING POLYMERS
+ER
+
+PT J
+ID THIN-FILM TRANSISTORS; FIELD-EFFECT TRANSISTORS; GA-ZN-O; FLEXIBLE
+   ELECTRONIC DEVICES; LOW-TEMPERATURE FABRICATION; LABEL-FREE; ZINC-OXIDE;
+   SOL-GEL; TRANSIENT ELECTRONICS; ULTRAVIOLET PHOTODETECTORS
+ER
+
+PT J
+DE additive manufacturing; flexible electronics; liquid metal; printed
+   electronics; stretchable electronics
+ID LIQUID-METALS; GALLIUM; INDIUM; FILMS; FABRICATION; SUBSTRATE; ANTENNAS
+ER
+
+PT J
+DE Flexible electronics; e-Skin; Implantable bioelectronics; Neural
+   interface; Selective stimulation; Triboelectric nanogenerator (TENG)
+ID WEARABLE THERMOELECTRIC GENERATOR; PERIPHERAL-NERVE; IN-VIVO; CONTACT
+   ELECTRIFICATION; ELECTRONIC SKIN; ELECTRICAL-STIMULATION; RECENT
+   PROGRESS; SCIATIC-NERVE; HUMAN-BODY; ENERGY
+ER
+
+PT J
+DE CMOS integrated circuits; pulse generators; low-power electronics;
+   bipolar integrated circuits; pulse shaping circuits; low-power
+   implantable CMOS bipolar Gaussian monocycle pulse generator; narrow
+   pulse generator; Gaussian pulse-shaping circuit; LC filtering;
+   multichannel pulse combination; power consumption; implantable IR-UWB
+   transmitter; size 180 nm; power 1 mW; frequency 200 MHz; voltage 1; 8 V
+ID UWB
+ER
+
+PT J
+ID NEAR-INFRARED ABSORBENCY; REDUCED GRAPHENE OXIDE; ELECTRONIC SKIN;
+   BIOMEDICAL APPLICATIONS; WEARABLE ELECTRONICS; HYBRID HYDROGELS;
+   COMPOSITES; POLYMERS; NANOCOMPOSITE; CHEMISTRY
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT S
+DE neural interface; implantable device; neural recording; neural
+   stimulation; neural amplifier; packaging and assembly; heterogeneous
+   integration
+ID HIGH-DENSITY; PROSTHESIS; DESIGN
+ER
+
+PT B
+DE printed electronics; screen printing; stretchable electronics;
+   viscoelastic substrates
+ID WEARABLE ELECTRONICS; SENSORS; DEVICES; DESIGN
+ER
+
+PT S
+ID ELECTRONIC SKIN; PDMS; CONDUCTIVITY; COMPOSITES; SIGNALS
+ER
+
+PT S
+DE biocompatible encapsulation; parylene C; amphiphilic block copolymers
+ID HYDROGELS
+ER
+
+PT S
+DE slot antenna; wireless power transfer; implant
+ID SENSORS
+ER
+
+PT S
+DE wearable; implantable; sensors; healthcare
+ID HEALTH-CARE; NETWORKS; DESIGN
+ER
+
+PT S
+ER
+
+PT J
+DE flexible electronics; implantable devices; minimally invasive surgical
+   tools; nanomaterials; wearable electronics
+ID WEARABLE TRIBOELECTRIC NANOGENERATOR; HUMAN-MACHINE INTERFACES; IN-VIVO;
+   EPIDERMAL ELECTRONICS; STRETCHABLE ELECTRONICS; BIOMECHANICAL ENERGY;
+   CARBON NANOTUBE; SKIN; SENSOR; TRANSPARENT
+ER
+
+PT J
+DE Biomedical transducers; Biomedical electronics; Implantable biomedical
+   devices; Cardiology
+ID STENTS; FLOW
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ID SPINAL-CORD STIMULATION; EPIDURAL STIMULATION; NEURAL STIMULATOR;
+   ENERGY-EFFICIENT; ARCHITECTURE; PROSTHESIS; FAILURES; POWER;
+   MICROSYSTEM; VISION
+ER
+
+PT J
+ER
+
+PT J
+ID MULTIFUNCTIONAL INTEGUMENTARY MEMBRANES; NEAR-FIELD COMMUNICATION;
+   HUMAN-MACHINE INTERFACES; EPIDERMAL ELECTRONICS; IN-VIVO; HYBRID
+   NANOSTRUCTURES; NANOWIRE ARRAYS; ARTIFICIAL SKIN; ENERGY DEVICES;
+   GRAPHENE
+ER
+
+PT J
+ER
+
+PT J
+DE Fiber-shaped structure; organic single crystal; field-effect transistor;
+   complementary circuit; wearable and implantable electronics
+ID FIELD-EFFECT TRANSISTORS; COPPER PHTHALOCYANINE; E-TEXTILES;
+   PERFORMANCE; RIBBONS; FIBERS; ARRAYS
+ER
+
+PT J
+ID THIN-FILM TRANSISTORS; POLYMER BIODEGRADATION; ELECTRICAL-FIELD; SILK
+   FIBROIN; ELECTRONICS; ENERGY; TRANSIENT; SENSORS; GENERATOR; DEVICES
+ER
+
+PT J
+ID POWER-UNIT; BATTERY; ELECTRIFICATION; SUPERCAPACITORS; PERFORMANCE;
+   EFFICIENCY; VIBRATION; GENERATOR; GRAPHENE; SYSTEMS
+ER
+
+PT J
+DE connectors; hybrid nanogenerators; implanted medical devices; packaged;
+   self-powered systems
+ID IN-VIVO; TRIBOELECTRIC NANOGENERATOR; ENERGY; ELECTRONICS; GENERATOR;
+   DEVICES; FUTURE; MOBILE; SKIN
+ER
+
+PT S
+ID NANOPARTICLES
+ER
+
+PT S
+ID ANIMALS
+ER
+
+PT S
+DE wireline communication; implantable communication; implantable medical
+   devices; prosthetics; neuromodulation; neural interfaces
+ER
+
+PT B
+ID SENSOR; NANOGENERATOR
+ER
+
+PT S
+ID TRANSIENT; TRANSISTORS; DEVICES
+ER
+
+PT J
+DE Compact antenna; flexible electronics; implantable antenna; parylene;
+   wireless local area network (WLAN)
+ER
+
+PT S
+DE CMOS; free form electronics; brain machine interface
+ID BRAIN-MACHINE INTERFACES; THIN-FILM TRANSISTORS; LOW-POWER CIRCUITS;
+   INTEGRATED-CIRCUITS; NEURAL INTERFACES; HIGH-DENSITY; IN-VIVO; SILICON;
+   ARRAY; TRANSPARENT
+ER
+
+PT J
+ID CEREBRAL-CORTEX; MICROFLUIDIC CHANNELS; NEURAL INTERFACES;
+   GLASS-TRANSITION; YOUNGS MODULUS; SILICON; BRAIN; SENSORS;
+   MICROELECTRODES; CHEMISTRY
+ER
+
+PT J
+ID SCHEME; CMOS
+ER
+
+PT J
+ID INTERFACES
+ER
+
+PT J
+ID WIDE-RANGE
+ER
+
+PT J
+ID BIODEGRADABLE POLYMERS; DEVICES; PERFORMANCE; TRANSISTORS; THERAPY;
+   PAPER; SOFT
+ER
+
+PT J
+DE piezoelectric effect; energy harvesting; flexible electronics;
+   stretchable electronics
+ID POWER GENERATOR; VIBRATION; MEMS; NANOGENERATOR; FREQUENCY; DEVICES;
+   SENSORS; DESIGN; SYSTEM; ASSEMBLIES
+ER
+
+PT J
+ER
+
+PT J
+DE Biomedical communication; IEEE 802.15.6; implantable medical devices;
+   low-power electronics; medical implant communication service (MICS);
+   transceivers
+ID DIRECT-CONVERSION RECEIVERS; TRANSMITTER; DESIGN
+ER
+
+PT J
+DE silver nanowires; composite fibers; twining spring configuration;
+   stretchable electric circuits; implantable
+ID STRETCHABLE CONDUCTORS; CARBON NANOTUBES; ELASTIC CONDUCTORS;
+   TRANSPARENT; STRAIN; FILMS; INTERCONNECTS; ELECTRONICS; COMPOSITES;
+   ELASTOMER
+ER
+
+PT J
+ER
+
+PT J
+DE Molecular imaging; PET/CT imaging; fluorine-18
+ER
+
+PT B
+DE Biomedical transducers; implantable biomedical devices; cardiology
+ID STENTS
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT J
+DE Implantable microdevices; nanomaterials; biodegradable electronics;
+   flexible bioelectronics; flexible batteries; flexible super-capacitors;
+   energy scavenging
+ID TRIBOELECTRIC NANOGENERATORS; CARBON NANOTUBES; LITHIUM BATTERY;
+   SUPERCAPACITORS; STIMULATION; ELECTRONICS; CAPACITORS; STORAGE
+ER
+
+PT S
+ID MICROWAVE ABLATION; THERMAL THERAPY; NANOPARTICLES; TUMORS; LASER
+ER
+
+PT J
+ID TRIBOELECTRIC NANOGENERATOR; LIGHT; NANOSTRUCTURES; NANOPARTICLES;
+   ELECTRONICS; PACEMAKER; GENERATOR; POLARITY; BATTERY; OUTPUT
+ER
+
+PT S
+DE biomechanics; MEMS sensor; cochlear implant; energy harvesting; zero
+   power system; signal processing
+ER
+
+PT J
+ID FIELD-EFFECT TRANSISTORS; LIGHT-EMITTING DEVICES; THIN-FILM TRANSISTORS;
+   SOLAR-CELLS; STRETCHABLE ELECTRONICS; ELECTRICAL-PROPERTIES;
+   MECHANICAL-PROPERTIES; COMPOSITE ELECTRODES; POLYACETYLENE FILMS;
+   POLYMER TRANSISTORS
+ER
+
+PT J
+ID TRANSMISSION; DESIGN; OPTIMIZATION; ELECTRICITY; FREQUENCY; TISSUE;
+   COILS
+ER
+
+PT J
+DE implantable biosensor; incoherent light source; recharging method; Monte
+   Carlo method
+ID OPTICAL-PROPERTIES; MONTE-CARLO; DIFFUSE-REFLECTANCE; HUMAN SKIN;
+   TISSUES; POWER; DEVICES; DISTRIBUTIONS; ABSORPTION; MODEL
+ER
+
+PT J
+DE nanofibrous substrates; biodegradable electronics; elastic devices;
+   wound dressings; implantable sensors
+ID EPIDERMAL ELECTRONICS; TRANSISTORS; CIRCUITS; SENSORS; FIBERS; PAPER;
+   INTERFACES; HYDROGELS; MEDICINE; RELEASE
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE biocompatible electronics; implantation; sensors
+ID LIGHT-EMITTING-DIODES; GALLIUM-ARSENIDE; IN-VITRO; MEDICAL DEVICES;
+   CYTOTOXICITY; VIVO; TOXICITY; THERAPY; ALLOYS; VIABILITY
+ER
+
+PT J
+DE Remote powering; wireless power transfer; implantable electronics;
+   multi-sensor system; monitoring system; implantable micro-system;
+   servo-controlled power transfer; x-y rails; biomedical implant; system
+   for freely moving animal; remotely powered sensor systems; in-vivo
+   implantable system
+ID COIL
+ER
+
+PT S
+ER
+
+PT S
+ID CONNECTOMICS
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT J
+ID WIRELESS POWER TRANSFER; FREQUENCY; DESIGN; COILS; TRANSMISSION;
+   OPTIMIZATION; HEART
+ER
+
+PT J
+ID FIELD-EFFECT TRANSISTORS; THIN-FILM TRANSISTORS; ORGANIC TRANSISTORS;
+   HIGH-PERFORMANCE; SOLAR-CELLS; CIRCUITS; SEMITRANSPARENT; SUBSTRATE;
+   ULTRATHIN; DISPLAYS
+ER
+
+PT S
+DE Wireless sensor; Implantable sensor; biopotential; Passive telemetry;
+   Readout circuit; Inductive telemetry
+ID TRANSCUTANEOUS POWER; DESIGN; TELEMETRY; SYSTEMS
+ER
+
+PT S
+DE Biomedical electronics; implantable biomedical devices; biomedical
+   transducers; cardiology; MEMS testing
+ER
+
+PT J
+DE implantable antenna; ingestible antenna; implantable and ingestible
+   medical devices; medical telemetry
+ID HUMAN-BODY; BIOTELEMETRY COMMUNICATION; BIOMEDICAL TELEMETRY;
+   RADIOFREQUENCY RADIATION; MICROSTRIP ANTENNA; CAPSULE ENDOSCOPY; HUMAN
+   EXPOSURE; PATCH ANTENNA; HUMAN HEAD; DESIGN
+ER
+
+PT J
+DE Biomedical engineering; Medical electronics; Micro-electro-mechanical
+   systems; Biocompatible materials
+ID GLUCOSE FUEL-CELLS; BIOMEDICAL DEVICES; PACEMAKER; BIOCOMPATIBILITY;
+   SYSTEM; ENERGY; CORROSION; BATTERY; TECHNOLOGY; MECHANISMS
+ER
+
+PT J
+ER
+
+PT J
+ID BIAS HUMIDITY PERFORMANCE; NONHERMETIC ALUMINUM SICS; NEUROLOGICAL
+   PROSTHESES; MICROELECTRONIC DEVICES; RELIABILITY EVALUATION; BLADDER
+   DYSFUNCTION; FAILURE MECHANISMS; PLASTIC PACKAGES; RUBBER; ENCAPSULANT
+ER
+
+PT J
+DE Current crowding; fill factor; inductive power links; printed spiral
+   coils (PSCs); proximity effect; skin effect
+ID SPIRAL INDUCTORS; OPTIMIZATION
+ER
+
+PT S
+ID ELECTRODE ARRAYS
+ER
+
+PT B
+ER
+
+PT S
+DE BCI; ECoG recording; Implantable electronics; long-term implant; AIMD
+ID MOTOR CORTICAL REPRESENTATION; BRAIN-COMPUTER-INTERFACE;
+   ELECTROCORTICOGRAPHIC SIGNALS; MOVEMENT TRAJECTORIES; CELL DISCHARGE;
+   ARM MOVEMENTS; DIRECTION; CORTEX; HUMANS; DEVICES
+ER
+
+PT J
+DE shape memory polymers; hydrogels; neural interfaces; flexible
+   electronics; smart materials; biocompatibility
+ID SHAPE-MEMORY POLYMER; INTRACORTICAL ELECTRODE ARRAY; IN-VITRO;
+   THERMOMECHANICAL PROPERTIES; MECHANICAL-PROPERTIES; BIOMEDICAL
+   APPLICATIONS; MEDICAL APPLICATIONS; HYDROGEL COATINGS; MINIATURE ROBOT;
+   NERVOUS-SYSTEM
+ER
+
+PT S
+ER
+
+PT J
+DE flexible electronics; implantable devices; surgical sutures; sensors
+ID MECHANICAL-PROPERTIES
+ER
+
+PT J
+DE Wireless powering; Batteryless microsystem; Coil antenna; Low dropout
+   regulator
+ID MUSCLE-TISSUE; DESIGN; TRANSMISSION; OPTIMIZATION; FREQUENCY; REGULATOR;
+   LINK
+ER
+
+PT J
+ID CRYSTALLINE SILICON; SILK FIBROIN; WATER; TRANSISTORS; DEVICES; OXIDE
+ER
+
+PT J
+DE flexible electronics; stretchable electronics; microscale light-emitting
+   diodes; wireless
+ID DIODES; ELECTRONICS; OPTOELECTRONICS; TRANSMISSION
+ER
+
+PT J
+DE Analog integrated circuits; biosignal amplifier; biopotential amplifier;
+   low noise; low-power circuit design; neural amplifier; noise efficiency
+   factor
+ID ARRAY
+ER
+
+PT J
+DE death; sudden; heart failure; implantable cardioverter-defibrillator
+ID ACUTE MYOCARDIAL-INFARCTION; SUDDEN CARDIAC DEATH; HEART-FAILURE;
+   DUAL-CHAMBER; PROPHYLACTIC IMPLANTATION; HIGH-RISK; TRIAL; THERAPY;
+   SHOCKS; ARRHYTHMIAS
+ER
+
+PT J
+ER
+
+PT J
+DE Implantable electronics; implantable microsystems; biomedical
+   microelectro-mechanical systems (MEMS); radio-frequency (RF) wireless
+   powering; micropackage; nonhermetic package
+ID DEVICES
+ER
+
+PT J
+ID FIELD-EFFECT TRANSISTORS; POTENTIAL BIOMEDICAL APPLICATIONS;
+   ELECTRICALLY CONDUCTING POLYMER; ASSEMBLED PEPTIDE NANOTUBES; NEURAL
+   TISSUE INTERFACE; TRAUMATIC BRAIN-INJURY; FOREIGN-BODY REACTION;
+   IN-VITRO; SILK FIBROIN; BIODEGRADABLE ELASTOMERS
+ER
+
+PT J
+ER
+
+PT S
+DE ultra wideband (UWB) antenna; biomedical communication; implantable
+   biomedical device; medical information system; telehealthcare
+ER
+
+PT B
+ID TRANSMITTER; RECEIVER
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT J
+DE Biomedical telemetry; implantable antennas
+ID ANTENNAS
+ER
+
+PT S
+ID TECHNOLOGY
+ER
+
+PT S
+ID ANALOG TURBO DECODER; BPSK DEMODULATOR; WIRELESS LINK; LDPC DECODERS;
+   NM-CMOS; CODE; DESIGN; SYSTEM; FIELD; VLSI
+ER
+
+PT J
+DE Impedance matrix; magnetic resonant coupling; optimization; wireless
+   power transfer
+ID DEEP BRAIN-STIMULATION
+ER
+
+PT J
+DE Biomedical signal processing; implantable biomedical devices;
+   integrated-circuit (IC) reliability; low-power electronics
+ID DATA-COMPRESSION; CIRCUITS; CMOS; REDUCTION; SYSTEM
+ER
+
+PT S
+ER
+
+PT B
+DE RoHS; active implantable medical devices; use conditions
+ER
+
+PT S
+ER
+
+PT B
+DE biological tissue; biomedical communication; biomedical power supplies;
+   energy storage; frequency domain analysis; implantable biomedical
+   devices; permittivity
+ER
+
+PT S
+DE biocompatibility; biointerfaces; bioelectronics; bionics; Moore
+ID DIRECT ELECTRON-TRANSFER; WALLED CARBON NANOTUBES; GLUCOSE-OXIDASE;
+   BIOFUEL CELLS; BIOSENSORS; HYDROGELS; SENSORS; SURFACE;
+   BIOCOMPATIBILITY; IDENTIFICATION
+ER
+
+PT J
+DE telemedicine; pacemaker; implantable cardioverter-defibrillator; remote
+   monitoring; human factor
+ER
+
+PT J
+DE bio-implantable; BPSK demodulator; noncoherent detection
+ER
+
+PT J
+ER
+
+PT S
+ER
+
+PT S
+DE Sub; GHz; UWB; biomedical; wireless communication; implantable medical
+   device; antenna; current driven
+ER
+
+PT S
+DE Biomedical Implants; Vision Prostheses; Charge Balance; Safe Stimulation
+   of Nerves; Platinum Electrodes; Low-power Circuits
+ID ELECTRICAL-STIMULATION; PH CHANGES; ELECTRODES; TISSUE
+ER
+
+PT B
+ID AMPLIFIER
+ER
+
+PT B
+ER
+
+PT B
+ID FABRICATION; NANOFIBERS
+ER
+
+PT J
+DE biomedical electronics; biomedical materials; prosthetics; silicon
+ER
+
+PT J
+ER
+
+PT J
+DE Telemetry; Biomedical implant; Smart prosthesis; Activation circuit
+ID TELEMETRY SYSTEM; ORTHOPEDIC IMPLANTS; FEMORAL PROSTHESIS; WIRELESS;
+   TRANSMISSION; NETWORKS; DESIGN
+ER
+
+PT J
+ID FIBROIN; FILMS; BIOMATERIAL; DEGRADATION
+ER
+
+PT J
+DE Biotransducers; Implantable biosensors; Microarrays; Integrated biochips
+ID LINEAR SWEEP VOLTAMMETRY; MICROELECTRODES; HYPERGLYCEMIA; SIMULATION;
+   BIOSENSORS; SURFACES; BIOMEMS; TRAUMA; MODEL
+ER
+
+PT J
+DE MEMS; Pressure sensor; Implantable; Patient monitoring; Telemetry;
+   Telemedicine; Bladder; Wireless
+ER
+
+PT S
+DE microelectrode array; Brain-Machine Interface; implantable; neural
+   recording
+ER
+
+PT S
+ID CIRCUITS; DESIGN
+ER
+
+PT S
+ID MICROELECTRODE ARRAYS; BRAIN; DEVICE
+ER
+
+PT B
+ER
+
+PT S
+DE Implantable Biosensor; System in Package; Body Sensor Node; Glucose;
+   Ultra-low-power; DSP
+ER
+
+PT S
+DE implantable telemetry; glucose monitoring; blood glucose level;
+   diabetes; chronic monitoring
+ER
+
+PT J
+DE biomedical electronics; brachytherapy; dosimeters; dosimetry; iridium;
+   MOSFET; polynomials
+ID THERAPY; SYSTEM; SENSITIVITY; DETECTORS; ENERGY
+ER
+
+PT J
+DE analog design techniques; CMOS; low-power; low-noise
+ID INSTRUMENTATION AMPLIFIER; CHOPPER STABILIZATION; OFFSET; DESIGN
+ER
+
+PT J
+ER
+
+PT J
+DE pressure sensor; blood pressure; microsystems; implanted systems;
+   telemetry; wireless
+ID INTRACRANIAL-PRESSURE; INTRAOCULAR-PRESSURE; HEMODYNAMIC MONITOR; RADIO
+   TELEMETRY; WIRELESS; TEMPERATURE; SILICON; RECOMMENDATIONS;
+   RADIOTELEMETRY; COMPLICATIONS
+ER
+
+PT S
+DE medical electronics; implantable devices; high-reliability electronics
+ER
+
+PT B
+ID CONVERTERS
+ER
+
+PT J
+ID DEMENTIA; PEOPLE
+ER
+
+PT J
+ER
+
+PT B
+DE multiple recording site microprobes; design; simulation
+ER
+
+PT B
+ID ABLATION; LASERS
+ER
+
+PT J
+ER
+
+PT S
+DE electrical stimulation; prosthesis; biphasic pulse; continuous
+   interleave sampling; current steering
+ER
+
+PT B
+ID SENSOR
+ER
+
+PT J
+DE accelerometer; implantable hearing aids; epi-poly encapsulation;
+   flex-circuit
+ID LUMBAR SPINAL MANIPULATION; IN-VIVO; NEUROMECHANICAL CHARACTERIZATION;
+   PIEZORESISTIVE ACCELEROMETER; MOTION; SYSTEM; SOUND; SHEEP
+ER
+
+PT J
+ER
+
+PT J
+ID TOTAL HIP-ARTHROPLASTY; DEEP BRAIN STIMULATOR;
+   CARDIOVERTER-DEFIBRILLATOR; ELECTROMAGNETIC-INTERFERENCE; PACEMAKER
+   MALFUNCTION; CARDIAC DEVICES; ELECTROCAUTERY; FAILURE; MANAGEMENT;
+   ELECTROSURGERY
+ER
+
+PT J
+ER
+
+PT J
+DE on-demand gastric electrical stimulation; obesity; implantable devices;
+   biocompatibility
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT B
+DE application specific integrated circuits; biomedical engineering;
+   biomedical measurements; biomedical monitoring; biomedical telemetry;
+   biomedical transducers; implantable biomedical devices;
+   microelectromechanical devices; radio telemetry
+ID SYSTEM; POTENTIOSTAT; CONSTRUCTION; DESIGN
+ER
+
+PT S
+ER
+
+PT B
+ID DESIGN
+ER
+
+PT S
+DE electrical neural stimulation; neural prosthesis; long-term animal
+   experiment; neural implant system; RF telemetry
+ID ELECTRICAL-STIMULATION; MICROELECTRODE ARRAY; PROSTHESIS; ELECTRODES;
+   BLIND; DOGS
+ER
+
+PT J
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ID TRANSCUTANEOUS POWER; ARTIFICIAL-HEART; DATA LINK; SYSTEM; TRANSMISSION;
+   TRANSFORMER; EFFICIENCY; TELEMETRY
+ER
+
+PT S
+ER
+
+PT B
+ID DESIGN
+ER
+
+PT S
+DE neural prosthetics; spike sorting algorithms; spike sorting circuits;
+   power estimation
+ER
+
+PT S
+DE electrode; neuroprostheses; neural interface; microsystern; coating
+ID MICROELECTRODE ARRAYS; NERVOUS-SYSTEM; UNIT; ELECTRODES
+ER
+
+PT S
+DE neural prosthetics; biomimetic systems; VLSI; neuron-silicon interface;
+   hippocampus; nonlinear dynamics
+ID MODEL
+ER
+
+PT S
+ER
+
+PT S
+DE neuroprosthesis; myoelectric; prosthesis; implant; sensor
+ER
+
+PT S
+DE electrode; pre-amplifier; silicon; polyimide; multichannel;
+   neuroprosthesis
+ER
+
+PT J
+DE biomodulation; electrical bio-impedance; multi-frequency measurement;
+   synchronous demodulation
+ID DESIGN CONCEPTS
+ER
+
+PT S
+DE neural prosthesis; transcutaneous; telemetry
+ER
+
+PT J
+ID BIPHASIC WAVE-FORMS; SINGLE CAPACITOR; PEAK VOLTAGES; MINIMAL MODEL;
+   ELECTROPORATION; SIZE
+ER
+
+PT J
+DE implantable electronics; FES; implantable sensors; lead-wire; in-line
+   connector; current leakage
+ER
+
+PT J
+ER
+
+PT J
+DE amperometric; biomedical telemetry; biotelemetry; biomedical
+   transducers; biosensors; glucose sensor; implantable biomedical devices;
+   operational amplifiers; optical coupling; potentiostat; telemetry
+ID IN-VIVO; INSTRUMENTATION SYSTEM; SENSORS; VITRO
+ER
+
+PT J
+ER
+
+EF

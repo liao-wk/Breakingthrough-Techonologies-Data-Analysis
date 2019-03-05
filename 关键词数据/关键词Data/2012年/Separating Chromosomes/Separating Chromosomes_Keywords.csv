@@ -1,0 +1,105 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,chromosomes,5,chromosomes,21
+1,meiosis,4,meiosis,16
+2,karyotyping,3,mitosis,12
+3,mitosis,3,karyotyping,10
+4,tethers,2,rye,8
+5,sex chromosomes,2,gametocidal chromosome,8
+6,chromosome segregation,2,tethers,7
+7,rye,2,chromosome,7
+8,gametocidal chromosome,2,b chromosome,7
+9,chromosome,2,sex chromosomes,6
+10,b chromosome,2,chromosome segregation,6
+11,heteroptera,2,heteroptera,6
+12,birth defect,1,anaphase,5
+13,curvature,1,interzonal connections,5
+14,hypothesis,1,anterior hippocampus,5
+15,anaphase,1,axb/bxa,5
+16,interzonal connections,1,bxd,5
+17,spindle function,1,dorsal hippocampus,5
+18,anaphase chromosomes,1,mice,5
+19,microsurgery,1,posterior,5
+20,optical trapping,1,cut points,5
+21,micromanipulation,1,edge,5
+22,cellular radiobiology,1,karyotype,5
+23,chromosome abberations,1,segmentation,5
+24,models of cell killing,1,skeletonization,5
+25,nuclear genome,1,centromere,4
+26,plastid dna,1,homologue chromosome,4
+27,recombination,1,genetic,4
+28,chromosome movements,1,minichromosomes,4
+29,distance segregation,1,maize,4
+30,cell division,1,sister chromatid cohesion,4
+31,cytogenetic analysis,1,synapsis,4
+32,vector quantization,1,chromosome 1r,4
+33,band,1,dissection line,4
+34,centromere,1,ag-nor-staining,4
+35,homologue chromosome,1,c/dapi-banding,4
+36,genetic,1,fish,4
+37,chromosome translocations,1,5s and 26s rdna,4
+38,y chromosome,1,evolution,4
+39,drosophila melanogaster,1,abscission,4
+40,minichromosomes,1,aurora,4
+41,maize,1,cytokinesis,4
+42,sister chromatid cohesion,1,nocut,4
+43,synapsis,1,dissection,4
+44,multispectral imaging,1,nondisjunction,4
+45,chromosome image segmentation,1,classification,4
+46,shape,1,aberrations,4
+47,e. coli chromosome,1,artificial neural,4
+48,bacterial nucleoid,1,carolliinae,4
+49,chromosome 1r,1,genic activity,4
+50,dissection line,1,translocations,4
+51,ag-nor-staining,1,nor,4
+52,c/dapi-banding,1,birth defect,3
+53,fish,1,curvature,3
+54,5s and 26s rdna,1,hypothesis,3
+55,evolution,1,microsurgery,3
+56,abscission,1,optical trapping,3
+57,aurora,1,micromanipulation,3
+58,cytokinesis,1,nuclear genome,3
+59,nocut,1,plastid dna,3
+60,dissection,1,recombination,3
+61,nondisjunction,1,chromosome movements,3
+62,anterior hippocampus,1,distance segregation,3
+63,axb/bxa,1,cell division,3
+64,bxd,1,cytogenetic analysis,3
+65,dorsal hippocampus,1,vector quantization,3
+66,mice,1,band,3
+67,posterior,1,e. coli,3
+68,e. coli,1,replichore,3
+69,replichore,1,segregation,3
+70,segregation,1,homologous chromosome,3
+71,homologous chromosome,1,genotype fixation,3
+72,genotype fixation,1,loss of,3
+73,loss of,1,macrolophus costalis,3
+74,macrolophus costalis,1,miridae,3
+75,miridae,1,holokinetic chromosomes,3
+76,holokinetic chromosomes,1,y-chromosome,3
+77,cut points,1,haplotype,3
+78,edge,1,mutational distances,3
+79,karyotype,1,network,3
+80,segmentation,1,chromosome number,3
+81,skeletonization,1,conservation category,3
+82,classification,1,endemic,3
+83,aberrations,1,hebridae,3
+84,artificial neural,1,neo-xy sex chromosome system,3
+85,carolliinae,1,spindle function,2
+86,genic activity,1,anaphase chromosomes,2
+87,translocations,1,cellular radiobiology,2
+88,nor,1,chromosome abberations,2
+89,y-chromosome,1,models of cell killing,2
+90,haplotype,1,chromosome translocations,2
+91,mutational distances,1,y chromosome,2
+92,network,1,drosophila melanogaster,2
+93,chromosome number,1,multispectral imaging,2
+94,conservation category,1,chromosome image segmentation,2
+95,endemic,1,shape,2
+96,hebridae,1,e. coli chromosome,2
+97,neo-xy sex chromosome system,1,bacterial nucleoid,2
+98,complex diseases,1,complex diseases,2
+99,linkage analysis,1,linkage analysis,2
+100,systematic reviews,1,systematic reviews,2
+101,uterine neoplasms,1,uterine neoplasms,2
+102,chromosome aberrations,1,chromosome aberrations,2
+103,leiomyoma cytogenetics,1,leiomyoma cytogenetics,2

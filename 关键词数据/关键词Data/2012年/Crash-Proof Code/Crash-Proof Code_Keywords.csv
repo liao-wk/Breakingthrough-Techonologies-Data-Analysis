@@ -1,0 +1,253 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,formal verification,11,verification,39
+1,verification,11,formal verification,34
+2,sel4,7,sel4,25
+3,security,5,security,20
+4,formal methods,5,model checking,17
+5,model checking,5,formal methods,16
+6,formal,5,microkernel,16
+7,virtualization,4,formal,15
+8,formal specification,4,languages,15
+9,languages,4,formal specification,12
+10,microkernel,4,virtualization,11
+11,operating system,3,modularity,11
+12,cyber-physical systems,3,operating system,10
+13,modularity,3,theory,10
+14,software,3,cyber-physical systems,9
+15,arinc 653,2,mmt,9
+16,refinement,2,model,9
+17,operating systems,2,operating,8
+18,embedded software,2,design,8
+19,embedded systems,2,software,8
+20,internet of,2,refinement,7
+21,software verification,2,internet of,7
+22,osek/vdx,2,osek/vdx,7
+23,program verification,2,program verification,7
+24,cloud computing,2,cloud computing,7
+25,concurrency,2,concurrency,7
+26,proof assistants,2,proof assistants,7
+27,isabelle,2,reliability,7
+28,multicore,2,l4,7
+29,operating,2,arinc 653,6
+30,mmt,2,embedded software,6
+31,machine learning,2,isabelle,6
+32,theory,2,design model,6
+33,model,2,cosmic,6
+34,design model,2,operating systems,5
+35,design,2,embedded systems,5
+36,reliability,2,multicore,5
+37,l4,2,machine learning,5
+38,functional size measurement,2,logical declarations,5
+39,cosmic,2,theory morphism,5
+40,remote attestation,1,syntax,5
+41,internet of things,1,isabelle/hol,5
+42,network security,1,haskell,5
+43,embedded,1,functional size measurement,5
+44,kernel security,1,separation logic,5
+45,paging-based,1,c,5
+46,separation kernels,1,interactive,5
+47,ubicomp,1,ubicomp,4
+48,privacy,1,privacy,4
+49,cryptography,1,cryptography,4
+50,forensics,1,forensics,4
+51,dynamic memory allocators,1,dynamic memory allocators,4
+52,event-b,1,event-b,4
+53,rodin,1,rodin,4
+54,key,1,software verification,4
+55,one-way function,1,api,4
+56,protection,1,constraint checking,4
+57,revocation,1,automotive software,4
+58,device driver isolation,1,virtual machine,4
+59,software partitioning,1,security health,4
+60,computer security,1,attestation,4
+61,abstract interpretation,1,abstraction layer,4
+62,operation system,1,certified os,4
+63,overlaid data structures,1,decidable logic,4
+64,network functions,1,ivy,4
+65,kernel bypass,1,distributed,4
+66,api,1,theorem proving,4
+67,constraint checking,1,logic,4
+68,automotive software,1,validation,4
+69,design automation,1,logical framework,4
+70,deductive verification,1,universal logic,4
+71,smt,1,translation,4
+72,object-oriented software,1,combination,4
+73,containers,1,trampoline operating system,4
+74,proof assistant,1,safety analysis,4
+75,repository,1,osek,4
+76,mizar mathematical library,1,vdx,4
+77,information flow security,1,binary verification,4
+78,secure social media platform,1,virtual machine monitor,4
+79,certified os kernels,1,many core,4
+80,interrupts,1,software process,4
+81,device drivers,1,fpa,4
+82,virtual machine,1,functional measure,4
+83,security health,1,function point,4
+84,attestation,1,real time system,4
+85,control-flow integrity,1,remote attestation,3
+86,kernel protection,1,internet of things,3
+87,fine-grained,1,network security,3
+88,intrusion,1,embedded,3
+89,hybrid systems,1,kernel security,3
+90,verified,1,paging-based,3
+91,abstraction layer,1,separation kernels,3
+92,certified os,1,key,3
+93,decidable logic,1,one-way function,3
+94,ivy,1,protection,3
+95,distributed,1,revocation,3
+96,certified compiler,1,computer security,3
+97,language semantics,1,deductive verification,3
+98,program,1,smt,3
+99,microarchitectural timing attacks,1,object-oriented software,3
+100,cache-based timing attacks,1,containers,3
+101,on-stack replacement,1,certified os kernels,3
+102,swapstack,1,interrupts,3
+103,feedback-directed optimization,1,device drivers,3
+104,v&v framework,1,control-flow integrity,3
+105,formal patterns,1,kernel protection,3
+106,theorem proving,1,fine-grained,3
+107,logic,1,intrusion,3
+108,hermite normal form,1,hybrid systems,3
+109,bezout domains,1,verified,3
+110,parametrised algorithms,1,certified compiler,3
+111,linear,1,language semantics,3
+112,unmanned aerial vehicle,1,program,3
+113,just-ahead-of-time verification,1,v&v framework,3
+114,integrated modular avionics (ima),1,formal patterns,3
+115,shared resource,1,hermite normal form,3
+116,global edf,1,bezout domains,3
+117,scheduling,1,parametrised algorithms,3
+118,rtos,1,linear,3
+119,model-checking,1,integrated modular avionics (ima),3
+120,cyber,1,shared resource,3
+121,hypervisor,1,global edf,3
+122,power monitoring system,1,scheduling,3
+123,security immunity,1,rtos,3
+124,active defense,1,model-checking,3
+125,validation,1,cyber,3
+126,proof engineering,1,hypervisor,3
+127,code/proof co-generation,1,power monitoring system,3
+128,cogent,1,security immunity,3
+129,logical framework,1,active defense,3
+130,universal logic,1,proof engineering,3
+131,translation,1,code/proof co-generation,3
+132,combination,1,cogent,3
+133,real-time operating systems,1,real-time operating systems,3
+134,separation kernel,1,separation kernel,3
+135,survey,1,survey,3
+136,least squares problem,1,constraint specification,3
+137,qr decomposition,1,automotive,3
+138,interactive theorem proving,1,binary analysis,3
+139,constraint specification,1,proof producing analysis,3
+140,automotive,1,theorem,3
+141,binary analysis,1,process algebra,3
+142,proof producing analysis,1,(routing) protocol,3
+143,theorem,1,wireless mesh network,3
+144,process algebra,1,abstraction,3
+145,(routing) protocol,1,iteration,3
+146,wireless mesh network,1,intuitionistic logic,3
+147,abstraction,1,positive quantification,3
+148,iteration,1,complexity,3
+149,programming languages,1,automata,3
+150,imperative code,1,relevance filtering,3
+151,advanced and persistent threats,1,automatic,3
+152,fault and intrusion tolerance,1,osek/vdx os,3
+153,extreme,1,massage-passing,3
+154,intuitionistic logic,1,posix,3
+155,positive quantification,1,interprocess cornnuinicaiton,3
+156,complexity,1,empirical software engineering,3
+157,automata,1,productivity,3
+158,relevance filtering,1,gqm,3
+159,automatic,1,design for verification,3
+160,safety verification,1,behavioral,3
+161,invariant inference,1,enclave programs,3
+162,counterexamples to induction,1,secure computation,3
+163,compositionality,1,confidentiality,3
+164,computer-aided design,1,compiler construction,3
+165,cyber-physical systems (cpss),1,program logics,3
+166,logical declarations,1,stack-space,3
+167,theory morphism,1,coq,3
+168,syntax,1,dependent types,3
+169,collaboration,1,functional programming,3
+170,industrial applications,1,computer architecture,3
+171,osek/vdx os,1,software size,3
+172,massage-passing,1,functional size,3
+173,posix,1,source lines of code,3
+174,interprocess cornnuinicaiton,1,function points,3
+175,empirical software engineering,1,keywords isabelle/hol,3
+176,productivity,1,management,3
+177,gqm,1,measurement,3
+178,design for verification,1,model-based development,3
+179,behavioral,1,flight control,3
+180,enclave programs,1,selinux,3
+181,secure computation,1,multi-level security,3
+182,confidentiality,1,policy compliance,3
+183,trustworthy systems,1,policy analysis,3
+184,refinement proof,1,program management,3
+185,microkernel correctness,1,schedule,3
+186,acoustic wave equation,1,specification,3
+187,formal proof of numerical program,1,algebraic specification,3
+188,convergence,1,effort estimation,3
+189,compiler construction,1,functionality,3
+190,program logics,1,gradient,3
+191,stack-space,1,device driver isolation,2
+192,certifying algorithms,1,software partitioning,2
+193,certifying computations,1,abstract interpretation,2
+194,isabelle/hol,1,operation system,2
+195,runtime verification,1,overlaid data structures,2
+196,past time ltl,1,network functions,2
+197,embedded real-time systems,1,kernel bypass,2
+198,program analysis,1,design automation,2
+199,microkernel integrity,1,proof assistant,2
+200,integrity mechanism,1,repository,2
+201,integrity semantics model,1,mizar mathematical library,2
+202,trampoline operating system,1,information flow security,2
+203,safety analysis,1,secure social media platform,2
+204,osek,1,on-stack replacement,2
+205,vdx,1,swapstack,2
+206,local memory,1,feedback-directed optimization,2
+207,system integrity,1,least squares problem,2
+208,binary verification,1,qr decomposition,2
+209,microkernels,1,interactive theorem proving,2
+210,type-safety,1,programming languages,2
+211,virtual machine monitor,1,imperative code,2
+212,many core,1,advanced and persistent threats,2
+213,system initialisation,1,fault and intrusion tolerance,2
+214,coq,1,extreme,2
+215,dependent types,1,safety verification,2
+216,functional programming,1,invariant inference,2
+217,software process,1,counterexamples to induction,2
+218,computer architecture,1,compositionality,2
+219,software model checking,1,computer-aided design,2
+220,state space reduction,1,cyber-physical systems (cpss),2
+221,dynamic interface,1,collaboration,2
+222,haskell,1,industrial applications,2
+223,pervasive formal verification,1,trustworthy systems,2
+224,systems verification,1,refinement proof,2
+225,software size,1,microkernel correctness,2
+226,functional size,1,acoustic wave equation,2
+227,source lines of code,1,formal proof of numerical program,2
+228,function points,1,convergence,2
+229,fpa,1,certifying algorithms,2
+230,functional measure,1,certifying computations,2
+231,function point,1,runtime verification,2
+232,real time system,1,past time ltl,2
+233,keywords isabelle/hol,1,embedded real-time systems,2
+234,management,1,program analysis,2
+235,measurement,1,microkernel integrity,2
+236,model-based development,1,integrity mechanism,2
+237,flight control,1,integrity semantics model,2
+238,separation logic,1,local memory,2
+239,c,1,system integrity,2
+240,interactive,1,microkernels,2
+241,selinux,1,type-safety,2
+242,multi-level security,1,system initialisation,2
+243,policy compliance,1,software model checking,2
+244,policy analysis,1,state space reduction,2
+245,program management,1,dynamic interface,2
+246,schedule,1,pervasive formal verification,2
+247,specification,1,systems verification,2
+248,algebraic specification,1,microarchitectural timing attacks,1
+249,effort estimation,1,cache-based timing attacks,1
+250,functionality,1,unmanned aerial vehicle,1
+251,gradient,1,just-ahead-of-time verification,1

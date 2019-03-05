@@ -1,0 +1,219 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,rnai,42,rnai,168
+1,rna interference,29,sirna,104
+2,sirna,24,rna interference,96
+3,gene therapy,19,gene therapy,70
+4,cancer therapy,9,shrna,34
+5,shrna,8,cancer,32
+6,gene silencing,7,cancer therapy,27
+7,cancer,7,therapy,27
+8,delivery,7,delivery,26
+9,therapy,6,hiv-1,24
+10,hiv-1,6,gene silencing,22
+11,nanoparticles,4,atelocollagen,19
+12,microrna,4,nanoparticles,17
+13,atelocollagen,4,liposome,15
+14,mirna,3,mirna,14
+15,gene,3,microrna,14
+16,sirna delivery,3,antiviral,14
+17,short interfering rna (sirna),3,gene,12
+18,systemic delivery,3,sirna delivery,12
+19,liposome,3,systemic delivery,12
+20,small interfering rna,3,small interfering rna,10
+21,antiviral,3,allergy,10
+22,rna interference (rnai),3,off-target effect,9
+23,drug delivery,2,viral escape,9
+24,nanocarriers,2,nanocarriers,8
+25,targeted,2,tumor,8
+26,tumor,2,neurodegenerative,8
+27,rnai therapeutics,2,rna,8
+28,off-target effect,2,targeted,7
+29,neurodegenerative,2,rnai therapeutics,7
+30,allergy,2,short interfering rna (sirna),7
+31,short hairpin rna,2,inflammation,7
+32,inflammation,2,rheumatoid arthritis,7
+33,rheumatoid arthritis,2,neurodegenerative diseases,7
+34,micrornas,2,rna interference (rnai),7
+35,viral escape,2,ptgs,7
+36,neurodegenerative diseases,2,drug delivery,6
+37,rna,2,plk-1,6
+38,ptgs,2,dds,6
+39,dna nanotechnology,1,short hairpin rna,6
+40,multidrug resistance,1,micrornas,6
+41,cancer hallmarks,1,molecular imaging,5
+42,iron oxide nanoparticles,1,nanocarrier,5
+43,mri,1,cancer therapeutics,5
+44,tumor penetration,1,kras,5
+45,lung cancer,1,myc,5
+46,biomarkers,1,sirnas,5
+47,rnai-based therapy,1,synthetic lethality,5
+48,huntington's disease,1,asthma,5
+49,off-target effects,1,bacteria-mediated rnai,5
+50,glioblastoma,1,bm-rnai,5
+51,gbm,1,lipid,5
+52,mouse models,1,endosome,5
+53,lipid nanoparticles,1,hcv,5
+54,exosomes,1,liver disease,5
+55,extracellular vesicles,1,virus evolution,5
+56,antithrombotic therapy,1,combination,5
+57,thrombosis,1,respiratory viruses,5
+58,pharmacology,1,transcription factor,5
+59,near-infrared light response,1,drug discovery,5
+60,swnt,1,conserved target sequences,5
+61,hsp70b' promoter,1,h5n1,5
+62,kidney stone,1,influenza,5
+63,nephrolithiasis,1,pandemic flu,5
+64,primary,1,rna silencing,5
+65,molecular imaging,1,suppressors,5
+66,nanocarrier,1,ebola virus,5
+67,host-directed therapy,1,influenza a virus,5
+68,inhalation,1,resistance,5
+69,non-viral vectors,1,escape,5
+70,ph-responsive,1,cancer hallmarks,4
+71,cancer therapeutics,1,iron oxide nanoparticles,4
+72,kras,1,mri,4
+73,myc,1,tumor penetration,4
+74,sirnas,1,huntington's disease,4
+75,synthetic lethality,1,off-target effects,4
+76,clinical trials,1,glioblastoma,4
+77,dsirna,1,gbm,4
+78,long qt syndrome,1,mouse models,4
+79,dominant-negative suppression,1,kidney stone,4
+80,self-assembled nanoparticle,1,nephrolithiasis,4
+81,tumor-homing and penetrating,1,primary,4
+82,ingr,1,ph-responsive,4
+83,leukemia,1,clinical trials,4
+84,molecular therapy,1,dsirna,4
+85,nonviral vectors,1,barriers,4
+86,delivery vehicle,1,clinical,4
+87,pharmaceutical companies,1,antiviral therapy,4
+88,nanotechnology,1,animal virus,4
+89,synthase,1,nanomedicine,4
+90,hepatitis-c virus,1,oncogene addiction,4
+91,aptamer-sirna chimeras,1,rnai delivery,4
+92,barriers,1,delivery vectors,4
+93,clinical,1,hbv,4
+94,update,1,leukocytes,4
+95,antiviral therapy,1,integrins,4
+96,animal virus,1,liposomes,4
+97,multidrug resistant microorganism,1,disease,4
+98,nanoantibiotics,1,research,4
+99,gastric cancer,1,therapeutics,4
+100,inhibiting effect,1,delivery systems,4
+101,nanomedicine,1,nanoparticle,4
+102,oncogene addiction,1,molecular,4
+103,rnai delivery,1,huntington's,4
+104,pdx1,1,alzheimer's,4
+105,pancreatic cancer,1,hiv,4
+106,delivery vectors,1,targeted delivery,4
+107,hbv,1,t-cell,4
+108,leukocytes,1,in vivo delivery,4
+109,integrins,1,duration,4
+110,liposomes,1,side effect,4
+111,cell death,1,hydrodynamic,4
+112,cell survival,1,heart failure,4
+113,in vivo,1,hypertrophy,4
+114,disease,1,lentiviral vector,4
+115,research,1,neurons,4
+116,therapeutics,1,rnai therapy,4
+117,delivery systems,1,preclinical application,4
+118,nanoparticle,1,cns,4
+119,molecular,1,rnai delivery systems,4
+120,cationic lipid,1,biotherapy,4
+121,adenovirus,1,tnf,4
+122,helper-dependent adenovirus,1,dicer inhibition,4
+123,hepatitis b virus,1,dna nanotechnology,3
+124,hepatitis c,1,multidrug resistance,3
+125,chemical stability,1,lung cancer,3
+126,gene expression,1,biomarkers,3
+127,autoimmune,1,rnai-based therapy,3
+128,angiogenesis,1,lipid nanoparticles,3
+129,endothelial dysfunction,1,exosomes,3
+130,atu027,1,extracellular vesicles,3
+131,huntington's,1,near-infrared light response,3
+132,alzheimer's,1,swnt,3
+133,plk-1,1,hsp70b' promoter,3
+134,dds,1,host-directed therapy,3
+135,metastasis,1,inhalation,3
+136,non-hodgkins-lymphoma,1,non-viral vectors,3
+137,toll-like receptor-3,1,long qt syndrome,3
+138,asthma,1,dominant-negative suppression,3
+139,bacteria-mediated rnai,1,self-assembled nanoparticle,3
+140,bm-rnai,1,tumor-homing and penetrating,3
+141,hiv,1,ingr,3
+142,targeted delivery,1,leukemia,3
+143,t-cell,1,molecular therapy,3
+144,lipid,1,nonviral vectors,3
+145,endosome,1,delivery vehicle,3
+146,in vivo delivery,1,pharmaceutical companies,3
+147,duration,1,nanotechnology,3
+148,side effect,1,update,3
+149,hydrodynamic,1,gastric cancer,3
+150,conditional rnai,1,inhibiting effect,3
+151,inducible rnai,1,cell death,3
+152,transgenic rnai,1,cell survival,3
+153,cre/loxp,1,cationic lipid,3
+154,hcv,1,adenovirus,3
+155,liver disease,1,helper-dependent adenovirus,3
+156,heart failure,1,hepatitis b virus,3
+157,hypertrophy,1,hepatitis c,3
+158,lentiviral vector,1,chemical stability,3
+159,neurons,1,gene expression,3
+160,rnai therapy,1,autoimmune,3
+161,preclinical application,1,angiogenesis,3
+162,virus evolution,1,endothelial dysfunction,3
+163,combination,1,atu027,3
+164,cns,1,conditional rnai,3
+165,rnai delivery systems,1,inducible rnai,3
+166,respiratory viruses,1,transgenic rnai,3
+167,transcription factor,1,cre/loxp,3
+168,drug discovery,1,virus,3
+169,conserved target sequences,1,evading,3
+170,h5n1,1,strategies,3
+171,influenza,1,gene delivery,3
+172,pandemic flu,1,therapeutic rnai,3
+173,rna silencing,1,polyglutamine,3
+174,suppressors,1,huntington disease,3
+175,ebola virus,1,darpp-32,3
+176,influenza a virus,1,adeno-associated virus,3
+177,virus,1,human,3
+178,evading,1,gynecologic cancer,3
+179,strategies,1,ovarian,3
+180,biotherapy,1,neurodegeneration,3
+181,tnf,1,reverse genetics,3
+182,rna pol ii promoter,1,oncogene,3
+183,hydrodynamic delivery,1,chemotherapy,3
+184,gene delivery,1,viral suppressor,3
+185,therapeutic rnai,1,transplantation,3
+186,virus infection,1,post-transcriptional gene silencing,3
+187,virus-host interaction,1,anticancer therapeutics,3
+188,cancer gene therapy,1,human cervical cancer,3
+189,strategy,1,oncogenic viruses,3
+190,polyglutamine,1,antithrombotic therapy,2
+191,huntington disease,1,thrombosis,2
+192,darpp-32,1,pharmacology,2
+193,adeno-associated virus,1,synthase,2
+194,resistance,1,hepatitis-c virus,2
+195,escape,1,aptamer-sirna chimeras,2
+196,dicer inhibition,1,multidrug resistant microorganism,2
+197,human,1,nanoantibiotics,2
+198,gynecologic cancer,1,pdx1,2
+199,ovarian,1,pancreatic cancer,2
+200,age-related macular degeneration,1,in vivo,2
+201,ocular diseases,1,metastasis,2
+202,respiratory diseases,1,non-hodgkins-lymphoma,2
+203,neurodegeneration,1,toll-like receptor-3,2
+204,reverse genetics,1,rna pol ii promoter,2
+205,oncogene,1,hydrodynamic delivery,2
+206,chemotherapy,1,virus infection,2
+207,viral suppressor,1,virus-host interaction,2
+208,transplantation,1,cancer gene therapy,2
+209,blood-brain barrier,1,strategy,2
+210,epidermal growth factor receptor,1,age-related macular degeneration,2
+211,insulin receptor,1,ocular diseases,2
+212,molecular oncology,1,respiratory diseases,2
+213,post-transcriptional gene silencing,1,blood-brain barrier,2
+214,anticancer therapeutics,1,epidermal growth factor receptor,2
+215,human cervical cancer,1,insulin receptor,2
+216,oncogenic viruses,1,"rna, small interfering (sirna)",2
+217,"rna, small interfering (sirna)",1,molecular oncology,1

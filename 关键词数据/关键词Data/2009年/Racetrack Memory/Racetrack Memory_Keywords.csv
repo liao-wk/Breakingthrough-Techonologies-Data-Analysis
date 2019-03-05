@@ -1,0 +1,128 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,racetrack memory,30,racetrack memory,80
+1,skyrmion,6,skyrmion,19
+2,racetrack memory (rm),5,racetrack memory (rm),14
+3,gpgpu,4,domain wall,13
+4,domain wall,4,gpgpu,11
+5,cache,3,domain-wall,9
+6,domain-wall,3,register file,8
+7,register file,3,performance,8
+8,chiral domain wall motion,3,racetrack,8
+9,racetrack,3,spintronics,7
+10,spin-transfer torque,2,cache,7
+11,magnetic skyrmions,2,energy,7
+12,domain wall (dw),2,spintronic technology,7
+13,magnetic skyrmion,2,magnetic skyrmion,6
+14,spintronics,2,magnetic nanowire,6
+15,energy,2,chiral domain wall motion,6
+16,performance,2,magnetic domain wall,6
+17,magnetic nanowire,2,hspice,6
+18,magnetic field assistance,2,domain wall motion,6
+19,low power,2,mumax3,5
+20,spintronic technology,2,notches,5
+21,magnetic domain wall,2,breathing mode,5
+22,emerging technologies,2,mobility,5
+23,domain wall (dw) motion,2,magnetic skyrmions,5
+24,hspice,2,domain wall (dw),5
+25,domain wall motion,2,low power,5
+26,mumax3,1,domain wall (dw) motion,5
+27,notches,1,spin-transfer torque,4
+28,breathing mode,1,random-access storage,4
+29,mobility,1,racetrack logic,4
+30,deletions,1,memory systems,4
+31,sticky insertions,1,ibm,4
+32,run-length limited,1,bitwise,4
+33,data update,1,micromagnetism,4
+34,magnetic skyrmion (sk),1,3d,4
+35,voltage,1,domain wall memory,4
+36,hybrid look-up table,1,x-bar cell structure,4
+37,reconfiguration,1,1txc,4
+38,reusable,1,anti-disturbance,4
+39,energy efficient,1,review,4
+40,pre-shifting,1,domain-wall memory,4
+41,direction optimized,1,shift operations,4
+42,neuromorphic computing,1,reliability,4
+43,nanomagnetism,1,in-memory computing,4
+44,magneto-optical kerr effect,1,sot-mram,4
+45,dark field,1,in-memory,4
+46,random-access storage,1,magnetic field assistance,4
+47,racetrack logic,1,emerging technologies,4
+48,memory systems,1,main memory,4
+49,ibm,1,shifts,4
+50,bitwise,1,stt-ram,4
+51,micromagnetism,1,slc,4
+52,3d,1,mlc,4
+53,domain wall memory,1,deletions,3
+54,x-bar cell structure,1,sticky insertions,3
+55,1txc,1,run-length limited,3
+56,anti-disturbance,1,data update,3
+57,two-lane racetrack,1,magnetic skyrmion (sk),3
+58,magnetocrystalline anisotropy,1,voltage,3
+59,review,1,hybrid look-up table,3
+60,domain-wall memory,1,reconfiguration,3
+61,shift operations,1,reusable,3
+62,reliability,1,energy efficient,3
+63,analog-to-digital converter (adc),1,pre-shifting,3
+64,emerging circuits,1,direction optimized,3
+65,interfacial dzyaloshinskii-moriya interaction,1,nanomagnetism,3
+66,magnetic vortex,1,magneto-optical kerr effect,3
+67,micromagnetic simulation,1,dark field,3
+68,magnetic,1,magnetic vortex,3
+69,in-memory computing,1,micromagnetic simulation,3
+70,sot-mram,1,magnetic,3
+71,in-memory,1,spin memory and logic,3
+72,modular multiplier,1,multiple skyrmions,3
+73,asymmetric cryptography,1,domain-wall pair,3
+74,covert channel,1,threshold,3
+75,last level cache,1,voltage manipulation,3
+76,spin memory and logic,1,mram,3
+77,multiple skyrmions,1,skyrmionics,3
+78,domain-wall pair,1,memory devices,3
+79,threshold,1,racetracks,3
+80,voltage manipulation,1,demultiplexing,3
+81,l2 cache,1,logic in memory,3
+82,field-programmable gate array (fpga),1,non-volatile memory,3
+83,multicontext,1,non-volatile full,3
+84,mram,1,domain wall motion (dw),3
+85,general computer systems organization,1,emerging,3
+86,memory,1,modeling,3
+87,logical to physical mapping,1,adc,3
+88,power consumption,1,image sensor,3
+89,skyrmionics,1,spin-transfer-torque,3
+90,memory devices,1,magnetic adder,3
+91,racetracks,1,magnetic circuit,3
+92,main memory,1,magnetic tunnel,3
+93,shifts,1,non-volatility,3
+94,error correction code,1,doped permalloy,3
+95,position error,1,damping,3
+96,context switch,1,domain walls speed,3
+97,gpu,1,domain wall dynamics,3
+98,demultiplexing,1,domain wall pinning,3
+99,logic in memory,1,spin,3
+100,non-volatile memory,1,magnetization dynamics,3
+101,non-volatile full,1,breather,3
+102,perpendicular magnetic,1,neuromorphic computing,2
+103,domain wall motion (dw),1,two-lane racetrack,2
+104,emerging,1,magnetocrystalline anisotropy,2
+105,stt-ram,1,analog-to-digital converter (adc),2
+106,slc,1,emerging circuits,2
+107,mlc,1,modular multiplier,2
+108,dzyaloshinskii-moriya interaction,1,asymmetric cryptography,2
+109,modeling,1,covert channel,2
+110,adc,1,last level cache,2
+111,image sensor,1,l2 cache,2
+112,spin-transfer-torque,1,field-programmable gate array (fpga),2
+113,cache memory,1,multicontext,2
+114,magnetic adder,1,general computer systems organization,2
+115,magnetic circuit,1,memory,2
+116,magnetic tunnel,1,logical to physical mapping,2
+117,non-volatility,1,power consumption,2
+118,cross-layer design,1,error correction code,2
+119,doped permalloy,1,position error,2
+120,damping,1,context switch,2
+121,domain walls speed,1,gpu,2
+122,domain wall dynamics,1,perpendicular magnetic,2
+123,domain wall pinning,1,dzyaloshinskii-moriya interaction,2
+124,spin,1,interfacial dzyaloshinskii-moriya interaction,1
+125,magnetization dynamics,1,cache memory,1
+126,breather,1,cross-layer design,1

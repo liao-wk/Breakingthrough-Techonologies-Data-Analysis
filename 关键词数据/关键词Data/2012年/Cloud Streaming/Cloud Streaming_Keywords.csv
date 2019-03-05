@@ -1,0 +1,315 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,cloud computing,46,cloud computing,130
+1,cloud,8,cloud,29
+2,video streaming,8,video streaming,28
+3,big data,6,qoe,20
+4,stream processing,6,stream processing,19
+5,qoe,6,big data,18
+6,live streaming,6,live streaming,18
+7,cloud gaming,5,cloud gaming,15
+8,streaming service,5,streaming,14
+9,streaming,4,data streams,14
+10,data streams,4,streaming service,12
+11,data stream,3,mobile,12
+12,mobile,3,data stream,11
+13,scheduling,3,scheduling,9
+14,simulation,2,mapreduce,8
+15,fog computing,2,pipelining,8
+16,live video streaming,2,uncertain data,8
+17,adaptive streaming,2,skyline query,8
+18,scalability,2,scalability,7
+19,webrtc,2,internet of things,7
+20,media,2,qos,7
+21,streaming media,2,load balancing,7
+22,cloud-assisted video streaming,2,quality,7
+23,real-time,2,live video,7
+24,elastic,2,overlay network,7
+25,streaming media edge cloud (mec),2,p2p streaming,7
+26,adaptive video streaming,2,simulation,6
+27,internet of things,2,adaptive streaming,6
+28,galaxies: evolution,2,webrtc,6
+29,peer-to-peer,2,media,6
+30,energy efficient,2,elastic,6
+31,qos,2,mobile cloud computing,6
+32,mobile cloud computing,2,availability,6
+33,multimedia streaming,2,quality of service,6
+34,load balancing,2,fog computing,5
+35,availability,2,live video streaming,5
+36,quality,2,streaming media,5
+37,quality of service,2,real-time,5
+38,live video,2,peer-to-peer,5
+39,overlay network,2,multimedia streaming,5
+40,p2p streaming,2,hydrodynamics,5
+41,video block device,2,ism : clouds,5
+42,hint file,2,galaxies : evolution,5
+43,bittorrent,2,galaxy : halo,5
+44,mapreduce,2,devops,4
+45,pipelining,2,broadcasting,4
+46,cloud streaming,2,time-critical applications,4
+47,uncertain data,2,5g ran,4
+48,skyline query,2,distributed cloud,4
+49,hydrodynamics,2,monitoring,4
+50,ism : clouds,2,streaming dataflows,4
+51,galaxies : evolution,2,vprobe vnf,4
+52,galaxies : interactions,2,content delivery network,4
+53,galaxy : halo,2,dash streaming,4
+54,p2p video streaming system,1,adaptive cdn,4
+55,cloud assistance,1,cloud-assisted video streaming,4
+56,2-hop delivery scheme,1,component,4
+57,edge node,1,formatting,4
+58,real-time streaming,1,style,4
+59,cloud storage,1,styling,4
+60,stars: formation,1,insert,4
+61,ism: clouds,1,streaming media edge cloud (mec),4
+62,ism: evolution,1,adaptive video streaming,4
+63,ism: kinematics and,1,sensors,4
+64,quantitative analysis,1,observations,4
+65,queueing theory,1,streams,4
+66,online streaming,1,quality of,4
+67,continuous query optimization,1,galaxies: evolution,4
+68,data streams clustering,1,sensor data,4
+69,cloud services,1,delivery cycle,4
+70,heterogeneous vm provisioning,1,distributed processing,4
+71,qos-aware scheduling,1,path,4
+72,resource elasticity,1,mobile video streaming,4
+73,autonomous scheduling,1,transcoding,4
+74,steam processing,1,mpeg-dash,4
+75,faas,1,cloud service,4
+76,video streaming services,1,energy efficient,4
+77,devops,1,video sharing,4
+78,broadcasting,1,rtsp,4
+79,time-critical applications,1,social applications,4
+80,qoe management,1,a mobile device,4
+81,dash,1,gpu,4
+82,5g ran,1,elasticity,4
+83,distributed cloud,1,openflow,4
+84,monitoring,1,games,4
+85,streaming dataflows,1,caching,4
+86,vprobe vnf,1,network gaming,4
+87,point cloud,1,ensemble tree,4
+88,mpeg dash,1,load factor,4
+89,mpeg pcc,1,mapping,4
+90,content delivery network,1,data stream and,4
+91,dash streaming,1,cdn,4
+92,adaptive cdn,1,video block device,4
+93,cloud-based service deployment,1,hint file,4
+94,cloud-based data stream processing,1,bittorrent,4
+95,runtime adaptation,1,spot market,4
+96,cloud storage service,1,cloud streaming,4
+97,cloud monitoring,1,in-cast,4
+98,qos violation detection,1,performance simulation,4
+99,flash p2p,1,flow,4
+100,delay-awareness,1,parallel model,4
+101,quality optimization,1,parallel processing,4
+102,delay-rate-distortion (d-r-d) optimization,1,streaming video,4
+103,progressive,1,ieee 802,4
+104,cloud-based service,1,11 standards,4
+105,real-time message protocol (rtmp),1,mimo,4
+106,video streaming service,1,wireless communication,4
+107,resource allocation,1,mobile handsets,4
+108,nim game,1,data analytics,4
+109,big data streams,1,sensor,4
+110,self-organizing maps,1,service architecture,4
+111,characteristics,1,service data,4
+112,hybrid-streaming,1,distributed,4
+113,graphics quality,1,map-reduce,4
+114,resource provisioning,1,cloud runtimes,4
+115,container,1,content,4
+116,component,1,galaxies : interactions,4
+117,formatting,1,stars: formation,3
+118,style,1,ism: clouds,3
+119,styling,1,ism: evolution,3
+120,insert,1,ism: kinematics and,3
+121,joint optimization,1,quantitative analysis,3
+122,session migration,1,queueing theory,3
+123,multimedia cloud services,1,online streaming,3
+124,provisioning,1,resource elasticity,3
+125,resource prediction,1,autonomous scheduling,3
+126,sensors,1,steam processing,3
+127,observations,1,faas,3
+128,streams,1,video streaming services,3
+129,quality of,1,qoe management,3
+130,avatar mobility,1,dash,3
+131,cloud-based 3d rendering,1,point cloud,3
+132,path selection,1,mpeg dash,3
+133,galaxies: haloes,1,mpeg pcc,3
+134,galaxies: kinematics and dynamics,1,cloud-based service deployment,3
+135,galaxies:,1,cloud monitoring,3
+136,galaxies: clusters: individual: virgo,1,qos violation detection,3
+137,sensor data,1,video streaming service,3
+138,delivery cycle,1,resource allocation,3
+139,distributed processing,1,nim game,3
+140,path,1,big data streams,3
+141,cloud-assistance,1,self-organizing maps,3
+142,and quality of service,1,characteristics,3
+143,streaming big data,1,resource provisioning,3
+144,multiple cloud,1,container,3
+145,blue stragglers,1,resource prediction,3
+146,stars: horizontal branch,1,cloud-assistance,3
+147,galaxy: fundamental,1,and quality of service,3
+148,application layer multicast,1,cloud collaboration,3
+149,two-tier multicast structure,1,online anomaly detection,3
+150,virtual,1,non-parametric,3
+151,cloud collaboration,1,live streaming platform,3
+152,online anomaly detection,1,mcu,3
+153,non-parametric,1,peer to peer,3
+154,capacity management,1,control theory,3
+155,microbilling,1,adaptive data processing,3
+156,resource scheduling,1,spark streaming,3
+157,online session,1,cognitive visualization,3
+158,live streaming platform,1,streaming data,3
+159,mcu,1,multimedia server,3
+160,cloud-based virtual space,1,p2p network s,3
+161,virtual classroom,1,hybrid p2p-cloud,3
+162,hyper-cast,1,locality-awareness,3
+163,surveillance,1,stochastic optimization,3
+164,web services and live streaming,1,vod,3
+165,qos-aware,1,video on demand,3
+166,context awareness,1,analytical models,3
+167,http adaptive streaming,1,eucalyptus platform,3
+168,virtual desktop,1,lidar points cloud,3
+169,mobile video streaming,1,rasterization,3
+170,transcoding,1,i/o operation,3
+171,mpeg-dash,1,triangle driver,3
+172,cloud service,1,multi-cloud,3
+173,adaptive multimedia streaming,1,structured cloud,3
+174,peer to peer,1,stream computing,3
+175,control theory,1,adaptive,3
+176,adaptive data processing,1,cloud architecture,3
+177,spark streaming,1,data management,3
+178,video sharing,1,data stream processing,3
+179,rtsp,1,multiple query plans,3
+180,social applications,1,multiple queries,3
+181,user experience,1,video,3
+182,cloud-based mobile video,1,elastic processing,3
+183,qoe estimation,1,continuous query,3
+184,cognitive visualization,1,mobile media service,3
+185,streaming data,1,convergence service,3
+186,a mobile device,1,home appliance,3
+187,gpu,1,self-management,3
+188,multimedia server,1,multiple data streams,3
+189,p2p network s,1,clustering,3
+190,crowdsourced multimedia content,1,correlation,3
+191,multimedia cloud,1,data cloud node,3
+192,opportunistic cloud platform,1,virtual machine allocation,3
+193,cooperative multimedia,1,task allocation,3
+194,hybrid p2p-cloud,1,video surveillance,3
+195,locality-awareness,1,hybrid clouds,3
+196,stochastic optimization,1,security and privacy,3
+197,vod,1,markov chains,3
+198,elasticity,1,sensitivity analysis,3
+199,openflow,1,energy efficiency,3
+200,scalable video coding,1,mobile cloud,3
+201,games,1,real-time stream mining,3
+202,caching,1,resource,3
+203,network gaming,1,delegation,3
+204,video on demand,1,ma-communication complexity,3
+205,analytical models,1,latency,3
+206,eucalyptus platform,1,performance,3
+207,lidar points cloud,1,music streaming,3
+208,rasterization,1,temporal impairments,3
+209,i/o operation,1,streaming migration,3
+210,triangle driver,1,streaming recovery,3
+211,multi-cloud,1,streaming failover,3
+212,structured cloud,1,video transcoding,3
+213,ensemble tree,1,admission control,3
+214,load factor,1,self-adaptive,3
+215,mapping,1,mobile cloud network,3
+216,data stream and,1,seamless handover,3
+217,stream computing,1,broken-point,3
+218,adaptive,1,instabilities,3
+219,cloud architecture,1,shock waves,3
+220,data management,1,galaxies : halos,3
+221,data stream processing,1,p2p video streaming system,2
+222,media cloud,1,cloud assistance,2
+223,cdn,1,2-hop delivery scheme,2
+224,multiple query plans,1,edge node,2
+225,multiple queries,1,real-time streaming,2
+226,video,1,cloud storage,2
+227,elastic processing,1,continuous query optimization,2
+228,continuous query,1,data streams clustering,2
+229,peer-to-peer computing,1,cloud services,2
+230,mobile media service,1,heterogeneous vm provisioning,2
+231,live media streaming,1,qos-aware scheduling,2
+232,min-cost flow,1,cloud storage service,2
+233,cloud multimedia network,1,flash p2p,2
+234,multimedia sharing,1,delay-awareness,2
+235,spot market,1,quality optimization,2
+236,energy-efficient optimization,1,delay-rate-distortion (d-r-d) optimization,2
+237,dynamic backlight scaling,1,progressive,2
+238,multimedia,1,cloud-based service,2
+239,convergence service,1,real-time message protocol (rtmp),2
+240,home appliance,1,hybrid-streaming,2
+241,software as a service,1,graphics quality,2
+242,load optimization,1,joint optimization,2
+243,self-management,1,session migration,2
+244,load distribution,1,multimedia cloud services,2
+245,social media streaming,1,provisioning,2
+246,in-cast,1,avatar mobility,2
+247,performance simulation,1,cloud-based 3d rendering,2
+248,flow,1,path selection,2
+249,agent,1,galaxies: haloes,2
+250,cluster,1,galaxies: kinematics and dynamics,2
+251,multiple data streams,1,galaxies:,2
+252,clustering,1,streaming big data,2
+253,correlation,1,multiple cloud,2
+254,data cloud node,1,blue stragglers,2
+255,parallel model,1,stars: horizontal branch,2
+256,virtual machine allocation,1,galaxy: fundamental,2
+257,task allocation,1,application layer multicast,2
+258,video surveillance,1,two-tier multicast structure,2
+259,hybrid clouds,1,virtual,2
+260,security and privacy,1,capacity management,2
+261,markov chains,1,microbilling,2
+262,sensitivity analysis,1,resource scheduling,2
+263,energy efficiency,1,online session,2
+264,mobile cloud,1,cloud-based virtual space,2
+265,real-time stream mining,1,virtual classroom,2
+266,resource,1,hyper-cast,2
+267,label switching,1,surveillance,2
+268,multi-path,1,web services and live streaming,2
+269,delegation,1,qos-aware,2
+270,ma-communication complexity,1,context awareness,2
+271,latency,1,http adaptive streaming,2
+272,performance,1,virtual desktop,2
+273,music streaming,1,adaptive multimedia streaming,2
+274,temporal impairments,1,user experience,2
+275,parallel processing,1,cloud-based mobile video,2
+276,streaming migration,1,qoe estimation,2
+277,streaming recovery,1,crowdsourced multimedia content,2
+278,streaming failover,1,multimedia cloud,2
+279,video transcoding,1,opportunistic cloud platform,2
+280,admission control,1,cooperative multimedia,2
+281,self-adaptive,1,scalable video coding,2
+282,mobile cloud network,1,media cloud,2
+283,streaming video,1,peer-to-peer computing,2
+284,ieee 802,1,live media streaming,2
+285,11 standards,1,min-cost flow,2
+286,mimo,1,cloud multimedia network,2
+287,wireless communication,1,multimedia sharing,2
+288,mobile handsets,1,energy-efficient optimization,2
+289,congestion control algorithm,1,dynamic backlight scaling,2
+290,adaptive media player,1,multimedia,2
+291,cloud-based multimedia system,1,software as a service,2
+292,dynamic adjustable streaming service,1,load optimization,2
+293,seamless handover,1,load distribution,2
+294,broken-point,1,social media streaming,2
+295,dna sequence analysis,1,agent,2
+296,next-generation sequencing (ngs),1,cluster,2
+297,ngs read,1,label switching,2
+298,data analytics,1,multi-path,2
+299,sensor,1,congestion control algorithm,2
+300,service architecture,1,adaptive media player,2
+301,service data,1,dna sequence analysis,2
+302,stream data management,1,next-generation sequencing (ngs),2
+303,data privacy,1,ngs read,2
+304,distributed,1,stream data management,2
+305,map-reduce,1,data privacy,2
+306,cloud runtimes,1,methods : analytical,2
+307,content,1,ism : kinematics and dynamics,2
+308,instabilities,1,galaxies : local group,2
+309,shock waves,1,cloud-based data stream processing,1
+310,methods : analytical,1,runtime adaptation,1
+311,ism : kinematics and dynamics,1,galaxies: clusters: individual: virgo,1
+312,galaxies : local group,1,cloud-based multimedia system,1
+313,galaxies : halos,1,dynamic adjustable streaming service,1

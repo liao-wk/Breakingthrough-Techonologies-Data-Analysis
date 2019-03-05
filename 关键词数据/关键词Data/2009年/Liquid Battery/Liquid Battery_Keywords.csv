@@ -1,0 +1,358 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,ionic liquid,28,ionic liquid,82
+1,ionic liquids,23,ionic liquids,74
+2,battery,11,battery,39
+3,electrolyte,9,electrolyte,29
+4,materials,9,ionic,28
+5,ionic,8,lithium-ion battery,26
+6,electric vehicle,7,lithium,22
+7,lithium-ion battery,7,electric vehicle,22
+8,lithium,6,batteries,19
+9,lithium batteries,6,lithium batteries,19
+10,batteries,5,thermal management,17
+11,thermal management,5,gel polymer electrolyte,15
+12,gel polymer electrolyte,5,materials,14
+13,lithium battery,5,energy storage,14
+14,electrolytes,4,electrolytes,13
+15,lithium ion battery,4,lithium battery,13
+16,safety,4,graphite,13
+17,electrochemistry,4,lithium ion battery,12
+18,energy storage,4,safety,12
+19,li-ion battery,4,electrochemistry,12
+20,performance,3,cooling,11
+21,battery thermal management,3,lithium-ion batteries,11
+22,liquid metal,3,performance,10
+23,polymer electrolytes,3,liquid metal,10
+24,lithium ion,3,li-ion battery,10
+25,cooling,3,lithium ion batteries,10
+26,lithium-sulfur batteries,3,liquid-liquid extraction,10
+27,lithium-ion batteries,3,lithium ion,9
+28,liquid metal battery,3,hybrid,9
+29,ionic liquid electrolyte,3,conductivity,9
+30,conductivity,3,lifepo(4),9
+31,solid electrolyte,3,polymer electrolytes,8
+32,lithium ion batteries,3,ammonia,8
+33,graphite,3,silicon,8
+34,liquid-liquid extraction,3,polysulfide,8
+35,electrode,2,titanium,8
+36,cooling system,2,electrode,7
+37,battery thermal management system,2,cooling system,7
+38,hybrid electric vehicle,2,lithium-sulfur batteries,7
+39,ammonia,2,liquid-free,7
+40,hybrid,2,liquid metal battery,7
+41,lead-acid battery,2,ionic liquid electrolyte,7
+42,magnetohydrodynamics,2,catalysts,7
+43,rechargeable,2,solid electrolyte,7
+44,silicon,2,oxygen,7
+45,energy density,2,battery thermal management,6
+46,liquid-free,2,hybrid electric vehicle,6
+47,polymeric ionic liquid,2,lead-acid battery,6
+48,liquid metal batteries,2,thermal,6
+49,gel polymer,2,heat release,6
+50,electrochemical window,2,chitosan,6
+51,thermal,2,lithium/sulfur battery,6
+52,catalysts,2,magnetohydrodynamics,5
+53,polymer electrolyte,2,rechargeable,5
+54,heat release,2,energy density,5
+55,chitosan,2,liquid metal batteries,5
+56,temperature,2,engineering,5
+57,cells,2,issue 118,5
+58,polysulfide,2,high,5
+59,oxygen,2,electrochemical window,5
+60,lithium/sulfur battery,2,flow battery,5
+61,lifepo(4),2,salt,5
+62,ionic conductivity,2,air,5
+63,titanium,2,lithium-o-2 batteries,5
+64,microporous membrane,2,orr,5
+65,supercapacitor,1,oer,5
+66,molten-salt,1,molybdenum disulfide,5
+67,temperature effect,1,polymer electrolyte,5
+68,aluminum-ion battery,1,temperature,5
+69,graphene cathode,1,cells,5
+70,triethylamine hydrochloride,1,vc,5
+71,sodium-beta alumina battery,1,ionic conductivity,5
+72,low-temperature,1,supercapacitor,4
+73,wetting,1,molten-salt,4
+74,octasilsesquioxanes,1,r134a,4
+75,air domain,1,heat and mass transfer,4
+76,double battery pack,1,battery thermal management system,4
+77,fluid domain,1,energy,4
+78,parallel liquid cooling,1,heat generation,4
+79,dual-graphite batteries,1,phase,4
+80,1-butyl-1-methylpyrrolidinium,1,sodium-air battery,4
+81,anions,1,liquid anode,4
+82,positive electrode,1,low voltage gap,4
+83,r134a,1,good safety,4
+84,heat and mass transfer,1,corrosion,4
+85,alkali-metal anodes,1,inhibition,4
+86,liquid na-k,1,acidic,4
+87,liquid-liquid interfaces,1,self-healing,4
+88,al secondary batteries,1,liquid buffer,4
+89,natural graphite,1,non-aqueous,4
+90,hybrid electrolytes,1,al-o-2 batteries,4
+91,liquid electrolytes,1,carbon microspheres,4
+92,lithium-sulfur,1,cathodes,4
+93,coolants,1,anodes,4
+94,cooling strategies,1,polymeric ionic liquid,4
+95,cooling performance,1,binder,4
+96,power lithium ion,1,gel polymer,4
+97,phase change material,1,aerogel,4
+98,heat pipe,1,energy conversion,4
+99,energy,1,vanadium,4
+100,heat generation,1,liquid sloshing,4
+101,phase,1,cfd,4
+102,nanoparticle,1,hydrostatic pump,4
+103,hybrid electrolyte,1,stratified cell,4
+104,sodium-air battery,1,lead acid,4
+105,liquid anode,1,stable,4
+106,low voltage gap,1,li-air battery,4
+107,good safety,1,flow batteries,4
+108,corrosion,1,radicals,4
+109,inhibition,1,supercooled liquids,4
+110,acidic,1,renewable energy,4
+111,cooling scheme,1,solar cell,4
+112,li-ion battery module,1,li-s batteries,4
+113,mini-channel,1,review,4
+114,elastic energy devices,1,absorption,4
+115,flexible batteries,1,primary batteries,4
+116,gallium-indium alloy liquid,1,sulfur dioxide,4
+117,all-solid-state battery,1,high voltage,4
+118,li-s battery,1,conducting materials,4
+119,composite electrode,1,sulfur cathode,4
+120,lithium-ion battery thermal management,1,li anode,4
+121,thermal model,1,cycle,4
+122,channeled liquid,1,natural cellulose,4
+123,internal waves,1,nanoparticles,4
+124,materials processing flows,1,electrodes,4
+125,self-healing,1,fuel cells,4
+126,liquid buffer,1,redox chemistry,4
+127,electrode materials,1,lithium-manganese,4
+128,electrodeposition,1,leaching,4
+129,li-ion batteries,1,cyanex 272,4
+130,elevated temperature,1,nicd batteries,4
+131,fluorescence imaging,1,nimh,4
+132,limn2o4 cathode,1,microporous membrane,4
+133,ion dissolution and diffusion,1,alkaline batteries,4
+134,"""water-in-ionic liquid"" electrolytes",1,zinc,4
+135,electrochemical stability windows,1,manganese,4
+136,non-aqueous,1,cyanex,4
+137,al-o-2 batteries,1,sodium-beta alumina battery,3
+138,carbon microspheres,1,low-temperature,3
+139,lithium sulfur battery,1,wetting,3
+140,sulfur-cnt cathode,1,octasilsesquioxanes,3
+141,material,1,air domain,3
+142,liquid materials,1,double battery pack,3
+143,non-aqueous electrolytes,1,fluid domain,3
+144,quinones,1,parallel liquid cooling,3
+145,thermal management system,1,alkali-metal anodes,3
+146,al-ion battery,1,liquid na-k,3
+147,graphene,1,liquid-liquid interfaces,3
+148,electrochemical exfoliation,1,hybrid electrolytes,3
+149,aluminum-sulfur batteries,1,liquid electrolytes,3
+150,na-k alloy,1,lithium-sulfur,3
+151,k-o-2 battery,1,coolants,3
+152,dendrite growth,1,cooling strategies,3
+153,liquid liquid interface,1,cooling performance,3
+154,reactions,1,power lithium ion,3
+155,ionogels,1,nanoparticle,3
+156,high-temperature batteries,1,hybrid electrolyte,3
+157,battery safety,1,cooling scheme,3
+158,in situ,1,li-ion battery module,3
+159,li-o-2 batteries,1,mini-channel,3
+160,operando,1,all-solid-state battery,3
+161,reaction mechanisms,1,li-s battery,3
+162,lonogels,1,composite electrode,3
+163,gel polymer electrolytes,1,electrode materials,3
+164,silsesquioxanes,1,electrodeposition,3
+165,carbon nanotubes,1,liquid materials,3
+166,flexible devices,1,non-aqueous electrolytes,3
+167,li-co2 batteries,1,quinones,3
+168,alkali metal,1,al-ion battery,3
+169,aromatic compounds,1,graphene,3
+170,radical anion,1,electrochemical exfoliation,3
+171,liquid electrode,1,aluminum-sulfur batteries,3
+172,cathodes,1,na-k alloy,3
+173,anodes,1,k-o-2 battery,3
+174,flat tube bank,1,dendrite growth,3
+175,flexible graphite,1,liquid liquid interface,3
+176,cascade,1,ionogels,3
+177,lithium difluoro(oxalato)borate,1,high-temperature batteries,3
+178,membrane,1,battery safety,3
+179,interface instability,1,in situ,3
+180,mhd mixing,1,li-o-2 batteries,3
+181,battery electrolytes,1,operando,3
+182,intermolecular,1,reaction mechanisms,3
+183,engineering,1,lonogels,3
+184,issue 118,1,gel polymer electrolytes,3
+185,high,1,silsesquioxanes,3
+186,binder,1,carbon nanotubes,3
+187,thin-film,1,flexible devices,3
+188,stationary energy storage,1,li-co2 batteries,3
+189,molten salts,1,alkali metal,3
+190,coulombic,1,aromatic compounds,3
+191,rechargeable aluminum battery,1,radical anion,3
+192,[bmim]otf ionic liquids,1,liquid electrode,3
+193,aqueous electrolyte,1,flat tube bank,3
+194,1-butyl-3-methylimidazolium,1,flexible graphite,3
+195,aluminum/sulfur batteries,1,cascade,3
+196,solid-state,1,battery electrolytes,3
+197,fuel-cells,1,intermolecular,3
+198,systems,1,stationary energy storage,3
+199,high-temperature,1,molten salts,3
+200,beta-alumina,1,coulombic,3
+201,aerogel,1,aluminum/sulfur batteries,3
+202,energy conversion,1,solid-state,3
+203,vanadium,1,systems,3
+204,flow battery,1,high-temperature,3
+205,salt,1,beta-alumina,3
+206,air,1,cooling modes,3
+207,liquid sloshing,1,simulation,3
+208,cfd,1,non-aqueous liquid battery,3
+209,hydrostatic pump,1,ferrocene,3
+210,stratified cell,1,li/o-2,3
+211,lead acid,1,high efficiency,3
+212,shuttle,1,flexible electronics,3
+213,graphite anode,1,lithium-ion,3
+214,cell,1,indirect liquid cooling,3
+215,lithium-o-2 batteries,1,nanofluids,3
+216,orr,1,mesoporous silica,3
+217,oer,1,quasi-solid-state electrolyte,3
+218,molybdenum disulfide,1,self-heating,3
+219,flexible lithium ion battery,1,temperature distribution,3
+220,anion,1,polymer electrolyte membrane,3
+221,gel electrolytes,1,poly sulfides,3
+222,cooling modes,1,charge,3
+223,simulation,1,aluminium-air battery,3
+224,non-aqueous liquid battery,1,high capacity,3
+225,ferrocene,1,high current density,3
+226,stable,1,organic solvents,3
+227,li-air battery,1,mixed electrolytes,3
+228,li/o-2,1,flow instabilities,3
+229,high efficiency,1,tayler,3
+230,li battery,1,lithium-air batteries,3
+231,ternary system,1,perfluorocarbon,3
+232,polysulfide catholyte,1,power sources,3
+233,flexible electronics,1,lithium-air battery,3
+234,lithium-ion,1,organic solution,3
+235,mhd and electrohydrodynamics,1,protic ionic liquids,3
+236,multiphase and particle-laden flows,1,lfp,3
+237,flow batteries,1,lto,3
+238,radicals,1,lithium/o-2 battery,3
+239,supercooled liquids,1,oxygen redox reaction,3
+240,lithium electrodeposition,1,porous carbon,3
+241,liquid-cell electron microscopy,1,liquid cooling,3
+242,electron,1,high rate,3
+243,indirect liquid cooling,1,cross-linking,3
+244,nanofluids,1,cycling performance,3
+245,mesoporous silica,1,nitroxide polymer,3
+246,quasi-solid-state electrolyte,1,organic radical batteries,3
+247,sodium secondary battery,1,cathode,3
+248,wide operation temperature,1,discharge,3
+249,self-heating,1,metal air,3
+250,temperature distribution,1,polymeric electrolytes,3
+251,polymer electrolyte membrane,1,polymeric,3
+252,current,1,lithium iron phosphate,3
+253,energy-storage,1,guanidinium,3
+254,stability,1,lithium lanthanum titanate,3
+255,renewable energy,1,longitudinal nuclear relaxation,3
+256,solar cell,1,field,3
+257,capacity fading mechanisms,1,polymer gel electrolytes,3
+258,poly sulfides,1,ammonium,3
+259,charge,1,room temperature ionic liquid,3
+260,li-s batteries,1,li-metal battery,3
+261,review,1,temperature effect,2
+262,aluminium-air battery,1,aluminum-ion battery,2
+263,high capacity,1,graphene cathode,2
+264,high current density,1,triethylamine hydrochloride,2
+265,nao2,1,dual-graphite batteries,2
+266,organic solvents,1,1-butyl-1-methylpyrrolidinium,2
+267,mixed electrolytes,1,al secondary batteries,2
+268,flow instabilities,1,natural graphite,2
+269,tayler,1,phase change material,2
+270,absorption,1,heat pipe,2
+271,primary batteries,1,elastic energy devices,2
+272,sulfur dioxide,1,flexible batteries,2
+273,lithium-air batteries,1,gallium-indium alloy liquid,2
+274,perfluorocarbon,1,lithium-ion battery thermal management,2
+275,power sources,1,thermal model,2
+276,lithium-air battery,1,channeled liquid,2
+277,organic solution,1,internal waves,2
+278,operando transmission electron microscopy,1,materials processing flows,2
+279,electrochemical liquid cell,1,li-ion batteries,2
+280,high voltage,1,elevated temperature,2
+281,rechargeable aluminum batteries,1,fluorescence imaging,2
+282,aluminum,1,limn2o4 cathode,2
+283,lithium-oxygen battery,1,ion dissolution and diffusion,2
+284,composite electrolyte,1,lithium sulfur battery,2
+285,protic ionic liquids,1,sulfur-cnt cathode,2
+286,lfp,1,thermal management system,2
+287,lto,1,lithium difluoro(oxalato)borate,2
+288,numerical,1,membrane,2
+289,conducting materials,1,interface instability,2
+290,lithium/o-2 battery,1,mhd mixing,2
+291,oxygen redox reaction,1,rechargeable aluminum battery,2
+292,porous carbon,1,[bmim]otf ionic liquids,2
+293,alkyl chain,1,aqueous electrolyte,2
+294,liquid cooling,1,1-butyl-3-methylimidazolium,2
+295,high rate,1,shuttle,2
+296,power batteries: electric vehicles (evs),1,graphite anode,2
+297,cross-linking,1,cell,2
+298,cycling performance,1,flexible lithium ion battery,2
+299,sulfur cathode,1,anion,2
+300,li anode,1,gel electrolytes,2
+301,cycle,1,li battery,2
+302,nitroxide polymer,1,ternary system,2
+303,organic radical batteries,1,polysulfide catholyte,2
+304,cathode,1,lithium electrodeposition,2
+305,all-solid-state lithium ion battery,1,liquid-cell electron microscopy,2
+306,oxide ceramics,1,electron,2
+307,natural cellulose,1,sodium secondary battery,2
+308,electroplating,1,wide operation temperature,2
+309,spent bateries,1,energy-storage,2
+310,sulfur/carbon composites,1,stability,2
+311,discharge,1,rechargeable aluminum batteries,2
+312,zinc-air-batteries,1,aluminum,2
+313,ionic liquids as electrolytes,1,lithium-oxygen battery,2
+314,metal air,1,composite electrolyte,2
+315,polymeric electrolytes,1,numerical,2
+316,polymeric,1,all-solid-state lithium ion battery,2
+317,vc,1,oxide ceramics,2
+318,lithium iron phosphate,1,electroplating,2
+319,guanidinium,1,spent bateries,2
+320,lifepo4,1,sulfur/carbon composites,2
+321,n-butyl-n-methylpyrrolidinium,1,zinc-air-batteries,2
+322,current instability,1,ionic liquids as electrolytes,2
+323,alkaline cell,1,lifepo4,2
+324,spinel,1,alkaline cell,2
+325,lithium secondary batteries,1,lithium secondary batteries,2
+326,soft matter,1,soft matter,2
+327,multi-functional polymer electrolytes,1,multi-functional polymer electrolytes,2
+328,lithium lanthanum titanate,1,room-temperature ionic liquid,2
+329,longitudinal nuclear relaxation,1,lithium secondary battery,2
+330,field,1,imidazolium,2
+331,nanoparticles,1,automobile,2
+332,electrodes,1,charge-discharge behavior,2
+333,fuel cells,1,liquid-solid composite,2
+334,redox chemistry,1,poly(acrylonitrile-methyl methacrylate),2
+335,polymer gel electrolytes,1,gel,2
+336,ammonium,1,poly(vinylidene fluoride),2
+337,lithium-manganese,1,anions,1
+338,room-temperature ionic liquid,1,positive electrode,1
+339,lithium secondary battery,1,"""water-in-ionic liquid"" electrolytes",1
+340,imidazolium,1,electrochemical stability windows,1
+341,automobile,1,mhd and electrohydrodynamics,1
+342,room temperature ionic liquid,1,multiphase and particle-laden flows,1
+343,li-metal battery,1,capacity fading mechanisms,1
+344,leaching,1,operando transmission electron microscopy,1
+345,cyanex 272,1,electrochemical liquid cell,1
+346,nicd batteries,1,alkyl chain,1
+347,nimh,1,power batteries: electric vehicles (evs),1
+348,charge-discharge behavior,1,n-butyl-n-methylpyrrolidinium,1
+349,liquid-solid composite,1,current instability,1
+350,poly(acrylonitrile-methyl methacrylate),1,spinel,1
+351,gel,1,,
+352,poly(vinylidene fluoride),1,,
+353,alkaline batteries,1,,
+354,zinc,1,,
+355,manganese,1,,
+356,cyanex,1,,

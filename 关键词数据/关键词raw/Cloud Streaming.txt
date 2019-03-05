@@ -1,0 +1,747 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE P2P video streaming system; cloud assistance; 2-hop delivery scheme
+ID PERFORMANCE
+ER
+
+PT J
+DE Edge node; real-time streaming; cloud storage
+ID AWARE; STRATEGIES; NETWORKS; SYSTEMS; SERVICE; MIGRATION; DELIVERY;
+   MODEL
+ER
+
+PT J
+DE stars: formation; ISM: clouds; ISM: evolution; ISM: kinematics and
+   dynamics; Galaxy: centre; galaxies: ISM
+ID STAR-FORMATION RATES; GALACTIC-CENTER; DYNAMICAL MODEL; NEARBY GALAXIES;
+   GAS; PC; STARBURSTS; CENTERS; DISK
+ER
+
+PT J
+DE Simulation; Quantitative analysis; Queueing theory; Online streaming
+   services; Cloud computing; Service quality
+ID USER BEHAVIOR; ENVIRONMENTS; NETWORKS; MODELS; SYSTEM
+ER
+
+PT J
+DE Cloud Computing; continuous query optimization; data streams clustering;
+   multiple query plans; real-time systems
+ID WIRELESS SENSOR NETWORKS; NEAREST-NEIGHBOR QUERIES; UNCERTAIN DATA
+   STREAMS; SLIDING WINDOW; K-MEANS; SYSTEMS; BROADCAST; DYNAMICS; GRAPHS
+ER
+
+PT J
+DE Cloud services; heterogeneous VM provisioning; QoS-aware scheduling;
+   On-demand video transcoding
+ID ARCHITECTURES; ENVIRONMENTS; MANAGEMENT; TASKS
+ER
+
+PT J
+DE Big Data; Stream processing; Resource elasticity; Cloud computing
+ID INTERNET; OPERATOR; SYSTEM
+ER
+
+PT B
+DE autonomous scheduling; steam processing; cloud computing; FaaS
+ER
+
+PT S
+DE fog computing; cloud computing; QoE; video streaming services
+ER
+
+PT S
+DE Cloud; DevOps; broadcasting; live streaming; time-critical applications
+ER
+
+PT S
+DE Cloud computing; Live video streaming; QoE management; DASH
+ER
+
+PT B
+DE 5G RAN; distributed cloud; monitoring; streaming dataflows; vProbe VNF;
+   fast data analysis; softwarization
+ER
+
+PT B
+DE Point cloud; adaptive streaming; MPEG DASH; MPEG PCC
+ID COMPRESSION
+ER
+
+PT B
+DE Cloud; Content Delivery Network; DASH streaming; QoE; Adaptive CDN
+   selection
+ER
+
+PT B
+ER
+
+PT B
+DE Adaptive streaming; Scalability; WebRTC; Cloud-based service deployment
+ER
+
+PT S
+DE Cloud-based data stream processing; Runtime adaptation;
+   Impact-minimizing adaptation; Algorithm switching; Dynamic deployment
+ER
+
+PT B
+DE Cloud computing; Live Video Streaming; Cloud Storage Service
+ID CLOUD
+ER
+
+PT S
+DE Cloud Computing; Cloud Monitoring; QoS Violation Detection; Media
+   Streaming Application
+ID SERVICE
+ER
+
+PT B
+DE cloud computing; streaming media; Flash P2P
+ER
+
+PT J
+DE Cloud-assisted video streaming; delay-awareness; quality optimization;
+   burst loss; differentiated transmission
+ID TRANSMISSION; CONGESTION; FRAMEWORK
+ER
+
+PT J
+DE Cloud gaming; delay-rate-distortion (d-R-D) optimization; progressive
+   mesh; rate allocation; video encoding
+ID SERVICE
+ER
+
+PT J
+DE Cloud-based service; Real-time message protocol (RTMP); Real-time
+   streaming protocols (RTSP); Transcoding; Video streaming
+ER
+
+PT J
+DE Video streaming service; Cloud computing; Resource allocation; Nim game;
+   Game theory; High utilization
+ER
+
+PT J
+ER
+
+PT J
+DE Big data streams; Cloud computing; Self-organizing maps; Characteristics
+   of Data (CoD)
+ID MOBILE CLOUD ENVIRONMENT; SERVICE; PERFORMANCE; QUALITY; MODEL
+ER
+
+PT J
+ID MANAGEMENT; NETWORKS
+ER
+
+PT J
+ID CLOUD; MANAGEMENT
+ER
+
+PT J
+DE Cloud Gaming; Hybrid-Streaming; Graphics Quality
+ER
+
+PT S
+DE Elastic; Resource provisioning; Stream processing; Container
+ER
+
+PT B
+DE component; formatting; style; styling; insert
+ID SOFTWARE
+ER
+
+PT S
+DE Streaming media edge cloud (MEC); Joint optimization; Session migration;
+   Video deployment; Popularity
+ID ON-DEMAND SYSTEMS; VIDEO; REPLICATION; SERVERS
+ER
+
+PT S
+DE Multimedia Cloud Services; Adaptive Video Streaming; Provisioning
+   Methods
+ID DEMAND
+ER
+
+PT S
+DE Big Data; Cloud Computing; Stream Processing; Resource Prediction;
+   Resource Scaling; Layered Hidden Markov Model
+ER
+
+PT S
+ER
+
+PT S
+ID CARRIER CLOUD; NETWORKS
+ER
+
+PT S
+DE Internet of Things; sensors; observations; streams; Quality of
+   Information; Autonomic Computing; Cloud Computing; Software Architecture
+   Patterns
+ID SMART CITIES; INTERNET; THINGS; MANAGEMENT; CONTEXT
+ER
+
+PT J
+DE Avatar mobility; cloud-based 3D rendering; path selection;
+   rate-distortion (R-D) model; software-defined networking (SDN)
+ID TRANSPORT PROTOCOL
+ER
+
+PT J
+DE galaxies: haloes; galaxies: kinematics and dynamics; galaxies:
+   structure; cosmology: theory; dark matter
+ID DARK-MATTER HALO; COLD STELLAR STREAM; MILKY-WAY; TIDAL STREAMS; PALOMAR
+   5; MISSING SATELLITES; CLUMPY STREAMS; STAR-FORMATION; SUBSTRUCTURE;
+   SUBHALOES
+ER
+
+PT J
+DE galaxies: clusters: individual: Virgo; galaxies: evolution;
+   intergalactic medium; galaxies: kinematics and dynamics; galaxies:
+   stellar content
+ID GALAXY ENVIRONMENT SURVEY; HIGH-VELOCITY CLOUDS; MEDIUM DENSITY REGIONS;
+   TIDAL DWARF GALAXY; FAST ALPHA SURVEY; VIRGO CLUSTER; NEUTRAL HYDROGEN;
+   RAM-PRESSURE; LOCAL GROUP; ALFALFA SURVEY
+ER
+
+PT J
+DE sensor data; data stream; delivery cycle; distributed processing; path
+   selection
+ID INTERNET
+ER
+
+PT J
+DE Live Streaming; Peer-to-Peer; Cloud-Assistance; and Quality of Service
+ID P2P; SYSTEM; VIDEO
+ER
+
+PT J
+DE Streaming big data; cloud computing; multiple cloud
+ID MANAGEMENT; NETWORKS
+ER
+
+PT J
+DE blue stragglers; stars: horizontal branch; Galaxy: fundamental
+   parameters; Galaxy: halo; Galaxy: kinematics and dynamics
+ID BLUE HORIZONTAL-BRANCH; DIGITAL SKY SURVEY; N-BODY SIMULATIONS;
+   MILKY-WAY; TIDAL ORIGIN; DWARF GALAXY; SPECTROSCOPIC SURVEY; SAGITTARIUS
+   STREAM; PROPER MOTION; CARINA DWARF
+ER
+
+PT J
+DE application layer multicast; two-tier multicast structure; virtual
+   machine; multicast tree
+ID USERS
+ER
+
+PT B
+DE Big data; cloud collaboration; online anomaly detection; non-parametric
+   statistical technique; KolmogorovSmirnov goodness of fit test
+ER
+
+PT S
+DE Cloud computing; capacity management; microbilling
+ER
+
+PT S
+DE streaming media edge cloud (MEC); resource scheduling; online session
+   migration; adaptive; video popularity
+ID SYSTEM
+ER
+
+PT B
+DE live streaming platform; cloud computing; MCU; WebRTC
+ER
+
+PT B
+DE Cloud-based Virtual Space; Virtual Classroom; Hyper-cast
+ER
+
+PT S
+ID ANALYTICS
+ER
+
+PT B
+ER
+
+PT B
+DE surveillance; cloud computing; web services and live streaming
+ER
+
+PT B
+DE QoS-aware; streaming service; fog computing
+ID SCHEME
+ER
+
+PT S
+DE context awareness; HTTP adaptive streaming; virtual desktop
+   infrastructure; mobile cloud computing component
+ER
+
+PT S
+DE Mobile Video Streaming; Transcoding; MPEG-DASH; Cloud Service; Mobile
+   Video Quality
+ER
+
+PT S
+DE Adaptive multimedia streaming; Cloud computing; Energy efficient;
+   Real-time transcoding
+ER
+
+PT S
+DE peer to peer; live streaming; control theory; QoS
+ER
+
+PT B
+DE Internet of Things; adaptive data processing; spark streaming; real-time
+   analytics
+ID DATA STREAM MANAGEMENT; SYSTEMS
+ER
+
+PT S
+DE Video streaming; Video Sharing; Mobile; RTSP; Social Applications
+ER
+
+PT B
+DE User Experience; Cloud-based Mobile video; QoE estimation
+ER
+
+PT J
+DE Big Data; Cloud Computing; Cognitive Visualization; Streaming Data;
+   Visual Cognition
+ID EXPLORATION; FRAMEWORK
+ER
+
+PT S
+ID ARCHITECTURES
+ER
+
+PT S
+ER
+
+PT J
+DE QoS; Video streaming; Mobile cloud computing; A mobile device; GPU;
+   Parallel algorithms
+ID SYSTEMS
+ER
+
+PT J
+DE Cloud Computing; Multimedia server; Multimedia Streaming; P2p Network s
+ER
+
+PT J
+DE Cloud computing; live streaming; crowdsourced multimedia content
+ID PEER-TO-PEER; SPANNING-TREES; VIDEO; OPPORTUNITIES
+ER
+
+PT J
+DE Multimedia cloud; Opportunistic cloud platform; Cooperative multimedia
+   stream; Wireless sensor networks; QoS guarantee
+ID MANAGEMENT; FRAMEWORK; INFRASTRUCTURE; OPTIMIZATION; ARCHITECTURE;
+   CHALLENGES
+ER
+
+PT J
+DE Hybrid P2P-cloud; Locality-awareness; Stochastic optimization; VoD
+   streaming
+ER
+
+PT S
+DE cloud computing; video streaming; elasticity; load balancing; Openflow;
+   software defined network
+ER
+
+PT B
+DE Adaptive Video Streaming; Scalable Video Coding; Mobile Cloud Computing;
+   Social Video sharing; Prefetching
+ER
+
+PT S
+DE Cloud Gaming; Video Streaming; Games; Caching; Network Gaming
+ER
+
+PT S
+DE Video on Demand; analytical models; availability; Eucalyptus Platform
+ID SENSITIVITY-ANALYSIS; MODEL
+ER
+
+PT B
+ER
+
+PT S
+DE LiDAR points cloud; rasterization; I/O operation; triangle driver;
+   streaming computation
+ER
+
+PT S
+DE mobile; cloud gaming; quality; QoE; streaming
+ER
+
+PT S
+DE cloud computing; live streaming; multi-cloud; structured cloud
+   federation; community clouds; federation overlay
+ER
+
+PT B
+DE Cloud Computing; Ensemble Tree; load factor; mapping; data stream and
+   metric space
+ER
+
+PT B
+DE Stream Computing; Elastic; Adaptive; Cloud
+ER
+
+PT B
+DE cloud architecture; big data; data stream; data management
+ER
+
+PT B
+DE Data stream processing; Big data; Cloud computing; Load balancing;
+   Ensemble data model; Knowledge sharing
+ER
+
+PT B
+DE Media cloud; video streaming; Quality of Service
+ER
+
+PT B
+DE Live video; overlay network; P2P streaming; cloud computing; CDN
+ER
+
+PT B
+DE data streams; cloud computing; multiple query plans; multiple queries
+   optimization; global plan
+ID SENSOR NETWORKS
+ER
+
+PT S
+DE Video; streaming; quality; cloud
+ER
+
+PT S
+DE Data streams; Cloud computing; Elastic processing; Continuous query
+   optimization; Query mesh
+ID UNCERTAIN DATA STREAMS; SENSOR NETWORKS; GRAPHS
+ER
+
+PT S
+DE Cloud Computing; Peer-to-Peer Computing; Multimedia Streaming
+ER
+
+PT J
+DE Streaming service; Mobile media service; Cloud computing; Media
+   transcoding; Distributed processing
+ID SERVERS
+ER
+
+PT J
+DE cloud computing; live media streaming; min-cost flow
+ER
+
+PT J
+ER
+
+PT J
+DE Video block device; Hint file; BitTorrent
+ER
+
+PT J
+DE Cloud multimedia network; energy efficient; multimedia sharing
+ER
+
+PT J
+DE Cloud computing; MapReduce; pipelining; stream processing; spot market
+ER
+
+PT J
+DE Energy-efficient optimization; dynamic backlight scaling; multimedia
+   streaming applications; cloud services; mobile devices
+ID TFT-LCDS; MINIMIZATION; QUALITY; DISPLAY; SYSTEMS
+ER
+
+PT B
+ER
+
+PT S
+DE Cloud computing; Cloud Streaming; Convergence service; Home appliance
+ER
+
+PT B
+DE Software as a Service; stream processing; load optimization
+ER
+
+PT S
+DE Cloud computing; Self-management; Live streaming; Simulation
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+DE Cloud Computing; Load Distribution; Social Media Streaming
+ID WEB SERVERS
+ER
+
+PT S
+DE Cloud Computing; Video Streaming; In-cast; Performance Simulation; Flow
+   Control
+ID NETWORKS
+ER
+
+PT B
+DE Agent; Streaming Service; Cluster
+ER
+
+PT S
+DE multiple data streams; clustering; correlation; data cloud node;
+   distance
+ID EVOLVING STREAMS
+ER
+
+PT J
+DE uncertain data; data streams; skyline query; parallel model; cloud
+   computing; data management
+ID SLIDING WINDOW SKYLINES; COMPUTATION; OPERATOR
+ER
+
+PT S
+DE Cloud Computing; Virtual Machine allocation; Task allocation; scheduling
+ER
+
+PT S
+DE live video; overlay network; p2p streaming; cloud computing
+ER
+
+PT S
+DE Video surveillance; hybrid clouds; scheduling; security and privacy
+ER
+
+PT S
+ER
+
+PT S
+DE Availability; Markov Chains; Sensitivity analysis; Video Streaming
+   Service
+ER
+
+PT B
+ER
+
+PT J
+ID SYSTEMS; ARCHITECTURE; QUERIES; AURORA; MODEL
+ER
+
+PT J
+ER
+
+PT J
+ID SVC
+ER
+
+PT J
+DE Energy efficiency; mobile cloud; real-time stream mining; resource
+   management; stochastic control
+ID RETRIEVAL
+ER
+
+PT J
+DE Cloud-assisted video streaming; label switching; multi-path
+   provisioning; scalable video coding
+ID DIVERSITY; NETWORKS
+ER
+
+PT J
+DE Streaming; Delegation; Cloud computing; MA-communication complexity
+ID MODEL; ALGORITHM
+ER
+
+PT B
+DE Cloud computing; Cloud Streaming
+ER
+
+PT B
+DE Cloud Gaming; QoE; Latency; Performance
+ER
+
+PT S
+ER
+
+PT S
+DE QoE; music streaming; video streaming; temporal impairments
+ER
+
+PT S
+DE uncertain data; data streams; skyline query; parallel processing; cloud
+   computing
+ID SLIDING WINDOW SKYLINES; UNCERTAIN DATA; COMPUTATION; QUERIES
+ER
+
+PT B
+DE streaming migration; streaming recovery; streaming failover; cloud
+   streaming
+ER
+
+PT S
+DE Video transcoding; cloud computing; admission control; scheduling;
+   segmentation; resource allocation
+ID SERVERS
+ER
+
+PT B
+DE Self-adaptive; QoE; Streaming Service; Mobile Cloud Network
+ER
+
+PT B
+DE Cloud Computing; Streaming Video; Scalability; Quality of Service; Cloud
+   Security
+ER
+
+PT J
+DE IEEE 802; 11 standards; MIMO; Wireless communication; Mobile handsets;
+   Cloud computing; Streaming media; MU-MIMO; Wi-Fi; 802; 11; 802; 11ac;
+   802; 11ad; 802; 11n; MIMO
+ER
+
+PT J
+ER
+
+PT S
+ER
+
+PT S
+DE cloud computing; congestion control algorithm; adaptive media player;
+   streaming video
+ER
+
+PT S
+ID OVERLAY
+ER
+
+PT B
+DE Cloud-based Multimedia System; Dynamic Adjustable Streaming Service
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT B
+ID HOME NETWORKS
+ER
+
+PT B
+DE Video Block Device; Hint file; BitTorrent
+ER
+
+PT S
+DE Cloud computing; Streaming media; Seamless handover; Broken-point
+   continuingly-playing
+ER
+
+PT S
+DE DNA sequence analysis; Next-Generation Sequencing (NGS); NGS read
+   alignment; cloud computing; data stream processing; incremental data
+   processing
+ER
+
+PT S
+DE data analytics; data stream; sensor; service architecture; service data
+   flow; StreamMiner; CloudMiner
+ER
+
+PT S
+ER
+
+PT J
+DE stream data management; data privacy; cloud computing
+ER
+
+PT S
+DE MapReduce; Cloud Computing; Pipelining; Stream Processing; Distributed
+   Computing
+ER
+
+PT J
+ID DELTA-EDDINGTON APPROXIMATION; SOLAR RADIATIVE-TRANSFER;
+   MULTIPLE-SCATTERING; PHOTODISSOCIATION RATES; DELTA-4-STREAM
+   APPROXIMATION; LAYERED MEDIA; 2-STREAM; CLOUDS; PARAMETERIZATION;
+   ATMOSPHERES
+ER
+
+PT B
+DE Streaming Service; Peer-to-Peer; Cloud Computing
+ER
+
+PT B
+DE map-reduce; cloud computing; streaming; cloud runtimes; content
+   distribution networks
+ER
+
+PT S
+DE hydrodynamics; instabilities; shock waves; galaxies: evolution;
+   galaxies: interactions; Magellanic Clouds
+ID HIGH-VELOCITY CLOUDS; MILKY-WAY; IONIZING PHOTONS; GALACTIC HALO; SMITH
+   CLOUD; SIMULATIONS; GALAXIES; MASS; GAS; IONIZATION
+ER
+
+PT J
+DE methods : analytical; ISM : clouds; ISM : kinematics and dynamics;
+   Magellanic Clouds
+ID SMALL MAGELLANIC CLOUDS; HIGH-VELOCITY CLOUDS; N-BODY SIMULATIONS;
+   COMPLEX; METALLICITIES; SUBSTRUCTURE; ORPHAN; HALO; IV
+ER
+
+PT J
+DE galaxies : evolution; galaxies : interactions; hydrodynamics;
+   instabilities; Magellanic Clouds; shock waves
+ID HIGH-VELOCITY CLOUDS; H-ALPHA EMISSION; GALACTIC HALO; OPTICAL-EMISSION;
+   MIXING LAYERS; MILKY-WAY; SIMULATIONS; DISTANCES; OUTFLOWS; GALAXIES
+ER
+
+PT J
+ID H-ALPHA; WHAM OBSERVATIONS; LYMAN-CONTINUUM; N II; GALAXIES; TELESCOPE;
+   EMISSION; GAS
+ER
+
+PT J
+ID UNITED-STATES; SEA; CONVECTION; SENSITIVITY; SATELLITES; MODEL; BANDS
+ER
+
+PT J
+ID ATMOSPHERIC BOUNDARY-LAYER; LAKE-MICHIGAN; UNITED-STATES; CLOUD LINES;
+   FLOW; SIMULATIONS; BREEZE; WAVES; ROLLS; SNOW
+ER
+
+PT J
+DE galaxies : interactions; galaxies : Local Group; Galaxy : halo;
+   intergalactic medium; Magellanic Clouds; radio lines : general
+ID SAGITTARIUS DWARF GALAXY; N-BODY SIMULATIONS; LOCAL GROUP; NEUTRAL
+   HYDROGEN; GALACTIC HALO; NUMERICAL SIMULATIONS; SOUTHERN-HEMISPHERE;
+   MERGING GALAXIES; SPIRAL GALAXIES; MASS FUNCTION
+ER
+
+PT J
+ER
+
+PT J
+ID GALAXIES; HALO
+ER
+
+PT S
+ER
+
+PT J
+DE galaxies : evolution; galaxies : halos; Galaxy : halo; ISM : clouds;
+   Magellanic Clouds; quasars : absorption lines
+ID SPHERICAL CLOUDS; GALAXY FORMATION; PROPER MOTION; HOT GAS; EVAPORATION;
+   MASS
+ER
+
+EF

@@ -1,0 +1,952 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE Privacy protection; Fully homomorphic encryption; Encryption of
+   floating-point number; Parallel encryption; Cyber physical system
+ID SIGNATURE SCHEME; EFFICIENT; NETWORKS; INTERNET; SECURE; BATCH
+ER
+
+PT J
+DE Proxy Re-encryption; homomorphic encryption
+ID SIGNATURES; MULTISIGNATURES; SECURITY; SCHEME
+ER
+
+PT S
+DE Advanced encryption standard cryptography; Cloud computing;
+   Confidentiality; Homomorphic encryption; Privacy protection
+ID KEY
+ER
+
+PT J
+DE Full homomorphic encryption; Batch processing; Size of public key;
+   Ciphertext compression; Quadric form
+ER
+
+PT J
+ID ENTROPIC SECURITY; COMPUTATION
+ER
+
+PT J
+DE Fully homomorphic encryption; Multiple to one; Greatest Common Divisor
+   (GCD) problem; Data expansion
+ID KEY
+ER
+
+PT J
+DE Fully homomorphic encryption; FHE; FHE implementation; FHE survey;
+   homomorphic encryption; partially homomorphic encryption; somewhat
+   homomorphic encryption; PHE; SWHE; Encryption; Security; Privacy
+ID PUBLIC-KEY CRYPTOSYSTEMS; LARGE-NUMBER MULTIPLIER; PRIVACY HOMOMORPHISM;
+   RING-LWE; CRYPTANALYSIS; SECURE; ALGORITHMS; DESIGN
+ER
+
+PT J
+DE Additive homomorphic encryption; Multiple message spaces; Statistical
+   analysis; Encrypted data
+ID INTEGERS; LWE
+ER
+
+PT J
+DE Homomorphic encryption; CCA2 security; Hash proof system
+ID ENCRYPTION; SIGNATURE
+ER
+
+PT J
+DE Fully homomorphic encryption; Construction method; Abstract decryption
+   structure; Ciphertexts stack; Learning With Errors (LWE)
+ID INTEGERS
+ER
+
+PT J
+DE cloud computing; homomorphic encryption; limited resources; partial
+   homomorphic encryption
+ER
+
+PT J
+DE Continued fraction; cryptanalysis; symmetric homomorphic encryption;
+   known-plaintext attack
+ID COMPUTATION
+ER
+
+PT J
+DE Fully homomorphic encryption; ring homomorphisms; third party private
+   search
+ER
+
+PT S
+ER
+
+PT B
+DE Cloud Computing; Privacy Protection; Fully Homomorphic Encryption;
+   Multi-bit encryption
+ER
+
+PT J
+DE E-voting; Finitely Presented Partially Commutative Groups; Homomorphic
+   Encryption; Public Key Cryptosystems; Word Problem
+ID PARTIALLY COMMUTATIVE MONOIDS
+ER
+
+PT J
+ID FULLY HOMOMORPHIC ENCRYPTION
+ER
+
+PT S
+ER
+
+PT B
+DE Somewhat Homomorphic Encryption; Fully Homomorphic Encryption; Lattice
+   cryptosystem; Morphological operations
+ER
+
+PT S
+DE cryptographic protocols; homomorphic ciphers; encryption procedures
+ER
+
+PT S
+DE Learning with errors; Short public keys; Short cipher texts;
+   Pseudorandom generators; Prime factoring
+ER
+
+PT S
+DE Data security; Cloud computing; Homomorphic encryption; AWS; DynamoDB;
+   CSP; Security goals
+ER
+
+PT S
+DE Homomorphic; Privacy; Encryption; Database; Query
+ID ENCRYPTION
+ER
+
+PT S
+ID LATTICES; KEY; TRAPDOORS
+ER
+
+PT S
+DE Fully homomorphic encryption; Ring-LWE; Cyclotomic ring; Decomposition
+   ring; Plaintext slots
+ID IDEAL LATTICES; ERRORS
+ER
+
+PT J
+DE Searchable encryption; homomorphic encryption; verification; multi-user
+   setting
+ID VERIFICATION
+ER
+
+PT S
+DE Cloud data storage; Homomorphic encryption; Data security; Data
+   confidentiality; Data integrity; Recommendation system; Collaborative
+   filtering
+ER
+
+PT S
+DE Cloud; Storage; Homomorphic encryption
+ER
+
+PT J
+DE homomorphic encryption; Learning With Errors; key rotation; security
+   update
+ID LATTICES
+ER
+
+PT J
+DE Homomorphic encryption; Public key cryptography; Cryptanalysis; Key
+   switching
+ID INTEGERS; KEY
+ER
+
+PT J
+DE Homomorphic encryption; ideals; learning with errors; number theory
+   research unit; approximate greatest common divisor
+ID LATTICE REDUCTION; ALGORITHM
+ER
+
+PT J
+DE Integrity preservation; Healthcare; Sensors; Cloud computing;
+   Homomorphic encryption
+ID NETWORKS; PRIVACY
+ER
+
+PT J
+DE Statistic learning; Comparison on encrypted data; Fully homomorphic
+   encryption; RLWE
+ID INTEGERS
+ER
+
+PT J
+DE differential privacy; homomorphic encryption; LWE assumption; linear
+   regression
+ID HOMOMORPHIC ENCRYPTION
+ER
+
+PT J
+DE LWE; homomorphic encryption; proxy re-encryption; key privacy
+ID SCHEME
+ER
+
+PT J
+DE Binary-LWE; STP-LWE; FHE; Noise management
+ID LWE; SCHEME
+ER
+
+PT J
+DE cloud security; data centric security; homomorphic encryption;
+   attribute-based encryption; attribute-based homomorphic encryption
+   (ABHE); lattice cryptography; ring-learning with errors (R-LWE or
+   Ring-LWE)
+ID LWE; INTEGERS; KEY
+ER
+
+PT J
+DE Quantum somewhat homomorphic encryption; Symmetric searchable
+   encryption; Quantum one-time pad
+ER
+
+PT S
+DE homomorphic encryption; access control; attribute revocation; ciphertext
+   retrieval
+ER
+
+PT S
+DE Cloud computing; Parallel computing; Fully homomorphic encryption (FHE);
+   Applied cryptography; Secure computing; Smart meter gateway; Legal
+   metrology
+ER
+
+PT S
+DE Learning with errors (LWE); Homomorphic encryption; Matrix trace; Secure
+   inner product
+ID FULLY HOMOMORPHIC ENCRYPTION
+ER
+
+PT B
+DE cloud computing; homomorphic encryption; data security; the private
+   cloud; Paillier; RSA
+ER
+
+PT S
+DE fully homomorphic encryption; CCA-secure; multi-identity fully
+   homomorphic encryption; Lattice
+ID STANDARD MODEL; LATTICES
+ER
+
+PT B
+DE Secure localization; privacy; homomorphic encryption; Paillier
+   cryptosystem
+ER
+
+PT S
+DE Security and Privacy; Big Data; Encryption; Non-deterministic; Fully
+   homomorphic encryption
+ER
+
+PT B
+DE Cloud Data storage; Homomorphic Encryption; Data Security; Fully
+   Homomorphic Encryption; Homomorphic Key
+ER
+
+PT B
+DE Cloud computing environment; fully homomorphic encryption; DGHV;
+   encryption algorithm
+ER
+
+PT B
+DE cloud computing; homomorphic encryption algorithm; Paillier algorithm;
+   full operations
+ER
+
+PT B
+DE fully homomorphic encryption; identity-based encryption; ideal lattices
+ID STANDARD MODEL
+ER
+
+PT S
+DE Oblivious transfer; Active adversary; One-sided adaptive adversary;
+   Threshold encryption; Lossy encryption; Public key encryption;
+   Homomorphic encryption
+ID NON-COMMITTING ENCRYPTION; ZERO-KNOWLEDGE; SECURE; PROTOCOLS
+ER
+
+PT S
+DE homomorphic encryption; key exchange; one time pad
+ER
+
+PT S
+DE Homomorphic encryption; Non-deterministic encryption; Cipher equality
+   test; Big data privacy; Data privacy in clouds
+ID PUBLIC-KEY CRYPTOSYSTEMS
+ER
+
+PT S
+DE homomorphic encryption; arithmetic operation; real number
+ER
+
+PT S
+DE structured database; homomorphic encryption; character data; ciphertext
+   retrieval; equivalent retrieval; fuzzy retrieval
+ER
+
+PT B
+ER
+
+PT B
+DE Decentralized System; Fully Homomorphic Encryption; Genome Secret Search
+ER
+
+PT J
+DE Multi-hop; identity-based proxy re-encryption; key switching mechanism;
+   homomorphic evaluation
+ID LATTICES
+ER
+
+PT B
+DE cryptography; homomorphic encryption; cloud computing; homomorphic
+   encryption over the integers
+ER
+
+PT B
+DE encryption; fully homomorphic encryption; bootstrapping; public key
+   encryption
+ER
+
+PT J
+DE privacy protection; homomorphic encryption; parallel encryption;
+   parallel homomorphic encryption; cloud computing; MapReduce
+ER
+
+PT S
+DE Cloud computing; Fully homomorphic encryption; Attribute-based
+   encryption; Attribute-based fully homomorphic encryption
+ER
+
+PT J
+DE fully homomorphic encryption service; reusable garbled gate; reusable
+   garbled circuits service; indistinguishable obfuscation
+ER
+
+PT S
+DE Cloud-RSA; RSA; Homomorphic encryption; Confidentiality; Third party
+ID CRYPTANALYSIS
+ER
+
+PT J
+DE Somewhat homomorphic encryption; NTT multiplication; FPGA; accelerator
+   for homomorphic encryption
+ER
+
+PT J
+DE Big Data Security; Homomorphic Encryption; Secure Outsourcing; Cloud
+   Security
+ID PUBLIC-KEY CRYPTOSYSTEM; SECURE; INTEGERS; PRIVACY; SCHEMES; ATTACKS
+ER
+
+PT J
+DE logistic regression; distributed data sources; homomorphic encryption;
+   Paillier; LWE; ring-LWE; outsourced computation; accuracy; F-score
+ID CLASSIFICATION; MODELS
+ER
+
+PT J
+DE many-to-one; homomorphic encryption; multi-level encryption; somewhat
+ER
+
+PT J
+DE Location Privacy; Homomorphic Encryption
+ER
+
+PT J
+DE Cloud computing; linear equations; homomorphic encryption; Paillier's
+   encryption
+ER
+
+PT J
+DE Bilinear Mapping; Cloud Computing; Homomorphic Encryption; Proxy
+   Re-encryption; Subgroup Decision Problem
+ID IDENTITY-BASED ENCRYPTION; PROXY RE-ENCRYPTION
+ER
+
+PT J
+DE multi-cloud; privacy; fully homomorphic encryption; distributed System;
+   confidentiality
+ID PUBLIC-KEY CRYPTOSYSTEMS
+ER
+
+PT B
+DE component; privacy of data; computation on encrypted data; homomorphic
+   encryption; fully homomorphic encryption
+ID PUBLIC-KEY CRYPTOSYSTEMS
+ER
+
+PT S
+DE homomorphic encryption; fully homomorphic encryption; hybrid homomorphic
+   encryption; additive homomorphism; multiplicative homomorphism; third
+   party
+ER
+
+PT B
+DE Homomorphic encryption; Cryptography; DGHV
+ER
+
+PT S
+DE Chosen ciphertext security; Fully homomorphic encryption; Convertible
+   identity-based fully homomorphic encryption
+ID IDENTITY-BASED ENCRYPTION; INTEGERS; PROOF
+ER
+
+PT B
+DE probabilistic; homomorphism; homomorphic encryption; Charmichael
+ER
+
+PT S
+ER
+
+PT B
+DE Cloud computing; security; privacy; homomorphic encryption
+ER
+
+PT S
+DE Coding; Theory; Homomorphic encryption; Reed-Muller code; Security;
+   Practicality; Encrypted data processing
+ID INTEGERS
+ER
+
+PT S
+DE Homomorphic encryption; Group algebra; Probabilistic public-key
+   cryptography; Quadratic residuosity problem
+ER
+
+PT S
+DE Data security; Privacy protection; Fully homomorphic encryption; Cloud
+   computing
+ID FULLY HOMOMORPHIC ENCRYPTION; KEY; INTEGERS
+ER
+
+PT B
+ER
+
+PT B
+DE Cloud computing; virtualization; Homomorphic Encryption; exploit
+ER
+
+PT S
+DE RSA; full homomorphic encryption; Pascal's triangle theorem; cloud
+   computing
+ER
+
+PT S
+DE fully homomorphic encryption; somewhat homomorphic encryption;
+   approximate greatest common divisor; Chinese Remainder Theorem
+ID FASTER
+ER
+
+PT S
+DE Fully Homomorphic Encrypted Scheme; Searchable Encryption; Multikey;
+   Search Token
+ER
+
+PT S
+DE data security; fully homomorphic encryption; finite prime field; recrypt
+ER
+
+PT S
+DE fully homomorphic encryption; cloud storage; cipher text retrieval
+ER
+
+PT B
+DE Elliptic Curve Cryptography; Privacy Protection; Homomorphic Encryption;
+   Cloud security; GPS data of the earthquake
+ER
+
+PT B
+DE Verifiable computation; homomorphic encryption; homomorphic MAC; data
+   outsourcing
+ID HOMOMORPHIC SIGNATURES; POLYNOMIAL FUNCTIONS
+ER
+
+PT S
+ID FULLY HOMOMORPHIC ENCRYPTION; KEY; LATTICE; SIGNATURES; REDUCTION;
+   INTEGERS; ERRORS
+ER
+
+PT B
+DE Logistic regression; additively homomorphic encryption; out sourced
+   computation
+ER
+
+PT S
+DE public key cryptosystem; fully homomorphic encryption; homomorphic
+   equality test; password leakage; comparator
+ID HOMOMORPHIC ENCRYPTION; FASTER
+ER
+
+PT J
+DE approximate greatest common divisors; AGCDs; homomorphic encryption;
+   message expansion; semantic security; smaller public key
+ID COMMON DIVISORS; CRYPTOSYSTEMS
+ER
+
+PT S
+DE Incremental documents; Homomorphic encryption; Tamper detection
+ER
+
+PT B
+DE encrypted data; statistical analysis; homomorphic encryption; additive
+   homomorphism
+ID INTEGERS; LWE
+ER
+
+PT S
+DE Encryption switching protocols; Delegation of computations
+ID PUBLIC-KEY CRYPTOSYSTEM; ENCRYPTION
+ER
+
+PT S
+ID CIRCUITS
+ER
+
+PT S
+ID POWER ANALYSIS
+ER
+
+PT J
+DE homomorphic encryption; private information retrieval; communication
+   complexity
+ID CRYPTOSYSTEMS
+ER
+
+PT S
+DE Wireless mesh network; Homomorphic encryption; Routing protocol;
+   Authentication; Security
+ER
+
+PT J
+DE lattice-based cryptography; fully homomorphic encryption; bootstrapping;
+   SIMD operations
+ID FULLY HOMOMORPHIC ENCRYPTION; KEY
+ER
+
+PT J
+DE Homomorphic encryption; RLWE assumption; Canonical embedding; Private
+   information retrieval
+ID FULLY HOMOMORPHIC ENCRYPTION; KEY; LWE
+ER
+
+PT J
+DE Quantum cryptography; Homomorphic encryption; Delegated quantum
+   computing; Quantum one-time pad
+ID COMPUTATION
+ER
+
+PT J
+DE Bounded Distance Decoding Problem; Fully Homomorphic Encryption;
+   Lattice-Based Public Key Cryptosystem; Polynomial Coset Problem
+ER
+
+PT J
+DE Homomorphic encryption; symmetric encryption; cryptanalysis;
+   key-recovery
+ER
+
+PT J
+DE homomorphic encryption; symmetric key cryptography; conjugacy problem
+ER
+
+PT J
+DE ElGamal; Goldwasser-Micali; Naccache-Stern; hybrid scheme; homomorphic
+   encryption; fully homomorphic encryption; bootstrapping
+ER
+
+PT B
+DE Image homomorphic encryption; ciphertext expansion; ciphertext-only
+   attack
+ER
+
+PT B
+DE Homomorphic Encryption; Learning with errors (LWE); Image
+   encryption/decryption; Plain text image; Cipher Text Image
+ID SHARING SECRET IMAGES
+ER
+
+PT B
+DE Private information retrieval; homomorphic; encryption; malleability;
+   privacy; simulation
+ID COMMUNICATION
+ER
+
+PT S
+ER
+
+PT B
+DE homomorphic encryption; ciphertext expansion; linear interpolation
+ID DOMAIN
+ER
+
+PT S
+DE Cloud Data storage; Homomorphic Encryption; Data Security; Fully
+   Homomorphic Encryption; Homomorphic Key
+ER
+
+PT S
+DE Aggregation; homomorphic encryption; network security; wireless sensor
+   networks
+ID CYBER SECURITY
+ER
+
+PT B
+DE cloud computing; homomorphic encryption; subgroup decision problem
+ER
+
+PT B
+ER
+
+PT B
+DE cryptosystem; paillier encryption; homomorphic encryption
+ER
+
+PT S
+ER
+
+PT B
+DE Cloud Computing; Data Security; Cryptography; Homomorphic Encryption
+ID ISSUES
+ER
+
+PT S
+DE fully homomorphic encryption; approximate eigenvector; approximate GCD
+   problem; diagonal matrix
+ID INTEGERS
+ER
+
+PT J
+DE protocols; encryption; servers; complexity theory; vate information
+   retrieval; homomorphic encryption
+ER
+
+PT S
+DE Fully homomorphic encryption; Approximate GCD; DGHV; LWE
+ID HOMOMORPHIC ENCRYPTION; CRYPTOGRAPHIC CONSTRUCTIONS; LATTICES; KEY
+ER
+
+PT S
+ID PUBLIC-KEY CRYPTOSYSTEMS
+ER
+
+PT B
+DE Public key encryption; Homomorphic encryption; Cloud computing
+ER
+
+PT S
+ID PUBLIC-KEY CRYPTOSYSTEMS; COMPUTATION
+ER
+
+PT S
+DE Fully homomorphic encryption; Learning with errors; Subgaussian random
+   variable
+ID FULLY HOMOMORPHIC ENCRYPTION; LATTICES
+ER
+
+PT S
+DE Integer encoding; Fully homomorphic encryption; Lattice based
+   cryptography; Privacy
+ER
+
+PT S
+ER
+
+PT S
+DE Fully homomorphic encryption; Leakage resilient cryptography; Learning
+   with errors; Auxiliary inputs
+ID PUBLIC-KEY CRYPTOSYSTEMS; BOUNDED-RETRIEVAL MODEL; CRYPTOGRAPHY;
+   RESILIENT; LEAKAGE; LATTICES
+ER
+
+PT B
+DE Cloud computing; Homomorphic encryption; Proxy re-encryption
+ER
+
+PT B
+DE Multiparty cloud computing; Homomorphic encryption; Proxy re-encryption
+ER
+
+PT S
+DE Homomorphic encryption; Ring learning with errors; FPGA; Reconfigurable
+   computing
+ID LARGE-NUMBER MULTIPLIER; ENCRYPTION
+ER
+
+PT J
+DE homomorphic encryption; delegation of computation; private data
+   processing; cloud computing; data aggregation; sensor networks
+ER
+
+PT S
+ID FULLY HOMOMORPHIC ENCRYPTION; KEY; INTEGERS
+ER
+
+PT J
+ID COMPUTATION
+ER
+
+PT J
+DE targeted fully homomorphic encryption; discrete logarithm problem;
+   exponential function method; power function method
+ER
+
+PT J
+DE fully homomorphic encryption; public key encryption; learning with
+   error; concert parameters
+ER
+
+PT J
+DE Fully homomorphic encryption; Threshold encryption; RLWE;
+   Key-homomorphic
+ID MULTIPARTY COMPUTATION
+ER
+
+PT S
+DE homomorphic authenticated encryption; homomorphic MAC; homomorphic
+   encryption
+ER
+
+PT B
+ER
+
+PT B
+ID PUBLIC-KEY CRYPTOSYSTEMS
+ER
+
+PT B
+DE homomorphic encryption; learning with errors; encrypted comparison;
+   HElib
+ER
+
+PT B
+DE electronic voting system; anonymity; homomorphic encryption
+ER
+
+PT S
+DE Homomorphic encryption; NTRU; Prince; Lightweight block ciphers
+ID ENCRYPTION
+ER
+
+PT S
+DE Cloud Computing; Outsourced Encrypted Data; Verifiable Homomorphic
+   Encryption
+ID FULLY HOMOMORPHIC ENCRYPTION; GROUP SIGNATURES; INTEGERS; PROOFS
+ER
+
+PT S
+DE Public-Key Cryptography; Homomorphic Encryption; Semantic Security;
+   Quantum Algorithms; Sampling Group Generators
+ID PUBLIC-KEY CRYPTOSYSTEMS; CRYPTOGRAPHY; SECURE
+ER
+
+PT B
+ER
+
+PT B
+DE somewhat homomorphic encryption; leveled homomorphic encryption;
+   security; privacy
+ID PROTECTION
+ER
+
+PT B
+DE Homomorphic encryption; Data security; Cloud computing
+ER
+
+PT B
+DE Symmetric fully homomorphic encryption; Refreshing; Cloud computing
+ER
+
+PT B
+DE Fully homomorphic encryption; Re-encryption; Approximate GCD
+ER
+
+PT B
+DE Homomorphic encryption; Security; Privacy; Cloud; Matrix multiplication;
+   Cryptography; GPU
+ER
+
+PT B
+DE Cloud Computing; Homomorphic Encryption; Parallel Homomorphic Encryption
+ID PUBLIC-KEY CRYPTOSYSTEMS; SCHEME
+ER
+
+PT J
+DE Quantum cryptography; Homomorphic encryption; Quantum one-time pad;
+   Perfect security; Privacy-preserving quantum computing
+ID PRIVATE COMPARISON PROTOCOL; COMPUTATION; INFORMATION
+ER
+
+PT J
+DE additive homomorphic encryption; discrete logarithm problem; ElGamal
+   encryption
+ER
+
+PT J
+ID PROTOCOL
+ER
+
+PT B
+DE the cloud computation; linear algebra; outsourcing; fully homomorphic
+   encryption
+ER
+
+PT S
+DE ciphertext; fully homomorphic encryption; partially homomorphic
+   encryption; encrypt; decrypt
+ER
+
+PT S
+ID FULLY HOMOMORPHIC ENCRYPTION; PUBLIC-KEY CRYPTOSYSTEMS
+ER
+
+PT S
+DE homomorphic encryption; learn with error; IND-CPA; detect zero
+ID PUBLIC-KEY CRYPTOSYSTEMS
+ER
+
+PT B
+DE Cryptography with Finite Automata; Stream Cipher; Fully Homomorphic
+   Encryption
+ER
+
+PT S
+ID PUBLIC-KEY CRYPTOSYSTEMS
+ER
+
+PT B
+DE homomorphic encryption; privacy preserving; evolutionary encryption
+ER
+
+PT S
+DE Fully Homomorphic Encryption; Batch Encryption; Chinese Remainder
+   Theorem; Approximate GCD; Homomorphic AES
+ER
+
+PT B
+DE homomorphic encryption; symmetric encryption; vector encryption;
+   additive homomorphism
+ER
+
+PT B
+DE Non-interactive Computing Delegation; Multikey FHE; CP-ABE; Homomorphic
+   Encryption; Access Policy Composition
+ID ENCRYPTION
+ER
+
+PT S
+DE homomorphic public key encryption; CCA2 security; hash proof system
+ID IDENTITY-BASED ENCRYPTION; DIFFIE-HELLMAN; HYBRID ENCRYPTION; PARADIGM;
+   CRYPTOSYSTEMS; ATTACK
+ER
+
+PT S
+ID FULLY HOMOMORPHIC ENCRYPTION
+ER
+
+PT S
+ID SENSOR NETWORKS; WIRELESS
+ER
+
+PT B
+ID FINGERPRINT VERIFICATION; PRIVACY
+ER
+
+PT S
+DE homomorphic encryption; efficient homomorphic computing; lattice based
+   cryptography
+ID CRYPTOSYSTEMS; ENCRYPTION
+ER
+
+PT B
+DE Homomorphic encryption; smaller public key; larger message space; cloud
+   security; privacy
+ER
+
+PT B
+DE Private searching on streaming data; fully homomorphic encryption;
+   binary linear code
+ER
+
+PT S
+ID PUBLIC-KEY ENCRYPTION; IDENTITY-BASED ENCRYPTION; TRAPDOOR FUNCTIONS;
+   STANDARD MODEL; CRYPTOSYSTEMS; CONSTRUCTIONS; PARADIGM; ATTACK; LOSSY
+ER
+
+PT S
+DE public-key encryption; probabilistic encryption; homomorphic encryption
+   scheme; Benaloh's scheme
+ID THRESHOLD HOMOMORPHIC ENCRYPTION; PUBLIC-KEY CRYPTOSYSTEMS; MULTIPARTY
+   COMPUTATION; SECURE
+ER
+
+PT S
+ID PRIVATE INFORMATION-RETRIEVAL; CRYPTOGRAPHY; PROOFS; KEY
+ER
+
+PT B
+DE Fully Homomorphic Encryption; Ring Learning with Errors; Lattices; MAGMA
+ID SIZES; KEY
+ER
+
+PT J
+DE electronic voting; cryptographic protocols; receipt-freeness;
+   homomorphic encryption
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT B
+DE Data Retrieval; Data Aggregation; Security; Unattended Wireless Sensor
+   Networks; Homomorphic Secret Sharing
+ID DATA-STORAGE
+ER
+
+PT J
+DE Probability encryption; Homomorphic encryption; Cryptosystems
+ER
+
+PT B
+ER
+
+PT S
+ID KEYWORD SEARCH; INFORMATION; SECURITY
+ER
+
+PT S
+DE homomorphic encryption; fully homomorphic encryption; private
+   information retrieval; PIR writing; keyword search; communication
+   complexity; algebraic lower bounds
+ID PRIVATE INFORMATION-RETRIEVAL; PUBLIC-KEY CRYPTOSYSTEMS; ENCRYPTION
+ER
+
+PT B
+DE private homomorphism; similar modular; fraction modular; homomorphic
+   encryption
+ER
+
+PT S
+ID BATCH VERIFICATION
+ER
+
+PT B
+DE homomorphic encryption; Similar Modul; rational
+ER
+
+PT S
+DE secure computation; the greater than problem; the socialist
+   millionaires; problem homomorphic encryption
+ER
+
+PT S
+DE collision-resistant hash functions; homomorphic encryption; private
+   information-retrieval
+ER
+
+EF

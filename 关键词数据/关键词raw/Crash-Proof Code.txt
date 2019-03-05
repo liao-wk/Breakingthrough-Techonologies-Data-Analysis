@@ -1,0 +1,643 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE Remote attestation; Internet of Things; Network security; Embedded
+   systems; Network attack
+ER
+
+PT J
+DE Virtualization; operating system; kernel security; paging-based
+   isolation
+ID KERNEL; PROTECTION; ROOTKITS
+ER
+
+PT J
+DE Separation kernels; ARINC 653; refinement; formal specification;
+   information-flow security; common criteria; theorem proving
+ID DECOMPOSITION; SOFTWARE
+ER
+
+PT J
+DE UbiComp; Security; Privacy; Cryptography; Forensics
+ID IDENTITY MANAGEMENT; AUTHENTICATION; INTERNET; VERIFICATION;
+   INFORMATION; LIGHTWEIGHT; ALGORITHMS; SYSTEMS; ISSUES
+ER
+
+PT J
+DE dynamic memory allocators; formal methods; refinement; Event-B; Rodin;
+   model-based design
+ER
+
+PT J
+DE Key; One-way function; Protection; Revocation
+ID PASSWORD-CAPABILITIES; PROTECTION
+ER
+
+PT J
+DE Operating systems; device driver isolation; software partitioning;
+   dynamic program analysis
+ER
+
+PT J
+DE Computer security; embedded software; embedded systems; Internet of
+   Things (IoT)
+ER
+
+PT J
+DE Abstract interpretation; operation system; overlaid data structures;
+   verification
+ER
+
+PT J
+DE Network Functions; Software Verification; Kernel Bypass
+ER
+
+PT J
+ID TRANSLATION VALIDATION; EMBEDDED SYSTEMS; IMPLEMENTATION; SEMANTICS
+ER
+
+PT J
+DE API; Constraint checking; Automotive software; Model checking; OSEK/VDX
+ID TEST-GENERATION; VERIFICATION; TYPESTATE
+ER
+
+PT J
+DE Cyber-physical systems; design automation; embedded systems;
+   self-awareness
+ID SYSTEMS; SPECIFICATIONS; INTEGRATION
+ER
+
+PT J
+DE Deductive verification; SMT; Object-oriented software; Containers;
+   AutoProof
+ID SHAPE; VERIFICATION; INVARIANTS
+ER
+
+PT J
+ID UNIFICATION; VERIFICATION; ISABELLE; MODEL
+ER
+
+PT J
+DE Proof assistant; Repository; Mizar Mathematical Library
+ID IMPLEMENTATION; RETRIEVAL; SYSTEMS; ATP
+ER
+
+PT J
+DE Information flow security; Secure social media platform; Formal
+   verification; Interactive theorem proving; Isabelle/HOL
+ID FORMAL VERIFICATION; SECURITY; MODEL
+ER
+
+PT J
+DE Program verification; Certified OS kernels; Interrupts; Device drivers;
+   Abstraction layer; Modularity
+ER
+
+PT J
+DE Cloud computing; virtual machine; security health; attestation; security
+   verification; openstack
+ID ATTESTATION
+ER
+
+PT J
+DE Control-flow integrity; kernel protection; fine-grained; intrusion
+   prevention
+ER
+
+PT J
+DE cyber-physical systems; hybrid systems; formal verification; verified
+   compilation; verified executables
+ID VERIFICATION; COMPILER; FLOW
+ER
+
+PT J
+DE abstraction layer; modularity; concurrency; verification; certified OS
+   kernels; certified compilers
+ID FORMAL VERIFICATION; SEPARATION LOGIC; MODEL
+ER
+
+PT J
+DE Formal verification; Modularity; Decidable logic; Ivy; Distributed
+   systems; Paxos; Raft
+ID FORMAL VERIFICATION; SAFETY
+ER
+
+PT J
+DE Certified Compiler; Formal Verification; Language Semantics; Program
+   Verification
+ID NATURAL PROOFS; SEPARATION; VERIFICATION; SYSTEM; END
+ER
+
+PT J
+DE Microarchitectural timing attacks; Cache-based timing attacks;
+   Countermeasures; Trend in the attacks
+ID SIDE-CHANNEL ATTACKS; CACHE; IMPLEMENTATIONS; PERFORMANCE
+ER
+
+PT J
+DE on-stack replacement; Swapstack; feedback-directed optimization;
+   language implementation
+ER
+
+PT J
+DE V&V framework; Formal patterns; OSEK/VDX; Embedded software
+ID VERIFICATION
+ER
+
+PT J
+DE formal verification; theorem proving; proof assistants; Isabelle; logic
+   for computable functions
+ID HOL LIGHT; PROOF; VERIFICATION
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT S
+DE Hermite normal form; Bezout domains; Parametrised algorithms; Linear
+   algebra; HOL
+ID SMITH; ALGORITHMS
+ER
+
+PT B
+DE Unmanned Aerial Vehicle; Just-Ahead-of-Time verification
+ID PLC PROGRAMS; VERIFICATION; SEMANTICS
+ER
+
+PT S
+DE Integrated Modular Avionics (IMA); ARINC 653; multicore; shared resource
+   interference; safety
+ER
+
+PT B
+DE Global EDF; Scheduling; RTOS; model-checking
+ID SCHEDULABILITY
+ER
+
+PT S
+ID FINITE-STATE MACHINES; TEST-GENERATION; VERIFICATION; DEPENDENCE;
+   PROTOCOLS
+ER
+
+PT S
+DE Cyber; Virtualization; Hypervisor; Operating Systems
+ER
+
+PT S
+ID BITS
+ER
+
+PT J
+DE Power monitoring system; security immunity; active defense; operating
+   system ontology security
+ER
+
+PT J
+DE Cyber-physical systems; Security; Verification; Validation; Internet of
+   things
+ID VERIFICATION
+ER
+
+PT J
+DE seL4; proof engineering; code/proof co-generation; Cogent
+ID FORMAL VERIFICATION; LOGIC; CODE
+ER
+
+PT J
+DE MMT; logical framework; universal logic; translation; combination;
+   semantics; soundness; completeness
+ID MODEL-THEORY; INSTITUTIONS; FRAMEWORK
+ER
+
+PT J
+DE real-time operating systems; separation kernel; survey; formal
+   specification; formal verification
+ID SECURITY; SOFTWARE; SYSTEM; DECOMPOSITION
+ER
+
+PT J
+DE Least squares problem; QR decomposition; Interactive theorem proving;
+   Linear algebra; Code generation; Symbolic computation
+ID EUCLIDEAN-SPACE
+ER
+
+PT J
+DE Verification; Constraint specification; Operating system; Automotive
+   software; Test generation
+ID SPECIFICATION; VERIFICATION; SOFTWARE
+ER
+
+PT S
+ER
+
+PT S
+DE Binary analysis; Formal verification; Proof producing analysis; Theorem
+   proving
+ID COMPILER
+ER
+
+PT S
+ID VERIFICATION; PROGRAMS; PROOF
+ER
+
+PT S
+DE Process algebra; (Routing) Protocol; Wireless mesh network; Formal
+   specification; Verification; AODV
+ID INTERNET APPLICATIONS; CHORD
+ER
+
+PT B
+DE Verification; abstraction; iteration; modularity
+ID PROGRAMS
+ER
+
+PT B
+DE formal verification; programming languages; imperative code;
+   concurrency; Owicki-Gries; Isabelle/HOL
+ID SYSTEM
+ER
+
+PT S
+DE Advanced and persistent threats; fault and intrusion tolerance; extreme
+   computing
+ID ALIGNMENT
+ER
+
+PT J
+ID FORMAL VERIFICATION; SYSTEM
+ER
+
+PT J
+DE Intuitionistic logic; positive quantification; complexity; automata
+ID FORMAL VERIFICATION
+ER
+
+PT J
+DE Relevance filtering; Machine learning; Proof assistants; Automatic
+   theorem provers
+ID PROVING SYSTEM COMPETITION; EFFICIENT SMT-SOLVER; SLEDGEHAMMER;
+   MATHEMATICS; KERNEL; MIZAR
+ER
+
+PT J
+DE safety verification; invariant inference; counterexamples to induction;
+   distributed systems
+ID FORMAL VERIFICATION; SYSTEM
+ER
+
+PT J
+DE Compositionality; computer-aided design; cyber-physical systems (CPSs);
+   formal verification; interfaces
+ID CYBER-PHYSICAL SYSTEMS; CHALLENGES; SOFTWARE; AUTOMATA; PTOLEMY; TIME
+ER
+
+PT J
+DE MMT; Logical declarations; Theory; Theory morphism; Syntax; Model
+   theory; Proof theory; Parsing; Presentation; Type reconstruction;
+   Knowledge management; User interface; Search
+ID MODEL-THEORY; FRAMEWORK; OMDOC
+ER
+
+PT S
+ID FORMAL VERIFICATION; SYSTEMS
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT B
+DE Formal Methods; Collaboration; Industrial Applications
+ID 10-COMMANDMENTS; MYTHS
+ER
+
+PT S
+ID FORMAL VERIFICATION; SOFTWARE; SYSTEMS
+ER
+
+PT S
+ID SYSTEM
+ER
+
+PT B
+DE OSEK/VDX OS; formal specification; design model; formal verification;
+   model checking; simulation relation
+ER
+
+PT S
+ID FORMAL VERIFICATION; MICROKERNEL; CONCURRENCY; SYSTEM
+ER
+
+PT S
+ID FORMAL VERIFICATION
+ER
+
+PT J
+ID REPRESENTATION; FRAMEWORK; SYSTEM; MIZAR
+ER
+
+PT B
+DE seL4; Massage-Passing; POSIX; Interprocess Cornnuinicaiton
+ER
+
+PT J
+DE formal specification; design model; formal verification; model checking;
+   simulation relation
+ER
+
+PT J
+DE Empirical software engineering; Productivity; GQM; Formal methods;
+   Formal verification; Proof Engineering
+ID SOFTWARE-DEVELOPMENT; SPECIFICATION; MYTHS
+ER
+
+PT B
+ID PROOF
+ER
+
+PT B
+ID OBJECT USAGE; PROJECT
+ER
+
+PT B
+ID RAILWAY CONTROL-SYSTEMS; FORMAL VERIFICATION; SOFTWARE
+ER
+
+PT B
+ID CRITICAL RATIONALISM; KERNEL; VERIFICATION; MODEL
+ER
+
+PT B
+DE Concurrency; Verification; Design for Verification; Behavioral
+   Programming
+ID SYSTEMS
+ER
+
+PT S
+DE Formal verification; Model checking; Formal specification; Design;
+   Simulation relation
+ID MODEL CHECKING
+ER
+
+PT J
+ID FORMAL VERIFICATION; CALCULUS; KERNEL
+ER
+
+PT S
+ID TRANSLATION VALIDATION
+ER
+
+PT S
+ID NONINTERFERENCE
+ER
+
+PT B
+DE Enclave Programs; Secure Computation; Confidentiality; Formal
+   Verification
+ID EXPLOITS
+ER
+
+PT J
+DE Trustworthy systems; Refinement proof; Microkernel correctness;
+   Isabelle/HOL
+ID VERIFICATION
+ER
+
+PT J
+DE Acoustic wave equation; Formal proof of numerical program; Convergence
+   of numerical scheme; Rounding error analysis
+ID FLOATING-POINT PROGRAMS; FORMAL VERIFICATION; TOOL PAPER; RESOLUTION;
+   OPERATORS; COMPILER; GAPPA; COQ
+ER
+
+PT J
+DE Formal Verification; Compiler Construction; Program Logics; Stack-Space
+   Bounds; Quantitative Verification
+ID FORMAL VERIFICATION; SEPARATION LOGIC; COMPILER; LANGUAGE; SOFTWARE;
+   CODE
+ER
+
+PT J
+DE Software verification; Certifying algorithms; Certifying computations;
+   Formal verification; VCC; Isabelle; Interactive theorem proving;
+   Automatic code verification
+ID FORMAL VERIFICATION; VERIFIER; PROGRAMS; SYSTEM; BOOGIE
+ER
+
+PT J
+DE Verification; Security; Reliability; seL4; Isabelle/HOL; operating
+   systems; microkernel; L4
+ID OPERATING SYSTEM VERIFICATION; AUTOMATED VERIFICATION; PERVASIVE
+   VERIFICATION; KERNEL; NONINTERFERENCE; SOFTWARE; SPECIFICATION;
+   HYPERVISOR; MECHANISM; SECURITY
+ER
+
+PT J
+DE Runtime verification; Past time LTL; Embedded real-time systems
+ID CONTROL FLOW RECONSTRUCTION; SOFTWARE MODEL CHECKING; REAL-TIME
+   SOFTWARE; TEMPORAL LOGIC; STATIC ANALYSIS; FRAMEWORK; SYSTEMS; JAVA;
+   INSTRUMENTATION; EFFICIENT
+ER
+
+PT S
+ID VERIFICATION
+ER
+
+PT S
+ER
+
+PT S
+ID FORMAL VERIFICATION; PROGRAMS; REFINEMENT; SYSTEM
+ER
+
+PT J
+DE Program Analysis; Machine Learning; Verification
+ID PREDICATE ABSTRACTION; STRATEGY ITERATION; GEOMETRIC CONCEPTS;
+   VERIFICATION; PROOFS
+ER
+
+PT J
+DE Microkernel integrity; Integrity mechanism; Integrity semantics model;
+   Formal verification
+ID KERNEL
+ER
+
+PT J
+DE model checking; Trampoline operating system; safety analysis; Osek; Vdx;
+   Spin
+ID FORMAL VERIFICATION; CODE; SPIN
+ER
+
+PT B
+ID MODULAR VERIFICATION
+ER
+
+PT J
+DE Local memory; multicore; system integrity
+ER
+
+PT J
+DE Verification; Languages; Binary Verification; seL4; Microkernel
+ID SEPARATION LOGIC; AUTOMATED VERIFICATION; OPERATING SYSTEM; COMPILER;
+   CODE
+ER
+
+PT J
+DE microkernels; virtualization; type-safety
+ID PROOF ASSISTANT
+ER
+
+PT J
+DE virtual machine monitor; model; operating system; many core; formal
+   verification
+ER
+
+PT B
+ID REAL-TIME; SIZE
+ER
+
+PT S
+DE System Initialisation; seL4; Isabelle
+ID KERNEL
+ER
+
+PT S
+ID NONINTERFERENCE; VERIFICATION; TIME
+ER
+
+PT J
+DE Coq; dependent types; formal verification; functional programming;
+   Haskell; program extraction; interactive proof assistants; xmonad
+ER
+
+PT S
+ER
+
+PT S
+DE program verification; microkernel; L4; software process; formal methods
+ID MICROKERNELS; MYTHS
+ER
+
+PT B
+DE Computer Architecture; Cloud Computing; Security; Virtualization;
+   Hardware Security; Hypervisor; Trust Evidence; Attestation;
+   Confidentiality; Integrity
+ER
+
+PT J
+DE Languages; Verification
+ER
+
+PT B
+ER
+
+PT B
+DE Software model checking; state space reduction; dynamic interface
+   reduction
+ER
+
+PT S
+ID VERIFICATION
+ER
+
+PT J
+ID PROTECTION
+ER
+
+PT S
+ID VERIFICATION
+ER
+
+PT J
+DE Verification; Design; Languages; Haskell; seL4; microkernel;
+   Isabelle/HOL
+ER
+
+PT J
+DE Pervasive formal verification; Systems verification; Software
+   verification
+ID FUNCTIONAL VERIFICATION; SYSTEM; PROGRAMS; ISABELLE; KERNELS
+ER
+
+PT B
+DE Functional Size Measurement; COSMIC; Reliability
+ID FUNCTION POINTS; SOFTWARE
+ER
+
+PT S
+DE Software Size; Functional Size; Source Lines of Code; Function Points;
+   Bytes of Code; IFPUG; COSMIC; ISBSG
+ER
+
+PT S
+ER
+
+PT S
+DE COSMIC; FPA; functional measure; function point; real time system
+ER
+
+PT B
+DE Keywords Isabelle/HOL; L4; microkernel; seL4
+ID OPERATING SYSTEM VERIFICATION; MICROKERNELS; CODE
+ER
+
+PT S
+ID OPERATING SYSTEM VERIFICATION; FORMAL VERIFICATION; PROGRAMS; CODE
+ER
+
+PT J
+DE management; measurement; functional size measurement; software
+   estimation; software benchmarking; MkII FPA; COSMIC FFP
+ID FUNCTION POINTS; SOFTWARE PRODUCTIVITY; REPOSITORY
+ER
+
+PT S
+DE model checking; model-based development; flight control; software
+   verification
+ER
+
+PT S
+ID VERIFICATION; LOGIC
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT J
+DE languages; theory; verification; separation logic; C; interactive
+   theorem proving
+ID PROGRAM VERIFICATION; SOFTWARE; SAFETY; MODEL
+ER
+
+PT B
+DE SELinux; multi-level security; policy compliance; policy analysis
+ER
+
+PT S
+ER
+
+PT S
+DE program management; schedule; formal methods; specification;
+   requirements; cost
+ID SPECIFICATION; SYSTEM
+ER
+
+PT S
+ER
+
+PT J
+DE algebraic specification; effort estimation; functionality; gradient;
+   magnitude; problem complexity; semantic properties; software metrics;
+   software size; software life cycle; software specification; syntactic
+   properties; validation; vector
+ER
+
+EF

@@ -1,0 +1,966 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE Deep reinforcement learning (DRL); in-band network telemetry (INT);
+   NetworkAI; software defined networks
+ID NEURAL-NETWORKS; SDN
+ER
+
+PT J
+DE Distributed optimization; mobile 5G HetNets; radio access network;
+   software-defined networking
+ID HETEROGENEOUS CELLULAR NETWORKS; WIRELESS NETWORKS; HETNETS;
+   ASSOCIATION; PRIVACY; 5G
+ER
+
+PT J
+DE Flow splitting optimization (FSO) algorithm; software defined networking
+   (SDN); traffic load minimization (TLM); wireless sensor networks (WSNs)
+ID 5G
+ER
+
+PT J
+DE Software-defined radio; Software-defined networks; Radio spectrum
+   monitoring system; Multicast routing protocol; OpenFlow
+ID ARCHITECTURE
+ER
+
+PT J
+DE data center; hypervisor; IaaS; network instances; OpenStack; OpenFlow;
+   software-defined network; virtualization
+ER
+
+PT J
+DE software defined networking; computer network security; learning
+   (artificial intelligence); 5G mobile communication; machine
+   learning-based IDS; software-defined 5G network; fifth generation
+   networks; intrusion detection systems; network security; intelligent
+   IDS; artificial intelligence; security function modules; centralised
+   management; centralised control; flow-based classification
+ID ARCHITECTURE; SECURITY
+ER
+
+PT B
+DE software defined networking; network reliability; fault tolerance;
+   topology enhancement algorithms
+ER
+
+PT S
+DE Software-defined networking; Software-defined networking architecture;
+   SDN security threats; OpenFlow; ForCES
+ER
+
+PT B
+DE software defined networking; network reliability; fault tolerance;
+   topology enhancement algorithms
+ID ROBUSTNESS
+ER
+
+PT S
+DE Software Defined Infrastructure; Software Defined Networks; Network
+   Management; Cloud Computing
+ER
+
+PT J
+DE Underwater sensor networks; software-defined networking;
+   software-defined radio; software-defined acoustic modem;
+   software-defined cognitive network; network functions virtualization
+ID CROSS-LAYER PROTOCOL; COGNITIVE RADIO; ACOUSTIC NETWORKS; SPECTRUM
+   MANAGEMENT; ROUTING PROTOCOLS; MAC PROTOCOLS; CHALLENGES; COMMUNICATION;
+   INTERNET; CLOUD
+ER
+
+PT S
+DE Software defined network; Network topology; Dijkstra's shortest path
+   algorithm; Dynamic network definition and management
+ID FUTURE
+ER
+
+PT S
+ER
+
+PT B
+DE Software Defined Networking; Switch; Testbed; Really Experiment Device
+ER
+
+PT S
+DE Software Defined Networking (SDA); Open Networking Foundation (OM);
+   Network Management (NM)
+ID SOFTWARE-DEFINED NETWORKING; STANDARDIZATION; REQUIREMENTS; DESIGN
+ER
+
+PT S
+DE SDN Security; DDoS; Control Plane; Software-Defined Wireless Networks
+   Security; Software-Defined Internet-of-Vehicles
+ID MECHANISMS; NETWORKING
+ER
+
+PT S
+DE Cloud manufacturing; Software-defined networking; Cybersecurity;
+   Manufacturing control
+ID CHALLENGES
+ER
+
+PT S
+DE Space information network; Software-defined network; Virtualization;
+   Routing; Resource scheduling
+ID SOFTWARE-DEFINED NETWORKING
+ER
+
+PT S
+DE Wireless sensor networks; Internet of Things; software-defined
+   networking; 6LoWPAN
+ID WIRELESS SENSOR NETWORKS; INTERNET; THINGS
+ER
+
+PT J
+DE Next-generation satellite networks; software-defined networking;
+   virtualization; network management instruments; space networking
+   solutions.
+ID OF-THE-ART; TERRESTRIAL NETWORKS; CONVERGED SATELLITE; VIRTUALIZATION;
+   INTERNET; OPPORTUNITIES; SYSTEMS; NFV; IMPLEMENTATION; SCENARIOS
+ER
+
+PT J
+DE flow mobility; software defined networking (SDN); SDN Controller;
+   centralized mobility management
+ER
+
+PT J
+DE Software-Defined Networking (SON); Network Function Virtualization
+   (NFV); Architecture; Abstraction; Virtualization; Orchestration; ONF;
+   ETSI NFV
+ER
+
+PT J
+DE software defined network; software defined wireless rechargeable sensor
+   network; energy saving; traffic scheduling; wireless charger
+ID POWER; LIFETIME
+ER
+
+PT J
+DE Internet of Things; software-defined networking; device manager;
+   security; vulnerability
+ER
+
+PT J
+ID INTERNET; VEHICLES
+ER
+
+PT J
+DE Software-defined wireless sensor networks; network architecture design;
+   energy-efficient algorithm; multi-energy-space; energy consumption
+   balance; network lifetime
+ID ROUTING PROTOCOLS; ARCHITECTURE
+ER
+
+PT J
+DE Bluetooth; Software Defined Radio; Bluetooth Profile; Digital Radio
+ID NETWORKS
+ER
+
+PT J
+ID CHALLENGES
+ER
+
+PT J
+ID NETWORKING
+ER
+
+PT J
+ER
+
+PT J
+DE software-defined networking; SDN; metro-access networks;
+   software-defined photonics
+ID SOI WAVE-GUIDES; OPTICAL ACCESS; SILICON; PON; TECHNOLOGY; OPENFLOW;
+   SYSTEMS; SWITCH
+ER
+
+PT B
+DE Software Defined Networks; Openflow; Denial of Service Attack; sFlow;
+   sFlow-RT; Performance Aware Software Defined Networking
+ER
+
+PT S
+DE Software-Defined Network; Virtual Data Center; Cloud computing; Traffic;
+   Simulation model; Software-defined infrastructure
+ER
+
+PT S
+DE software-defined optical networks; security; quantum key distribution;
+   resource allocation
+ER
+
+PT S
+DE SDN; Open Flow; Linux ProGFE; Network Virtualization
+ER
+
+PT J
+DE Software-defined networking (SDN); network virtualization (NV); network
+   functions virtualization (NFV); standards; SDN interfaces and APIs; data
+   plane; middleboxes; SDN security; hybrid networks; software-defined
+   exchange (SDX); software-defined infrastructure (SDI); software-defined
+   wireless networks (SDWN); Internet of Things (IoT); information-centric
+   networking (ICN); cloud; software-defined RAN; 5G
+ID SDN; CHALLENGES; 5G; VIRTUALIZATION; OPENFLOW; INTERNET; SYSTEM;
+   IMPLEMENTATION; MANAGEMENT; SIMULATOR
+ER
+
+PT S
+DE crowdsensing; data uploading; multipoint-to-point; smart urban sensing;
+   software-defined IoT network
+ID INTERNET; THINGS
+ER
+
+PT S
+DE software defined network; data center network; multinomial logit model;
+   energy efficient routing; flow schedule; energy saving
+ER
+
+PT B
+DE Software-defined Networking; VANETs; OpenFlow; Applications
+ID NETWORKS
+ER
+
+PT B
+DE Software Defined Network Controller; Spanning Tree Protocol; DDoS;
+   Firewall; Loops
+ER
+
+PT S
+DE Software-defined network; Inter-domain routing; Optical network;
+   Wavelength assignment
+ER
+
+PT B
+DE Software defined networking; Internet of things (IoT); smart network;
+   software defined IoT
+ID NETWORKING; INTERNET; THINGS
+ER
+
+PT S
+DE Software-Defined Network; Ethernet; Address Resolution Protocol;
+   Broadcast
+ER
+
+PT B
+DE simulation; corporate network; software-defined infrastructure; network
+   function virtualization
+ER
+
+PT B
+DE software defined network; multipath transport mechanism
+ID HETEROGENEOUS WIRELESS NETWORKS; CONGESTION CONTROL; TCP; ALGORITHM;
+   DESIGN
+ER
+
+PT B
+ER
+
+PT B
+DE complex service; Software-Defined Networking; QoS criterion; resources
+   allocation; service provision
+ER
+
+PT S
+DE Multi-broker; Multi-domain; Software-defined optical networks
+ER
+
+PT S
+DE Scalable Video Coding; Software Defined Networks; Video Streaming;
+   Future Internet; Content Aware Networking; Video Adaptation
+ID STANDARD
+ER
+
+PT S
+ER
+
+PT B
+DE open security devices; security resources scheduling; software defined
+   security; security task abstracting; security resource capability
+   abstracting
+ER
+
+PT B
+DE SDN; virtualization; Software Definded Security
+ER
+
+PT S
+DE 5G; software defined networking; network function virtualization;
+   software defined networking for 5G
+ID RADIO ACCESS
+ER
+
+PT S
+DE Software Defined Network; Network-on-Chip; Network controller
+ID CHIPS
+ER
+
+PT S
+DE scientific workflows; networked clouds; data flow prioritization;
+   software defined exchange
+ID SCIENCE AUTOMATION; CLOUDS; PEGASUS
+ER
+
+PT B
+DE Software Defined Networking; Conventional Networks; Data networks; SDN
+   controllers; Openflow
+ID OPENFLOW
+ER
+
+PT B
+DE energy consumption; Software Defined Network; Wireless Sensor Network
+ID CHALLENGES
+ER
+
+PT S
+ER
+
+PT S
+DE Airborne information network; Software Defined Network
+ER
+
+PT S
+DE Satellite Network; Software Defined Network
+ER
+
+PT S
+DE 5G; failure recovery; multiple routing configurations; software defined
+   networks
+ER
+
+PT B
+DE software-defined networking; OpenFlow protocol; ARP protocol; control
+   traffic; delay; network topology; SDN controller
+ER
+
+PT B
+DE tactical networks; mobility; coalition; software defined networking;
+   controller
+ID SOFTWARE-DEFINED NETWORKS; PROTECTED CORE NETWORKING; SECURITY
+ER
+
+PT B
+DE SDN; Coalition Networks; Coalition Operations; Software Defined
+   Architectures
+ER
+
+PT B
+DE Software Defined Security; Software Defined Networking; SDSec; SDS; SDN
+ER
+
+PT B
+DE Software-defined network (SDN); Security; Cloud computing
+ER
+
+PT B
+ER
+
+PT S
+DE Software Defined Network (SDN); Software Defined Network Exchange (SDX);
+   Programmable Clouds; Science Clouds; Data Commons; Federated Clouds;
+   Programmable Networking; Network Testbeds; Software Defined
+   Infrastructure (SDI); Highly Distributed Customized Virtual Environments
+ID RESEARCH TESTBEDS
+ER
+
+PT J
+DE software-defined optical networks; failure recovery; OpenFlow;
+   out-of-band
+ID CONTROL PLANE; OPENFLOW CONTROLLER; DEFRAGMENTATION; PROTECTION;
+   OFDM/OQAM; FUTURE
+ER
+
+PT S
+DE Software-defined networks; incident response; forensics; switches
+ER
+
+PT J
+DE IoT; Software Defined Security; Security in IoT; Software Defined
+   Networking; Software Defined based IoT (SDIoT)
+ID WIRELESS SENSOR NETWORKS; IOT
+ER
+
+PT J
+DE SDN; REST API; Northbound interface; application
+ER
+
+PT J
+DE Software-defined networking; satellite networks; handover; latency;
+   throughput
+ID SYSTEMS; SCHEME
+ER
+
+PT J
+DE Device-to-device (D2D) communications; network function virtualization
+   (NFV); software-defined networking (SDN)
+ID DISCRETE STOCHASTIC OPTIMIZATION; CELLULAR NETWORKS; CHALLENGES
+ER
+
+PT J
+DE Software-defined network; cloud computing; business architecture;
+   network attacks
+ER
+
+PT J
+DE Internet-of-Things (IoT); software-defined networking (SDN); SDN use
+   case; software-defined wireless networks (SDWNs)
+ID FUTURE
+ER
+
+PT J
+ER
+
+PT J
+DE Software-defined networking (SDN); Software-defined wireless networks
+   (SDWN); OpenFlow; Performance enhancement
+ID WIRELESS SENSOR NETWORKS; AD HOC NETWORKS; COGNITIVE RADIO NETWORKS;
+   TO-DEVICE COMMUNICATIONS; 2-TIER FEMTOCELL NETWORKS; CELLULAR NETWORKS;
+   MESH NETWORKS; POWER-CONTROL; RESOURCE-ALLOCATION; SPECTRUM ALLOCATION
+ER
+
+PT J
+ER
+
+PT J
+DE Software defined networking; consistency; policy update; network
+   security
+ER
+
+PT J
+DE Cloud computing; Software Defined Systems; Software Defined Security;
+   Software Defined Storage; Software Defined Networking; Software Defined
+   Cloud (SDCloud)
+ID NETWORKS
+ER
+
+PT J
+DE Cloud Computing; Cloud Traffic; DSCP Code; IP Header; Software Defined
+   Networks
+ER
+
+PT J
+DE Software-defined network; Optical access network; Bandwidth optimization
+ID ALLOCATION
+ER
+
+PT J
+DE Optical fiber communication; optical modulation; optical receivers;
+   optical transmitters; transceivers
+ID SPECTRAL EFFICIENCY; MODULATION FORMATS; OPTICAL TRANSPORT; PON;
+   SYSTEMS; TRANSMISSION; GENERATION; COLORLESS; ONUS; BAND
+ER
+
+PT B
+DE satellite network; software-defined networks; network virtualization
+ID SDN
+ER
+
+PT S
+DE Software defined networking; Passive optical networks; Flexible
+   bandwidth management
+ID NETWORK
+ER
+
+PT B
+DE sofware defined networks; OpenFlow; TCP window; POX; moment
+   characteristics
+ER
+
+PT B
+DE Software Defined Radio; Software Defined Networking; Wireless Sensor
+   Networks
+ER
+
+PT S
+DE Cloud Computing; Moving Target Defense; Software Defined Network;
+   Mutable Network
+ID COMPREHENSIVE SURVEY; CONFIGURATION
+ER
+
+PT S
+DE QoS provisioning; software defined networking; fog computing; wireless
+   sensor networks
+ER
+
+PT B
+DE Software Defined Networking; Open Flow; Data Center; Wide Area Networks
+ID OPENFLOW
+ER
+
+PT S
+DE Backhaul; Software defined; Flexibility; Bootstrap; Auto-configuration
+ER
+
+PT B
+DE virtual optical network; software-defined optical network; node
+   availability; optical whitebox
+ER
+
+PT B
+DE Software-defined Networking; Real-time Ethernet
+ER
+
+PT S
+DE Wireless Sensor Network; Software-Defined Networking; WSN; SDN
+ER
+
+PT B
+DE Architecture on Demand (AoD); Elastic Optical Networks; MATLAB; Optical
+   networks; OptiSystem; Software Defined Networking (SDN)
+ER
+
+PT S
+DE software defined wireless networking; power control; game theory
+ER
+
+PT B
+DE software defined WiFi networks; performance evaluation; measurement
+ID NETWORKS
+ER
+
+PT S
+DE Data-driven services; software-defined protection; Software-Defined
+   Storage; Data engineering; Middleware
+ER
+
+PT B
+DE software-defined; intelligent software; quality of service(QoS);
+   framework; program transformation; design patterns
+ER
+
+PT B
+DE cloud computing; computing resources; data center; software-defined
+   infrastructure; software-defined networks; software-defined storage
+ER
+
+PT B
+DE traffic path; node function; software defined network(SDN); DPI; IoT
+ER
+
+PT B
+DE Software-Defined Infrastructure; Software-Defined Networking; Network
+   Management; Converged Management; Cloud Computing
+ER
+
+PT B
+DE software-defined network; routing; load balancing; quality of service;
+   delay of traffic; Openflow protocol; Mininet
+ER
+
+PT S
+DE software defined networks; application-based network operations; optical
+   switching
+ER
+
+PT S
+DE Content-Centric Networking; Software Defined Networking; content source
+   mobility; mobility management; handoff
+ER
+
+PT B
+DE Software Defined Network; Firewall; Securtiy; POX; OpenFlow
+ER
+
+PT B
+DE Neural Network; Software Defined Network; Traffic Prediction; Modelling
+ID OPENFLOW
+ER
+
+PT S
+DE Software-Defined Networking; security architecture; controller security
+ER
+
+PT S
+DE Software defined wireless network; wireless virtualization; software
+   defined network
+ID ARCHITECTURE; CHALLENGES; MANAGEMENT; FUTURE
+ER
+
+PT S
+DE Software defined networks; intra-datacenter optical interconnection
+   networks; cross-layer optimization; time-dimension
+ER
+
+PT B
+DE Distributed Hybrid Cloud Storage; Software-Defined Storage; RAI; Network
+   Virtualization; Failover Recovery
+ER
+
+PT B
+DE software defined networks; resilience; disaster survivability
+ID FAILURES
+ER
+
+PT S
+DE software-defined security; service-oriented computing; software-defined
+   infrastructure; enterprise security
+ER
+
+PT B
+ER
+
+PT B
+DE Vehicular Ad Hoc Networks; Software-Defined Networking; Open Flow
+ER
+
+PT J
+DE software defined network; availability; fault tolerance; network;
+   control; OpenFlow; SDN; ToS; QoS
+ER
+
+PT J
+DE Wireless Sensor Networks; Software-Defined Networking; Software-Defined
+   Wireless Sensor Networks
+ID SENSORS; SYSTEM
+ER
+
+PT J
+DE optical data centre (DC); software-defined networking (SDN); virtual
+   data centre (VDC); virtualisation
+ER
+
+PT J
+DE Internet of things (IoT); Software defined network (SDN); Software
+   defined systems (SDSys); Software defined storage (SDStore); Software
+   defined security (SDSec)
+ID NETWORKING; FUTURE
+ER
+
+PT J
+DE Cloud computing; Composite service provisioning; Software-defined Cloud
+   environment; Service modeling; Performance analysis
+ER
+
+PT J
+DE Software-defined networking; 5G wireless system; Wireless
+   software-defined networks; Network function cloudification; Network
+   virtualization; Software-defined traffic engineering
+ID HEAVY TAILS
+ER
+
+PT J
+ER
+
+PT J
+DE software-defined networking; scalability; OpenFlow
+ER
+
+PT J
+DE Software-defined networking; Multi-domain brokering; Load-balancing;
+   Scalability
+ID MANAGEMENT
+ER
+
+PT S
+DE controller placement; placement algorithms; number of controllers
+ER
+
+PT S
+DE Virtual Network; Software Defined Network; Reliability; Energy
+   Efficiency; Green Communications
+ER
+
+PT B
+DE Software Defined Networking; OpenFlow; Mininet; Firewall; POX
+ER
+
+PT B
+DE Software Defined Network; Mininet; Visual Network Descriptor; Open flow
+   Controller
+ER
+
+PT B
+DE SDN; Openflow; Firewall; IDS; Floodlight
+ER
+
+PT B
+DE Software Defined Antenna; Millimeter Wave; Metamaterials; Low C-SWAP
+ID ARCHITECTURE
+ER
+
+PT S
+DE Mobility Management; Software Defined Networks; Mobile Host Node;
+   Virtual Network; Radial Basis Functions
+ID 5G
+ER
+
+PT B
+ER
+
+PT B
+DE traffic dispatching; metro networks; IP over optical networks;
+   software-defined networking; traffic grooming
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT B
+DE Software defined networking; mobile ad hoc wireless network; security;
+   trust; collaboration
+ER
+
+PT B
+DE Hybrid SDN; SDN migration; OSPF; OpenFlow
+ER
+
+PT B
+DE Software Defined Networks; OpenDayLight; Optical Transport Network
+ER
+
+PT B
+DE Heterogeneous network; software-defined network; packet-switched
+   network; circuit-switched network; unified control
+ER
+
+PT B
+DE software defined network; SDN; wireless sensor network; WSN; ad-hoc
+   network
+ID WIRELESS SENSOR NETWORKS
+ER
+
+PT B
+DE Software defined networking; Data centers; network resource management
+ER
+
+PT B
+DE Bandwidth utilization; multicast; routing algorithms; software-defined
+   networking
+ID SCHEME
+ER
+
+PT S
+ID AD HOC NETWORKS; DISCOVERY
+ER
+
+PT S
+DE Cloud computing; Software-defined networking; Fuzzy Analytical Hierarchy
+   Process (Fuzzy-AHP); Network management; Resource management; Scheduling
+ID NETWORKS
+ER
+
+PT J
+DE Software-defined networks; network function virtualization; middlebox;
+   service chain; network virtualization
+ID OF-THE-ART; FUTURE MOBILE; CHALLENGES; INTERNET; ARCHITECTURE; SYSTEM
+ER
+
+PT S
+DE Software defined networking; model checking
+ER
+
+PT J
+DE Software-Defined Networking (SDN); Network Functions Virtualisation
+   (NFV); network virtualization
+ER
+
+PT J
+DE Software defined networking; network virtualization; software-defined
+   radios; network architectures
+ID VIRTUALIZATION; PLATFORM
+ER
+
+PT J
+DE Access Network; NETCONF; Object-Oriented Abstraction; Openflow;
+   Quality-of-Service; Software-Defined Networking; YANG
+ER
+
+PT B
+DE Ontology; Cognitive Radio; Reconfigurability; Software-Defined
+   Networking; Protocols
+ER
+
+PT J
+DE Mininet; OpenFlow; Software Defined Networking
+ER
+
+PT J
+DE International Telecommunication Union; software-defined networking; SDN;
+   cloud computing; standards; service chaining; network function
+   virtualization; ONF; Open Networking Foundation; IETF; Internet
+   Engineering Task Force; ETSI; European Telecommunications Standards
+   Institute; ITU
+ER
+
+PT J
+DE open source networking; Software-defined networking; OpenFlow
+   architecture; Border Gateway Protocol; network architecture
+ID SOFTWARE-DEFINED-NETWORKING
+ER
+
+PT J
+DE software-defined networking; software-defined networks; hybrid SDN;
+   incremental SDN deployment
+ER
+
+PT J
+DE Traffic engineering; Software-defined networking; DDoS
+ER
+
+PT J
+DE Network virtualization; Virtual network embedding; Software-defined
+   networking
+ID INTERNET
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT B
+ER
+
+PT B
+DE Wireless Sensor Network; Software-Defined Networking; Network Smart
+   Management; data-plane; control-plane
+ER
+
+PT S
+DE multi-agent system; real-time scheduling; adaptability; software defined
+   networks
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT B
+DE SDR; Software Defined Radio; satellite; satellite communications;
+   satellite payload; space applications; flexible satellite;
+   reconfigurable satellite
+ER
+
+PT B
+DE Software-Defined Networking; VANET; wireless networks
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT B
+DE Next Generation Optical Access Network; Software-Defined Flex PON; DSP;
+   Dual Band RF Processing
+ER
+
+PT S
+DE SDN; Graph; Network Management; OpenFlow
+ER
+
+PT S
+DE software defined networking; network function
+ER
+
+PT S
+DE Elastic optical network (EON); OpenFlow (OF); Software-defined
+   networking (SDN); Defragmentation (DF)
+ER
+
+PT S
+DE Software defined networking; network coding; passive optical networks
+ID NEXT-GENERATION PON
+ER
+
+PT S
+DE Software-defined Network; Optical Access Network; Bandwidth Optimization
+ER
+
+PT B
+DE OpenFlow; Campus Network; Design; Software Defined Networking;
+   Deployment
+ID OPENFLOW; SCALABILITY
+ER
+
+PT B
+ID OPENFLOW
+ER
+
+PT B
+DE software defined networking; satellite network architecture; software
+   defined satellite networking
+ER
+
+PT S
+DE Software defined networking; D2D communications; wireless virtualization
+ID CELLULAR NETWORKS; OPTIMIZATION; CDMA
+ER
+
+PT B
+DE Network-on-Chip; SDN; photonic; central controller
+ER
+
+PT S
+DE Software-defined Networking; 3DTV service; streaming architecture; SDN
+   flows
+ER
+
+PT B
+DE network-on-chip; software defined networking
+ID ON-CHIP
+ER
+
+PT B
+DE Software defined networking; controller design; QoS routing
+ER
+
+PT J
+DE OpenFlow; software defined networking; complexity
+ER
+
+PT J
+DE IPv6 Transition; Software Defined Network
+ER
+
+PT J
+DE Flexible WDM grid; OpenFlow (OF); Optical networking; Software-defined
+   networks (SDN)
+ID OPENFLOW
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT B
+DE software defined network; openflow protocol; telecom network
+ER
+
+PT B
+ER
+
+PT J
+DE Software-defined networking; OpenFlow; wireless sensor networks
+ER
+
+PT B
+DE Software defined optical network; software defined network; transport
+   network; flexible grid; WDM network; ROADM; variable transponder;
+   control plane
+ID ALLOCATION
+ER
+
+PT S
+DE Software-defined radio; filter; hybrid networks; tunable components
+ER
+
+PT B
+DE software defined radio
+ER
+
+PT J
+ER
+
+EF

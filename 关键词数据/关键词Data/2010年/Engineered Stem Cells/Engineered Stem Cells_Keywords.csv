@@ -1,0 +1,341 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,stem cells,50,stem cells,169
+1,tissue engineering,47,tissue engineering,144
+2,mesenchymal stem cells,21,stem cell,56
+3,stem cell,16,mesenchymal stem cells,55
+4,biomaterials,12,biomaterials,44
+5,regenerative,11,regenerative,38
+6,tissue,10,tissue,37
+7,bone,9,bone,31
+8,differentiation,8,cartilage,28
+9,cartilage,8,differentiation,23
+10,regenerative medicine,7,regenerative medicine,20
+11,induced pluripotent stem cells,7,induced pluripotent stem cells,18
+12,embryonic stem cells,6,regeneration,18
+13,bone marrow,5,scaffold,18
+14,regeneration,5,bone marrow,16
+15,scaffold,5,stem,14
+16,nanomaterials,4,embryonic stem cells,14
+17,bioengineering,4,bioengineering,13
+18,mesenchymal stem cell,4,niche,13
+19,stem,4,cell differentiation,12
+20,cell differentiation,4,nanomaterials,11
+21,stem cell therapy,3,in vivo,11
+22,bone regeneration,3,gene therapy,11
+23,bone tissue engineering,3,gene,10
+24,dental stem cells,3,stem cell therapy,9
+25,niche,3,mesenchymal stem cell,9
+26,gene therapy,3,organoid,9
+27,odontogenesis,3,oxygen,9
+28,pluripotent stem cells,2,odontogenesis,9
+29,cell engineering,2,angiogenesis,8
+30,endothelial progenitor cells,2,bone regeneration,8
+31,angiogenesis,2,tissue regeneration,8
+32,graphene,2,nanoparticles,8
+33,scaffolds,2,adult stem cell,8
+34,chondrogenic differentiation,2,cell engineering,7
+35,human,2,graphene,7
+36,cell culture,2,dental stem cells,7
+37,organoid,2,cell culture,7
+38,tendon,2,surface topography,7
+39,magnetic nanoparticles,2,placenta,7
+40,biomaterial scaffolds,2,cell,7
+41,mesenchymal stem,2,adipose,7
+42,pluripotent stem cell,2,adipose tissue,7
+43,extracellular matrix,2,bone tissue engineering,6
+44,surface topography,2,scaffolds,6
+45,cartilage repair,2,tendon,6
+46,cell sheet,2,biomaterial scaffolds,6
+47,drug delivery,2,cartilage repair,6
+48,placenta,2,drug delivery,6
+49,cancer,2,cancer,6
+50,gene,2,progenitor cells,6
+51,cell,2,adult stem cells,6
+52,adipose,2,chondrogenesis,6
+53,adipose-derived stem cells,2,transplantation,6
+54,embryonic stem cell,2,cornea,6
+55,progenitor cells,2,eye,6
+56,tissue regeneration,2,ocular diseases,6
+57,dental stem cell,2,retina,6
+58,adipose stem cells,2,hypoxia,6
+59,adult stem cells,2,normoxia,6
+60,osteogenic differentiation,2,ex vivo,6
+61,adipose tissue,2,self-renewal,6
+62,nanoparticles,2,teeth,6
+63,chondrogenesis,2,pluripotent stem cells,5
+64,transplantation,2,endothelial progenitor cells,5
+65,in vivo,2,chondrogenic differentiation,5
+66,adult stem cell,2,human,5
+67,oxygen,2,engineer,5
+68,teeth,2,model,5
+69,stem cell medical practice,1,magnetic nanoparticles,5
+70,dynamic materials,1,mesenchymal stem,5
+71,living materials,1,pluripotent stem cell,5
+72,heart failure,1,extracellular matrix,5
+73,induced,1,cell sheet,5
+74,vascular cells,1,adipose-derived stem cells,5
+75,graft material,1,embryonic stem cell,5
+76,sprouting,1,hydrogel,5
+77,skeletal muscle,1,dental stem cell,5
+78,satellite cell,1,gradients,5
+79,tissue engineered vascular grafts,1,alginate,5
+80,autologous,1,hydrogels,5
+81,allogeneic,1,cytotoxicity,5
+82,tissue engineered tracheal construct,1,internalization,5
+83,primates,1,vascular cells,4
+84,critical limb ischemia,1,graft material,4
+85,blood,1,sprouting,4
+86,graphene oxide,1,bio-printing,4
+87,proliferation and differentiation,1,microfluidics,4
+88,bioengineered scaffolds,1,dpscs,4
+89,industry,1,dental pulp,4
+90,translational medicine,1,engineering,4
+91,cardiomyocytes,1,rbc,4
+92,myocardial tissue,1,cord blood,4
+93,pericytes,1,bio-engineered,4
+94,hematopoietic,1,native,4
+95,articular cartilage,1,metabolic profile,4
+96,human pluripotent stem cell,1,disease model,4
+97,human-induced pluripotent stem cell,1,brain,4
+98,bio-printing,1,nerve regeneration,4
+99,microfluidics,1,neurons,4
+100,microenvironment,1,stem cell transplantation,4
+101,regenerative stem cell therapy,1,stroke,4
+102,heart,1,stem cell treatment,4
+103,human umbilical cord stem cells,1,cancer stem,4
+104,synthetic and,1,scaffold-free,4
+105,epithelial stem cells,1,liver,4
+106,interfollicular epidermal stem cells,1,stem cell niche,4
+107,hair,1,bionanofiber,4
+108,cell-cell interaction,1,phage display,4
+109,low-density lipoprotein receptor-related protein,1,peptides,4
+110,developmental engineering,1,viruses,4
+111,sonic hedgehog,1,bioprocess engineering,4
+112,stiffness,1,bioreactor,4
+113,stem cell homing,1,safety,4
+114,cell migration,1,adipose stem cells,4
+115,cell proliferation,1,intercellular adhesions,4
+116,cardiovascular,1,biophysical,4
+117,induced pluripotent,1,molecular,4
+118,engineer,1,skin substitute,4
+119,model,1,seed cell,4
+120,tissue engineered scaffolds,1,application,4
+121,inflammatory responses,1,pluripotent,4
+122,protein,1,multipotent,4
+123,cytokines,1,myocardium,4
+124,orofacial mesenchymal stem cells,1,heart valves,4
+125,heart valve disease,1,oral,4
+126,tissue-engineered,1,dental implants,4
+127,dental pulp stem cells,1,periodontal ligament,4
+128,in vivo model,1,mesenchymal stromal cells,4
+129,mechanical loading,1,potency,4
+130,dpscs,1,bulge,4
+131,dental pulp,1,hair follicle,4
+132,engineering,1,bio-tooth,4
+133,bone marrow niche,1,epidermis,4
+134,electrospinning,1,biomimetic materials,4
+135,nanofiber,1,nanotexture,4
+136,cell-based therapy dental stem cells,1,repair,4
+137,rbc,1,medicine,4
+138,cord blood,1,vasculogenesis,4
+139,bio-engineered,1,dynamic materials,3
+140,native,1,living materials,3
+141,metabolic profile,1,heart failure,3
+142,induced pluripotent stem cell,1,induced,3
+143,nanobiomaterials,1,tissue engineered vascular grafts,3
+144,surface functionalization,1,autologous,3
+145,high throughput platform,1,allogeneic,3
+146,cell-cell interactions,1,critical limb ischemia,3
+147,polymer microarray,1,blood,3
+148,surface chemistry,1,graphene oxide,3
+149,smooth muscle cell,1,proliferation and differentiation,3
+150,endothelial cell,1,bioengineered scaffolds,3
+151,adult stem,1,industry,3
+152,progenitor,1,translational medicine,3
+153,chondroprogenitor,1,cardiomyocytes,3
+154,cell-sheet,1,myocardial tissue,3
+155,cell-sheet engineering,1,pericytes,3
+156,connective tissue,1,hematopoietic,3
+157,application on cell-based therapy,1,microenvironment,3
+158,identification,1,regenerative stem cell therapy,3
+159,multi-differentiation,1,heart,3
+160,disease model,1,synthetic and,3
+161,scaffold biomaterials,1,developmental engineering,3
+162,polymers,1,sonic hedgehog,3
+163,implantation,1,stem cell homing,3
+164,brain,1,cell migration,3
+165,nerve regeneration,1,cell proliferation,3
+166,neurons,1,cardiovascular,3
+167,stem cell transplantation,1,induced pluripotent,3
+168,stroke,1,tissue engineered scaffolds,3
+169,stem cell treatment,1,inflammatory responses,3
+170,cancer stem,1,protein,3
+171,scaffold-free,1,cytokines,3
+172,mechanical properties,1,dental pulp stem cells,3
+173,ipsc,1,in vivo model,3
+174,schwann cell,1,mechanical loading,3
+175,peripheral nerve,1,electrospinning,3
+176,orthopaedics,1,nanofiber,3
+177,embryogenesis,1,polymer microarray,3
+178,mechanobiology,1,surface chemistry,3
+179,morphogenesis,1,smooth muscle cell,3
+180,regenerative medicine stem cells,1,endothelial cell,3
+181,stroke recovery,1,adult stem,3
+182,hydrogel,1,progenitor,3
+183,craniofacial bone regeneration,1,chondroprogenitor,3
+184,extraembryonic,1,cell-sheet,3
+185,congenital heart defects,1,cell-sheet engineering,3
+186,cardiac tissue,1,connective tissue,3
+187,liver,1,scaffold biomaterials,3
+188,dental epithelial stem cell,1,polymers,3
+189,oral and maxillofacial,1,implantation,3
+190,stem cell niche,1,mechanical properties,3
+191,bionanofiber,1,ipsc,3
+192,phage display,1,schwann cell,3
+193,peptides,1,peripheral nerve,3
+194,viruses,1,orthopaedics,3
+195,bioprocess engineering,1,embryogenesis,3
+196,bioreactor,1,mechanobiology,3
+197,safety,1,morphogenesis,3
+198,reviews,1,congenital heart defects,3
+199,biomedical applications of nanomaterials,1,cardiac tissue,3
+200,biosensors,1,reviews,3
+201,chemokines,1,biomedical applications of nanomaterials,3
+202,in situ tissue engineering,1,biosensors,3
+203,airway management,1,raman spectroscopy,3
+204,artificial organs,1,infrared spectroscopy,3
+205,biocompatible materials,1,embryonic stem,3
+206,congenital diaphragmatic hernia,1,craniofacial,3
+207,diaphragmatic engineering,1,myocardial infarction,3
+208,diaphragm,1,heart repair,3
+209,"satellite cells, myogenic",1,ips,3
+210,raman spectroscopy,1,3d culture,3
+211,infrared spectroscopy,1,bioreactor systems,3
+212,embryonic stem,1,cell expansion and differentiation,3
+213,craniofacial,1,muscle stem cells,3
+214,craniofacial reconstruction,1,bone deficiencies,3
+215,intercellular adhesions,1,bone engineering,3
+216,biophysical,1,embryonic-derived,3
+217,molecular,1,musculoskeletal tissues,3
+218,myocardial infarction,1,osteogenic differentiation,3
+219,heart repair,1,growth factor,3
+220,ips,1,nanofibrous scaffold,3
+221,3d culture,1,phase separation,3
+222,bioreactor systems,1,cord blood units,3
+223,cell expansion and differentiation,1,hematopoeitic stem cells,3
+224,muscle stem cells,1,human embryonic,3
+225,periodontal regeneration,1,bone transplantation,3
+226,somatic stem cell,1,nanotechnology,3
+227,gradients,1,in-vivo tracking,3
+228,alginate,1,drug-delivery,3
+229,hydrogels,1,nanophase,3
+230,bone deficiencies,1,heart valve tissue engineering,3
+231,bone engineering,1,engineered peptide,3
+232,embryonic-derived,1,engineered protein,3
+233,musculoskeletal tissues,1,neural stem,3
+234,epithelial-to-mesenchymal transition,1,arterial tissue engineering,3
+235,growth factor,1,vascular grafts,3
+236,nanofibrous scaffold,1,mesenchymal,3
+237,phase separation,1,cell surface markers,3
+238,engineered materials,1,action potential conduction,3
+239,mechatronic integrated biodevices,1,contractile force,3
+240,cell injections,1,neural stem cells,3
+241,cell transplantations,1,blood vessel engineering,3
+242,skin substitute,1,smooth muscle,3
+243,seed cell,1,organoid unit,3
+244,application,1,short bowel syndrome,3
+245,cord blood units,1,small intestine,3
+246,hematopoeitic stem cells,1,in vitro,3
+247,human embryonic,1,bio-engineering,3
+248,adipose tissue-derived stem cells,1,human placenta-derived stem cells,3
+249,amniotic fluid stem cells,1,collagen sponge,3
+250,bone transplantation,1,multilineage differentiation,3
+251,nanotechnology,1,neural,3
+252,in-vivo tracking,1,fetal stem cells,3
+253,drug-delivery,1,liver stem cells,3
+254,nanophase,1,cord-blood,3
+255,heart valve tissue engineering,1,intravascular,3
+256,engineered peptide,1,epithelial-mesenchymal interaction,3
+257,engineered protein,1,osteogenesis,3
+258,neural stem,1,cell signaling,3
+259,nano- and microfabrication,1,expansion,3
+260,high-throughput,1,growth model,3
+261,arterial tissue engineering,1,stem cell medical practice,2
+262,vascular grafts,1,skeletal muscle,2
+263,mesenchymal,1,satellite cell,2
+264,cell surface markers,1,tissue engineered tracheal construct,2
+265,action potential conduction,1,primates,2
+266,contractile force,1,articular cartilage,2
+267,neural stem cells,1,human pluripotent stem cell,2
+268,blood vessel engineering,1,human-induced pluripotent stem cell,2
+269,smooth muscle,1,human umbilical cord stem cells,2
+270,cytotoxicity,1,epithelial stem cells,2
+271,internalization,1,interfollicular epidermal stem cells,2
+272,organoid unit,1,hair,2
+273,short bowel syndrome,1,stiffness,2
+274,small intestine,1,orofacial mesenchymal stem cells,2
+275,adipose-derived stem cell,1,heart valve disease,2
+276,cornea,1,tissue-engineered,2
+277,eye,1,bone marrow niche,2
+278,ocular diseases,1,cell-based therapy dental stem cells,2
+279,retina,1,induced pluripotent stem cell,2
+280,pluripotent,1,nanobiomaterials,2
+281,multipotent,1,surface functionalization,2
+282,myocardium,1,high throughput platform,2
+283,heart valves,1,cell-cell interactions,2
+284,bone marrow mesenchymal stem cells,1,application on cell-based therapy,2
+285,in vitro,1,identification,2
+286,embryonic germ cells,1,multi-differentiation,2
+287,embryonic progenitor cells,1,regenerative medicine stem cells,2
+288,oral,1,stroke recovery,2
+289,dental implants,1,craniofacial bone regeneration,2
+290,periodontal ligament,1,extraembryonic,2
+291,bio-engineering,1,dental epithelial stem cell,2
+292,mesenchymal stromal cells,1,oral and maxillofacial,2
+293,potency,1,chemokines,2
+294,human placenta-derived stem cells,1,in situ tissue engineering,2
+295,collagen sponge,1,airway management,2
+296,cell transplantation,1,artificial organs,2
+297,bulge,1,biocompatible materials,2
+298,hair follicle,1,congenital diaphragmatic hernia,2
+299,tooth engineering,1,diaphragmatic engineering,2
+300,dental pulp stem cell,1,diaphragm,2
+301,bio-tooth,1,"satellite cells, myogenic",2
+302,hypoxia,1,craniofacial reconstruction,2
+303,normoxia,1,periodontal regeneration,2
+304,ex vivo,1,somatic stem cell,2
+305,self-renewal,1,epithelial-to-mesenchymal transition,2
+306,epidermis,1,engineered materials,2
+307,population cells,1,mechatronic integrated biodevices,2
+308,human epidermal-keratinocytes,1,cell injections,2
+309,peripheral-blood,1,cell transplantations,2
+310,multilineage differentiation,1,adipose tissue-derived stem cells,2
+311,neural,1,amniotic fluid stem cells,2
+312,biomimetic materials,1,nano- and microfabrication,2
+313,nanotexture,1,high-throughput,2
+314,controlled growth factor delivery,1,adipose-derived stem cell,2
+315,injectable,1,bone marrow mesenchymal stem cells,2
+316,human embryonic stem cells,1,embryonic germ cells,2
+317,dermal stem cells,1,embryonic progenitor cells,2
+318,vascular endothelium,1,cell transplantation,2
+319,cardiac stem cells,1,tooth engineering,2
+320,cardiac disease,1,dental pulp stem cell,2
+321,preadipocytes,1,population cells,2
+322,lentiviral vectors,1,human epidermal-keratinocytes,2
+323,genetic engineering,1,peripheral-blood,2
+324,fetal stem cells,1,controlled growth factor delivery,2
+325,liver stem cells,1,injectable,2
+326,repair,1,human embryonic stem cells,2
+327,cord-blood,1,dermal stem cells,2
+328,intravascular,1,vascular endothelium,2
+329,epithelial-mesenchymal interaction,1,cardiac stem cells,2
+330,cell-based therapy,1,cardiac disease,2
+331,corneal epithelial stem cells,1,preadipocytes,2
+332,medicine,1,lentiviral vectors,2
+333,vasculogenesis,1,genetic engineering,2
+334,osteogenesis,1,cell-based therapy,2
+335,cell signaling,1,corneal epithelial stem cells,2
+336,expansion,1,embryonic tissue development,2
+337,growth model,1,tissue remodeling,2
+338,embryonic tissue development,1,cell-cell interaction,1
+339,tissue remodeling,1,low-density lipoprotein receptor-related protein,1

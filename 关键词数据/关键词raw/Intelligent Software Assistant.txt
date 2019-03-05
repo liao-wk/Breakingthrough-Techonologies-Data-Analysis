@@ -1,0 +1,608 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE Route design; Walking; Personalization; Multi-criteria evaluation
+ID PHYSICAL-ACTIVITY; WALKING
+ER
+
+PT J
+DE Artificial intelligence; intelligent personal assistants; Internet of
+   Things; ubiquitous computing; wireless sensor networks (WSNs)
+ID WIRELESS SENSOR NETWORKS; ARCHITECTURE; INTEGRATION; PROTOCOL
+ER
+
+PT J
+DE Spoken language understanding; simultaneous recognition; intelligent
+   personal assistant software; user intention
+ID SPEECH-ACT CLASSIFICATION
+ER
+
+PT S
+DE computer aided design; navigation equipment testing; hierarchical
+   design; integrated intelligent system
+ER
+
+PT B
+DE automated transportation; vehicular intelligence; software in vehicle;
+   Autonomy levels; ADAS
+ER
+
+PT B
+DE Intelligent Assistants; Emotion Awareness; Multi-Modal Interaction
+   Design; Emotional State Analysis; Neuromorphic Emotion Sensing;
+   Cognitive Models and Proactive Recommendations; IoT; Privacy Preserving
+   Machine Learning
+ER
+
+PT J
+ER
+
+PT J
+DE Intelligent personal assistants; software agents; trust; reliability;
+   attractiveness; intelligent agents
+ID COMMUNICATOR PHYSICAL ATTRACTIVENESS; INTERPERSONAL-ATTRACTION;
+   STEREOTYPE; FACES; METAANALYSIS; APPEARANCE; DEFENDANTS; PERCEPTION;
+   SIMILARITY; PUNISHMENT
+ER
+
+PT S
+DE Constraint-Based Modelling; Japanese Honorifics; Intelligent Tutoring
+   Systems
+ER
+
+PT S
+DE Automated System; Cloud based Assistance; Intelligent Algorithm;
+   Maternity; Mobile Health; Prenatal Health Care; Pregnant Mother
+ER
+
+PT S
+DE anticipatory mobile computing; personal assistance; distributed system;
+   mobile sensing
+ER
+
+PT J
+ID IMPLEMENTATION; NETWORK; SYSTEM; HOME; APR
+ER
+
+PT S
+ID SYSTEM
+ER
+
+PT S
+DE Decision support systems; Evaluating information; Intelligent systems;
+   Knowledge management
+ER
+
+PT S
+DE Wellbeing; Elderly; Ambient assisted living; Human computer interaction
+ER
+
+PT J
+DE Intelligent personal assistant; Mobile health; Body sensor network;
+   Internet of things; Mobile gateway; Smart object
+ID INTERNET; THINGS; PERSPECTIVE; SYSTEMS
+ER
+
+PT J
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT S
+DE Virtual agents; Conversational style; Human-computer interaction; Social
+   psychology; Interpersonal attraction; Similarity attraction
+ID INTERPERSONAL-ATTRACTION; PERSONALITY; SIMILARITY
+ER
+
+PT B
+DE Pair programming; intelligent assistants; crowdsourcing
+ID TEAMS
+ER
+
+PT B
+DE behavior recognition; online detection; intelligent driving; software
+   hardware co-design
+ID RECOGNITION
+ER
+
+PT J
+ER
+
+PT B
+DE Internet of Things; Mobile Gateway; Intelligent Personal Assistant; Body
+   Sensor Network
+ER
+
+PT S
+DE Intelligent Personal Assistant; Internet of Things; WEKA; Accuracy;
+   Precision; Recall; Naive Bayes; J48; Decision Tree
+ER
+
+PT S
+DE Conversational Agent; Natural Language Processing; Virtual Assistant;
+   Visually Disabled Users; Voice Recognition
+ER
+
+PT J
+DE intelligent agents; teaching design patterns; intelligent tutor
+ER
+
+PT B
+DE component; Mobile Application; Intelligent Agent; Social Network
+ER
+
+PT S
+DE Knowledge engineering; Intelligent design; Design process; Model base;
+   Knowledge Base
+ER
+
+PT S
+DE Analysis; Visualization; Control; Smart home care; Software
+ER
+
+PT S
+DE Chronic illness; Health consulting; Question-answering system; Automatic
+   searching; Similarity algorithm
+ER
+
+PT S
+DE Contextual Graphs; decision-making process; experience base; working
+   context; intelligent assistant system
+ER
+
+PT J
+DE Intelligent assistants; Decision-theory; Graphical models; Inference
+ID HIDDEN MARKOV MODEL
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT S
+ER
+
+PT J
+DE Intelligent Agents; Refactoring; eLearning Environments; Software
+   Engineering; Agent-Oriented Architectures
+ER
+
+PT S
+DE end-user programming; testing; crowdsourcing; machine learning
+ER
+
+PT J
+DE Mobile enterprise; Multi-agent; Intelligent system; Remote control
+ID FRAMEWORK
+ER
+
+PT B
+DE Proactive assistant agents; Probabilistic plan recognition; Information
+   agents; Agent architecture
+ER
+
+PT J
+DE Neuron; Brain; Network model; Intellect; Language
+ID ENVIRONMENT; NEURONS; COMPLEX
+ER
+
+PT S
+DE Home assistant bots; intelligent environment; intelligent agents; reflex
+   agents; motivated reinforcement learning; motivated supervised learning;
+   biocycles; novelty; interest; curiosity; competence.
+ID COMPUTER
+ER
+
+PT S
+DE electric power grid; operation mode; artificial intelligence; logic
+   reasoning
+ER
+
+PT S
+DE Intelligent Agent; E-learning; Experiment Courses; Internet Intelligent
+   System
+ER
+
+PT S
+DE Intelligent Transport Systems (ITS); Safe Driving Theory; GPS; Internet;
+   Summary
+ID MODEL
+ER
+
+PT S
+DE Product design; Muscle force; Intelligent assistant; Surface EMG
+ID EMG; MOMENTS
+ER
+
+PT B
+DE Intelligent information systems; Tools for knowledge management;
+   Argument assistant systems; Usability
+ER
+
+PT J
+DE operable email; personal assistant; email filtering; intelligent agents;
+   Web intelligence
+ID WEB
+ER
+
+PT S
+DE intelligent agent; personal assistant; learning
+ER
+
+PT S
+DE Ambient Intelligence; university; people privacy; cognitive personal
+   software assistant
+ID AMBIENT INTELLIGENCE; MANAGEMENT; MAPS
+ER
+
+PT B
+DE Non pedagogical agent; Intelligent Personal Assistant; Educational
+   Agent; Tutor; Coach; Student support; School help; Dropout prevention
+ER
+
+PT B
+DE AI; XML; JAVA; AIML; ALICE
+ER
+
+PT B
+DE Computer-aided Design; Structural Analysis; Design Optimization;
+   Intelligent Decision Support
+ER
+
+PT S
+ER
+
+PT S
+DE Agent; Automation system; Control operation; Monitoring operation;
+   Software agent
+ID AGENT-BASED APPROACH
+ER
+
+PT J
+DE intelligent transportation system; vehicle information and communication
+   system; advanced parking information system; agent; multi-agent
+   coordination; negotiation
+ID INFORMATION-SYSTEMS; TRANSPORTATION; PERSPECTIVE; MANAGEMENT
+ER
+
+PT J
+DE adaptive technology; circuit topology; intelligent tutoring systems;
+   interactive software; natural language interfaces; virtual laboratory
+ER
+
+PT B
+DE Pervasive-commerce; Context-Aware environments; Ubiquitous Computing;
+   augmented reality; personal assistant
+ER
+
+PT S
+DE wearable computing; surveillance system; motion detection; wearable
+   assistant
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+DE intelligent agents; AOSE; multi-agent systems; JADE; JESS; FIPA; MaSE;
+   agentTool
+ER
+
+PT J
+DE Library system; Web service; Mobility; Quality of service
+ID ANT COLONY OPTIMIZATION; AGENT PERSPECTIVE; SERVICES; WEB; UNIVERSITY
+ER
+
+PT B
+DE personal assistants; animated agents; CSCW; knowledge management;
+   ontology
+ER
+
+PT S
+DE artificial intelligence; artimetrics; biometrics; software agents
+ER
+
+PT J
+DE intelligent grinding; database; artificial intelligence methods;
+   grinding kinematics
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT B
+DE game bots; behavioral biometrics; bot recognition
+ER
+
+PT S
+DE robot; level of autonomy; user interface; mobile device
+ID INTERNET
+ER
+
+PT J
+DE freehand sketching; sketching recognition; wireless projection
+ID INTERACTIVE WHITEBOARDS; DESIGN
+ER
+
+PT S
+DE IVA; SOA; OAA; BDL XML; FIPA; architecture; learning
+ER
+
+PT B
+DE man-machine interfaces; intelligent systems; cognitive processes;
+   medicine
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT B
+DE mobile learning; modular education; multi-agent systems; recommender
+   systems; ubiquitous computing
+ER
+
+PT J
+DE personal assistant agents; collaborative design environments; user
+   modeling; intelligent user assistance
+ER
+
+PT J
+DE spoken dialogue system; personal medical advisor; prescription
+   compliance; artificial intelligence
+ER
+
+PT J
+DE software agents; CSCL; knowledge building
+ER
+
+PT B
+ER
+
+PT B
+DE sensor network; ubiquitous device; ad-hoc network
+ER
+
+PT B
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT B
+DE AAC languages; accessibility to disabled users; hidden Markov model;
+   intelligent user interface; symbolic prediction
+ID HIDDEN MARKOV-MODELS; ALGORITHM
+ER
+
+PT S
+ID COLLABORATIVE DESIGN
+ER
+
+PT B
+ID VIRTUAL ORGANIZATIONS
+ER
+
+PT B
+DE artificial intelligence; logical semantics; knowledge-based system; and
+   semantic network
+ER
+
+PT B
+DE intelligent systems; artificial intelligence; expert systems
+ID ARCHITECTURE
+ER
+
+PT S
+ER
+
+PT J
+DE multi-agent systems (MAS); user-adaptability; personalization; ontology;
+   iTV; users with special needs
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT B
+DE pervasive computing; context-awareness; m-commerce; mobile computing
+ER
+
+PT S
+ER
+
+PT B
+DE intelligence user assistance; collaborative design environments;
+   interface agents; user model
+ER
+
+PT B
+DE speech interface; ontology; personal assistants
+ER
+
+PT S
+ID CONCEPTUAL DESIGN
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT J
+DE user modelling; adaptive system; intelligent; personal assistant; fuzzy;
+   fril
+ID SYSTEMS
+ER
+
+PT J
+DE information extraction; information retrieval; instructable and adaptive
+   software agents; machine learning; neural networks; Web mining
+ID AUTOMATIC TEXT RETRIEVAL; KNOWLEDGE; NETWORKS
+ER
+
+PT B
+ER
+
+PT B
+DE electricity market; artificial intelligent; bidding strategies;
+   intelligent decision support system (IDSS)
+ID ELECTRICITY MARKET; GAME
+ER
+
+PT S
+ID COMPUTER-GENERATED ACTORS; MILITARY SIMULATION; PROSPECTS; PROGRESS
+ER
+
+PT B
+ER
+
+PT B
+DE intelligent systems; personal profiles; health monitoring;
+   personalization; dietary plans
+ER
+
+PT J
+DE Intelligent Help; intelligent user interface; object-oriented software
+   engineering; user modelling; experimental studies
+ID USER INTERFACES; HELP; SYSTEM; UNIX
+ER
+
+PT J
+DE intelligent agent; comparison shopping; information extraction;
+   inductive learning; wrapper
+ER
+
+PT J
+DE collaborative design; content search; ontology; RDF; STEP
+ER
+
+PT J
+DE intelligent CAD; dimensioning; feature extraction; expert system
+ER
+
+PT S
+ID SOFTWARE AGENTS
+ER
+
+PT B
+ER
+
+PT J
+DE information assistant; intelligent environment
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+DE knowledge for innovation; semantic knowledge
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT S
+DE inference; genetic; network
+ER
+
+PT S
+ID SYSTEMS
+ER
+
+PT J
+DE intelligent CAD; dimensioning; feature extraction; expert system
+ER
+
+PT J
+DE avatars; anthropomorphic interfaces; conversational interfaces; facial
+   animation; behavioral animation
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE intelligent user interfaces; adaptive user interfaces; software agents;
+   user interface design; user modelling; interface architectures; web
+   browsing
+ER
+
+PT J
+DE intelligent software; vapor cycle; heat pump; design; Rankine vapor
+   cycle
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+EF

@@ -1,0 +1,300 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,homomorphic encryption,79,homomorphic encryption,196
+1,fully homomorphic encryption,37,fully homomorphic encryption,79
+2,cloud computing,22,cloud computing,54
+3,homomorphic,10,homomorphic,29
+4,data security,9,data security,27
+5,cloud,6,encryption,18
+6,privacy protection,5,cloud,18
+7,learning with errors,5,privacy,17
+8,privacy,5,security,17
+9,encryption,5,learning with errors,12
+10,security,5,privacy protection,11
+11,proxy re-encryption,4,fully,10
+12,somewhat homomorphic encryption,4,cloud data storage,9
+13,cryptanalysis,3,proxy re-encryption,8
+14,cloud data storage,3,ciphertext,8
+15,fully homomorphic,3,cryptography,8
+16,ciphertext,3,cryptanalysis,7
+17,fully,3,somewhat homomorphic encryption,7
+18,dghv,3,fully homomorphic,7
+19,cryptography,3,dghv,7
+20,private,3,rsa,7
+21,approximate gcd,3,private,7
+22,full homomorphic encryption,2,approximate gcd,7
+23,fhe,2,fhe,6
+24,additive homomorphic encryption,2,data,6
+25,cca2 security,2,lwe,6
+26,hash proof system,2,fpga,6
+27,cryptographic protocols,2,elgamal,6
+28,searchable encryption,2,ring learning with errors,6
+29,data,2,full homomorphic encryption,5
+30,lwe,2,searchable encryption,5
+31,learning with errors (lwe),2,learning with errors (lwe),5
+32,bootstrapping,2,bootstrapping,5
+33,rsa,2,homomorphic mac,5
+34,fpga,2,private information retrieval,5
+35,logistic regression,2,additive homomorphic encryption,4
+36,homomorphic mac,2,cca2 security,4
+37,private information retrieval,2,hash proof system,4
+38,quantum cryptography,2,cryptographic protocols,4
+39,symmetric encryption,2,aws,4
+40,elgamal,2,dynamodb,4
+41,ciphertext expansion,2,database,4
+42,public key encryption,2,query,4
+43,lattice based,2,security and privacy,4
+44,ring learning with errors,2,big data,4
+45,discrete logarithm problem,2,non-deterministic,4
+46,encryption of,1,cloud-rsa,4
+47,advanced encryption standard cryptography,1,confidentiality,4
+48,batch processing,1,third party,4
+49,size of public key,1,logistic regression,4
+50,multiple to one,1,coding,4
+51,greatest common divisor,1,theory,4
+52,fhe implementation,1,reed-muller code,4
+53,fhe survey,1,quantum cryptography,4
+54,multiple message spaces,1,symmetric encryption,4
+55,statistical,1,goldwasser-micali,4
+56,construction method,1,naccache-stern,4
+57,abstract decryption,1,hybrid scheme,4
+58,limited resources,1,ciphertext expansion,4
+59,partial,1,protocols,4
+60,continued fraction,1,servers,4
+61,symmetric homomorphic encryption,1,complexity theory,4
+62,ring homomorphisms,1,vate information,4
+63,third party private,1,public key encryption,4
+64,e-voting,1,lattice based,4
+65,finitely presented partially commutative groups,1,matrix multiplication,4
+66,lattice,1,fhe implementation,3
+67,homomorphic ciphers,1,fhe survey,3
+68,encryption procedures,1,limited resources,3
+69,short public keys,1,partial,3
+70,short cipher texts,1,ring-lwe,3
+71,aws,1,cyclotomic ring,3
+72,dynamodb,1,decomposition,3
+73,database,1,verification,3
+74,query,1,multi-user,3
+75,ring-lwe,1,key rotation,3
+76,cyclotomic ring,1,public key cryptography,3
+77,decomposition,1,key,3
+78,verification,1,ideals,3
+79,multi-user,1,number theory,3
+80,storage,1,integrity preservation,3
+81,key rotation,1,healthcare,3
+82,public key cryptography,1,sensors,3
+83,key,1,differential privacy,3
+84,ideals,1,lwe assumption,3
+85,number theory,1,linear,3
+86,integrity preservation,1,key privacy,3
+87,healthcare,1,binary-lwe,3
+88,sensors,1,stp-lwe,3
+89,statistic learning,1,noise management,3
+90,comparison on encrypted data,1,access control,3
+91,differential privacy,1,attribute revocation,3
+92,lwe assumption,1,matrix trace,3
+93,linear,1,secure,3
+94,key privacy,1,the private,3
+95,binary-lwe,1,secure localization,3
+96,stp-lwe,1,paillier,3
+97,noise management,1,structured database,3
+98,cloud security,1,character data,3
+99,data centric security,1,public key,3
+100,quantum somewhat homomorphic encryption,1,ntt multiplication,3
+101,symmetric searchable,1,accelerator,3
+102,access control,1,big data security,3
+103,attribute revocation,1,secure outsourcing,3
+104,parallel computing,1,many-to-one,3
+105,fully homomorphic encryption (fhe),1,multi-level encryption,3
+106,matrix trace,1,somewhat,3
+107,secure,1,linear equations,3
+108,the private,1,paillier's,3
+109,cca-secure,1,bilinear mapping,3
+110,multi-identity fully,1,proxy,3
+111,secure localization,1,multi-cloud,3
+112,paillier,1,distributed system,3
+113,security and privacy,1,component,3
+114,big data,1,privacy of data,3
+115,non-deterministic,1,computation on encrypted data,3
+116,cloud computing environment,1,probabilistic,3
+117,homomorphic encryption algorithm,1,homomorphism,3
+118,paillier algorithm,1,charmichael,3
+119,identity-based encryption,1,virtualization,3
+120,ideal lattices,1,exploit,3
+121,oblivious transfer,1,pascal's triangle theorem,3
+122,active adversary,1,finite prime field,3
+123,one-sided adaptive adversary,1,recrypt,3
+124,key exchange,1,verifiable computation,3
+125,one time pad,1,encrypted data,3
+126,non-deterministic encryption,1,statistical analysis,3
+127,cipher equality,1,additive,3
+128,arithmetic operation,1,rlwe assumption,3
+129,real number,1,canonical embedding,3
+130,structured database,1,malleability,3
+131,character data,1,aggregation,3
+132,decentralized system,1,network security,3
+133,genome secret search,1,wireless sensor,3
+134,multi-hop,1,reconfigurable,3
+135,identity-based proxy re-encryption,1,discrete logarithm problem,3
+136,key switching mechanism,1,ntru,3
+137,public key,1,prince,3
+138,parallel encryption,1,lightweight block ciphers,3
+139,attribute-based,1,the cloud computation,3
+140,fully homomorphic encryption service,1,linear algebra,3
+141,reusable garbled gate,1,outsourcing,3
+142,reusable,1,learn with error,3
+143,cloud-rsa,1,ind-cpa,3
+144,confidentiality,1,detect zero,3
+145,third party,1,non-interactive computing delegation,3
+146,ntt multiplication,1,multikey fhe,3
+147,accelerator,1,cp-abe,3
+148,big data security,1,smaller public key,3
+149,secure outsourcing,1,larger message space,3
+150,distributed data sources,1,lattices,3
+151,many-to-one,1,magma,3
+152,multi-level encryption,1,data retrieval,3
+153,somewhat,1,data aggregation,3
+154,location privacy,1,unattended wireless sensor,3
+155,linear equations,1,private homomorphism,3
+156,paillier's,1,similar modular,3
+157,bilinear mapping,1,fraction modular,3
+158,proxy,1,encryption of,2
+159,multi-cloud,1,batch processing,2
+160,distributed system,1,size of public key,2
+161,component,1,multiple to one,2
+162,privacy of data,1,greatest common divisor,2
+163,computation on encrypted data,1,multiple message spaces,2
+164,hybrid homomorphic,1,statistical,2
+165,chosen ciphertext security,1,construction method,2
+166,convertible,1,abstract decryption,2
+167,probabilistic,1,continued fraction,2
+168,homomorphism,1,symmetric homomorphic encryption,2
+169,charmichael,1,ring homomorphisms,2
+170,coding,1,third party private,2
+171,theory,1,e-voting,2
+172,reed-muller code,1,finitely presented partially commutative groups,2
+173,group algebra,1,lattice,2
+174,probabilistic public-key,1,homomorphic ciphers,2
+175,virtualization,1,encryption procedures,2
+176,exploit,1,short public keys,2
+177,pascal's triangle theorem,1,short cipher texts,2
+178,fully homomorphic encrypted scheme,1,storage,2
+179,multikey,1,statistic learning,2
+180,finite prime field,1,comparison on encrypted data,2
+181,recrypt,1,cloud security,2
+182,cloud storage,1,data centric security,2
+183,cipher text retrieval,1,parallel computing,2
+184,elliptic curve cryptography,1,fully homomorphic encryption (fhe),2
+185,verifiable computation,1,cca-secure,2
+186,additively homomorphic encryption,1,multi-identity fully,2
+187,out sourced,1,cloud computing environment,2
+188,public key cryptosystem,1,homomorphic encryption algorithm,2
+189,approximate greatest common divisors,1,paillier algorithm,2
+190,agcds,1,identity-based encryption,2
+191,incremental documents,1,ideal lattices,2
+192,tamper detection,1,oblivious transfer,2
+193,encrypted data,1,active adversary,2
+194,statistical analysis,1,one-sided adaptive adversary,2
+195,additive,1,key exchange,2
+196,encryption switching protocols,1,one time pad,2
+197,delegation of computations,1,non-deterministic encryption,2
+198,communication,1,cipher equality,2
+199,wireless mesh network,1,arithmetic operation,2
+200,routing protocol,1,real number,2
+201,lattice-based cryptography,1,decentralized system,2
+202,rlwe assumption,1,genome secret search,2
+203,canonical embedding,1,multi-hop,2
+204,delegated quantum,1,identity-based proxy re-encryption,2
+205,bounded distance decoding problem,1,key switching mechanism,2
+206,symmetric key cryptography,1,parallel encryption,2
+207,conjugacy problem,1,attribute-based,2
+208,goldwasser-micali,1,fully homomorphic encryption service,2
+209,naccache-stern,1,reusable garbled gate,2
+210,hybrid scheme,1,reusable,2
+211,image homomorphic encryption,1,distributed data sources,2
+212,ciphertext-only,1,hybrid homomorphic,2
+213,image,1,chosen ciphertext security,2
+214,malleability,1,convertible,2
+215,linear interpolation,1,group algebra,2
+216,aggregation,1,probabilistic public-key,2
+217,network security,1,fully homomorphic encrypted scheme,2
+218,wireless sensor,1,multikey,2
+219,subgroup decision problem,1,cloud storage,2
+220,cryptosystem,1,cipher text retrieval,2
+221,paillier encryption,1,elliptic curve cryptography,2
+222,approximate eigenvector,1,additively homomorphic encryption,2
+223,protocols,1,out sourced,2
+224,servers,1,public key cryptosystem,2
+225,complexity theory,1,approximate greatest common divisors,2
+226,vate information,1,agcds,2
+227,subgaussian random,1,incremental documents,2
+228,integer encoding,1,tamper detection,2
+229,leakage resilient cryptography,1,communication,2
+230,learning,1,wireless mesh network,2
+231,multiparty cloud computing,1,routing protocol,2
+232,reconfigurable,1,lattice-based cryptography,2
+233,delegation of computation,1,delegated quantum,2
+234,private data,1,symmetric key cryptography,2
+235,targeted fully homomorphic encryption,1,conjugacy problem,2
+236,learning with,1,image homomorphic encryption,2
+237,threshold encryption,1,ciphertext-only,2
+238,rlwe,1,image,2
+239,homomorphic authenticated encryption,1,linear interpolation,2
+240,encrypted comparison,1,subgroup decision problem,2
+241,electronic voting system,1,cryptosystem,2
+242,anonymity,1,paillier encryption,2
+243,ntru,1,approximate eigenvector,2
+244,prince,1,subgaussian random,2
+245,lightweight block ciphers,1,integer encoding,2
+246,outsourced encrypted data,1,leakage resilient cryptography,2
+247,verifiable homomorphic,1,learning,2
+248,public-key cryptography,1,multiparty cloud computing,2
+249,semantic security,1,delegation of computation,2
+250,leveled homomorphic encryption,1,private data,2
+251,symmetric fully homomorphic encryption,1,learning with,2
+252,refreshing,1,threshold encryption,2
+253,re-encryption,1,rlwe,2
+254,matrix multiplication,1,homomorphic authenticated encryption,2
+255,parallel homomorphic encryption,1,encrypted comparison,2
+256,quantum one-time pad,1,electronic voting system,2
+257,the cloud computation,1,anonymity,2
+258,linear algebra,1,outsourced encrypted data,2
+259,outsourcing,1,verifiable homomorphic,2
+260,partially homomorphic,1,public-key cryptography,2
+261,learn with error,1,semantic security,2
+262,ind-cpa,1,symmetric fully homomorphic encryption,2
+263,detect zero,1,refreshing,2
+264,cryptography with finite automata,1,re-encryption,2
+265,stream cipher,1,parallel homomorphic encryption,2
+266,privacy preserving,1,quantum one-time pad,2
+267,evolutionary encryption,1,partially homomorphic,2
+268,batch encryption,1,cryptography with finite automata,2
+269,chinese remainder,1,stream cipher,2
+270,vector encryption,1,privacy preserving,2
+271,non-interactive computing delegation,1,evolutionary encryption,2
+272,multikey fhe,1,batch encryption,2
+273,cp-abe,1,chinese remainder,2
+274,homomorphic public key encryption,1,vector encryption,2
+275,efficient homomorphic computing,1,homomorphic public key encryption,2
+276,smaller public key,1,efficient homomorphic computing,2
+277,larger message space,1,public-key encryption,2
+278,private searching on streaming data,1,probabilistic encryption,2
+279,public-key encryption,1,electronic voting,2
+280,probabilistic encryption,1,receipt-freeness,2
+281,lattices,1,probability encryption,2
+282,magma,1,cryptosystems,2
+283,electronic voting,1,similar modul,2
+284,receipt-freeness,1,rational,2
+285,data retrieval,1,secure computation,2
+286,data aggregation,1,the greater than problem,2
+287,unattended wireless sensor,1,the socialist,2
+288,probability encryption,1,collision-resistant hash functions,2
+289,cryptosystems,1,advanced encryption standard cryptography,1
+290,private homomorphism,1,quantum somewhat homomorphic encryption,1
+291,similar modular,1,symmetric searchable,1
+292,fraction modular,1,location privacy,1
+293,similar modul,1,encryption switching protocols,1
+294,rational,1,delegation of computations,1
+295,secure computation,1,bounded distance decoding problem,1
+296,the greater than problem,1,targeted fully homomorphic encryption,1
+297,the socialist,1,leveled homomorphic encryption,1
+298,collision-resistant hash functions,1,private searching on streaming data,1

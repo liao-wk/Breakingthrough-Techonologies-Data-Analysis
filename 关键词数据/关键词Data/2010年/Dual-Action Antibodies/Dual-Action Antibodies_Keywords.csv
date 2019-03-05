@@ -1,0 +1,111 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,egfr,3,bispecific,8
+1,nanocomposites,3,affinity,8
+2,prediction,2,immunotherapy,7
+3,bispecific antibodies,2,egfr,6
+4,antibody engineering,2,bispecific antibodies,6
+5,human epidermal growth,2,epidermal growth factor receptor,6
+6,epidermal growth factor receptor,2,phage display,6
+7,phage display,2,bispecific antibody,6
+8,bispecific,2,nanocomposites,6
+9,bispecific antibody,2,piezoelectric wafer,6
+10,immunotherapy,2,flexoelectric,6
+11,affinity,2,antibody engineering,5
+12,piezoelectric wafer,2,human epidermal growth,5
+13,flexoelectric,2,ranibizumab,5
+14,breast-cancer,1,aflibercept,5
+15,akt,1,bevacizumab,5
+16,egf receptor,1,vegf,5
+17,antibody therapeutics,1,analytical,5
+18,human epidermal growth factor receptor 3,1,appended igg,4
+19,egfr inhibitor,1,fab,4
+20,skin toxicity,1,fc heterodimerization,4
+21,rash,1,fusion,4
+22,affinity improvements,1,antibody,4
+23,designed cdr,1,light chain,4
+24,appended igg,1,heavy chain,4
+25,fab,1,knobs-into-holes,4
+26,fc heterodimerization,1,cancer therapy,4
+27,fusion,1,retargeting,4
+28,antibody,1,single domain,4
+29,light chain,1,fe-b alloy,4
+30,heavy chain,1,interface reaction,4
+31,knobs-into-holes,1,microcrack,4
+32,angiogenesis,1,corrosion,4
+33,gene knockin,1,molten zinc,4
+34,tumor,1,conversion,4
+35,cetuximab,1,element solution,4
+36,panitumumab,1,elastic plate,4
+37,mechanical-properties,1,reflection,4
+38,macroscopic,1,incident,4
+39,carbon nanotubes,1,egfr inhibitor,3
+40,polymer-matrix composites (pmcs),1,skin toxicity,3
+41,morphology,1,rash,3
+42,waviness,1,affinity improvements,3
+43,antibody library,1,designed cdr,3
+44,protein engineering,1,cetuximab,3
+45,erbb1,1,panitumumab,3
+46,cancer therapy,1,antibody library,3
+47,retargeting,1,protein engineering,3
+48,single domain,1,erbb1,3
+49,flexoelectricity,1,flexoelectricity,3
+50,microcantilevers,1,microcantilevers,3
+51,"(ba,sr)tio3",1,"(ba,sr)tio3",3
+52,sensors,1,sensors,3
+53,ranibizumab,1,cryptanalysis,3
+54,aflibercept,1,chaotic system,3
+55,bevacizumab,1,image encryption,3
+56,vegf,1,hyper-chaos,3
+57,analytical,1,d(36) type,3
+58,cryptanalysis,1,shear horizontal wave,3
+59,chaotic system,1,frequency,3
+60,image encryption,1,intravitreal,3
+61,hyper-chaos,1,bispecifics,3
+62,fe-b alloy,1,rabbits,3
+63,interface reaction,1,mathematical model,3
+64,microcrack,1,guided wave,3
+65,corrosion,1,damage detection,3
+66,molten zinc,1,in-plane shear,3
+67,d(36) type,1,accelerometer,3
+68,shear horizontal wave,1,barium strontium titanate,3
+69,frequency,1,antibody libraries,3
+70,intravitreal,1,diversity design,3
+71,bispecifics,1,hybridoma,3
+72,rabbits,1,synthetic antibodies,3
+73,mathematical model,1,dual specific antibody,3
+74,guided wave,1,dual action fab,3
+75,damage detection,1,phage,3
+76,in-plane shear,1,miniature wind turbine,3
+77,accelerometer,1,energy harvesting,3
+78,barium strontium titanate,1,physics-based model,3
+79,elliptic curve cryptosystem,1,wireless,3
+80,key management scheme,1,prediction,2
+81,hierarchical access,1,antibody therapeutics,2
+82,epidermal growth factor receptor tyrosine kinase inhibitor (egfr-tki),1,human epidermal growth factor receptor 3,2
+83,damage identification,1,angiogenesis,2
+84,composite structures,1,gene knockin,2
+85,reverse-time migration,1,tumor,2
+86,antibody libraries,1,mechanical-properties,2
+87,diversity design,1,macroscopic,2
+88,hybridoma,1,carbon nanotubes,2
+89,synthetic antibodies,1,polymer-matrix composites (pmcs),2
+90,conversion,1,morphology,2
+91,element solution,1,waviness,2
+92,elastic plate,1,elliptic curve cryptosystem,2
+93,reflection,1,key management scheme,2
+94,incident,1,hierarchical access,2
+95,dual specific antibody,1,damage identification,2
+96,dual action fab,1,composite structures,2
+97,phage,1,reverse-time migration,2
+98,miniature wind turbine,1,magnetostriction sensor,2
+99,energy harvesting,1,ultrasonic stress wave,2
+100,physics-based model,1,structure health,2
+101,wireless,1,impact location detection,2
+102,magnetostriction sensor,1,impact force reconstruction,2
+103,ultrasonic stress wave,1,time-reversal,2
+104,structure health,1,breast-cancer,1
+105,electromagnetic migration algorithm,1,akt,1
+106,structural health monitoring,1,egf receptor,1
+107,impact location detection,1,electromagnetic migration algorithm,1
+108,impact force reconstruction,1,structural health monitoring,1
+109,time-reversal,1,,

@@ -1,0 +1,219 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,gestural interface,8,gesture,27
+1,gestures,7,gestural interface,23
+2,gesture,7,gestures,19
+3,gestural interaction,5,user interfaces,18
+4,user interfaces,5,gestural interaction,15
+5,gestural interfaces,4,gestural interfaces,12
+6,kinect,3,kinect,12
+7,natural user interfaces,3,hci,9
+8,interaction,3,freehand,9
+9,augmented reality,2,natural user interfaces,9
+10,usability,2,user interface,8
+11,hci,2,interaction,8
+12,hand gesture,2,hand gesture,7
+13,freehand,2,video games,7
+14,accessibility,2,motion capture,7
+15,assistive technology,2,music,6
+16,gesture-based interfaces,2,augmented reality,5
+17,user experience,2,usability,5
+18,user interface,2,accessibility,5
+19,video games,2,user experience,5
+20,motion capture,2,tracking,5
+21,gestural,2,immersion,5
+22,music,2,leap,5
+23,mathematical sketching,2,interaction styles,5
+24,input devices,1,hand pose,5
+25,fitts' law,1,3d,5
+26,performance evaluation/,1,iohmm,5
+27,natural language processing,1,hcrf,5
+28,speech interface,1,hand gesture recognition,5
+29,multimodal,1,gesture spotting,5
+30,gestural data management,1,adaptive,5
+31,gesture interaction middleware,1,virtual reality,4
+32,kinect-like,1,luxury brands,4
+33,in-air hand gestures,1,semi-immersive,4
+34,kinect sensor,1,comparison,4
+35,older adults,1,on skin touch,4
+36,natural user,1,user-elicitation,4
+37,wearable technology,1,gestural action,4
+38,holographic computing,1,performance,4
+39,microgestures,1,instrument,4
+40,gesture interaction,1,affordances,4
+41,virtual reality,1,practise-based,4
+42,luxury brands,1,assistive technology,4
+43,semi-immersive,1,mimetic,4
+44,comparison,1,art,4
+45,on skin touch,1,emergence,4
+46,user-elicitation,1,real time,4
+47,touchless interaction,1,gesture-based interfaces,4
+48,natural interfaces,1,poetry,4
+49,gestural action,1,pragmatism,4
+50,performance,1,aesthetics,4
+51,instrument,1,semiotics,4
+52,affordances,1,domotics,4
+53,practise-based,1,organizational semiotics,4
+54,tangible and gestural interaction,1,ebnf,4
+55,multimodal interaction,1,smart,4
+56,collaboration,1,natural interaction,4
+57,age,1,middleware,4
+58,elderly people,1,3d interfaces,4
+59,human-computer interaction (hci),1,wiimote,4
+60,image processing,1,dataflow,4
+61,computer vision,1,gpus,4
+62,gestural writing,1,operating systems,4
+63,museum information system,1,gpgpu,4
+64,kinetic hypertext,1,chi,4
+65,full-body games,1,tui,4
+66,interactivity,1,modality,4
+67,concurrent full-body gestures,1,virtual assembly,4
+68,mimetic,1,clutching,4
+69,art,1,chirocentric,4
+70,emergence,1,spatiotemporal,4
+71,real time,1,telekinetic,4
+72,gestural commands,1,gestural,4
+73,concern independence,1,mathematical sketching,4
+74,gesture recognition,1,input devices,3
+75,gesture interface,1,fitts' law,3
+76,human computer,1,performance evaluation/,3
+77,poetry,1,in-air hand gestures,3
+78,pragmatism,1,kinect sensor,3
+79,aesthetics,1,older adults,3
+80,semiotics,1,natural user,3
+81,human-agent body interaction,1,wearable technology,3
+82,coupling,1,holographic computing,3
+83,human computer communication,1,full-body games,3
+84,gestural communication,1,interactivity,3
+85,control a,1,concurrent full-body gestures,3
+86,h.1.2 [models and principles]: user/machine systems human factors,1,gesture recognition,3
+87,h.5.2,1,gesture interface,3
+88,visual impairment,1,human computer,3
+89,interactive,1,visual impairment,3
+90,shamanic interface,1,interactive,3
+91,cultural awareness in,1,touchscreen,3
+92,touchscreen,1,sketching,3
+93,sketching,1,technique,3
+94,technique,1,interactive environment,3
+95,interactive environment,1,mobile devices,3
+96,domotics,1,intuitive interfaces,3
+97,organizational semiotics,1,emotional gestures,3
+98,ebnf,1,musical,3
+99,smart,1,gestural input,3
+100,mental model,1,usability testing,3
+101,think-aloud protocol,1,heuristic evaluation,3
+102,tracking,1,design education,3
+103,immersion,1,creative drama,3
+104,leap,1,mime,3
+105,mobile devices,1,internet of things,3
+106,intuitive interfaces,1,human-centric sensing,3
+107,emotional gestures,1,remote,3
+108,musical,1,mutual information,3
+109,gestural input,1,pattern recognition,3
+110,usability testing,1,classification,3
+111,heuristic evaluation,1,immersive environment,3
+112,design education,1,3d objects,3
+113,creative drama,1,visualization,3
+114,mime,1,saga corpus,3
+115,3d selection,1,iconic gesture,3
+116,freehand gesture,1,gesture typology,3
+117,marking menu,1,partial ontology,3
+118,natural interaction,1,sound design,3
+119,middleware,1,semantics,3
+120,touches interaction,1,large displays,3
+121,human computer interaction (hci) [interaction techniques]: gestural,1,touch screens,3
+122,gestural control,1,user-centered study,3
+123,interactive performance,1,3d gestural interfaces,3
+124,improvisation,1,wii remote,3
+125,internet of things,1,silhouette analysis,3
+126,human-centric sensing,1,geodesic,3
+127,remote,1,human/computer interaction,3
+128,3d interfaces,1,metrics,3
+129,wiimote,1,path tortuosity,3
+130,proxemic interaction,1,gestural joystick,3
+131,interaction styles,1,immersiveness,3
+132,hand pose,1,multimodality,3
+133,3d,1,projection display,3
+134,gesture commands,1,position tracking,3
+135,usage,1,intelligent robots,3
+136,incremental learning,1,interactive systems,3
+137,digital image processing,1,user-centered,3
+138,human machine interaction (hmi),1,touch-screen system,3
+139,dataflow,1,museums,3
+140,gpus,1,social interaction,3
+141,operating systems,1,interaction design,3
+142,gpgpu,1,industrial design,3
+143,multi-touch & tangible user interfaces,1,tangible,3
+144,immersive computing,1,responsive environments,3
+145,multi-modal,1,sensate space,3
+146,mutual information,1,sonification,3
+147,pattern recognition,1,visualisation,3
+148,classification,1,audio systems,3
+149,immersive environment,1,signal synthesis,3
+150,3d objects,1,dynamic autonomy,3
+151,visualization,1,human-robot interaction,3
+152,fling framework,1,intelligent,3
+153,multi-touch interface,1,natural language processing,2
+154,multiple input peripherals,1,speech interface,2
+155,chi,1,multimodal,2
+156,tui,1,gestural data management,2
+157,modality,1,gesture interaction middleware,2
+158,virtual assembly,1,kinect-like,2
+159,clutching,1,microgestures,2
+160,saga corpus,1,gesture interaction,2
+161,iconic gesture,1,touchless interaction,2
+162,gesture typology,1,natural interfaces,2
+163,partial ontology,1,tangible and gestural interaction,2
+164,sound design,1,multimodal interaction,2
+165,semantics,1,collaboration,2
+166,chirocentric,1,age,2
+167,spatiotemporal,1,elderly people,2
+168,telekinetic,1,human-computer interaction (hci),2
+169,iohmm,1,image processing,2
+170,hcrf,1,computer vision,2
+171,hand gesture recognition,1,gestural writing,2
+172,gesture spotting,1,museum information system,2
+173,adaptive,1,kinetic hypertext,2
+174,computer-based conducting system,1,gestural commands,2
+175,drill and practice,1,concern independence,2
+176,large displays,1,human computer communication,2
+177,touch screens,1,gestural communication,2
+178,user-centered study,1,control a,2
+179,3d gestural interfaces,1,shamanic interface,2
+180,wii remote,1,cultural awareness in,2
+181,haptic interaction,1,mental model,2
+182,silhouette analysis,1,think-aloud protocol,2
+183,geodesic,1,3d selection,2
+184,human/computer interaction,1,freehand gesture,2
+185,metrics,1,marking menu,2
+186,path tortuosity,1,touches interaction,2
+187,gestural joystick,1,gestural control,2
+188,immersiveness,1,interactive performance,2
+189,multimodality,1,improvisation,2
+190,projection display,1,proxemic interaction,2
+191,position tracking,1,gesture commands,2
+192,time,1,usage,2
+193,space,1,incremental learning,2
+194,interactive film,1,digital image processing,2
+195,mathematical expression recognition,1,human machine interaction (hmi),2
+196,urban east norwegian,1,multi-touch & tangible user interfaces,2
+197,morphological derived-environment effects,1,immersive computing,2
+198,intelligent robots,1,multi-modal,2
+199,interactive systems,1,fling framework,2
+200,user-centered,1,multi-touch interface,2
+201,touch-screen system,1,multiple input peripherals,2
+202,museums,1,computer-based conducting system,2
+203,social interaction,1,drill and practice,2
+204,interaction design,1,haptic interaction,2
+205,industrial design,1,time,2
+206,tangible,1,space,2
+207,responsive environments,1,interactive film,2
+208,sensate space,1,mathematical expression recognition,2
+209,sonification,1,pen-based interfaces,2
+210,visualisation,1,photo album,2
+211,pen-based interfaces,1,human-agent body interaction,1
+212,photo album,1,coupling,1
+213,audio systems,1,h.1.2 [models and principles]: user/machine systems human factors,1
+214,signal synthesis,1,h.5.2,1
+215,dynamic autonomy,1,urban east norwegian,1
+216,human-robot interaction,1,morphological derived-environment effects,1
+217,intelligent,1,,

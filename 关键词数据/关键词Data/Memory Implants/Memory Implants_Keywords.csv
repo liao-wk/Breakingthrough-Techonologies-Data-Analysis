@@ -1,0 +1,323 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,hippocampus,23,hippocampus,81
+1,memory,6,memory,23
+2,prefrontal cortex,6,ensemble,16
+3,nonlinear modeling,5,prefrontal cortex,15
+4,brain-computer interface,4,nonlinear modeling,15
+5,arrays,4,ca1,13
+6,ensemble,4,ca3,13
+7,recollection,3,recollection,11
+8,brain-machine interface,3,eeg,11
+9,spike,3,emotion,11
+10,spatio-temporal pattern,3,deep brain stimulation,11
+11,plasticity,3,decomposition,11
+12,volterra kernels,3,fagus sylvatica,11
+13,deep brain stimulation,3,attention,10
+14,decomposition,3,theta,10
+15,fagus sylvatica,3,brain-computer interface,10
+16,neuroprosthetics,3,spike,10
+17,ca1,3,spatio-temporal pattern,10
+18,ca3,3,plasticity,10
+19,place cells,2,neuroprosthetics,10
+20,oscillations,2,brain-machine interface,9
+21,eeg,2,volterra kernels,9
+22,emotion,2,cognition,8
+23,attention,2,subiculum,8
+24,theta,2,fmri,8
+25,motor cortex,2,arrays,8
+26,electrocorticography,2,functional connectivity,8
+27,primary motor cortex,2,litter quality,8
+28,cognition,2,litterbag,8
+29,feedback,2,mixing,8
+30,subiculum,2,motor cortex,7
+31,fmri,2,feedback,7
+32,cerebral cortex,2,cannabinoids,7
+33,electrophysiology,2,climosequence,7
+34,cannabinoids,2,learning,7
+35,endocannabinoids,2,epilepsy,7
+36,functional connectivity,2,place cells,6
+37,delayed memory task,2,oscillations,6
+38,litter quality,2,alpha,6
+39,litterbag,2,coherence,6
+40,mixing,2,frontal midline theta,6
+41,climosequence,2,cerebral cortex,6
+42,generalized laguerre-volterra,2,electrophysiology,6
+43,brain-computer interface (bci),2,endocannabinoids,6
+44,learning,2,neural prosthesis,6
+45,silicon neuron,2,biomimetic,6
+46,epilepsy,2,primary motor cortex,5
+47,neural prosthesis,2,affect,5
+48,biomimetic,2,humans,5
+49,psychophysics,1,temperature,5
+50,signal detection theory,1,warmth,5
+51,sequential analysis,1,modeling,5
+52,motion,1,nonlinear,5
+53,familiarity,1,systems analysis,5
+54,perirhinal cortex,1,cortex,5
+55,striatum,1,stimulation,5
+56,reinforcement learning,1,limb,5
+57,stereotypy,1,neurotechnology,5
+58,procedural learning,1,brain-computer interface (bci),5
+59,alpha,1,silicon neuron,5
+60,coherence,1,reentrance,5
+61,frontal midline theta,1,mvar model,5
+62,columnar organization,1,monkey,4
+63,minicolumns,1,emg,4
+64,modules,1,synchrony,4
+65,monkey,1,electrocorticography,4
+66,emg,1,long-term potentiation,4
+67,synchrony,1,enriched environment,4
+68,long-term potentiation,1,creb,4
+69,enriched environment,1,norepinephrine,4
+70,creb,1,dopamine,4
+71,neural prosthetics,1,stress,4
+72,perturbation,1,cofilin,4
+73,population,1,actin,4
+74,sleep deprivation,1,psd-95,4
+75,monkeys,1,phosphorylation,4
+76,orexin-a (hypocretin-1),1,unsupervised learning,4
+77,hippocampal place cells,1,volterra kernel,4
+78,interspike interval distributions,1,ibotenate lesion,4
+79,markov,1,entorhinal cortex,4
+80,norepinephrine,1,delay,4
+81,dopamine,1,theta rhythm,4
+82,stress,1,temporal coding,4
+83,cofilin,1,phase shift,4
+84,actin,1,cocaine,4
+85,psd-95,1,executive function,4
+86,phosphorylation,1,imaging,4
+87,unsupervised learning,1,non-human primate,4
+88,laguerre expansion,1,prefrontal,4
+89,multiple-input,1,episodic memory,4
+90,amnesia,1,rats,4
+91,recognition memory,1,relational memory,4
+92,autism,1,delayed memory task,4
+93,columns,1,delayed-nonmatch-to-sample,4
+94,frontal cortex,1,behavior,4
+95,brain-machine-brain interface,1,review,4
+96,neural plasticity,1,mechanism,4
+97,traumatic brain,1,parkinson disease,4
+98,volterra kernel,1,essential,4
+99,biomimetic signal processing,1,schizophrenia,4
+100,mixed signal,1,neuropathology,4
+101,multisite,1,cell counts,4
+102,fast-spiking,1,neurons,4
+103,regular-spiking,1,electron microscopy,4
+104,spectrotemporal,1,circuitry,4
+105,auditory cortex,1,working memory,4
+106,ibotenate lesion,1,primate,4
+107,entorhinal cortex,1,ultrastructure,4
+108,delay,1,spatial,4
+109,theta rhythm,1,encoding,4
+110,temporal coding,1,cross-correlation,4
+111,phase shift,1,litter decomposition,4
+112,cocaine,1,litterbags,4
+113,executive function,1,climate,4
+114,imaging,1,ft-mir,4
+115,non-human primate,1,ampakine,4
+116,prefrontal,1,bioinformatics,4
+117,affect,1,biological system modeling,4
+118,humans,1,eons,4
+119,temperature,1,glutamate,4
+120,warmth,1,bionics,4
+121,multi-input/multi-output (mimo) nonlinear model,1,neural engineering,4
+122,neural,1,visual cortex,4
+123,non-rem sleep,1,blindness,4
+124,low frequency delta eeg,1,electrodes,4
+125,nonverbal,1,short-term memory,4
+126,autistic disorder,1,axons,4
+127,neuroanatomy,1,brain repair,4
+128,episodic memory,1,neural interfaces,4
+129,rats,1,neuronal networks,4
+130,relational memory,1,stem cells,4
+131,electric microstimulation,1,spatial representation,4
+132,modeling,1,numeric categorization,4
+133,nonlinear,1,closed-loop,4
+134,systems analysis,1,assembly formation,4
+135,neuroprosthetic,1,competition,4
+136,cortical physiology,1,engrams,4
+137,darpa,1,excitability,4
+138,neuroscience,1,brain stimulation,4
+139,cortex,1,memory enhancement,4
+140,stimulation,1,cerebellum,4
+141,limb,1,fpga,4
+142,neurotechnology,1,delay eyeblink conditioning,4
+143,cb1 antagonist,1,spiking,4
+144,wiener kernels,1,psychophysics,3
+145,poisson inputs,1,signal detection theory,3
+146,generalized linear model,1,sequential analysis,3
+147,sparsity,1,motion,3
+148,penalized,1,familiarity,3
+149,in vitro modular networks,1,perirhinal cortex,3
+150,whole brain,1,striatum,3
+151,lesioned circuits,1,reinforcement learning,3
+152,in silico,1,stereotypy,3
+153,machine interfaces,1,procedural learning,3
+154,cortical cultures,1,neural prosthetics,3
+155,long-term,1,perturbation,3
+156,closed-loop feedback,1,population,3
+157,cortical neural prosthesis,1,sleep deprivation,3
+158,facilitation,1,monkeys,3
+159,depression,1,orexin-a (hypocretin-1),3
+160,poisson random train,1,laguerre expansion,3
+161,delayed-nonmatch-to-sample,1,multiple-input,3
+162,behavior,1,biomimetic signal processing,3
+163,review,1,mixed signal,3
+164,mechanism,1,multisite,3
+165,parkinson disease,1,fast-spiking,3
+166,essential,1,regular-spiking,3
+167,schizophrenia,1,spectrotemporal,3
+168,neuropathology,1,auditory cortex,3
+169,cell counts,1,non-rem sleep,3
+170,neurons,1,low frequency delta eeg,3
+171,electron microscopy,1,nonverbal,3
+172,circuitry,1,electric microstimulation,3
+173,working memory,1,darpa,3
+174,primate,1,neuroscience,3
+175,ultrastructure,1,cb1 antagonist,3
+176,multi-input multi-output neuronal systems,1,wiener kernels,3
+177,dynamic,1,poisson inputs,3
+178,oculometrics,1,generalized linear model,3
+179,pupil diameter,1,sparsity,3
+180,frontal cortical neurons,1,penalized,3
+181,cognitive,1,in vitro modular networks,3
+182,spatial,1,whole brain,3
+183,encoding,1,lesioned circuits,3
+184,cross-correlation,1,in silico,3
+185,litter decomposition,1,machine interfaces,3
+186,litterbags,1,cortical cultures,3
+187,climate,1,long-term,3
+188,ft-mir,1,facilitation,3
+189,closed-loop control,1,depression,3
+190,hippocampal ensembles,1,poisson random train,3
+191,nonlinear math model,1,oculometrics,3
+192,amplifier,1,pupil diameter,3
+193,cmos,1,frontal cortical neurons,3
+194,common-mode feedback,1,cognitive,3
+195,common-mode rejection ratio,1,amplifier,3
+196,field-programmable gate array (fpga),1,cmos,3
+197,ampakine,1,common-mode feedback,3
+198,bioinformatics,1,common-mode rejection ratio,3
+199,biological system modeling,1,trial sequence,3
+200,eons,1,neural ensemble codes,3
+201,glutamate,1,elevation gradient,3
+202,trial sequence,1,neural recording,3
+203,neural ensemble codes,1,pet imaging,3
+204,elevation gradient,1,cocaine rewards,3
+205,neural recording,1,facilitation. depression,3
+206,pet imaging,1,poisson stimulus,3
+207,cocaine rewards,1,volterra,3
+208,facilitation. depression,1,paired associative stimulation,3
+209,poisson stimulus,1,stdp,3
+210,volterra,1,spiking neuron,3
+211,multi-electrode arrays,1,laguerre expansions,3
+212,acute hippocampal slices,1,neuron model,3
+213,spatial neural,1,nonlinear dynamics,3
+214,array,1,motor prosthetics,3
+215,paired associative stimulation,1,sensory feedback,3
+216,stdp,1,electrical,3
+217,microelectrodes,1,neuronal modeling,3
+218,bionics,1,laguerre,3
+219,neural engineering,1,closed loop,3
+220,visual cortex,1,bidirectional,3
+221,blindness,1,system identification,3
+222,electrodes,1,volterra modeling,3
+223,spiking neuron,1,rodent,3
+224,field programmable gate array (fpga),1,natural images,3
+225,computational modeling,1,receptive fields,3
+226,cognitive processing,1,spike-triggered,3
+227,science education,1,covariance,3
+228,short-term memory,1,learning rule,3
+229,multi-input/multi-output (mimo) neuronal systems,1,spike-timing-dependent,3
+230,laguerre expansions,1,ssppf,3
+231,neuron model,1,adaptive filter,3
+232,nonlinear dynamics,1,neural modeling,3
+233,motor prosthetics,1,field-programmable gate array,3
+234,sensory feedback,1,neuron,3
+235,electrical,1,threshold dynamics,3
+236,neuronal modeling,1,whole-cell patch-clamp,3
+237,laguerre,1,qualitative modeling,3
+238,axons,1,non-linear dynamics,3
+239,brain repair,1,low-power,3
+240,neural interfaces,1,neurostimulation,3
+241,neuronal networks,1,spiking network model,3
+242,stem cells,1,kernel adaptive,3
+243,closed loop,1,neuromodulation,3
+244,bidirectional,1,parkinson's disease,3
+245,spatial representation,1,analog signal processing,3
+246,numeric categorization,1,gm-c filters,3
+247,system identification,1,neuromorphic,3
+248,volterra modeling,1,hippocampal neurons,3
+249,rodent,1,hierarchical encoding,3
+250,natural images,1,retention and,3
+251,receptive fields,1,cell assembly,3
+252,spike-triggered,1,multineuronal recording,3
+253,covariance,1,optogenetics,3
+254,computer-controlled electrical stimulation,1,live cell imaging,3
+255,cortical electrical,1,integration,3
+256,neuromorphic engineering,1,coordination,3
+257,biohybrid interface,1,cortical layers,3
+258,learning rule,1,cortical minicolumns,3
+259,spike-timing-dependent,1,brain machine interface,3
+260,ssppf,1,organoid,3
+261,adaptive filter,1,whole,3
+262,neural modeling,1,neuronal cultures,3
+263,field-programmable gate array,1,neural networks,3
+264,neuron,1,spontaneous activity,3
+265,threshold dynamics,1,columnar organization,2
+266,whole-cell patch-clamp,1,minicolumns,2
+267,qualitative modeling,1,modules,2
+268,non-linear dynamics,1,hippocampal place cells,2
+269,low-power,1,interspike interval distributions,2
+270,closed-loop,1,markov,2
+271,neurostimulation,1,amnesia,2
+272,spiking network model,1,recognition memory,2
+273,kernel adaptive,1,autism,2
+274,reentrance,1,columns,2
+275,mvar model,1,frontal cortex,2
+276,neuromodulation,1,brain-machine-brain interface,2
+277,parkinson's disease,1,neural plasticity,2
+278,analog signal processing,1,traumatic brain,2
+279,gm-c filters,1,multi-input/multi-output (mimo) nonlinear model,2
+280,neuromorphic,1,neural,2
+281,hippocampal neurons,1,autistic disorder,2
+282,hierarchical encoding,1,neuroanatomy,2
+283,retention and,1,neuroprosthetic,2
+284,hippocampal prosthesis,1,cortical physiology,2
+285,ensemble activity,1,closed-loop feedback,2
+286,assembly formation,1,cortical neural prosthesis,2
+287,competition,1,multi-input multi-output neuronal systems,2
+288,engrams,1,dynamic,2
+289,excitability,1,closed-loop control,2
+290,emotional intelligence,1,hippocampal ensembles,2
+291,practical intelligence,1,nonlinear math model,2
+292,vlsi,1,generalized laguerre-volterra,2
+293,reconfigurable computing,1,multi-electrode arrays,2
+294,brain stimulation,1,acute hippocampal slices,2
+295,memory enhancement,1,spatial neural,2
+296,cell assembly,1,microelectrodes,2
+297,multineuronal recording,1,computational modeling,2
+298,optogenetics,1,cognitive processing,2
+299,live cell imaging,1,science education,2
+300,cerebellum,1,neuromorphic engineering,2
+301,fpga,1,biohybrid interface,2
+302,delay eyeblink conditioning,1,hippocampal prosthesis,2
+303,spiking,1,ensemble activity,2
+304,integration,1,emotional intelligence,2
+305,coordination,1,practical intelligence,2
+306,cortical layers,1,vlsi,2
+307,cortical minicolumns,1,reconfigurable computing,2
+308,brain machine interface,1,advanced materials,2
+309,organoid,1,artificial biological organs,2
+310,whole,1,bioelectronics,2
+311,network,1,neural spiking activity,2
+312,cerebral-cortex,1,neural simulator,2
+313,advanced materials,1,field-programmable gate,2
+314,artificial biological organs,1,field-programmable gate array (fpga),1
+315,bioelectronics,1,field programmable gate array (fpga),1
+316,neuronal cultures,1,multi-input/multi-output (mimo) neuronal systems,1
+317,neural networks,1,computer-controlled electrical stimulation,1
+318,spontaneous activity,1,cortical electrical,1
+319,neural spiking activity,1,network,1
+320,neural simulator,1,cerebral-cortex,1
+321,field-programmable gate,1,,

@@ -9,7 +9,7 @@ import pandas as pd
 
 MG = nx.MultiGraph()
 plt.figure(figsize=(15, 15))
-fileName = "Nuclear Reprogramming"
+fileName = "Reversing Paralysis"
 os.chdir("F:\\大道之君\\Breakingthrough-Techonologies-Data-Analysis\\关键词数据\\关键词Data\\"+fileName)
 filename = fileName + '.json'
 file = open(filename)
@@ -67,4 +67,4 @@ df.to_csv(fileName+"_Keywords.csv")
 # 输出网络图
 plt.savefig(fileName+'.jpg')
 plt.savefig(fileName+'.pdf')
-plt.show()
+plt.close()

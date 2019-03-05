@@ -1,0 +1,602 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE 3D object classification; cylindrical CNN; mobile robots; view-point
+   invariant
+ID DESCRIPTORS
+ER
+
+PT J
+DE 3D disaster scenes; mobile VR; diverse scene data representation; scene
+   optimization; adaptive scheduling
+ID 3D; VISUALIZATION; EARTHQUAKE; SIMULATION; SYSTEM; ENVIRONMENT;
+   BUILDINGS; LANDSLIDE; MODELS; RISK
+ER
+
+PT J
+DE Chunk-based slicing; Cooperative 3D printing; Mobile 3D printing; Swarm
+   3D printing
+ER
+
+PT J
+DE Mobile multimedia system; 3D Video; Video compression; Experimental
+   evaluation
+ID VIDEO; DISPLAY; IMAGE
+ER
+
+PT J
+DE Mobile robotic sensor networks; Wireless sensor networks; Distributed
+   self-deployment; Mobile robots; Sensing coverage; Coverage control
+ID DECENTRALIZED CONTROL; SWEEP COVERAGE; SYSTEMS; SYNCHRONIZATION;
+   CONNECTIVITY; ENVIRONMENT; ALGORITHMS; CONSENSUS; BARRIER; ISSUES
+ER
+
+PT J
+DE Cloud Mobile Gaming; 3D; User experience; Subjective testing
+ID KNAPSACK-PROBLEM; VIDEO
+ER
+
+PT J
+DE Mobile cloud computing; Execution offloading; 3D video game
+ER
+
+PT J
+DE Mobile; Geometry; Three-dimensional; Energy consumption; Rendering; User
+   experience
+ER
+
+PT J
+DE mobile device; service science; medical application; healthcare; 3D
+   multiple mobile medical imaging system
+ID PHONES
+ER
+
+PT B
+DE Mobile GPU ray tracing; mobile distributed computing; large-scale 3D
+   scene; kd-tree compression; master/slave system
+ER
+
+PT S
+DE 3D Mobile Networks; indoor environment; penetration loss; coverage
+   probability; stochastic geometry
+ID HETEROGENEOUS CELLULAR NETWORKS
+ER
+
+PT S
+DE 3D Interaction; Augmented Reality; Mobile
+ER
+
+PT S
+DE H.5.1 [Information Interfaces and Presentation (e.g. HCI)]: Multimedia
+   Information Systems; Artificial, augmented, and virtual realities
+ER
+
+PT J
+DE 3D; Cloud mobile virtual immersive application; user experience
+ID EXTENSIONS
+ER
+
+PT J
+DE Depth sensor; structured light; mobile device; 3D face acquisition; 3D
+   face matching; 3D biometrics
+ID ALGORITHM
+ER
+
+PT J
+DE Mobile 3D; 3D mesh streaming; Vertex clustering; Out-of-core mesh
+   partitioning
+ID COMPRESSION; DEVICES
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT B
+ID IMAGE SEGMENTATION
+ER
+
+PT J
+DE Structure-from-Motion; Image-based modeling; Mobile augmented reality
+ID FEATURES
+ER
+
+PT J
+DE Design; Algorithms; Performance; Stereoscopic 3D; mobile devices
+ID RANDOM SAMPLE CONSENSUS; ALGORITHMS; DISPLAYS; IMAGES; TV
+ER
+
+PT J
+DE Total knee arthroplasty; Mobile-bearing insert; 3D kinematics; Accuracy
+   validation; 2D/3D registration technique; Clinical application
+ID SINGLE-PLANE FLUOROSCOPY; REPLACEMENT KINEMATICS; REGISTRATION; IMAGES;
+   PROSTHESIS; POSITION; MOTIONS; MODELS; SYSTEM
+ER
+
+PT J
+DE 3D; asymmetric graphics rendering; branch and bound; cloud Mobile
+   Gaming; subjective testing; user experience
+ER
+
+PT J
+DE 3D content; 3D Internet; Virtual environment; Content simplification;
+   Mobile networking; Energy consumption
+ID VIRTUAL WORLDS; DATA-COMPRESSION; MESHES; WEB; SIMPLIFICATION;
+   VISUALIZATION; TRANSMISSION; EDUCATION; GEOMETRY; DETAIL
+ER
+
+PT S
+DE WSN; 3D space; autonomous deployment; coverage; connectivity; virtual
+   forces
+ER
+
+PT B
+DE Cloud Mobile Gaming; 3D; user experience
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT S
+DE Cloud Mobile Gaming; 3D; user experience; subjective testing; asymmetric
+   object of interest rendering
+ER
+
+PT S
+ID ALGORITHM
+ER
+
+PT S
+DE 3D image reconstruction; curve approximation; matching constraint
+ER
+
+PT J
+ID AUTONOMOUS DEPLOYMENT; COVERAGE; CONNECTIVITY; LOCALIZATION
+ER
+
+PT J
+DE Mobile display; multi-view display; three-dimensional (3D) display
+ID 3-DIMENSIONAL DISPLAY; MULTIVIEW DISPLAY; SYSTEM; PROJECTION
+ER
+
+PT B
+DE hybrid mobile device localization; vision based localization; 3D model
+   fragments; Augmented Reality
+ER
+
+PT S
+DE 3D Map; 2D Map; Visualisation; Remote rendering
+ER
+
+PT B
+DE Mobile 3D manipulator; Mobile operation; Generalized Jacobian matrix;
+   Redundancy; Resolved motion rate control
+ER
+
+PT S
+DE Stereoscopic 3D Image; 3D mobile devices
+ER
+
+PT S
+DE Mutual Resource Exchanging; 3D Movie; 3D Image; Collective Intelligence;
+   Information Sharing; Security
+ER
+
+PT B
+DE 3D Map; Kinect sensor; Mobile robot; SURF; ICP
+ID FEATURES
+ER
+
+PT B
+DE 3D map-building; surface; mobile robot; LRF; real time; median filters
+ER
+
+PT B
+DE Mobile devices; medical imaging; isometric interactions; isotonic
+   interactions; 3D navigation; H.5.2 [Information interfaces and
+   presentation]: User Interfaces; Input Devices and Strategies,
+   Interaction Styles
+ER
+
+PT S
+ER
+
+PT S
+DE X3D; renderer; 3D Model; JDOM; M3G
+ER
+
+PT J
+DE 3D facial animation; text-to-visual speech synthesis; human-machine
+   interfaces; rendering; mobile computing
+ER
+
+PT B
+DE 3D reconstruction; Structure from Motion (SfM); embedded board
+ER
+
+PT S
+DE Mobile Image Applications; Augmented Reality; 3D Map
+ER
+
+PT S
+DE Mobile multimedia system; 3D Video streaming system; Experimental
+   evaluation
+ID IMAGE
+ER
+
+PT S
+DE 3D Face; 3D Facial Model; Mobile Cloud
+ER
+
+PT S
+DE Image-based modelling; auto-correlation; mobile phone application; 3D
+   model creation
+ER
+
+PT B
+DE Mobile True-3D; intangible displays; mid-air pointing; displays
+ER
+
+PT J
+ER
+
+PT J
+DE Mobile computing; 3D graphics; Terrain rendering; Mobile map
+ID GRAPHICS
+ER
+
+PT J
+ER
+
+PT S
+DE Educational; Augmented Reality; Unity; Vuforia; 3D; IoS; Android; Mobile
+ER
+
+PT S
+DE scratchpad memory; 3D picture display; optimization; mobile device
+ER
+
+PT B
+DE 3D-TV; ATSC; SC-MMH; A/104
+ER
+
+PT S
+DE Mobile 3D video; Real-time 3D video streaming; Embedded systems; Mobile
+   devices; End-to-end system
+ER
+
+PT S
+DE Localization; Feature Matching; 3D Point Cloud; Autonomous Mobile Robot
+ER
+
+PT S
+DE stereoscopic video; mobile 3DTV; quality metric; structural similarity;
+   disparity map
+ER
+
+PT B
+DE 3D Streaming; Object selection; Wireless Networks; MANET
+ER
+
+PT S
+DE Dynamic Visual Image Modeling; 3D Modeling; Synthetic Scenes; Mobile
+   self-organizing network
+ID AUGMENTED REALITY; NETWORK
+ER
+
+PT S
+DE Autostereoscopic 3D; visual fatigue; cognitive fatigue; mobile 3D
+   viewing; viewing distance
+ID VISUAL FATIGUE; 3-D DISPLAYS
+ER
+
+PT B
+ER
+
+PT S
+DE Mobile visual search; 3D geometric verification; Helmert transformation
+ER
+
+PT S
+DE LTE; Multi-View 3D video; Multicast
+ID 3-D VIDEO
+ER
+
+PT S
+DE 3D fusion; HTML5; WebGL; Mobile
+ER
+
+PT S
+DE laser range finder; swinging
+ER
+
+PT J
+DE Algorithms; Design; Experimentation; Mobile 3D video; transcoding; QoE;
+   3D video streaming
+ER
+
+PT B
+DE 3D; Augmented Reality; mobile nvigation; indoor; positioning; RFID;
+   Localization; Oxford College; Mackay
+ER
+
+PT B
+DE stereoscopic retargeting; stereoscopic 3D image transcoding; mobile 3D
+   image streaming
+ID VIDEO
+ER
+
+PT S
+DE Mobile 3D viewing; Visual fatigue; Cognitive load; P600; SSVEP
+ID VISUAL FATIGUE; IMAGES
+ER
+
+PT B
+DE 3D city models; mobile devices; visualization; CityGML
+ER
+
+PT J
+DE 3D scene reconstruction; Motion planning; 3D laser scanning; Mobile
+   robot
+ID EXPLORATION
+ER
+
+PT B
+ER
+
+PT S
+DE Interaction technique; Mobile devices; Acceleration sensors; 3D objects
+ER
+
+PT S
+DE 3DTV; 3D DMB; mobile 3D; glassless 3D display; trial broadcasting
+ER
+
+PT B
+ID SURFACE RECONSTRUCTION; MAPS
+ER
+
+PT S
+DE 3DTV; mobile broadcasting; data service; stereoscopic
+ER
+
+PT B
+DE Mobile 3D graphics; sensor input; virtual reality interaction
+ER
+
+PT S
+DE 3D Streaming; Mobile augmented reality; Wireless Networks
+ID VISUALIZATION; ENVIRONMENTS; DEVICES; MODELS
+ER
+
+PT S
+DE Mobile Game Engine; Physics Engine; 3D Game Engine; Intelligent System
+ER
+
+PT S
+DE Mobile Multimedia; 3D Thumbnails; 3D User Interfaces
+ID SEGMENTATION
+ER
+
+PT S
+ID MONTE-CARLO LOCALIZATION; ENVIRONMENTS
+ER
+
+PT S
+DE 3D environment model; obstacle detection; collision avoidance; mobile
+   service robots; 3D time-of-flight camera; general-purpose computation on
+   graphics processing unit
+ER
+
+PT S
+DE 3D environment models; observation models; mobile robot; 3D
+   localization; simulation; openGL
+ER
+
+PT B
+DE 3D visualization; mobile rendering; location-based service;
+   device-awareness
+ER
+
+PT J
+DE Mobile device; Triangulation; Visualization
+ID MESH GENERATION SCHEME; ALGORITHM
+ER
+
+PT J
+DE wireless sensor network; mobile beacon; node localization; space
+   distance intersection; lateration; min-max
+ER
+
+PT B
+ER
+
+PT S
+DE 3D video; video coding; stereo; MVC; mobile services
+ER
+
+PT S
+DE 3D video; video coding; view synthesis; stereo; mobile services
+ER
+
+PT B
+DE mobile 3D graphics; geometric modeling; visualization; interactive
+   genetic algorithm; ubiquitous computing
+ID DEVICES
+ER
+
+PT B
+ER
+
+PT S
+DE mobile interaction; 3D information space; throwing method; human
+   computer interaction
+ER
+
+PT J
+DE 3D mobile face; facial expression; mobile device; avatar; human
+   character
+ID SYSTEM; ENVIRONMENT; PDA; MODEL
+ER
+
+PT J
+DE mobile devices; 3D mesh compression; connectivity coding; geometry
+   coding
+ID POLYGON MESHES
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT S
+DE mobile 3D graphics; M3G; OpenGL ES
+ER
+
+PT S
+DE 3D computer graphics; interactive evolutionary computation; mobile
+   computing; genetic algorithm
+ER
+
+PT B
+DE Direct3D Mobile; multiplayer game; Dead reckoning; 3D map
+ER
+
+PT S
+DE 3D; imaging; displaying; mobile; phone; communication
+ER
+
+PT B
+DE embedded system; 3D reconstruction; mobile robot; laser ranging
+ER
+
+PT S
+DE 3D graphics adaptation; Scalable Vector Graphics; progressive
+   representation; remote rendering
+ER
+
+PT B
+DE 3D graphics accelerator; energy-awared; low-power design; OpenGL ES;
+   performance monitoring; system-an-chip
+ER
+
+PT B
+DE 3D computer graphics; mobile 3D graphics; interactive evolutionary
+   computation; ubiquitous computing; genetic algorithm
+ER
+
+PT S
+DE mobile GIS; pseudo 3D visualization; spatial data; perspective
+   projection; hidden object eliminating; entity back culling
+ER
+
+PT B
+DE mobile device; 3D graphics; assembly task; object complexity
+ER
+
+PT S
+DE mobile 3D game; presence; measurement; presence factors
+ID VIRTUAL ENVIRONMENTS; TELEPRESENCE
+ER
+
+PT B
+DE 3D mobile map; mobile devices; parcel; raster image; DEM; climbing
+   guidance system
+ER
+
+PT B
+DE applications; graphical interfaces; virtual reality; mobile 3D maps;
+   mobile geovirtual enrironments
+ER
+
+PT S
+DE 3D; autostereoscopic; display; microlens; 2D to 3D conversion; depth
+   map; mobile; cell phone; content
+ID TRANSMISSION
+ER
+
+PT S
+DE 3D; LCD; autostereoscopic; lenticular lens; mobile; User evaluation; 2D
+   3D convertible
+ER
+
+PT S
+DE 3D virtual space; responsive space; sensor network; 3D view image;
+   interactive 3D browsing; mobile phone service
+ER
+
+PT B
+ER
+
+PT B
+DE mobile computing; 3D maps; wireless networks; VRML
+ID KNOWLEDGE ACQUISITION
+ER
+
+PT J
+ER
+
+PT J
+DE 3D graphics; data visualization; virtual characters; MPEG-4 FBA; mobile
+   device
+ER
+
+PT S
+DE J2ME; mobile 3D; mobile game development; M3G; 3D resource utilization;
+   JSR184
+ER
+
+PT S
+ER
+
+PT J
+ID RENDERING ENGINE; MEMORY
+ER
+
+PT J
+ER
+
+PT B
+DE 4G mobile networks; enhanced-reality; mobile multimedia; communications;
+   3D audio; 3D video five senses
+ER
+
+PT S
+ER
+
+PT J
+DE performance; measurement; 3D graphics benchmarking; embedded 3D graphics
+   architectures
+ER
+
+PT B
+ER
+
+PT J
+DE construction; handheld computer; visualization; VRML
+ID MANAGEMENT
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT B
+DE 3D visualization; economic games; e-commerce; Mobile Agent Systems
+ER
+
+PT J
+DE 3D graphics; mobile multimedia; VRML; usability; navigation
+ID REALITY
+ER
+
+EF

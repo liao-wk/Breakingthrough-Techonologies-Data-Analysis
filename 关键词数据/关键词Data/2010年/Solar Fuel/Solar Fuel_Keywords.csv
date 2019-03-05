@@ -1,0 +1,312 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,solar energy,25,solar energy,88
+1,hydrogen,22,hydrogen,83
+2,solar,17,solar,64
+3,solar fuels,14,solar fuels,46
+4,fuel cell,11,fuel cell,36
+5,solar fuel,10,solar fuel,32
+6,photocatalysis,8,photocatalysis,30
+7,artificial photosynthesis,8,artificial photosynthesis,24
+8,renewable energy,5,syngas,20
+9,hydrogen production,4,renewable energy,18
+10,photovoltaic,4,reforming,18
+11,photosynthesis,4,fuel,17
+12,fuel cells,4,water splitting,15
+13,syngas,4,photosynthesis,14
+14,fuel,4,methane,14
+15,water splitting,4,biomass,13
+16,reforming,4,photovoltaic,13
+17,electrolyzer,4,fuel cells,13
+18,biomass,3,energy,13
+19,solar-hydrogen,3,hydrogen production,12
+20,co2,3,co2,12
+21,artificial leaf,3,solar cell,12
+22,energy conversion,3,energy conversion,11
+23,energy,3,electrolyzer,11
+24,photovoltaics,3,artificial leaf,10
+25,methane,3,reduction,10
+26,solar reforming,3,photovoltaics,10
+27,hybrid system,3,carbon dioxide,10
+28,carbon dioxide,3,transport,10
+29,solar cell,3,solar-hydrogen,9
+30,parabolic trough collector,3,isothermal,9
+31,solar thermochemical,2,hybrid system,9
+32,thermal,2,natural gas,9
+33,solid oxide fuel cell,2,thermal,8
+34,solar heat,2,water,8
+35,methanol steam reforming,2,solar reforming,8
+36,reduction,2,renewable,8
+37,distributed energy system,2,solar thermal,8
+38,isothermal,2,semiconductors,8
+39,water,2,biofuels,8
+40,pem fuel cell,2,pem fuel cell,7
+41,hybrid solar-fossil fuel,2,parabolic trough collector,7
+42,thermochemical,2,simulation,7
+43,renewable,2,greenhouse,7
+44,solar radiation,2,solar tower,7
+45,solar thermal energy,2,solar thermochemical,6
+46,solar thermal,2,solar heat,6
+47,simulation,2,hybrid solar-fossil fuel,6
+48,semiconductors,2,thermochemical,6
+49,greenhouse,2,rankine cycle,6
+50,rankine cycle,2,zinc,6
+51,solar thermal power,2,carbothermal,6
+52,biofuels,2,coal,6
+53,hybrid power plant,2,decomposition,6
+54,solar tower,2,methanol steam reforming,5
+55,solar collector,2,distributed energy system,5
+56,natural gas,2,thermochemistry,5
+57,transport,2,life cycle assessment,5
+58,universal motor,2,hybrid,5
+59,photovoltaic generator,2,fossil,5
+60,geo2/ge based solar-chemical cycle,1,energy payback,5
+61,non-volatile,1,solar radiation,5
+62,methane reduction,1,solar thermal energy,5
+63,multi-cycles,1,solar reactors,5
+64,perovskites,1,solar thermal power,5
+65,oxygen vacancies,1,hybrid power plant,5
+66,non-stoichiometric materials,1,solar collector,5
+67,clean energy,1,passenger cars,5
+68,porous electrode,1,lca,5
+69,integrated reactor concept,1,technology,5
+70,concentrated radiation,1,clean energy,4
+71,hybridizing solar energy system,1,porous electrode,4
+72,hybrid fuel cell,1,solid oxide fuel cell,4
+73,polyoxometalates,1,hybrid fuel cell,4
+74,mid and low-temperature,1,polyoxometalates,4
+75,thermodynamic analysis,1,artificial tree,4
+76,hydrogen fuel cell,1,photovoltaic cell,4
+77,fc vehicles,1,cobalt,4
+78,zero-pollution,1,platinum,4
+79,copper oxide,1,rhodium,4
+80,photoelectrochemical water splitting,1,hydrogen peroxides,4
+81,sb2se3,1,polygeneration,4
+82,synthesis,1,thermochemical cycling,4
+83,anion-exchange,1,solar conversion,4
+84,charge separation,1,pt/tio2,4
+85,co(2) reduction,1,methanol dehydrogenation,4
+86,artificial tree,1,pem,4
+87,photovoltaic cell,1,climate change,4
+88,trigeneration system,1,fuel security,4
+89,solar hydrogen production,1,light,4
+90,cobalt,1,fuel reforming,4
+91,platinum,1,solar thermal collector,4
+92,rhodium,1,photoanodes,4
+93,methanol decomposition,1,crystal facets,4
+94,chemical,1,solar fuel production,4
+95,co2 sequestration,1,hydrogen-based,4
+96,hydrogen economy,1,sensing robot,4
+97,photoelectrochemistry,1,electrocatalysis,4
+98,thermochemical hybrid power generation systems,1,in operando,4
+99,solar-assisted power,1,in situ,4
+100,mid-temperature solar fuel process,1,passive house,4
+101,synergetic dual thermochemical,1,alkaline,4
+102,hydrogen peroxides,1,co2 reduction,4
+103,device design,1,graphene,4
+104,polygeneration,1,photocatalysts,4
+105,thermochemical cycling,1,photoelectrodes,4
+106,solar conversion,1,nanostructure,4
+107,pt/tio2,1,cchp technology,4
+108,methanol dehydrogenation,1,solar panels,4
+109,pem,1,solar collectors,4
+110,climate change,1,fuel price,4
+111,fuel security,1,emission,4
+112,light,1,redox reaction,4
+113,mid-temperature solar thermochemical process,1,earth abundant,4
+114,cchp,1,multijunction,4
+115,fuel reforming,1,photosystem i,4
+116,solar thermal collector,1,photosystem ii,4
+117,unbiased photoelectrochemical cell,1,modeling,4
+118,znte,1,supervisory control,4
+119,thermodynamics,1,ultracapacitor,4
+120,sofc,1,photovoltaic power,4
+121,evaluation method,1,and,4
+122,electrolyte-free fuel cell,1,oxygen evolution,4
+123,photoanodes,1,photochemistry,4
+124,crystal facets,1,ceria,4
+125,solar fuel production,1,ferrite,4
+126,hydrogen-based,1,gas splitting,4
+127,sensing robot,1,methane formation,4
+128,photoactivated fuel cells,1,metal oxides,4
+129,photocatalytic fuel cells,1,storage tank,4
+130,photofuelcells,1,stratification,4
+131,electrocatalysis,1,npv,4
+132,in operando,1,building-integrated solar,4
+133,in situ,1,fuel poverty,4
+134,passive house,1,trnsys,4
+135,alkaline,1,efficiency,4
+136,solar chimney,1,reformation,4
+137,solid oxide electrolysis cell,1,solar chemistry,4
+138,thermochemistry,1,central receiver,4
+139,fuel conversion,1,heliostat field,4
+140,co2 reduction,1,high,4
+141,graphene,1,efrc,4
+142,nanocomposite,1,catalysis,4
+143,nanosheets,1,biodiesel,4
+144,photocatalysts,1,solar utility,4
+145,photoelectrodes,1,exergy analysis,4
+146,nanostructure,1,solar lime,4
+147,cchp technology,1,solar calcination,4
+148,solar panels,1,co2 mitigation,4
+149,solar collectors,1,economic,4
+150,fuel price,1,methane reduction,3
+151,emission,1,multi-cycles,3
+152,electrolysis,1,mid and low-temperature,3
+153,life cycle assessment,1,thermodynamic analysis,3
+154,hybrid,1,hydrogen fuel cell,3
+155,fossil,1,fc vehicles,3
+156,energy payback,1,zero-pollution,3
+157,photosynthetic microbial fuel cells,1,copper oxide,3
+158,biological solar panel,1,photoelectrochemical water splitting,3
+159,sustainable,1,sb2se3,3
+160,hydrogen energy,1,charge separation,3
+161,high temperature solar applications,1,co(2) reduction,3
+162,csp,1,trigeneration system,3
+163,south africa,1,methanol decomposition,3
+164,redox reaction,1,chemical,3
+165,earth abundant,1,co2 sequestration,3
+166,multijunction,1,hydrogen economy,3
+167,solar water heating,1,photoelectrochemistry,3
+168,life cycle cost,1,device design,3
+169,bioethanol,1,thermodynamics,3
+170,proton-exchange membrane fuel cell,1,sofc,3
+171,hybrid systems,1,evaluation method,3
+172,chemical looping combustion,1,electrolyte-free fuel cell,3
+173,atomic layer deposition,1,fuel conversion,3
+174,batteries,1,electrolysis,3
+175,electrochemistry,1,hydrogen energy,3
+176,fuel-cells,1,high temperature solar applications,3
+177,thin-films,1,csp,3
+178,nanotubes,1,south africa,3
+179,green solar parking-refueling station,1,solar water heating,3
+180,fuel cell vehicle,1,life cycle cost,3
+181,economic and,1,atomic layer deposition,3
+182,concentrating solar power,1,batteries,3
+183,photosystem i,1,electrochemistry,3
+184,photosystem ii,1,oxy-fuel cycle,3
+185,modeling,1,zero co2 emission,3
+186,supervisory control,1,system integration,3
+187,ultracapacitor,1,parabolic trough,3
+188,photovoltaic power,1,combined cycle,3
+189,and,1,conjugated polymers,3
+190,oxygen evolution,1,fullerenes,3
+191,photochemistry,1,solar cells,3
+192,ceria,1,optimization,3
+193,ferrite,1,ionic liquid,3
+194,gas splitting,1,poly(ionic liquid),3
+195,solar reactors,1,electrolyte,3
+196,methane formation,1,carbon monoxide,3
+197,metal oxides,1,drudgery,3
+198,storage tank,1,effective energy production,3
+199,stratification,1,solar tracker,3
+200,npv,1,recyclable process,3
+201,oxy-fuel cycle,1,non,3
+202,zero co2 emission,1,renewable fuels,3
+203,system integration,1,cyanobacteria,3
+204,parabolic trough,1,design and engineering,3
+205,combined cycle,1,microbial,3
+206,conjugated polymers,1,energy security,3
+207,fullerenes,1,anthropocene,3
+208,solar cells,1,fuel cell (pem),3
+209,building-integrated solar,1,photovoltaic panel,3
+210,fuel poverty,1,power energy,3
+211,trnsys,1,residential energy system,3
+212,integrated solar combined cycle system,1,electric power,3
+213,optimization,1,domestic hot,3
+214,ionic liquid,1,pemfc,3
+215,poly(ionic liquid),1,catalytic electrodes,3
+216,electrolyte,1,solar power generation,3
+217,carbon monoxide,1,residential hydrogen fueling,3
+218,drudgery,1,safety,3
+219,effective energy production,1,dynamic experimental data,3
+220,solar tracker,1,solar thermal fuel,3
+221,recyclable process,1,photoswitch,3
+222,non,1,carbon nanotubes,3
+223,renewable fuels,1,combined heat and power,3
+224,cyanobacteria,1,heat recovery,3
+225,design and engineering,1,carbon dioxide fixation,3
+226,microbial,1,low carbon,3
+227,energy security,1,solar photovoltaic system,3
+228,anthropocene,1,solar stirling systems,3
+229,fuel cell (pem),1,experimental data,3
+230,photovoltaic panel,1,high world food prices,3
+231,power energy,1,alternate energy,3
+232,residential energy system,1,bio-fuels,3
+233,electric power,1,automobiles,3
+234,domestic hot,1,building integrated photovoltaics,3
+235,pemfc,1,solar hydrogen,3
+236,catalytic electrodes,1,cracking,3
+237,solar power generation,1,solar reactor,3
+238,residential hydrogen fueling,1,photovoltaic solar energy,3
+239,safety,1,wind energy,3
+240,dynamic experimental data,1,sustainable building,3
+241,solar thermal fuel,1,hybrid robotic wheelchair,3
+242,photoswitch,1,photovoltanic solar cell,3
+243,carbon nanotubes,1,fuel cell vehicles,3
+244,solar aided thermal power generation,1,hydrogen storage,3
+245,solar energy to electricity,1,energy efficiency,3
+246,efficiency,1,geo2/ge based solar-chemical cycle,2
+247,reformation,1,non-volatile,2
+248,combined heat and power,1,perovskites,2
+249,heat recovery,1,oxygen vacancies,2
+250,carbon dioxide fixation,1,non-stoichiometric materials,2
+251,low carbon,1,integrated reactor concept,2
+252,fossil fuels,1,concentrated radiation,2
+253,rankine regenerative cycle,1,hybridizing solar energy system,2
+254,solar chemistry,1,solar hydrogen production,2
+255,central receiver,1,mid-temperature solar thermochemical process,2
+256,heliostat field,1,cchp,2
+257,high,1,unbiased photoelectrochemical cell,2
+258,efrc,1,znte,2
+259,catalysis,1,photoactivated fuel cells,2
+260,solar photovoltaic system,1,photocatalytic fuel cells,2
+261,photomicrobial fuel cell,1,photofuelcells,2
+262,microbial solar cell,1,solar chimney,2
+263,photo hydrogen,1,solid oxide electrolysis cell,2
+264,portable fuel cell system,1,photosynthetic microbial fuel cells,2
+265,methanol reforming,1,biological solar panel,2
+266,solar stirling systems,1,sustainable,2
+267,experimental data,1,bioethanol,2
+268,solar thermal technologies,1,proton-exchange membrane fuel cell,2
+269,solar energy system study,1,hybrid systems,2
+270,high world food prices,1,chemical looping combustion,2
+271,alternate energy,1,fuel-cells,2
+272,bio-fuels,1,thin-films,2
+273,biodiesel,1,nanotubes,2
+274,solar utility,1,green solar parking-refueling station,2
+275,exergy analysis,1,fuel cell vehicle,2
+276,automobiles,1,economic and,2
+277,building integrated photovoltaics,1,concentrating solar power,2
+278,solar cooker,1,integrated solar combined cycle system,2
+279,thermal energy storage systems,1,fossil fuels,2
+280,phase change material,1,rankine regenerative cycle,2
+281,solar hydrogen,1,photomicrobial fuel cell,2
+282,cracking,1,microbial solar cell,2
+283,solar reactor,1,photo hydrogen,2
+284,photovoltaic solar energy,1,portable fuel cell system,2
+285,wind energy,1,methanol reforming,2
+286,sustainable building,1,solar thermal technologies,2
+287,photovoltaic (pv),1,solar energy system study,2
+288,high-pressure hydrogen production,1,solar cooker,2
+289,zinc,1,thermal energy storage systems,2
+290,carbothermal,1,phase change material,2
+291,passenger cars,1,photovoltaic (pv),2
+292,lca,1,high-pressure hydrogen production,2
+293,hybrid robotic wheelchair,1,water-gas shift reaction,2
+294,photovoltanic solar cell,1,energy analysis,2
+295,water-gas shift reaction,1,universal motor,2
+296,energy analysis,1,photovoltaic generator,2
+297,coal,1,collector,2
+298,decomposition,1,fuel oil,2
+299,solar lime,1,upgrading of fuels,2
+300,solar calcination,1,solar thermal electricity,2
+301,co2 mitigation,1,synthesis,1
+302,economic,1,anion-exchange,1
+303,fuel cell vehicles,1,thermochemical hybrid power generation systems,1
+304,hydrogen storage,1,solar-assisted power,1
+305,energy efficiency,1,mid-temperature solar fuel process,1
+306,technology,1,synergetic dual thermochemical,1
+307,collector,1,solar aided thermal power generation,1
+308,fuel oil,1,solar energy to electricity,1
+309,upgrading of fuels,1,,
+310,solar thermal electricity,1,,

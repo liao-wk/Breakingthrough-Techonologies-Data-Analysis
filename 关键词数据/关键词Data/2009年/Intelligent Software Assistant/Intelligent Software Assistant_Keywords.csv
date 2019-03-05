@@ -1,0 +1,261 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,artificial intelligence,5,intelligent agents,17
+1,intelligent agents,5,artificial intelligence,13
+2,software agents,4,fipa,12
+3,intelligent systems,4,software agents,10
+4,intelligent personal assistant,4,intelligent personal assistant,10
+5,intelligent agent,4,software,10
+6,intelligent assistants,3,intelligent agent,10
+7,software,3,personal assistant,9
+8,personal assistant,3,multi-agent systems,9
+9,ontology,3,ontology,9
+10,personalization,2,intelligent systems,8
+11,intelligent personal assistants,2,learning,8
+12,intelligent,2,intelligent assistants,7
+13,crowdsourcing,2,personalization,6
+14,internet of things,2,intelligent,6
+15,inference,2,internet of things,6
+16,intelligent environment,2,aose,6
+17,learning,2,jade,6
+18,multi-agent systems,2,jess,6
+19,fipa,2,mase,6
+20,personal assistants,2,iva,6
+21,collaborative design environments,2,soa,6
+22,information extraction,2,oaa,6
+23,intelligent cad,2,bdl xml,6
+24,dimensioning,2,architecture,6
+25,feature extraction,2,intelligent cad,6
+26,expert system,2,dimensioning,6
+27,route design,1,feature extraction,6
+28,walking,1,expert system,6
+29,multi-criteria evaluation,1,intelligent personal assistants,5
+30,internet of,1,crowdsourcing,5
+31,spoken language understanding,1,inference,5
+32,simultaneous recognition,1,personal assistants,5
+33,computer aided design,1,analysis,4
+34,navigation equipment testing,1,visualization,4
+35,hierarchical,1,control,4
+36,automated transportation,1,smart home care,4
+37,vehicular intelligence,1,neuron,4
+38,software in vehicle,1,brain,4
+39,emotion awareness,1,network model,4
+40,multi-modal interaction,1,intellect,4
+41,trust,1,language,4
+42,reliability,1,intelligent environment,4
+43,constraint-based modelling,1,ai,4
+44,japanese honorifics,1,xml,4
+45,intelligent tutoring,1,java,4
+46,automated system,1,aiml,4
+47,cloud based assistance,1,alice,4
+48,intelligent algorithm,1,user modelling,4
+49,anticipatory mobile computing,1,adaptive system,4
+50,personal assistance,1,fuzzy,4
+51,distributed system,1,information extraction,4
+52,decision support systems,1,collaborative design,4
+53,evaluating information,1,content search,4
+54,wellbeing,1,rdf,4
+55,elderly,1,step,4
+56,ambient assisted living,1,intelligent software,4
+57,human computer interaction,1,vapor cycle,4
+58,mobile health,1,heat pump,4
+59,body sensor network,1,design,4
+60,virtual agents,1,rankine vapor,4
+61,conversational style,1,route design,3
+62,human-computer interaction,1,walking,3
+63,social,1,multi-criteria evaluation,3
+64,pair programming,1,trust,3
+65,behavior recognition,1,reliability,3
+66,online detection,1,wellbeing,3
+67,intelligent driving,1,elderly,3
+68,mobile gateway,1,ambient assisted living,3
+69,body,1,human computer interaction,3
+70,weka,1,virtual agents,3
+71,accuracy,1,conversational style,3
+72,conversational agent,1,human-computer interaction,3
+73,natural language processing,1,social,3
+74,virtual assistant,1,behavior recognition,3
+75,teaching design patterns,1,online detection,3
+76,intelligent tutor,1,intelligent driving,3
+77,component,1,mobile gateway,3
+78,mobile application,1,body,3
+79,social network,1,weka,3
+80,knowledge engineering,1,accuracy,3
+81,intelligent design,1,component,3
+82,design process,1,mobile application,3
+83,model base,1,social network,3
+84,analysis,1,knowledge engineering,3
+85,visualization,1,intelligent design,3
+86,control,1,design process,3
+87,smart home care,1,model base,3
+88,chronic illness,1,chronic illness,3
+89,health consulting,1,health consulting,3
+90,question-answering system,1,question-answering system,3
+91,automatic,1,automatic,3
+92,contextual graphs,1,contextual graphs,3
+93,decision-making process,1,decision-making process,3
+94,experience base,1,experience base,3
+95,working,1,working,3
+96,decision-theory,1,decision-theory,3
+97,graphical models,1,graphical models,3
+98,refactoring,1,refactoring,3
+99,elearning environments,1,elearning environments,3
+100,end-user programming,1,end-user programming,3
+101,testing,1,testing,3
+102,machine learning,1,machine learning,3
+103,mobile enterprise,1,mobile enterprise,3
+104,multi-agent,1,multi-agent,3
+105,intelligent system,1,intelligent system,3
+106,remote control,1,remote control,3
+107,proactive assistant agents,1,home assistant bots,3
+108,probabilistic plan recognition,1,reflex,3
+109,information,1,electric power grid,3
+110,neuron,1,operation mode,3
+111,brain,1,logic,3
+112,network model,1,e-learning,3
+113,intellect,1,experiment courses,3
+114,language,1,internet intelligent,3
+115,home assistant bots,1,intelligent transport systems (its),3
+116,reflex,1,safe driving theory,3
+117,electric power grid,1,gps,3
+118,operation mode,1,internet,3
+119,logic,1,product design,3
+120,e-learning,1,muscle force,3
+121,experiment courses,1,intelligent assistant,3
+122,internet intelligent,1,surface emg,3
+123,intelligent transport systems (its),1,operable email,3
+124,safe driving theory,1,email filtering,3
+125,gps,1,ambient intelligence,3
+126,internet,1,university,3
+127,product design,1,people privacy,3
+128,muscle force,1,cognitive personal,3
+129,intelligent assistant,1,agent,3
+130,surface emg,1,automation system,3
+131,intelligent information systems,1,control operation,3
+132,tools for knowledge management,1,monitoring operation,3
+133,operable email,1,wearable computing,3
+134,email filtering,1,surveillance system,3
+135,ambient intelligence,1,motion detection,3
+136,university,1,wearable,3
+137,people privacy,1,library system,3
+138,cognitive personal,1,web service,3
+139,non pedagogical agent,1,mobility,3
+140,educational,1,quality of service,3
+141,ai,1,animated agents,3
+142,xml,1,cscw,3
+143,java,1,knowledge management,3
+144,aiml,1,artimetrics,3
+145,alice,1,biometrics,3
+146,computer-aided design,1,robot,3
+147,structural analysis,1,level of autonomy,3
+148,design optimization,1,user interface,3
+149,agent,1,mobile device,3
+150,automation system,1,mobile learning,3
+151,control operation,1,modular education,3
+152,monitoring operation,1,recommender,3
+153,intelligent transportation system,1,collaborative design environments,3
+154,vehicle information and communication,1,logical semantics,3
+155,adaptive technology,1,knowledge-based system,3
+156,circuit topology,1,and,3
+157,intelligent tutoring systems,1,multi-agent systems (mas),3
+158,pervasive-commerce,1,user-adaptability,3
+159,context-aware environments,1,pervasive computing,3
+160,ubiquitous computing,1,context-awareness,3
+161,wearable computing,1,m-commerce,3
+162,surveillance system,1,mobile computing,3
+163,motion detection,1,avatars,3
+164,wearable,1,anthropomorphic interfaces,3
+165,aose,1,conversational interfaces,3
+166,jade,1,facial,3
+167,jess,1,internet of,2
+168,mase,1,spoken language understanding,2
+169,library system,1,simultaneous recognition,2
+170,web service,1,computer aided design,2
+171,mobility,1,navigation equipment testing,2
+172,quality of service,1,hierarchical,2
+173,animated agents,1,automated transportation,2
+174,cscw,1,vehicular intelligence,2
+175,knowledge management,1,software in vehicle,2
+176,artimetrics,1,emotion awareness,2
+177,biometrics,1,multi-modal interaction,2
+178,intelligent grinding,1,constraint-based modelling,2
+179,database,1,japanese honorifics,2
+180,artificial intelligence methods,1,intelligent tutoring,2
+181,game bots,1,automated system,2
+182,behavioral biometrics,1,cloud based assistance,2
+183,bot recognition,1,intelligent algorithm,2
+184,robot,1,anticipatory mobile computing,2
+185,level of autonomy,1,personal assistance,2
+186,user interface,1,distributed system,2
+187,mobile device,1,decision support systems,2
+188,freehand sketching,1,evaluating information,2
+189,sketching recognition,1,mobile health,2
+190,wireless projection,1,body sensor network,2
+191,iva,1,pair programming,2
+192,soa,1,conversational agent,2
+193,oaa,1,natural language processing,2
+194,bdl xml,1,virtual assistant,2
+195,architecture,1,teaching design patterns,2
+196,man-machine interfaces,1,intelligent tutor,2
+197,cognitive processes,1,proactive assistant agents,2
+198,mobile learning,1,probabilistic plan recognition,2
+199,modular education,1,information,2
+200,recommender,1,non pedagogical agent,2
+201,personal assistant agents,1,educational,2
+202,user,1,computer-aided design,2
+203,spoken dialogue system,1,structural analysis,2
+204,personal medical advisor,1,design optimization,2
+205,prescription,1,adaptive technology,2
+206,cscl,1,circuit topology,2
+207,knowledge building,1,intelligent tutoring systems,2
+208,sensor network,1,pervasive-commerce,2
+209,ubiquitous device,1,context-aware environments,2
+210,ad-hoc network,1,ubiquitous computing,2
+211,aac languages,1,intelligent grinding,2
+212,accessibility to disabled users,1,database,2
+213,hidden markov model,1,artificial intelligence methods,2
+214,logical semantics,1,game bots,2
+215,knowledge-based system,1,behavioral biometrics,2
+216,and,1,bot recognition,2
+217,expert systems,1,freehand sketching,2
+218,multi-agent systems (mas),1,sketching recognition,2
+219,user-adaptability,1,wireless projection,2
+220,pervasive computing,1,man-machine interfaces,2
+221,context-awareness,1,cognitive processes,2
+222,m-commerce,1,personal assistant agents,2
+223,mobile computing,1,user,2
+224,intelligence user assistance,1,spoken dialogue system,2
+225,speech interface,1,personal medical advisor,2
+226,user modelling,1,prescription,2
+227,adaptive system,1,cscl,2
+228,fuzzy,1,knowledge building,2
+229,information retrieval,1,sensor network,2
+230,instructable and adaptive,1,ubiquitous device,2
+231,electricity market,1,ad-hoc network,2
+232,artificial intelligent,1,aac languages,2
+233,bidding strategies,1,accessibility to disabled users,2
+234,personal profiles,1,hidden markov model,2
+235,health monitoring,1,expert systems,2
+236,intelligent help,1,speech interface,2
+237,intelligent user interface,1,information retrieval,2
+238,object-oriented software,1,instructable and adaptive,2
+239,comparison shopping,1,electricity market,2
+240,collaborative design,1,artificial intelligent,2
+241,content search,1,bidding strategies,2
+242,rdf,1,personal profiles,2
+243,step,1,health monitoring,2
+244,information assistant,1,intelligent help,2
+245,knowledge for innovation,1,intelligent user interface,2
+246,semantic knowledge,1,object-oriented software,2
+247,genetic,1,comparison shopping,2
+248,network,1,genetic,2
+249,avatars,1,network,2
+250,anthropomorphic interfaces,1,intelligent user interfaces,2
+251,conversational interfaces,1,adaptive user interfaces,2
+252,facial,1,intelligent information systems,1
+253,intelligent user interfaces,1,tools for knowledge management,1
+254,adaptive user interfaces,1,intelligent transportation system,1
+255,intelligent software,1,vehicle information and communication,1
+256,vapor cycle,1,intelligence user assistance,1
+257,heat pump,1,information assistant,1
+258,design,1,knowledge for innovation,1
+259,rankine vapor,1,semantic knowledge,1

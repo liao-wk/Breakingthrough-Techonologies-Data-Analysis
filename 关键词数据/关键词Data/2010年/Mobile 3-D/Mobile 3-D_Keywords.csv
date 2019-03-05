@@ -1,0 +1,323 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,3d,14,3d,56
+1,mobile,12,mobile,46
+2,mobile device,6,mobile devices,21
+3,mobile devices,6,mobile device,20
+4,mobile 3d,5,augmented reality,16
+5,user experience,4,mobile 3d,16
+6,augmented reality,4,mobile robot,15
+7,3d map,4,3d graphics,14
+8,mobile robot,4,3d map,12
+9,3d graphics,4,3d video,11
+10,visualization,4,user experience,11
+11,mobile 3d graphics,4,visualization,11
+12,3d video,3,autostereoscopic,11
+13,cloud mobile gaming,3,m3g,10
+14,m3g,3,vrml,10
+15,wireless networks,3,cloud mobile gaming,9
+16,mobile multimedia,3,design,9
+17,vrml,3,algorithms,9
+18,mobile multimedia system,2,mobile 3d graphics,9
+19,experimental,2,mobile multimedia,9
+20,subjective testing,2,geometry,8
+21,geometry,2,coverage,8
+22,coverage,2,mobile 3d video,8
+23,mobile augmented reality,2,wireless networks,8
+24,design,2,video coding,8
+25,algorithms,2,stereo,8
+26,performance,2,mobile services,8
+27,3d model,2,subjective testing,7
+28,3d reconstruction,2,performance,7
+29,mobile computing,2,educational,7
+30,mobile 3d video,2,unity,7
+31,3d streaming,2,vuforia,7
+32,visual fatigue,2,ios,7
+33,3dtv,2,android,7
+34,3d visualization,2,visual fatigue,7
+35,video coding,2,3dtv,7
+36,stereo,2,human,7
+37,mobile services,2,3d model,6
+38,human,2,mobile computing,6
+39,opengl es,2,measurement,6
+40,3d computer graphics,2,lcd,6
+41,measurement,2,lenticular lens,6
+42,autostereoscopic,2,user evaluation,6
+43,3d object classification,1,2d,6
+44,cylindrical cnn,1,mobile multimedia system,5
+45,mobile robots,1,experimental,5
+46,view-point,1,three-dimensional,5
+47,3d disaster scenes,1,energy consumption,5
+48,mobile vr,1,rendering,5
+49,diverse scene data representation,1,user,5
+50,scene,1,wsn,5
+51,chunk-based slicing,1,3d space,5
+52,cooperative 3d printing,1,autonomous deployment,5
+53,mobile 3d printing,1,connectivity,5
+54,swarm,1,virtual,5
+55,video compression,1,3d map-building,5
+56,mobile robotic sensor networks,1,surface,5
+57,wireless sensor networks,1,lrf,5
+58,distributed,1,real time,5
+59,mobile cloud computing,1,median filters,5
+60,execution offloading,1,3d reconstruction,5
+61,3d video game,1,3d streaming,5
+62,three-dimensional,1,experimentation,5
+63,energy consumption,1,transcoding,5
+64,rendering,1,qoe,5
+65,user,1,mobile nvigation,5
+66,service science,1,indoor,5
+67,medical application,1,positioning,5
+68,healthcare,1,rfid,5
+69,mobile gpu ray tracing,1,3d visualization,5
+70,mobile distributed computing,1,opengl es,5
+71,large-scale 3d,1,imaging,5
+72,3d mobile networks,1,displaying,5
+73,indoor environment,1,phone,5
+74,penetration loss,1,communication,5
+75,3d interaction,1,3d mobile map,5
+76,h.5.1 [information interfaces and presentation (e.g. hci)]: multimedia,1,parcel,5
+77,cloud mobile virtual immersive application,1,raster image,5
+78,depth sensor,1,dem,5
+79,structured light,1,climbing,5
+80,3d face acquisition,1,display,5
+81,3d mesh streaming,1,microlens,5
+82,vertex clustering,1,2d to 3d conversion,5
+83,out-of-core mesh,1,depth,5
+84,structure-from-motion,1,service science,4
+85,image-based modeling,1,medical application,4
+86,stereoscopic 3d,1,healthcare,4
+87,total knee arthroplasty,1,depth sensor,4
+88,mobile-bearing insert,1,structured light,4
+89,3d kinematics,1,3d face acquisition,4
+90,accuracy,1,mobile augmented reality,4
+91,asymmetric graphics rendering,1,stereoscopic 3d,4
+92,branch and bound,1,asymmetric,4
+93,cloud mobile,1,kinect sensor,4
+94,3d content,1,surf,4
+95,3d internet,1,icp,4
+96,virtual environment,1,x3d,4
+97,content simplification,1,renderer,4
+98,wsn,1,jdom,4
+99,3d space,1,mobile 3d viewing,4
+100,autonomous deployment,1,cognitive load,4
+101,connectivity,1,p600,4
+102,virtual,1,ssvep,4
+103,asymmetric,1,3d dmb,4
+104,3d image reconstruction,1,glassless 3d display,4
+105,curve approximation,1,trial broadcasting,4
+106,matching constraint,1,mvc,4
+107,mobile display,1,view synthesis,4
+108,multi-view display,1,3d mobile face,4
+109,three-dimensional (3d) display,1,facial expression,4
+110,hybrid mobile device localization,1,avatar,4
+111,vision based localization,1,3d computer graphics,4
+112,2d map,1,data visualization,4
+113,visualisation,1,virtual characters,4
+114,remote rendering,1,mpeg-4 fba,4
+115,mobile 3d manipulator,1,j2me,4
+116,mobile operation,1,mobile game development,4
+117,generalized jacobian matrix,1,3d resource utilization,4
+118,stereoscopic 3d image,1,usability,4
+119,3d mobile devices,1,navigation,4
+120,mutual resource exchanging,1,3d object classification,3
+121,3d movie,1,cylindrical cnn,3
+122,3d image,1,mobile robots,3
+123,collective intelligence,1,view-point,3
+124,kinect sensor,1,3d disaster scenes,3
+125,surf,1,mobile vr,3
+126,icp,1,diverse scene data representation,3
+127,3d map-building,1,scene,3
+128,surface,1,chunk-based slicing,3
+129,lrf,1,cooperative 3d printing,3
+130,real time,1,mobile 3d printing,3
+131,median filters,1,swarm,3
+132,medical imaging,1,video compression,3
+133,isometric interactions,1,3d mobile networks,3
+134,isotonic,1,indoor environment,3
+135,x3d,1,penetration loss,3
+136,renderer,1,3d mesh streaming,3
+137,jdom,1,vertex clustering,3
+138,3d facial animation,1,out-of-core mesh,3
+139,text-to-visual speech synthesis,1,total knee arthroplasty,3
+140,human-machine,1,mobile-bearing insert,3
+141,structure from motion (sfm),1,3d kinematics,3
+142,embedded board,1,accuracy,3
+143,mobile image applications,1,asymmetric graphics rendering,3
+144,3d video streaming system,1,branch and bound,3
+145,3d face,1,cloud mobile,3
+146,3d facial model,1,3d content,3
+147,mobile cloud,1,3d internet,3
+148,image-based modelling,1,virtual environment,3
+149,auto-correlation,1,content simplification,3
+150,mobile phone application,1,2d map,3
+151,mobile true-3d,1,visualisation,3
+152,intangible displays,1,remote rendering,3
+153,mid-air pointing,1,mutual resource exchanging,3
+154,displays,1,3d movie,3
+155,terrain rendering,1,3d image,3
+156,mobile map,1,collective intelligence,3
+157,educational,1,medical imaging,3
+158,unity,1,isometric interactions,3
+159,vuforia,1,isotonic,3
+160,ios,1,image-based modelling,3
+161,android,1,auto-correlation,3
+162,scratchpad memory,1,mobile phone application,3
+163,3d picture display,1,mobile true-3d,3
+164,optimization,1,intangible displays,3
+165,3d-tv,1,mid-air pointing,3
+166,atsc,1,displays,3
+167,sc-mmh,1,terrain rendering,3
+168,a/104,1,mobile map,3
+169,real-time 3d video streaming,1,scratchpad memory,3
+170,embedded systems,1,3d picture display,3
+171,localization,1,optimization,3
+172,feature matching,1,3d-tv,3
+173,3d point cloud,1,atsc,3
+174,autonomous mobile robot,1,sc-mmh,3
+175,stereoscopic video,1,a/104,3
+176,mobile 3dtv,1,real-time 3d video streaming,3
+177,quality metric,1,embedded systems,3
+178,structural similarity,1,localization,3
+179,object selection,1,feature matching,3
+180,manet,1,3d point cloud,3
+181,dynamic visual image modeling,1,autonomous mobile robot,3
+182,3d modeling,1,stereoscopic video,3
+183,synthetic scenes,1,mobile 3dtv,3
+184,autostereoscopic 3d,1,quality metric,3
+185,cognitive fatigue,1,structural similarity,3
+186,mobile visual search,1,object selection,3
+187,3d geometric verification,1,manet,3
+188,helmert transformation,1,dynamic visual image modeling,3
+189,lte,1,3d modeling,3
+190,multi-view 3d video,1,synthetic scenes,3
+191,multicast,1,autostereoscopic 3d,3
+192,3d fusion,1,cognitive fatigue,3
+193,html5,1,3d fusion,3
+194,webgl,1,html5,3
+195,laser range finder,1,webgl,3
+196,swinging,1,3d city models,3
+197,experimentation,1,citygml,3
+198,transcoding,1,3d scene reconstruction,3
+199,qoe,1,motion planning,3
+200,mobile nvigation,1,3d laser scanning,3
+201,indoor,1,interaction technique,3
+202,positioning,1,acceleration sensors,3
+203,rfid,1,3d objects,3
+204,stereoscopic retargeting,1,mobile broadcasting,3
+205,stereoscopic 3d image transcoding,1,data service,3
+206,mobile 3d viewing,1,stereoscopic,3
+207,cognitive load,1,mobile game engine,3
+208,p600,1,physics engine,3
+209,ssvep,1,3d game engine,3
+210,3d city models,1,intelligent system,3
+211,citygml,1,3d environment model,3
+212,3d scene reconstruction,1,obstacle detection,3
+213,motion planning,1,collision avoidance,3
+214,3d laser scanning,1,3d environment models,3
+215,interaction technique,1,observation models,3
+216,acceleration sensors,1,wireless sensor network,3
+217,3d objects,1,mobile beacon,3
+218,3d dmb,1,node localization,3
+219,glassless 3d display,1,space,3
+220,trial broadcasting,1,geometric modeling,3
+221,mobile broadcasting,1,interactive,3
+222,data service,1,mobile interaction,3
+223,stereoscopic,1,3d information space,3
+224,sensor input,1,throwing method,3
+225,virtual reality interaction,1,3d mesh compression,3
+226,mobile game engine,1,connectivity coding,3
+227,physics engine,1,direct3d mobile,3
+228,3d game engine,1,multiplayer game,3
+229,intelligent system,1,dead reckoning,3
+230,3d thumbnails,1,embedded system,3
+231,3d user interfaces,1,laser ranging,3
+232,3d environment model,1,3d graphics accelerator,3
+233,obstacle detection,1,energy-awared,3
+234,collision avoidance,1,low-power design,3
+235,3d environment models,1,mobile gis,3
+236,observation models,1,pseudo 3d visualization,3
+237,mobile rendering,1,spatial data,3
+238,location-based service,1,perspective,3
+239,triangulation,1,assembly task,3
+240,wireless sensor network,1,object complexity,3
+241,mobile beacon,1,mobile 3d game,3
+242,node localization,1,presence,3
+243,space,1,presence factors,3
+244,mvc,1,applications,3
+245,view synthesis,1,graphical interfaces,3
+246,geometric modeling,1,virtual reality,3
+247,interactive,1,mobile 3d maps,3
+248,mobile interaction,1,3d virtual space,3
+249,3d information space,1,responsive space,3
+250,throwing method,1,sensor network,3
+251,3d mobile face,1,3d view image,3
+252,facial expression,1,3d maps,3
+253,avatar,1,4g mobile networks,3
+254,3d mesh compression,1,enhanced-reality,3
+255,connectivity coding,1,communications,3
+256,interactive evolutionary computation,1,3d graphics benchmarking,3
+257,direct3d mobile,1,embedded 3d graphics,3
+258,multiplayer game,1,construction,3
+259,dead reckoning,1,handheld computer,3
+260,imaging,1,economic games,3
+261,displaying,1,e-commerce,3
+262,phone,1,mobile agent systems,3
+263,communication,1,mobile robotic sensor networks,2
+264,embedded system,1,wireless sensor networks,2
+265,laser ranging,1,distributed,2
+266,3d graphics adaptation,1,mobile cloud computing,2
+267,scalable vector graphics,1,execution offloading,2
+268,progressive,1,3d video game,2
+269,3d graphics accelerator,1,mobile gpu ray tracing,2
+270,energy-awared,1,mobile distributed computing,2
+271,low-power design,1,large-scale 3d,2
+272,interactive evolutionary,1,3d interaction,2
+273,mobile gis,1,cloud mobile virtual immersive application,2
+274,pseudo 3d visualization,1,structure-from-motion,2
+275,spatial data,1,image-based modeling,2
+276,perspective,1,3d image reconstruction,2
+277,assembly task,1,curve approximation,2
+278,object complexity,1,matching constraint,2
+279,mobile 3d game,1,mobile display,2
+280,presence,1,multi-view display,2
+281,presence factors,1,three-dimensional (3d) display,2
+282,3d mobile map,1,hybrid mobile device localization,2
+283,parcel,1,vision based localization,2
+284,raster image,1,mobile 3d manipulator,2
+285,dem,1,mobile operation,2
+286,climbing,1,generalized jacobian matrix,2
+287,applications,1,3d facial animation,2
+288,graphical interfaces,1,text-to-visual speech synthesis,2
+289,virtual reality,1,human-machine,2
+290,mobile 3d maps,1,structure from motion (sfm),2
+291,display,1,embedded board,2
+292,microlens,1,mobile image applications,2
+293,2d to 3d conversion,1,3d video streaming system,2
+294,depth,1,3d face,2
+295,lcd,1,3d facial model,2
+296,lenticular lens,1,mobile cloud,2
+297,user evaluation,1,mobile visual search,2
+298,2d,1,3d geometric verification,2
+299,3d virtual space,1,helmert transformation,2
+300,responsive space,1,lte,2
+301,sensor network,1,multi-view 3d video,2
+302,3d view image,1,multicast,2
+303,3d maps,1,stereoscopic retargeting,2
+304,data visualization,1,stereoscopic 3d image transcoding,2
+305,virtual characters,1,sensor input,2
+306,mpeg-4 fba,1,virtual reality interaction,2
+307,j2me,1,3d thumbnails,2
+308,mobile game development,1,3d user interfaces,2
+309,3d resource utilization,1,mobile rendering,2
+310,4g mobile networks,1,location-based service,2
+311,enhanced-reality,1,triangulation,2
+312,communications,1,interactive evolutionary computation,2
+313,3d graphics benchmarking,1,3d graphics adaptation,2
+314,embedded 3d graphics,1,scalable vector graphics,2
+315,construction,1,progressive,2
+316,handheld computer,1,interactive evolutionary,2
+317,economic games,1,stereoscopic 3d image,1
+318,e-commerce,1,3d mobile devices,1
+319,mobile agent systems,1,laser range finder,1
+320,usability,1,swinging,1
+321,navigation,1,,

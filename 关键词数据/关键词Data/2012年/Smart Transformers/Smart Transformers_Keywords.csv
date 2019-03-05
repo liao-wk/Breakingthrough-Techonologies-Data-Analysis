@@ -1,0 +1,354 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,smart grid,29,smart grid,86
+1,smart transformer,14,smart transformer,37
+2,smart,9,smart,28
+3,smart substation,9,distribution transformer,26
+4,distribution transformer,8,smart substation,25
+5,transformer,6,solid state transformer,19
+6,solid state transformer,6,transformer,18
+7,distributed generation,6,power,17
+8,power,5,distributed generation,14
+9,reliability,4,power electronics,13
+10,smart transformer (st),4,reliability,12
+11,smart charging,4,microgrid,10
+12,power electronics,4,smart charging,10
+13,asset management,3,smart grids,9
+14,distribution system,3,overvoltage,8
+15,microgrid,3,asset management,8
+16,distribution network,3,fpga,8
+17,smart grids,3,distribution network,8
+18,power electronic transformer,3,power electronic transformer,8
+19,overvoltage,2,distribution system,7
+20,battery energy storage system (bess),2,smart transformer (st),7
+21,energy management,2,loss of life,7
+22,genetic algorithm,2,power quality,7
+23,overload control,2,voltage control,7
+24,voltage,2,energy management,6
+25,demand response,2,genetic algorithm,6
+26,loss of life,2,overload control,6
+27,solid-state transformer,2,voltage,6
+28,electronic transformer,2,demand response,6
+29,merging unit,2,electronic transformer,6
+30,smart meter,2,merging unit,6
+31,electric vehicles,2,electric vehicles,6
+32,point of,2,power transformers,6
+33,power transformers,2,solid state,6
+34,electric vehicle,2,microgrids,6
+35,fpga,2,power conditioning,6
+36,power quality,2,smart meter,5
+37,dissolved gas analysis,2,electric vehicle,5
+38,voltage control,2,dissolved gas analysis,5
+39,solid state,2,chaos,4
+40,microgrids,2,potential transformers,4
+41,power conditioning,2,ferroresonance,4
+42,oil-immersed transformer,2,battery energy storage system (bess),4
+43,transformer aging,2,green energy,4
+44,chaos,1,arduino,4
+45,potential transformers,1,humidity,4
+46,ferroresonance,1,sensors,4
+47,transformer-fault diagnosis,1,cascading failure,4
+48,principal component analysis,1,coordination,4
+49,frequency response analysis,1,optimization,4
+50,low-frequency of fra response,1,repairable,4
+51,distribution transformers,1,solid-state transformer,4
+52,dynamic rating,1,point of,4
+53,probabilistic forecasting,1,soc,4
+54,dispatch-by-design,1,arm processor,4
+55,renewable,1,smart-solid-state-transformer,4
+56,power converter,1,gprs,4
+57,smart house,1,mesh network,4
+58,center-tap transformer,1,lower power radio,4
+59,load voltage sensitivity,1,bushing,4
+60,communication,1,partial discharge,4
+61,health,1,leakage current,4
+62,contactor,1,smart transformers,4
+63,controllable reactor,1,lv-network,4
+64,distribution devices,1,inverters,4
+65,nanocomposite,1,volt/var,4
+66,current control,1,distribution systems,4
+67,dc-ac power converters,1,flexibility,4
+68,smart power grids,1,investment cost,4
+69,air gaps,1,planning,4
+70,reactors (electric),1,three winding,4
+71,magnetisation,1,controller,4
+72,home energy management,1,inverter,4
+73,smart transformer demand response,1,harmonics,4
+74,conservation,1,plc,4
+75,management,1,ber,4
+76,reduction,1,resonance frequency,4
+77,algorithm,1,oil-immersed transformer,4
+78,power line carrier communication,1,pwm,4
+79,plcc,1,control strategy,4
+80,high frequency,1,matlab,4
+81,energy internet (ei),1,transformer aging,4
+82,grid fault,1,renewable energy,4
+83,asymmetrical operation,1,energy,4
+84,neutral line,1,cmd,4
+85,green energy,1,main transformer,4
+86,arduino,1,power cable,4
+87,humidity,1,gis,4
+88,sensors,1,converter,4
+89,high-frequency transformer,1,power control,4
+90,modular,1,smart house,3
+91,voltage sensors,1,center-tap transformer,3
+92,current sensors,1,communication,3
+93,calibration,1,health,3
+94,smart power system,1,contactor,3
+95,unified model language (uml),1,controllable reactor,3
+96,formal method,1,distribution devices,3
+97,vdm-sl,1,nanocomposite,3
+98,reactive power support,1,smart power grids,3
+99,renewable energy system,1,air gaps,3
+100,cascading failure,1,reactors (electric),3
+101,coordination,1,magnetisation,3
+102,optimization,1,power line carrier communication,3
+103,repairable,1,plcc,3
+104,iec 61850,1,high frequency,3
+105,iso/iec/ieee 21451,1,energy internet (ei),3
+106,intelligent electrical device (ied),1,grid fault,3
+107,loadsensitivity,1,asymmetrical operation,3
+108,on-line identification,1,neutral line,3
+109,health index,1,high-frequency transformer,3
+110,sensor status,1,modular,3
+111,distribution system protection,1,voltage sensors,3
+112,distributed energy resources,1,current sensors,3
+113,solid,1,calibration,3
+114,load control,1,smart power system,3
+115,smart community,1,unified model language (uml),3
+116,distributed generation (dg),1,formal method,3
+117,power management,1,vdm-sl,3
+118,voltage regulation,1,health index,3
+119,dynamic demand minimazation,1,sensor status,3
+120,aluminum electrolytic,1,load control,3
+121,harmonic damping,1,smart community,3
+122,advanced asset management,1,advanced asset management,3
+123,life cycle cost,1,life cycle cost,3
+124,digital,1,digital,3
+125,zigbee protocol,1,zigbee protocol,3
+126,signal error rate (ser),1,signal error rate (ser),3
+127,receiver signal,1,receiver signal,3
+128,maintenance scheduling,1,fuzzy control,3
+129,forest optimization algorithm,1,medium frequency transformer,3
+130,data visualization,1,optimal design,3
+131,transformer load management,1,maximum efficiency,3
+132,available transfer capacity (atc),1,voltage regulators,3
+133,flexible ac transmission systems,1,distribution networks,3
+134,fuzzy control,1,daytime charging,3
+135,distributed generation (dg)units,1,ac-ac converter,3
+136,low voltage (lv) micro grid,1,dual active bridge,3
+137,electronic current transformer,1,dual,3
+138,transient performance,1,active thermal control,3
+139,medium frequency transformer,1,power routing,3
+140,optimal design,1,loading,3
+141,maximum efficiency,1,load management,3
+142,voltage regulators,1,power system management,3
+143,distribution networks,1,power distribution,3
+144,energy management system,1,tap changing,3
+145,partial discharges,1,transformers,3
+146,power transformer insulation,1,lightning,3
+147,learning (artificial,1,lightning strike,3
+148,daytime charging,1,metal framework,3
+149,ac-ac converter,1,smart relay,3
+150,dual active bridge,1,loss-of-life,3
+151,dual,1,battery,3
+152,active thermal control,1,hottest spot temperature,3
+153,power routing,1,smart home,3
+154,short-term load forecasting,1,denoising,3
+155,distribution transformer load forecasting,1,dielectric response,3
+156,rogowski electronic transformer,1,unsupervised neural network,3
+157,static performance,1,mechanical integrity,3
+158,dynamic,1,condition,3
+159,soc,1,overcurrent limitation,3
+160,arm processor,1,current limitation,3
+161,smart-solid-state-transformer,1,droop control,3
+162,gprs,1,power-frequency electromagnetic field,3
+163,mesh network,1,ansys,3
+164,lower power radio,1,relay protection,3
+165,wireless sensor networks,1,epon network,3
+166,lifetime analysis,1,dynamic simulation,3
+167,loading,1,transformer recognition,3
+168,load management,1,haar-like features,3
+169,power system management,1,adaboost,3
+170,power distribution,1,multi-template,3
+171,tap changing,1,bidirectional power flow,3
+172,transformers,1,constant power load,3
+173,lightning,1,stability,3
+174,lightning strike,1,negative impedance,3
+175,metal framework,1,voltage unbalance,3
+176,smart relay,1,current unbalance,3
+177,loss-of-life,1,dc microgrid,3
+178,battery,1,solid-state,3
+179,electrical motor drive,1,electronic voltage transformer (evt),3
+180,overcurrent protection,1,surge,3
+181,distribution grid,1,power line diagnostics,3
+182,bushing,1,fault locator,3
+183,partial discharge,1,reflectometer,3
+184,leakage current,1,plc modem,3
+185,smart transformers,1,distributed,3
+186,lv-network,1,power flow security,3
+187,inverters,1,power and voltage control,3
+188,volt/var,1,sen transformer,3
+189,hottest spot temperature,1,power smoothing,3
+190,smart home,1,digital meter,3
+191,distributed generation (dg) units,1,pfc,3
+192,low voltage (lv) microgrid,1,power conditioner,3
+193,fiber optical current transformer (foct),1,nonlinear loads,3
+194,faraday effect,1,distribution transformer (dtr),3
+195,long-term,1,dtr failures,3
+196,dynamic voltage control,1,emergency,3
+197,series compensation,1,distribution grids,3
+198,denoising,1,photovoltaics,3
+199,dielectric response,1,tap changers,3
+200,unsupervised neural network,1,distributed generation units,3
+201,mechanical integrity,1,droop,3
+202,condition,1,smart meters,3
+203,dual microgrid (dmg),1,distribution secondary,3
+204,power distribution system,1,dc power transmission,3
+205,partial power processing,1,converter transformer,3
+206,phase-shift modulation,1,on-line,3
+207,power electronic,1,frequency response,3
+208,overcurrent limitation,1,online condition monitoring,3
+209,current limitation,1,online fra,3
+210,droop control,1,component,3
+211,home energy management system,1,fault location,3
+212,electric,1,power system reliability,3
+213,power-frequency electromagnetic field,1,fiber optical current transformer,3
+214,ansys,1,field test,3
+215,digital measuring transformers,1,error,3
+216,smart electric grids,1,electronic trasnsformer,3
+217,scada (supervisory,1,on-site test,3
+218,relay protection,1,accuracy,3
+219,epon network,1,current transformers,3
+220,dynamic simulation,1,instrument transformers,3
+221,transformer recognition,1,revenue metering,3
+222,haar-like features,1,ehv,3
+223,adaboost,1,substation communication material,3
+224,multi-template,1,ncit,3
+225,distribution systems,1,intelligent,3
+226,flexibility,1,wavelet transform,3
+227,investment cost,1,non conventional transformer,3
+228,planning,1,white,3
+229,bidirectional power flow,1,harmonic losses,3
+230,constant power load,1,k-factor,3
+231,stability,1,load management and nonlinear,3
+232,negative impedance,1,airgap transformer,3
+233,three winding,1,data transmission,3
+234,controller,1,energy transmission,3
+235,inverter,1,ironless,3
+236,conditional controller,1,transformer-fault diagnosis,2
+237,energy storage battery,1,principal component analysis,2
+238,dc micro-grid,1,frequency response analysis,2
+239,smart energy router,1,low-frequency of fra response,2
+240,holeta 500kv substation,1,distribution transformers,2
+241,main transformer power,1,dynamic rating,2
+242,substation control,1,probabilistic forecasting,2
+243,voltage unbalance,1,dispatch-by-design,2
+244,current unbalance,1,renewable,2
+245,facts,1,power converter,2
+246,harmonics,1,load voltage sensitivity,2
+247,dc microgrid,1,current control,2
+248,solid-state,1,dc-ac power converters,2
+249,bidirectional dc/ac converter,1,home energy management,2
+250,bidirectional intelligent,1,smart transformer demand response,2
+251,semiconductor,1,conservation,2
+252,electronic voltage transformer (evt),1,management,2
+253,surge,1,reduction,2
+254,power line diagnostics,1,algorithm,2
+255,fault locator,1,reactive power support,2
+256,reflectometer,1,renewable energy system,2
+257,plc modem,1,iec 61850,2
+258,distributed,1,iso/iec/ieee 21451,2
+259,plc,1,intelligent electrical device (ied),2
+260,ber,1,loadsensitivity,2
+261,resonance frequency,1,on-line identification,2
+262,power flow security,1,distribution system protection,2
+263,power and voltage control,1,distributed energy resources,2
+264,sen transformer,1,solid,2
+265,smart condition monitoring,1,distributed generation (dg),2
+266,high voltage equipment,1,power management,2
+267,electrical,1,voltage regulation,2
+268,voltage harmonics,1,dynamic demand minimazation,2
+269,voltage transformers,1,aluminum electrolytic,2
+270,amplitude-frequency responses,1,maintenance scheduling,2
+271,fuzzy synthetic evaluation model,1,forest optimization algorithm,2
+272,state,1,data visualization,2
+273,distribution grid asset management,1,transformer load management,2
+274,data analytics,1,distributed generation (dg)units,2
+275,pwm,1,low voltage (lv) micro grid,2
+276,control strategy,1,electronic current transformer,2
+277,matlab,1,transient performance,2
+278,electro-mechanical system design,1,energy management system,2
+279,integrated design,1,partial discharges,2
+280,capacity estimation,1,power transformer insulation,2
+281,early warning mechanism,1,learning (artificial,2
+282,smart grid key technology,1,rogowski electronic transformer,2
+283,wireless sensor network (wsn),1,static performance,2
+284,power smoothing,1,dynamic,2
+285,digital meter,1,wireless sensor networks,2
+286,plug-in hybrid electric vehicles,1,lifetime analysis,2
+287,pfc,1,electrical motor drive,2
+288,power conditioner,1,overcurrent protection,2
+289,nonlinear loads,1,distribution grid,2
+290,renewable energy,1,distributed generation (dg) units,2
+291,energy,1,low voltage (lv) microgrid,2
+292,distribution transformer (dtr),1,fiber optical current transformer (foct),2
+293,dtr failures,1,faraday effect,2
+294,emergency,1,long-term,2
+295,distribution grids,1,dynamic voltage control,2
+296,photovoltaics,1,series compensation,2
+297,tap changers,1,dual microgrid (dmg),2
+298,distributed generation units,1,power distribution system,2
+299,droop,1,partial power processing,2
+300,smart meters,1,phase-shift modulation,2
+301,distribution secondary,1,power electronic,2
+302,power transformer,1,home energy management system,2
+303,intelligent component,1,electric,2
+304,intelligent electronic device,1,digital measuring transformers,2
+305,dc power transmission,1,smart electric grids,2
+306,converter transformer,1,scada (supervisory,2
+307,on-line,1,conditional controller,2
+308,fibre optical current transformer,1,energy storage battery,2
+309,new application,1,dc micro-grid,2
+310,electronic on load tap changer (oltc),1,smart energy router,2
+311,smart grids (sg),1,holeta 500kv substation,2
+312,frequency response,1,main transformer power,2
+313,online condition monitoring,1,substation control,2
+314,online fra,1,bidirectional dc/ac converter,2
+315,component,1,bidirectional intelligent,2
+316,cmd,1,semiconductor,2
+317,main transformer,1,smart condition monitoring,2
+318,power cable,1,high voltage equipment,2
+319,gis,1,electrical,2
+320,fault location,1,voltage harmonics,2
+321,power system reliability,1,voltage transformers,2
+322,fiber optical current transformer,1,amplitude-frequency responses,2
+323,field test,1,fuzzy synthetic evaluation model,2
+324,error,1,state,2
+325,electronic trasnsformer,1,distribution grid asset management,2
+326,on-site test,1,data analytics,2
+327,accuracy,1,electro-mechanical system design,2
+328,plug-in electric vehicles,1,integrated design,2
+329,current transformers,1,capacity estimation,2
+330,instrument transformers,1,early warning mechanism,2
+331,revenue metering,1,smart grid key technology,2
+332,ehv,1,wireless sensor network (wsn),2
+333,substation communication material,1,plug-in hybrid electric vehicles,2
+334,ncit,1,power transformer,2
+335,intelligent,1,intelligent component,2
+336,self-healing optical current transformer,1,intelligent electronic device,2
+337,measurement accuracy,1,fibre optical current transformer,2
+338,converter,1,new application,2
+339,power control,1,electronic on load tap changer (oltc),2
+340,condition monitoring,1,smart grids (sg),2
+341,wavelet transform,1,plug-in electric vehicles,2
+342,non conventional transformer,1,condition monitoring,2
+343,white,1,load flow control,2
+344,load flow control,1,power system control,2
+345,power system control,1,harmonic damping,1
+346,harmonic losses,1,available transfer capacity (atc),1
+347,k-factor,1,flexible ac transmission systems,1
+348,load management and nonlinear,1,short-term load forecasting,1
+349,airgap transformer,1,distribution transformer load forecasting,1
+350,data transmission,1,facts,1
+351,energy transmission,1,self-healing optical current transformer,1
+352,ironless,1,measurement accuracy,1

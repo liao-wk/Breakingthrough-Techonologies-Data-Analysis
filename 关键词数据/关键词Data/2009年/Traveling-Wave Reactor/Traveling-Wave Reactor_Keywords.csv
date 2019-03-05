@@ -1,0 +1,192 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,traveling waves,10,traveling waves,25
+1,traveling wave solutions,4,ultrasonic motor,11
+2,fault location,4,fault location,10
+3,traveling wave reactor,4,traveling wave solutions,9
+4,ultrasonic motor,4,traveling wave reactor,9
+5,traveling wave,3,traveling wave,8
+6,travelling wave,3,travelling wave,8
+7,twr,3,twr,8
+8,singular perturbation,3,singular perturbation,8
+9,reaction-diffusion equations,3,nuclear fuel,7
+10,nuclear fuel,2,travelling waves,7
+11,microbial growth in a flow reactor,2,transmission lines,6
+12,directional protection,2,fault,6
+13,power system protection,2,bio-reactor model,6
+14,transmission lines,2,modeling,6
+15,travelling waves,2,directional protection,5
+16,fault,2,power system protection,5
+17,bio-reactor model,2,cables,5
+18,modeling,2,earthing,5
+19,frequency response analysis,2,electromotive force,5
+20,direct energy conversion,2,lightning,5
+21,advanced fusion,2,wind,5
+22,twdec,2,reaction-diffusion equations,5
+23,traveling-wave,2,converter,5
+24,backup protection,1,wavelet,5
+25,similarity measure,1,distance protection,5
+26,vsc-hvdc grid,1,pscad,5
+27,correlation,1,simulation,5
+28,directional relay,1,travelling,5
+29,ehv/uhv transmission lines,1,traveling-wave,5
+30,incremental,1,monte carlo,4
+31,uhv transmission lines,1,criticality,4
+32,boundary protection,1,biases,4
+33,non-unit transient based,1,clustering,4
+34,control engineering,1,h-infinity,4
+35,piezoelectric resonators,1,rst,4
+36,switched systems,1,robustness,4
+37,entropy production,1,piezoelectric motor,4
+38,spatiotemporal dissipative,1,motion control,4
+39,backward-wave oscillator (bwo),1,fcci,4
+40,double corrugated waveguide (dcw),1,fcci barrier,4
+41,travelling wave pilot protection,1,high-burnup fuel,4
+42,rogowski coil based electronic current,1,metallic fuel,4
+43,monte carlo,1,icrh,4
+44,criticality,1,traveling-wave antenna,4
+45,biases,1,demo,4
+46,clustering,1,coupling,4
+47,h-infinity,1,load resilient,4
+48,rst,1,frequency response analysis,4
+49,robustness,1,direct energy conversion,4
+50,piezoelectric motor,1,advanced fusion,4
+51,motion control,1,twdec,4
+52,epidemic model,1,actuator,4
+53,different susceptibility,1,causal modeling,4
+54,microwave heating,1,haptic,4
+55,heterogeneous catalysis,1,phase control,4
+56,endothermic,1,piezoelectric,4
+57,gray-scott model,1,backup protection,3
+58,multi-peak waves,1,similarity measure,3
+59,stability,1,vsc-hvdc grid,3
+60,fcci,1,correlation,3
+61,fcci barrier,1,directional relay,3
+62,high-burnup fuel,1,ehv/uhv transmission lines,3
+63,metallic fuel,1,incremental,3
+64,icrh,1,microwave heating,3
+65,traveling-wave antenna,1,heterogeneous catalysis,3
+66,demo,1,endothermic,3
+67,coupling,1,gray-scott model,3
+68,load resilient,1,multi-peak waves,3
+69,autocatalytic chemical systems,1,stability,3
+70,microbial growth and competition,1,bioreactor development,3
+71,isothermal chemical systems,1,computational fluid dynamics,3
+72,non-monotone reaction diffusion systems,1,power input,3
+73,prototype,1,shear,3
+74,bioreactor development,1,local mean,3
+75,computational fluid dynamics,1,uhv,3
+76,power input,1,wavelet transform,3
+77,shear,1,neural network,3
+78,isothermal diffusion,1,candle strategy,3
+79,auto-catalytic chemical reaction,1,candle strategy application,3
+80,local mean,1,axial fuel shuffling,3
+81,isothermal chemical systems with,1,wave reactor,3
+82,uhv,1,optimization,3
+83,wavelet transform,1,serpent monte carlo code,3
+84,neural network,1,r-d equations,3
+85,geometric singular perturbation theory,1,strong,3
+86,bifurcations,1,sir model,3
+87,glycolytic reaction,1,schauder fixed point theorem,3
+88,reaction-diffusion models,1,laplace,3
+89,mcnpx,1,amplitude integral,3
+90,flux profile,1,busbar protection,3
+91,stepwise radial fuel shuffling,1,extra high speed,3
+92,asymptotic,1,stage-structure,3
+93,candle strategy,1,fixed,3
+94,candle strategy application,1,force feedback,3
+95,axial fuel shuffling,1,real-time control,3
+96,wave reactor,1,haptic display,3
+97,optimization,1,nuclear burning wave,3
+98,serpent monte carlo code,1,neutron,3
+99,ignition stage,1,persistence,3
+100,multizone design,1,center manifold,3
+101,distribution systems,1,fuzzy,3
+102,non-effectively grounding,1,generalized predictive control,3
+103,a-si:h thin films,1,acoustic motors,3
+104,mu c-sih thin films,1,motor drives,3
+105,electromagnetic effect,1,position control,3
+106,r-d equations,1,rotating machine,3
+107,strong,1,transmission line,3
+108,microcontroller,1,nature frequencies,3
+109,frequency and voltage amplitude,1,high frequency signals,3
+110,pwm dead band protection,1,traveling,3
+111,temperature drift,1,speed control,3
+112,reversing pulse width,1,atp simulation,3
+113,sir model,1,dispersion characteristic,3
+114,schauder fixed point theorem,1,fault frequency band,3
+115,laplace,1,heteroclinic orbit,3
+116,amplitude integral,1,singular,3
+117,busbar protection,1,uhv transmission lines,2
+118,extra high speed,1,boundary protection,2
+119,stage-structure,1,non-unit transient based,2
+120,fixed,1,control engineering,2
+121,spent nuclear fuel,1,piezoelectric resonators,2
+122,mccard,1,switched systems,2
+123,force feedback,1,entropy production,2
+124,real-time control,1,spatiotemporal dissipative,2
+125,haptic display,1,epidemic model,2
+126,nuclear burning wave,1,different susceptibility,2
+127,neutron,1,microbial growth in a flow reactor,2
+128,isothermal autocatalytic chemical reaction,1,prototype,2
+129,persistence,1,isothermal diffusion,2
+130,center manifold,1,auto-catalytic chemical reaction,2
+131,cables,1,geometric singular perturbation theory,2
+132,earthing,1,bifurcations,2
+133,electromotive force,1,glycolytic reaction,2
+134,lightning,1,reaction-diffusion models,2
+135,wind,1,mcnpx,2
+136,fuzzy,1,flux profile,2
+137,generalized predictive control,1,stepwise radial fuel shuffling,2
+138,electric power system,1,asymptotic,2
+139,potential transformers,1,ignition stage,2
+140,transient travelling,1,multizone design,2
+141,microbial flow reactor,1,distribution systems,2
+142,acoustic motors,1,non-effectively grounding,2
+143,motor drives,1,a-si:h thin films,2
+144,position control,1,mu c-sih thin films,2
+145,rotating machine,1,electromagnetic effect,2
+146,multiconductor transmission lines,1,microcontroller,2
+147,transfer,1,frequency and voltage amplitude,2
+148,traveling wave ultrasonic motor,1,pwm dead band protection,2
+149,generalized regression neural network,1,temperature drift,2
+150,reaction-diffusion systems,1,reversing pulse width,2
+151,centre manifold,1,spent nuclear fuel,2
+152,reciprocal traveling wave pulse,1,mccard,2
+153,direct-grounding,1,electric power system,2
+154,high-speed,1,potential transformers,2
+155,transmission line,1,transient travelling,2
+156,nature frequencies,1,microbial flow reactor,2
+157,high frequency signals,1,multiconductor transmission lines,2
+158,traveling,1,transfer,2
+159,converter,1,reaction-diffusion systems,2
+160,wavelet,1,centre manifold,2
+161,distance protection,1,reciprocal traveling wave pulse,2
+162,pscad,1,direct-grounding,2
+163,simulation,1,high-speed,2
+164,travelling,1,reaction diffusion equations,2
+165,speed control,1,transformer winding,2
+166,reaction diffusion equations,1,transfer function,2
+167,atp simulation,1,microbial flow reactor model,2
+168,dispersion characteristic,1,unstable,2
+169,fault frequency band,1,sensor,2
+170,transformer winding,1,repetitive high-voltage pulse,2
+171,transfer function,1,reciprocal traveling wave,2
+172,microbial growth in flow reactor,1,direct,2
+173,microbial flow reactor model,1,traveling wave direct energy conversion,2
+174,unstable,1,d-he-3 fusion,2
+175,heteroclinic orbit,1,14.7 mev proton,2
+176,singular,1,backward-wave oscillator (bwo),1
+177,actuator,1,double corrugated waveguide (dcw),1
+178,causal modeling,1,travelling wave pilot protection,1
+179,haptic,1,rogowski coil based electronic current,1
+180,phase control,1,autocatalytic chemical systems,1
+181,piezoelectric,1,microbial growth and competition,1
+182,propagation failure,1,isothermal chemical systems,1
+183,nonlinear lattice,1,non-monotone reaction diffusion systems,1
+184,sensor,1,isothermal chemical systems with,1
+185,repetitive high-voltage pulse,1,isothermal autocatalytic chemical reaction,1
+186,reciprocal traveling wave,1,traveling wave ultrasonic motor,1
+187,direct,1,generalized regression neural network,1
+188,traveling wave direct energy conversion,1,microbial growth in flow reactor,1
+189,d-he-3 fusion,1,propagation failure,1
+190,14.7 mev proton,1,nonlinear lattice,1

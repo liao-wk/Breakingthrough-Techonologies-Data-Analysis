@@ -1,0 +1,782 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+DE deep learning; machine learning; neural networks; object recognition
+ID NEURAL-NETWORKS; OBJECT-RECOGNITION; HIERARCHICAL-MODELS; INFORMATION;
+   RESPONSES; CODE
+ER
+
+PT J
+DE Machine-like systems; Macroscopic machines; Molecular machines;
+   Mechanistic explanations; Nanotechnology; Biomolecular machines
+ID MECHANISTIC EXPLANATION; MOLECULAR MACHINES; ORGANISMS; SYNTHASE;
+   ENERGY; MOTORS
+ER
+
+PT J
+DE multi-task learning; machine learning; biomarker discovery; psychiatry
+ID GENE-EXPRESSION; MEGA-ANALYSIS; SCHIZOPHRENIA; PROFILES; DISEASES;
+   FUTURE
+ER
+
+PT J
+DE Automated synthesis; Auto-updating learning systems; Machine learning
+ID BIOLOGICAL-ACTIVITY; DRUG DISCOVERY; QSAR; VALIDATION; DATABASE; MODEL;
+   SHAPE
+ER
+
+PT J
+ER
+
+PT J
+DE bacteria; biomedical machines; biosystems; micro/nanomachines;
+   micro/nanomotors
+ID JANUS MICROMOTORS; CARGO DELIVERY; DRUG-DELIVERY; DRIVEN; BACTERIA;
+   NANOMOTORS; RELEASE; ULTRASOUND; MOTORS; CELL
+ER
+
+PT J
+ID SYNTHETIC BIOLOGY; DRUG-SENSITIVITY; PREDICTION; DISCOVERY; SELECTION;
+   RESOURCE; DISEASE; MODELS; COMMUNITIES; CHALLENGE
+ER
+
+PT J
+DE biohybrid robots; biological machines; PEGDA scaffolds; skeletal
+   muscles; tissue modeling
+ID ENGINEERED SKELETAL-MUSCLE; BIOLOGICAL MACHINES; TISSUE; FORCE;
+   HYDROGELS; SOFT; STRATEGIES; ALIGNMENT; CELLS; STEREOLITHOGRAPHY
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE Machine pedestal structure; Adaptive growth method; Stiffener layout
+   optimization; Size optimization
+ID LEVEL-SET METHOD; TOOL STRUCTURES; LIGHTWEIGHT DESIGN; BIONIC DESIGN;
+   OPTIMIZATION; VERIFICATION; LAYOUT; PLATE
+ER
+
+PT J
+DE Machine Learning; Deep Learning Technology; Psychosis; Neuroimaging
+ER
+
+PT S
+DE Human machine interaction; Flexible/stretchable electronics; Tactile
+   sensor; Biopotential sensor; Multi-sensory data
+ID SKIN; PRESSURE; ELECTRONICS; FILMS; SOFT
+ER
+
+PT J
+DE machine learning; artificial intelligence; QSAR; quantum chemistry;
+   theoretical chemistry; neural networks
+ID DEEP NEURAL-NETWORKS; BIOLOGICAL-ACTIVITY; SKIN PERMEABILITY;
+   ORGANIC-COMPOUNDS; DRUG DISCOVERY; COMPUTER; SOLUBILITY; INTELLIGENCE;
+   PREDICTION; MOLECULES
+ER
+
+PT J
+DE Thermodynamics with Finite Speed; Quantum Biological Thermodynamics with
+   Finite Speed; Stationary States in Cardio-Pulmonary System; Processes
+   with Quantum Jump in Cardio-Pulmonary System
+ER
+
+PT J
+DE Deep learning; machine learning; big data; bioinformatics; biological
+   image
+ID GPU; MODEL; BIOINFORMATICS; SEGMENTATION; PREDICTION; ALIGNMENT;
+   NETWORK; IMAGES; SCALE; CUDA
+ER
+
+PT J
+DE Petri nets; Physarum machines; Boolean functions; natural computing
+ID ORIENTED PROGRAMMING LANGUAGE
+ER
+
+PT S
+DE Machine reading; Big data in literature; Text mining Cell signaling
+   networks; Automated model generation
+ID METABOLIC NETWORKS; SYSTEMS; BIOLOGY; SBML
+ER
+
+PT J
+DE child stress monitoring; wearable device; audio signal; heart rate;
+   biological signal; machine learning
+ER
+
+PT J
+DE Brain-machine interfaces; Prosthetic models; Bionic experiments in
+   neuroscience; Robot-based simulation methodologies; Simulations;
+   Discovering mechanisms in neuroscience; Biorobotics; Artificial
+   Intelligence
+ID COMPUTER INTERFACES; HUMAN THINKING; SIMULATION; CIRCUITS; ROBOTICS;
+   PRIMATES; NEURONS; MODELS
+ER
+
+PT J
+ER
+
+PT J
+DE hydrogel; biological machine; self-folding; contractile force
+ID STEREOLITHOGRAPHY; CANTILEVERS; FABRICATION; ACTUATORS; WALKING; ROBOT
+ER
+
+PT J
+ID COEXPRESSION NETWORKS; PLANT BIOLOGY; INTEGRATION; DISCOVERY; TOOLS
+ER
+
+PT J
+ID SKELETAL-MUSCLE; MECHANICAL STIMULATION; SOFT ROBOTICS; TISSUE;
+   STEREOLITHOGRAPHY; BIOACTUATORS; ACTUATORS
+ER
+
+PT J
+ID THIN-FILM TRANSISTORS; FIELD-EFFECT TRANSISTORS; LIGHT-EMITTING-DIODES;
+   RESISTIVE SWITCHING MEMORY; SILICON INTEGRATED-CIRCUITS; ORGANIC
+   SOLAR-CELLS; STRETCHABLE ELECTRONICS; HIGH-PERFORMANCE; SILK FIBROIN;
+   FLEXIBLE ELECTRONICS
+ER
+
+PT S
+ID DEEP; RECOGNITION; COMPUTATION
+ER
+
+PT S
+ID DIFFERENCE SPECTROSCOPY; PROBE
+ER
+
+PT S
+ID COVARIATE SHIFT; SELECTION
+ER
+
+PT J
+ER
+
+PT B
+DE Thermodynamics with Finite Speed; Quantum Biological Thermodynamics with
+   Finite Sped; Stationary States in Cardio-Pulmonary System; Processes
+   with Quantum Jump in Cardio-Pulmonary System
+ER
+
+PT S
+DE Evolutionary machine learning; Rule knowledge representations;
+   Biological knowledge extraction
+ID GENE-EXPRESSION; PREDICTION; CANCER; DISCOVERY; RELEVANT; SETS
+ER
+
+PT J
+ID BRAIN
+ER
+
+PT J
+ER
+
+PT J
+DE Structural machine; slime mould; Physarum machine; unconventional
+   computing; bio-inspired computing; computing automaton; computational
+   efficiency
+ID PHYSARUM-PLASMODIUM; GATES
+ER
+
+PT J
+ID MORTALITY
+ER
+
+PT J
+DE computational modeling; biological mechanism; visual cortex; pain
+   prediction; bio-inspired model; machine learning; neural networks
+ER
+
+PT J
+DE machine learning; biosensors; glucose-oxidase; neural networks; support
+   vector machines; PLS; multivariate polynomial regression; optimization
+ID ELECTROCHEMICAL BIOSENSORS; ENZYME ELECTRODE
+ER
+
+PT J
+DE Similarity metric learning; biological sequence; machine learning;
+   comparison of sequences
+ID NEAREST-NEIGHBOR CLASSIFICATION; VISUAL TRACKING; DISTANCE; MODELS;
+   SEARCH; KERNEL
+ER
+
+PT J
+DE biological data; drug discovery; virtual screening; prediction of
+   biological activity
+ID SUPPORT VECTOR MACHINES; DATA SET; CLASSIFICATION; DESCRIPTORS; QSAR
+ER
+
+PT J
+ID CLASSIFICATION; RESOLUTION; TILT; ANGSTROM; REVEALS; LEGINON; PROTEIN;
+   GENOME; VIRION; SHELL
+ER
+
+PT J
+DE Embedded automaton; Generative device; Recognition device; Biological
+   processes
+ID COMPUTING MACHINE; DNA; ASTROCYTES; GLYCOGEN
+ER
+
+PT J
+DE functional materials; molecular devices; molecular machines;
+   nanotechnology; switchable surfaces
+ID MESOPOROUS SILICA NANOPARTICLES; RADICAL-RADICAL INTERACTIONS; OPTICAL
+   CHLORIDE SENSOR; CONTROLLED DRUG-RELEASE; HOST-GUEST INTERACTIONS;
+   REDOX-ACTIVE ROTAXANE; SUPRAMOLECULAR CHEMISTRY; TIO2 NANOPARTICLES;
+   GOLD NANOPARTICLES; IN-VITRO
+ER
+
+PT S
+DE Cyborg intelligence; Brain-machine collaboration; Motivation driven
+   collaboration; Motivation learning; Mind model CAM
+ER
+
+PT S
+ID COILED-COILS
+ER
+
+PT S
+ER
+
+PT S
+ID NONCONTACT; WEBCAM
+ER
+
+PT J
+ID ENGINEERING BIOLOGY; PROGRAMMING-CELLS; TURING MACHINE; ROBUSTNESS
+ER
+
+PT J
+ID FREE-ENERGY DIFFERENCES; MOLECULE FORCE SPECTROSCOPY; JARZYNSKIS
+   EQUALITY; DISSIPATION THEOREM; THERMAL RATCHET; SMALL SYSTEMS; ATP
+   SYNTHASE; LIVING CELLS; 2ND LAW; F-1-ATPASE
+ER
+
+PT J
+DE Classification; dimension reduction; eigen-matrix translation; glycan
+   data; kernel method (KM); support vector machine (SVM)
+ID PROTEIN HOMOLOGY DETECTION; FEATURES
+ER
+
+PT J
+DE Pareto optimality; E. coli modelling; Turing machine; Molecular machine;
+   Biological complexity; Petri nets; Register machines; Von Neumann
+   architectures; Trade-off genetic strategies; Flux-balance analysis
+ID CHEMICAL-REACTION NETWORKS; ESCHERICHIA-COLI; PETRI NETS;
+   TURING-MACHINES; LIVING CELLS; EVOLUTIONARY; COMPUTATION; METABOLISM;
+   OPTIMALITY; GENOTYPE
+ER
+
+PT J
+ER
+
+PT J
+DE Molecular machines; Molecular mechanics; Central dogma of biology; F0F1
+   ATPase; Interdependence of energy-matter-information fluxes
+ID ATP SYNTHASE; CROWDED CYTOPLASM; CELL MECHANICS; LIVING CELLS; V-ATPASE;
+   IN-VIVO; F-1-ATPASE; PROTEIN; MOTORS; MICROSCOPY
+ER
+
+PT J
+DE Physarum polycephalum; transition systems; Physarum machines; rough sets
+ER
+
+PT S
+DE Metaplasticity; Deep learning; Plasticity; MLP; MMLP; AMP; WBCD; Feature
+   extraction; Machine learning; Artificial neural network
+ER
+
+PT J
+DE Kurzweil; transhumanism; androids; cyborgs; biological ontology;
+   computational ontology; consciousness; external computer networks
+ER
+
+PT J
+ID NORMAL-MODE ANALYSIS; CRYSTAL-STRUCTURE; SINGLE-PARAMETER; PROTEINS;
+   DYNAMICS; KINESIN; HEMOGLOBIN; MOTILITY; DNA
+ER
+
+PT J
+ER
+
+PT J
+DE Extreme learning machine; Support vector machine; Least square support
+   vector machine; ELM kernel; Random neuron; Random feature; Randomized
+   matrix
+ID FEEDFORWARD NEURAL-NETWORKS; FUNCTIONAL-LINK NET; MIXED SELECTIVITY;
+   HIDDEN NODES; CLASSIFICATION; MODEL; PERCEPTRON; ELMS; REGRESSION; BRAIN
+ER
+
+PT J
+DE Automated physiological recovery; plant-machine interface; avocado plant
+ID ELECTRIC POTENTIALS; DIGITAL CAMERAS; TREES; LIGHT; SOIL
+ER
+
+PT J
+ER
+
+PT S
+DE biomimetic; biohybrid; living machines; mammalian robots; social
+   robotics; neuroprosthetics; societal impacts
+ID DECISION-MAKING; ACTIVE-TOUCH; ROBOTS
+ER
+
+PT B
+DE Walking machines; Motion Synthesis; Walking Stability
+ER
+
+PT S
+DE Micromechanical Drilling; Micro-hole array; PVC mask
+ER
+
+PT J
+DE Finite state machine; gene mutation; mathematical formulation;
+   metabolism; molecular biology
+ID HIDDEN MARKOV-MODELS; COMPUTATION; SEQUENCES
+ER
+
+PT J
+ER
+
+PT J
+DE Parallel biological computers; amorphous computers; living technology;
+   slime mold
+ID LOGIC GATES; OPERATIONS; PULSES
+ER
+
+PT B
+DE Naive Bayes; Domain Adaptation; Supervised Learning; Semi-supervised
+   Learning; Self-training; Biological Sequences; Protein Localization
+ID SUPPORT VECTOR MACHINES; PROTEIN SUBCELLULAR-LOCALIZATION; SPLICE-SITE
+   IDENTIFICATION; PREDICTION; KERNEL; MODELS; SVM
+ER
+
+PT B
+DE Biologically inspired Behavior; Reactive Robot Systems; Cooperative
+   Multi-robot Systems; Finite State Machine
+ER
+
+PT S
+ID STEREOLITHOGRAPHY
+ER
+
+PT S
+ER
+
+PT B
+DE multiple sequence alignments (MSAs); feature selection; machine
+   learning; support vector machine (SVM)
+ID DATABASE; UNIPROT
+ER
+
+PT S
+DE Support Vector Machine; Monte Carlo; Diffuse Reflected Light; Biological
+   Tissues
+ER
+
+PT J
+DE Molecular machines; Photochromic compounds; Ferrocene; Polymerization
+   initiator; Protein engineering
+ID CONFORMATIONAL DYNAMICS; CHAPERONIN COMPLEX; CRYSTAL-STRUCTURE; ROTARY
+   MODULES; RING ROTATION; ATP SYNTHASE; NANOFIBERS; BIPHENYL; PROTEIN;
+   GROEL
+ER
+
+PT B
+DE Control methods; Exoskeleton robot; Human-machine interaction; Impedance
+   control; Neuro-Fuzzy control
+ID ASSIST
+ER
+
+PT B
+DE Formal modelling; X-machines; Spatial agents
+ID SYSTEMS; MODELS
+ER
+
+PT S
+DE Bionic vibration damping technology; Morphological structure;
+   Woodpecker; Cursorial animal; Milling cutter
+ID BRAIN-INJURY; WOODPECKERS
+ER
+
+PT J
+DE Electro-Chemical Discharge Machining; Micro Hole Processing; Smallest
+   Diameter; Glass
+ER
+
+PT S
+ER
+
+PT J
+DE Evolutionary computation; Darwinian evolution; Punctuated equilibria
+ID DIGITAL ORGANISMS; MULLERS RATCHET; RATES; REPLICATION; TRANSITIONS;
+   LANDSCAPES; DNA
+ER
+
+PT S
+DE Parallel biological computers; amorphous computers; slime mould
+ID LOGIC GATES; OPERATIONS; PULSES
+ER
+
+PT B
+DE Control analysis; gene expression; metabolism; gene mutation
+ID HIDDEN MARKOV-MODELS; COMPUTATION; SEQUENCES
+ER
+
+PT J
+DE Biological warfare agents; Fast detection system; Multi-species
+   classification; Species identification
+ID ENHANCED RAMAN-SPECTROSCOPY; SUPPORT VECTOR MACHINES; BIOWARFARE AGENTS;
+   NEURAL-NETWORKS; CLASSIFICATION; IMMUNOASSAY; ASSAYS; FEVER
+ER
+
+PT J
+DE Self-maintenance; Engineering Immune Systems; Prognostics and health
+   management; Resilient systems; Condition based maintenance; Machinery
+   maintenance; Resilient control; Cloud computing
+ER
+
+PT J
+ID MOLECULAR MOTORS; ENGINES
+ER
+
+PT S
+ID POLARITY
+ER
+
+PT S
+DE Support Vector Machine; Machine Learning; Biological Terms
+   Identification; Biological Data Mining
+ER
+
+PT J
+ID YOUNG-CHILDREN; REALITY DISTINCTION; CAUSAL INFERENCES; FANTASY; EVENTS;
+   MIND; PRESCHOOLERS; INFORMATION; MONSTERS; ANIMALS
+ER
+
+PT J
+ID INDUCED BREAKDOWN SPECTROSCOPY; FEMTOSECOND LASER; LIGHT FILAMENTS;
+   TRANSPARENT MEDIA; REMOTE DETECTION; PULSES; PROPAGATION; FABRICATION;
+   PHYSICS; METALS
+ER
+
+PT J
+ER
+
+PT J
+ID PLASMODIUM
+ER
+
+PT B
+DE Co-evolution; Co-development; Cladistics; Planar Graphs; Tanglegrams
+ID PHYLOGENIES
+ER
+
+PT J
+DE bioMEMS; computer vision; drops; lab-on-a-chip; microfluidics; molecular
+   biophysics
+ID ON-A-CHIP; ELECTROWETTING-BASED ACTUATION; GENE-EXPRESSION; SYSTEMS
+   BIOLOGY; LIQUID DROPLETS; INPUT FUNCTIONS; MALDI-MS; MICROSCOPY; ASSAYS
+ER
+
+PT B
+DE cybernetics; emulator; Synthetic Intelligence; Autonomous systems;
+   Intelligent machines
+ER
+
+PT B
+DE DNA computation; self-assembly; nanomachine; nanobiotechnology;
+   molecular communication
+ID DNA NANOSTRUCTURES; FLEXIBILITY; OCTAHEDRON; LIGANDS
+ER
+
+PT B
+DE rough sets; support vector machines; attribute reduction; biological
+   data classification; information entropy
+ID RECOGNITION
+ER
+
+PT B
+DE protein stabiligy prediction; biological feature selection; support
+   vector machines; machine learning
+ID HYDROPHOBICITY; RESIDUES; SCALE; MUTATIONS; ACCURACY; MACHINE; DNA
+ER
+
+PT S
+ID ALGORITHMS
+ER
+
+PT S
+ER
+
+PT B
+DE biological effects of radiation; modeling; probability
+ID LUNG-CANCER; PARAMETERS
+ER
+
+PT J
+DE semantic biological feedback; "man-machine" systems monitoring;
+   functional state of an operator; information flows processing;
+   engineering psychology
+ER
+
+PT S
+ID EVOLVABLE VIRTUAL MACHINES
+ER
+
+PT J
+DE biological imaging; image analysis; image datasets; benchmarks
+ID SUBCELLULAR STRUCTURES; ELECTRON-MICROSCOPY; DATABASE; PATTERNS
+ER
+
+PT J
+DE biological computing; DNA computing; single robot cell; multiple robot
+   cell; flexible manufacturing; automated manufacturing
+ID ROBOTIC CELLS; DNA; FMS; ALGORITHMS
+ER
+
+PT J
+DE thermal fluctuation; single molecule measurements; biological molecular
+   machines; protein dynamics; Brownian movement
+ID MYOSIN-V; SINGLE; ACTIN; STEPS; FILAMENTS; MOTOR; MOVES; HEAD
+ER
+
+PT J
+ER
+
+PT J
+DE biomimetic; bistable rotaxanes; bottom-up fabrication; molecular
+   machines; nanotechnotogy
+ID MOTOR PROTEINS; ATP SYNTHASE; DNA WALKER; KINESIN; MICROTUBULES;
+   TRANSPORT; MOTION; ROTATION; SHUTTLE; NANOVALVES
+ER
+
+PT B
+ER
+
+PT S
+DE biological inspired music; music composition; representation techniques;
+   comparative analysis; Time Delay Neural Networks; finite state machines;
+   inductive learning
+ER
+
+PT B
+DE organic computing; Machine Biological Clock; Knowledge-Based Operating
+   System
+ER
+
+PT J
+ID MICROSCOPY
+ER
+
+PT J
+DE thermodynamics; biological motors; single molecule kinetics
+ID HAND-OVER-HAND; KINESIN MOLECULES; DIMERIC KINESIN; RNA-POLYMERASE; 8-NM
+   STEP; FORCE; ATP; TEMPERATURE; MECHANISM; VELOCITY
+ER
+
+PT S
+ER
+
+PT S
+DE support vector machine; kernel; biological sequence data; computational
+   cost
+ID KERNELS
+ER
+
+PT S
+DE neural network; finite state machine; moving light display; human
+   biological motion
+ID PERCEPTION; MODEL
+ER
+
+PT S
+DE service robotics; mobile robot; human-machine interaction
+ER
+
+PT S
+DE systems biology; metabolic networks; symbolic-statistical frameworks;
+   machine learning; statistical relational learning
+ID LOGIC PROGRAMS
+ER
+
+PT S
+DE molecular biophysics; nonequilibrium statistical thermodynamics;
+   molecular machines
+ER
+
+PT J
+ID EXPRESSION
+ER
+
+PT S
+ID SUPPORT VECTOR MACHINES; STRING KERNELS; IDENTIFICATION; PREDICTION
+ER
+
+PT S
+DE system architecture; micro machine vision; micromanipulating system;
+   biological micromanipulation
+ER
+
+PT S
+ER
+
+PT J
+ER
+
+PT J
+DE ceteris paribus; cybernetics; machine experiments; material models;
+   mechanisms; robotics; explanation of adaptive behaviour
+ID CEREBELLUM; BEHAVIOR
+ER
+
+PT J
+ER
+
+PT J
+ID ROBOTS
+ER
+
+PT J
+ID MEAN 1ST-PASSAGE TIME; INTRAMOLECULAR DYNAMICS; BIOCHEMICAL PROCESSES;
+   ELECTRON-TRANSFER; CYTOCHROME BC(1); FRACTAL LATTICES; DOMAIN MOVEMENT;
+   ATPASE RATES; MUSCLE; ACTOMYOSIN
+ER
+
+PT J
+ID RICE-DWARF-VIRUS; ATOMIC-STRUCTURE; 3-DIMENSIONAL STRUCTURE; ANGSTROM
+   RESOLUTION; ACROSOMAL BUNDLE; PROTEIN FOLD; MICROSCOPY; ACTIN;
+   MECHANISM; MODEL
+ER
+
+PT J
+ER
+
+PT S
+DE immunotronic system; hardware fault detection; tolerance conditions;
+   antibody diversity; symbiotic evolution
+ID TOLERANCE
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT S
+ID GAUSSIAN MIXTURE NETWORK; NEURAL NETWORKS
+ER
+
+PT S
+ID STICK INSECT; PATTERN GENERATION; LOCOMOTION; MOVEMENTS; LEG
+ER
+
+PT J
+ER
+
+PT J
+ID MULTIPLE SEQUENCE ALIGNMENT; PROTEIN KNOWLEDGEBASE; IDENTIFICATION;
+   DATABASE
+ER
+
+PT J
+DE biomimetic actuators; biomimetic smart materials; contractility;
+   cytoskeleton; molecular machines; motor proteins; protein-based polymers
+ID RESONANCE ENERGY-TRANSFER; ATP SYNTHASE; MOLECULAR SHUTTLES; MOTOR
+   PROTEIN; MICROTUBULE MOVEMENTS; BIOMOLECULAR MOTOR; ACTIN CYTOSKELETON;
+   VOLUME REGULATION; UNZIPPING DNA; MYOSIN MOTOR
+ER
+
+PT J
+ER
+
+PT J
+DE bacteria classification; bioinformatics; kernel machines; mixing kernel
+   matrices
+ID GYRB
+ER
+
+PT S
+DE natural language processing; data mining; machine learning;
+   bioinformatics; and software application
+ID EXTRACTION; DISCOVERY; KNOWLEDGE; TOOL
+ER
+
+PT S
+DE biological sensing; computational intelligence; subway biodefense;
+   information fusion; machine learning
+ER
+
+PT B
+ER
+
+PT B
+DE biological modeling move-in-mud robot; motion process; computer
+   simulation; openGL
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT B
+ER
+
+PT J
+ER
+
+PT J
+DE computational neuroscience; spiking neurons; dynamic synapses; finite
+   state machines; grammatical inference
+ID NEOCORTICAL PYRAMIDAL NEURONS; COMPUTATIONAL POWER; NETWORKS; SYNAPSES
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT J
+DE production system; holonic manufacturing system; process planning;
+   machining sequence; machining features; genetic algorithm; dynamic
+   programming
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+PT B
+ER
+
+PT B
+ID OPTICAL-FLOW; PATTERNS
+ER
+
+PT J
+DE SVM; QSAR; ANN; classification; cross-validation
+ID NEURAL-NETWORKS
+ER
+
+PT J
+ER
+
+PT J
+ER
+
+EF

@@ -1,0 +1,320 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,software defined networking,30,software defined networking,67
+1,software-defined networking,28,software-defined networking,58
+2,software defined network,18,openflow,51
+3,openflow,17,sdn,42
+4,sdn,14,software defined network,39
+5,software-defined,12,software-defined,28
+6,software-defined network,9,cloud computing,22
+7,cloud computing,9,software defined,22
+8,software defined networks,8,software-defined network,20
+9,network,7,network,18
+10,software defined,7,software defined networks,16
+11,software-defined networks,5,pox,12
+12,software-defined networking (sdn),5,firewall,12
+13,network function virtualization,4,software-defined networks,11
+14,software defined radio,4,data center,11
+15,open flow,4,open flow,11
+16,network virtualization,4,wireless sensor network,11
+17,wireless sensor network,4,network virtualization,9
+18,data center,3,software defined security,9
+19,fault tolerance,3,mininet,9
+20,ddos,3,software defined radio,8
+21,wireless sensor networks,3,software-defined networking (sdn),8
+22,software-defined optical networks,3,fault tolerance,7
+23,security,3,ddos,7
+24,network-on-chip,3,iot,7
+25,software defined security,3,wsn,7
+26,pox,3,wireless sensor networks,6
+27,firewall,3,network function virtualization,6
+28,software,3,software-defined optical networks,6
+29,mininet,3,security,6
+30,software-defined radio,2,network-on-chip,6
+31,network reliability,2,software,6
+32,software-defined wireless networks,2,software-defined radio,5
+33,virtualization,2,hypervisor,5
+34,internet of things,2,iaas,5
+35,internet of things (iot),2,network instances,5
+36,software-defined infrastructure,2,openstack,5
+37,5g,2,software-defined infrastructure,5
+38,satellite network,2,5g,5
+39,failure recovery,2,failure recovery,5
+40,openflow protocol,2,openflow protocol,5
+41,software defined network (sdn),2,wireless,5
+42,iot,2,optical,5
+43,optical access network,2,hybrid sdn,5
+44,bandwidth optimization,2,openflow (of),5
+45,passive optical networks,2,network reliability,4
+46,wireless,2,software-defined wireless networks,4
+47,wsn,2,virtualization,4
+48,optical,2,internet of things,4
+49,wireless virtualization,2,internet of things (iot),4
+50,hybrid sdn,2,sdsec,4
+51,openflow (of),2,sds,4
+52,deep reinforcement learning (drl),1,cloud traffic,4
+53,in-band network telemetry (int),1,dscp code,4
+54,distributed optimization,1,ip header,4
+55,mobile 5g hetnets,1,optical access network,4
+56,radio access network,1,bandwidth optimization,4
+57,flow splitting optimization (fso) algorithm,1,passive optical networks,4
+58,radio spectrum,1,sofware defined networks,4
+59,hypervisor,1,tcp window,4
+60,iaas,1,moment,4
+61,network instances,1,backhaul,4
+62,openstack,1,flexibility,4
+63,computer network security,1,bootstrap,4
+64,learning,1,auto-configuration,4
+65,software-defined networking architecture,1,traffic path,4
+66,software defined infrastructure,1,node function,4
+67,underwater sensor networks,1,software defined network(sdn),4
+68,network topology,1,dpi,4
+69,dijkstra's shortest path,1,securtiy,4
+70,switch,1,wireless virtualization,4
+71,testbed,1,ids,4
+72,really experiment device,1,floodlight,4
+73,software defined networking (sda),1,ad-hoc,4
+74,open networking foundation (om),1,switch,3
+75,sdn security,1,testbed,3
+76,control plane,1,really experiment device,3
+77,cloud manufacturing,1,sdn security,3
+78,cybersecurity,1,control plane,3
+79,space information network,1,bluetooth,3
+80,next-generation satellite networks,1,bluetooth profile,3
+81,flow mobility,1,digital radio,3
+82,software defined networking (sdn),1,denial of service attack,3
+83,sdn controller,1,sflow,3
+84,software-defined networking (son),1,virtual data center,3
+85,software defined wireless rechargeable sensor,1,traffic,3
+86,device manager,1,linux progfe,3
+87,software-defined wireless sensor networks,1,crowdsensing,3
+88,network architecture design,1,data uploading,3
+89,bluetooth,1,multipoint-to-point,3
+90,bluetooth profile,1,smart urban sensing,3
+91,digital radio,1,vanets,3
+92,metro-access networks,1,applications,3
+93,denial of service attack,1,simulation,3
+94,sflow,1,corporate network,3
+95,virtual data center,1,complex service,3
+96,traffic,1,qos criterion,3
+97,quantum key distribution,1,resources,3
+98,linux progfe,1,conventional networks,3
+99,network virtualization (nv),1,data networks,3
+100,crowdsensing,1,satellite network,3
+101,data uploading,1,multiple routing configurations,3
+102,multipoint-to-point,1,arp protocol,3
+103,smart urban sensing,1,control,3
+104,data center network,1,tactical networks,3
+105,multinomial logit model,1,mobility,3
+106,vanets,1,coalition,3
+107,applications,1,coalition networks,3
+108,software defined network controller,1,coalition operations,3
+109,spanning tree protocol,1,software defined network (sdn),3
+110,inter-domain routing,1,incident response,3
+111,optical network,1,forensics,3
+112,smart network,1,switches,3
+113,ethernet,1,security in iot,3
+114,address resolution protocol,1,rest api,3
+115,simulation,1,northbound interface,3
+116,corporate network,1,application,3
+117,multipath transport mechanism,1,satellite networks,3
+118,complex service,1,handover,3
+119,qos criterion,1,latency,3
+120,resources,1,consistency,3
+121,multi-broker,1,policy update,3
+122,multi-domain,1,qos provisioning,3
+123,scalable video coding,1,fog computing,3
+124,video streaming,1,wide area networks,3
+125,open security devices,1,architecture on demand (aod),3
+126,security resources scheduling,1,elastic optical networks,3
+127,software definded security,1,matlab,3
+128,network controller,1,computing resources,3
+129,scientific workflows,1,routing,3
+130,networked clouds,1,load balancing,3
+131,data flow prioritization,1,quality of service,3
+132,conventional networks,1,neural network,3
+133,data networks,1,traffic prediction,3
+134,energy consumption,1,modelling,3
+135,airborne information network,1,distributed hybrid cloud storage,3
+136,multiple routing configurations,1,software-defined storage,3
+137,arp protocol,1,rai,3
+138,control,1,availability,3
+139,tactical networks,1,virtual network,3
+140,mobility,1,reliability,3
+141,coalition,1,energy,3
+142,coalition networks,1,visual network descriptor,3
+143,coalition operations,1,software defined antenna,3
+144,sdsec,1,millimeter wave,3
+145,sds,1,metamaterials,3
+146,software-defined network (sdn),1,low c-swap,3
+147,software defined network exchange (sdx),1,sdn migration,3
+148,incident response,1,ospf,3
+149,forensics,1,bandwidth utilization,3
+150,switches,1,multicast,3
+151,security in iot,1,routing algorithms,3
+152,rest api,1,access network,3
+153,northbound interface,1,netconf,3
+154,application,1,object-oriented abstraction,3
+155,satellite networks,1,ontology,3
+156,handover,1,cognitive radio,3
+157,latency,1,reconfigurability,3
+158,device-to-device (d2d) communications,1,multi-agent system,3
+159,business architecture,1,real-time scheduling,3
+160,internet-of-things (iot),1,adaptability,3
+161,sdn use,1,sdr,3
+162,consistency,1,satellite,3
+163,policy update,1,satellite communications,3
+164,software defined systems,1,graph,3
+165,cloud traffic,1,network management,3
+166,dscp code,1,campus network,3
+167,ip header,1,design,3
+168,optical fiber communication,1,photonic,3
+169,optical modulation,1,central controller,3
+170,optical receivers,1,3dtv service,3
+171,flexible,1,streaming architecture,3
+172,sofware defined networks,1,flexible wdm grid,3
+173,tcp window,1,optical networking,3
+174,moment,1,filter,3
+175,wireless sensor,1,hybrid networks,3
+176,moving target defense,1,tunable components,3
+177,qos provisioning,1,distributed optimization,2
+178,fog computing,1,mobile 5g hetnets,2
+179,wide area networks,1,radio access network,2
+180,backhaul,1,radio spectrum,2
+181,flexibility,1,computer network security,2
+182,bootstrap,1,learning,2
+183,auto-configuration,1,software defined infrastructure,2
+184,virtual optical network,1,network topology,2
+185,software-defined optical network,1,dijkstra's shortest path,2
+186,node,1,cloud manufacturing,2
+187,real-time ethernet,1,cybersecurity,2
+188,architecture on demand (aod),1,space information network,2
+189,elastic optical networks,1,flow mobility,2
+190,matlab,1,software defined networking (sdn),2
+191,software defined wireless networking,1,sdn controller,2
+192,power control,1,device manager,2
+193,game theory,1,metro-access networks,2
+194,software defined wifi networks,1,quantum key distribution,2
+195,performance evaluation,1,network virtualization (nv),2
+196,measurement,1,data center network,2
+197,data-driven services,1,multinomial logit model,2
+198,software-defined protection,1,software defined network controller,2
+199,intelligent software,1,spanning tree protocol,2
+200,quality of service(qos),1,inter-domain routing,2
+201,computing resources,1,optical network,2
+202,traffic path,1,smart network,2
+203,node function,1,ethernet,2
+204,software defined network(sdn),1,address resolution protocol,2
+205,dpi,1,multi-broker,2
+206,routing,1,multi-domain,2
+207,load balancing,1,scalable video coding,2
+208,quality of service,1,video streaming,2
+209,application-based network operations,1,open security devices,2
+210,content-centric networking,1,security resources scheduling,2
+211,content source,1,software definded security,2
+212,securtiy,1,network controller,2
+213,neural network,1,scientific workflows,2
+214,traffic prediction,1,networked clouds,2
+215,modelling,1,data flow prioritization,2
+216,security architecture,1,energy consumption,2
+217,controller security,1,software-defined network (sdn),2
+218,software defined wireless network,1,business architecture,2
+219,intra-datacenter optical interconnection,1,internet-of-things (iot),2
+220,distributed hybrid cloud storage,1,sdn use,2
+221,software-defined storage,1,software defined systems,2
+222,rai,1,optical fiber communication,2
+223,resilience,1,optical modulation,2
+224,disaster survivability,1,optical receivers,2
+225,software-defined security,1,flexible,2
+226,service-oriented computing,1,wireless sensor,2
+227,vehicular ad hoc networks,1,moving target defense,2
+228,availability,1,virtual optical network,2
+229,optical data centre (dc),1,software-defined optical network,2
+230,virtual,1,node,2
+231,composite service provisioning,1,software defined wireless networking,2
+232,software-defined cloud,1,power control,2
+233,5g wireless system,1,game theory,2
+234,scalability,1,software defined wifi networks,2
+235,multi-domain brokering,1,performance evaluation,2
+236,load-balancing,1,measurement,2
+237,controller placement,1,data-driven services,2
+238,placement algorithms,1,software-defined protection,2
+239,number of controllers,1,intelligent software,2
+240,virtual network,1,quality of service(qos),2
+241,reliability,1,application-based network operations,2
+242,energy,1,content-centric networking,2
+243,visual network descriptor,1,content source,2
+244,ids,1,security architecture,2
+245,floodlight,1,controller security,2
+246,software defined antenna,1,software defined wireless network,2
+247,millimeter wave,1,resilience,2
+248,metamaterials,1,disaster survivability,2
+249,low c-swap,1,software-defined security,2
+250,mobility management,1,service-oriented computing,2
+251,mobile host node,1,vehicular ad hoc networks,2
+252,traffic dispatching,1,optical data centre (dc),2
+253,metro networks,1,virtual,2
+254,ip over optical networks,1,composite service provisioning,2
+255,mobile ad hoc wireless network,1,software-defined cloud,2
+256,sdn migration,1,5g wireless system,2
+257,ospf,1,scalability,2
+258,opendaylight,1,multi-domain brokering,2
+259,optical transport network,1,load-balancing,2
+260,heterogeneous network,1,controller placement,2
+261,packet-switched,1,placement algorithms,2
+262,ad-hoc,1,number of controllers,2
+263,data centers,1,mobility management,2
+264,network resource management,1,mobile host node,2
+265,bandwidth utilization,1,traffic dispatching,2
+266,multicast,1,metro networks,2
+267,routing algorithms,1,ip over optical networks,2
+268,fuzzy analytical hierarchy,1,mobile ad hoc wireless network,2
+269,middlebox,1,opendaylight,2
+270,model checking,1,optical transport network,2
+271,network functions virtualisation,1,heterogeneous network,2
+272,access network,1,packet-switched,2
+273,netconf,1,data centers,2
+274,object-oriented abstraction,1,network resource management,2
+275,ontology,1,fuzzy analytical hierarchy,2
+276,cognitive radio,1,middlebox,2
+277,reconfigurability,1,international telecommunication union,2
+278,international telecommunication union,1,open source networking,2
+279,open source networking,1,traffic engineering,2
+280,traffic engineering,1,virtual network embedding,2
+281,virtual network embedding,1,network smart,2
+282,network smart,1,vanet,2
+283,multi-agent system,1,wireless networks,2
+284,real-time scheduling,1,next generation optical access network,2
+285,adaptability,1,software-defined flex pon,2
+286,sdr,1,dsp,2
+287,satellite,1,elastic optical network (eon),2
+288,satellite communications,1,network coding,2
+289,vanet,1,satellite network architecture,2
+290,wireless networks,1,d2d communications,2
+291,next generation optical access network,1,controller design,2
+292,software-defined flex pon,1,qos routing,2
+293,dsp,1,complexity,2
+294,graph,1,telecom network,2
+295,network management,1,software defined optical network,2
+296,network function,1,transport,2
+297,elastic optical network (eon),1,deep reinforcement learning (drl),1
+298,network coding,1,in-band network telemetry (int),1
+299,campus network,1,flow splitting optimization (fso) algorithm,1
+300,design,1,software-defined networking architecture,1
+301,satellite network architecture,1,underwater sensor networks,1
+302,d2d communications,1,software defined networking (sda),1
+303,photonic,1,open networking foundation (om),1
+304,central controller,1,next-generation satellite networks,1
+305,3dtv service,1,software-defined networking (son),1
+306,streaming architecture,1,software defined wireless rechargeable sensor,1
+307,controller design,1,software-defined wireless sensor networks,1
+308,qos routing,1,network architecture design,1
+309,complexity,1,multipath transport mechanism,1
+310,ipv6 transition,1,airborne information network,1
+311,flexible wdm grid,1,software defined network exchange (sdx),1
+312,optical networking,1,device-to-device (d2d) communications,1
+313,telecom network,1,real-time ethernet,1
+314,software defined optical network,1,intra-datacenter optical interconnection,1
+315,transport,1,model checking,1
+316,filter,1,network functions virtualisation,1
+317,hybrid networks,1,network function,1
+318,tunable components,1,ipv6 transition,1

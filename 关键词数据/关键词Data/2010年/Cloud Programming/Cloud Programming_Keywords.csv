@@ -1,0 +1,391 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,cloud computing,77,cloud computing,213
+1,cloud,13,cloud,43
+2,mapreduce,9,mapreduce,27
+3,scheduling,4,optimization,13
+4,optimization,4,big data,13
+5,big data,4,security,13
+6,programming,4,programming,13
+7,linear programming,4,scheduling,12
+8,mobile cloud computing,3,linear programming,12
+9,integer linear,3,integer linear,9
+10,cloud services,3,cloud services,9
+11,security,3,saas,9
+12,cloud federation,3,paas,9
+13,e-learning,3,cloud federation,9
+14,distributed computing,3,e-learning,9
+15,programming models,3,programming models,9
+16,java,2,iaas,8
+17,federation of clouds,2,distributed computing,8
+18,cloud haskell,2,mobile cloud computing,7
+19,cloud networks,2,java,7
+20,aspect-oriented programming,2,cloud network,7
+21,offloading,2,cost,7
+22,hybrid cloud,2,cloud haskell,6
+23,saas,2,cloud networks,6
+24,paas,2,offloading,6
+25,iaas,2,online compiler,6
+26,cloud manufacturing,2,performance,6
+27,cloud applications,2,interoperability,6
+28,cloud network,2,cloud robotics,6
+29,online compiler,2,standards,6
+30,software architecture,2,cloud broker,6
+31,models at runtime,2,cloud storage,6
+32,cost,2,federation of clouds,5
+33,performance,2,aspect-oriented programming,5
+34,interoperability,2,bluemix,5
+35,cloud robotics,2,automation,5
+36,standards,2,hybrid,5
+37,cloud broker,2,containers,5
+38,distributed systems,2,cloud applications,5
+39,cloud storage,2,process container,5
+40,cloud programming model,2,isolation,5
+41,control service,1,process-based,5
+42,cloud-based controller,1,cloud compiler,5
+43,web-based control system,1,iis server,5
+44,computing access point,1,front tier,5
+45,offloading decision,1,middle tier,5
+46,code migration,1,back tier,5
+47,spark,1,code migration,4
+48,multi-cloud,1,spark,4
+49,scientific workflow,1,remote sensing,4
+50,bag-of-tasks workflows,1,data management,4
+51,task scheduling,1,image,4
+52,cloud robotic system,1,cyber insurance,4
+53,task assignment,1,cybersecurity,4
+54,latency,1,mobile cloud,4
+55,remote sensing,1,stochastic,4
+56,data management,1,learning management system,4
+57,image,1,business process,4
+58,universities,1,pricing strategy,4
+59,emerging educational programs,1,time,4
+60,e learning,1,knx,4
+61,virtual computer lab,1,network,4
+62,programming courses,1,prosumer,4
+63,actor model,1,cache,4
+64,manycore,1,network load balancing,4
+65,haskell,1,cloud manufacturing,4
+66,parallel programming,1,immediate system call structure db,4
+67,eval monad,1,system call,4
+68,many-core,1,key,4
+69,dynamic programming,1,value,4
+70,markov decision process,1,software architecture,4
+71,quality of,1,models at runtime,4
+72,cyber insurance,1,authenticity,4
+73,cybersecurity,1,digital preservation,4
+74,mobile cloud,1,integrity,4
+75,stochastic,1,interpares,4
+76,cloud context,1,archival,4
+77,application testing,1,availability,4
+78,internet services,1,reliability,4
+79,heterogeneous cloud,1,cloud service providers,4
+80,integral linear programming (ilp),1,parameters,4
+81,parallel programming model,1,users,4
+82,android,1,rough set,4
+83,cloud system,1,runtime,4
+84,cost optimization,1,mobile communication,4
+85,computing instances,1,mobile computing,4
+86,distributed environment,1,energy,4
+87,fuzzy decision,1,distributed systems,4
+88,integer linear programming,1,virtualization,4
+89,federated hybrid clouds,1,workloads,4
+90,bag-of-tasks applications,1,mobility,4
+91,binary,1,ovf,4
+92,ontology,1,cloud middleware,4
+93,algebra of algorithms,1,ip/wdm,4
+94,design and synthesis of programs,1,power consumption,4
+95,public cloud,1,popularity,4
+96,web,1,replication,4
+97,internet,1,femtocell,4
+98,virtual machines placement,1,cooperative game,4
+99,constraint programming,1,coalition,4
+100,learning management system,1,game theoretic,4
+101,bluemix,1,enterprise cloud,4
+102,automation,1,soa,4
+103,hybrid,1,enterprise management,4
+104,containers,1,private,4
+105,component,1,cloud program,4
+106,serverless computing,1,pricing,4
+107,function as a service,1,pay-as-you-go,4
+108,program understanding,1,elastic clouds,4
+109,log,1,intention modeling,4
+110,business process,1,paa,4
+111,pricing strategy,1,xacml,4
+112,time,1,automated planing,4
+113,smart partitioning mechanism,1,cloud programming model,4
+114,intermediate,1,multi-cloud,3
+115,api testing,1,scientific workflow,3
+116,test automation,1,bag-of-tasks workflows,3
+117,resource management,1,task scheduling,3
+118,reinforcement learning,1,cloud robotic system,3
+119,markov,1,task assignment,3
+120,resource allocation,1,latency,3
+121,mathematical programming,1,universities,3
+122,linear,1,emerging educational programs,3
+123,parallel execution of library routines,1,e learning,3
+124,knx,1,virtual computer lab,3
+125,network,1,programming courses,3
+126,prosumer,1,actor model,3
+127,earth observation satellites,1,manycore,3
+128,uncertainties of clouds,1,haskell,3
+129,proactive,1,parallel programming,3
+130,cache,1,eval monad,3
+131,network load balancing,1,many-core,3
+132,program synthesis,1,dynamic programming,3
+133,data analysis,1,markov decision process,3
+134,verification,1,quality of,3
+135,optimization method,1,cloud context,3
+136,analytic hierarchy process,1,parallel programming model,3
+137,model checking,1,android,3
+138,design errors detection,1,federated hybrid clouds,3
+139,cost model,1,bag-of-tasks applications,3
+140,java programming,1,binary,3
+141,program verification,1,public cloud,3
+142,self-verifying execution,1,web,3
+143,cloud-api integration,1,internet,3
+144,mobile development,1,hybrid cloud,3
+145,server-less programming models,1,serverless computing,3
+146,coordination,1,function as a service,3
+147,cloud of things,1,program understanding,3
+148,fault tolerance,1,log,3
+149,heterogeneous systems,1,smart partitioning mechanism,3
+150,computation outsourcing,1,intermediate,3
+151,data security,1,resource management,3
+152,cryptosystem,1,reinforcement learning,3
+153,internet of things,1,markov,3
+154,cloud brokering,1,resource allocation,3
+155,virtual machine placement,1,mathematical programming,3
+156,cloud deployment,1,linear,3
+157,computation patterns,1,cost model,3
+158,join calculus,1,java programming,3
+159,robotics,1,coordination,3
+160,domain specific languages,1,cloud of things,3
+161,control software,1,fault tolerance,3
+162,adaptive cloud computing,1,heterogeneous systems,3
+163,cloud service monitoring,1,computation outsourcing,3
+164,cloud service,1,data security,3
+165,resource provisioning,1,cryptosystem,3
+166,two-stage stochastic,1,internet of things,3
+167,energy awareness,1,cloud deployment,3
+168,semantic discovery,1,computation patterns,3
+169,cloud apis,1,join calculus,3
+170,cloud resources,1,robotics,3
+171,cloud portability,1,domain specific languages,3
+172,iot cloud applications programming,1,control software,3
+173,software-defined gateways,1,energy awareness,3
+174,iot cloud,1,semantic discovery,3
+175,ensemble learning,1,cloud apis,3
+176,genetic programming,1,cloud resources,3
+177,symbolic,1,cloud portability,3
+178,fair scheduler,1,ensemble learning,3
+179,electronic program guide (epg),1,genetic programming,3
+180,k-nearest neighbor,1,symbolic,3
+181,program obfuscation,1,program obfuscation,3
+182,confidentiality,1,confidentiality,3
+183,program analysis,1,program analysis,3
+184,immediate system call structure db,1,profit optimization,3
+185,system call,1,distributed allocation,3
+186,key,1,request,3
+187,value,1,web apis,3
+188,hybrid cloud management,1,service level agreements,3
+189,authenticity,1,course design,3
+190,digital preservation,1,autonomic computing,3
+191,integrity,1,legal compliance,3
+192,interpares,1,multi-objective programming,3
+193,archival,1,dynamic,3
+194,profit optimization,1,genetic,3
+195,distributed allocation,1,dispersion algorithms,3
+196,request,1,multi-cloud selection,3
+197,availability,1,api,3
+198,reliability,1,design patterns,3
+199,cloud service providers,1,service matchmaking,3
+200,parameters,1,service matching,3
+201,users,1,service marketplaces,3
+202,rough set,1,cloud storage service,3
+203,web apis,1,non-functional evaluation factors,3
+204,service level agreements,1,apis,3
+205,course design,1,price,3
+206,autonomic computing,1,education cloud,3
+207,legal compliance,1,education informatization,3
+208,multi-objective programming,1,proxy-based model,3
+209,dynamic,1,raas unit module,3
+210,genetic,1,workflows,3
+211,dispersion algorithms,1,programming languages,3
+212,multi-cloud selection,1,web services,3
+213,api,1,auditing,3
+214,design patterns,1,compute-intensive program,3
+215,service matchmaking,1,game theory,3
+216,service matching,1,virtual machine,3
+217,service marketplaces,1,data center,3
+218,cloud storage service,1,services,3
+219,non-functional evaluation factors,1,refactoring,3
+220,apis,1,service extraction,3
+221,price,1,cloud interoperability,3
+222,gene expression programming,1,service brokerage,3
+223,cyber physical power system,1,architecture patterns,3
+224,intrusion,1,cloud security,3
+225,education cloud,1,secret sharing,3
+226,education informatization,1,secure computation,3
+227,proxy-based model,1,performance as a service,3
+228,raas unit module,1,load balancing,3
+229,workflows,1,multithreaded,3
+230,programming languages,1,hybrid services,3
+231,web services,1,human-based computation,3
+232,integrated development environments,1,service,3
+233,collaboration systems,1,matlab,3
+234,software-defined networking (sdn),1,translator,3
+235,broker,1,predict,3
+236,vehicular cloud serving,1,ai applications,3
+237,distributed cloud network,1,utility computing,3
+238,cloud service distribution,1,cloud computing services,3
+239,software defined,1,e-learning cloud,3
+240,auditing,1,distributed application,3
+241,compute-intensive program,1,abstraction,3
+242,game theory,1,object-oriented,3
+243,"cloud computing services,providers and organizations",1,platform as a service,3
+244,virtual machine,1,enterprise programming,3
+245,data center,1,server,3
+246,process container,1,elasticity,3
+247,isolation,1,netwrok and sevice delays,3
+248,process-based,1,multimedia,3
+249,smart travel cloud,1,robotic services,3
+250,solution program. open source,1,robot as a service,3
+251,services,1,bioinformatics,3
+252,refactoring,1,sequence alignment,3
+253,service extraction,1,service levels,3
+254,access control,1,controller,3
+255,cloud-aware programming,1,aspect-oriented,3
+256,scientific computing,1,migration,3
+257,cloud interoperability,1,checkpoint/restart,3
+258,service brokerage,1,event-based system,3
+259,architecture patterns,1,map/reduce,3
+260,runtime,1,hadoop,3
+261,mobile communication,1,jpa,3
+262,mobile computing,1,service oriented cloud,3
+263,energy,1,microsoft ccr/dss,3
+264,automatic orchestration engine,1,pickup and,3
+265,cloud security,1,stars : formation,3
+266,secret sharing,1,stars : low-mass,3
+267,secure computation,1,brown dwarfs,3
+268,performance as a service,1,stars :,3
+269,load driver,1,control service,2
+270,benchmark,1,cloud-based controller,2
+271,developmental genetic programming,1,web-based control system,2
+272,real-time system,1,computing access point,2
+273,nonlinear integer programming,1,offloading decision,2
+274,resource reservation,1,application testing,2
+275,application partitioning,1,internet services,2
+276,offloading algorithm,1,heterogeneous cloud,2
+277,load balancing,1,integral linear programming (ilp),2
+278,multithreaded,1,cloud system,2
+279,hybrid services,1,cost optimization,2
+280,human-based computation,1,computing instances,2
+281,service,1,distributed environment,2
+282,constrained optimization,1,fuzzy decision,2
+283,open-source api implementation,1,integer linear programming,2
+284,application portability,1,ontology,2
+285,matlab,1,algebra of algorithms,2
+286,translator,1,design and synthesis of programs,2
+287,smartphones,1,virtual machines placement,2
+288,portable engineering station terminal,1,constraint programming,2
+289,predict,1,api testing,2
+290,ai applications,1,test automation,2
+291,utility computing,1,parallel execution of library routines,2
+292,cloud computing services,1,earth observation satellites,2
+293,e-learning cloud,1,uncertainties of clouds,2
+294,cloud compiler,1,proactive,2
+295,iis server,1,program synthesis,2
+296,front tier,1,data analysis,2
+297,middle tier,1,verification,2
+298,back tier,1,optimization method,2
+299,cloud-based services,1,analytic hierarchy process,2
+300,assessment of efficiency,1,model checking,2
+301,data mining,1,design errors detection,2
+302,parallel computing,1,program verification,2
+303,online editor,1,self-verifying execution,2
+304,private cloud computing,1,cloud-api integration,2
+305,ace,1,cloud brokering,2
+306,network virtualization,1,virtual machine placement,2
+307,fault-tolerant embedding,1,adaptive cloud computing,2
+308,virtualization,1,cloud service monitoring,2
+309,workloads,1,cloud service,2
+310,mobility,1,resource provisioning,2
+311,ovf,1,two-stage stochastic,2
+312,cloud middleware,1,iot cloud applications programming,2
+313,ip/wdm,1,software-defined gateways,2
+314,power consumption,1,iot cloud,2
+315,popularity,1,fair scheduler,2
+316,replication,1,electronic program guide (epg),2
+317,distributed hash tables,1,k-nearest neighbor,2
+318,distributed application,1,hybrid cloud management,2
+319,abstraction,1,gene expression programming,2
+320,object-oriented,1,cyber physical power system,2
+321,platform as a service,1,intrusion,2
+322,enterprise programming,1,integrated development environments,2
+323,server,1,collaboration systems,2
+324,cloud manufacturing service platform,1,software-defined networking (sdn),2
+325,cloudanalyst,1,broker,2
+326,elasticity,1,vehicular cloud serving,2
+327,netwrok and sevice delays,1,distributed cloud network,2
+328,multimedia,1,cloud service distribution,2
+329,cloud management,1,software defined,2
+330,femtocell,1,smart travel cloud,2
+331,cooperative game,1,solution program. open source,2
+332,coalition,1,access control,2
+333,game theoretic,1,cloud-aware programming,2
+334,clustering,1,scientific computing,2
+335,robotic services,1,automatic orchestration engine,2
+336,robot as a service,1,load driver,2
+337,concurrent programming,1,benchmark,2
+338,distribution computation,1,developmental genetic programming,2
+339,bioinformatics,1,real-time system,2
+340,sequence alignment,1,nonlinear integer programming,2
+341,service levels,1,resource reservation,2
+342,controller,1,application partitioning,2
+343,aspect-oriented,1,offloading algorithm,2
+344,service development,1,constrained optimization,2
+345,object-oriented programming,1,open-source api implementation,2
+346,migration,1,application portability,2
+347,checkpoint/restart,1,smartphones,2
+348,event-based system,1,portable engineering station terminal,2
+349,enterprise cloud,1,cloud-based services,2
+350,soa,1,assessment of efficiency,2
+351,enterprise management,1,data mining,2
+352,private,1,parallel computing,2
+353,cloud program,1,online editor,2
+354,pricing,1,private cloud computing,2
+355,pay-as-you-go,1,ace,2
+356,discrete-event simulation,1,network virtualization,2
+357,performance prediction,1,fault-tolerant embedding,2
+358,information flow control,1,distributed hash tables,2
+359,secure cloud computing,1,cloud manufacturing service platform,2
+360,domain-specific,1,cloudanalyst,2
+361,digitalization,1,cloud management,2
+362,employment information,1,clustering,2
+363,elastic clouds,1,concurrent programming,2
+364,intention modeling,1,distribution computation,2
+365,paa,1,service development,2
+366,xacml,1,object-oriented programming,2
+367,automated planing,1,discrete-event simulation,2
+368,resource discovery,1,performance prediction,2
+369,flaw and configuration,1,information flow control,2
+370,cloud component,1,secure cloud computing,2
+371,open-source code,1,domain-specific,2
+372,collaborative learning,1,digitalization,2
+373,learning programs,1,employment information,2
+374,map/reduce,1,resource discovery,2
+375,hadoop,1,flaw and configuration,2
+376,jpa,1,cloud component,2
+377,program,1,open-source code,2
+378,program management,1,collaborative learning,2
+379,cloud-based applications,1,learning programs,2
+380,grid computing,1,program,2
+381,programming method,1,program management,2
+382,data-intensive computing,1,cloud-based applications,2
+383,service oriented cloud,1,grid computing,2
+384,microsoft ccr/dss,1,programming method,2
+385,pickup and,1,data-intensive computing,2
+386,stars : formation,1,component,1
+387,stars : low-mass,1,mobile development,1
+388,brown dwarfs,1,server-less programming models,1
+389,stars :,1,"cloud computing services,providers and organizations",1

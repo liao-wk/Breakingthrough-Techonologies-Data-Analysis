@@ -1,0 +1,123 @@
+,Keyword_1,frequency,Keyword_2,degreee
+0,domain wall,4,racetrack memory,11
+1,racetrack memory,3,domain wall,11
+2,nanowire,3,nanowire,10
+3,crystal structure,2,crystal structure,7
+4,spintronics,2,spintronics,5
+5,biaryls,2,biaryls,5
+6,exchange bias,2,wettability,5
+7,micromagnetic simulation,2,contact angle,5
+8,domain wall motion,2,crystal packing,5
+9,field sensor,1,indexing,5
+10,giant magnetoresistance (gmr),1,aspirin,5
+11,magnetic engineering,1,x-ray,5
+12,domain wall structure,1,exchange bias,5
+13,domain wall energy,1,micromagnetic simulation,5
+14,domain wall width,1,molecular beam epitaxy,5
+15,domain,1,mn4n,5
+16,acenes,1,ni4n,5
+17,alkynes,1,mgo,5
+18,aromatic compounds,1,magnetic,5
+19,organic materials,1,mumax3,5
+20,short electrode,1,notches,5
+21,electric-acoustic stimulation,1,breathing mode,5
+22,sensorineural,1,mobility,5
+23,hearing,1,skyrmion,5
+24,organic field effect transistors,1,domain wall motion,5
+25,organic,1,ferrite-garnet,4
+26,half-metallic ferromagnets,1,heat capacity,4
+27,heusler compounds,1,entropy,4
+28,topological,1,domain wall structure,3
+29,simvastatin,1,domain wall energy,3
+30,inflammation,1,domain wall width,3
+31,endothelial cells,1,domain,3
+32,cell adhesion molecules,1,acenes,3
+33,synthase,1,alkynes,3
+34,rho gtpase,1,aromatic compounds,3
+35,domain wall dynamics,1,organic materials,3
+36,domain wall pinning,1,short electrode,3
+37,spin,1,electric-acoustic stimulation,3
+38,cytotoxicity,1,sensorineural,3
+39,haemolytic activity,1,hearing,3
+40,surfactant-lipid interactions,1,half-metallic ferromagnets,3
+41,dppc,1,heusler compounds,3
+42,palladium,1,topological,3
+43,suzuki cross-coupling,1,simvastatin,3
+44,ullmann cross-coupling,1,inflammation,3
+45,wettability,1,endothelial cells,3
+46,contact angle,1,cell adhesion molecules,3
+47,crystal packing,1,domain wall dynamics,3
+48,indexing,1,domain wall pinning,3
+49,aspirin,1,spin,3
+50,x-ray,1,cytotoxicity,3
+51,polychlorinated biphenyls (pcbs),1,haemolytic activity,3
+52,sulfates,1,surfactant-lipid interactions,3
+53,environmental contaminants,1,dppc,3
+54,dioxin-like pcbs,1,palladium,3
+55,dihedral angle,1,suzuki cross-coupling,3
+56,crystal,1,ullmann cross-coupling,3
+57,shooting gallery,1,environmental contaminants,3
+58,injecting drug use,1,dioxin-like pcbs,3
+59,drug settings,1,dihedral angle,3
+60,harm reduction,1,crystal,3
+61,precessional magnetodynamics,1,shooting gallery,3
+62,magnetoelastic coupling,1,injecting drug use,3
+63,straintronics,1,drug settings,3
+64,x-ray magnetic circular dichroism,1,harm reduction,3
+65,photoemission electron microscopy,1,core-shell nanowires,3
+66,dipolar interaction,1,monte carlo,3
+67,core-shell nanocylinders,1,ferromagnetism,3
+68,core-shell nanowires,1,landau-lifschitz equation,3
+69,monte carlo,1,asymptotic process,3
+70,spin pumping,1,full rotation,3
+71,ferromagnetic resonance,1,loop-shape,3
+72,spin-orbitronics,1,ambient vibrations,3
+73,y-shaped nanostructure,1,energy harvesting,3
+74,spin-orbit torque,1,internet of,3
+75,damping-like term,1,high density,3
+76,magnetic switching direction,1,ring-shaped,3
+77,ferrite-garnet,1,l2 cache,3
+78,heat capacity,1,field sensor,2
+79,entropy,1,giant magnetoresistance (gmr),2
+80,magneto-optical kerr effect microscopy,1,magnetic engineering,2
+81,vortex domain wall,1,organic field effect transistors,2
+82,depinning,1,organic,2
+83,spin orbit torque,1,polychlorinated biphenyls (pcbs),2
+84,interface effect,1,sulfates,2
+85,perpendicular anisotropy,1,precessional magnetodynamics,2
+86,perpendicular magnetic anisotropy,1,magnetoelastic coupling,2
+87,dzyaloshinskii-moriya,1,straintronics,2
+88,ferromagnetism,1,dipolar interaction,2
+89,landau-lifschitz equation,1,core-shell nanocylinders,2
+90,asymptotic process,1,spin pumping,2
+91,nanoparticles,1,ferromagnetic resonance,2
+92,ferrite,1,spin-orbitronics,2
+93,rare earth elements,1,y-shaped nanostructure,2
+94,full rotation,1,spin-orbit torque,2
+95,loop-shape,1,damping-like term,2
+96,molecular beam epitaxy,1,magnetic switching direction,2
+97,mn4n,1,magneto-optical kerr effect microscopy,2
+98,ni4n,1,vortex domain wall,2
+99,mgo,1,depinning,2
+100,magnetic,1,spin orbit torque,2
+101,charge distribution,1,interface effect,2
+102,ferromagnet/oxide interface,1,perpendicular anisotropy,2
+103,interfacial magnetic,1,perpendicular magnetic anisotropy,2
+104,micro-magnetic simulation,1,dzyaloshinskii-moriya,2
+105,bloch point,1,nanoparticles,2
+106,edge defect,1,ferrite,2
+107,mumax3,1,rare earth elements,2
+108,notches,1,charge distribution,2
+109,breathing mode,1,ferromagnet/oxide interface,2
+110,mobility,1,interfacial magnetic,2
+111,skyrmion,1,micro-magnetic simulation,2
+112,ambient vibrations,1,bloch point,2
+113,energy harvesting,1,edge defect,2
+114,internet of,1,magnetic tunneling junctions,2
+115,high density,1,magnetoresistance,2
+116,ring-shaped,1,multilevel states,2
+117,l2 cache,1,collective coordinate modeling,2
+118,magnetic tunneling junctions,1,synthase,1
+119,magnetoresistance,1,rho gtpase,1
+120,multilevel states,1,x-ray magnetic circular dichroism,1
+121,collective coordinate modeling,1,photoemission electron microscopy,1

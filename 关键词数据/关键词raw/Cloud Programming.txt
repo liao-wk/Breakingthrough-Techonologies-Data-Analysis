@@ -1,0 +1,886 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT S
+DE Control service; Cloud-based controller; Web-based control system;
+   Automation system
+ER
+
+PT J
+DE Mobile cloud computing; computing access point; offloading decision;
+   resource allocation; energy cost; computation cost; delay cost
+ID ADMISSION CONTROL; OPTIMIZATION; EXECUTION; POLICY; USERS
+ER
+
+PT J
+DE cloud computing; code migration; Java; MapReduce; Spark
+ID MAPREDUCE TRANSLATOR; CLOUD
+ER
+
+PT J
+DE Multi-cloud; Scheduling; Scientific workflow; Integer linear
+   programming; Cost minimization
+ID MINIMIZATION; ALGORITHM; STRATEGY; SERVICE
+ER
+
+PT J
+DE Federation of clouds; Scheduling; Bag-of-tasks workflows; Integer linear
+   programming; Cost minimization
+ID HYBRID CLOUDS; SCIENTIFIC WORKFLOWS
+ER
+
+PT J
+DE Cloud computing; Task scheduling; Optimization; Integer Linear
+   Programming; Energy consumption; Genetic algorithm; Cloud data centers
+ID SCHEDULING ALGORITHM; ENVIRONMENT
+ER
+
+PT B
+DE cloud robotic system; task assignment; scheduling; latency
+ER
+
+PT S
+DE cloud computing; remote sensing; big data; data management; image
+   processing
+ID MAPREDUCE
+ER
+
+PT S
+DE Cloud Computing; Big Data; Universities; Emerging educational programs;
+   India; MSc; MTech; BTech; Industry-integrated learning
+ER
+
+PT J
+ER
+
+PT B
+DE Cloud computing; E learning; virtual computer lab; programming courses;
+   virtual programming practice lab
+ER
+
+PT B
+DE Actor Model; Manycore; Haskell; Cloud Haskell
+ER
+
+PT B
+DE Parallel Programming; Eval Monad; Cloud Haskell; Many-core
+ER
+
+PT J
+DE Cloud networks; dynamic programming; Markov decision process; quality of
+   experience
+ID MULTIDIMENSIONAL KNAPSACK-PROBLEM; REPLICA PLACEMENT; ALGORITHMS
+ER
+
+PT S
+DE Cyber insurance; cybersecurity; cloud services; mobile cloud; stochastic
+   programming
+ER
+
+PT J
+DE Aspect-Oriented Programming; Cloud Computing; Cloud Context; Cloud
+   Security Service; Dynamic Joinpoints; Security Crosscutting Concerns;
+   Web Services
+ER
+
+PT J
+DE Application Testing; Cloud Computing; Internet Services
+ER
+
+PT J
+DE Cloud computing; heterogeneous cloud; integral linear programming (ILP);
+   task placement
+ID COMPUTATIONAL APPLICATIONS
+ER
+
+PT J
+DE Mobile cloud computing; Parallel programming model; Android; Offloading;
+   Checkpointing; Distributed hash table
+ID LANGUAGE
+ER
+
+PT J
+DE Cloud system; Cost optimization; Computing instances
+ER
+
+PT J
+DE Distributed environment; Fuzzy decision; Integer linear programming;
+   Service providers; Virtual machine
+ID MODEL
+ER
+
+PT J
+DE Federated hybrid clouds; Scheduling; Bag-of-tasks applications; Binary
+   linear programming; Cost minimization; Deadline constrained
+ER
+
+PT J
+DE ontology; algebra of algorithms; design and synthesis of programs;
+   parallel program; cloud computing
+ER
+
+PT B
+DE Cloud computing; public cloud; web; internet
+ER
+
+PT S
+DE Hybrid Cloud; Virtual Machines Placement; Constraint Programming
+ID INFRASTRUCTURE
+ER
+
+PT S
+ID FRAGMENTATION; PRIVACY
+ER
+
+PT B
+DE learning management system; cloud computing; SaaS; PaaS; IaaS
+ID COMPUTATION
+ER
+
+PT J
+ER
+
+PT S
+ER
+
+PT B
+DE cloud; Bluemix; automation; hybrid; security; containers;
+   infrastructure; IaaS; PaaS
+ER
+
+PT S
+DE component; hybrid cloud
+ER
+
+PT S
+ID PARALLEL EXECUTION; ALGORITHM; STANDARD
+ER
+
+PT S
+DE serverless computing; function as a service; program understanding; log
+   visualization; cloud computing
+ER
+
+PT S
+ID ALGORITHM
+ER
+
+PT B
+DE Business Process; Cloud Computing; Optimization; Pricing Strategy; Time
+ID SUPPLIER SELECTION
+ER
+
+PT S
+ER
+
+PT S
+ER
+
+PT S
+DE MapReduce; Cloud Computing; Smart Partitioning Mechanism; Intermediate
+   Data Skew
+ID MAPREDUCE
+ER
+
+PT S
+DE API testing; test automation; cloud computing
+ER
+
+PT J
+DE Cloud networks; resource management; reinforcement learning; Markov
+   decision process; approximate dynamic programming
+ID ADMISSION CONTROL; NETWORKS
+ER
+
+PT J
+DE Cloud federation; resource allocation; mathematical programming; linear
+   integer programming; pricing
+ER
+
+PT J
+DE Parallel execution of library Routines; Cloud computing; Programming
+   language independence
+ID STANDARD; FORTRAN; CORBA
+ER
+
+PT J
+DE cloud computing; KNX; programming; network; prosumer
+ER
+
+PT J
+DE Earth observation satellites; Uncertainties of clouds; Proactive
+   scheduling; Chance constraint programming; Sample approximation; Branch
+   and cut
+ID PRESELECTIVE STRATEGIES; CUT ALGORITHM; GRAPH; OPTIMIZATION;
+   CONSTRAINTS; FORMULATION; MISSION; ORBIT
+ER
+
+PT J
+DE Cache; Network load balancing; Cloud computing; MapReduce; Cloud;
+   Website
+ER
+
+PT J
+DE program synthesis; data analysis; verification
+ER
+
+PT J
+DE Optimization method; Cloud manufacturing; Analytic Hierarchy Process;
+   Dynamic programming; Value network
+ID APPLICATION SERVICE PROVIDER; GRID SYSTEM; RESOURCE; ASP; TECHNOLOGY;
+   SELECTION
+ER
+
+PT B
+DE model checking; cloud applications; design errors detection
+ER
+
+PT J
+DE cloud network; cost model; optimization; linear programming
+ER
+
+PT S
+ID PERFORMANCE
+ER
+
+PT S
+ER
+
+PT B
+DE java programming; online compiler; e-Learning; cloud computing
+ER
+
+PT B
+ID INTRUSION DETECTION; SERVICE
+ER
+
+PT B
+DE program verification; self-verifying execution; cloud-API integration;
+   single-sign-on (SSO)
+ER
+
+PT B
+DE Mobile development; server-less programming models
+ER
+
+PT B
+DE coordination; cloud of things; fault tolerance; heterogeneous systems;
+   programming language
+ER
+
+PT B
+DE cloud computing; computation outsourcing; data security; cryptosystem;
+   Linear Fractional problem; Dual theorem
+ID COMPUTATION; SECURITY
+ER
+
+PT S
+ID SOFTWARE CHANGES
+ER
+
+PT S
+ER
+
+PT S
+DE Internet of Things; Cloud Computing; Distributed Computing; Java
+   Programming Framework
+ER
+
+PT S
+DE Cloud Computing; Cloud Brokering; Virtual Machine Placement;
+   Optimization; Genetic Algorithm
+ER
+
+PT B
+DE Cloud deployment; cloud computing; computation patterns; join calculus
+ID JOINS; MAPREDUCE
+ER
+
+PT B
+DE cloud computing; robotics; domain specific languages; control software;
+   distributed systems
+ER
+
+PT B
+DE adaptive cloud computing; cloud service monitoring; cloud service
+   management; descriptive language
+ER
+
+PT B
+DE Resource provisioning; cloud computing; two-stage stochastic
+   programming; cost saving
+ER
+
+PT S
+DE programming models; distributed computing; energy awareness; cloud
+   computing
+ID WORKFLOW; CLOUD
+ER
+
+PT J
+DE semantic discovery; cloud APIs; cloud resources; cloud portability;
+   cloud interoperability
+ER
+
+PT J
+ER
+
+PT J
+DE IoT cloud applications programming; Software-defined gateways; IoT cloud
+   systems
+ER
+
+PT J
+DE Cloud computing; Ensemble learning; Genetic programming; Symbolic
+   regression
+ID ENSEMBLES; REGRESSION; MODELS
+ER
+
+PT J
+ER
+
+PT J
+DE Fair scheduler; Electronic program guide (EPG); K-nearest neighbor
+   (kNN); K-means; Tf-Idf
+ID PERSONALIZED TV; ALGORITHM; NETWORKS; VIEWERS; MARKET
+ER
+
+PT J
+DE Cloud computing; Program obfuscation; Confidentiality; Program analysis;
+   Security
+ER
+
+PT J
+ER
+
+PT J
+DE Immediate system call structure DB; System call; Cloud; Key; Value;
+   Domain; Sequence; intrusive; Trace; Program list file; Client VM
+ID INTRUSION DETECTION
+ER
+
+PT S
+DE Hybrid Cloud Management; Software Architecture; Models at Runtime
+ID MANAGEMENT
+ER
+
+PT B
+DE Authenticity; Digital Preservation; Integrity; InterPARES; Archival
+   Diplomatics; Digital Records; Cloud
+ER
+
+PT S
+DE Cloud federation; profit optimization; distributed allocation; request
+   splitting; linear integer programming
+ER
+
+PT S
+DE Cloud network; availability; cost; reliability; linear programming
+ER
+
+PT B
+DE Cloud Computing; Cloud Service Providers; Parameters; Users; Rough Set
+   Theory; Cloud Service Organizations; RRPSP Algorithm
+ER
+
+PT S
+ID ENERGY
+ER
+
+PT S
+ER
+
+PT S
+DE Web APIs; Performance; Service Level Agreements; Cloud Computing
+ER
+
+PT S
+DE cloud computing; programming; big data; course design
+ER
+
+PT B
+DE Cloud Computing; Autonomic Computing; Legal Compliance; Optimization
+ER
+
+PT B
+DE cloud computing; multi-objective programming; dynamic; genetic
+   algorithm; virtual machine placement
+ID OPTIMIZATION
+ER
+
+PT B
+DE Dispersion algorithms; Cloud services; Multi-cloud selection; Cloud
+   Storage
+ID SECURITY
+ER
+
+PT B
+DE API; cloud; interoperability; design patterns
+ER
+
+PT B
+DE Service matchmaking; Service matching; Cloud; Service marketplaces;
+   Constraint Programming
+ER
+
+PT B
+ER
+
+PT S
+DE cloud storage service; non-functional evaluation factors; APIs; price;
+   service selection
+ER
+
+PT B
+DE gene expression programming; cyber physical power system; intrusion
+   detection; cloud computing
+ER
+
+PT B
+DE education cloud; cloud computing; education informatization; e-learning
+ER
+
+PT S
+DE Cloud Robotics; Proxy-based Model; RaaS Unit Module; Offloading
+   Strategy; Lua Programming Language; Speech Recognition; XiaoNan Home
+   Service Robot
+ER
+
+PT B
+DE cloud; workflows; programming languages; web services
+ER
+
+PT S
+DE Cloud; Integrated Development Environments; collaboration systems;
+   programming environments
+ER
+
+PT S
+DE Software-Defined networking (SDN); Broker; Vehicular cloud serving
+   system; Linear programming algorithm; Dijkstra's algorithm
+ER
+
+PT S
+DE distributed cloud network; cloud service distribution; software defined
+   networking; network functions virtualization
+ER
+
+PT S
+DE auditing; compute-intensive program; cloud computing; game theory;
+   service level agreement
+ER
+
+PT S
+DE Cloud Computing; Cloud Computing Services,Providers and Organizations;
+   Users; RRPSP Algorithm; Cloud Sim
+ER
+
+PT S
+ER
+
+PT S
+DE Cloud computing; Virtual machine; Data center; Linear programming
+ID HUB LOCATION-PROBLEMS; CENTER TRAFFIC CHARACTERISTICS
+ER
+
+PT J
+DE PaaS; security; cloud; process container; isolation; process-based
+ID ENCRYPTION
+ER
+
+PT B
+DE Cloud computing; smart travel cloud; solution program. open source
+   software
+ER
+
+PT J
+DE Cloud computing; Services; Refactoring; Service extraction;
+   Fault-tolerance; Program transformation
+ID SOFTWARE SYSTEMS; WEB SERVICES
+ER
+
+PT J
+ER
+
+PT J
+DE Cloud computing; Programming models; Interoperability; Standards
+ER
+
+PT S
+DE Access control; Aspect-Oriented Programming; Cloud computing;
+   Information flow control; In-lined Reference Monitors; Security
+ID LANGUAGE; POLICIES
+ER
+
+PT B
+DE Cloud Computing; Cloud-aware programming; Scientific Computing;
+   Bag-of-tasks
+ER
+
+PT S
+DE Programming models; Cloud interoperability; Cloud federation; Standards
+ER
+
+PT S
+ID PERFORMANCE PREDICTION; SPACE EXPLORATION; SYSTEMS; ALLOCATION;
+   MANAGEMENT
+ER
+
+PT S
+ER
+
+PT S
+DE Cloud Broker; Service Brokerage; Architecture Patterns; Cloud Broker
+   Comparison; State-of-the-art Review; Research Challenges
+ER
+
+PT J
+DE Runtime; Mobile communication; Mobile computing; Programming; Energy
+   efficiency; Optimization; Adaptive systems; runtime adaptation; energy
+   efficiency; cloud offloading; distributed computing
+ER
+
+PT B
+DE automatic orchestration engine; distributed systems; cloud
+   infrastructure
+ER
+
+PT B
+DE cloud computing; cloud security; secret sharing; secure computation
+ER
+
+PT S
+DE Cloud Storage; Cloud Computing; Performance as a Service; Big Data
+ID EFFICIENT
+ER
+
+PT S
+DE load driver; benchmark; cloud computing
+ID MANAGEMENT
+ER
+
+PT S
+DE cloud computing; developmental genetic programming; real-time system;
+   quality of service
+ID INTERNET; THINGS
+ER
+
+PT S
+DE cloud computing; nonlinear integer programming; resource reservation;
+   virtualization
+ER
+
+PT S
+DE Mobile Cloud Computing; application partitioning; offloading algorithm
+ER
+
+PT B
+DE Online Compiler; Cloud Computing; Load Balancing; Multithreaded
+   Programming
+ER
+
+PT J
+DE Hybrid services; cloud computing; human-based computation; service
+   computing
+ID INCENTIVES; SYSTEMS; WEB
+ER
+
+PT J
+ER
+
+PT J
+ID INTEGRATION; MARKET
+ER
+
+PT J
+DE Distributed systems; Cloud computing; Constrained optimization
+ID WORKFLOWS; GRIDS
+ER
+
+PT J
+DE Cloud computing; Open-source API implementation; Application portability
+ER
+
+PT J
+ER
+
+PT J
+DE MapReduce; Matlab; translator; cloud computing
+ER
+
+PT B
+ID INTERNET; THINGS
+ER
+
+PT B
+DE Cloud computing; smartphones; portable engineering station terminal;
+   portable asset management terminal
+ER
+
+PT S
+DE Cloud computing; predict; cost; performance
+ER
+
+PT S
+DE Cloud Computing; AI Applications; Cloud Storage; Utility Computing;
+   Cloud Compiling
+ER
+
+PT S
+DE Cloud computing; Cloud computing services; e-Learning; e-Learning cloud;
+   Programming education environment
+ER
+
+PT S
+DE Cloud Compiler; SaaS; IIS server; Front Tier; Middle Tier; Back Tier
+ER
+
+PT S
+DE Cloud-based services; assessment of efficiency; linear programming;
+   model; information technologies
+ER
+
+PT S
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT B
+DE cloud computing; data mining; parallel computing
+ER
+
+PT B
+DE Online Editor; Private Cloud Computing; Ace
+ER
+
+PT S
+DE Cloud Computing; Network Virtualization; Fault-tolerant embedding
+   algorithm; Linear Programming
+ID INTERNET
+ER
+
+PT B
+ER
+
+PT S
+ER
+
+PT B
+DE virtualization; workloads; mobility; OVF; cloud middleware
+ER
+
+PT S
+ER
+
+PT S
+DE Cloud computing; IP/WDM; power consumption; popularity; replication
+ER
+
+PT B
+DE cloud computing; MapReduce; Distributed Hash Tables
+ER
+
+PT S
+DE cloud computing; distributed application; abstraction; object-oriented
+   programming; interoperability
+ER
+
+PT B
+DE Cloud Computing; Platform as a Service; Enterprise Programming; Server
+   Side Programming; IBM Smartcloud Enterprise; Google App Engine
+ER
+
+PT B
+DE Cloud Manufacturing; Cloud Manufacturing Service Platform; CloudAnalyst;
+   Cost Function
+ER
+
+PT S
+DE MapReduce; Cloud Computing; Elasticity; Netwrok and Sevice Delays;
+   Queueing Analysis; Performance
+ER
+
+PT J
+DE cloud computing; multimedia; MapReduce; security
+ID CLOUD; ISSUES
+ER
+
+PT J
+DE cloud management; software architecture; models at runtime
+ER
+
+PT B
+DE femtocell; cloud computing; cooperative game; coalition; game theoretic;
+   profit
+ID CORE
+ER
+
+PT S
+DE Clustering; Cloud Computing; MapReduce
+ER
+
+PT B
+DE Robotic Services; Robot as a Service; Cloud Robotics; Cloud Computing;
+   Cloud Robots
+ER
+
+PT B
+DE Cloud Computing; Concurrent Programming; Distribution Computation;
+   Erlang Programming Language
+ER
+
+PT S
+DE Cloud computing; MapReduce; bioinformatics; sequence alignment
+ID SHORT READ ALIGNMENT; ULTRAFAST
+ER
+
+PT B
+DE cloud applications; service levels; controller; aspect-oriented
+   programming; software development
+ER
+
+PT S
+ER
+
+PT S
+DE cloud computing; service development; object-oriented programming;
+   interoperability
+ER
+
+PT B
+DE cloud; migration; checkpoint/restart; event-based system
+ER
+
+PT S
+DE cloud computing; enterprise cloud; SOA; enterprise management; private
+   cloud
+ER
+
+PT S
+ER
+
+PT S
+DE cloud program; cloud computing; pricing; pay-as-you-go; Iaas
+ER
+
+PT S
+DE Cloud Computing; Discrete-event Simulation; Performance Prediction
+ID SYSTEM
+ER
+
+PT S
+DE information flow control; secure cloud computing; domain-specific
+   languages; homomorphic encryption; multiparty computation
+ID FULLY HOMOMORPHIC ENCRYPTION; SECURE MULTIPARTY COMPUTATION
+ER
+
+PT S
+DE cloud computing; digitalization; employment information
+ER
+
+PT J
+ID CONDENSATION NUCLEI SPECTRA; RAINDROP SIZE DISTRIBUTION; DUAL-POLARIZED
+   RADAR; AEROSOL-PARTICLES; DIFFERENTIAL REFLECTIVITY; PRECIPITATION
+   DEVELOPMENT; CONVECTIVE CLOUDS; FLORIDA CUMULUS; WARM CLOUDS; MARITIME
+ER
+
+PT S
+DE Elastic Clouds; Intention Modeling; PAA; XACML; Automated Planing
+ER
+
+PT S
+ER
+
+PT S
+DE Cloud Computing; Cloud Programming Model; Resource Discovery
+ER
+
+PT S
+DE flaw and configuration; Cloud component; open-source code
+ER
+
+PT B
+DE cloud services; collaborative learning; learning programs
+ER
+
+PT S
+DE Map/Reduce; Hadoop; JPA; Cloud Computing
+ER
+
+PT S
+DE program; cloud computing; program management
+ER
+
+PT S
+ID CLOUD; MANAGEMENT
+ER
+
+PT S
+ER
+
+PT S
+DE Cloud programming model; Federation of Clouds; Cloud-based applications
+ER
+
+PT J
+ER
+
+PT B
+DE Grid Computing; Cloud Computing; Programming Method
+ER
+
+PT J
+DE cloud computing; data-intensive computing; distributed computing
+ER
+
+PT J
+ID ENVIRONMENTAL SATELLITE SYSTEM; BULK SCATTERING PROPERTIES; IMAGER
+   RADIOMETER SUITE; MICROPHYSICAL PROPERTIES; RADIATIVE PROPERTIES;
+   OPTICAL-THICKNESS; CLIMATE MODELS; ICE CLOUDS; PARAMETERIZATION; FIRE
+ER
+
+PT S
+ER
+
+PT B
+DE cloud computing; service oriented cloud; microsoft CCR/DSS; pickup and
+   delivery problem with time window
+ER
+
+PT J
+ID RADIATIVE-TRANSFER; SOLAR-RADIATION; ATMOSPHERIC RADIATION; EFFECTIVE
+   SIZES; CIRRUS CLOUDS; HEATING RATES; WATER CLOUDS; PART II; SATELLITE;
+   MODELS
+ER
+
+PT J
+ER
+
+PT J
+ID PLATFORMS
+ER
+
+PT J
+DE stars : formation; stars : low-mass; brown dwarfs; stars :
+   pre-main-sequence
+ID MASS STAR-FORMATION; MOLECULAR CLOUDS; DARK CLOUDS; DENSE CORES;
+   CONTINUUM EMISSION; INITIAL CONDITIONS; ASSOCIATION; SCUBA; DISTANCE;
+   PERSEUS
+ER
+
+PT J
+ID FEEDBACK
+ER
+
+PT J
+ER
+
+PT J
+ID SHORTWAVE EXPERIMENT ARESE; CLOUD; PARAMETERIZATION; ABSORPTION;
+   RETRIEVAL; AIRCRAFT; SUCCESS
+ER
+
+EF
